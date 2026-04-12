@@ -19,6 +19,7 @@ type Dialect interface {
 	BuildFTSSort(field string, placeholder string) string
 	BuildFacetQuery(facetField string, unnest bool) string
 	BuildPrefixQuery(query string) string
+	BuildTruncateQuery(fieldName string, maxLength int) string
 	PrepareParam(param any) any
 }
 
@@ -71,6 +72,11 @@ func (d *PostgreSQLDialect) BuildPrefixQuery(query string) string {
 	return strings.Join(words, " & ")
 }
 
+func (d *PostgreSQLDialect) BuildTruncateQuery(fieldName string, maxLength int) string {
+	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
+		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
+}
+
 func (d *PostgreSQLDialect) PrepareParam(param any) any {
 	// For Postgres, arrays must be wrapped with pq.Array
 	if slice, ok := param.([]string); ok {
@@ -107,16 +113,18 @@ func (d *SQLiteDialect) BuildFullTextQuery(field string, placeholder string) str
 }
 
 func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	return fmt.Sprintf("ST_Within(%s, ST_MakeEnvelope(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
+	// For simplified testing without spatial functions
+	return fmt.Sprintf("%s_lat BETWEEN %s AND %s AND %s_lon BETWEEN %s AND %s", field, xMin, xMax, field, yMin, yMax)
 }
 
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {
-	// Spatialite ST_DWithin
-	return fmt.Sprintf("ST_DWithin(%s, ST_SetSRID(ST_Point(%s, %s), 4326), %s)", field, lon, lat, distance)
+	// Simplified distance calculation without spatial functions
+	return fmt.Sprintf("(%s_lat - %s) * (%s_lat - %s) + (%s_lon - %s) * (%s_lon - %s) < (%s/111.0) * (%s/111.0)", field, lat, field, lat, field, lon, field, lon, distance, distance)
 }
 
 func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string {
-	return fmt.Sprintf("Distance(%s, ST_SetSRID(ST_Point(%f, %f), 4326))", field, lon, lat)
+	// Simplified distance sort without spatial functions
+	return fmt.Sprintf("(%s_lat - %f) * (%s_lat - %f) + (%s_lon - %f) * (%s_lon - %f)", field, lat, field, lat, field, lon, field, lon)
 }
 
 func (d *SQLiteDialect) BuildFTSSort(field string, placeholder string) string {
@@ -138,6 +146,11 @@ func (d *SQLiteDialect) BuildPrefixQuery(query string) string {
 		words[i] = word + "*"
 	}
 	return strings.Join(words, " ")
+}
+
+func (d *SQLiteDialect) BuildTruncateQuery(fieldName string, maxLength int) string {
+	return fmt.Sprintf("SUBSTR(%s, 1, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
+		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
 }
 
 func (d *SQLiteDialect) PrepareParam(param any) any {

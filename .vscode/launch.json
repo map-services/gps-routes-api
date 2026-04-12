@@ -9,8 +9,9 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "main.go",
-            "args": ["api-server", "8080"]
+            "program": "main_sqlite.go",
+            "args": ["api-server", "8080"],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Import data",

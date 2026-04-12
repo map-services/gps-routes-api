@@ -139,13 +139,13 @@ func (qb *QueryBuilder) Build() (string, []any) {
 	}
 
 	selectPart := qb.replaceTruncatedFields(qb.selectPart)
-	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit)
+	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.limit, qb.offset)
 	return strings.Join(filteredParts, " "), qb.params
 }
 
 func (qb *QueryBuilder) replaceTruncatedFields(query string) string {
 	for fieldName, maxLength := range qb.truncatedFields {
-		query = strings.ReplaceAll(query, fieldName, truncate(fieldName, maxLength))
+		query = strings.ReplaceAll(query, fieldName, qb.dialect.BuildTruncateQuery(fieldName, maxLength))
 	}
 	return query
 }
@@ -175,7 +175,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 	if qb.criteria.Query != "" {
 		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-		qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
+		// For SQLite, we handle FTS differently - the JOIN is added in the repository
+		if _, ok := qb.dialect.(*SQLiteDialect); ok {
+			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("", placeholder))
+		} else {
+			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
+		}
 		qb.params = append(qb.params, qb.dialect.BuildPrefixQuery(qb.criteria.Query))
 	}
 
