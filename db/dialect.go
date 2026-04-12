@@ -113,18 +113,18 @@ func (d *SQLiteDialect) BuildFullTextQuery(field string, placeholder string) str
 }
 
 func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	// For simplified testing without spatial functions
-	return fmt.Sprintf("%s_lat BETWEEN %s AND %s AND %s_lon BETWEEN %s AND %s", field, xMin, xMax, field, yMin, yMax)
+	// return fmt.Sprintf("ST_Within(%s, ST_MakeEnvelope(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
+	return fmt.Sprintf("longitude >= %s AND latitude >= %s AND longitude <= %s AND latitude <= %s", xMin, yMin, xMax, yMax)
 }
 
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {
 	// Simplified distance calculation without spatial functions
-	return fmt.Sprintf("(%s_lat - %s) * (%s_lat - %s) + (%s_lon - %s) * (%s_lon - %s) < (%s/111.0) * (%s/111.0)", field, lat, field, lat, field, lon, field, lon, distance, distance)
+	return fmt.Sprintf("(latidude - %s) * (latidude - %s) + (longitude - %s) * (longitude - %s) < (%s/111.0) * (%s/111.0)", lat, lat, lon, lon, distance, distance)
 }
 
 func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string {
 	// Simplified distance sort without spatial functions
-	return fmt.Sprintf("(%s_lat - %f) * (%s_lat - %f) + (%s_lon - %f) * (%s_lon - %f)", field, lat, field, lat, field, lon, field, lon)
+	return fmt.Sprintf("(latitude - %f) * (latitude - %f) + (longitude - %f) * (longitude - %f)", lat, lat, lon, lon)
 }
 
 func (d *SQLiteDialect) BuildFTSSort(field string, placeholder string) string {

@@ -98,7 +98,8 @@ func NewHttpApiServer(port int) {
 	}
 
 	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
-	repo := repositories.NewCachedRepository(prometheus, repositories.NewSQLiteRouteRepository(sqliteDB))
+	// repo := repositories.NewCachedRepository(prometheus, repositories.NewSQLiteRouteRepository(sqliteDB))
+	repo := repositories.NewSQLiteRouteRepository(sqliteDB)
 	service := services.NewRoutesService(repo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{

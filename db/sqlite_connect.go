@@ -5,8 +5,6 @@ import (
 	"database/sql"
 	"fmt"
 	"log"
-
-	_ "github.com/mattn/go-sqlite3"
 )
 
 type SQLiteConfig struct {
@@ -18,6 +16,10 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	dsn := fmt.Sprintf("file:%s?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL&_cache_size=10000&_temp_store=MEMORY", config.Path)
 
 	log.Printf("Connecting to SQLite database at %s", config.Path)
+
+	// sql.Register("sqlite3_spatialite", &sqlite3.SQLiteDriver{
+	// 	Extensions: []string{"mod_spatialite"},
+	// })
 
 	// Open the database
 	db, err := sql.Open("sqlite3", dsn)
@@ -75,6 +77,6 @@ func loadSQLiteExtensions(db *sql.DB) error {
 
 func SQLiteConfigFromEnv() SQLiteConfig {
 	return SQLiteConfig{
-		Path: getEnvOrDefault("SQLITE_DB_PATH", "./data/routes.db"),
+		Path: getEnvOrDefault("SQLITE_DB_PATH", "data/routes.db"),
 	}
 }

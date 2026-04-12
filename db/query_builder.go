@@ -150,11 +150,6 @@ func (qb *QueryBuilder) replaceTruncatedFields(query string) string {
 	return query
 }
 
-func truncate(fieldName string, maxLength int) string {
-	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
-		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
-}
-
 func asFieldAlias(fieldName string) string {
 	// if field starts with a table name, e.g. "routes.title", we want to use the field name without the table name as the alias, e.g. "title"
 	parts := strings.Split(fieldName, ".")

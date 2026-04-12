@@ -49,13 +49,13 @@ func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMe
 	_, err = tx.ExecContext(ctx, `
 		INSERT OR REPLACE INTO routes (
 		    object_id, created_at, ref, title, headline_image_url,
-		    gpx_url, _geoloc_lat, _geoloc_lon, distance_km, description, video_url,
+		    gpx_url, longitude, latitude, distance_km, description, video_url,
 		    display_address, postcode, district, county, region,
 			state, country, estimated_duration, difficulty, terrain,
 			points_of_interest, facilities, route_type, activities
 		) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
 		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl,
-		route.GpxUrl, route.StartPosition.Latitude, route.StartPosition.Longitude, route.DistanceKm,
+		route.GpxUrl, route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm,
 		route.Description, route.VideoUrl, route.DisplayAddress, route.Postcode, route.District,
 		route.County, route.Region, route.State, route.Country, route.EstimatedDuration,
 		route.Difficulty, string(terrainJSON), string(pointsOfInterestJSON), string(facilitiesJSON),
@@ -123,24 +123,25 @@ func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMe
 
 func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID string) (*domain.RouteMetadata, error) {
 	mainQuery := `
-		SELECT
-			object_id, ref, title, description, headline_image_url,
-			_geoloc_lat, _geoloc_lon,
-			created_at, gpx_url, distance_km, video_url,
-			display_address, postcode, district, county,
-			region, state, country, estimated_duration,
-			difficulty, terrain, points_of_interest,
-			facilities, route_type, activities
-		FROM routes
-		WHERE object_id = ?`
+			SELECT
+				object_id, ref, title, description, headline_image_url,
+				longitude, latitude,
+				created_at, gpx_url, distance_km, video_url,
+				display_address, postcode, district, county,
+				region, state, country, estimated_duration,
+				difficulty, terrain, points_of_interest,
+				facilities, route_type, activities
+			FROM routes
+			WHERE object_id = ?`
 
 	var route domain.RouteMetadata
 	var latitude, longitude float64
 	var terrainJSON, activitiesJSON, facilitiesJSON, pointsOfInterestJSON string
 
+	// Direct column scan
 	err := repo.db.QueryRowContext(ctx, mainQuery, objectID).Scan(
 		&route.ObjectID, &route.Ref, &route.Title, &route.Description,
-		&route.HeadlineImageUrl, &latitude, &longitude, &route.CreatedAt,
+		&route.HeadlineImageUrl, &longitude, &latitude, &route.CreatedAt,
 		&route.GpxUrl, &route.DistanceKm, &route.VideoUrl, &route.DisplayAddress,
 		&route.Postcode, &route.District, &route.County, &route.Region,
 		&route.State, &route.Country, &route.EstimatedDuration, &route.Difficulty,
@@ -178,11 +179,11 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 
 	// Query nearby
 	nearbySelectPart := `
-		SELECT
-			r.object_id, r.ref, r.title, r.description, r.headline_image_url,
-			r._geoloc_lat, r._geoloc_lon, r.distance_km
-		FROM nearby n
-		INNER JOIN routes r ON n.object_id = r.object_id`
+			SELECT
+				r.object_id, r.ref, r.title, r.description, r.headline_image_url,
+				r.longitude, r.latitude, r.distance_km
+			FROM nearby n
+			INNER JOIN routes r ON n.object_id = r.object_id`
 
 	qb := db.NewQueryBuilder(&db.SQLiteDialect{}, nearbySelectPart, &request.SearchRequest{TruncateText: true}).
 		WithTruncatedField("r.title", 50).
@@ -246,11 +247,12 @@ func (repo *SQLiteDbRepository) CountAll(ctx context.Context, criteria *request.
 }
 
 func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *request.SearchRequest) (*[]domain.RouteSummary, error) {
+
 	selectPart := `
-		SELECT
-			routes.object_id, routes.ref, routes.title, routes.description,
-			routes.headline_image_url, routes._geoloc_lat, routes._geoloc_lon, routes.distance_km
-		FROM routes`
+			SELECT
+				routes.object_id, routes.ref, routes.title, routes.description,
+				routes.headline_image_url, routes.longitude, routes.latitude, routes.distance_km
+			FROM routes`
 
 	if criteria.Query != "" {
 		selectPart += " JOIN routes_fts ON routes.rowid = routes_fts.rowid"
@@ -267,8 +269,8 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 	qb := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
 		WithOrderBy(sortField).
-		WithOffset(criteria.Offset).
-		WithLimit(criteria.Limit)
+		WithLimit(criteria.Limit).
+		WithOffset(criteria.Offset)
 
 	if criteria.TruncateText {
 		qb.WithTruncatedField("routes.title", 50)

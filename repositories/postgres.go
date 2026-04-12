@@ -325,8 +325,8 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 	qb := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithOrderBy(sortField).
-		WithOffset(criteria.Offset).
-		WithLimit(criteria.Limit)
+		WithLimit(criteria.Limit).
+		WithOffset(criteria.Offset)
 
 	if criteria.TruncateText {
 		qb.WithTruncatedField("title", 50)

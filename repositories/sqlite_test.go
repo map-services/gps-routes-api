@@ -33,7 +33,8 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 		t.Fatalf("Failed to create SQLite DB: %v", err)
 	}
 
-	// Create tables (simplified schema for testing)
+	// Create tables (simplified schema for testing - without Spatialite)
+	// Note: Real data/routes.db uses _geoloc with Spatialite spatial functions
 	_, err = testDB.Exec(`
 		CREATE TABLE routes (
 			object_id TEXT PRIMARY KEY,
