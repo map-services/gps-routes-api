@@ -278,9 +278,6 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 	}
 
 	query, params := qb.Build()
-
-	log.Printf("[SQLiteDbRepository] Executing SQL: %s | params: %+v", query, params)
-
 	rows, err := repo.db.QueryContext(ctx, query, params...)
 	if err != nil {
 		return nil, fmt.Errorf("executing search query: %w", err)
