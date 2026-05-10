@@ -2,13 +2,13 @@ name: gps-routes
 
 networks:
   default:
-  homelab-net:
+  hetzner-cloud:
     external: true
 
 services:
   api-server:
     container_name: api-server
-    image: ghcr.io/rm-hull/gps-routes-api:latest
+    image: ghcr.io/map-services/gps-routes-api:latest
     command:
       - api-server
       - "8080"
@@ -35,20 +35,17 @@ services:
         condition: service_completed_successfully
     labels:
       - "traefik.enable=true"
+      - "traefik.docker.network=hetzner-cloud"
       - "traefik.http.routers.gps-routes.entrypoints=websecure"
-      - "traefik.http.routers.gps-routes.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
+      - "traefik.http.routers.gps-routes.rule=Host(`api.hz-nbg1.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
       - "traefik.http.services.gps-routes.loadbalancer.server.port=8080"
-      - "dockflare.enable=true"
-      - "dockflare.hostname=api.destructuring-bind.org"
-      - "dockflare.path=/v1/gps-routes"
-      - "dockflare.service=http://api-server:8080"
     networks:
       - default
-      - homelab-net
+      - hetzner-cloud
 
   run-migrations:
     container_name: run-migrations
-    image: ghcr.io/rm-hull/gps-routes-api:latest
+    image: ghcr.io/map-services/gps-routes-api:latest
     command:
       - migration
       - up
@@ -75,7 +72,7 @@ services:
 
   import-data:
     container_name: import-data
-    image: ghcr.io/rm-hull/gps-routes-api:latest
+    image: ghcr.io/map-services/gps-routes-api:latest
     command:
       - import
       - /data/backup/
@@ -128,7 +125,7 @@ services:
       - ./data/pgdata:/var/lib/postgresql/18/docker
     networks:
       - default
-      - homelab-net
+      - hetzner-cloud
 
   postgis-exporter:
     container_name: postgis-exporter
@@ -140,5 +137,5 @@ services:
       DATA_SOURCE_PASS: ${POSTGRES_PASSWORD}
     networks:
       - default
-      - homelab-net
+      - hetzner-cloud
 
