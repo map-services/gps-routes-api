@@ -1,153 +1,145 @@
 {
-  "created_at": "2025-01-06T01:21:04.022024+00:00",
-  "objectID": "d93d80d113c805cab65643061a5416c2",
-  "ref": "monarchs-way-walking-route",
-  "title": "Monarch's Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
-  "nearby": [
-    {
-      "description": "Fonthill Estate",
-      "objectID": "9928328012908f3ca1798e1ebae83691",
-      "ref": "fonthill-estate-walking-route"
+    "created_at": "2025-01-06T01:21:04.022024+00:00",
+    "objectID": "d93d80d113c805cab65643061a5416c2",
+    "ref": "monarchs-way-walking-route",
+    "title": "Monarch's Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
+    "nearby": [
+        {
+            "description": "Fonthill Estate",
+            "objectID": "9928328012908f3ca1798e1ebae83691",
+            "ref": "fonthill-estate-walking-route"
+        },
+        {
+            "description": "Chaddesley Wood",
+            "objectID": "e21d76a14af59f1e5e2f1b2d87f771f3",
+            "ref": "chaddesley-wood-walking-route"
+        },
+        {
+            "description": "Cissbury Ring",
+            "objectID": "c8d32d89ca24d6ce2b2a0c959fea1329",
+            "ref": "cissbury-ring-walking-route"
+        },
+        {
+            "description": "Chedworth Roman Villa",
+            "objectID": "e757ea971115b9694f5c83395e766d4e",
+            "ref": "chedworth-roman-villa-walking-route"
+        },
+        {
+            "description": "Westonbirt Arboretum",
+            "objectID": "98b66f1bb42c95cd0294ce8e5510a6fd",
+            "ref": "westonbirt-arboretum-walking-route"
+        },
+        {
+            "description": "The South Downs Way",
+            "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
+            "ref": "the-south-downs-way-walking-route"
+        },
+        {
+            "description": "Meon Valley Trail",
+            "objectID": "a21fecb9783b960a6f62a0acc000670d",
+            "ref": "meon-valley-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Old Winchester Hill",
+            "objectID": "b3f9594665a788ff25391ffb8f4aafa3",
+            "ref": "old-winchester-hill-walking-route"
+        },
+        {
+            "description": "Stow on the Wold",
+            "objectID": "0743b4418c6322a7eed1656ffc96d1ae",
+            "ref": "stow-on-the-wold-walking-route"
+        },
+        {
+            "description": "Cirencester Park",
+            "objectID": "1e8cc5b2d60b64d4708c9e6477ab60ce",
+            "ref": "cirencester-park-walking-route"
+        },
+        {
+            "description": "Wincanton",
+            "objectID": "589546a5333da6727dbf58e9ea134680",
+            "ref": "wincanton-walking-route"
+        },
+        {
+            "description": "Mere",
+            "objectID": "7e6d86cb423113f297cab4b494a24287",
+            "ref": "mere-walking-route"
+        },
+        {
+            "description": "Charmouth",
+            "objectID": "7a368b03238d2eca4e00f4bb5461403e",
+            "ref": "charmouth-walking-route"
+        },
+        {
+            "description": "Shoreham by Sea",
+            "objectID": "43cfc843e243944fe2788ff9cd6d543c",
+            "ref": "shoreham-by-sea-walking-route"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
+            "title": "Rodw [Public domain], via Wikimedia Commons",
+            "caption": "Monarch's Way sign"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Monarch%27s_Way_-_geograph.org.uk_-_709244.jpg",
+            "title": "John M / Monarch's Way, via Wikimedia Commons",
+            "caption": "The Monarch's Way leaves the lane near Stubbs Farm to follow a stream down to the coast at Charmouth."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Monarch%27s_Way_-_geograph.org.uk_-_709250.jpg",
+            "title": "John M / Monarch's Way, via Wikimedia Commons",
+            "caption": "After hiding in a secluded village close to the coast, King Charles II, headed down to take passage on a boat"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Monarch%27s_Way_-_geograph.org.uk_-_1618033.jpg",
+            "title": "Michael Dibb / Monarch's Way, via Wikimedia Commons",
+            "caption": "The Monarch's Way long distance path runs along the field edge. This view is looking towards Moreton-in-Marsh. The spire of St David's church is seen to the left of the image."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg/500px-Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg",
+            "title": "Nicola K. Reiss, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Clock Tower, Mere, Wiltshire, UK. This listed building dates from 1868 and sits in a prime position in the town centre."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Covered_reservoir_on_Love_Lane%2C_south_of_Wind_Farm_-_geograph.org.uk_-_391333.jpg",
+            "title": "Jim Champion / Covered reservoir on Love Lane, south of Wind Farm",
+            "caption": "Covered reservoir on Love Lane, south of Wind Farm. Here the Monarch's Way footpath meets the South Downs Way and Wayfarer's Walk footpaths. The chalky mound on the right is a covered reservoir, the buildings beyond are on Wind Farm."
+        }
+    ],
+    "distance_km": 990.0,
+    "description": "This incredible 615-mile walk approximates the escape route taken by King Charles II in 1651 after being defeated in the Battle of Worcester. The Monarch's Way starts at Worcester then travels north to Boscobel and then south to Stratford upon Avon. It then continues south through the Cotswolds to Stow on the Wold before turning south west towards Bristol via Cirencester . The route then heads south through the Mendip Hills to Wells and then on through Somerset towards Yeovil and then south west to Charmouth. You then follow the Dorset coast before turning north again to Yeovil, before heading east across the Downs to Brighton and then onto the finish point at Shoreham-by-Sea. The walk also takes you through two World Heritage Sites, one National Park and six Areas of Outstanding Natural Beauty. For those interested in the history of the walk there is ample opportunity to learn and discover more with a series of museums and historical sites dotted throughout the route. The walk is waymarked with a picture of the ship The Surprise, the Prince of Wales crown and the Royal Oak tree at Boscobel House. The route has been split into two separate gpx files. The first includes the section from Worcester to Bridport via the Midlands and Somerset. The second runs from Sandford Orcas to the finish point at Shoreham by Sea. Monarch's Way GPS 1 (right click save as) Monarch's Way GPS 2 (right click save as)",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "We recommend stopping in the delightul Somerset village of East Coker for some refreshments. The Heylar Arms is a pub of some note, being a Grade II listed building and dating from the 15th Century. The pub still retains a wealth of character and charm, set in the picturesque village of East Coker with its mellow stone and thatch cottages, almshouses, Historic Coker Court and St Michael\u2019s church. You can visit the resting place of T.S. Eliot and discover the birthplace of the explorer William Dampier in the area. There's an excellent menu, real log fires, a large sunny garden to sit in during the summer months and a car park that can accommodate over 30 cars. The inn also provides accommodation if you need to stay over. You can find the pub in the village on Moor Street with a postcode of BA22 9JR for your sat navs. The Ninesprings Cafe in Yeovil Country Park is another nice option. The building is also an information centre for the country park. Here you can read about the history and wildlife of the park, as well as picking up maps and leaflets to find your way around. The caf\u00e9 provides high quality hot and cold drinks, cakes and light bites. There's also a nice large picnic area where you can sit outside on warmer days. The path passes through the attractive South Downs village of Findon where there are several good pubs and cafes. The Findon Manor Hotel is set in an interesting 18th century building and includes 2 acres of lovely gardens. It has an interesting history having started its life as the village Rectory. The centre portion of the building was then built in 1584, and around 1728 the east wing was added and the west end was built in 1773. There's two restaurants and the Snooty Fox Bar which provides a warm, casual, cosy atmosphere for guests and non-residents to relax in. The bar faces the lawned garden allowing guests to sit outside and enjoy the country air. You can find the hotel on the High Street with a postcode of BN14 0TA for your sat navs. One of the must see buildings on the route is Britain's oldest pub at the Porch House in Stow on the Wold. The inn has an interesting history dating all the way back to the 10th century when it was thought to have been a hospice built on on land belonging to Evesham Abbey. The interior has bags of old character with wonky ceilings and a very fine 16th century fireplace. They do excellent food and also provide accommodation if you need to stay over. There's also an outdoor area for finer days. You can find the historic inn on Digbeth Street with a postcode of GL54 1BN for your sat navs. It's also dog friendly if you have your canine friend with you. Just west of Winchester you'll find the interesting little village of Hursley. Here you'll find a historic pub of some note in the shape of The Dolphin Inn. The inn dates back to the 16th century and takes its name from the old HMS Dolphin, having apparently been built using the ship's timbers. There's a charming old interior with historic photos and stories with a nautical theme. The pub also includes a restored barn and stables with a fine garden area for warmer weather. You can find them in the village at postcode SO21 2JY. Near the Avon Gorge in Bristol you'll pass through the little village of Abbots Leigh where you can visit The George. The historic pub dates back to 1719 and includes a particularly lovely walled garden area for warmer days. Inside there are cosy fires for the winter months. They have a great menu and can be found on Manor Road at postcode BS8 3RP. The trail also passes the delightful Abbots Pool which is a short stroll from the pub. This hidden gem includes a nature reserve with a medieval pool and woodland trails. There's also lots of flora and fauna with wild flowers, ferns and rhododendrons to see. The Nog Inn is located in the Somerset town of Wincanton. The Grade II listed old pub has a charming interior with two wood burners for colder days. Outside there's a lovely walled beer garden if the sun is shining. They serve freshly cooked British pub food with some classic dishes to enjoy. You can find them on South Street at postcode BA9 9DL for your sat navs. In the attractive Wiltshire town of Mere there's The George Inn. The 16th century coaching inn has an interesting history with King Charles II visiting the inn on his way from Trent to Heale house whilst fleeing after his defeat at the Battle of Worcester in 1651. Inside there's a relaxed dining area and an impressive log fire. They serve good quality food and can be found on the attractive town Square at postcode BA12 6DR. In the pretty Somerset village of Corton Denham there's the Queens Arms. The 18th century inn has a good menu and provides accommodation too. You can find them at postcode DT9 4LR. In Charmouth there are two small cafes on the sea front serving a good range of meals and snacks in an excellent location. If you fancy a pub lunch head into the village and visit the Royal Oak. They serve a great Sunday Roast and can be found at a postcode of DT6 6PE for your sat navs."
+        }
+    ],
+    "gazetteer_found": false,
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d93d80d113c805cab65643061a5416c2.gpx",
+    "_geoloc": {
+        "lat": 52.170565893,
+        "lng": -2.2422859265
     },
-    {
-      "description": "Chaddesley Wood",
-      "objectID": "e21d76a14af59f1e5e2f1b2d87f771f3",
-      "ref": "chaddesley-wood-walking-route"
-    },
-    {
-      "description": "Cissbury Ring",
-      "objectID": "c8d32d89ca24d6ce2b2a0c959fea1329",
-      "ref": "cissbury-ring-walking-route"
-    },
-    {
-      "description": "Chedworth Roman Villa",
-      "objectID": "e757ea971115b9694f5c83395e766d4e",
-      "ref": "chedworth-roman-villa-walking-route"
-    },
-    {
-      "description": "Westonbirt Arboretum",
-      "objectID": "98b66f1bb42c95cd0294ce8e5510a6fd",
-      "ref": "westonbirt-arboretum-walking-route"
-    },
-    {
-      "description": "The South Downs Way",
-      "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
-      "ref": "the-south-downs-way-walking-route"
-    },
-    {
-      "description": "Meon Valley Trail",
-      "objectID": "a21fecb9783b960a6f62a0acc000670d",
-      "ref": "meon-valley-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Old Winchester Hill",
-      "objectID": "b3f9594665a788ff25391ffb8f4aafa3",
-      "ref": "old-winchester-hill-walking-route"
-    },
-    {
-      "description": "Stow on the Wold",
-      "objectID": "0743b4418c6322a7eed1656ffc96d1ae",
-      "ref": "stow-on-the-wold-walking-route"
-    },
-    {
-      "description": "Cirencester Park",
-      "objectID": "1e8cc5b2d60b64d4708c9e6477ab60ce",
-      "ref": "cirencester-park-walking-route"
-    },
-    {
-      "description": "Wincanton",
-      "objectID": "589546a5333da6727dbf58e9ea134680",
-      "ref": "wincanton-walking-route"
-    },
-    {
-      "description": "Mere",
-      "objectID": "7e6d86cb423113f297cab4b494a24287",
-      "ref": "mere-walking-route"
-    },
-    {
-      "description": "Charmouth",
-      "objectID": "7a368b03238d2eca4e00f4bb5461403e",
-      "ref": "charmouth-walking-route"
-    },
-    {
-      "description": "Shoreham by Sea",
-      "objectID": "43cfc843e243944fe2788ff9cd6d543c",
-      "ref": "shoreham-by-sea-walking-route"
-    }
-  ],
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
-      "title": "Rodw [Public domain], via Wikimedia Commons",
-      "caption": "Monarch's Way sign"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Monarch%27s_Way_-_geograph.org.uk_-_709244.jpg",
-      "title": "John M / Monarch's Way, via Wikimedia Commons",
-      "caption": "The Monarch's Way leaves the lane near Stubbs Farm to follow a stream down to the coast at Charmouth."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Monarch%27s_Way_-_geograph.org.uk_-_709250.jpg",
-      "title": "John M / Monarch's Way, via Wikimedia Commons",
-      "caption": "After hiding in a secluded village close to the coast, King Charles II, headed down to take passage on a boat"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Monarch%27s_Way_-_geograph.org.uk_-_1618033.jpg",
-      "title": "Michael Dibb / Monarch's Way, via Wikimedia Commons",
-      "caption": "The Monarch's Way long distance path runs along the field edge. This view is looking towards Moreton-in-Marsh. The spire of St David's church is seen to the left of the image."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg/500px-Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg",
-      "title": "Nicola K. Reiss, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Clock Tower, Mere, Wiltshire, UK. This listed building dates from 1868 and sits in a prime position in the town centre."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Covered_reservoir_on_Love_Lane%2C_south_of_Wind_Farm_-_geograph.org.uk_-_391333.jpg",
-      "title": "Jim Champion / Covered reservoir on Love Lane, south of Wind Farm",
-      "caption": "Covered reservoir on Love Lane, south of Wind Farm. Here the Monarch's Way footpath meets the South Downs Way and Wayfarer's Walk footpaths. The chalky mound on the right is a covered reservoir, the buildings beyond are on Wind Farm."
-    }
-  ],
-  "distance_km": 990.0,
-  "description": "This incredible 615-mile walk approximates the escape route taken by King Charles II in 1651 after being defeated in the Battle of Worcester. The Monarch's Way starts at Worcester then travels north to Boscobel and then south to Stratford upon Avon. It then continues south through the Cotswolds to Stow on the Wold before turning south west towards Bristol via Cirencester . The route then heads south through the Mendip Hills to Wells and then on through Somerset towards Yeovil and then south west to Charmouth. You then follow the Dorset coast before turning north again to Yeovil, before heading east across the Downs to Brighton and then onto the finish point at Shoreham-by-Sea. The walk also takes you through two World Heritage Sites, one National Park and six Areas of Outstanding Natural Beauty. For those interested in the history of the walk there is ample opportunity to learn and discover more with a series of museums and historical sites dotted throughout the route. The walk is waymarked with a picture of the ship The Surprise, the Prince of Wales crown and the Royal Oak tree at Boscobel House. The route has been split into two separate gpx files. The first includes the section from Worcester to Bridport via the Midlands and Somerset. The second runs from Sandford Orcas to the finish point at Shoreham by Sea. Monarch's Way GPS 1 (right click save as) Monarch's Way GPS 2 (right click save as)",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "We recommend stopping in the delightul Somerset village of East Coker for some refreshments. The Heylar Arms is a pub of some note, being a Grade II listed building and dating from the 15th Century. The pub still retains a wealth of character and charm, set in the picturesque village of East Coker with its mellow stone and thatch cottages, almshouses, Historic Coker Court and St Michael\u2019s church. You can visit the resting place of T.S. Eliot and discover the birthplace of the explorer William Dampier in the area. There's an excellent menu, real log fires, a large sunny garden to sit in during the summer months and a car park that can accommodate over 30 cars. The inn also provides accommodation if you need to stay over. You can find the pub in the village on Moor Street with a postcode of BA22 9JR for your sat navs. The Ninesprings Cafe in Yeovil Country Park is another nice option. The building is also an information centre for the country park. Here you can read about the history and wildlife of the park, as well as picking up maps and leaflets to find your way around. The caf\u00e9 provides high quality hot and cold drinks, cakes and light bites. There's also a nice large picnic area where you can sit outside on warmer days. The path passes through the attractive South Downs village of Findon where there are several good pubs and cafes. The Findon Manor Hotel is set in an interesting 18th century building and includes 2 acres of lovely gardens. It has an interesting history having started its life as the village Rectory. The centre portion of the building was then built in 1584, and around 1728 the east wing was added and the west end was built in 1773. There's two restaurants and the Snooty Fox Bar which provides a warm, casual, cosy atmosphere for guests and non-residents to relax in. The bar faces the lawned garden allowing guests to sit outside and enjoy the country air. You can find the hotel on the High Street with a postcode of BN14 0TA for your sat navs. One of the must see buildings on the route is Britain's oldest pub at the Porch House in Stow on the Wold. The inn has an interesting history dating all the way back to the 10th century when it was thought to have been a hospice built on on land belonging to Evesham Abbey. The interior has bags of old character with wonky ceilings and a very fine 16th century fireplace. They do excellent food and also provide accommodation if you need to stay over. There's also an outdoor area for finer days. You can find the historic inn on Digbeth Street with a postcode of GL54 1BN for your sat navs. It's also dog friendly if you have your canine friend with you. Just west of Winchester you'll find the interesting little village of Hursley. Here you'll find a historic pub of some note in the shape of The Dolphin Inn. The inn dates back to the 16th century and takes its name from the old HMS Dolphin, having apparently been built using the ship's timbers. There's a charming old interior with historic photos and stories with a nautical theme. The pub also includes a restored barn and stables with a fine garden area for warmer weather. You can find them in the village at postcode SO21 2JY. Near the Avon Gorge in Bristol you'll pass through the little village of Abbots Leigh where you can visit The George. The historic pub dates back to 1719 and includes a particularly lovely walled garden area for warmer days. Inside there are cosy fires for the winter months. They have a great menu and can be found on Manor Road at postcode BS8 3RP. The trail also passes the delightful Abbots Pool which is a short stroll from the pub. This hidden gem includes a nature reserve with a medieval pool and woodland trails. There's also lots of flora and fauna with wild flowers, ferns and rhododendrons to see. The Nog Inn is located in the Somerset town of Wincanton. The Grade II listed old pub has a charming interior with two wood burners for colder days. Outside there's a lovely walled beer garden if the sun is shining. They serve freshly cooked British pub food with some classic dishes to enjoy. You can find them on South Street at postcode BA9 9DL for your sat navs. In the attractive Wiltshire town of Mere there's The George Inn. The 16th century coaching inn has an interesting history with King Charles II visiting the inn on his way from Trent to Heale house whilst fleeing after his defeat at the Battle of Worcester in 1651. Inside there's a relaxed dining area and an impressive log fire. They serve good quality food and can be found on the attractive town Square at postcode BA12 6DR. In the pretty Somerset village of Corton Denham there's the Queens Arms. The 18th century inn has a good menu and provides accommodation too. You can find them at postcode DT9 4LR. In Charmouth there are two small cafes on the sea front serving a good range of meals and snacks in an excellent location. If you fancy a pub lunch head into the village and visit the Royal Oak. They serve a great Sunday Roast and can be found at a postcode of DT6 6PE for your sat navs."
-    }
-  ],
-  "gazetteer_found": false,
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d93d80d113c805cab65643061a5416c2.gpx",
-  "_geoloc": {
-    "lat": 52.170565893,
-    "lng": -2.2422859265
-  },
-  "nominatim_found": true,
-  "display_address": "Old Road, Lower Wick, Worcester, Worcestershire, England, WR2 4BU, United Kingdom",
-  "postcode": "WR2 4BU",
-  "district": "Worcester",
-  "county": "Worcestershire",
-  "region": null,
-  "state": "England",
-  "country": "United Kingdom",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "national park",
-    "world heritage site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "nominatim_found": true,
+    "display_address": "Old Road, Lower Wick, Worcester, Worcestershire, England, WR2 4BU, United Kingdom",
+    "postcode": "WR2 4BU",
+    "district": "Worcester",
+    "county": "Worcestershire",
+    "region": null,
+    "state": "England",
+    "country": "United Kingdom",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": [
+        "historical site",
+        "national park",
+        "world heritage site"
+    ],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

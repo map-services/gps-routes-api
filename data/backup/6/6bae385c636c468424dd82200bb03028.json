@@ -1,88 +1,79 @@
 {
-  "created_at": "2025-01-06T03:10:47.756475+00:00",
-  "objectID": "6bae385c636c468424dd82200bb03028",
-  "ref": "cotswold-round-walking-route",
-  "title": "Cotswold Round Circular Walk Route",
-  "nearby": [
-    {
-      "description": "Winchcombe Way",
-      "objectID": "6def712345e10ed1da3b52a38b0bae82",
-      "ref": "winchcombe-way-walking-route"
+    "created_at": "2025-01-06T03:10:47.756475+00:00",
+    "objectID": "6bae385c636c468424dd82200bb03028",
+    "ref": "cotswold-round-walking-route",
+    "title": "Cotswold Round Circular Walk Route",
+    "nearby": [
+        {
+            "description": "Winchcombe Way",
+            "objectID": "6def712345e10ed1da3b52a38b0bae82",
+            "ref": "winchcombe-way-walking-route"
+        },
+        {
+            "description": "Stanton Country Park",
+            "objectID": "39860ef580a1c1a5f5f9f940a3b94423",
+            "ref": "stanton-country-park-walking-route"
+        },
+        {
+            "description": "Broadway Tower Country Park",
+            "objectID": "b9acdea928e2266362f5e6be812ee5e8",
+            "ref": "broadway-tower-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Chipping Campden to Dover's Hill",
+            "objectID": "152731105f90384a0f1e77cdb26cd30b",
+            "ref": "chipping-campden-to-dovers-hill-walking-route"
+        },
+        {
+            "description": "Moreton-in-Marsh Circular Walk",
+            "objectID": "032023c741aa78e53f6c367e1ff0f60d",
+            "ref": "moreton-in-marsh-circular-walk-walking-route"
+        },
+        {
+            "description": "Stow on the Wold",
+            "objectID": "0743b4418c6322a7eed1656ffc96d1ae",
+            "ref": "stow-on-the-wold-walking-route"
+        },
+        {
+            "description": "Bourton on the Water",
+            "objectID": "97f9c7058ca9d00a1a78b417af8c3e23",
+            "ref": "bourton-on-the-water-walking-route"
+        },
+        {
+            "description": "Stanton",
+            "objectID": "f038622e453b6ded31662f971f73104f",
+            "ref": "stanton-walking-route"
+        }
+    ],
+    "distance_km": 349.0,
+    "description": "Travel through some of the most beautiful countryside and prettiest villages in England on this circular walk. You will visit a series of classic Cotswolds towns and villages including Cheltenham Spa, Winchcombe, Stanton, Broadway, Chipping Campden, Moreton-in-Marsh, Stow on the Wold and Bourton on the Water (video below). There is much to enjoy with lush green countryside, historic houses, beautiful parks, woodland sections and homely country pubs for refreshments.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "One of the must see buildings on the route is Britain's oldest pub at the Porch House in Stow on the Wold. The inn has an interesting history dating all the way back to the 10th century when it was thought to have been a hospice built on on land belonging to Evesham Abbey. The interior has bags of old character with wonky ceilings and a very fine 16th century fireplace. They do excellent food and also provide accommodation if you need to stay over. There's also an outdoor area for finer days. You can find the historic inn on Digbeth Street with a postcode of GL54 1BN for your sat navs. It's also dog friendly if you have your canine friend with you."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/V3ESxfV9cL4",
+    "gazetteer_found": false,
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6bae385c636c468424dd82200bb03028.gpx",
+    "_geoloc": {
+        "lat": 52.0615845975,
+        "lng": -1.3399868908
     },
-    {
-      "description": "Stanton Country Park",
-      "objectID": "39860ef580a1c1a5f5f9f940a3b94423",
-      "ref": "stanton-country-park-walking-route"
-    },
-    {
-      "description": "Broadway Tower Country Park",
-      "objectID": "b9acdea928e2266362f5e6be812ee5e8",
-      "ref": "broadway-tower-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Chipping Campden to Dover's Hill",
-      "objectID": "152731105f90384a0f1e77cdb26cd30b",
-      "ref": "chipping-campden-to-dovers-hill-walking-route"
-    },
-    {
-      "description": "Moreton-in-Marsh Circular Walk",
-      "objectID": "032023c741aa78e53f6c367e1ff0f60d",
-      "ref": "moreton-in-marsh-circular-walk-walking-route"
-    },
-    {
-      "description": "Stow on the Wold",
-      "objectID": "0743b4418c6322a7eed1656ffc96d1ae",
-      "ref": "stow-on-the-wold-walking-route"
-    },
-    {
-      "description": "Bourton on the Water",
-      "objectID": "97f9c7058ca9d00a1a78b417af8c3e23",
-      "ref": "bourton-on-the-water-walking-route"
-    },
-    {
-      "description": "Stanton",
-      "objectID": "f038622e453b6ded31662f971f73104f",
-      "ref": "stanton-walking-route"
-    }
-  ],
-  "distance_km": 349.0,
-  "description": "Travel through some of the most beautiful countryside and prettiest villages in England on this circular walk. You will visit a series of classic Cotswolds towns and villages including Cheltenham Spa, Winchcombe, Stanton, Broadway, Chipping Campden, Moreton-in-Marsh, Stow on the Wold and Bourton on the Water (video below). There is much to enjoy with lush green countryside, historic houses, beautiful parks, woodland sections and homely country pubs for refreshments.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "One of the must see buildings on the route is Britain's oldest pub at the Porch House in Stow on the Wold. The inn has an interesting history dating all the way back to the 10th century when it was thought to have been a hospice built on on land belonging to Evesham Abbey. The interior has bags of old character with wonky ceilings and a very fine 16th century fireplace. They do excellent food and also provide accommodation if you need to stay over. There's also an outdoor area for finer days. You can find the historic inn on Digbeth Street with a postcode of GL54 1BN for your sat navs. It's also dog friendly if you have your canine friend with you."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/V3ESxfV9cL4",
-  "gazetteer_found": false,
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6bae385c636c468424dd82200bb03028.gpx",
-  "_geoloc": {
-    "lat": 52.0615845975,
-    "lng": -1.3399868908
-  },
-  "nominatim_found": true,
-  "display_address": "Horse Fair, Calthorpe, Banbury, Cherwell, Oxfordshire, England, OX16 0BW, United Kingdom",
-  "postcode": "OX16 0BW",
-  "district": "Cherwell",
-  "county": "Oxfordshire",
-  "region": null,
-  "state": "England",
-  "country": "United Kingdom",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "nominatim_found": true,
+    "display_address": "Horse Fair, Calthorpe, Banbury, Cherwell, Oxfordshire, England, OX16 0BW, United Kingdom",
+    "postcode": "OX16 0BW",
+    "district": "Cherwell",
+    "county": "Oxfordshire",
+    "region": null,
+    "state": "England",
+    "country": "United Kingdom",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

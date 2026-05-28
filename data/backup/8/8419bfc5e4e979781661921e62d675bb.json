@@ -1,124 +1,112 @@
 {
-  "created_at": "2025-01-06T00:29:19.219198+00:00",
-  "objectID": "8419bfc5e4e979781661921e62d675bb",
-  "ref": "jack-mytton-way-walking-and-cycle-route",
-  "title": "Jack Mytton Way Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Waymarker_on_the_Jack_Mytton_Way_-_geograph.org.uk_-_655975.jpg",
-  "nearby": [
-    {
-      "description": "Wenlock Edge",
-      "objectID": "ca917056e7663b9e5c6b6c5e1c50c2bc",
-      "ref": "wenlock-edge-walking-route"
+    "created_at": "2025-01-06T00:29:19.219198+00:00",
+    "objectID": "8419bfc5e4e979781661921e62d675bb",
+    "ref": "jack-mytton-way-walking-and-cycle-route",
+    "title": "Jack Mytton Way Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Waymarker_on_the_Jack_Mytton_Way_-_geograph.org.uk_-_655975.jpg",
+    "nearby": [
+        {
+            "description": "Wenlock Edge",
+            "objectID": "ca917056e7663b9e5c6b6c5e1c50c2bc",
+            "ref": "wenlock-edge-walking-route"
+        },
+        {
+            "description": "Clee Hills",
+            "objectID": "92d7e732eb94b3b36939fcb66510a11e",
+            "ref": "clee-hills-walking-route"
+        },
+        {
+            "description": "Cleobury Mortimer",
+            "objectID": "b145413ea3e32c0881fc3a61a8c55513",
+            "ref": "cleobury-mortimer-walking-route"
+        },
+        {
+            "description": "Church Stretton",
+            "objectID": "a54920ea2cfd78f19bea35bbd97f4a58",
+            "ref": "church-stretton-walking-route"
+        },
+        {
+            "description": "Clun Castle",
+            "objectID": "6bc49da167244508c24df6e4a24afdd2",
+            "ref": "clun-castle-walking-route"
+        },
+        {
+            "description": "Much Wenlock",
+            "objectID": "c43b4ad471d46833cec00a2ad2da2668",
+            "ref": "much-wenlock-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8419bfc5e4e979781661921e62d675bb.gpx",
+    "_geoloc": {
+        "lat": 52.3814356835,
+        "lng": -2.4832284929
     },
-    {
-      "description": "Clee Hills",
-      "objectID": "92d7e732eb94b3b36939fcb66510a11e",
-      "ref": "clee-hills-walking-route"
-    },
-    {
-      "description": "Cleobury Mortimer",
-      "objectID": "b145413ea3e32c0881fc3a61a8c55513",
-      "ref": "cleobury-mortimer-walking-route"
-    },
-    {
-      "description": "Church Stretton",
-      "objectID": "a54920ea2cfd78f19bea35bbd97f4a58",
-      "ref": "church-stretton-walking-route"
-    },
-    {
-      "description": "Clun Castle",
-      "objectID": "6bc49da167244508c24df6e4a24afdd2",
-      "ref": "clun-castle-walking-route"
-    },
-    {
-      "description": "Much Wenlock",
-      "objectID": "c43b4ad471d46833cec00a2ad2da2668",
-      "ref": "much-wenlock-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8419bfc5e4e979781661921e62d675bb.gpx",
-  "_geoloc": {
-    "lat": 52.3814356835,
-    "lng": -2.4832284929
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Waymarker_on_the_Jack_Mytton_Way_-_geograph.org.uk_-_655975.jpg",
-      "title": "P L Chadwick / Waymarker on the Jack Mytton Way",
-      "caption": "Waymarker on the Jack Mytton. Way In this rather lonely part of Shropshire, at this point the bridleway is joined by a public footpath coming in from the right which provides a connection to the Shropshire Way."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Along_the_Jack_Mytton_Way_-_geograph.org.uk_-_609490.jpg",
-      "title": "John M / Along the Jack Mytton Way",
-      "caption": "Here the long distance bridleway passes alongside Chelmarsh Reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Riding_on_the_Jack_Mytton_Way%2C_Shirlett%2C_Shropshire_-_geograph.org.uk_-_456987.jpg/500px-Riding_on_the_Jack_Mytton_Way%2C_Shirlett%2C_Shropshire_-_geograph.org.uk_-_456987.jpg",
-      "title": "Roger Kidd / Riding on the Jack Mytton Way, Shirlett, Shropshire",
-      "caption": "Riding on the Jack Mytton Way, Shirlett, Shropshire. Into the grid square by a nose!...this friendly horse riding group enjoys an early summer Sunday morning."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/View_from_Jack_Mytton_way_-_geograph.org.uk_-_323956.jpg",
-      "title": "David Hancock / View from Jack Mytton way",
-      "caption": "View from the trail near Much Wenlock and Shadwell Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_ford_at_Clee_St._Margarets_-_geograph.org.uk_-_514153.jpg",
-      "title": "Jenni Miller / The ford at Clee St. Margarets",
-      "caption": "The ford at Clee St. Margarets. A really pretty unspoilt village on the trail."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Grazing_Land_near_Detton_Hall%2C_Shropshire_-_geograph.org.uk_-_606104.jpg",
-      "title": "Roger Kidd / Grazing Land near Detton Hall, Shropshire",
-      "caption": "Grazing Land near Detton Hall. The trail follows the wide track behind the hedge on the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/%27The_Jack_Mytton_Way%27_along_the_ridge_of_Wenlock_Edge_-_geograph.org.uk_-_689860.jpg",
-      "title": "Row17 / 'The Jack Mytton Way' along the ridge of Wenlock Edge",
-      "caption": "The Jack Mytton Way along the ridge of Wenlock Edge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Long_walk_on_the_Long_Mynd_-_geograph.org.uk_-_1712424.jpg",
-      "title": "Jeremy Bolwell / Long walk on the Long Mynd",
-      "caption": "Long walk on the Long Mynd. The Long Mynd carries the ancient Port Way and the more recent Ride UK 's Jack Mytton Way and the Shropshire Way footpath also."
-    }
-  ],
-  "distance_km": 110.0,
-  "description": "This is a splendid walk or mountain bike ride through Shropshire from Cleobury Mortimer to Llanfair Waterdine. It passes through the wonderful Long Mynd in the Shropshire Hills AONB. Other scenic highlights include Wenlock Edge and the Clee Hills. Settlements on the route where you can pick up the trail include Cleobury Mortimer, Church Stretton, Clun and Much Wenlock. Along the way there's also great views of the Severn Valley and its accompanying heritage railway. The route is named after John Mytton (1796\u20131834) a Shropshire landowner, MP, horseman, foxhunter, gambler and Regency rake.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Cleobury Mortimer you could stop off at The Stable Tavern for rest and refreshment. The old pub includes timbers of the 16th century stables which once formed part of the hotel fronting the square during that period. They do great food and also have an outdoor area for finer days. You can find the pub at 1 Talbot Square with a postcode of DY14 8BQ for your sat navs. In Clun there's The White Horse Inn. The 16th century inn has a lovely garden area where you can relax and enjoy a meal on a sunny day. You can find the inn on The Square at a postcode of SY7 8JA for your sat navs. The Sun Inn on the High Street is another good option, dating all the way back to the 15th century. It has a real old world feel and also has a nice garden area. Near Brignorth you will pass the pretty riverside village of Hampton Loade. Here you could pay a visit to The Unicorn Inn which is located in a lovely spot on the banks of the River Severn. It dates back to the 17th century and serves a fine Sunday lunch. There's also a decent Caravan and Campsite with plots for tents, caravans, campervans and motorhomes with electrical hookups. The village also includes a railway station on the Severn Valley Railway."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/1qg4XXxiGxM",
-  "postcode": "DY14 8EH",
-  "district": "Cleobury Mortimer",
-  "county": "Shropshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Cleobury Mortimer Primary School, Langland Road, Ron Hill, Cleobury Mortimer, Shropshire, England, DY14 8EH, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "mountain"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint",
-    "heritage railway"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "caravan and campsite"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Waymarker_on_the_Jack_Mytton_Way_-_geograph.org.uk_-_655975.jpg",
+            "title": "P L Chadwick / Waymarker on the Jack Mytton Way",
+            "caption": "Waymarker on the Jack Mytton. Way In this rather lonely part of Shropshire, at this point the bridleway is joined by a public footpath coming in from the right which provides a connection to the Shropshire Way."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Along_the_Jack_Mytton_Way_-_geograph.org.uk_-_609490.jpg",
+            "title": "John M / Along the Jack Mytton Way",
+            "caption": "Here the long distance bridleway passes alongside Chelmarsh Reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Riding_on_the_Jack_Mytton_Way%2C_Shirlett%2C_Shropshire_-_geograph.org.uk_-_456987.jpg/500px-Riding_on_the_Jack_Mytton_Way%2C_Shirlett%2C_Shropshire_-_geograph.org.uk_-_456987.jpg",
+            "title": "Roger Kidd / Riding on the Jack Mytton Way, Shirlett, Shropshire",
+            "caption": "Riding on the Jack Mytton Way, Shirlett, Shropshire. Into the grid square by a nose!...this friendly horse riding group enjoys an early summer Sunday morning."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/View_from_Jack_Mytton_way_-_geograph.org.uk_-_323956.jpg",
+            "title": "David Hancock / View from Jack Mytton way",
+            "caption": "View from the trail near Much Wenlock and Shadwell Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_ford_at_Clee_St._Margarets_-_geograph.org.uk_-_514153.jpg",
+            "title": "Jenni Miller / The ford at Clee St. Margarets",
+            "caption": "The ford at Clee St. Margarets. A really pretty unspoilt village on the trail."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Grazing_Land_near_Detton_Hall%2C_Shropshire_-_geograph.org.uk_-_606104.jpg",
+            "title": "Roger Kidd / Grazing Land near Detton Hall, Shropshire",
+            "caption": "Grazing Land near Detton Hall. The trail follows the wide track behind the hedge on the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/%27The_Jack_Mytton_Way%27_along_the_ridge_of_Wenlock_Edge_-_geograph.org.uk_-_689860.jpg",
+            "title": "Row17 / 'The Jack Mytton Way' along the ridge of Wenlock Edge",
+            "caption": "The Jack Mytton Way along the ridge of Wenlock Edge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Long_walk_on_the_Long_Mynd_-_geograph.org.uk_-_1712424.jpg",
+            "title": "Jeremy Bolwell / Long walk on the Long Mynd",
+            "caption": "Long walk on the Long Mynd. The Long Mynd carries the ancient Port Way and the more recent Ride UK 's Jack Mytton Way and the Shropshire Way footpath also."
+        }
+    ],
+    "distance_km": 110.0,
+    "description": "This is a splendid walk or mountain bike ride through Shropshire from Cleobury Mortimer to Llanfair Waterdine. It passes through the wonderful Long Mynd in the Shropshire Hills AONB. Other scenic highlights include Wenlock Edge and the Clee Hills. Settlements on the route where you can pick up the trail include Cleobury Mortimer, Church Stretton, Clun and Much Wenlock. Along the way there's also great views of the Severn Valley and its accompanying heritage railway. The route is named after John Mytton (1796\u20131834) a Shropshire landowner, MP, horseman, foxhunter, gambler and Regency rake.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Cleobury Mortimer you could stop off at The Stable Tavern for rest and refreshment. The old pub includes timbers of the 16th century stables which once formed part of the hotel fronting the square during that period. They do great food and also have an outdoor area for finer days. You can find the pub at 1 Talbot Square with a postcode of DY14 8BQ for your sat navs. In Clun there's The White Horse Inn. The 16th century inn has a lovely garden area where you can relax and enjoy a meal on a sunny day. You can find the inn on The Square at a postcode of SY7 8JA for your sat navs. The Sun Inn on the High Street is another good option, dating all the way back to the 15th century. It has a real old world feel and also has a nice garden area. Near Brignorth you will pass the pretty riverside village of Hampton Loade. Here you could pay a visit to The Unicorn Inn which is located in a lovely spot on the banks of the River Severn. It dates back to the 17th century and serves a fine Sunday lunch. There's also a decent Caravan and Campsite with plots for tents, caravans, campervans and motorhomes with electrical hookups. The village also includes a railway station on the Severn Valley Railway."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/1qg4XXxiGxM",
+    "postcode": "DY14 8EH",
+    "district": "Cleobury Mortimer",
+    "county": "Shropshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Cleobury Mortimer Primary School, Langland Road, Ron Hill, Cleobury Mortimer, Shropshire, England, DY14 8EH, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["mountain"],
+    "points_of_interest": ["historical site", "viewpoint", "heritage railway"],
+    "facilities": ["pub/cafe", "caravan and campsite"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

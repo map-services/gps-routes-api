@@ -1,169 +1,156 @@
 {
-  "created_at": "2025-01-06T01:00:42.163865+00:00",
-  "objectID": "44a8045b0b270f7e12f201cd782af111",
-  "ref": "pennine-bridleway-walking-and-cycle-route",
-  "title": "Pennine Bridleway National Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Walkerwood_Reservoir_-_view_from_the_spillway_bridge_-_geograph.org.uk_-_1399308.jpg",
-  "nearby": [
-    {
-      "description": "Settle Loop",
-      "objectID": "66b6df5d33b4b0a60e0aec11a708bfc3",
-      "ref": "settle-loop-walking-and-cycle-route"
+    "created_at": "2025-01-06T01:00:42.163865+00:00",
+    "objectID": "44a8045b0b270f7e12f201cd782af111",
+    "ref": "pennine-bridleway-walking-and-cycle-route",
+    "title": "Pennine Bridleway National Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Walkerwood_Reservoir_-_view_from_the_spillway_bridge_-_geograph.org.uk_-_1399308.jpg",
+    "nearby": [
+        {
+            "description": "Settle Loop",
+            "objectID": "66b6df5d33b4b0a60e0aec11a708bfc3",
+            "ref": "settle-loop-walking-and-cycle-route"
+        },
+        {
+            "description": "Stoodley Pike",
+            "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
+            "ref": "stoodley-pike-walking-route"
+        },
+        {
+            "description": "Gorple Reservoir",
+            "objectID": "a263b557257bb536f72281dfb41f9c64",
+            "ref": "gorple-reservoir-walking-route"
+        },
+        {
+            "description": "Widdop Reservoir",
+            "objectID": "cd1d1b31eda8ca3729e67a21e39b593d",
+            "ref": "widdop-reservoir-walking-route"
+        },
+        {
+            "description": "Watergrove Reservoir",
+            "objectID": "803e48cfcbb1f6faa9c244924ee7e05a",
+            "ref": "watergrove-reservoir-walking-route"
+        },
+        {
+            "description": "Ogden Reservoir and Piethorne Reservoir",
+            "objectID": "d7385faea1a365c334930600c84e24c9",
+            "ref": "ogden-reservoir-and-piethorne-reservoir-walking-route"
+        },
+        {
+            "description": "Healey Dell",
+            "objectID": "42a1b9692dc82d755af428beb2e70749",
+            "ref": "healey-dell-walking-route"
+        },
+        {
+            "description": "Arbor Low",
+            "objectID": "2333e94a5e373ff76e46ed761173e6ae",
+            "ref": "arbor-low-walking-route"
+        },
+        {
+            "description": "Buxton",
+            "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
+            "ref": "buxton-walking-route"
+        },
+        {
+            "description": "Wirksworth",
+            "objectID": "e996562ac3866e19779d9419a43c3a5e",
+            "ref": "wirksworth-walking-route"
+        },
+        {
+            "description": "Wild Boar Fell",
+            "objectID": "b608cac4ef4e9abcb36d116388afde33",
+            "ref": "wild-boar-fell-walking-route"
+        },
+        {
+            "description": "Castleshaw Reservoir",
+            "objectID": "20d883b2dd5b164f898bdc09a9afca8e",
+            "ref": "castleshaw-reservoir-walking-route"
+        },
+        {
+            "description": "Dovestone Reservoir",
+            "objectID": "0d7ed24d146072fbb560c097dec2d52d",
+            "ref": "dovestone-reservoir-walking-route"
+        },
+        {
+            "description": "Lantern Pike",
+            "objectID": "01e3a4c1d5999374eb5870f3c139a036",
+            "ref": "lantern-pike-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/44a8045b0b270f7e12f201cd782af111.gpx",
+    "_geoloc": {
+        "lat": 53.0932888076,
+        "lng": -1.5900210413
     },
-    {
-      "description": "Stoodley Pike",
-      "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
-      "ref": "stoodley-pike-walking-route"
-    },
-    {
-      "description": "Gorple Reservoir",
-      "objectID": "a263b557257bb536f72281dfb41f9c64",
-      "ref": "gorple-reservoir-walking-route"
-    },
-    {
-      "description": "Widdop Reservoir",
-      "objectID": "cd1d1b31eda8ca3729e67a21e39b593d",
-      "ref": "widdop-reservoir-walking-route"
-    },
-    {
-      "description": "Watergrove Reservoir",
-      "objectID": "803e48cfcbb1f6faa9c244924ee7e05a",
-      "ref": "watergrove-reservoir-walking-route"
-    },
-    {
-      "description": "Ogden Reservoir and Piethorne Reservoir",
-      "objectID": "d7385faea1a365c334930600c84e24c9",
-      "ref": "ogden-reservoir-and-piethorne-reservoir-walking-route"
-    },
-    {
-      "description": "Healey Dell",
-      "objectID": "42a1b9692dc82d755af428beb2e70749",
-      "ref": "healey-dell-walking-route"
-    },
-    {
-      "description": "Arbor Low",
-      "objectID": "2333e94a5e373ff76e46ed761173e6ae",
-      "ref": "arbor-low-walking-route"
-    },
-    {
-      "description": "Buxton",
-      "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
-      "ref": "buxton-walking-route"
-    },
-    {
-      "description": "Wirksworth",
-      "objectID": "e996562ac3866e19779d9419a43c3a5e",
-      "ref": "wirksworth-walking-route"
-    },
-    {
-      "description": "Wild Boar Fell",
-      "objectID": "b608cac4ef4e9abcb36d116388afde33",
-      "ref": "wild-boar-fell-walking-route"
-    },
-    {
-      "description": "Castleshaw Reservoir",
-      "objectID": "20d883b2dd5b164f898bdc09a9afca8e",
-      "ref": "castleshaw-reservoir-walking-route"
-    },
-    {
-      "description": "Dovestone Reservoir",
-      "objectID": "0d7ed24d146072fbb560c097dec2d52d",
-      "ref": "dovestone-reservoir-walking-route"
-    },
-    {
-      "description": "Lantern Pike",
-      "objectID": "01e3a4c1d5999374eb5870f3c139a036",
-      "ref": "lantern-pike-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/44a8045b0b270f7e12f201cd782af111.gpx",
-  "_geoloc": {
-    "lat": 53.0932888076,
-    "lng": -1.5900210413
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Walkerwood_Reservoir_-_view_from_the_spillway_bridge_-_geograph.org.uk_-_1399308.jpg",
-      "title": "Whatlep / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-      "caption": "Walkerwood Reservoir near Stalybridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pennine_Bridleway%2C_Ogden_Brook_-_geograph.org.uk_-_569080.jpg",
-      "title": "michael ely / Pennine Bridleway, Ogden Brook",
-      "caption": "Pennine Bridleway, Ogden Brook near Hadfield and Stalybridge. This is the point where the National Trail leaves Derbyshire to enter Greater Manchester. It is a lovely spot at the bottom of steep descents from both directions. The stone bridge can just be seen at bottom left."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pennine_Bridleway%2C_above_Lumbutts_-_geograph.org.uk_-_513477.jpg",
-      "title": "michael ely / Pennine Bridleway, above Lumbutts",
-      "caption": "Above Lumbutts. Looking northeast along the bridleway. In about one hundred metres the bridleway joins Lumbutts Road, one of the few road sections on the Mary Towneley Loop part of the National Trail. Stoodley Pike can be seen on the skyline."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pennine_Bridleway_near_Summit_-_geograph.org.uk_-_1049776.jpg",
-      "title": "michael ely / Pennine Bridleway near Summit",
-      "caption": "Mountain biker near Summit. The start of the descent back into the valley where the National Trail crosses the Rochdale Canal at Summit, the highest point on the canal's route from Manchester to Sowerby Bridge. The canal can be seen left of shot."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pennine_Bridleway%2C_Bent_Heath_-_geograph.org.uk_-_388041.jpg",
-      "title": "michael ely / Pennine Bridleway, Bent Heath",
-      "caption": "Bent Heath. This is the start of the long descent into the Piethorne Valley having just crossed the A672, Ripponden Road. Piethorne Reservoir can be seen in the middle distance whilst further in the distance is the town of Rochdale."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pennine_Bridleway%2C_Erringden_-_geograph.org.uk_-_179554.jpg",
-      "title": "michael ely / Pennine Bridleway, Erringden",
-      "caption": "Erringden. On the agricultural shelf above Hebden Bridge in the Calder Valley. Looking south towards Stoodley Pike (an iconic waypoint on the Pennine Way) on this newly constructed section of the PBW national trail. The route no longer uses Kilnshaw Lane which was interim only pending construction of this off-road section."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pennine_Bridleway_above_Cowpe_Reservoir_-_geograph.org.uk_-_806541.jpg",
-      "title": "michael ely / Pennine Bridleway above Cowpe Reservoir",
-      "caption": "Above Cowpe Reservoir. The cyclist is crossing Cowpe Moss on the gradual descent from Top of Leach heading towards Waterfoot."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pennine_Bridleway%2C_Widdop_Reservoir_-_geograph.org.uk_-_1210148.jpg",
-      "title": "michael ely / Pennine Bridleway, Widdop Reservoir",
-      "caption": "Widdop Reservoir. Riding along the dam wall with Cludders Slack rocks on the skyline. A stiff climb to the summit of Black Moor awaits."
-    }
-  ],
-  "distance_km": 193.0,
-  "description": "This fabulous 120 mile long trail runs through the beautiful Derbyshire Peak District, through Lancashire and on into Yorkshire. It is suitable for mountain bikers, horse riders and walkers taking you on a tour through some of the most beautiful parts of the country. The trail generally runs along dismantled railway lines, tracks and quiet roads passing through moorland, open fields and purple heather moors with the Pennine Hills providing a splendid backdrop. Highlights on the route include several picturesque reservoirs and the eye catching 1300 ft Stoodley Pike Hill in Yorkshire. For more information on this route, including accomodation and holiday ideas please click here .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Stop in the village of Greenfield on the way and enjoy refreshments at the King William IV Hotel on Chew Valley Rd, OL3 7DD. There's a great menu and a lovely beer garden to sit out and relax in when the weather is fine.In Hayfield you could try the Lantern Pike Inn. The interesting old pub dates from 1792, and has a very good menu. There's also a nice outdoor seating area where you can relax outside and enjoy views of the surrounding hills. You can find the pub in the village on 45 Glossop Rd, Little Hayfield with postcode SK222NG for your sat navs. The pub is dog friendly and also does accommodation so you can stay over here if you need to. In Hebden Bridge there's the excellent Rim Nam Thai Restaurant. It's located in a wonderful spot right on the canal side just a short distance from The Hebden Bridge Picture House. It's a great place to enjoy a fine meal with a lovely scenic view. You can find it at Butlers Wharf at postcode HX7 8AF. A little to the west of the town centre there's also the noteworthy Fox & Goose Inn. The pub is the first community-owned pub in West Yorkshire. The friendly place is well worth some investigation with its cosy interior with a roaring fire and an exhibition space for local artists to display their work. Outside there's a lovely hillside beer garden which is great on warmer days. The place is also very dog friendly and will provide water bowls and free biscuits. You can find the pub at 7 Heptonstall Road with a postcode of HX7 6AZ for your sat navs. Just above the National Trust's Hardcastle Crags you'll find the noteworthy Pack Horse Inn. This interesting historic pub is located in a very remote position and dates from the 17th century. Inside there's a cosy bar with fires, window seats cut into the partly panelled stripped-stone walls (from where you can take in the beautiful views), sturdy furnishings and some horse related mementoes. There are also seats outside in the cobblestoned beer garden which has attractive hanging baskets. They have a good selection of ales, a decent menu and are also dog friendly. You can find the pub on the Widdop Road just as you pass Gorple Reservoir and Widdop Reservoir. Postcode for sat navs is HX7 7AT. Slightly off the trail in Derbyshire there's the worthy village of Brassington where you'll find the Olde Gate Inn. The historic inn dates back to the 17th century and is Grade II listed. Bonnie Prince Charlie\u2019s soldiers were billeted at the inn on their march to London, and some of the oak beams came from ships of the Spanish Armada. It's been named Britain\u2019s cosiest pub by The Times with its charming interior and roaring fires. Outside there's a lovely large garden area with fine views. They serve high quality gastro food and have a good selection of ales. You can find them on Well Street with a postcode of DE4 4HJ\u200b for your sat navs. The attractive village is a pleasant place for a stroll too, with several centuries old limestone cottages, a church dating from the Norman period and a notable Tudor house built in 1615. In Chelmorton there's the Church Inn. The fine stone pub dates back to 1742 and sits opposite the village church which dates from the 11th century. There's roaring open fires in the winter, a beautiful sun trap of a beer garden and patio for summer al fresco dining. You can find them at postcode SK17 9SL for your sat navs."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Near Todmorden you could take a small detour to visit Gaddings Dam. The small reservoir is notable for having the highest beach in Britain."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/fS1FETmloic",
-  "postcode": "DE4 4LR",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Moor, Rise End, Middleton CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 4LR, United Kingdom",
-  "district": "Derbyshire Dales",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "moorland",
-    "open field"
-  ],
-  "points_of_interest": [
-    "reservoir",
-    "hill"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling",
-    "horse riding"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Walkerwood_Reservoir_-_view_from_the_spillway_bridge_-_geograph.org.uk_-_1399308.jpg",
+            "title": "Whatlep / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+            "caption": "Walkerwood Reservoir near Stalybridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pennine_Bridleway%2C_Ogden_Brook_-_geograph.org.uk_-_569080.jpg",
+            "title": "michael ely / Pennine Bridleway, Ogden Brook",
+            "caption": "Pennine Bridleway, Ogden Brook near Hadfield and Stalybridge. This is the point where the National Trail leaves Derbyshire to enter Greater Manchester. It is a lovely spot at the bottom of steep descents from both directions. The stone bridge can just be seen at bottom left."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pennine_Bridleway%2C_above_Lumbutts_-_geograph.org.uk_-_513477.jpg",
+            "title": "michael ely / Pennine Bridleway, above Lumbutts",
+            "caption": "Above Lumbutts. Looking northeast along the bridleway. In about one hundred metres the bridleway joins Lumbutts Road, one of the few road sections on the Mary Towneley Loop part of the National Trail. Stoodley Pike can be seen on the skyline."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pennine_Bridleway_near_Summit_-_geograph.org.uk_-_1049776.jpg",
+            "title": "michael ely / Pennine Bridleway near Summit",
+            "caption": "Mountain biker near Summit. The start of the descent back into the valley where the National Trail crosses the Rochdale Canal at Summit, the highest point on the canal's route from Manchester to Sowerby Bridge. The canal can be seen left of shot."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pennine_Bridleway%2C_Bent_Heath_-_geograph.org.uk_-_388041.jpg",
+            "title": "michael ely / Pennine Bridleway, Bent Heath",
+            "caption": "Bent Heath. This is the start of the long descent into the Piethorne Valley having just crossed the A672, Ripponden Road. Piethorne Reservoir can be seen in the middle distance whilst further in the distance is the town of Rochdale."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pennine_Bridleway%2C_Erringden_-_geograph.org.uk_-_179554.jpg",
+            "title": "michael ely / Pennine Bridleway, Erringden",
+            "caption": "Erringden. On the agricultural shelf above Hebden Bridge in the Calder Valley. Looking south towards Stoodley Pike (an iconic waypoint on the Pennine Way) on this newly constructed section of the PBW national trail. The route no longer uses Kilnshaw Lane which was interim only pending construction of this off-road section."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pennine_Bridleway_above_Cowpe_Reservoir_-_geograph.org.uk_-_806541.jpg",
+            "title": "michael ely / Pennine Bridleway above Cowpe Reservoir",
+            "caption": "Above Cowpe Reservoir. The cyclist is crossing Cowpe Moss on the gradual descent from Top of Leach heading towards Waterfoot."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pennine_Bridleway%2C_Widdop_Reservoir_-_geograph.org.uk_-_1210148.jpg",
+            "title": "michael ely / Pennine Bridleway, Widdop Reservoir",
+            "caption": "Widdop Reservoir. Riding along the dam wall with Cludders Slack rocks on the skyline. A stiff climb to the summit of Black Moor awaits."
+        }
+    ],
+    "distance_km": 193.0,
+    "description": "This fabulous 120 mile long trail runs through the beautiful Derbyshire Peak District, through Lancashire and on into Yorkshire. It is suitable for mountain bikers, horse riders and walkers taking you on a tour through some of the most beautiful parts of the country. The trail generally runs along dismantled railway lines, tracks and quiet roads passing through moorland, open fields and purple heather moors with the Pennine Hills providing a splendid backdrop. Highlights on the route include several picturesque reservoirs and the eye catching 1300 ft Stoodley Pike Hill in Yorkshire. For more information on this route, including accomodation and holiday ideas please click here .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Stop in the village of Greenfield on the way and enjoy refreshments at the King William IV Hotel on Chew Valley Rd, OL3 7DD. There's a great menu and a lovely beer garden to sit out and relax in when the weather is fine.In Hayfield you could try the Lantern Pike Inn. The interesting old pub dates from 1792, and has a very good menu. There's also a nice outdoor seating area where you can relax outside and enjoy views of the surrounding hills. You can find the pub in the village on 45 Glossop Rd, Little Hayfield with postcode SK222NG for your sat navs. The pub is dog friendly and also does accommodation so you can stay over here if you need to. In Hebden Bridge there's the excellent Rim Nam Thai Restaurant. It's located in a wonderful spot right on the canal side just a short distance from The Hebden Bridge Picture House. It's a great place to enjoy a fine meal with a lovely scenic view. You can find it at Butlers Wharf at postcode HX7 8AF. A little to the west of the town centre there's also the noteworthy Fox & Goose Inn. The pub is the first community-owned pub in West Yorkshire. The friendly place is well worth some investigation with its cosy interior with a roaring fire and an exhibition space for local artists to display their work. Outside there's a lovely hillside beer garden which is great on warmer days. The place is also very dog friendly and will provide water bowls and free biscuits. You can find the pub at 7 Heptonstall Road with a postcode of HX7 6AZ for your sat navs. Just above the National Trust's Hardcastle Crags you'll find the noteworthy Pack Horse Inn. This interesting historic pub is located in a very remote position and dates from the 17th century. Inside there's a cosy bar with fires, window seats cut into the partly panelled stripped-stone walls (from where you can take in the beautiful views), sturdy furnishings and some horse related mementoes. There are also seats outside in the cobblestoned beer garden which has attractive hanging baskets. They have a good selection of ales, a decent menu and are also dog friendly. You can find the pub on the Widdop Road just as you pass Gorple Reservoir and Widdop Reservoir. Postcode for sat navs is HX7 7AT. Slightly off the trail in Derbyshire there's the worthy village of Brassington where you'll find the Olde Gate Inn. The historic inn dates back to the 17th century and is Grade II listed. Bonnie Prince Charlie\u2019s soldiers were billeted at the inn on their march to London, and some of the oak beams came from ships of the Spanish Armada. It's been named Britain\u2019s cosiest pub by The Times with its charming interior and roaring fires. Outside there's a lovely large garden area with fine views. They serve high quality gastro food and have a good selection of ales. You can find them on Well Street with a postcode of DE4 4HJ\u200b for your sat navs. The attractive village is a pleasant place for a stroll too, with several centuries old limestone cottages, a church dating from the Norman period and a notable Tudor house built in 1615. In Chelmorton there's the Church Inn. The fine stone pub dates back to 1742 and sits opposite the village church which dates from the 11th century. There's roaring open fires in the winter, a beautiful sun trap of a beer garden and patio for summer al fresco dining. You can find them at postcode SK17 9SL for your sat navs."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Near Todmorden you could take a small detour to visit Gaddings Dam. The small reservoir is notable for having the highest beach in Britain."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/fS1FETmloic",
+    "postcode": "DE4 4LR",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Moor, Rise End, Middleton CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 4LR, United Kingdom",
+    "district": "Derbyshire Dales",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["moorland", "open field"],
+    "points_of_interest": ["reservoir", "hill"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling", "horse riding"]
 }

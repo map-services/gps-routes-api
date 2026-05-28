@@ -1,135 +1,120 @@
 {
-  "created_at": "2025-01-06T10:24:34.462889+00:00",
-  "objectID": "3fafdd35db92d20c8b5c55cc62e63abc",
-  "ref": "hamsterley-forest-walking-and-cycle-route",
-  "title": "Hamsterley Forest Walks and MTB Trails",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hamsterley_Forest_-_geograph.org.uk_-_590397.jpg",
-  "nearby": [
-    {
-      "description": "Weardale Way",
-      "objectID": "ac14ee8f22194ccfbf6b9116bc1cfa09",
-      "ref": "weardale-way-walking-route"
+    "created_at": "2025-01-06T10:24:34.462889+00:00",
+    "objectID": "3fafdd35db92d20c8b5c55cc62e63abc",
+    "ref": "hamsterley-forest-walking-and-cycle-route",
+    "title": "Hamsterley Forest Walks and MTB Trails",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hamsterley_Forest_-_geograph.org.uk_-_590397.jpg",
+    "nearby": [
+        {
+            "description": "Weardale Way",
+            "objectID": "ac14ee8f22194ccfbf6b9116bc1cfa09",
+            "ref": "weardale-way-walking-route"
+        },
+        {
+            "description": "Bishop Auckland",
+            "objectID": "fc04a0909362c2792f3dd92f8ed3451c",
+            "ref": "bishop-auckland-walking-route"
+        },
+        {
+            "description": "Brandon - Bishop Auckland Walk",
+            "objectID": "659bfb57d8ec526e092f8e8249797b06",
+            "ref": "brandon---bishop-auckland-walk-walking-and-cycle-route"
+        },
+        {
+            "description": "Wolsingham",
+            "objectID": "9b480b80e6e474bba479f7f536c3479b",
+            "ref": "wolsingham-walking-route"
+        },
+        {
+            "description": "Tunstall Reservoir",
+            "objectID": "41b4ef47ffdf9bb79af74d5afbe69524",
+            "ref": "tunstall-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Whitworth Hall Country Park",
+            "objectID": "db16bc27088f9a4910fd900a19ea7592",
+            "ref": "whitworth-hall-country-park-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3fafdd35db92d20c8b5c55cc62e63abc.gpx",
+    "_geoloc": {
+        "lat": 54.6758941847,
+        "lng": -1.8569544545
     },
-    {
-      "description": "Bishop Auckland",
-      "objectID": "fc04a0909362c2792f3dd92f8ed3451c",
-      "ref": "bishop-auckland-walking-route"
-    },
-    {
-      "description": "Brandon - Bishop Auckland Walk",
-      "objectID": "659bfb57d8ec526e092f8e8249797b06",
-      "ref": "brandon---bishop-auckland-walk-walking-and-cycle-route"
-    },
-    {
-      "description": "Wolsingham",
-      "objectID": "9b480b80e6e474bba479f7f536c3479b",
-      "ref": "wolsingham-walking-route"
-    },
-    {
-      "description": "Tunstall Reservoir",
-      "objectID": "41b4ef47ffdf9bb79af74d5afbe69524",
-      "ref": "tunstall-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Whitworth Hall Country Park",
-      "objectID": "db16bc27088f9a4910fd900a19ea7592",
-      "ref": "whitworth-hall-country-park-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3fafdd35db92d20c8b5c55cc62e63abc.gpx",
-  "_geoloc": {
-    "lat": 54.6758941847,
-    "lng": -1.8569544545
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hamsterley_Forest_-_geograph.org.uk_-_590397.jpg",
-      "title": "Peter McDermott / Hamsterley Forest",
-      "caption": "Track leading up to Sharnberry Flat in Hamsterley Forest."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Millennium_Stone%2C_Hamsterley_Forest_-_geograph.org.uk_-_76606.jpg",
-      "title": "Uncredited / Millennium Stone, Hamsterley Forest",
-      "caption": "Millennium Stone, Hamsterley Forest. At about the highest point in the forest there is a \"Millennium Stone\". This marks the point where several tracks intersect. Note how there has been quite extensive clearance, before replanting, in this part of the forest."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Forest_Walk_%2C_Hamsterley_Forest_-_geograph.org.uk_-_244153.jpg",
-      "title": "Hugh Mortimer / Forest Walk : Hamsterley Forest",
-      "caption": "Forest Path through Crossfield Plantation, south of Bedburn Beck"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Entrance_to_Blackling_Hole_car_park%2CHamsterley_Forest_-_geograph.org.uk_-_838272.jpg",
-      "title": "brian clark / Entrance to Blackling Hole car park,Hamsterley Forest",
-      "caption": "Entrance to Blackling Hole car park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bike_Skills_Demonstration_%2C_Hamsterley_Forest_-_geograph.org.uk_-_244167.jpg",
-      "title": "Hugh Mortimer / Bike Skills Demonstration : Hamsterley Forest",
-      "caption": "Bike Skills Demonstration. Demonstration, part of the annual Milk Stout, Macmillan Cancer Support Charity Bike Ride. This rider is attempting to crush the drinks can, and succeeding! The Forest Visitors Centre is in the background with the Bike Hire cabin nearby."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ford_and_bridge%2C_Hamsterley_Forest_-_geograph.org.uk_-_58647.jpg",
-      "title": "Andrew Smith / Ford and bridge, Hamsterley Forest",
-      "caption": "Ford and bridge. Through/over Spurlswood Beck, at the entrance to the Blackling Hole car park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Downhill_Mountainbikers%2C_Windy_Bank_Road%2C_Hamsterley_Forest_-_geograph.org.uk_-_329331.jpg",
-      "title": "Hugh Mortimer / Downhill Mountainbikers : Windy Bank Road : Hamsterley Forest",
-      "caption": "Downhill Mountainbikers, Windy Bank Road. Top of the Downhill Course, opposite Mayland Lea Farm."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Neighbour_Moor%2C_Hamsterley_Forest_-_geograph.org.uk_-_242191.jpg",
-      "title": "Hugh Mortimer / Neighbour Moor : Hamsterly Forest",
-      "caption": "Neighbour Moor. The remains of Neighbour Moor House, can be seen to the right of the only tree standing, and has recently been uncovered by logging work. Acton Beck runs below the Farmhouse"
-    }
-  ],
-  "distance_km": 15.0,
-  "description": "Hamsterley Forest is a great place for exciting mountain bike trails, leisurely family cycle rides or peaceful woodland walking. There are three colour coded, way-marked mountain bike trails in the forest. The blue trail follows purpose built cycle tracks and the Bedburn Beck through the southern part of the forest at a leisurely pace. It's suitable for families and people looking for a gentle introduction to off road cycling. The red trail goes further into the forest and climbs to a point with fabulous views of the surrounding area before descending on an exciting single track running along Euden Beck. The black trail is the most severe trail and suitable for experienced mountain bikers. Cycle hire is available from the start of route below. Walkers will find five way-marked trails of varying lengths and difficulty to follow. These include an easy, riverside stroll along Bedburn Beck and longer trails with climbs and a visit to Blackling Hole waterfall. The route mapped out below is suitable for both leisure walkers and cyclists looking for a fairly easy ride. The forest also includes a Gruffalo Sculptures trail where you can see some of the characters from Julia Donaldson's children's story. This is a nice one for families to do. The splendidly named mtb trails, jumps and loops can be seen marked blue in the open street map link below. These include Brain Freeze, When in Loam, Special K, Boneshaker, Two Wheels and a Troll, Nitrous, Accelerator, Transmission, Polty's Last Blast and K-Line.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There's a good on site cafe selling a decent range of meals and snacks. If you fancy a pub lunch then you could head east into Hamsterley village and visit The Cross Keys. It's very walker friendly and serves good food which you can enjoy in the garden area on warmer days. You can find them in the village on Saunders Avenue with postcode DL13 3PX for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "As you'd expect the wide forest trails are great for dog walking. You are bound to bump into other owners with their pets on a fine day. Please keep them on leads around the car parks, the Visitor Centre, Cafe and picnic area. The Cross Keys pub mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the east of the forest you'll find the village of Hamsterley. Near here you can pick up the Weardale Way and follow the waymarked trail along the river into nearby Bishop Auckland. Here cyclists and walkers can be pick up the Brandon - Bishop Auckland Walk which runs along a disused railway line. Just to the north of the forest there's the interesting village of Wolsingham to visit. There's some nice waterside walks along the Waskerley Beck with waterfalls and the lovely Tunstall Reservoir to see as well. For more walking ideas in the area see the County Durham Walks and the North Pennines Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/cdzPSs-wHW0",
-  "county": "County Durham",
-  "region": "North East",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Disabled car parking, Redford Lane, South Bedburn, County Durham, North East, England, DL13 3NP, United Kingdom",
-  "postcode": "DL13 3NP",
-  "district": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "waterfall",
-    "sculpture trail"
-  ],
-  "facilities": [
-    "cafe",
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "null",
-  "activities": [
-    "walking",
-    "cycling",
-    "mountain biking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hamsterley_Forest_-_geograph.org.uk_-_590397.jpg",
+            "title": "Peter McDermott / Hamsterley Forest",
+            "caption": "Track leading up to Sharnberry Flat in Hamsterley Forest."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Millennium_Stone%2C_Hamsterley_Forest_-_geograph.org.uk_-_76606.jpg",
+            "title": "Uncredited / Millennium Stone, Hamsterley Forest",
+            "caption": "Millennium Stone, Hamsterley Forest. At about the highest point in the forest there is a \"Millennium Stone\". This marks the point where several tracks intersect. Note how there has been quite extensive clearance, before replanting, in this part of the forest."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Forest_Walk_%2C_Hamsterley_Forest_-_geograph.org.uk_-_244153.jpg",
+            "title": "Hugh Mortimer / Forest Walk : Hamsterley Forest",
+            "caption": "Forest Path through Crossfield Plantation, south of Bedburn Beck"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Entrance_to_Blackling_Hole_car_park%2CHamsterley_Forest_-_geograph.org.uk_-_838272.jpg",
+            "title": "brian clark / Entrance to Blackling Hole car park,Hamsterley Forest",
+            "caption": "Entrance to Blackling Hole car park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bike_Skills_Demonstration_%2C_Hamsterley_Forest_-_geograph.org.uk_-_244167.jpg",
+            "title": "Hugh Mortimer / Bike Skills Demonstration : Hamsterley Forest",
+            "caption": "Bike Skills Demonstration. Demonstration, part of the annual Milk Stout, Macmillan Cancer Support Charity Bike Ride. This rider is attempting to crush the drinks can, and succeeding! The Forest Visitors Centre is in the background with the Bike Hire cabin nearby."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ford_and_bridge%2C_Hamsterley_Forest_-_geograph.org.uk_-_58647.jpg",
+            "title": "Andrew Smith / Ford and bridge, Hamsterley Forest",
+            "caption": "Ford and bridge. Through/over Spurlswood Beck, at the entrance to the Blackling Hole car park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Downhill_Mountainbikers%2C_Windy_Bank_Road%2C_Hamsterley_Forest_-_geograph.org.uk_-_329331.jpg",
+            "title": "Hugh Mortimer / Downhill Mountainbikers : Windy Bank Road : Hamsterley Forest",
+            "caption": "Downhill Mountainbikers, Windy Bank Road. Top of the Downhill Course, opposite Mayland Lea Farm."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Neighbour_Moor%2C_Hamsterley_Forest_-_geograph.org.uk_-_242191.jpg",
+            "title": "Hugh Mortimer / Neighbour Moor : Hamsterly Forest",
+            "caption": "Neighbour Moor. The remains of Neighbour Moor House, can be seen to the right of the only tree standing, and has recently been uncovered by logging work. Acton Beck runs below the Farmhouse"
+        }
+    ],
+    "distance_km": 15.0,
+    "description": "Hamsterley Forest is a great place for exciting mountain bike trails, leisurely family cycle rides or peaceful woodland walking. There are three colour coded, way-marked mountain bike trails in the forest. The blue trail follows purpose built cycle tracks and the Bedburn Beck through the southern part of the forest at a leisurely pace. It's suitable for families and people looking for a gentle introduction to off road cycling. The red trail goes further into the forest and climbs to a point with fabulous views of the surrounding area before descending on an exciting single track running along Euden Beck. The black trail is the most severe trail and suitable for experienced mountain bikers. Cycle hire is available from the start of route below. Walkers will find five way-marked trails of varying lengths and difficulty to follow. These include an easy, riverside stroll along Bedburn Beck and longer trails with climbs and a visit to Blackling Hole waterfall. The route mapped out below is suitable for both leisure walkers and cyclists looking for a fairly easy ride. The forest also includes a Gruffalo Sculptures trail where you can see some of the characters from Julia Donaldson's children's story. This is a nice one for families to do. The splendidly named mtb trails, jumps and loops can be seen marked blue in the open street map link below. These include Brain Freeze, When in Loam, Special K, Boneshaker, Two Wheels and a Troll, Nitrous, Accelerator, Transmission, Polty's Last Blast and K-Line.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There's a good on site cafe selling a decent range of meals and snacks. If you fancy a pub lunch then you could head east into Hamsterley village and visit The Cross Keys. It's very walker friendly and serves good food which you can enjoy in the garden area on warmer days. You can find them in the village on Saunders Avenue with postcode DL13 3PX for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "As you'd expect the wide forest trails are great for dog walking. You are bound to bump into other owners with their pets on a fine day. Please keep them on leads around the car parks, the Visitor Centre, Cafe and picnic area. The Cross Keys pub mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the east of the forest you'll find the village of Hamsterley. Near here you can pick up the Weardale Way and follow the waymarked trail along the river into nearby Bishop Auckland. Here cyclists and walkers can be pick up the Brandon - Bishop Auckland Walk which runs along a disused railway line. Just to the north of the forest there's the interesting village of Wolsingham to visit. There's some nice waterside walks along the Waskerley Beck with waterfalls and the lovely Tunstall Reservoir to see as well. For more walking ideas in the area see the County Durham Walks and the North Pennines Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/cdzPSs-wHW0",
+    "county": "County Durham",
+    "region": "North East",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Disabled car parking, Redford Lane, South Bedburn, County Durham, North East, England, DL13 3NP, United Kingdom",
+    "postcode": "DL13 3NP",
+    "district": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["woodland"],
+    "points_of_interest": ["viewpoint", "waterfall", "sculpture trail"],
+    "facilities": ["cafe", "pub/cafe", "car park", "dog friendly"],
+    "route_type": null,
+    "activities": ["walking", "cycling", "mountain biking"]
 }

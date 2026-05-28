@@ -1,168 +1,157 @@
 {
-  "created_at": "2025-01-06T04:52:07.040392+00:00",
-  "objectID": "1b9df3ce4782005d5d9dee4e5a37b1f7",
-  "ref": "shropshire-way-walking-route",
-  "title": "Shropshire Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Clun_Castle_-_geograph.org.uk_-_1149538.jpg",
-  "nearby": [
-    {
-      "description": "The Ercall",
-      "objectID": "ed5bd8afa5c0f6ed58e413619e8cf13d",
-      "ref": "the-ercall-walking-route"
+    "created_at": "2025-01-06T04:52:07.040392+00:00",
+    "objectID": "1b9df3ce4782005d5d9dee4e5a37b1f7",
+    "ref": "shropshire-way-walking-route",
+    "title": "Shropshire Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Clun_Castle_-_geograph.org.uk_-_1149538.jpg",
+    "nearby": [
+        {
+            "description": "The Ercall",
+            "objectID": "ed5bd8afa5c0f6ed58e413619e8cf13d",
+            "ref": "the-ercall-walking-route"
+        },
+        {
+            "description": "Lyth Hill Country Park",
+            "objectID": "3c471fbb040ca8128420b4621565f39a",
+            "ref": "lyth-hill-country-park-walking-route"
+        },
+        {
+            "description": "Brown Moss Nature Reserve",
+            "objectID": "1cc9d283115e174a8a9bff7b06e5972a",
+            "ref": "brown-moss-nature-reserve-walking-route"
+        },
+        {
+            "description": "Carding Mill Valley",
+            "objectID": "398cd8f7df357bbd8de4b68e35980590",
+            "ref": "carding-mill-valley-walking-route"
+        },
+        {
+            "description": "Long Mynd",
+            "objectID": "eb6d4b9132e179f2a324e6a9d80e5725",
+            "ref": "long-mynd-walking-route"
+        },
+        {
+            "description": "The Wrekin",
+            "objectID": "382172122ba35a0c58e6a5273a47bc50",
+            "ref": "the-wrekin-walking-route"
+        },
+        {
+            "description": "Haughmond Hill",
+            "objectID": "3205af6a8753e6ad7c472c53d276c449",
+            "ref": "haughmond-hill-walking-route"
+        },
+        {
+            "description": "Wenlock Edge",
+            "objectID": "ca917056e7663b9e5c6b6c5e1c50c2bc",
+            "ref": "wenlock-edge-walking-route"
+        },
+        {
+            "description": "Clee Hills",
+            "objectID": "92d7e732eb94b3b36939fcb66510a11e",
+            "ref": "clee-hills-walking-route"
+        },
+        {
+            "description": "Shrewsbury Canal",
+            "objectID": "a438d8a64711d10a25c29f3202b444b5",
+            "ref": "shrewsbury-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Shropshire Union Canal",
+            "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
+            "ref": "shropshire-union-canal-walking-route"
+        },
+        {
+            "description": "Stokesay Castle",
+            "objectID": "978c41ad6ca487c7afd0ef9260e454a3",
+            "ref": "stokesay-castle-walking-route"
+        },
+        {
+            "description": "Clun Castle",
+            "objectID": "6bc49da167244508c24df6e4a24afdd2",
+            "ref": "clun-castle-walking-route"
+        },
+        {
+            "description": "Stiperstones",
+            "objectID": "eed05945e064e42101a206a3a832088f",
+            "ref": "stiperstones-walking-route"
+        },
+        {
+            "description": "Ratlinghope",
+            "objectID": "dcee5c3231914d68ed7c10a34566517c",
+            "ref": "ratlinghope-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b9df3ce4782005d5d9dee4e5a37b1f7.gpx",
+    "_geoloc": {
+        "lat": 52.9845943082,
+        "lng": -2.714111308
     },
-    {
-      "description": "Lyth Hill Country Park",
-      "objectID": "3c471fbb040ca8128420b4621565f39a",
-      "ref": "lyth-hill-country-park-walking-route"
-    },
-    {
-      "description": "Brown Moss Nature Reserve",
-      "objectID": "1cc9d283115e174a8a9bff7b06e5972a",
-      "ref": "brown-moss-nature-reserve-walking-route"
-    },
-    {
-      "description": "Carding Mill Valley",
-      "objectID": "398cd8f7df357bbd8de4b68e35980590",
-      "ref": "carding-mill-valley-walking-route"
-    },
-    {
-      "description": "Long Mynd",
-      "objectID": "eb6d4b9132e179f2a324e6a9d80e5725",
-      "ref": "long-mynd-walking-route"
-    },
-    {
-      "description": "The Wrekin",
-      "objectID": "382172122ba35a0c58e6a5273a47bc50",
-      "ref": "the-wrekin-walking-route"
-    },
-    {
-      "description": "Haughmond Hill",
-      "objectID": "3205af6a8753e6ad7c472c53d276c449",
-      "ref": "haughmond-hill-walking-route"
-    },
-    {
-      "description": "Wenlock Edge",
-      "objectID": "ca917056e7663b9e5c6b6c5e1c50c2bc",
-      "ref": "wenlock-edge-walking-route"
-    },
-    {
-      "description": "Clee Hills",
-      "objectID": "92d7e732eb94b3b36939fcb66510a11e",
-      "ref": "clee-hills-walking-route"
-    },
-    {
-      "description": "Shrewsbury Canal",
-      "objectID": "a438d8a64711d10a25c29f3202b444b5",
-      "ref": "shrewsbury-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Shropshire Union Canal",
-      "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
-      "ref": "shropshire-union-canal-walking-route"
-    },
-    {
-      "description": "Stokesay Castle",
-      "objectID": "978c41ad6ca487c7afd0ef9260e454a3",
-      "ref": "stokesay-castle-walking-route"
-    },
-    {
-      "description": "Clun Castle",
-      "objectID": "6bc49da167244508c24df6e4a24afdd2",
-      "ref": "clun-castle-walking-route"
-    },
-    {
-      "description": "Stiperstones",
-      "objectID": "eed05945e064e42101a206a3a832088f",
-      "ref": "stiperstones-walking-route"
-    },
-    {
-      "description": "Ratlinghope",
-      "objectID": "dcee5c3231914d68ed7c10a34566517c",
-      "ref": "ratlinghope-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b9df3ce4782005d5d9dee4e5a37b1f7.gpx",
-  "_geoloc": {
-    "lat": 52.9845943082,
-    "lng": -2.714111308
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Clun_Castle_-_geograph.org.uk_-_1149538.jpg",
-      "title": "Jeff Buck / Clun Castle",
-      "caption": "Clun Castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Stokesay_Castle_-_geograph.org.uk_-_1030901.jpg",
-      "title": "Keith Evans / Stokesay Castle",
-      "caption": "Stokesay Castle as seen from the churchyard of St.John the Baptist Craven Arms."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sundorne_Farm_-_geograph.org.uk_-_128485.jpg",
-      "title": "Keith Havercroft / Sundorne Farm",
-      "caption": "Sundorne Farm. A view from The Shropshire Way near Haughmond Abbey, looking towards the distant spires of Shrewsbury."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_River_Kemp%2C_Kempton_-_geograph.org.uk_-_162587.jpg",
-      "title": "Philip Halling / The River Kemp, Kempton",
-      "caption": "The River Kemp, Kempton. The river Kemp and attractive water garden viewed from the Shropshire Way as it crosses a bridge near Kempton."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Shropshire_Way_-_geograph.org.uk_-_157598.jpg",
-      "title": "Charles Leventon / The Shropshire Way",
-      "caption": "Farmland and rolling hills near Wentnor."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Colebatch_from_the_Shropshire_Way_-_geograph.org.uk_-_122239.jpg",
-      "title": "David Long / Colebatch from the Shropshire Way",
-      "caption": "Colebatch from the Shropshire Way. Ancient furrows show in the pasture behind the farm."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Across_the_Fields_to_Holdgate%2C_Shropshire_-_geograph.org.uk_-_674314.jpg",
-      "title": "Roger Kidd / Across the Fields to Holdgate, Shropshire",
-      "caption": "Across the Fields to Holdgate. This view looks northwards across farmland, from the tree avenue through which the Shropshire Way footpath goes."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Stiperstones_-_geograph.org.uk_-_1111765.jpg",
-      "title": "Derek Harper / The Stiperstones",
-      "caption": "The Stiperstones. Left of centre is The Devil's Chair, which may resemble a chair from some directions. The trail passes between it and the nearer rock on the right."
-    }
-  ],
-  "distance_km": 224.0,
-  "description": "This walk takes you through some of the most beautiful countryside in Shropshire. You will visit Shrewsbury, Clun (with its ruined castle), Ludlow, Clee Hills, Wenlock Edge, Ironbridge and The Wrekin, where there are some truly spectacular views of this splendid county. The walk begins at Grindley Brook, near Whitchurch, and runs along a circuit to finish a Wem. Walk Highlights include:",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Clun you could stop off at The White Horse Inn for some refreshments on your walk. The 16th century inn has a lovely garden area where you can relax and enjoy a meal on a sunny day. You can find the inn on The Square at a postcode of SY7 8JA for your sat navs. It's also dog friendly if you have your canine friend in tow. The Sun Inn on the High Street is another good option, dating all the way back to the 15th century. It has a real old world feel and also has a nice garden area. Stokesay Castle includes a lovely tea room where you can enjoy a meal with a view of the surrounding Shropshire countryside. In Craven Arms you could also visit the Stokesay Castle Hotel where there's good food and a nice pub garden. You can find the pub on School Road at a postcode of SY7 9PE for your sat navs.  Ratlinghope village is located in the Long Mynd area just west of the Pole Bank summit. It's a pretty place located on both the River East Onny and the Darnford Brook. You could stop off at The Bridges Pub which is in a lovely riverside spot. They serve homegrown, locally sourced food and drink. It's great in fine weather with a garden area in the front overlooking the River East Onny as well as a secluded rear garden sitting alongside the Darnford Brook. You can find them at postcode SY5 0ST for you sat navs."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/XwGJwqGvr-E",
-  "county": "Shropshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Horse and Jockey, Old Malpas Road, Whitchurch Urban, Whitchurch, Shropshire, England, SY13 4QJ, United Kingdom",
-  "postcode": "SY13 4QJ",
-  "district": "Whitchurch",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "null",
-  "difficulty": "moderate",
-  "terrain": [
-    "countryside"
-  ],
-  "points_of_interest": [
-    "ruined castle",
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Clun_Castle_-_geograph.org.uk_-_1149538.jpg",
+            "title": "Jeff Buck / Clun Castle",
+            "caption": "Clun Castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Stokesay_Castle_-_geograph.org.uk_-_1030901.jpg",
+            "title": "Keith Evans / Stokesay Castle",
+            "caption": "Stokesay Castle as seen from the churchyard of St.John the Baptist Craven Arms."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sundorne_Farm_-_geograph.org.uk_-_128485.jpg",
+            "title": "Keith Havercroft / Sundorne Farm",
+            "caption": "Sundorne Farm. A view from The Shropshire Way near Haughmond Abbey, looking towards the distant spires of Shrewsbury."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_River_Kemp%2C_Kempton_-_geograph.org.uk_-_162587.jpg",
+            "title": "Philip Halling / The River Kemp, Kempton",
+            "caption": "The River Kemp, Kempton. The river Kemp and attractive water garden viewed from the Shropshire Way as it crosses a bridge near Kempton."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Shropshire_Way_-_geograph.org.uk_-_157598.jpg",
+            "title": "Charles Leventon / The Shropshire Way",
+            "caption": "Farmland and rolling hills near Wentnor."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Colebatch_from_the_Shropshire_Way_-_geograph.org.uk_-_122239.jpg",
+            "title": "David Long / Colebatch from the Shropshire Way",
+            "caption": "Colebatch from the Shropshire Way. Ancient furrows show in the pasture behind the farm."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Across_the_Fields_to_Holdgate%2C_Shropshire_-_geograph.org.uk_-_674314.jpg",
+            "title": "Roger Kidd / Across the Fields to Holdgate, Shropshire",
+            "caption": "Across the Fields to Holdgate. This view looks northwards across farmland, from the tree avenue through which the Shropshire Way footpath goes."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Stiperstones_-_geograph.org.uk_-_1111765.jpg",
+            "title": "Derek Harper / The Stiperstones",
+            "caption": "The Stiperstones. Left of centre is The Devil's Chair, which may resemble a chair from some directions. The trail passes between it and the nearer rock on the right."
+        }
+    ],
+    "distance_km": 224.0,
+    "description": "This walk takes you through some of the most beautiful countryside in Shropshire. You will visit Shrewsbury, Clun (with its ruined castle), Ludlow, Clee Hills, Wenlock Edge, Ironbridge and The Wrekin, where there are some truly spectacular views of this splendid county. The walk begins at Grindley Brook, near Whitchurch, and runs along a circuit to finish a Wem. Walk Highlights include:",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Clun you could stop off at The White Horse Inn for some refreshments on your walk. The 16th century inn has a lovely garden area where you can relax and enjoy a meal on a sunny day. You can find the inn on The Square at a postcode of SY7 8JA for your sat navs. It's also dog friendly if you have your canine friend in tow. The Sun Inn on the High Street is another good option, dating all the way back to the 15th century. It has a real old world feel and also has a nice garden area. Stokesay Castle includes a lovely tea room where you can enjoy a meal with a view of the surrounding Shropshire countryside. In Craven Arms you could also visit the Stokesay Castle Hotel where there's good food and a nice pub garden. You can find the pub on School Road at a postcode of SY7 9PE for your sat navs.  Ratlinghope village is located in the Long Mynd area just west of the Pole Bank summit. It's a pretty place located on both the River East Onny and the Darnford Brook. You could stop off at The Bridges Pub which is in a lovely riverside spot. They serve homegrown, locally sourced food and drink. It's great in fine weather with a garden area in the front overlooking the River East Onny as well as a secluded rear garden sitting alongside the Darnford Brook. You can find them at postcode SY5 0ST for you sat navs."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/XwGJwqGvr-E",
+    "county": "Shropshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Horse and Jockey, Old Malpas Road, Whitchurch Urban, Whitchurch, Shropshire, England, SY13 4QJ, United Kingdom",
+    "postcode": "SY13 4QJ",
+    "district": "Whitchurch",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["countryside"],
+    "points_of_interest": ["ruined castle", "viewpoint", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }
