@@ -1,120 +1,134 @@
 {
-    "created_at": "2025-01-06T08:43:45.862838+00:00",
-    "objectID": "f4cc36d12ecf2f13ba46c54ae971c599",
-    "ref": "fairy-pools-skye-walking-route",
-    "title": "Fairy Pools Skye Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg/500px-The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg",
-    "nearby": [
-        {
-            "description": "Fairy Glen Skye",
-            "objectID": "78563543ac58fdb1177426fde3a82e48",
-            "ref": "fairy-glen-skye-walking-route"
-        },
-        {
-            "description": "Loch Coruisk",
-            "objectID": "2f757bcc9be8be0bdea2121e4e10d0ce",
-            "ref": "loch-coruisk-walking-route"
-        },
-        {
-            "description": "Kilt Rock And Mealt Falls",
-            "objectID": "540be0a7d2737c2f32d952fb8f6be1f2",
-            "ref": "kilt-rock-and-mealt-falls-walking-route"
-        },
-        {
-            "description": "Portree Scorrybreac Walk",
-            "objectID": "43c212dbcaa20fb021dbd9a45b29343f",
-            "ref": "portree-scorrybreac-walking-route"
-        },
-        {
-            "description": "Dun Beag Broch",
-            "objectID": "c2773ce772637640ab06d27776f8471b",
-            "ref": "dun-beag-broch-walking-route"
-        },
-        {
-            "description": "Talisker Bay Beach",
-            "objectID": "6b45aa6fe219565dc4733c4789cd3c5a",
-            "ref": "talisker-bay-beach-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4cc36d12ecf2f13ba46c54ae971c599.gpx",
-    "_geoloc": {
-        "lat": 57.25066091,
-        "lng": -6.27158403
+  "created_at": "2025-01-06T08:43:45.862838+00:00",
+  "objectID": "f4cc36d12ecf2f13ba46c54ae971c599",
+  "ref": "fairy-pools-skye-walking-route",
+  "title": "Fairy Pools Skye Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg/500px-The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg",
+  "nearby": [
+    {
+      "description": "Fairy Glen Skye",
+      "objectID": "78563543ac58fdb1177426fde3a82e48",
+      "ref": "fairy-glen-skye-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg/500px-The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg",
-            "title": "gailhampshire from Cradley, Malvern, U.K [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-            "caption": "The Fairy Pools, Skye. Underwater Arch."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fairy_Pools%2C_Skye%2C_Scotland_12_%28Highest_pool%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_12_%28Highest_pool%29.jpg",
-            "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
-            "caption": "Highest pool"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fairy_Pools%2C_Skye%2C_Scotland_18_%28long_view%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_18_%28long_view%29.jpg",
-            "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
-            "caption": "Facing across the moor towards Allt Coir' a' Mhadaith and the pools."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fairy_Pools%2C_Skye%2C_Scotland_14_%28highest_pool%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_14_%28highest_pool%29.jpg",
-            "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
-            "caption": "Facing upstream. The highest of the pools, framed to include the mounting (Sg\u00f9rr na Banachdaich?) in the background"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Waterfall_in_Coire_na_Creiche_-_geograph.org.uk_-_2948771.jpg",
-            "title": "Waterfall in Coire na Creiche by John Allan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Waterfall in Coire na Creiche"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allt_Coir%27_a%27_Mhadaidh_-_geograph.org.uk_-_878759.jpg",
-            "title": "John Allan / Allt Coir' a' Mhadaidh",
-            "caption": "Allt Coir' a' Mhadaidh. Looking downstreamfrom Coire na Creiche. In the distance is Beinn a'Bhraghad."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Waterfall_in_Allt_an_Fhamhair_-_geograph.org.uk_-_3709285.jpg/500px-Waterfall_in_Allt_an_Fhamhair_-_geograph.org.uk_-_3709285.jpg",
-            "title": "Waterfall in Allt an Fhamhair by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Waterfall in Allt an Fhamhair"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ath_Allt_an_Fhamhair_-_geograph.org.uk_-_3944528.jpg/500px-Ath_Allt_an_Fhamhair_-_geograph.org.uk_-_3944528.jpg",
-            "title": "Ath Allt an Fhamhair by Tiger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ath Allt an Fhamhair. A group of walkers crossing the rocks and stream."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "This delightful walk visits a bubbling stream with a series of lovely pools and waterfalls. It's an exceptionally beautiful area and one of the highlights on the Isle of Skye. This circular walk takes you through the popular beauty spot with the option of continuing with a climb to Bealach a Mhaim. On the route look out for the wonderful underwater arch and the views of the surrounding mountains. The walk starts from the Fairy Pools car park in Glen Brittle and heads east along the stream through Coire na Creiche. You then climb to Bealach a Mhaim, before descending back to the car park. The full route includes quite a challenging climb with the high point around Bealach a Mhaim standing at almost 1300ft. You will be rewarded with fantastic views over Glen Brittle and the Glen Brittle Forest below. The area is also great for wildlife spotting. Look out for red deer, rabbits and a variety of birds. These include meadow pipits, turnstones, common ringed plovers, grey herons, dunlins, and curlews. Please note the car park is quite small (you can see it on the google street view link below). It's a popular place so it's a good idea to get there early to get a spot! It's also advisable to bring good walking shoes as there are stepping stones and boggy areas to cross. If you enjoy this walk you could head to the Fairy Glen near Uig. There's more pretty waterfalls and interesting rock formations to see here.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "If you head south you could visit the nearby Glen Brittle Waterfalls where there's more wonderful scenery to enjoy. Near here there's the Glen Brittle Campsite & Cafe where you can enjoy a delicious snack near the beach at Loch Brittle. You can find the cafe at Carbost, IV47 8TA."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "People often bring their dog for a walk along the trail. They will enjoy a splash and a paddle in the pools. The Glen Brittle cafe mentioned above is also dog friendly. They will enjoy a run along the beach here too."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For a challenging climb on the island head to the Quiraing, the northernmost summit of the Trotternish. The hike is a favourite for many with some spectacular views to enjoy. The Old Man of Storr is another good option with some wonderful rock formations and views to enjoy. To the south there's a splendid circular hike around the beautiful Loch Coruisk in the Cullin range. To the north east you can visit the Island's capital at Portree. Here you can pick up the circular Portree Scorrybreac Walk and enjoy views of the picturesque harbour, the colourful buildings of Portree town and out to the Island of Raasay. To the north west there's some interesting ancient history at Dun Beag Broch. The Iron Age site is one of the best-preserved examples of a broch in Scotland.  Just to the west there's the lovely Talisker Bay Beach. Here you will find a lovely, quiet beach with some impressive sea stacks and views to a waterfall. For more walking ideas in the area see the Isle of Skye Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Y9dfkV1OkCE",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Highland, Alba / Scotland, IV47 8SX, United Kingdom",
-    "postcode": "IV47 8SX",
-    "district": null,
-    "county": "Highland",
-    "region": null,
-    "state": "Alba / Scotland",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "3-4 hours",
-    "difficulty": "moderate",
-    "terrain": ["mountain", "woodland"],
-    "points_of_interest": ["viewpoint", "waterfall", "arch"],
-    "facilities": ["car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Loch Coruisk",
+      "objectID": "2f757bcc9be8be0bdea2121e4e10d0ce",
+      "ref": "loch-coruisk-walking-route"
+    },
+    {
+      "description": "Kilt Rock And Mealt Falls",
+      "objectID": "540be0a7d2737c2f32d952fb8f6be1f2",
+      "ref": "kilt-rock-and-mealt-falls-walking-route"
+    },
+    {
+      "description": "Portree Scorrybreac Walk",
+      "objectID": "43c212dbcaa20fb021dbd9a45b29343f",
+      "ref": "portree-scorrybreac-walking-route"
+    },
+    {
+      "description": "Dun Beag Broch",
+      "objectID": "c2773ce772637640ab06d27776f8471b",
+      "ref": "dun-beag-broch-walking-route"
+    },
+    {
+      "description": "Talisker Bay Beach",
+      "objectID": "6b45aa6fe219565dc4733c4789cd3c5a",
+      "ref": "talisker-bay-beach-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4cc36d12ecf2f13ba46c54ae971c599.gpx",
+  "_geoloc": {
+    "lat": 57.25066091,
+    "lng": -6.27158403
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg/500px-The_Fairy_Pools%2C_Skye._Underwater_Arch._-_Flickr_-_gailhampshire.jpg",
+      "title": "gailhampshire from Cradley, Malvern, U.K [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "caption": "The Fairy Pools, Skye. Underwater Arch."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fairy_Pools%2C_Skye%2C_Scotland_12_%28Highest_pool%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_12_%28Highest_pool%29.jpg",
+      "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+      "caption": "Highest pool"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fairy_Pools%2C_Skye%2C_Scotland_18_%28long_view%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_18_%28long_view%29.jpg",
+      "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+      "caption": "Facing across the moor towards Allt Coir' a' Mhadaith and the pools."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fairy_Pools%2C_Skye%2C_Scotland_14_%28highest_pool%29.jpg/500px-Fairy_Pools%2C_Skye%2C_Scotland_14_%28highest_pool%29.jpg",
+      "title": "Drianmcdonald [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+      "caption": "Facing upstream. The highest of the pools, framed to include the mounting (Sg\u00f9rr na Banachdaich?) in the background"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Waterfall_in_Coire_na_Creiche_-_geograph.org.uk_-_2948771.jpg",
+      "title": "Waterfall in Coire na Creiche by John Allan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Waterfall in Coire na Creiche"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allt_Coir%27_a%27_Mhadaidh_-_geograph.org.uk_-_878759.jpg",
+      "title": "John Allan / Allt Coir' a' Mhadaidh",
+      "caption": "Allt Coir' a' Mhadaidh. Looking downstreamfrom Coire na Creiche. In the distance is Beinn a'Bhraghad."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Waterfall_in_Allt_an_Fhamhair_-_geograph.org.uk_-_3709285.jpg/500px-Waterfall_in_Allt_an_Fhamhair_-_geograph.org.uk_-_3709285.jpg",
+      "title": "Waterfall in Allt an Fhamhair by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Waterfall in Allt an Fhamhair"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ath_Allt_an_Fhamhair_-_geograph.org.uk_-_3944528.jpg/500px-Ath_Allt_an_Fhamhair_-_geograph.org.uk_-_3944528.jpg",
+      "title": "Ath Allt an Fhamhair by Tiger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ath Allt an Fhamhair. A group of walkers crossing the rocks and stream."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "This delightful walk visits a bubbling stream with a series of lovely pools and waterfalls. It's an exceptionally beautiful area and one of the highlights on the Isle of Skye. This circular walk takes you through the popular beauty spot with the option of continuing with a climb to Bealach a Mhaim. On the route look out for the wonderful underwater arch and the views of the surrounding mountains. The walk starts from the Fairy Pools car park in Glen Brittle and heads east along the stream through Coire na Creiche. You then climb to Bealach a Mhaim, before descending back to the car park. The full route includes quite a challenging climb with the high point around Bealach a Mhaim standing at almost 1300ft. You will be rewarded with fantastic views over Glen Brittle and the Glen Brittle Forest below. The area is also great for wildlife spotting. Look out for red deer, rabbits and a variety of birds. These include meadow pipits, turnstones, common ringed plovers, grey herons, dunlins, and curlews. Please note the car park is quite small (you can see it on the google street view link below). It's a popular place so it's a good idea to get there early to get a spot! It's also advisable to bring good walking shoes as there are stepping stones and boggy areas to cross. If you enjoy this walk you could head to the Fairy Glen near Uig. There's more pretty waterfalls and interesting rock formations to see here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "If you head south you could visit the nearby Glen Brittle Waterfalls where there's more wonderful scenery to enjoy. Near here there's the Glen Brittle Campsite & Cafe where you can enjoy a delicious snack near the beach at Loch Brittle. You can find the cafe at Carbost, IV47 8TA."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "People often bring their dog for a walk along the trail. They will enjoy a splash and a paddle in the pools. The Glen Brittle cafe mentioned above is also dog friendly. They will enjoy a run along the beach here too."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a challenging climb on the island head to the Quiraing, the northernmost summit of the Trotternish. The hike is a favourite for many with some spectacular views to enjoy. The Old Man of Storr is another good option with some wonderful rock formations and views to enjoy. To the south there's a splendid circular hike around the beautiful Loch Coruisk in the Cullin range. To the north east you can visit the Island's capital at Portree. Here you can pick up the circular Portree Scorrybreac Walk and enjoy views of the picturesque harbour, the colourful buildings of Portree town and out to the Island of Raasay. To the north west there's some interesting ancient history at Dun Beag Broch. The Iron Age site is one of the best-preserved examples of a broch in Scotland.  Just to the west there's the lovely Talisker Bay Beach. Here you will find a lovely, quiet beach with some impressive sea stacks and views to a waterfall. For more walking ideas in the area see the Isle of Skye Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Y9dfkV1OkCE",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Highland, Alba / Scotland, IV47 8SX, United Kingdom",
+  "postcode": "IV47 8SX",
+  "district": null,
+  "county": "Highland",
+  "region": null,
+  "state": "Alba / Scotland",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "underwater arch",
+    "forest"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "wildlife spotting"
+  ]
 }

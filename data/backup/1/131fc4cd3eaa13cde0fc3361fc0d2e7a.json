@@ -1,124 +1,135 @@
 {
-    "created_at": "2025-01-06T05:18:41.385695+00:00",
-    "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
-    "ref": "avebury-stones-walking-route",
-    "title": "Avebury Stones Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Avebury_4.jpg/500px-Avebury_4.jpg",
-    "nearby": [
-        {
-            "description": "White Horse Trail",
-            "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
-            "ref": "white-horse-trail-walking-route"
-        },
-        {
-            "description": "Silbury Hill",
-            "objectID": "0aae9fdb3b0a9017250b6945820beb81",
-            "ref": "silbury-hill-walking-route"
-        },
-        {
-            "description": "Cherhill White Horse",
-            "objectID": "66bf3dd0621fdf25f8c5635bec31aec9",
-            "ref": "cherhill-white-horse-walking-route"
-        },
-        {
-            "description": "West Kennet Long Barrow",
-            "objectID": "acb300707c0604227e33148e68431cd9",
-            "ref": "west-kennet-long-barrow-walking-route"
-        },
-        {
-            "description": "West Woods",
-            "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
-            "ref": "west-woods-walking-and-cycle-route"
-        },
-        {
-            "description": "Fyfield Down",
-            "objectID": "4c5385f61aec3c360159cff8407f6d35",
-            "ref": "fyfield-down-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/131fc4cd3eaa13cde0fc3361fc0d2e7a.gpx",
-    "_geoloc": {
-        "lat": 51.4259200939,
-        "lng": -1.8580271793
+  "created_at": "2025-01-06T05:18:41.385695+00:00",
+  "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
+  "ref": "avebury-stones-walking-route",
+  "title": "Avebury Stones Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Avebury_4.jpg/500px-Avebury_4.jpg",
+  "nearby": [
+    {
+      "description": "White Horse Trail",
+      "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
+      "ref": "white-horse-trail-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Avebury_4.jpg/500px-Avebury_4.jpg",
-            "title": "Tony Grist [Public domain], via Wikimedia Commons",
-            "caption": "The Devil's Chair. Stone 1 in the Great Circle at Avebury henge, Wiltshire, U.K. Also known as the Devil's Chair or Devil's Seat. This guardian stone in the Great Circle has a 'seat' on this south-facing side. Beyond, to the right, is stone 101 of the inner South Circle."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2008_12_29_avebury_0059.JPG/500px-2008_12_29_avebury_0059.JPG",
-            "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Going anti-clockwise around the Great Circle from the left: stone 12, a concrete pylon marking the position of stone 11, stone 10, stone 9 (The Barber Stone), stone 8, stone 7, stone 6, stone 5 and stone 4. The trees in the background are at the southern entrance to Avebury henge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_barber_stone_avebury_great_circle01.jpg/330px-The_barber_stone_avebury_great_circle01.jpg",
-            "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Stone 9 of the south-west quadrant of Avebury henge's Great Circle, also known as the Barber Stone or the Barber-Surgeon Stone."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_diamond_stone_avebury_henge_wiltshire.jpg/500px-The_diamond_stone_avebury_henge_wiltshire.jpg",
-            "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Stone 46, the northern-most stone of the north-west quadrant at Avebury. Named the Diamond Stone (on account of its shape) or the Swindon Stone (on account of the adjacent road to Swindon)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Inner_south_circle_stones_avebury_henge.jpg/500px-Inner_south_circle_stones_avebury_henge.jpg",
-            "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Stones in the South Circle viewed from the south-east quadrant bank. From left to right, stones 103, 102, 101 and 105. The small concrete post marks the position of missing stone number 104. The tower of St James church is in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crop_circle_south_of_Avebury_henge%2C_Wiltshire_-_geograph.org.uk_-_31914.jpg",
-            "title": "Jim Champion / Crop circle south of Avebury henge, Wiltshire",
-            "caption": "Crop circle south of the henge. This is the view looking south from the bank of the henge at Avebury. This crop circle is in a field of ripe wheat on the northern end of Waden Hill, and a large number of tourists are taking the opportunity to visit. Avebury is famed for \"alternative\" things such as crop circles, UFO sightings and so on."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/North-west_quadrant_of_Avebury_henge_-_geograph.org.uk_-_25249.jpg",
-            "title": "Jim Champion / North-west quadrant of Avebury henge",
-            "caption": "North-west quadrant of the henge. The road to Swindon runs right through the stone circle. The henge's inner ditch can be seen in the foreground and on the right of the picture. The old stone buildings on the right form the \"visitor centre\" with a cafe and museum and Avebury church tower can be seen peeking above the trees. The megaliths made a convenient source of stone when the houses of the village were built, and many stones were buried (because of their heathen connotations). Many were re-erected during the 20th century."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Red_Lion_public_house%2C_Avebury_-_geograph.org.uk_-_282035.jpg",
-            "title": "Jim Champion / The Red Lion public house, Avebury",
-            "caption": "The Red Lion public house, Avebury village. This pub is one of the buildings in Avebury village that lie within the prehistoric henge. On this chilly evening there are no patrons sat on the benches outside. Buses to Swindon stop outside this pub, and there is a small pay-and-display car park to the right of the building."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "Visit the largest stone circle in Europe and then explore the lovely surrounding Wiltshire countryside on this circular walk in Wiltshire. You start off in the car park in Avebury and walk a short way to the stones. You'll pass through the pretty village of Avebury where you can find refreshment at the Red Lion Pub with its thatched roof and outdoor seating with views of the stones. The stones cover a wide area and date from the Neolithic and Bronze ages. Avebury is classified as a World Heritage Site. The walk then heads into the surrounding countryside making use of the White Horse Trail long distance walk. You follow the path to Windmill Hill near Winterbourne Monkton. The hill dates from the early Neolithic period and is the largest causewayed enclosure in Britain. From the hill there are wonderful views over the surrounding countryside. After soaking in the views you descend the hill and then follow good footpaths and country lanes back into the village. Avebury is located a few miles west of Marlborough. If you are coming by bike then there are good National Cycle Network routes running from Marlborough. You can also use the google streetview link on this page to virtually explore the site. If you would like to extend your walk then you could continue south along the White Horse Trail to the nearby Silbury Hill. Here you will find the tallest prehistoric man-made mound in Europe. Heading west along the waymarked trail will take you to the Cherhill White Horse and the 120ft high Lansdowne Monument.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "After your walk you could head to the nearby Red Lion pub (Postcode:SN8 1RF). This quaint thatched pub has outdoor seats and was built above an ancient well. The pub has views directly into the inner part of the circle so is located just a stones throw away from the site! There's also the nearby Waggon & Horses pub (Postcode:SN8 1QJ). This delightful thatched country pub-restaurant, was built in 1669, and includes log fires and an eclectic food menu."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "Dogs are welcome at the site but please keep them on a lead as sheep graze nearby."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head just a mile south of the stones and you could enjoy a short climb to the noteworthy West Kennet Long Barrow. Here you'll find one of the largest, most impressive and most accessible Neolithic chambered tombs in the country. Head east from the site on the Wessex Ridgeway and you will soon come to Fyfield Down National Nature Reserve and the Grey Wethers. These ancient stones are considered the best assemblage of sarsen stones in England. To visit another major ancient site pick up the Avebury to Stonehenge Walk which will take you south to the world famous Stonehenge. The walk mainly follows the Sarsen Way, a long distance trail running from Swindon to Salisbury Cathedral, visiting several historic sites along the way. For more walking ideas in the area see the North Wessex Downs Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/uCy2iJxOhCo",
-    "district": "Beckhampton",
-    "county": "Wiltshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Beckhampton Road, Avebury Trusloe, Beckhampton, Avebury, Wiltshire, England, SN8 1RG, United Kingdom",
-    "postcode": "SN8 1RG",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["rural", "hill"],
-    "points_of_interest": [
-        "archaeological site",
-        "historic monument",
-        "viewpoint"
-    ],
-    "facilities": ["pub/cafe", "car park", "footpath", "cycle routes"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Silbury Hill",
+      "objectID": "0aae9fdb3b0a9017250b6945820beb81",
+      "ref": "silbury-hill-walking-route"
+    },
+    {
+      "description": "Cherhill White Horse",
+      "objectID": "66bf3dd0621fdf25f8c5635bec31aec9",
+      "ref": "cherhill-white-horse-walking-route"
+    },
+    {
+      "description": "West Kennet Long Barrow",
+      "objectID": "acb300707c0604227e33148e68431cd9",
+      "ref": "west-kennet-long-barrow-walking-route"
+    },
+    {
+      "description": "West Woods",
+      "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
+      "ref": "west-woods-walking-and-cycle-route"
+    },
+    {
+      "description": "Fyfield Down",
+      "objectID": "4c5385f61aec3c360159cff8407f6d35",
+      "ref": "fyfield-down-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/131fc4cd3eaa13cde0fc3361fc0d2e7a.gpx",
+  "_geoloc": {
+    "lat": 51.4259200939,
+    "lng": -1.8580271793
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Avebury_4.jpg/500px-Avebury_4.jpg",
+      "title": "Tony Grist [Public domain], via Wikimedia Commons",
+      "caption": "The Devil's Chair. Stone 1 in the Great Circle at Avebury henge, Wiltshire, U.K. Also known as the Devil's Chair or Devil's Seat. This guardian stone in the Great Circle has a 'seat' on this south-facing side. Beyond, to the right, is stone 101 of the inner South Circle."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2008_12_29_avebury_0059.JPG/500px-2008_12_29_avebury_0059.JPG",
+      "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Going anti-clockwise around the Great Circle from the left: stone 12, a concrete pylon marking the position of stone 11, stone 10, stone 9 (The Barber Stone), stone 8, stone 7, stone 6, stone 5 and stone 4. The trees in the background are at the southern entrance to Avebury henge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_barber_stone_avebury_great_circle01.jpg/330px-The_barber_stone_avebury_great_circle01.jpg",
+      "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Stone 9 of the south-west quadrant of Avebury henge's Great Circle, also known as the Barber Stone or the Barber-Surgeon Stone."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_diamond_stone_avebury_henge_wiltshire.jpg/500px-The_diamond_stone_avebury_henge_wiltshire.jpg",
+      "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Stone 46, the northern-most stone of the north-west quadrant at Avebury. Named the Diamond Stone (on account of its shape) or the Swindon Stone (on account of the adjacent road to Swindon)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Inner_south_circle_stones_avebury_henge.jpg/500px-Inner_south_circle_stones_avebury_henge.jpg",
+      "title": "JimChampion, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Stones in the South Circle viewed from the south-east quadrant bank. From left to right, stones 103, 102, 101 and 105. The small concrete post marks the position of missing stone number 104. The tower of St James church is in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crop_circle_south_of_Avebury_henge%2C_Wiltshire_-_geograph.org.uk_-_31914.jpg",
+      "title": "Jim Champion / Crop circle south of Avebury henge, Wiltshire",
+      "caption": "Crop circle south of the henge. This is the view looking south from the bank of the henge at Avebury. This crop circle is in a field of ripe wheat on the northern end of Waden Hill, and a large number of tourists are taking the opportunity to visit. Avebury is famed for \"alternative\" things such as crop circles, UFO sightings and so on."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/North-west_quadrant_of_Avebury_henge_-_geograph.org.uk_-_25249.jpg",
+      "title": "Jim Champion / North-west quadrant of Avebury henge",
+      "caption": "North-west quadrant of the henge. The road to Swindon runs right through the stone circle. The henge's inner ditch can be seen in the foreground and on the right of the picture. The old stone buildings on the right form the \"visitor centre\" with a cafe and museum and Avebury church tower can be seen peeking above the trees. The megaliths made a convenient source of stone when the houses of the village were built, and many stones were buried (because of their heathen connotations). Many were re-erected during the 20th century."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Red_Lion_public_house%2C_Avebury_-_geograph.org.uk_-_282035.jpg",
+      "title": "Jim Champion / The Red Lion public house, Avebury",
+      "caption": "The Red Lion public house, Avebury village. This pub is one of the buildings in Avebury village that lie within the prehistoric henge. On this chilly evening there are no patrons sat on the benches outside. Buses to Swindon stop outside this pub, and there is a small pay-and-display car park to the right of the building."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "Visit the largest stone circle in Europe and then explore the lovely surrounding Wiltshire countryside on this circular walk in Wiltshire. You start off in the car park in Avebury and walk a short way to the stones. You'll pass through the pretty village of Avebury where you can find refreshment at the Red Lion Pub with its thatched roof and outdoor seating with views of the stones. The stones cover a wide area and date from the Neolithic and Bronze ages. Avebury is classified as a World Heritage Site. The walk then heads into the surrounding countryside making use of the White Horse Trail long distance walk. You follow the path to Windmill Hill near Winterbourne Monkton. The hill dates from the early Neolithic period and is the largest causewayed enclosure in Britain. From the hill there are wonderful views over the surrounding countryside. After soaking in the views you descend the hill and then follow good footpaths and country lanes back into the village. Avebury is located a few miles west of Marlborough. If you are coming by bike then there are good National Cycle Network routes running from Marlborough. You can also use the google streetview link on this page to virtually explore the site. If you would like to extend your walk then you could continue south along the White Horse Trail to the nearby Silbury Hill. Here you will find the tallest prehistoric man-made mound in Europe. Heading west along the waymarked trail will take you to the Cherhill White Horse and the 120ft high Lansdowne Monument.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your walk you could head to the nearby Red Lion pub (Postcode:SN8 1RF). This quaint thatched pub has outdoor seats and was built above an ancient well. The pub has views directly into the inner part of the circle so is located just a stones throw away from the site! There's also the nearby Waggon & Horses pub (Postcode:SN8 1QJ). This delightful thatched country pub-restaurant, was built in 1669, and includes log fires and an eclectic food menu."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are welcome at the site but please keep them on a lead as sheep graze nearby."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head just a mile south of the stones and you could enjoy a short climb to the noteworthy West Kennet Long Barrow. Here you'll find one of the largest, most impressive and most accessible Neolithic chambered tombs in the country. Head east from the site on the Wessex Ridgeway and you will soon come to Fyfield Down National Nature Reserve and the Grey Wethers. These ancient stones are considered the best assemblage of sarsen stones in England. To visit another major ancient site pick up the Avebury to Stonehenge Walk which will take you south to the world famous Stonehenge. The walk mainly follows the Sarsen Way, a long distance trail running from Swindon to Salisbury Cathedral, visiting several historic sites along the way. For more walking ideas in the area see the North Wessex Downs Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/uCy2iJxOhCo",
+  "district": "Beckhampton",
+  "county": "Wiltshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Beckhampton Road, Avebury Trusloe, Beckhampton, Avebury, Wiltshire, England, SN8 1RG, United Kingdom",
+  "postcode": "SN8 1RG",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "stone circle",
+    "historical site",
+    "causewayed enclosure",
+    "mound",
+    "monument"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

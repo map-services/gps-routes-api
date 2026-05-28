@@ -1,131 +1,137 @@
 {
-    "created_at": "2025-01-06T03:11:33.805670+00:00",
-    "objectID": "5d3cab92a0ba18e8c3d6cc8c44c39708",
-    "ref": "hastings-circular-walk-walking-route",
-    "title": "Hastings Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hastings_across_the_beach_-_geograph.org.uk_-_1023638.jpg",
-    "nearby": [
-        {
-            "description": "Saxon Shore Way",
-            "objectID": "e50fab578e5425ee992debe450ead99a",
-            "ref": "saxon-shore-way-walking-route"
-        },
-        {
-            "description": "Hastings Country Park",
-            "objectID": "f93a086a792d010856732a006f59e177",
-            "ref": "hastings-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "1066 Country Walk",
-            "objectID": "9bd57595ddfd3ba764d3b6c788f098b6",
-            "ref": "1066-country-walk-walking-route"
-        },
-        {
-            "description": "Hastings to Winchelsea Coastal Walk",
-            "objectID": "4e4cd24042ea1f6db9b43c4d7a633d7a",
-            "ref": "hastings-to-winchelsea-coastal-walk-walking-route"
-        },
-        {
-            "description": "Fairlight",
-            "objectID": "36c8869dfc6cbdd131c91cd0ed2186ad",
-            "ref": "fairlight-walking-route"
-        },
-        {
-            "description": "Winchelsea",
-            "objectID": "594980be6bb9f53bd75fe1bb7719c631",
-            "ref": "winchelsea-walking-route"
-        },
-        {
-            "description": "Hastings To Bexhill",
-            "objectID": "f397966f09f16e467433c45fcbbc3892",
-            "ref": "hastings-to-bexhill-cycle-route"
-        },
-        {
-            "description": "Combe Valley Greenway",
-            "objectID": "1b9965af3a2f1beeb38c231cbe246432",
-            "ref": "combe-valley-greenway-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5d3cab92a0ba18e8c3d6cc8c44c39708.gpx",
-    "_geoloc": {
-        "lat": 50.8548310659,
-        "lng": 0.5907775387
+  "created_at": "2025-01-06T03:11:33.805670+00:00",
+  "objectID": "5d3cab92a0ba18e8c3d6cc8c44c39708",
+  "ref": "hastings-circular-walk-walking-route",
+  "title": "Hastings Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hastings_across_the_beach_-_geograph.org.uk_-_1023638.jpg",
+  "nearby": [
+    {
+      "description": "Saxon Shore Way",
+      "objectID": "e50fab578e5425ee992debe450ead99a",
+      "ref": "saxon-shore-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hastings_across_the_beach_-_geograph.org.uk_-_1023638.jpg",
-            "title": "Nigel Chadwick [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
-            "caption": "Hastings across the beach. The very wide beach at this point is due to a harbour wall, built in 1970, trapping beach material."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_East_Hill_Beacon_-_geograph.org.uk_-_139350.jpg",
-            "title": "Simon Hookey / The East Hill Beacon",
-            "caption": "The East Hill Beacon. The beacon on the this hill was burnt down after a night of strong wind after it was lighted on Trafalgar Day a few years ago. The basket has now been replaced with a steel collar to prevent the flames getting to the wood. (Description kindly provided by Bob Hart)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ecclesbourne_Glen_%28lower%29_waterfall_-_geograph.org.uk_-_737345.jpg/330px-Ecclesbourne_Glen_%28lower%29_waterfall_-_geograph.org.uk_-_737345.jpg",
-            "title": "Richard Paine / Ecclesbourne Glen (lower) waterfall",
-            "caption": "Ecclesbourne Glen (lower) waterfall. Positioned between the footpath and cliff edge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ecclesbourne_Reservoir_-_geograph.org.uk_-_1191910.jpg",
-            "title": "Oast House Archive / Ecclesbourne Reservoir",
-            "caption": "Ecclesbourne Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Steps_to_Fairhurst_Glen_-_geograph.org.uk_-_1191927.jpg/330px-Steps_to_Fairhurst_Glen_-_geograph.org.uk_-_1191927.jpg",
-            "title": "Oast House Archive / Steps to Fairhurst Glen",
-            "caption": "Steps to Fairhurst Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_way_ahead_in_Hastings_Country_Park_-_geograph.org.uk_-_1091612.jpg",
-            "title": "Shazz / The way ahead in Hastings Country Park",
-            "caption": "The way ahead in Hastings Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Footpaths_Crossing_-_geograph.org.uk_-_462854.jpg",
-            "title": "Mark Duncan / Footpaths Crossing",
-            "caption": "Footpaths Crossing"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Looking_across_Ecclesbourne_Glen_-_geograph.org.uk_-_798674.jpg",
-            "title": "Julian P Guffogg / Looking across Ecclesbourne Glen",
-            "caption": "Looking across Ecclesbourne Glen. With beautiful May bushes in flower"
-        }
-    ],
-    "distance_km": 9.4,
-    "description": "This fine circular walk around Hastings visits the coast and countryside to the east of the town. The route runs for about 6 miles with some moderate climbs along the way. It's a varied walk with woodland trails, hill climbs and coastal sections to enjoy. The walk starts at the harbour in Hastings and heads east along the Saxon Shore Way long distance footpath. The trail takes you along the coast to Hastings Country Park. Here you'll find 600 acres of parkland and woodland to explore on a number of paths. Features in the park include sandstone cliffs, shady glens covered with gorse and trees, nature trails and picnic areas. It's also great for wildlife with Peregrines, black redstarts and fulmars to look out for. After passing through the park you continue along Covehurst Bay before turning north toward Fairlight. You then turn west through farmland where you pick up a section of the 1066 Country Walk to take you past Ecclesbourne Reservoir and High Wickham. At Ecclesbourne Glen you can visit the waterfalls and interesting rock formations. The final section descends past East Hill back to the sea front and the finish point of the walk. To extend your walking in the area you could continue east along the coast path to Fairlight Cove and Winchelsea on the Hastings to Winchelsea Coastal Walk. You could also head north through the High Weald on the 1066 Country Walk. The path will take you to Friar's Hill and Guestling Wood where there's wood anemone and bluebell displays in spring.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Right next to Hastings Country Park you'll find the the Coastguards Tea Rooms. There's a new conservatory with a beautiful coastal view with France visible on a clear day. The Tearoom seats 50 people inside and they have additional seating for 30 outside. It's a great place to relax and enjoy a cake when the weather is good. They also have a nice shop with gifts, paintings and arts and crafts. You can find them a short distance from the car park on Coastguards Lane with a postcode of TN35 4AB for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just west of Hastings you could visit St. Leonards Gardens where there's some lovely footpaths, an ornamental pond, herbaceous plants, shrubs, bulbs, formal flower beds and trees. There's also some interesting architecture with villas surrounding the gardens, in Regency Gothic and cottage styles. It's a very pleasant place for a stroll and can be found at postcode TN38 0HQ. The Hastings To Bexhill route will take you past the gardens along a waterfront cycling and walking trail. Also to the west is the Combe Valley Greenway. This shared cycle and walking route will take you through the lovely Combe Valley Countryside Park where you will find reedbed, fen, riverside paths, countryside trails, a nature reserve and a wide variety of wildlife."
-        }
-    ],
-    "postcode": "TN34 3AL",
-    "district": "St Leonards",
-    "county": "East Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "East Parade, Old Town, St Leonards, Hastings, East Sussex, England, TN34 3AL, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "coastal", "hill"],
-    "points_of_interest": [
-        "parkland",
-        "nature trails",
-        "picnic area",
-        "waterfall",
-        "rock formations"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Hastings Country Park",
+      "objectID": "f93a086a792d010856732a006f59e177",
+      "ref": "hastings-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "1066 Country Walk",
+      "objectID": "9bd57595ddfd3ba764d3b6c788f098b6",
+      "ref": "1066-country-walk-walking-route"
+    },
+    {
+      "description": "Hastings to Winchelsea Coastal Walk",
+      "objectID": "4e4cd24042ea1f6db9b43c4d7a633d7a",
+      "ref": "hastings-to-winchelsea-coastal-walk-walking-route"
+    },
+    {
+      "description": "Fairlight",
+      "objectID": "36c8869dfc6cbdd131c91cd0ed2186ad",
+      "ref": "fairlight-walking-route"
+    },
+    {
+      "description": "Winchelsea",
+      "objectID": "594980be6bb9f53bd75fe1bb7719c631",
+      "ref": "winchelsea-walking-route"
+    },
+    {
+      "description": "Hastings To Bexhill",
+      "objectID": "f397966f09f16e467433c45fcbbc3892",
+      "ref": "hastings-to-bexhill-cycle-route"
+    },
+    {
+      "description": "Combe Valley Greenway",
+      "objectID": "1b9965af3a2f1beeb38c231cbe246432",
+      "ref": "combe-valley-greenway-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5d3cab92a0ba18e8c3d6cc8c44c39708.gpx",
+  "_geoloc": {
+    "lat": 50.8548310659,
+    "lng": 0.5907775387
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hastings_across_the_beach_-_geograph.org.uk_-_1023638.jpg",
+      "title": "Nigel Chadwick [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
+      "caption": "Hastings across the beach. The very wide beach at this point is due to a harbour wall, built in 1970, trapping beach material."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_East_Hill_Beacon_-_geograph.org.uk_-_139350.jpg",
+      "title": "Simon Hookey / The East Hill Beacon",
+      "caption": "The East Hill Beacon. The beacon on the this hill was burnt down after a night of strong wind after it was lighted on Trafalgar Day a few years ago. The basket has now been replaced with a steel collar to prevent the flames getting to the wood. (Description kindly provided by Bob Hart)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ecclesbourne_Glen_%28lower%29_waterfall_-_geograph.org.uk_-_737345.jpg/330px-Ecclesbourne_Glen_%28lower%29_waterfall_-_geograph.org.uk_-_737345.jpg",
+      "title": "Richard Paine / Ecclesbourne Glen (lower) waterfall",
+      "caption": "Ecclesbourne Glen (lower) waterfall. Positioned between the footpath and cliff edge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ecclesbourne_Reservoir_-_geograph.org.uk_-_1191910.jpg",
+      "title": "Oast House Archive / Ecclesbourne Reservoir",
+      "caption": "Ecclesbourne Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Steps_to_Fairhurst_Glen_-_geograph.org.uk_-_1191927.jpg/330px-Steps_to_Fairhurst_Glen_-_geograph.org.uk_-_1191927.jpg",
+      "title": "Oast House Archive / Steps to Fairhurst Glen",
+      "caption": "Steps to Fairhurst Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_way_ahead_in_Hastings_Country_Park_-_geograph.org.uk_-_1091612.jpg",
+      "title": "Shazz / The way ahead in Hastings Country Park",
+      "caption": "The way ahead in Hastings Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Footpaths_Crossing_-_geograph.org.uk_-_462854.jpg",
+      "title": "Mark Duncan / Footpaths Crossing",
+      "caption": "Footpaths Crossing"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Looking_across_Ecclesbourne_Glen_-_geograph.org.uk_-_798674.jpg",
+      "title": "Julian P Guffogg / Looking across Ecclesbourne Glen",
+      "caption": "Looking across Ecclesbourne Glen. With beautiful May bushes in flower"
+    }
+  ],
+  "distance_km": 9.4,
+  "description": "This fine circular walk around Hastings visits the coast and countryside to the east of the town. The route runs for about 6 miles with some moderate climbs along the way. It's a varied walk with woodland trails, hill climbs and coastal sections to enjoy. The walk starts at the harbour in Hastings and heads east along the Saxon Shore Way long distance footpath. The trail takes you along the coast to Hastings Country Park. Here you'll find 600 acres of parkland and woodland to explore on a number of paths. Features in the park include sandstone cliffs, shady glens covered with gorse and trees, nature trails and picnic areas. It's also great for wildlife with Peregrines, black redstarts and fulmars to look out for. After passing through the park you continue along Covehurst Bay before turning north toward Fairlight. You then turn west through farmland where you pick up a section of the 1066 Country Walk to take you past Ecclesbourne Reservoir and High Wickham. At Ecclesbourne Glen you can visit the waterfalls and interesting rock formations. The final section descends past East Hill back to the sea front and the finish point of the walk. To extend your walking in the area you could continue east along the coast path to Fairlight Cove and Winchelsea on the Hastings to Winchelsea Coastal Walk. You could also head north through the High Weald on the 1066 Country Walk. The path will take you to Friar's Hill and Guestling Wood where there's wood anemone and bluebell displays in spring.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Right next to Hastings Country Park you'll find the the Coastguards Tea Rooms. There's a new conservatory with a beautiful coastal view with France visible on a clear day. The Tearoom seats 50 people inside and they have additional seating for 30 outside. It's a great place to relax and enjoy a cake when the weather is good. They also have a nice shop with gifts, paintings and arts and crafts. You can find them a short distance from the car park on Coastguards Lane with a postcode of TN35 4AB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just west of Hastings you could visit St. Leonards Gardens where there's some lovely footpaths, an ornamental pond, herbaceous plants, shrubs, bulbs, formal flower beds and trees. There's also some interesting architecture with villas surrounding the gardens, in Regency Gothic and cottage styles. It's a very pleasant place for a stroll and can be found at postcode TN38 0HQ. The Hastings To Bexhill route will take you past the gardens along a waterfront cycling and walking trail. Also to the west is the Combe Valley Greenway. This shared cycle and walking route will take you through the lovely Combe Valley Countryside Park where you will find reedbed, fen, riverside paths, countryside trails, a nature reserve and a wide variety of wildlife."
+    }
+  ],
+  "postcode": "TN34 3AL",
+  "district": "St Leonards",
+  "county": "East Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "East Parade, Old Town, St Leonards, Hastings, East Sussex, England, TN34 3AL, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

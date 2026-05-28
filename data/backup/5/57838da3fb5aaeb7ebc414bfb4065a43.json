@@ -1,111 +1,124 @@
 {
-    "created_at": "2025-01-06T19:04:32.825219+00:00",
-    "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
-    "ref": "hafod-estate-walking-route",
-    "title": "Hafod Estate Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/500px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
-    "nearby": [
-        {
-            "description": "Devil's Bridge Falls",
-            "objectID": "555db35c034821bd4f8bc3acf2797107",
-            "ref": "devils-bridge-falls-walking-route"
-        },
-        {
-            "description": "Nant Y Arian",
-            "objectID": "2a5732747553e9f3b3139bf412e02b97",
-            "ref": "nant-y-arian-walking-and-cycle-route"
-        },
-        {
-            "description": "Cors Caron",
-            "objectID": "1b18b5ddd63c4aa49c9e0e2e9aaa7a23",
-            "ref": "cors-caron-walking-route"
-        },
-        {
-            "description": "Constitution Hill Aberystwyth",
-            "objectID": "202cea6aea31d0b262313c5d0dcfc248",
-            "ref": "constitution-hill-aberystwyth-walking-route"
-        },
-        {
-            "description": "Ceredigion Coast Path",
-            "objectID": "54fdfb4623ade52a13726244b840d239",
-            "ref": "ceredigion-coast-path-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/57838da3fb5aaeb7ebc414bfb4065a43.gpx",
-    "_geoloc": {
-        "lat": 52.3472,
-        "lng": -3.81
+  "created_at": "2025-01-06T19:04:32.825219+00:00",
+  "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
+  "ref": "hafod-estate-walking-route",
+  "title": "Hafod Estate Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/500px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
+  "nearby": [
+    {
+      "description": "Devil's Bridge Falls",
+      "objectID": "555db35c034821bd4f8bc3acf2797107",
+      "ref": "devils-bridge-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/500px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
-            "title": "Information display, Hafod car park by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Information display, Hafod car park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rhaeadr_Peiran_in_spate_-_geograph.org.uk_-_1930234.jpg",
-            "title": "Rhaeadr Peiran in spate by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rhaeadr Peiran"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Path_heading_away_from_Hafod_car_park_-_geograph.org.uk_-_1051385.jpg/500px-Path_heading_away_from_Hafod_car_park_-_geograph.org.uk_-_1051385.jpg",
-            "title": "Nigel Brown / Path heading away from Hafod car park",
-            "caption": "Path heading away from Hafod car park. This is the lower of two paths from the car park heading in this direction, and is the one usually used when aiming for the Rhaeadr Peiran (waterfall) and other notable features. Rather than proceed down to the main forestry road as shown on the O.S. 1:50000 map, this one actually turns sharp left at the end of this visible stretch and doubles back down towards the waterfall."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pont_Dologau_-_geograph.org.uk_-_2169795.jpg",
-            "title": "Pont Dologau by Rudi Winter, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pont Dologau"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Afon_Ystwyth_-_geograph.org.uk_-_653169.jpg",
-            "title": "Nigel Brown / The Afon Ystwyth",
-            "caption": "The Afon Ystwyth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Footbridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051436.jpg",
-            "title": "Nigel Brown / Footbridge over the Nant Peiran",
-            "caption": "Footbridge over the Nant Peiran"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Site_of_old_bridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051425.jpg/500px-Site_of_old_bridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051425.jpg",
-            "title": "Nigel Brown / Site of old bridge over the Nant Peiran",
-            "caption": "Site of old bridge over the Nant Peiran. This was the original bridge on a now defunct road on the Hafod estate. This part of the road has now been developed as a scenic route for walkers, and a new footbridge provided a short distance upstream."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Arch%2C_near_Cwmystwyth%2C_Ceredigion_-_geograph.org.uk_-_1221622.jpg",
-            "title": "Roger Kidd / The Arch, near Cwmystwyth, Ceredigion",
-            "caption": "The Arch, near Cwmystwyth, Ceredigion. This stone arch on the former Hafod estate was constructed by Thomas Johnes in 1810. Following recent damage by a road vehicle it was decided to divert the road to the south, and preserve this superb artefact more safely. The bank in the foreground leads down to the arch's new by-pass. Traffic is now prevented from going through the arch."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This National Trust managed estate is located in the Ystwyth valley in Ceredigion. The 18th century estate is a fine place for walkers with a network of waymarked footpaths taking you through attractive wooded gorges. Features include riverside trails, cascading waterfalls, restored gardens and photogenic bridges over rocky gorges. The area is also great for wildlife with notable birds including goshawks, buzzards, red kites and kingfishers to look our for. You may also see otters in the river or pine martens and roe deer in the woodland area. This circular walk starts from the estate car park where there is a detailed information board and a map of the area. You'll then follow sections of the Lady's Walk and the Gentleman's Walk through the woodlands and along the Ystwyth River. On the way you will also visit the rushing Rhaeadr Peiran which is a splendid sight after rainfall. To continue your walking in the area head a few miles north to visit Devil's Bridge Falls. Here you can climb the steep stone steps of Jacob's Ladder and enjoy some fine views of the gushing waterfalls.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Just to the north there's The Hafod hotel for some post walk refreshments. The 18th century hotel has a great menu and some stunning views of the surrounding area. You can find them at postcode SY23 3JL for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "There's miles of woodland trails that are absolutely ideal for dog walking. You will probably meet other owners on a fine day. The Hafod Hotel mentioned above is also dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/UbjjJnoBwuo",
-    "county": "Ceredigion",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lady's Walk, Pontarfynach, Ceredigion, Cymru / Wales, SY25 6DX, United Kingdom",
-    "postcode": "SY25 6DX",
-    "district": "Pontarfynach",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["viewpoint", "waterfall", "historical site"],
-    "facilities": ["car park", "visitor center", "information board"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Nant Y Arian",
+      "objectID": "2a5732747553e9f3b3139bf412e02b97",
+      "ref": "nant-y-arian-walking-and-cycle-route"
+    },
+    {
+      "description": "Cors Caron",
+      "objectID": "1b18b5ddd63c4aa49c9e0e2e9aaa7a23",
+      "ref": "cors-caron-walking-route"
+    },
+    {
+      "description": "Constitution Hill Aberystwyth",
+      "objectID": "202cea6aea31d0b262313c5d0dcfc248",
+      "ref": "constitution-hill-aberystwyth-walking-route"
+    },
+    {
+      "description": "Ceredigion Coast Path",
+      "objectID": "54fdfb4623ade52a13726244b840d239",
+      "ref": "ceredigion-coast-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/57838da3fb5aaeb7ebc414bfb4065a43.gpx",
+  "_geoloc": {
+    "lat": 52.3472,
+    "lng": -3.81
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/500px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
+      "title": "Information display, Hafod car park by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Information display, Hafod car park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rhaeadr_Peiran_in_spate_-_geograph.org.uk_-_1930234.jpg",
+      "title": "Rhaeadr Peiran in spate by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rhaeadr Peiran"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Path_heading_away_from_Hafod_car_park_-_geograph.org.uk_-_1051385.jpg/500px-Path_heading_away_from_Hafod_car_park_-_geograph.org.uk_-_1051385.jpg",
+      "title": "Nigel Brown / Path heading away from Hafod car park",
+      "caption": "Path heading away from Hafod car park. This is the lower of two paths from the car park heading in this direction, and is the one usually used when aiming for the Rhaeadr Peiran (waterfall) and other notable features. Rather than proceed down to the main forestry road as shown on the O.S. 1:50000 map, this one actually turns sharp left at the end of this visible stretch and doubles back down towards the waterfall."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pont_Dologau_-_geograph.org.uk_-_2169795.jpg",
+      "title": "Pont Dologau by Rudi Winter, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pont Dologau"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Afon_Ystwyth_-_geograph.org.uk_-_653169.jpg",
+      "title": "Nigel Brown / The Afon Ystwyth",
+      "caption": "The Afon Ystwyth"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Footbridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051436.jpg",
+      "title": "Nigel Brown / Footbridge over the Nant Peiran",
+      "caption": "Footbridge over the Nant Peiran"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Site_of_old_bridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051425.jpg/500px-Site_of_old_bridge_over_the_Nant_Peiran_-_geograph.org.uk_-_1051425.jpg",
+      "title": "Nigel Brown / Site of old bridge over the Nant Peiran",
+      "caption": "Site of old bridge over the Nant Peiran. This was the original bridge on a now defunct road on the Hafod estate. This part of the road has now been developed as a scenic route for walkers, and a new footbridge provided a short distance upstream."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Arch%2C_near_Cwmystwyth%2C_Ceredigion_-_geograph.org.uk_-_1221622.jpg",
+      "title": "Roger Kidd / The Arch, near Cwmystwyth, Ceredigion",
+      "caption": "The Arch, near Cwmystwyth, Ceredigion. This stone arch on the former Hafod estate was constructed by Thomas Johnes in 1810. Following recent damage by a road vehicle it was decided to divert the road to the south, and preserve this superb artefact more safely. The bank in the foreground leads down to the arch's new by-pass. Traffic is now prevented from going through the arch."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This National Trust managed estate is located in the Ystwyth valley in Ceredigion. The 18th century estate is a fine place for walkers with a network of waymarked footpaths taking you through attractive wooded gorges. Features include riverside trails, cascading waterfalls, restored gardens and photogenic bridges over rocky gorges. The area is also great for wildlife with notable birds including goshawks, buzzards, red kites and kingfishers to look our for. You may also see otters in the river or pine martens and roe deer in the woodland area. This circular walk starts from the estate car park where there is a detailed information board and a map of the area. You'll then follow sections of the Lady's Walk and the Gentleman's Walk through the woodlands and along the Ystwyth River. On the way you will also visit the rushing Rhaeadr Peiran which is a splendid sight after rainfall. To continue your walking in the area head a few miles north to visit Devil's Bridge Falls. Here you can climb the steep stone steps of Jacob's Ladder and enjoy some fine views of the gushing waterfalls.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the north there's The Hafod hotel for some post walk refreshments. The 18th century hotel has a great menu and some stunning views of the surrounding area. You can find them at postcode SY23 3JL for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "There's miles of woodland trails that are absolutely ideal for dog walking. You will probably meet other owners on a fine day. The Hafod Hotel mentioned above is also dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/UbjjJnoBwuo",
+  "county": "Ceredigion",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lady's Walk, Pontarfynach, Ceredigion, Cymru / Wales, SY25 6DX, United Kingdom",
+  "postcode": "SY25 6DX",
+  "district": "Pontarfynach",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "gorge"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

@@ -1,71 +1,81 @@
 {
-    "created_at": "2025-01-06T03:04:10.973460+00:00",
-    "objectID": "e5b847aba0eb6d6663d415cd4ad17f57",
-    "ref": "illey-way-walking-route",
-    "title": "Illey Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/View_south_west_from_Windmill_Hill%2C_Waseley_Hills_Country_Park_-_geograph.org.uk_-_128336.jpg",
-    "nearby": [
-        {
-            "description": "Woodgate Valley Country Park",
-            "objectID": "605f06e7426f5c1dd4e22a4a4a743e16",
-            "ref": "woodgate-valley-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Waseley Hills Country Park",
-            "objectID": "b90ce2beb28334df7389139c06d35e15",
-            "ref": "waseley-hills-country-park-walking-route"
-        },
-        {
-            "description": "Halesowen Abbey and Railway Walk",
-            "objectID": "64155d2e5ff7115cf7084ba4e39270aa",
-            "ref": "halesowen-railway-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e5b847aba0eb6d6663d415cd4ad17f57.gpx",
-    "_geoloc": {
-        "lat": 52.4021966962,
-        "lng": -2.0433180348
+  "created_at": "2025-01-06T03:04:10.973460+00:00",
+  "objectID": "e5b847aba0eb6d6663d415cd4ad17f57",
+  "ref": "illey-way-walking-route",
+  "title": "Illey Way Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/View_south_west_from_Windmill_Hill%2C_Waseley_Hills_Country_Park_-_geograph.org.uk_-_128336.jpg",
+  "nearby": [
+    {
+      "description": "Woodgate Valley Country Park",
+      "objectID": "605f06e7426f5c1dd4e22a4a4a743e16",
+      "ref": "woodgate-valley-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/View_south_west_from_Windmill_Hill%2C_Waseley_Hills_Country_Park_-_geograph.org.uk_-_128336.jpg",
-            "title": "Phil Champion / View south west from Windmill Hill, Waseley Hills Country Park, via Wikimedia Commons",
-            "caption": "View south west from Windmill Hill, Waseley Hills Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Illey_Way_-_geograph.org.uk_-_443988.jpg/330px-Illey_Way_-_geograph.org.uk_-_443988.jpg",
-            "title": "Gordon Griffiths / Illey Way, via Wikimedia Commons",
-            "caption": "The Illey way path and the Monarch's Way pass over a stile."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Footpath_through_Woodgate_Valley_Country_Park_-_geograph.org.uk_-_336629.jpg",
-            "title": "Phil Champion / Footpath through Woodgate Valley Country Park, via Wikimedia Commons",
-            "caption": "Footpath through Woodgate Valley Country Park"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "The Illey Way runs along an old railway line from Waseley Hills Country Park to Woodgate near Halesowen. The well defined trail runs through some nice countryside and woodland passing Illey Pastures and Illey. You can start the walk from the Waseley Hills car park. It's a lovely park with 150 acres of rolling hills, pastures and woodland with panoramic views over Worcestershire from Windmill Hill. The trail then heads north through the countryside, passing the village of Illey before finishing at Woodgate near the pretty Woodgate Valley Country Park. Here you will find 450 acres of rich meadows, woodland and small ponds with the Bourn brook running through the heart of the park.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west of the trail you could take a small detour to visit the historic ruins of Halesowen Abbey. The ancient site dates back to the 13th century when it was founded by King John."
-        }
-    ],
-    "postcode": "B45 9AT",
-    "county": "Worcestershire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "North Car Park, Gannow Green Lane, Dayhouse Bank, Romsley CP, Rubery, Bromsgrove, Worcestershire, England, B45 9AT, United Kingdom",
-    "district": "Bromsgrove",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow"],
-    "points_of_interest": ["pastures", "village"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Waseley Hills Country Park",
+      "objectID": "b90ce2beb28334df7389139c06d35e15",
+      "ref": "waseley-hills-country-park-walking-route"
+    },
+    {
+      "description": "Halesowen Abbey and Railway Walk",
+      "objectID": "64155d2e5ff7115cf7084ba4e39270aa",
+      "ref": "halesowen-railway-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e5b847aba0eb6d6663d415cd4ad17f57.gpx",
+  "_geoloc": {
+    "lat": 52.4021966962,
+    "lng": -2.0433180348
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/View_south_west_from_Windmill_Hill%2C_Waseley_Hills_Country_Park_-_geograph.org.uk_-_128336.jpg",
+      "title": "Phil Champion / View south west from Windmill Hill, Waseley Hills Country Park, via Wikimedia Commons",
+      "caption": "View south west from Windmill Hill, Waseley Hills Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Illey_Way_-_geograph.org.uk_-_443988.jpg/330px-Illey_Way_-_geograph.org.uk_-_443988.jpg",
+      "title": "Gordon Griffiths / Illey Way, via Wikimedia Commons",
+      "caption": "The Illey way path and the Monarch's Way pass over a stile."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Footpath_through_Woodgate_Valley_Country_Park_-_geograph.org.uk_-_336629.jpg",
+      "title": "Phil Champion / Footpath through Woodgate Valley Country Park, via Wikimedia Commons",
+      "caption": "Footpath through Woodgate Valley Country Park"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "The Illey Way runs along an old railway line from Waseley Hills Country Park to Woodgate near Halesowen. The well defined trail runs through some nice countryside and woodland passing Illey Pastures and Illey. You can start the walk from the Waseley Hills car park. It's a lovely park with 150 acres of rolling hills, pastures and woodland with panoramic views over Worcestershire from Windmill Hill. The trail then heads north through the countryside, passing the village of Illey before finishing at Woodgate near the pretty Woodgate Valley Country Park. Here you will find 450 acres of rich meadows, woodland and small ponds with the Bourn brook running through the heart of the park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the trail you could take a small detour to visit the historic ruins of Halesowen Abbey. The ancient site dates back to the 13th century when it was founded by King John."
+    }
+  ],
+  "postcode": "B45 9AT",
+  "county": "Worcestershire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "North Car Park, Gannow Green Lane, Dayhouse Bank, Romsley CP, Rubery, Bromsgrove, Worcestershire, England, B45 9AT, United Kingdom",
+  "district": "Bromsgrove",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "countryside",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -156,34 +156,31 @@
   "display_address": "Victoria Road, Porth-y-Felin, Holyhead, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 1UD, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "null",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "coastal",
-    "dunes",
+    "dune",
     "salt-marsh",
     "cliffs",
-    "beach"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "hillfort",
+    "coastal hillfort",
     "lighthouse",
-    "brickworks",
-    "tidal island",
-    "village"
+    "national nature reserve",
+    "mansion"
   ],
   "facilities": [
-    "visitor center",
-    "dog friendly",
-    "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
-    "bird watching",
-    "cycling"
+    "wildlife spotting",
+    "diving",
+    "kayaking"
   ]
 }

@@ -1,118 +1,125 @@
 {
-    "created_at": "2025-01-06T11:18:20.806285+00:00",
-    "objectID": "ded3b5e656dc4442adf5d634245c87dd",
-    "ref": "chester-walls-walking-route",
-    "title": "Chester Walls Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E10_-_geograph.org.uk_-_375008.jpg",
-    "nearby": [
-        {
-            "description": "Baker Way",
-            "objectID": "62d17f4cb263f00d65012df152972c3c",
-            "ref": "baker-way-walking-route"
-        },
-        {
-            "description": "Along the River Dee from Chester to Connah's Quay",
-            "objectID": "22ea6230afc24ad6308d663f3a39f9d2",
-            "ref": "along-the-river-dee-from-chester-to-connahs-quay-walking-and-cycle-route"
-        },
-        {
-            "description": "Two Saints Way",
-            "objectID": "9673d10eae69dbac7ccb923a02cd3172",
-            "ref": "two-saints-way-walking-route"
-        },
-        {
-            "description": "North Cheshire Way",
-            "objectID": "3e817a2dbeb8d7781d65f9026f076590",
-            "ref": "north-cheshire-way-walking-route"
-        },
-        {
-            "description": "Longster Trail",
-            "objectID": "d8e40e42a8551e0cc79e53fb9ac9a37b",
-            "ref": "longster-trail-walking-route"
-        },
-        {
-            "description": "Shropshire Union Canal",
-            "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
-            "ref": "shropshire-union-canal-walking-route"
-        },
-        {
-            "description": "Chester Millennium Greenway",
-            "objectID": "524bb1239f0a39c72f1d865f17abcc0f",
-            "ref": "chester-millennium-greenway-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/ded3b5e656dc4442adf5d634245c87dd.gpx",
-    "_geoloc": {
-        "lat": 53.1910141012,
-        "lng": -2.8889074509
+  "created_at": "2025-01-06T11:18:20.806285+00:00",
+  "objectID": "ded3b5e656dc4442adf5d634245c87dd",
+  "ref": "chester-walls-walking-route",
+  "title": "Chester Walls Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E10_-_geograph.org.uk_-_375008.jpg",
+  "nearby": [
+    {
+      "description": "Baker Way",
+      "objectID": "62d17f4cb263f00d65012df152972c3c",
+      "ref": "baker-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E10_-_geograph.org.uk_-_375008.jpg",
-            "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Bridegate to Eastgate"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_City_Walls_and_racecourse.jpg/500px-Chester_City_Walls_and_racecourse.jpg",
-            "title": "By Chris McKenna (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Chester City Walls and racecourse"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E1_-_geograph.org.uk_-_371827.jpg",
-            "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "View over the River Dee"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Chester%27s_City_Walls_-_Grosvenor_Road_to_Bridgegate_%5E5_-_geograph.org.uk_-_368978.jpg",
-            "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Grosvenor Road to Bridgegate"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chester_City_Walls_-_Spur_Wall_and_Water_Tower_01.jpg/500px-Chester_City_Walls_-_Spur_Wall_and_Water_Tower_01.jpg",
-            "title": "By Chris McKenna (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Spur Wall and Water Tower"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chester_Castle_-_geograph.org.uk_-_10212.jpg",
-            "title": "chestertouristcom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Chester Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E3_-_geograph.org.uk_-_372205.jpg",
-            "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "River View, Bridegate to Eastgate"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chester_city_walls_in_The_Water_Tower_Gardens_%283%29.jpg/500px-Chester_city_walls_in_The_Water_Tower_Gardens_%283%29.jpg",
-            "title": "By Rept0n1x (Chester Stroll (79)) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The Water Tower Gardens"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This fine circular walk follows the city walls of the attractive city of Chester. The raised walkway visits a series of interesting historical sites and includes good views over the River Dee and the Shropshire Union Canal. Chester's city walls are the oldest, longest and most complete in Britain. They're history stretches back 2000 years when the Romans began construction. The walk starts on Eastgate Street and heads north past Chester Cathedral and Addleshaw Bell Tower. The cathedral dates from the 11th century with all the major styles of English medieval architecture, from Norman to Perpendicular, represented in the present building. You continue north, passing Kaleyard Gate, a Grade I listed postern gate, used by the monks of St Werburgh's Abbey in the 13th century. Soon after you come to Phoenix Tower at the northeast corner of the city walls. Also known as King Charles' Tower, the structure dates from the 13th century and is also Grade I listed. At the tower you turn west along the canal to Northgate which carries the city walls footpath over Northgate Street. This northern section also passes Morgan's Mount, constructed in 1645 during the Civil War as an observation platform and gun emplacement. At the north western corner you will find the medieval Bonewaldesthorne's Tower leading to the 14th century Water Tower. The tower was constructed in the time of Edward II (1322-25) at a cost of one hundred Pounds. It now includes a musuem and the adjacent Water Tower Gardens. At the Water Tower you turn south to pass along the western section of the walls. This section passes the Georgian Sedan House and the 18th century Watergate, which spans the A548 road between Watergate Street and New Crane Street. To the west of the walls you can also enjoy views over Chester Racecourse. At the south western corner you will come to Chester Castle, overlooking the River Dee. The castle was originally built in 1070 by Hugh d'Avranches, the first Earl of Chester. You can explore the medieval remains of the castle and learn about its history in the museum. The southern section of the walls passes the 18th century Bridegate and the notable Bear and Billet pub. The building has been described as the 'finest 17th-century timber-framed townhouse in Chester and 'one of the last of the great timber-framed town houses in England'. At the south eastern corner you will find Barnaby's Tower. The tower probably dates from the 13th century, and was damaged in 1644\u201346 during the Civil War. From here you head north to Northgate and the Nine Houses though there are now just six almhouses remaining. The final section of the walk takes you past Thimbleby's Tower to Eastgate where you can admire the fine Eastgate Clock. It is a prominent landmark in the city of Chester and is said to be the most photographed clock in England after Big Ben. For a longer walk which visits the lovely Grosvenor Park try our Chester City Circular Walk. Another good option is the walk from Connah's Quay along the River Dee. It's a nice riverside stroll along a shared cycling and walking path, heading west from the city centre. You could also pick up the towpath of the Shropshire Union Canal and follow it south east towards Waverton. Several long distance trails also pass through the city. You can pick up the Baker Way, the Two Saints Way, the North Cheshire Way or the Longster Trail to explore the countryside surrounding the city.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/5DniDm9epIY",
-    "district": "Chester",
-    "county": "Cheshire West and Chester",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "City Walls, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 1HH, United Kingdom",
-    "postcode": "CH1 1HH",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["urban", "historical"],
-    "points_of_interest": ["historical site", "viewpoints", "museum"],
-    "facilities": [
-        "pub/cafe",
-        "visitor center",
-        "car park",
-        "dog friendly",
-        "play area"
-    ],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Along the River Dee from Chester to Connah's Quay",
+      "objectID": "22ea6230afc24ad6308d663f3a39f9d2",
+      "ref": "along-the-river-dee-from-chester-to-connahs-quay-walking-and-cycle-route"
+    },
+    {
+      "description": "Two Saints Way",
+      "objectID": "9673d10eae69dbac7ccb923a02cd3172",
+      "ref": "two-saints-way-walking-route"
+    },
+    {
+      "description": "North Cheshire Way",
+      "objectID": "3e817a2dbeb8d7781d65f9026f076590",
+      "ref": "north-cheshire-way-walking-route"
+    },
+    {
+      "description": "Longster Trail",
+      "objectID": "d8e40e42a8551e0cc79e53fb9ac9a37b",
+      "ref": "longster-trail-walking-route"
+    },
+    {
+      "description": "Shropshire Union Canal",
+      "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
+      "ref": "shropshire-union-canal-walking-route"
+    },
+    {
+      "description": "Chester Millennium Greenway",
+      "objectID": "524bb1239f0a39c72f1d865f17abcc0f",
+      "ref": "chester-millennium-greenway-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/ded3b5e656dc4442adf5d634245c87dd.gpx",
+  "_geoloc": {
+    "lat": 53.1910141012,
+    "lng": -2.8889074509
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E10_-_geograph.org.uk_-_375008.jpg",
+      "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Bridegate to Eastgate"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_City_Walls_and_racecourse.jpg/500px-Chester_City_Walls_and_racecourse.jpg",
+      "title": "By Chris McKenna (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Chester City Walls and racecourse"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E1_-_geograph.org.uk_-_371827.jpg",
+      "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "View over the River Dee"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Chester%27s_City_Walls_-_Grosvenor_Road_to_Bridgegate_%5E5_-_geograph.org.uk_-_368978.jpg",
+      "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Grosvenor Road to Bridgegate"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chester_City_Walls_-_Spur_Wall_and_Water_Tower_01.jpg/500px-Chester_City_Walls_-_Spur_Wall_and_Water_Tower_01.jpg",
+      "title": "By Chris McKenna (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Spur Wall and Water Tower"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chester_Castle_-_geograph.org.uk_-_10212.jpg",
+      "title": "chestertouristcom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Chester Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Chester%27s_City_Walls_-_Bridgegate_to_Eastgate_%5E3_-_geograph.org.uk_-_372205.jpg",
+      "title": "John S Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "River View, Bridegate to Eastgate"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chester_city_walls_in_The_Water_Tower_Gardens_%283%29.jpg/500px-Chester_city_walls_in_The_Water_Tower_Gardens_%283%29.jpg",
+      "title": "By Rept0n1x (Chester Stroll (79)) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The Water Tower Gardens"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This fine circular walk follows the city walls of the attractive city of Chester. The raised walkway visits a series of interesting historical sites and includes good views over the River Dee and the Shropshire Union Canal. Chester's city walls are the oldest, longest and most complete in Britain. They're history stretches back 2000 years when the Romans began construction. The walk starts on Eastgate Street and heads north past Chester Cathedral and Addleshaw Bell Tower. The cathedral dates from the 11th century with all the major styles of English medieval architecture, from Norman to Perpendicular, represented in the present building. You continue north, passing Kaleyard Gate, a Grade I listed postern gate, used by the monks of St Werburgh's Abbey in the 13th century. Soon after you come to Phoenix Tower at the northeast corner of the city walls. Also known as King Charles' Tower, the structure dates from the 13th century and is also Grade I listed. At the tower you turn west along the canal to Northgate which carries the city walls footpath over Northgate Street. This northern section also passes Morgan's Mount, constructed in 1645 during the Civil War as an observation platform and gun emplacement. At the north western corner you will find the medieval Bonewaldesthorne's Tower leading to the 14th century Water Tower. The tower was constructed in the time of Edward II (1322-25) at a cost of one hundred Pounds. It now includes a musuem and the adjacent Water Tower Gardens. At the Water Tower you turn south to pass along the western section of the walls. This section passes the Georgian Sedan House and the 18th century Watergate, which spans the A548 road between Watergate Street and New Crane Street. To the west of the walls you can also enjoy views over Chester Racecourse. At the south western corner you will come to Chester Castle, overlooking the River Dee. The castle was originally built in 1070 by Hugh d'Avranches, the first Earl of Chester. You can explore the medieval remains of the castle and learn about its history in the museum. The southern section of the walls passes the 18th century Bridegate and the notable Bear and Billet pub. The building has been described as the 'finest 17th-century timber-framed townhouse in Chester and 'one of the last of the great timber-framed town houses in England'. At the south eastern corner you will find Barnaby's Tower. The tower probably dates from the 13th century, and was damaged in 1644\u201346 during the Civil War. From here you head north to Northgate and the Nine Houses though there are now just six almhouses remaining. The final section of the walk takes you past Thimbleby's Tower to Eastgate where you can admire the fine Eastgate Clock. It is a prominent landmark in the city of Chester and is said to be the most photographed clock in England after Big Ben. For a longer walk which visits the lovely Grosvenor Park try our Chester City Circular Walk. Another good option is the walk from Connah's Quay along the River Dee. It's a nice riverside stroll along a shared cycling and walking path, heading west from the city centre. You could also pick up the towpath of the Shropshire Union Canal and follow it south east towards Waverton. Several long distance trails also pass through the city. You can pick up the Baker Way, the Two Saints Way, the North Cheshire Way or the Longster Trail to explore the countryside surrounding the city.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/5DniDm9epIY",
+  "district": "Chester",
+  "county": "Cheshire West and Chester",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "City Walls, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 1HH, United Kingdom",
+  "postcode": "CH1 1HH",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "cathedral",
+    "tower",
+    "castle",
+    "clock"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,72 +1,76 @@
 {
-    "created_at": "2025-01-06T10:20:24.701681+00:00",
-    "objectID": "a77daac5c782211fcebcdadbb75bc70e",
-    "ref": "spencers-wood-walking-route",
-    "title": "Spencers Wood Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Farrier%27s_Arms%2C_Spencers_Wood_-_geograph.org.uk_-_64409.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a77daac5c782211fcebcdadbb75bc70e.gpx",
-    "_geoloc": {
-        "lat": 51.3945353522,
-        "lng": -0.9706501509
+  "created_at": "2025-01-06T10:20:24.701681+00:00",
+  "objectID": "a77daac5c782211fcebcdadbb75bc70e",
+  "ref": "spencers-wood-walking-route",
+  "title": "Spencers Wood Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Farrier%27s_Arms%2C_Spencers_Wood_-_geograph.org.uk_-_64409.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a77daac5c782211fcebcdadbb75bc70e.gpx",
+  "_geoloc": {
+    "lat": 51.3945353522,
+    "lng": -0.9706501509
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Farrier%27s_Arms%2C_Spencers_Wood_-_geograph.org.uk_-_64409.jpg",
+      "title": "Colin Bates / The Farrier's Arms, Spencers Wood",
+      "caption": "The Farrier's Arms, Spencers Wood"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Farrier%27s_Arms%2C_Spencers_Wood_-_geograph.org.uk_-_64409.jpg",
-            "title": "Colin Bates / The Farrier's Arms, Spencers Wood",
-            "caption": "The Farrier's Arms, Spencers Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/St._Michael_and_All_Angels%2C_Spencers_Wood._-_geograph.org.uk_-_64402.jpg",
-            "title": "Colin Bates / St. Michael & All Angels, Spencers Wood.",
-            "caption": "St. Michael and All Angels, Spencers Wood."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Barley%2C_Spencers_Wood_-_geograph.org.uk_-_839790.jpg",
-            "title": "Andrew Smith / Barley, Spencers Wood",
-            "caption": "Barley, Spencers Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Meadow%2C_Spencers_Wood_-_geograph.org.uk_-_839901.jpg",
-            "title": "Andrew Smith / Meadow, Spencers Wood",
-            "caption": "Meadow, Spencers Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/River_Loddon%2C_Swallowfield_-_geograph.org.uk_-_65890.jpg",
-            "title": "Colin Bates / River Loddon, Swallowfield",
-            "caption": "River Loddon, Swallowfield"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/River_Loddon_at_Sheepbridge_-_geograph.org.uk_-_1056058.jpg",
-            "title": "Nigel Cox / River Loddon at Sheepbridge",
-            "caption": "River Loddon at Sheepbridge. Sheepbridge used to have a mill on the River Loddon and this is the bypass channel that took excess water away from upstream of it. It is viewed here looking downstream from Sheep Bridge. One of the quirky joys of the English language is illustrated here. This photograph was taken from Sheep Bridge in the hamlet of Sheepbridge, and these separate spellings have been used in every edition of the Ordnance Survey mapping from the edition of 1872 right up to the present day."
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This Berkshire based village is located in a rural spot just south of the town of Reading. This circular walk from the village takes you south along public footpaths through the meadows to the River Loddon. You can then follow the river west before returning on country lanes to the village. To continue your walking in the area head north into Reading where you can enjoy waterside walking along the Kennet and Avon Canal and the Thames Path National Trail. A few miles to the south there's Wellington Country Park where you can enjoy some peaceful woodland trails, a 35 acre lake with picnic and BBQ areas, an Animal Farm with a Petting Barn, Miniature Golf and a Miniature Railway. Scroll down to see the full list of walks near and around Spencer's Wood.",
-    "details": [],
-    "postcode": "RG7 1DD",
-    "district": "Spencers Wood",
-    "county": "Wokingham",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Hyde End Road, Shinfield, Spencers Wood, Wokingham, England, RG7 1DD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["meadow", "country lane", "woodland"],
-    "points_of_interest": ["river"],
-    "facilities": [
-        "visitor center",
-        "picnic area",
-        "BBQ area",
-        "Animal Farm",
-        "Petting Barn",
-        "Miniature Golf",
-        "Miniature Railway"
-    ],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/St._Michael_and_All_Angels%2C_Spencers_Wood._-_geograph.org.uk_-_64402.jpg",
+      "title": "Colin Bates / St. Michael & All Angels, Spencers Wood.",
+      "caption": "St. Michael and All Angels, Spencers Wood."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Barley%2C_Spencers_Wood_-_geograph.org.uk_-_839790.jpg",
+      "title": "Andrew Smith / Barley, Spencers Wood",
+      "caption": "Barley, Spencers Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Meadow%2C_Spencers_Wood_-_geograph.org.uk_-_839901.jpg",
+      "title": "Andrew Smith / Meadow, Spencers Wood",
+      "caption": "Meadow, Spencers Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/River_Loddon%2C_Swallowfield_-_geograph.org.uk_-_65890.jpg",
+      "title": "Colin Bates / River Loddon, Swallowfield",
+      "caption": "River Loddon, Swallowfield"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/River_Loddon_at_Sheepbridge_-_geograph.org.uk_-_1056058.jpg",
+      "title": "Nigel Cox / River Loddon at Sheepbridge",
+      "caption": "River Loddon at Sheepbridge. Sheepbridge used to have a mill on the River Loddon and this is the bypass channel that took excess water away from upstream of it. It is viewed here looking downstream from Sheep Bridge. One of the quirky joys of the English language is illustrated here. This photograph was taken from Sheep Bridge in the hamlet of Sheepbridge, and these separate spellings have been used in every edition of the Ordnance Survey mapping from the edition of 1872 right up to the present day."
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This Berkshire based village is located in a rural spot just south of the town of Reading. This circular walk from the village takes you south along public footpaths through the meadows to the River Loddon. You can then follow the river west before returning on country lanes to the village. To continue your walking in the area head north into Reading where you can enjoy waterside walking along the Kennet and Avon Canal and the Thames Path National Trail. A few miles to the south there's Wellington Country Park where you can enjoy some peaceful woodland trails, a 35 acre lake with picnic and BBQ areas, an Animal Farm with a Petting Barn, Miniature Golf and a Miniature Railway. Scroll down to see the full list of walks near and around Spencer's Wood.",
+  "details": [],
+  "postcode": "RG7 1DD",
+  "district": "Spencers Wood",
+  "county": "Wokingham",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Hyde End Road, Shinfield, Spencers Wood, Wokingham, England, RG7 1DD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "meadow",
+    "river",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "river",
+    "canal"
+  ],
+  "facilities": [
+    "picnic area",
+    "BBQ area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

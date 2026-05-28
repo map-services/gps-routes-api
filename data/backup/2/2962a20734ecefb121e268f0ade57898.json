@@ -1,132 +1,142 @@
 {
-    "created_at": "2025-01-06T18:41:16.408743+00:00",
-    "objectID": "2962a20734ecefb121e268f0ade57898",
-    "ref": "lough-gur-walking-route",
-    "title": "Lough Gur Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg/500px-Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg",
-    "nearby": [
-        {
-            "description": "Keeper Hill",
-            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-            "ref": "keeper-hill-walking-route"
-        },
-        {
-            "description": "Lough Derg Way",
-            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-            "ref": "lough-derg-way-walking-route"
-        },
-        {
-            "description": "Lough Curra",
-            "objectID": "2e89f9ffb5e748c68388391b6732ffaf",
-            "ref": "lough-curra-walking-route"
-        },
-        {
-            "description": "Lake Muskry",
-            "objectID": "787d79edf6bbac9285a19598c26e2845",
-            "ref": "lake-muskry-walking-route"
-        },
-        {
-            "description": "Galtymore",
-            "objectID": "b7edc68fdf9e2753b05b48342e4a0500",
-            "ref": "galtymore-walking-route"
-        },
-        {
-            "description": "O'Briensbridge Riverside Walk",
-            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-            "ref": "obriensbridge-riverside-walk-walking-route"
-        },
-        {
-            "description": "Limerick 3 Bridges Walk",
-            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-            "ref": "limerick-3-bridges-walking-route"
-        },
-        {
-            "description": "Limerick Greenway",
-            "objectID": "e39af5aeda6049f6f37195a68dcfb541",
-            "ref": "limerick-greenway-walking-route"
-        },
-        {
-            "description": "Adare",
-            "objectID": "8e348d955193556ee256931d689b4080",
-            "ref": "adare-walking-route"
-        },
-        {
-            "description": "Castleconnell River Walk",
-            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-            "ref": "castleconnell\u00a0river-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2962a20734ecefb121e268f0ade57898.gpx",
-    "_geoloc": {
-        "lat": 52.52317,
-        "lng": -8.52092
+  "created_at": "2025-01-06T18:41:16.408743+00:00",
+  "objectID": "2962a20734ecefb121e268f0ade57898",
+  "ref": "lough-gur-walking-route",
+  "title": "Lough Gur Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg/500px-Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg",
+  "nearby": [
+    {
+      "description": "Keeper Hill",
+      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+      "ref": "keeper-hill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg/500px-Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg",
-            "title": "Lough Gur visitor centre by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lough Gur visitor centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fishing_on_Lough_Gur_-_geograph.org.uk_-_2030369.jpg/500px-Fishing_on_Lough_Gur_-_geograph.org.uk_-_2030369.jpg",
-            "title": "Fishing on Lough Gur by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fishing on Lough Gur"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Castles_of_Munster%2C_Bourchiers%2C_Limerick_-_geograph.org.uk_-_1393450.jpg",
-            "title": "Mike Searle / Castles of Munster: Bourchiers, Limerick",
-            "caption": "Castles of Munster: Bourchier's, Limerick. Sir George Bourchier was granted this C16 five storey tower, the former seat of the Earls of Desmond when it was confiscated by the Crown in the 1580s. His descendants, later earls of Bath, held it until 1641. Also known as Castle Doon, it covered the north-east approach to Knockadoon, which was almost enclosed by Lough Gur. Nearby Black Castle protected the southern approaches."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grange_stone_circle_-_geograph.org.uk_-_2024738.jpg/500px-Grange_stone_circle_-_geograph.org.uk_-_2024738.jpg",
-            "title": "Grange stone circle by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Grange stone circle on the western side of the lough. The largest stone is Rannach Chruim Duibh (Crom Dubh's Division) and is over 4m high and weighs 40 tonnes. The entrance of the circle is aligned with the rising sun at the Summer Solstice. A short distance to the north-north east of the main stone circle, is a second smaller circle, also constructed of large stones. To the north of this is a large leaning standing stone"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Late_Bronze_Age_Enclosure%2C_Knockadoon_-_geograph.org.uk_-_463069.jpg",
-            "title": "deiseal / Late Bronze Age Enclosure, Knockadoon",
-            "caption": "Late Bronze Age Enclosure, Knockadoon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lough_Gur_-_geograph.org.uk_-_1392350.jpg",
-            "title": "Mike Searle / Lough Gur",
-            "caption": "Lough Gur in mid summer"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bolin_Island_on_Lough_Gur_-_geograph.org.uk_-_439658.jpg",
-            "title": "deiseal / Bolin Island on Lough Gur",
-            "caption": "Bolin Island. Artificial island (crannog). Lowering the level of the lake in the 1800's has resulted in a marsh area between lake and shore"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Geroid_Island%2C_Lough_Gur_-_geograph.org.uk_-_464879.jpg",
-            "title": "Diarmuid / Geroid Island, Lough Gur",
-            "caption": "Geroid Island. According to legend, the goddess Aine, like the Breton Morgan, may sometimes be seen combing her hair, only half her body appearing above the lake. And in times of calmness and clear water, according to another legend, one may behold beneath Aine\u0092s lake the lost enchanted castle of her son Geroid, close to Garrod Island\u0097so named from Gerdid or \u0091Gerald\u0092."
-        }
-    ],
-    "distance_km": 1.6,
-    "description": "This walk visits the beautiful Lough Gur in County Limerick near Herbertstown. The peaceful, horseshoe-shaped lake includes walking trails, picnic areas and sites of archeological interest. You can start your walk from the visitor centre and car park at the northern end of the lake. In the visitor centre there's an interactive multimedia exhibition that brings to life over 6,000 years of archaeology and history. Near here you can also visit the ruins of Bourchier's Castle, named after Sir George Bourchier, the son of the second Earl of Bath. From the car park there are walking paths taking you to the lake and woodland. The area is of historical interest too with the Grange stone circle on the western side of the lake. The ancient site is significant as the largest stone circle in Ireland.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. To the south east there's the Galty Mountains where you can enjoy a walk to the secluded Lough Curra, climb to the excellent viewpoint at Galtymore Mountain and try the Lake Muskry Trail. In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/K6hFLFkCq4o",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "The Spectacles, L8664, Knockainy, The Municipal District of Cappamore \u2014 Kilmallock, County Limerick, Munster, \u00c9ire / Ireland",
-    "postcode": null,
-    "district": "The Municipal District of Cappamore \u2014 Kilmallock",
-    "county": "County Limerick",
-    "region": null,
-    "state": null,
-    "country": "\u00c9ire / Ireland",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "lake"],
-    "points_of_interest": ["archaeological site", "stone circle"],
-    "facilities": ["visitor center", "car park", "picnic area"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "description": "Lough Derg Way",
+      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+      "ref": "lough-derg-way-walking-route"
+    },
+    {
+      "description": "Lough Curra",
+      "objectID": "2e89f9ffb5e748c68388391b6732ffaf",
+      "ref": "lough-curra-walking-route"
+    },
+    {
+      "description": "Lake Muskry",
+      "objectID": "787d79edf6bbac9285a19598c26e2845",
+      "ref": "lake-muskry-walking-route"
+    },
+    {
+      "description": "Galtymore",
+      "objectID": "b7edc68fdf9e2753b05b48342e4a0500",
+      "ref": "galtymore-walking-route"
+    },
+    {
+      "description": "O'Briensbridge Riverside Walk",
+      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+      "ref": "obriensbridge-riverside-walk-walking-route"
+    },
+    {
+      "description": "Limerick 3 Bridges Walk",
+      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+      "ref": "limerick-3-bridges-walking-route"
+    },
+    {
+      "description": "Limerick Greenway",
+      "objectID": "e39af5aeda6049f6f37195a68dcfb541",
+      "ref": "limerick-greenway-walking-route"
+    },
+    {
+      "description": "Adare",
+      "objectID": "8e348d955193556ee256931d689b4080",
+      "ref": "adare-walking-route"
+    },
+    {
+      "description": "Castleconnell River Walk",
+      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+      "ref": "castleconnell\u00a0river-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2962a20734ecefb121e268f0ade57898.gpx",
+  "_geoloc": {
+    "lat": 52.52317,
+    "lng": -8.52092
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg/500px-Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg",
+      "title": "Lough Gur visitor centre by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lough Gur visitor centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fishing_on_Lough_Gur_-_geograph.org.uk_-_2030369.jpg/500px-Fishing_on_Lough_Gur_-_geograph.org.uk_-_2030369.jpg",
+      "title": "Fishing on Lough Gur by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fishing on Lough Gur"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Castles_of_Munster%2C_Bourchiers%2C_Limerick_-_geograph.org.uk_-_1393450.jpg",
+      "title": "Mike Searle / Castles of Munster: Bourchiers, Limerick",
+      "caption": "Castles of Munster: Bourchier's, Limerick. Sir George Bourchier was granted this C16 five storey tower, the former seat of the Earls of Desmond when it was confiscated by the Crown in the 1580s. His descendants, later earls of Bath, held it until 1641. Also known as Castle Doon, it covered the north-east approach to Knockadoon, which was almost enclosed by Lough Gur. Nearby Black Castle protected the southern approaches."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grange_stone_circle_-_geograph.org.uk_-_2024738.jpg/500px-Grange_stone_circle_-_geograph.org.uk_-_2024738.jpg",
+      "title": "Grange stone circle by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Grange stone circle on the western side of the lough. The largest stone is Rannach Chruim Duibh (Crom Dubh's Division) and is over 4m high and weighs 40 tonnes. The entrance of the circle is aligned with the rising sun at the Summer Solstice. A short distance to the north-north east of the main stone circle, is a second smaller circle, also constructed of large stones. To the north of this is a large leaning standing stone"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Late_Bronze_Age_Enclosure%2C_Knockadoon_-_geograph.org.uk_-_463069.jpg",
+      "title": "deiseal / Late Bronze Age Enclosure, Knockadoon",
+      "caption": "Late Bronze Age Enclosure, Knockadoon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lough_Gur_-_geograph.org.uk_-_1392350.jpg",
+      "title": "Mike Searle / Lough Gur",
+      "caption": "Lough Gur in mid summer"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bolin_Island_on_Lough_Gur_-_geograph.org.uk_-_439658.jpg",
+      "title": "deiseal / Bolin Island on Lough Gur",
+      "caption": "Bolin Island. Artificial island (crannog). Lowering the level of the lake in the 1800's has resulted in a marsh area between lake and shore"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Geroid_Island%2C_Lough_Gur_-_geograph.org.uk_-_464879.jpg",
+      "title": "Diarmuid / Geroid Island, Lough Gur",
+      "caption": "Geroid Island. According to legend, the goddess Aine, like the Breton Morgan, may sometimes be seen combing her hair, only half her body appearing above the lake. And in times of calmness and clear water, according to another legend, one may behold beneath Aine\u0092s lake the lost enchanted castle of her son Geroid, close to Garrod Island\u0097so named from Gerdid or \u0091Gerald\u0092."
+    }
+  ],
+  "distance_km": 1.6,
+  "description": "This walk visits the beautiful Lough Gur in County Limerick near Herbertstown. The peaceful, horseshoe-shaped lake includes walking trails, picnic areas and sites of archeological interest. You can start your walk from the visitor centre and car park at the northern end of the lake. In the visitor centre there's an interactive multimedia exhibition that brings to life over 6,000 years of archaeology and history. Near here you can also visit the ruins of Bourchier's Castle, named after Sir George Bourchier, the son of the second Earl of Bath. From the car park there are walking paths taking you to the lake and woodland. The area is of historical interest too with the Grange stone circle on the western side of the lake. The ancient site is significant as the largest stone circle in Ireland.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. To the south east there's the Galty Mountains where you can enjoy a walk to the secluded Lough Curra, climb to the excellent viewpoint at Galtymore Mountain and try the Lake Muskry Trail. In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/K6hFLFkCq4o",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "The Spectacles, L8664, Knockainy, The Municipal District of Cappamore \u2014 Kilmallock, County Limerick, Munster, \u00c9ire / Ireland",
+  "postcode": null,
+  "district": "The Municipal District of Cappamore \u2014 Kilmallock",
+  "county": "County Limerick",
+  "region": null,
+  "state": null,
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "archaeological site",
+    "ruin"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

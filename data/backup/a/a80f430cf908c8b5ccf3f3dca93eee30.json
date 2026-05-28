@@ -1,134 +1,138 @@
 {
-    "created_at": "2025-01-06T03:50:30.805346+00:00",
-    "objectID": "a80f430cf908c8b5ccf3f3dca93eee30",
-    "ref": "finchingfield-walking-route",
-    "title": "Finchingfield Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Finchingfield_Stephenson%27s_%2817428186840%29.jpg/500px-Finchingfield_Stephenson%27s_%2817428186840%29.jpg",
-    "nearby": [
-        {
-            "description": "Halstead",
-            "objectID": "831a8ca1da92daceb9b00d1ef1e7e106",
-            "ref": "halstead-walking-route"
-        },
-        {
-            "description": "Essex Way",
-            "objectID": "d9046b5c14755e51bd15de0c582f5292",
-            "ref": "essex-way-walking-route"
-        },
-        {
-            "description": "Colchester",
-            "objectID": "c812da215b78f6f85cce7cc49749536a",
-            "ref": "colchester-walking-route"
-        },
-        {
-            "description": "Braintree",
-            "objectID": "f2553b110836dbf911389e7f449508c4",
-            "ref": "braintree-walking-route"
-        },
-        {
-            "description": "Chalkney Wood",
-            "objectID": "e2fdd47c46b492c1629c211d8e0a79f8",
-            "ref": "chalkney-wood-walking-route"
-        },
-        {
-            "description": "Great Notley Country Park",
-            "objectID": "d3a0c232a89c76eac8bb40ab7a69c253",
-            "ref": "great-notley-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "High Woods Country Park",
-            "objectID": "e0854fec4015f77f88cca692bbcfd463",
-            "ref": "high-woods-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Ardleigh Reservoir",
-            "objectID": "50c46a24df905637d94869b899e95552",
-            "ref": "ardleigh-reservoir-walking-route"
-        },
-        {
-            "description": "Castle Hedingham",
-            "objectID": "f4d098907ab27417015a3715c6a48cf1",
-            "ref": "castle-hedingham-walking-route"
-        },
-        {
-            "description": "Broaks Wood",
-            "objectID": "1d5884b80fabe8eb148b8d404da02cf2",
-            "ref": "broaks-wood-walking-route"
-        },
-        {
-            "description": "Gosfield Lake",
-            "objectID": "aad3e1c3d519be07cb4e1f3884e6e10c",
-            "ref": "gosfield-lake-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a80f430cf908c8b5ccf3f3dca93eee30.gpx",
-    "_geoloc": {
-        "lat": 51.9680251366,
-        "lng": 0.4539721686
+  "created_at": "2025-01-06T03:50:30.805346+00:00",
+  "objectID": "a80f430cf908c8b5ccf3f3dca93eee30",
+  "ref": "finchingfield-walking-route",
+  "title": "Finchingfield Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Finchingfield_Stephenson%27s_%2817428186840%29.jpg/500px-Finchingfield_Stephenson%27s_%2817428186840%29.jpg",
+  "nearby": [
+    {
+      "description": "Halstead",
+      "objectID": "831a8ca1da92daceb9b00d1ef1e7e106",
+      "ref": "halstead-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Finchingfield_Stephenson%27s_%2817428186840%29.jpg/500px-Finchingfield_Stephenson%27s_%2817428186840%29.jpg",
-            "title": "Sludge G [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Finchingfield Stephenson's"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Finchingfield_Memorial_-_geograph.org.uk_-_1575144.jpg",
-            "title": "Cameraman / Finchingfield Memorial, via Wikimedia Commons",
-            "caption": "Finchingfield Memorial"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Duckpond%2C_Finchingfield_-_geograph.org.uk_-_670198.jpg",
-            "title": "Oxyman / Duckpond, Finchingfield, via Wikimedia Commons",
-            "caption": "Duckpond, Finchingfield"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bridge_over_the_River_Pant_%28geograph_2481689%29.jpg",
-            "title": "Trevor Harris / Bridge over the River Pant, via Wikimedia Commons",
-            "caption": "Bridge over the River Pant near Great Bardfield"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Great_Bardfield%2C_Essex_-_geograph.org.uk_-_368268.jpg",
-            "title": "Geoff Holland / Great Bardfield, Essex, via Wikimedia Commons",
-            "caption": "Great Bardfield fields, Essex"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Water_Wheel%2C_Great_Bardfield%2C_Essex_-_geograph.org.uk_-_368267.jpg",
-            "title": "Geoff Holland / Water Wheel, Great Bardfield, Essex, via Wikimedia Commons",
-            "caption": "Water Wheel, Great Bardfield, Essex"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "A nice circular walk from the Essex village of Finchingfield, visiting Great Bardfield, the River Pant and the Finchingfield Brook. The route runs for just over 4 miles on fairly flat paths, with nice views of the surrounding countryside for most of the way. The walk starts in the attractive village of Finchingfield which is recognised as one of the most beautiful villages in England. The picture postcard settlement includes a duck pond, a village green, an eighteenth-century windmill and a number of Georgian and medieval cottages. Finchingfield was the home and is the burial place of Dodie Smith, whose books include The Hundred and One Dalmatians. From the village you can pick up footpaths running south along Finchingfield Brook, passing The Watermill before coming into Great Bardfield. Henry VIII is said to have given Bardfield to Anne of Cleves as part of his divorce settlement and a number of buildings in the village are associated with her, including the Grade II-listed Great Lodge and its associated Grade I-listed barn, now named after her. In the village you can enjoy refreshments at the village pub which has a nice pub garden and a good selection of real ales. After exploring Great Bardfield the route heads north west toward Beslyns before following Winsey Chase back to Finchingfield. Back in the village you can enjoy refreshments at the delightful tea rooms.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking around Finchingfield you could pick up the Halstead Circular Walk where there's river trails along the Colne and visit to the wonderful Giant Redwood Grove at Broaks Wood. Near here there's also the noteworthy village of Castle Hedingham. Here you'll find the splendid Hedingham Castle with its significant 12th century Norman Keep, pretty lake and beautiful landscaped gardens. Near here there's also Gosfield Hall and Gosfield Lake where there's some nice waterside trails and a good lakeside cafe. The 16th century hall is designated as a Grade I listed building and is now used for weddings.There's also some good cycling and walking trails in the nearby Great Notley Country Park. For more walking ideas in the area see the Essex Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/LdQFqSRPf4A",
-    "postcode": "CM7 4NP",
-    "district": "Braintree",
-    "county": "Essex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Hill, Finchingfield, Braintree, Essex, England, CM7 4NP, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["path"],
-    "points_of_interest": [
-        "village",
-        "duck pond",
-        "village green",
-        "windmill",
-        "historic buildings",
-        "chase"
-    ],
-    "facilities": ["pub/cafe", "tea room", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Essex Way",
+      "objectID": "d9046b5c14755e51bd15de0c582f5292",
+      "ref": "essex-way-walking-route"
+    },
+    {
+      "description": "Colchester",
+      "objectID": "c812da215b78f6f85cce7cc49749536a",
+      "ref": "colchester-walking-route"
+    },
+    {
+      "description": "Braintree",
+      "objectID": "f2553b110836dbf911389e7f449508c4",
+      "ref": "braintree-walking-route"
+    },
+    {
+      "description": "Chalkney Wood",
+      "objectID": "e2fdd47c46b492c1629c211d8e0a79f8",
+      "ref": "chalkney-wood-walking-route"
+    },
+    {
+      "description": "Great Notley Country Park",
+      "objectID": "d3a0c232a89c76eac8bb40ab7a69c253",
+      "ref": "great-notley-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "High Woods Country Park",
+      "objectID": "e0854fec4015f77f88cca692bbcfd463",
+      "ref": "high-woods-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Ardleigh Reservoir",
+      "objectID": "50c46a24df905637d94869b899e95552",
+      "ref": "ardleigh-reservoir-walking-route"
+    },
+    {
+      "description": "Castle Hedingham",
+      "objectID": "f4d098907ab27417015a3715c6a48cf1",
+      "ref": "castle-hedingham-walking-route"
+    },
+    {
+      "description": "Broaks Wood",
+      "objectID": "1d5884b80fabe8eb148b8d404da02cf2",
+      "ref": "broaks-wood-walking-route"
+    },
+    {
+      "description": "Gosfield Lake",
+      "objectID": "aad3e1c3d519be07cb4e1f3884e6e10c",
+      "ref": "gosfield-lake-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a80f430cf908c8b5ccf3f3dca93eee30.gpx",
+  "_geoloc": {
+    "lat": 51.9680251366,
+    "lng": 0.4539721686
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Finchingfield_Stephenson%27s_%2817428186840%29.jpg/500px-Finchingfield_Stephenson%27s_%2817428186840%29.jpg",
+      "title": "Sludge G [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Finchingfield Stephenson's"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Finchingfield_Memorial_-_geograph.org.uk_-_1575144.jpg",
+      "title": "Cameraman / Finchingfield Memorial, via Wikimedia Commons",
+      "caption": "Finchingfield Memorial"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Duckpond%2C_Finchingfield_-_geograph.org.uk_-_670198.jpg",
+      "title": "Oxyman / Duckpond, Finchingfield, via Wikimedia Commons",
+      "caption": "Duckpond, Finchingfield"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bridge_over_the_River_Pant_%28geograph_2481689%29.jpg",
+      "title": "Trevor Harris / Bridge over the River Pant, via Wikimedia Commons",
+      "caption": "Bridge over the River Pant near Great Bardfield"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Great_Bardfield%2C_Essex_-_geograph.org.uk_-_368268.jpg",
+      "title": "Geoff Holland / Great Bardfield, Essex, via Wikimedia Commons",
+      "caption": "Great Bardfield fields, Essex"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Water_Wheel%2C_Great_Bardfield%2C_Essex_-_geograph.org.uk_-_368267.jpg",
+      "title": "Geoff Holland / Water Wheel, Great Bardfield, Essex, via Wikimedia Commons",
+      "caption": "Water Wheel, Great Bardfield, Essex"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "A nice circular walk from the Essex village of Finchingfield, visiting Great Bardfield, the River Pant and the Finchingfield Brook. The route runs for just over 4 miles on fairly flat paths, with nice views of the surrounding countryside for most of the way. The walk starts in the attractive village of Finchingfield which is recognised as one of the most beautiful villages in England. The picture postcard settlement includes a duck pond, a village green, an eighteenth-century windmill and a number of Georgian and medieval cottages. Finchingfield was the home and is the burial place of Dodie Smith, whose books include The Hundred and One Dalmatians. From the village you can pick up footpaths running south along Finchingfield Brook, passing The Watermill before coming into Great Bardfield. Henry VIII is said to have given Bardfield to Anne of Cleves as part of his divorce settlement and a number of buildings in the village are associated with her, including the Grade II-listed Great Lodge and its associated Grade I-listed barn, now named after her. In the village you can enjoy refreshments at the village pub which has a nice pub garden and a good selection of real ales. After exploring Great Bardfield the route heads north west toward Beslyns before following Winsey Chase back to Finchingfield. Back in the village you can enjoy refreshments at the delightful tea rooms.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Finchingfield you could pick up the Halstead Circular Walk where there's river trails along the Colne and visit to the wonderful Giant Redwood Grove at Broaks Wood. Near here there's also the noteworthy village of Castle Hedingham. Here you'll find the splendid Hedingham Castle with its significant 12th century Norman Keep, pretty lake and beautiful landscaped gardens. Near here there's also Gosfield Hall and Gosfield Lake where there's some nice waterside trails and a good lakeside cafe. The 16th century hall is designated as a Grade I listed building and is now used for weddings.There's also some good cycling and walking trails in the nearby Great Notley Country Park. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/LdQFqSRPf4A",
+  "postcode": "CM7 4NP",
+  "district": "Braintree",
+  "county": "Essex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Hill, Finchingfield, Braintree, Essex, England, CM7 4NP, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "village",
+    "river",
+    "windmill",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

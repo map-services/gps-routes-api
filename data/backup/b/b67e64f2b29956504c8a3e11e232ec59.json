@@ -1,86 +1,96 @@
 {
-    "created_at": "2025-01-06T04:28:33.259454+00:00",
-    "objectID": "b67e64f2b29956504c8a3e11e232ec59",
-    "ref": "llyn-gwynant-walking-route",
-    "title": "Llyn Gwynant Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Llyn_Gwynant_-_geograph.org.uk_-_463337.jpg",
-    "nearby": [
-        {
-            "description": "Llyn Dinas",
-            "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
-            "ref": "llyn-dinas-walking-route"
-        },
-        {
-            "description": "Snowdon Watkin Path",
-            "objectID": "f8e578e3eb31a56d96a412be96d17d38",
-            "ref": "snowdon-watkin-path-walking-route"
-        },
-        {
-            "description": "Llyn Llydaw",
-            "objectID": "30a90621b74b0ad439f0de940ab557bf",
-            "ref": "llyn-llydaw-walking-route"
-        },
-        {
-            "description": "Hafod Y Llan",
-            "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
-            "ref": "hafod-y-llan-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b67e64f2b29956504c8a3e11e232ec59.gpx",
-    "_geoloc": {
-        "lat": 53.0518422226,
-        "lng": -4.017692192
+  "created_at": "2025-01-06T04:28:33.259454+00:00",
+  "objectID": "b67e64f2b29956504c8a3e11e232ec59",
+  "ref": "llyn-gwynant-walking-route",
+  "title": "Llyn Gwynant Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Llyn_Gwynant_-_geograph.org.uk_-_463337.jpg",
+  "nearby": [
+    {
+      "description": "Llyn Dinas",
+      "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
+      "ref": "llyn-dinas-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Llyn_Gwynant_-_geograph.org.uk_-_463337.jpg",
-            "title": "Trevor Rickard / Llyn Gwynant, via Wikimedia Commons",
-            "caption": "Llyn Gwynant"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Llyn_Gwynant_-_geograph.org.uk_-_1045387.jpg",
-            "title": "Eirian Evans / Llyn Gwynant, via Wikimedia Commons",
-            "caption": "The eastern end of the lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Llyn_Gwynant_Campsite_-_geograph.org.uk_-_395030.jpg",
-            "title": "Eric Jones / The Llyn Gwynant Campsite, via Wikimedia Commons",
-            "caption": "The Llyn Gwynant Campsite This fabulously located campsite, next to Llyn Gwynant, belongs to Hafod Lwyfog farm."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Llyn_Gwynant_-_geograph.org.uk_-_464153.jpg",
-            "title": "Trevor Rickard / Llyn Gwynant, via Wikimedia Commons",
-            "caption": "Lovely view across the water"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Enjoy a circular walk around this beautiful lake in Snowdonia. The lake has nice paths along the water and through the surrounding woodland, with great views towards the mountains of Snowdonia. The lake links with Llyn Dinas where there are more nice trails to try. The Snowdon Watkin Path also starts from the nearby Nant Gwynant car park so you could try this challenging climb to extend your walk. If you don't feel like climbing all the way to the summit then you could try the start of the path which is very pretty. It takes you through woodland to the Afon Cwm Llan where there are some lovely waterfalls. If you head north along the Afon Glaslyn you could also visit Llyn Llydaw, one of the most visited lakes in the country.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Hebog Cafe & Bistro is a great place to head for refreshments after your walk. The food is excellent and there's also a lovely river terrace to sit out and enjoy the surrounding mountainous scenery in the summer months. You can find it in the centre of nearby Beddgelert on Caernarfon Road, with postcode LL55 4UY for your sat navs. Closer to the lake is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west of Llyn Dinas you can visit the site of the legend of the Red Dragon at the fascinating Dinas Emrys. There's a lovely trail with river views, waterfalls, attractive woodland and a small hill climb to the ancient ramparts of the ancient fort where there are fine views back down to the lakes below. The waymarked Hafod Y Llan Walk can be picked up just west of the lake. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/DAKb2d4OHgA",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Llyn Gwynant Campsite, A498, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NW, United Kingdom",
-    "postcode": "LL55 4NW",
-    "district": "Beddgelert",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["viewpoint", "waterfall"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Snowdon Watkin Path",
+      "objectID": "f8e578e3eb31a56d96a412be96d17d38",
+      "ref": "snowdon-watkin-path-walking-route"
+    },
+    {
+      "description": "Llyn Llydaw",
+      "objectID": "30a90621b74b0ad439f0de940ab557bf",
+      "ref": "llyn-llydaw-walking-route"
+    },
+    {
+      "description": "Hafod Y Llan",
+      "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
+      "ref": "hafod-y-llan-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b67e64f2b29956504c8a3e11e232ec59.gpx",
+  "_geoloc": {
+    "lat": 53.0518422226,
+    "lng": -4.017692192
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Llyn_Gwynant_-_geograph.org.uk_-_463337.jpg",
+      "title": "Trevor Rickard / Llyn Gwynant, via Wikimedia Commons",
+      "caption": "Llyn Gwynant"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Llyn_Gwynant_-_geograph.org.uk_-_1045387.jpg",
+      "title": "Eirian Evans / Llyn Gwynant, via Wikimedia Commons",
+      "caption": "The eastern end of the lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Llyn_Gwynant_Campsite_-_geograph.org.uk_-_395030.jpg",
+      "title": "Eric Jones / The Llyn Gwynant Campsite, via Wikimedia Commons",
+      "caption": "The Llyn Gwynant Campsite This fabulously located campsite, next to Llyn Gwynant, belongs to Hafod Lwyfog farm."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Llyn_Gwynant_-_geograph.org.uk_-_464153.jpg",
+      "title": "Trevor Rickard / Llyn Gwynant, via Wikimedia Commons",
+      "caption": "Lovely view across the water"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Enjoy a circular walk around this beautiful lake in Snowdonia. The lake has nice paths along the water and through the surrounding woodland, with great views towards the mountains of Snowdonia. The lake links with Llyn Dinas where there are more nice trails to try. The Snowdon Watkin Path also starts from the nearby Nant Gwynant car park so you could try this challenging climb to extend your walk. If you don't feel like climbing all the way to the summit then you could try the start of the path which is very pretty. It takes you through woodland to the Afon Cwm Llan where there are some lovely waterfalls. If you head north along the Afon Glaslyn you could also visit Llyn Llydaw, one of the most visited lakes in the country.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Hebog Cafe & Bistro is a great place to head for refreshments after your walk. The food is excellent and there's also a lovely river terrace to sit out and enjoy the surrounding mountainous scenery in the summer months. You can find it in the centre of nearby Beddgelert on Caernarfon Road, with postcode LL55 4UY for your sat navs. Closer to the lake is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of Llyn Dinas you can visit the site of the legend of the Red Dragon at the fascinating Dinas Emrys. There's a lovely trail with river views, waterfalls, attractive woodland and a small hill climb to the ancient ramparts of the ancient fort where there are fine views back down to the lakes below. The waymarked Hafod Y Llan Walk can be picked up just west of the lake. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/DAKb2d4OHgA",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Llyn Gwynant Campsite, A498, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NW, United Kingdom",
+  "postcode": "LL55 4NW",
+  "district": "Beddgelert",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

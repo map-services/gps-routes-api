@@ -1,87 +1,96 @@
 {
-    "created_at": "2025-01-06T01:52:30.371935+00:00",
-    "objectID": "6b8218ba1a6a6572cdb950de6536ddee",
-    "ref": "rosebery-reservoir-walking-route",
-    "title": "Rosebery Reservoir Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Rosebery_Reservoir._-_geograph.org.uk_-_135152.jpg",
-    "nearby": [
-        {
-            "description": "Edgelaw Reservoir",
-            "objectID": "6fe08d950d522308e9942444119646d2",
-            "ref": "edgelaw-reservoir-walking-route"
-        },
-        {
-            "description": "Gladhouse Reservoir",
-            "objectID": "017e8534f0b461b147b27bdbcdf6d918",
-            "ref": "gladhouse-reservoir-walking-route"
-        },
-        {
-            "description": "Gorebridge Circular Walk",
-            "objectID": "57abee1baa9091eea07bea6e85840857",
-            "ref": "gorebridge-circular-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6b8218ba1a6a6572cdb950de6536ddee.gpx",
-    "_geoloc": {
-        "lat": 55.8014299096,
-        "lng": -3.1040198269
+  "created_at": "2025-01-06T01:52:30.371935+00:00",
+  "objectID": "6b8218ba1a6a6572cdb950de6536ddee",
+  "ref": "rosebery-reservoir-walking-route",
+  "title": "Rosebery Reservoir Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Rosebery_Reservoir._-_geograph.org.uk_-_135152.jpg",
+  "nearby": [
+    {
+      "description": "Edgelaw Reservoir",
+      "objectID": "6fe08d950d522308e9942444119646d2",
+      "ref": "edgelaw-reservoir-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Rosebery_Reservoir._-_geograph.org.uk_-_135152.jpg",
-            "title": "Richard Webb / Rosebery Reservoir.",
-            "caption": "Rosebery Reservoir. View south. The South Esk restarts its journey towards Musselburgh at the outlet weir on the dam."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spillway_at_Roseberry_Reservoir_-_geograph.org.uk_-_834009.jpg",
-            "title": "Gordon Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Spillway"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Over_the_fields_to_Roseberry_Reservoir_-_geograph.org.uk_-_834012.jpg",
-            "title": "Gordon Brown / Over the fields to Roseberry Reservoir",
-            "caption": "Over the fields to Rosebery Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yorkston_from_the_south_-_geograph.org.uk_-_2592793.jpg/500px-Yorkston_from_the_south_-_geograph.org.uk_-_2592793.jpg",
-            "title": "Yorkston from the south by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Yorkston from the south"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yorkston_-_geograph.org.uk_-_328098.jpg",
-            "title": "Sandy Gemmill / Yorkston",
-            "caption": "The view of Yorkston as seen from the neighbouring hill on the minor road from Gladhouse Reservoir."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rosebery_Water_Treatment_Works_-_geograph.org.uk_-_834014.jpg",
-            "title": "Gordon Brown / Rosebery Water Treatment Works",
-            "caption": "Rosebery Water Treatment Works"
-        }
-    ],
-    "distance_km": 1.6,
-    "description": "This walk visits Rosebery Reservoir in the Lammermuir Hills in Gorebridge, Midlothian. There's a country lane at the northern end of the lake which you can follow towards nearby Yorkston. It's a very pretty and quiet area with lovely views over the lake to the surrounding countryside. The reservoir is also a popular fishing spot with Rainbow and Brown Trout. At the north eastern side of the lake there's the River South Esk running north towards Temple village. There's some waterfalls and fine old buildings including the Mill house and Parish Church here. It's easy to extend the walk by heading north to Edgelaw Reservoir or south to the larger Gladhouse Reservoir .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the north is Roslin Glen Country Park. The pretty park includes wooded glens, the ruined Roslin Castle and views of the rushing River North Esk. On the nothern side of the park you can also visit the noteworthy Rosslyn Chapel. There's some stunning architecture at the 15th century site which includes some pleasant trails through a wooded glen to the ruins of Roslin Castle. The chapel became famous when it was featured in Dan Brown's the Da Vinci Code. To the north east is the village of Gorebridge where you can pick up the Gorebridge Circular Walk and explore the area around the historic village. Highlights include the Gore Glen Woodland Park with walks along Gore Water and views of the Pentland Hills."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/_bTYaBpQ_yU",
-    "county": "Midlothian",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Temple, Midlothian, Alba / Scotland, EH23 4SR, United Kingdom",
-    "postcode": "EH23 4SR",
-    "district": "Temple",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["lake", "rural"],
-    "points_of_interest": ["waterfall", "historic buildings"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking", "fishing"]
+    {
+      "description": "Gladhouse Reservoir",
+      "objectID": "017e8534f0b461b147b27bdbcdf6d918",
+      "ref": "gladhouse-reservoir-walking-route"
+    },
+    {
+      "description": "Gorebridge Circular Walk",
+      "objectID": "57abee1baa9091eea07bea6e85840857",
+      "ref": "gorebridge-circular-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6b8218ba1a6a6572cdb950de6536ddee.gpx",
+  "_geoloc": {
+    "lat": 55.8014299096,
+    "lng": -3.1040198269
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Rosebery_Reservoir._-_geograph.org.uk_-_135152.jpg",
+      "title": "Richard Webb / Rosebery Reservoir.",
+      "caption": "Rosebery Reservoir. View south. The South Esk restarts its journey towards Musselburgh at the outlet weir on the dam."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spillway_at_Roseberry_Reservoir_-_geograph.org.uk_-_834009.jpg",
+      "title": "Gordon Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Spillway"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Over_the_fields_to_Roseberry_Reservoir_-_geograph.org.uk_-_834012.jpg",
+      "title": "Gordon Brown / Over the fields to Roseberry Reservoir",
+      "caption": "Over the fields to Rosebery Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yorkston_from_the_south_-_geograph.org.uk_-_2592793.jpg/500px-Yorkston_from_the_south_-_geograph.org.uk_-_2592793.jpg",
+      "title": "Yorkston from the south by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Yorkston from the south"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yorkston_-_geograph.org.uk_-_328098.jpg",
+      "title": "Sandy Gemmill / Yorkston",
+      "caption": "The view of Yorkston as seen from the neighbouring hill on the minor road from Gladhouse Reservoir."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rosebery_Water_Treatment_Works_-_geograph.org.uk_-_834014.jpg",
+      "title": "Gordon Brown / Rosebery Water Treatment Works",
+      "caption": "Rosebery Water Treatment Works"
+    }
+  ],
+  "distance_km": 1.6,
+  "description": "This walk visits Rosebery Reservoir in the Lammermuir Hills in Gorebridge, Midlothian. There's a country lane at the northern end of the lake which you can follow towards nearby Yorkston. It's a very pretty and quiet area with lovely views over the lake to the surrounding countryside. The reservoir is also a popular fishing spot with Rainbow and Brown Trout. At the north eastern side of the lake there's the River South Esk running north towards Temple village. There's some waterfalls and fine old buildings including the Mill house and Parish Church here. It's easy to extend the walk by heading north to Edgelaw Reservoir or south to the larger Gladhouse Reservoir .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north is Roslin Glen Country Park. The pretty park includes wooded glens, the ruined Roslin Castle and views of the rushing River North Esk. On the nothern side of the park you can also visit the noteworthy Rosslyn Chapel. There's some stunning architecture at the 15th century site which includes some pleasant trails through a wooded glen to the ruins of Roslin Castle. The chapel became famous when it was featured in Dan Brown's the Da Vinci Code. To the north east is the village of Gorebridge where you can pick up the Gorebridge Circular Walk and explore the area around the historic village. Highlights include the Gore Glen Woodland Park with walks along Gore Water and views of the Pentland Hills."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/_bTYaBpQ_yU",
+  "county": "Midlothian",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Temple, Midlothian, Alba / Scotland, EH23 4SR, United Kingdom",
+  "postcode": "EH23 4SR",
+  "district": "Temple",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "reservoir",
+    "waterfall",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "fishing"
+  ]
 }

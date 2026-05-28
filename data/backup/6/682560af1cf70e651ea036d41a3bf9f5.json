@@ -1,97 +1,106 @@
 {
-    "created_at": "2025-01-06T18:52:25.741336+00:00",
-    "objectID": "682560af1cf70e651ea036d41a3bf9f5",
-    "ref": "annascaul-river-walk",
-    "title": "Annascaul River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Anascaul_River_-_geograph.org.uk_-_845070.jpg",
-    "nearby": [
-        {
-            "description": "Annascaul Lake",
-            "objectID": "67e5be52b3d7ec452c385c701d859c0b",
-            "ref": "annascaul-lake-walking-route"
-        },
-        {
-            "description": "Mucross Lake",
-            "objectID": "7344e35278699cb66481e45662cf217a",
-            "ref": "muckross-lake-walking-route"
-        },
-        {
-            "description": "Torc Waterfall",
-            "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
-            "ref": "torc-waterfall-walking-route"
-        },
-        {
-            "description": "Dingle Way",
-            "objectID": "6fffbd347c9117478d29580ce3d17c1d",
-            "ref": "dingle-way-walking-route"
-        },
-        {
-            "description": "Lough Guitane",
-            "objectID": "1cb9b2a074abfb914de6def908f9b106",
-            "ref": "lough-guitane-walking-route"
-        },
-        {
-            "description": "Lough Leane And Ross Castle",
-            "objectID": "d4590c5479bee012cc65a06a1131f049",
-            "ref": "lough-leane-and-ross-castle-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/682560af1cf70e651ea036d41a3bf9f5.gpx",
-    "_geoloc": {
-        "lat": 52.15142,
-        "lng": -10.05811
+  "created_at": "2025-01-06T18:52:25.741336+00:00",
+  "objectID": "682560af1cf70e651ea036d41a3bf9f5",
+  "ref": "annascaul-river-walk",
+  "title": "Annascaul River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Anascaul_River_-_geograph.org.uk_-_845070.jpg",
+  "nearby": [
+    {
+      "description": "Annascaul Lake",
+      "objectID": "67e5be52b3d7ec452c385c701d859c0b",
+      "ref": "annascaul-lake-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Anascaul_River_-_geograph.org.uk_-_845070.jpg",
-            "title": "kevin higgins / Anascaul River",
-            "caption": "Anascaul River"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Owenascaul_River_in_Anascaul_-_geograph.org.uk_-_256296.jpg",
-            "title": "Nigel Cox / Owenascaul River in Anascaul",
-            "caption": "Owenascaul River in Anascaul"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bridge_over_the_Owenascaul_River_in_Anascaul_-_geograph.org.uk_-_15753.jpg",
-            "title": "Pam Brophy / Bridge over the Owenascaul River in Anascaul",
-            "caption": "Bridge over the Owenascaul River in Anascaul"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Memorial-6544%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg/500px-Memorial-6544%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg",
-            "title": "Mucklagh, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Statue and monument to Tom Crean in a park in his native Annascaul. Crean was an Irish seaman and Antarctic explorer who was awarded the Albert Medal for Lifesaving (AM). Crean was a member of three major expeditions to Antarctica during the Heroic Age of Antarctic Exploration, including Robert Falcon Scott's 1911\u20131913 Terra Nova Expedition. This saw the race to reach the South Pole lost to Roald Amundsen and ended in the deaths of Scott and his party. During the expedition, Crean's 35-statute-mile (56 km) solo walk across the Ross Ice Shelf to save the life of Edward Evans led to him receiving the Albert Medal. After his experience on the Terra Nova, Crean's third and final Antarctic venture was as second officer on Ernest Shackleton's Imperial Trans-Antarctic Expedition. After the ship Endurance became beset in the pack ice and sank, Crean and the ship's company spent 492 days drifting on the ice before undertaking a journey in the ship's lifeboats to Elephant Island. He was a member of the crew which made a small-boat journey of 800 nautical miles (1,500 km) from Elephant Island to South Georgia Island to seek aid for the stranded party."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Waterfall_on_Garrivagh_River_-_geograph.org.uk_-_333146.jpg",
-            "title": "Colin Park / Waterfall on Garrivagh River",
-            "caption": "Waterfall on Garrivagh River. The Garrivagh River rises on the northern slopes of Cnoc Mhaoilionain and flows to the sea south of Anascaul."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lough_an_Scail_-_Lake_Anascaul_-_geograph.org.uk_-_920005.jpg",
-            "title": "Peter Church / Lough an Scail - Lake Anascaul",
-            "caption": "Lough an Scail"
-        }
-    ],
-    "distance_km": 16.4,
-    "description": "This walk visits the village of Annascaul on the Dingle Peninsula in County Kerry. From the village you can follow a pleasant riverside path north into the countryside. You can then continue north west to visit Annascaul Lake where you can pick up another riverside path along the Garrivagh River. There are some waterfalls and fine views over the surrounding mountains from this area.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/5WCq-Id_UR0?si=Fjy9ZJP5W2-sDzgW",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Ballynacourty ED, Kenmare Municipal District, County Kerry, Munster, V92 N220, \u00c9ire / Ireland",
-    "postcode": "V92 N220",
-    "district": null,
-    "county": "County Kerry",
-    "region": null,
-    "state": null,
-    "country": "\u00c9ire / Ireland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "rural"],
-    "points_of_interest": ["waterfall", "mountain views"],
-    "facilities": ["visitor center"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "description": "Mucross Lake",
+      "objectID": "7344e35278699cb66481e45662cf217a",
+      "ref": "muckross-lake-walking-route"
+    },
+    {
+      "description": "Torc Waterfall",
+      "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
+      "ref": "torc-waterfall-walking-route"
+    },
+    {
+      "description": "Dingle Way",
+      "objectID": "6fffbd347c9117478d29580ce3d17c1d",
+      "ref": "dingle-way-walking-route"
+    },
+    {
+      "description": "Lough Guitane",
+      "objectID": "1cb9b2a074abfb914de6def908f9b106",
+      "ref": "lough-guitane-walking-route"
+    },
+    {
+      "description": "Lough Leane And Ross Castle",
+      "objectID": "d4590c5479bee012cc65a06a1131f049",
+      "ref": "lough-leane-and-ross-castle-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/682560af1cf70e651ea036d41a3bf9f5.gpx",
+  "_geoloc": {
+    "lat": 52.15142,
+    "lng": -10.05811
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Anascaul_River_-_geograph.org.uk_-_845070.jpg",
+      "title": "kevin higgins / Anascaul River",
+      "caption": "Anascaul River"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Owenascaul_River_in_Anascaul_-_geograph.org.uk_-_256296.jpg",
+      "title": "Nigel Cox / Owenascaul River in Anascaul",
+      "caption": "Owenascaul River in Anascaul"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bridge_over_the_Owenascaul_River_in_Anascaul_-_geograph.org.uk_-_15753.jpg",
+      "title": "Pam Brophy / Bridge over the Owenascaul River in Anascaul",
+      "caption": "Bridge over the Owenascaul River in Anascaul"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Memorial-6544%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg/500px-Memorial-6544%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg",
+      "title": "Mucklagh, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Statue and monument to Tom Crean in a park in his native Annascaul. Crean was an Irish seaman and Antarctic explorer who was awarded the Albert Medal for Lifesaving (AM). Crean was a member of three major expeditions to Antarctica during the Heroic Age of Antarctic Exploration, including Robert Falcon Scott's 1911\u20131913 Terra Nova Expedition. This saw the race to reach the South Pole lost to Roald Amundsen and ended in the deaths of Scott and his party. During the expedition, Crean's 35-statute-mile (56 km) solo walk across the Ross Ice Shelf to save the life of Edward Evans led to him receiving the Albert Medal. After his experience on the Terra Nova, Crean's third and final Antarctic venture was as second officer on Ernest Shackleton's Imperial Trans-Antarctic Expedition. After the ship Endurance became beset in the pack ice and sank, Crean and the ship's company spent 492 days drifting on the ice before undertaking a journey in the ship's lifeboats to Elephant Island. He was a member of the crew which made a small-boat journey of 800 nautical miles (1,500 km) from Elephant Island to South Georgia Island to seek aid for the stranded party."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Waterfall_on_Garrivagh_River_-_geograph.org.uk_-_333146.jpg",
+      "title": "Colin Park / Waterfall on Garrivagh River",
+      "caption": "Waterfall on Garrivagh River. The Garrivagh River rises on the northern slopes of Cnoc Mhaoilionain and flows to the sea south of Anascaul."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lough_an_Scail_-_Lake_Anascaul_-_geograph.org.uk_-_920005.jpg",
+      "title": "Peter Church / Lough an Scail - Lake Anascaul",
+      "caption": "Lough an Scail"
+    }
+  ],
+  "distance_km": 16.4,
+  "description": "This walk visits the village of Annascaul on the Dingle Peninsula in County Kerry. From the village you can follow a pleasant riverside path north into the countryside. You can then continue north west to visit Annascaul Lake where you can pick up another riverside path along the Garrivagh River. There are some waterfalls and fine views over the surrounding mountains from this area.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/5WCq-Id_UR0?si=Fjy9ZJP5W2-sDzgW",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Ballynacourty ED, Kenmare Municipal District, County Kerry, Munster, V92 N220, \u00c9ire / Ireland",
+  "postcode": "V92 N220",
+  "district": null,
+  "county": "County Kerry",
+  "region": null,
+  "state": null,
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

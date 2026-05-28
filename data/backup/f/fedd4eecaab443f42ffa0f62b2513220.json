@@ -1,120 +1,131 @@
 {
-    "created_at": "2025-01-06T02:09:14.898683+00:00",
-    "objectID": "fedd4eecaab443f42ffa0f62b2513220",
-    "ref": "garth-hill-walking-route",
-    "title": "Garth Hill / Mountain Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg/500px-View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg",
-    "nearby": [
-        {
-            "description": "Taff Trail",
-            "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
-            "ref": "taff-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Castle Coch",
-            "objectID": "ac8c0484a5bf7113c66d338a19708b46",
-            "ref": "castle-coch-walking-and-cycle-route"
-        },
-        {
-            "description": "Taff Ely Ridgeway Walk",
-            "objectID": "e00998538767837a6f9e4d7b86a3fd6c",
-            "ref": "taff-ely-ridgeway-walk-walking-route"
-        },
-        {
-            "description": "Glamorgan Ridgeway Walk",
-            "objectID": "70fa1ea4568f1b35381d45d56fdd87ab",
-            "ref": "glamorgan-ridgeway-walk-walking-route"
-        },
-        {
-            "description": "Llantrisant",
-            "objectID": "3f225f6bb846986f3875c97315194965",
-            "ref": "llantrisant-walking-route"
-        },
-        {
-            "description": "Barry Sidings",
-            "objectID": "3296acbfaef6c452dba7af85b20b8496",
-            "ref": "barry-sidings-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fedd4eecaab443f42ffa0f62b2513220.gpx",
-    "_geoloc": {
-        "lat": 51.5458507279,
-        "lng": -3.271113075
+  "created_at": "2025-01-06T02:09:14.898683+00:00",
+  "objectID": "fedd4eecaab443f42ffa0f62b2513220",
+  "ref": "garth-hill-walking-route",
+  "title": "Garth Hill / Mountain Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg/500px-View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg",
+  "nearby": [
+    {
+      "description": "Taff Trail",
+      "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
+      "ref": "taff-trail-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg/500px-View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg",
-            "title": "Gareth James / View NE from Garth Hill",
-            "caption": "View NE from Garth Hill. A view from the eastern end of the hill, overlooking Taff's Well and the River Taff."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Woodland%2C_Garth_Hill_-_geograph.org.uk_-_1051284.jpg",
-            "title": "eswales / Woodland, Garth Hill",
-            "caption": "View of woodland on the slopes of Garth Hill from an elevated position on the opposite (eastern) side of Cwm Du."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trig_point_on_Tumulus_on_Garth_Hill_-_geograph.org.uk_-_401909.jpg",
-            "title": "Steve Sheppard / Trig point on Tumulus on Garth Hill",
-            "caption": "A walker stands on the trig point atop the hill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Taff_Gorge_from_sandstone_crag_on_Garth_Hill_-_geograph.org.uk_-_633985.jpg",
-            "title": "Gareth Evans / Taff Gorge from sandstone crag on Garth Hill",
-            "caption": "A view of the Taff Gorge from a sandstone crag on Garth Hill. Upper Carboniferous rocks underlie the foreground and have been mined historically for coal. The conspicuous settlement, Taff's Well, lies on alluvium and river terraces of the Taff. The wooded ridges either side of the gorge are of lower Carboniferous limestones which are currently quarried and have been mined historically for iron."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Garth_hill_%28geograph_6339048%29.jpg/500px-Garth_hill_%28geograph_6339048%29.jpg",
-            "title": "Alan Hughes / Garth hill",
-            "caption": "View across the Taff Vale towards the Garth on a crystal clear December day. Until the 19th century, the valley and the lower slopes of the Garth facing Taff's Well were full of small coal mines which fed the ironworks. Little trace remains today."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Taffs_Well_%28geograph_6242128%29.jpg/500px-Taffs_Well_%28geograph_6242128%29.jpg",
-            "title": "Alan Hughes / Taffs Well",
-            "caption": "View southeast from The Garth over Taffs Well. Somerset visible beyond the Bristol Channel."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gwaelod_y_Garth_Inn%2C_Nov_2023.jpg/500px-Gwaelod_y_Garth_Inn%2C_Nov_2023.jpg?20240109124849",
-            "title": "Dominic Nelson, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Gwaelod y Garth Inn. Head here for some refreshments after your climb."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/View_downstream_from_the_footbridge_at_Gwaelod-y-garth_-_geograph.org.uk_-_2329505.jpg/500px-View_downstream_from_the_footbridge_at_Gwaelod-y-garth_-_geograph.org.uk_-_2329505.jpg?20210714015953",
-            "title": "View downstream from the footbridge at Gwaelod-y-garth by John Lord, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View downstream from the footbridge at Gwaelod-y-garth. There are nice views of the River Taff in this area."
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This challenging walk takes you to the summit of Garth Hill or Mountain near Cardiff. The hill is thought to be the inspiration for the fictional hill featured in the film 'The Englishman Who Went Up a Hill But Came Down a Mountain' starring Hugh Grant. The walk begins in the village of Taff's Well and follows the Taff Ely Ridgeway Walk to the 307 m (1,007 ft) summit. Here you can enjoy fantastic views of Cardiff, the Bristol Channel and the Taff Valley. You will also find a number of burial sites dating from the early to middle Bronze Age, around 2000 BC. You descend on country lanes, crossing the River Taff and finishing back in Taff's Well. To extend your walking in the area just head a mile to the east and visit Castle Coch and Fforest Fawr .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Gwaelod-y-Garth Inn is the ideal place for some post walk refreshments. It's conveniently located at the foot of the mountain and has a good menu. The inn also has an interesting history which dates back to at least 1838 when it would have been used by travellers and farmers moving their produce around the area. You can find them in the village at postcode CF15 9HH for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The walk is a good one for fit dogs and the inn mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "In Taff's Well you can pick up the popular Taff Trail. The shared cycling and walking trail runs through the lovely Taff Valley along a disused railway line. The Pontypridd Walk uses part of the Taff Trail and a section of the Rhymney Valley Ridgeway Walk to create a circular walk through the area. It also climbs to Mynydd Meio which is another good climb you can do in the area. Just to the west of Pontypridd there's Barry Sidings Country Park at Trehafod. There's some popular woodland mountain bike trails and lovely walks along the park's streams and waterfalls. There's also good views of the River Rhonnda at the northern end of the park. Head west along the Taff Ely Ridgeway and you can visit the town of Llantrisant, headquarters of the Royal Mint. There's nice trails here through the Llantrisant Forest to the viewpoints above the town."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/q6vbrrWfTeY?si=fUQh8DsAR4jk7LzU",
-    "district": "Taffs Well",
-    "county": "Rhondda Cynon Taf",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Ffynnon Taf Primary School, Cardiff Road, Taffs Well, Rhondda Cynon Taf, Cymru / Wales, CF15 7PR, United Kingdom",
-    "postcode": "CF15 7PR",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["hill", "country lane"],
-    "points_of_interest": ["burial site", "viewpoint"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Castle Coch",
+      "objectID": "ac8c0484a5bf7113c66d338a19708b46",
+      "ref": "castle-coch-walking-and-cycle-route"
+    },
+    {
+      "description": "Taff Ely Ridgeway Walk",
+      "objectID": "e00998538767837a6f9e4d7b86a3fd6c",
+      "ref": "taff-ely-ridgeway-walk-walking-route"
+    },
+    {
+      "description": "Glamorgan Ridgeway Walk",
+      "objectID": "70fa1ea4568f1b35381d45d56fdd87ab",
+      "ref": "glamorgan-ridgeway-walk-walking-route"
+    },
+    {
+      "description": "Llantrisant",
+      "objectID": "3f225f6bb846986f3875c97315194965",
+      "ref": "llantrisant-walking-route"
+    },
+    {
+      "description": "Barry Sidings",
+      "objectID": "3296acbfaef6c452dba7af85b20b8496",
+      "ref": "barry-sidings-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fedd4eecaab443f42ffa0f62b2513220.gpx",
+  "_geoloc": {
+    "lat": 51.5458507279,
+    "lng": -3.271113075
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg/500px-View_NE_from_Garth_Hill_%28geograph_6014136%29.jpg",
+      "title": "Gareth James / View NE from Garth Hill",
+      "caption": "View NE from Garth Hill. A view from the eastern end of the hill, overlooking Taff's Well and the River Taff."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Woodland%2C_Garth_Hill_-_geograph.org.uk_-_1051284.jpg",
+      "title": "eswales / Woodland, Garth Hill",
+      "caption": "View of woodland on the slopes of Garth Hill from an elevated position on the opposite (eastern) side of Cwm Du."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trig_point_on_Tumulus_on_Garth_Hill_-_geograph.org.uk_-_401909.jpg",
+      "title": "Steve Sheppard / Trig point on Tumulus on Garth Hill",
+      "caption": "A walker stands on the trig point atop the hill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Taff_Gorge_from_sandstone_crag_on_Garth_Hill_-_geograph.org.uk_-_633985.jpg",
+      "title": "Gareth Evans / Taff Gorge from sandstone crag on Garth Hill",
+      "caption": "A view of the Taff Gorge from a sandstone crag on Garth Hill. Upper Carboniferous rocks underlie the foreground and have been mined historically for coal. The conspicuous settlement, Taff's Well, lies on alluvium and river terraces of the Taff. The wooded ridges either side of the gorge are of lower Carboniferous limestones which are currently quarried and have been mined historically for iron."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Garth_hill_%28geograph_6339048%29.jpg/500px-Garth_hill_%28geograph_6339048%29.jpg",
+      "title": "Alan Hughes / Garth hill",
+      "caption": "View across the Taff Vale towards the Garth on a crystal clear December day. Until the 19th century, the valley and the lower slopes of the Garth facing Taff's Well were full of small coal mines which fed the ironworks. Little trace remains today."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Taffs_Well_%28geograph_6242128%29.jpg/500px-Taffs_Well_%28geograph_6242128%29.jpg",
+      "title": "Alan Hughes / Taffs Well",
+      "caption": "View southeast from The Garth over Taffs Well. Somerset visible beyond the Bristol Channel."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gwaelod_y_Garth_Inn%2C_Nov_2023.jpg/500px-Gwaelod_y_Garth_Inn%2C_Nov_2023.jpg?20240109124849",
+      "title": "Dominic Nelson, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Gwaelod y Garth Inn. Head here for some refreshments after your climb."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/View_downstream_from_the_footbridge_at_Gwaelod-y-garth_-_geograph.org.uk_-_2329505.jpg/500px-View_downstream_from_the_footbridge_at_Gwaelod-y-garth_-_geograph.org.uk_-_2329505.jpg?20210714015953",
+      "title": "View downstream from the footbridge at Gwaelod-y-garth by John Lord, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View downstream from the footbridge at Gwaelod-y-garth. There are nice views of the River Taff in this area."
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This challenging walk takes you to the summit of Garth Hill or Mountain near Cardiff. The hill is thought to be the inspiration for the fictional hill featured in the film 'The Englishman Who Went Up a Hill But Came Down a Mountain' starring Hugh Grant. The walk begins in the village of Taff's Well and follows the Taff Ely Ridgeway Walk to the 307 m (1,007 ft) summit. Here you can enjoy fantastic views of Cardiff, the Bristol Channel and the Taff Valley. You will also find a number of burial sites dating from the early to middle Bronze Age, around 2000 BC. You descend on country lanes, crossing the River Taff and finishing back in Taff's Well. To extend your walking in the area just head a mile to the east and visit Castle Coch and Fforest Fawr .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Gwaelod-y-Garth Inn is the ideal place for some post walk refreshments. It's conveniently located at the foot of the mountain and has a good menu. The inn also has an interesting history which dates back to at least 1838 when it would have been used by travellers and farmers moving their produce around the area. You can find them in the village at postcode CF15 9HH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The walk is a good one for fit dogs and the inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Taff's Well you can pick up the popular Taff Trail. The shared cycling and walking trail runs through the lovely Taff Valley along a disused railway line. The Pontypridd Walk uses part of the Taff Trail and a section of the Rhymney Valley Ridgeway Walk to create a circular walk through the area. It also climbs to Mynydd Meio which is another good climb you can do in the area. Just to the west of Pontypridd there's Barry Sidings Country Park at Trehafod. There's some popular woodland mountain bike trails and lovely walks along the park's streams and waterfalls. There's also good views of the River Rhonnda at the northern end of the park. Head west along the Taff Ely Ridgeway and you can visit the town of Llantrisant, headquarters of the Royal Mint. There's nice trails here through the Llantrisant Forest to the viewpoints above the town."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/q6vbrrWfTeY?si=fUQh8DsAR4jk7LzU",
+  "district": "Taffs Well",
+  "county": "Rhondda Cynon Taf",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ffynnon Taf Primary School, Cardiff Road, Taffs Well, Rhondda Cynon Taf, Cymru / Wales, CF15 7PR, United Kingdom",
+  "postcode": "CF15 7PR",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

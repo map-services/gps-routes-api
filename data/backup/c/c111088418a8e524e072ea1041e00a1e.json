@@ -1,90 +1,105 @@
 {
-    "created_at": "2025-01-05T23:36:04.786983+00:00",
-    "objectID": "c111088418a8e524e072ea1041e00a1e",
-    "ref": "penllergare-valley-woods-walking-route",
-    "title": "Penllergare Valley Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterfall_in_Penllergare_Valley_Wood_-_geograph.org.uk_-_2219001.jpg",
-    "nearby": [
-        {
-            "description": "Swansea Canal",
-            "objectID": "c9a9743fb71ab44ca567f359bee3bad8",
-            "ref": "swansea-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Swansea",
-            "objectID": "bc18437f73fd290c3524d244ca018f36",
-            "ref": "swansea-walking-route"
-        },
-        {
-            "description": "Pontarddulais",
-            "objectID": "88070ba9baa43b21a2eda6b61e798b8d",
-            "ref": "pontarddulais-walking-route"
-        },
-        {
-            "description": "Pontardawe",
-            "objectID": "74e9b8f3c2237e4bd5713eea03f81102",
-            "ref": "pontardawe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c111088418a8e524e072ea1041e00a1e.gpx",
-    "_geoloc": {
-        "lat": 51.6700543968,
-        "lng": -3.9882985191
+  "created_at": "2025-01-05T23:36:04.786983+00:00",
+  "objectID": "c111088418a8e524e072ea1041e00a1e",
+  "ref": "penllergare-valley-woods-walking-route",
+  "title": "Penllergare Valley Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterfall_in_Penllergare_Valley_Wood_-_geograph.org.uk_-_2219001.jpg",
+  "nearby": [
+    {
+      "description": "Swansea Canal",
+      "objectID": "c9a9743fb71ab44ca567f359bee3bad8",
+      "ref": "swansea-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterfall_in_Penllergare_Valley_Wood_-_geograph.org.uk_-_2219001.jpg",
-            "title": "Waterfall in Penllergare Valley Wood by Hywel Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Waterfall in Penllergare Valley Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Afan_Llan_Waterfall_at_Valley_wood_%2C_Penllergaer_-_geograph.org.uk_-_982154.jpg",
-            "title": "Stuart Parvin / Afan Llan Waterfall at Valley wood, Penllergaer",
-            "caption": "Afan Llan Waterfall at Valley wood. Taken during a spring morning, in the Penllergaer woods, which was once part of the Penllergare estate of John Dillwyn Llewelyn."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Observatory_at_former_Penllergare_Estate_-_geograph.org.uk_-_1764608.jpg/500px-Observatory_at_former_Penllergare_Estate_-_geograph.org.uk_-_1764608.jpg",
-            "title": "Nigel Davies / Observatory at former Penllergare Estate",
-            "caption": "Observatory at former Penllergare Estate. The observatory was built in 1851 by John Dillwyn Llewelyn. It was adjacent to the mansion house which has since been demolished and replaced by council offices."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Council_Offices%2C_Penllergare_wood%2C_Swansea_-_geograph.org.uk_-_1764576.jpg/500px-Council_Offices%2C_Penllergare_wood%2C_Swansea_-_geograph.org.uk_-_1764576.jpg",
-            "title": "Nigel Davies / Council Offices, Penllergare wood, Swansea",
-            "caption": "Council Offices. These offices were originally for Lliw Borough but became part of Swansea council at local government reorganisation. The offices are builit on the site of the original mansion house at Penllergare estate. The house was demolished in 1961."
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "Penllergare Valley Woods in Swansea is a wonderful place for walkers with miles of woodland trails, lakes, and beautiful waterfalls. Once the estate of botanist and pioneer photographer John Dillwyn Llewelyn, the woods have recently been restored by the Penllergare Trust. It's an enchanting place with terraces, waterfalls and cascades and the beautiful stone arched Llewelyn Bridge. There's good walking paths taking you along the river, around the upper and lower lake and through woodland and parkland. There are also good facilities with car parking and a coffee shop.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a nice on site cafe with decking area and a good selection of snacks and cakes."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "As you'd imagine the woodland trails are ideal for dog walking. You will probably bump into other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area you could pick up the Swansea Canal Walk or visit the popular Clyne Valley Country Park, the famous Mumbles or the beautiful botanical gardens in Singleton Park. Just to the north west there's the town of Pontarddulais where you can start a walk up to the viewpoint on Graig Fawr."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/v2Dj1JMEmv4",
-    "county": "Swansea",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "1833 Carriage Drive, Penllergaer, Tircoed, Swansea, Cymru / Wales, SA4 9HF, United Kingdom",
-    "postcode": "SA4 9HF",
-    "district": "Tircoed",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "lake", "parkland"],
-    "points_of_interest": ["waterfall", "bridge"],
-    "facilities": ["car parking", "coffee shop"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Swansea",
+      "objectID": "bc18437f73fd290c3524d244ca018f36",
+      "ref": "swansea-walking-route"
+    },
+    {
+      "description": "Pontarddulais",
+      "objectID": "88070ba9baa43b21a2eda6b61e798b8d",
+      "ref": "pontarddulais-walking-route"
+    },
+    {
+      "description": "Pontardawe",
+      "objectID": "74e9b8f3c2237e4bd5713eea03f81102",
+      "ref": "pontardawe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c111088418a8e524e072ea1041e00a1e.gpx",
+  "_geoloc": {
+    "lat": 51.6700543968,
+    "lng": -3.9882985191
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterfall_in_Penllergare_Valley_Wood_-_geograph.org.uk_-_2219001.jpg",
+      "title": "Waterfall in Penllergare Valley Wood by Hywel Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Waterfall in Penllergare Valley Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Afan_Llan_Waterfall_at_Valley_wood_%2C_Penllergaer_-_geograph.org.uk_-_982154.jpg",
+      "title": "Stuart Parvin / Afan Llan Waterfall at Valley wood, Penllergaer",
+      "caption": "Afan Llan Waterfall at Valley wood. Taken during a spring morning, in the Penllergaer woods, which was once part of the Penllergare estate of John Dillwyn Llewelyn."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Observatory_at_former_Penllergare_Estate_-_geograph.org.uk_-_1764608.jpg/500px-Observatory_at_former_Penllergare_Estate_-_geograph.org.uk_-_1764608.jpg",
+      "title": "Nigel Davies / Observatory at former Penllergare Estate",
+      "caption": "Observatory at former Penllergare Estate. The observatory was built in 1851 by John Dillwyn Llewelyn. It was adjacent to the mansion house which has since been demolished and replaced by council offices."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Council_Offices%2C_Penllergare_wood%2C_Swansea_-_geograph.org.uk_-_1764576.jpg/500px-Council_Offices%2C_Penllergare_wood%2C_Swansea_-_geograph.org.uk_-_1764576.jpg",
+      "title": "Nigel Davies / Council Offices, Penllergare wood, Swansea",
+      "caption": "Council Offices. These offices were originally for Lliw Borough but became part of Swansea council at local government reorganisation. The offices are builit on the site of the original mansion house at Penllergare estate. The house was demolished in 1961."
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "Penllergare Valley Woods in Swansea is a wonderful place for walkers with miles of woodland trails, lakes, and beautiful waterfalls. Once the estate of botanist and pioneer photographer John Dillwyn Llewelyn, the woods have recently been restored by the Penllergare Trust. It's an enchanting place with terraces, waterfalls and cascades and the beautiful stone arched Llewelyn Bridge. There's good walking paths taking you along the river, around the upper and lower lake and through woodland and parkland. There are also good facilities with car parking and a coffee shop.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe with decking area and a good selection of snacks and cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking. You will probably bump into other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could pick up the Swansea Canal Walk or visit the popular Clyne Valley Country Park, the famous Mumbles or the beautiful botanical gardens in Singleton Park. Just to the north west there's the town of Pontarddulais where you can start a walk up to the viewpoint on Graig Fawr."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/v2Dj1JMEmv4",
+  "county": "Swansea",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "1833 Carriage Drive, Penllergaer, Tircoed, Swansea, Cymru / Wales, SA4 9HF, United Kingdom",
+  "postcode": "SA4 9HF",
+  "district": "Tircoed",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "cascade",
+    "bridge",
+    "lake"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

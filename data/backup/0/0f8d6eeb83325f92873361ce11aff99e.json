@@ -1,107 +1,121 @@
 {
-    "created_at": "2025-01-05T23:46:28.631818+00:00",
-    "objectID": "0f8d6eeb83325f92873361ce11aff99e",
-    "ref": "husthwaite-walking-route",
-    "title": "Husthwaite Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg/500px-Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg",
-    "nearby": [
-        {
-            "description": "Coxwold",
-            "objectID": "0dad0f0e750d2c6680a50c7a76bf5964",
-            "ref": "coxwold-walking-route"
-        },
-        {
-            "description": "Byland Abbey",
-            "objectID": "94d761967c0c3eb23216161af3fcde6d",
-            "ref": "byland-abbey-walking-route"
-        },
-        {
-            "description": "Hambleton Hills",
-            "objectID": "ca9fb2465435f03106946d42ab42ebba",
-            "ref": "hambleton-hills-walking-route"
-        },
-        {
-            "description": "Sutton Bank and the Kilburn White Horse",
-            "objectID": "bf3ea0255e6bc853b03708e82e87f2ca",
-            "ref": "sutton-bank-and-the-kilburn-white-horse-walking-route"
-        },
-        {
-            "description": "Gormire Lake",
-            "objectID": "8cf825b3ca9b1c19ca5029041bfbb144",
-            "ref": "gormire-lake-walking-route"
-        },
-        {
-            "description": "Easingwold",
-            "objectID": "a83bc90e4f8bf7f9ea9d3fed97952f34",
-            "ref": "easingwold-walking-route"
-        },
-        {
-            "description": "Crayke",
-            "objectID": "beb3cc76ac57206e3d995370073fe1b4",
-            "ref": "crayke-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0f8d6eeb83325f92873361ce11aff99e.gpx",
-    "_geoloc": {
-        "lat": 54.1703128963,
-        "lng": -1.2021420476
+  "created_at": "2025-01-05T23:46:28.631818+00:00",
+  "objectID": "0f8d6eeb83325f92873361ce11aff99e",
+  "ref": "husthwaite-walking-route",
+  "title": "Husthwaite Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg/500px-Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg",
+  "nearby": [
+    {
+      "description": "Coxwold",
+      "objectID": "0dad0f0e750d2c6680a50c7a76bf5964",
+      "ref": "coxwold-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg/500px-Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg",
-            "title": "Village green and Church of St Nicholas by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Village green and Church of St Nicholas"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_War_Memorial_at_Husthwaite_-_geograph.org.uk_-_3008995.jpg/330px-The_War_Memorial_at_Husthwaite_-_geograph.org.uk_-_3008995.jpg",
-            "title": "The War Memorial at Husthwaite by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The War Memorial at Husthwaite"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Byland_Abbey_MMB_17.jpg/500px-Byland_Abbey_MMB_17.jpg",
-            "title": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Byland Abbey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Newburgh_Priory_-_geograph.org.uk_-_1877231.jpg/500px-Newburgh_Priory_-_geograph.org.uk_-_1877231.jpg",
-            "title": "Newburgh Priory by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Newburgh Priory"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/A_tractor_rally_at_Coxwold_-_geograph.org.uk_-_3028480.jpg",
-            "title": "A tractor rally at Coxwold by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A tractor rally at Coxwold"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Husthwaite_Gate_railway_station_%28site%29%2C_Yorkshire_%28geograph_3519860%29.jpg/500px-Husthwaite_Gate_railway_station_%28site%29%2C_Yorkshire_%28geograph_3519860%29.jpg",
-            "title": "Nigel Thompson / Husthwaite Gate railway station (site), Yorkshire",
-            "caption": "Husthwaite Gate railway station (site), Yorkshire. Opened in 1854 as a branch of the York, Newcastle and Berwick Railway from just south of Pilmoor to Gilling, this station closed to passengers in 1953 and completely in 1964. View south west towards Pilmoor. There was a single platform on the right with a small wooden building, and a level crossing where the fence in the distance now is. Some bricks can still be seen on the right."
-        }
-    ],
-    "distance_km": 16.5,
-    "description": "This Yorkshire based village sits just to the west of Coxwold in the North York Moors area of the county. The village is a pleasant place for a walk with a pretty village green and a church dating back to the 12th century. This circular walk from the village visits Coxwold and the historic sites at Byland Abbey and Newburgh Priory. The ancient sites are two of the highlights of the local area and include lovely grounds and gardens to stroll around. On the return leg the walk passes close to the old railway line and the site of the Husthwaite Gate Railway station. Along the way there's some lovely views of the surrounding countryside and hills. To continue your walking in the area head to the nearby Sutton Bank and the Kilburn White Horse. It's another major walking highlight with some wonderful views over the area to enjoy.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Plum and Partridge for some post walk refreshments. They serve good quality meals and also provide rooms if you would like to stay in the area. You can find them at postcode YO61 4QA for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/p50LLgDKgPo",
-    "postcode": "YO61 4QE",
-    "district": "Husthwaite",
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Husthwaite, North Yorkshire, York and North Yorkshire, England, YO61 4QE, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["rural", "hill"],
-    "points_of_interest": ["historical site", "gardens"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Byland Abbey",
+      "objectID": "94d761967c0c3eb23216161af3fcde6d",
+      "ref": "byland-abbey-walking-route"
+    },
+    {
+      "description": "Hambleton Hills",
+      "objectID": "ca9fb2465435f03106946d42ab42ebba",
+      "ref": "hambleton-hills-walking-route"
+    },
+    {
+      "description": "Sutton Bank and the Kilburn White Horse",
+      "objectID": "bf3ea0255e6bc853b03708e82e87f2ca",
+      "ref": "sutton-bank-and-the-kilburn-white-horse-walking-route"
+    },
+    {
+      "description": "Gormire Lake",
+      "objectID": "8cf825b3ca9b1c19ca5029041bfbb144",
+      "ref": "gormire-lake-walking-route"
+    },
+    {
+      "description": "Easingwold",
+      "objectID": "a83bc90e4f8bf7f9ea9d3fed97952f34",
+      "ref": "easingwold-walking-route"
+    },
+    {
+      "description": "Crayke",
+      "objectID": "beb3cc76ac57206e3d995370073fe1b4",
+      "ref": "crayke-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0f8d6eeb83325f92873361ce11aff99e.gpx",
+  "_geoloc": {
+    "lat": 54.1703128963,
+    "lng": -1.2021420476
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg/500px-Village_green_and_Church_of_St_Nicholas_-_geograph.org.uk_-_2208436.jpg",
+      "title": "Village green and Church of St Nicholas by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Village green and Church of St Nicholas"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_War_Memorial_at_Husthwaite_-_geograph.org.uk_-_3008995.jpg/330px-The_War_Memorial_at_Husthwaite_-_geograph.org.uk_-_3008995.jpg",
+      "title": "The War Memorial at Husthwaite by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The War Memorial at Husthwaite"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Byland_Abbey_MMB_17.jpg/500px-Byland_Abbey_MMB_17.jpg",
+      "title": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Byland Abbey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Newburgh_Priory_-_geograph.org.uk_-_1877231.jpg/500px-Newburgh_Priory_-_geograph.org.uk_-_1877231.jpg",
+      "title": "Newburgh Priory by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Newburgh Priory"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/A_tractor_rally_at_Coxwold_-_geograph.org.uk_-_3028480.jpg",
+      "title": "A tractor rally at Coxwold by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A tractor rally at Coxwold"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Husthwaite_Gate_railway_station_%28site%29%2C_Yorkshire_%28geograph_3519860%29.jpg/500px-Husthwaite_Gate_railway_station_%28site%29%2C_Yorkshire_%28geograph_3519860%29.jpg",
+      "title": "Nigel Thompson / Husthwaite Gate railway station (site), Yorkshire",
+      "caption": "Husthwaite Gate railway station (site), Yorkshire. Opened in 1854 as a branch of the York, Newcastle and Berwick Railway from just south of Pilmoor to Gilling, this station closed to passengers in 1953 and completely in 1964. View south west towards Pilmoor. There was a single platform on the right with a small wooden building, and a level crossing where the fence in the distance now is. Some bricks can still be seen on the right."
+    }
+  ],
+  "distance_km": 16.5,
+  "description": "This Yorkshire based village sits just to the west of Coxwold in the North York Moors area of the county. The village is a pleasant place for a walk with a pretty village green and a church dating back to the 12th century. This circular walk from the village visits Coxwold and the historic sites at Byland Abbey and Newburgh Priory. The ancient sites are two of the highlights of the local area and include lovely grounds and gardens to stroll around. On the return leg the walk passes close to the old railway line and the site of the Husthwaite Gate Railway station. Along the way there's some lovely views of the surrounding countryside and hills. To continue your walking in the area head to the nearby Sutton Bank and the Kilburn White Horse. It's another major walking highlight with some wonderful views over the area to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Plum and Partridge for some post walk refreshments. They serve good quality meals and also provide rooms if you would like to stay in the area. You can find them at postcode YO61 4QA for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/p50LLgDKgPo",
+  "postcode": "YO61 4QE",
+  "district": "Husthwaite",
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Husthwaite, North Yorkshire, York and North Yorkshire, England, YO61 4QE, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "hills"
+  ],
+  "points_of_interest": [
+    "church",
+    "historical site",
+    "abbey",
+    "priory",
+    "railway station",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

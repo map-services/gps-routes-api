@@ -1,82 +1,91 @@
 {
-    "created_at": "2025-01-06T09:07:45.205451+00:00",
-    "objectID": "f86564af699910376357537c10166fcd",
-    "ref": "priory-country-park-walking-and-cycle-route",
-    "title": "Priory Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Priory_Country_Park_Visitor_Centre_-_geograph.org.uk_-_956743.jpg",
-    "nearby": [
-        {
-            "description": "Bedford to Sandy",
-            "objectID": "b6f44bffc2ac4bde7874206488ef7be8",
-            "ref": "bedford-to-sandy-walking-and-cycle-route"
-        },
-        {
-            "description": "John Bunyan Trail",
-            "objectID": "2c6219060d330beb650803a5941ebb8e",
-            "ref": "john-bunyan-trail-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f86564af699910376357537c10166fcd.gpx",
-    "_geoloc": {
-        "lat": 52.1276070994,
-        "lng": -0.4238075881
+  "created_at": "2025-01-06T09:07:45.205451+00:00",
+  "objectID": "f86564af699910376357537c10166fcd",
+  "ref": "priory-country-park-walking-and-cycle-route",
+  "title": "Priory Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Priory_Country_Park_Visitor_Centre_-_geograph.org.uk_-_956743.jpg",
+  "nearby": [
+    {
+      "description": "Bedford to Sandy",
+      "objectID": "b6f44bffc2ac4bde7874206488ef7be8",
+      "ref": "bedford-to-sandy-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Priory_Country_Park_Visitor_Centre_-_geograph.org.uk_-_956743.jpg",
-            "title": "M J Richardson / Priory Country Park Visitor Centre",
-            "caption": "Priory Country Park Visitor Centre. A plaque records that the country park was officially opened in September 1986 by Valerie Singleton on behalf of the RSNC British Wildlife Appeal, the park development having been grant-aided by the Countryside Commission."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Finger_Lake_at_Priory_Country_Park_-_geograph.org.uk_-_956720.jpg",
-            "title": "M J Richardson / Finger Lake at Priory Country Park",
-            "caption": "Finger Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/River_Great_Ouse%2C_Priory_Country_Park_-_geograph.org.uk_-_809291.jpg",
-            "title": "Robin Drayton / River Great Ouse, Priory Country Park",
-            "caption": "River Great Ouse. The south of the country park is bounded by the River Great Ouse which here has a hotel on its bank."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Inverted_Comma_-_geograph.org.uk_-_956712.jpg",
-            "title": "M J Richardson / Inverted Comma",
-            "caption": "Inverted Comma. A Comma butterfly [Polygonia c-album] preferring an upside-down perching position near the lake at the coutnry park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duck_feeding_beach_at_Priory_Park_-_geograph.org.uk_-_3682973.jpg/500px-Duck_feeding_beach_at_Priory_Park_-_geograph.org.uk_-_3682973.jpg",
-            "title": "Duck feeding beach at Priory Park by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Duck feeding beach at Priory Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Path_within_Fenlake_Meadows_Local_Nature_Reserve_-_geograph.org.uk_-_2605155.jpg/500px-Path_within_Fenlake_Meadows_Local_Nature_Reserve_-_geograph.org.uk_-_2605155.jpg",
-            "title": "Path within Fenlake Meadows Local Nature Reserve by Robert Kerr, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Path within Fenlake Meadows Local Nature Reserve"
-        }
-    ],
-    "distance_km": 4.2,
-    "description": "Explore 360 acres of lakes, meadows and woodland, in this park situated on the river Great Ouse in Bedford. The park includes the pretty Priory Marina and lake which are perfect for a peaceful waterside walk or cycle. National Cycle Network route 51 passes through the park so you can continue your cycle on the Bedford to Sandy cycle route. For walkers the John Bunyan Trail passes through Bedford if you wish to continue your walk. On the opposite side of the park there's also the Fenlake Meadows nature reserve. The meadows are the largest and best preserved flood plain grazing meadows in Bedfordshire. There's a circular footpath around the site though it can sometimes be flooded.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head into nearby Sandy and you can visit lovely Lodge Nature Reserve on the Sandy Walk. The reserve is notable as the headquarters of the RSPB and includes an excellent visitor centre with formal gardens and lots of wildlife. Just to the east there's the delightful village of Great Barford. There's nice river trails along the Ouse, an ancient arched bridge and a notable church with a 15th century tower to see here."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Mo-u1P4JitU",
-    "postcode": "MK44 3JW",
-    "district": null,
-    "county": "Bedford",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Stannard Way, Priory Business Park, Newnham, Bedford, England, MK44 3JW, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "water"],
-    "points_of_interest": ["nature reserve", "marina"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "John Bunyan Trail",
+      "objectID": "2c6219060d330beb650803a5941ebb8e",
+      "ref": "john-bunyan-trail-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f86564af699910376357537c10166fcd.gpx",
+  "_geoloc": {
+    "lat": 52.1276070994,
+    "lng": -0.4238075881
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Priory_Country_Park_Visitor_Centre_-_geograph.org.uk_-_956743.jpg",
+      "title": "M J Richardson / Priory Country Park Visitor Centre",
+      "caption": "Priory Country Park Visitor Centre. A plaque records that the country park was officially opened in September 1986 by Valerie Singleton on behalf of the RSNC British Wildlife Appeal, the park development having been grant-aided by the Countryside Commission."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Finger_Lake_at_Priory_Country_Park_-_geograph.org.uk_-_956720.jpg",
+      "title": "M J Richardson / Finger Lake at Priory Country Park",
+      "caption": "Finger Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/River_Great_Ouse%2C_Priory_Country_Park_-_geograph.org.uk_-_809291.jpg",
+      "title": "Robin Drayton / River Great Ouse, Priory Country Park",
+      "caption": "River Great Ouse. The south of the country park is bounded by the River Great Ouse which here has a hotel on its bank."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Inverted_Comma_-_geograph.org.uk_-_956712.jpg",
+      "title": "M J Richardson / Inverted Comma",
+      "caption": "Inverted Comma. A Comma butterfly [Polygonia c-album] preferring an upside-down perching position near the lake at the coutnry park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duck_feeding_beach_at_Priory_Park_-_geograph.org.uk_-_3682973.jpg/500px-Duck_feeding_beach_at_Priory_Park_-_geograph.org.uk_-_3682973.jpg",
+      "title": "Duck feeding beach at Priory Park by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Duck feeding beach at Priory Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Path_within_Fenlake_Meadows_Local_Nature_Reserve_-_geograph.org.uk_-_2605155.jpg/500px-Path_within_Fenlake_Meadows_Local_Nature_Reserve_-_geograph.org.uk_-_2605155.jpg",
+      "title": "Path within Fenlake Meadows Local Nature Reserve by Robert Kerr, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Path within Fenlake Meadows Local Nature Reserve"
+    }
+  ],
+  "distance_km": 4.2,
+  "description": "Explore 360 acres of lakes, meadows and woodland, in this park situated on the river Great Ouse in Bedford. The park includes the pretty Priory Marina and lake which are perfect for a peaceful waterside walk or cycle. National Cycle Network route 51 passes through the park so you can continue your cycle on the Bedford to Sandy cycle route. For walkers the John Bunyan Trail passes through Bedford if you wish to continue your walk. On the opposite side of the park there's also the Fenlake Meadows nature reserve. The meadows are the largest and best preserved flood plain grazing meadows in Bedfordshire. There's a circular footpath around the site though it can sometimes be flooded.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into nearby Sandy and you can visit lovely Lodge Nature Reserve on the Sandy Walk. The reserve is notable as the headquarters of the RSPB and includes an excellent visitor centre with formal gardens and lots of wildlife. Just to the east there's the delightful village of Great Barford. There's nice river trails along the Ouse, an ancient arched bridge and a notable church with a 15th century tower to see here."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Mo-u1P4JitU",
+  "postcode": "MK44 3JW",
+  "district": null,
+  "county": "Bedford",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Stannard Way, Priory Business Park, Newnham, Bedford, England, MK44 3JW, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "lake",
+    "nature reserve"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

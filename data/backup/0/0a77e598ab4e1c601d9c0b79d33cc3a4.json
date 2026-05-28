@@ -1,95 +1,106 @@
 {
-    "created_at": "2025-01-05T23:44:02.314247+00:00",
-    "objectID": "0a77e598ab4e1c601d9c0b79d33cc3a4",
-    "ref": "bernwood-forest-walking-route",
-    "title": "Bernwood Forest Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernwood_Forest_-_geograph.org.uk_-_204179.jpg",
-    "nearby": [
-        {
-            "description": "Bernwood Jubilee Way",
-            "objectID": "edcc89f3ee45ba3830f4a6b3498272b5",
-            "ref": "bernwood-jubilee-way-walking-route"
-        },
-        {
-            "description": "Oxfordshire Way",
-            "objectID": "f2f8c5cb204c351de4c898446fda44cc",
-            "ref": "oxfordshire-way-walking-route"
-        },
-        {
-            "description": "Thame Valley Walk",
-            "objectID": "827bb074ff959539ee67d82c2cd889e7",
-            "ref": "thame-valley-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0a77e598ab4e1c601d9c0b79d33cc3a4.gpx",
-    "_geoloc": {
-        "lat": 51.7991065139,
-        "lng": -1.1164147882
+  "created_at": "2025-01-05T23:44:02.314247+00:00",
+  "objectID": "0a77e598ab4e1c601d9c0b79d33cc3a4",
+  "ref": "bernwood-forest-walking-route",
+  "title": "Bernwood Forest Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernwood_Forest_-_geograph.org.uk_-_204179.jpg",
+  "nearby": [
+    {
+      "description": "Bernwood Jubilee Way",
+      "objectID": "edcc89f3ee45ba3830f4a6b3498272b5",
+      "ref": "bernwood-jubilee-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernwood_Forest_-_geograph.org.uk_-_204179.jpg",
-            "title": "Jackie Harman / Bernwood Forest",
-            "caption": "Old gate in Shabbington Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bernwood_Forest_-_geograph.org.uk_-_204181.jpg",
-            "title": "Jackie Harman / Bernwood Forest",
-            "caption": "Enclosed meadow in Shabbington Wood, Bernwood Forest."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bernwood_Meadow%2C_Bernwood_Forest_-_geograph.org.uk_-_219656.jpg",
-            "title": "Jackie Harman / Bernwood Meadow, Bernwood Forest",
-            "caption": "Bernwood Meadow, Bernwood Forest. A BBONT Nature reserve. A Site of Special Scientific Interest and a haven for butterflies.The grass is mowed once a year."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Entrance_to_Bernwood_Forest_-_geograph.org.uk_-_203775.jpg",
-            "title": "Jackie Harman / Entrance to Bernwood Forest",
-            "caption": "Entrance to the forest. Taken from just inside the entrance on the Oakley road. Bernwood Forest is an ancient forest dating back to the 12th century. At one time it covered many parishes. Nowadays it is a Site of Special Scientific Interest and several species of Butterflies may be found here."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bernwood_Forest_-_geograph.org.uk_-_204174.jpg",
-            "title": "Jackie Harman / Bernwood Forest",
-            "caption": "Track in Oakley Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hide_in_Bernwood_Forest_-_geograph.org.uk_-_1710908.jpg/500px-Hide_in_Bernwood_Forest_-_geograph.org.uk_-_1710908.jpg",
-            "title": "Steve Daniels / Hide in Bernwood Forest",
-            "caption": "Bird hide in the woods where you can look out for a variety of winged visitors"
-        }
-    ],
-    "distance_km": 5.5,
-    "description": "This large area of woodland is located a few miles north east of Oxford city centre. It's a nice peaceful place to go for a walk if you are visiting the area. In the woods you'll find a number of footpaths including a Butterfly trail where you can look out for over 40 species of butterfly. You can start the walk at the car park on Oakley Road (postcode below). From here you can pick up the trails heading through Oakley Wood, Shabbington Wood and Waterperry Wood to the south. The Bernwood Jubilee Way also runs through the forest. This waymarked, long distance trail was devised to celebrate the Queen's Golden Jubilee. It runs for 61 miles and explores the area that was once The Royal Hunting Forest of Bernwood.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The little village of Oakley is located just to the north east of the woods. Here you can enjoy some post walk refreshments at The Chandos Arms. The pub does very good food in a welcoming atmosphere. There is also a garden area to sit out in if the weather is fine. You can find the inn at 8 The Turnpike, Oakley with a postcode of HP18 9QB for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woodland trails at Bernwood are ideal for dog walking so you'll probably see plenty of other owners on a fine day."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Oxfordshire Way runs past the western side of the woods. You can pick up the waymarked trail and follow it west through the countryside to Beckley and Islip on the River Cherwell. If you follow it south east it will take you to Tiddington where you can join with the Thame Valley Walk and enjoy a riverside stroll along the River Thame."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/EaY-U2W4rbc",
-    "postcode": "OX33 1BJ",
-    "county": "Buckinghamshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Oxford Road, Boarstall, Honeyburge, Buckinghamshire, England, OX33 1BJ, United Kingdom",
-    "district": "Honeyburge",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland"],
-    "points_of_interest": ["footpath", "trail"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Oxfordshire Way",
+      "objectID": "f2f8c5cb204c351de4c898446fda44cc",
+      "ref": "oxfordshire-way-walking-route"
+    },
+    {
+      "description": "Thame Valley Walk",
+      "objectID": "827bb074ff959539ee67d82c2cd889e7",
+      "ref": "thame-valley-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0a77e598ab4e1c601d9c0b79d33cc3a4.gpx",
+  "_geoloc": {
+    "lat": 51.7991065139,
+    "lng": -1.1164147882
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernwood_Forest_-_geograph.org.uk_-_204179.jpg",
+      "title": "Jackie Harman / Bernwood Forest",
+      "caption": "Old gate in Shabbington Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bernwood_Forest_-_geograph.org.uk_-_204181.jpg",
+      "title": "Jackie Harman / Bernwood Forest",
+      "caption": "Enclosed meadow in Shabbington Wood, Bernwood Forest."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bernwood_Meadow%2C_Bernwood_Forest_-_geograph.org.uk_-_219656.jpg",
+      "title": "Jackie Harman / Bernwood Meadow, Bernwood Forest",
+      "caption": "Bernwood Meadow, Bernwood Forest. A BBONT Nature reserve. A Site of Special Scientific Interest and a haven for butterflies.The grass is mowed once a year."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Entrance_to_Bernwood_Forest_-_geograph.org.uk_-_203775.jpg",
+      "title": "Jackie Harman / Entrance to Bernwood Forest",
+      "caption": "Entrance to the forest. Taken from just inside the entrance on the Oakley road. Bernwood Forest is an ancient forest dating back to the 12th century. At one time it covered many parishes. Nowadays it is a Site of Special Scientific Interest and several species of Butterflies may be found here."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bernwood_Forest_-_geograph.org.uk_-_204174.jpg",
+      "title": "Jackie Harman / Bernwood Forest",
+      "caption": "Track in Oakley Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hide_in_Bernwood_Forest_-_geograph.org.uk_-_1710908.jpg/500px-Hide_in_Bernwood_Forest_-_geograph.org.uk_-_1710908.jpg",
+      "title": "Steve Daniels / Hide in Bernwood Forest",
+      "caption": "Bird hide in the woods where you can look out for a variety of winged visitors"
+    }
+  ],
+  "distance_km": 5.5,
+  "description": "This large area of woodland is located a few miles north east of Oxford city centre. It's a nice peaceful place to go for a walk if you are visiting the area. In the woods you'll find a number of footpaths including a Butterfly trail where you can look out for over 40 species of butterfly. You can start the walk at the car park on Oakley Road (postcode below). From here you can pick up the trails heading through Oakley Wood, Shabbington Wood and Waterperry Wood to the south. The Bernwood Jubilee Way also runs through the forest. This waymarked, long distance trail was devised to celebrate the Queen's Golden Jubilee. It runs for 61 miles and explores the area that was once The Royal Hunting Forest of Bernwood.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The little village of Oakley is located just to the north east of the woods. Here you can enjoy some post walk refreshments at The Chandos Arms. The pub does very good food in a welcoming atmosphere. There is also a garden area to sit out in if the weather is fine. You can find the inn at 8 The Turnpike, Oakley with a postcode of HP18 9QB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails at Bernwood are ideal for dog walking so you'll probably see plenty of other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Oxfordshire Way runs past the western side of the woods. You can pick up the waymarked trail and follow it west through the countryside to Beckley and Islip on the River Cherwell. If you follow it south east it will take you to Tiddington where you can join with the Thame Valley Walk and enjoy a riverside stroll along the River Thame."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/EaY-U2W4rbc",
+  "postcode": "OX33 1BJ",
+  "county": "Buckinghamshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Oxford Road, Boarstall, Honeyburge, Buckinghamshire, England, OX33 1BJ, United Kingdom",
+  "district": "Honeyburge",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "butterfly trail"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

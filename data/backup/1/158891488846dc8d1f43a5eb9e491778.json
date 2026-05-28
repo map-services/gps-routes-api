@@ -1,157 +1,169 @@
 {
-    "created_at": "2025-01-06T03:18:01.294828+00:00",
-    "objectID": "158891488846dc8d1f43a5eb9e491778",
-    "ref": "north-downs-way-walking-route",
-    "title": "North Downs Way National Trail Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
-    "nearby": [
-        {
-            "description": "Blue Bell Hill",
-            "objectID": "464200c8e426e8893cb72f3ffb0b6cd8",
-            "ref": "blue-bell-hill-walking-route"
-        },
-        {
-            "description": "Fox Way",
-            "objectID": "c216f9e2ccbc1b29ac7c65339dc7f2f3",
-            "ref": "fox-way-walking-route"
-        },
-        {
-            "description": "Puttenham Common",
-            "objectID": "478b16fb595a14fc69335a01acf178cc",
-            "ref": "puttenham-common-walking-route"
-        },
-        {
-            "description": "Compton Littleton and Loseley Park",
-            "objectID": "4545ab16e0918ddee8f7cfd7f1909461",
-            "ref": "compton-littleton-and-loseley-park-walking-route"
-        },
-        {
-            "description": "White Horse Wood Country Park",
-            "objectID": "247d5a2225061acac4e9f002c943112a",
-            "ref": "white-horse-wood-country-park-walking-route"
-        },
-        {
-            "description": "Farnham Park",
-            "objectID": "60c85b7f9f787b5698b4ab08836c6432",
-            "ref": "farnham-park-walking-route"
-        },
-        {
-            "description": "Denbies Hillside",
-            "objectID": "10372ccaa59635718c7bf3df32fe4998",
-            "ref": "denbies-hillside-walking-route"
-        },
-        {
-            "description": "Medway Megaliths",
-            "objectID": "3e6e6dc730082c974ffa6f7a41b581d8",
-            "ref": "medway-megaliths-walking-route"
-        },
-        {
-            "description": "Chilham",
-            "objectID": "159a0252df387101fe4b050c706e0ccf",
-            "ref": "chilham-walking-route"
-        },
-        {
-            "description": "Western Heights Dover",
-            "objectID": "999a0709dfe8f66f12a0155ceaf9fdf5",
-            "ref": "western-heights-dover-walking-route"
-        },
-        {
-            "description": "Wye Downs",
-            "objectID": "3383f81787d2812d3aed58579b967b27",
-            "ref": "wye-downs-walking-route"
-        },
-        {
-            "description": "Reigate Hill and Gatton Park",
-            "objectID": "d1cabfe0de094f88d0210e237c45b6c1",
-            "ref": "reigate-hill-and-gatton-park-walking-route"
-        },
-        {
-            "description": "Otford Circular Walk",
-            "objectID": "40d25f7370980e10cfbf78b252ebfae4",
-            "ref": "otford-circular-walk-walking-route"
-        },
-        {
-            "description": "Hogs Back",
-            "objectID": "17eeea1d4bb435600653b90533ebaaf5",
-            "ref": "hogs-back-walking-route"
-        },
-        {
-            "description": "Knockholt",
-            "objectID": "2bb6045c20e1ac25e8c2879623ac6263",
-            "ref": "knockholt-walking-route"
-        },
-        {
-            "description": "Charing",
-            "objectID": "fa1d10090cc2e9b43b24f3267934f9cc",
-            "ref": "charing-walking-route"
-        },
-        {
-            "description": "Hollingbourne",
-            "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
-            "ref": "hollingbourne-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/158891488846dc8d1f43a5eb9e491778.gpx",
-    "_geoloc": {
-        "lat": 51.2141679935,
-        "lng": -0.7954245649
+  "created_at": "2025-01-06T03:18:01.294828+00:00",
+  "objectID": "158891488846dc8d1f43a5eb9e491778",
+  "ref": "north-downs-way-walking-route",
+  "title": "North Downs Way National Trail Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
+  "nearby": [
+    {
+      "description": "Blue Bell Hill",
+      "objectID": "464200c8e426e8893cb72f3ffb0b6cd8",
+      "ref": "blue-bell-hill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
-            "title": "GkgAlf at the English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
-            "caption": "North Downs Way near Hollingbourne"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/North_Downs_Way_-_geograph.org.uk_-_1424957.jpg",
-            "title": "Chris Gunns / North Downs Way, via Wikimedia Commons",
-            "caption": "North Downs Way near Wrotham"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/View_across_the_Marinas_from_Western_Heights%2C_Dover_-_geograph.org.uk_-_2756.jpg",
-            "title": "Penny Mayes / View across the Marinas from Western Heights, Dover, via Wikimedia Commons",
-            "caption": "View across the Marinas from the Western Heights in Dover. Dover Castle and the Eastern Docks are visible in the background. The area includes a series of interesting old forts and batteries."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Medway_Valley_from_Blue_Bell_Hill_-_geograph.org.uk_-_1351257.jpg",
-            "title": "Chris Whippet / Medway Valley from Blue Bell Hill, via Wikimedia Commons",
-            "caption": "Medway Valley from Blue Bell Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sunrise_on_The_Saddle_Knob%2C_Colley_Hill_-_geograph.org.uk_-_621066.jpg",
-            "title": "Ian Capper / Sunrise on The Saddle Knob, Colley Hill, via Wikimedia Commons",
-            "caption": "Sunrise on The Saddle Knob, Colley Hill. This picture along the North Downs scarp was taken on a November morning, just after sunrise. The Saddle Knob is the grassy slope, with an old quarry at its foot. In the background is the much bigger Betchworth Quarry - until a few years ago its white cliff was a landmark for miles around. Now only the top shows, the rest having been used as a large landfill, now landscaped and being managed to make new downland. In the very far distance is White Downs. Box Hill, perhaps the most famous part of this stretch of the North Downs, is not visible, lying around the corner beyond Betchworth Quarry."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sunrise_at_Reigate_Hill_-_geograph.org.uk_-_603818.jpg",
-            "title": "Ian Capper / Sunrise at Reigate Hill, via Wikimedia Commons",
-            "caption": "The view from Reigate Hill car park at sunrise, with Reigate and the Priory Park ridge in the background."
-        }
-    ],
-    "distance_km": 246.0,
-    "description": "This beautiful trail starts in Farnham, Surrey and heads east through the stunning North Downs to the historic city of Canterbury in Kent. The path runs for 153 miles taking you through some stunning scenery, including the Surrey Hills and Kent Downs Areas of Outstanding Natural Beauty. In addition to the wonderful rolling countryside you will pass through a variety of interesting towns including Godalming, Guildford, Dorking, Merstham, Otford, Chilham, Rochester and Dover, where the views of the white cliffs from the trail are stunning.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "On Reigate Hill you'll find the National Trust's Reigate Hill Tea Rooms. The cafe is in a fabulous elevated position with a number of picnic tables where you can sit outside and soak in the views of the Weald and Gatwick Airport. There's a good range of snacks and it's also very reasonably priced. The Rising Sun in Otford is another good option. They have a fantastic garden area with fine views over the North Downs countryside. It's a great spot to relax in on fine summer days. You can find the pub just to the west of the village on Twitton Lane with a postcode of TN14 5JS for your sat navs. The pub is also dog friendly if you have your canine friend with you. The Robin Hood in Blue Bell Hill village is an interesting pub worthy of some investigation. The pub dates back over 700 years and includes a charming interior with a wood burner for colder days. Outside there's a lovely garden area with BBQ facilities during the warmer months. You can find the pub on Common Road with a postcode of ME5 9RJ for your sat navs. The pub welcomes dogs outside and in the bar area. In the Surrey town of Godalming there's a couple of worthy options to consider for a pit stop. The historic Star Inn dates back to the 1700s and includes and charming 'Olde Worlde' interior. They serve very good food which you can enjoy in a lovely garden area on warmer days. You can find them at 17 Church Street with postcode GU7 1EL for your sat navs. The Inn on the Lake is another good choice in the town. There's a particularly lovely garden here and a great Sunday roast. You can find them on the Ockford Road at postcode GU7 1RH. They are dog friendly if you have your canine friend with you. In the village of Hollingbourne make a pit stop at the splendidly named Dirty Habit. It's a pub of some note with a history dating back to the 11th century when it began life as a monk\u2019s ale and cider house. The pilgrims who passed on their way to Canterbury would refresh themselves and perhaps stay the night. It is also said that James II stayed here whilst escaping the country to France. They serve high quality dishes and have a lovely garden area to sit out in on warmer days. You can find them on Upper Street at postcode ME17 1UW. Just to the north of here there's also the lovely Hucking Estate which includes a Norman church, a waymarked sculpture trail and another fine country pub at the north western end. The historic village is also worth exploring with over a hundred listed buildings including some fine timber framed structures on Eyhorne Street and the noteworthy All Saints Church which dates from the 14th century. The Kent Downs village of Lenham is a good choice for a pit stop. The worthy settlement includes a pretty square and a historic high street with a number of listed buildings. There's also a Grade I listed Tithe Barn, a notable 14th century church and an early 1600s pub to investigate. The Dog and Bull was originally built in 1602 and visited by Queen Anne in 1704 - her coat of arms is still displayed above the door today. They serve fine food and have a pleasant courtyard garden for the summer months. You can find them on the Square at postcode ME17 2PG for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Rt5wQR-bYos",
-    "postcode": "GU9 7RN",
-    "district": "Waverley",
-    "county": "Surrey",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "50, South Street, Fairfield, Farnham, Waverley, Surrey, England, GU9 7RN, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "rural"],
-    "points_of_interest": ["towns", "historic site"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Fox Way",
+      "objectID": "c216f9e2ccbc1b29ac7c65339dc7f2f3",
+      "ref": "fox-way-walking-route"
+    },
+    {
+      "description": "Puttenham Common",
+      "objectID": "478b16fb595a14fc69335a01acf178cc",
+      "ref": "puttenham-common-walking-route"
+    },
+    {
+      "description": "Compton Littleton and Loseley Park",
+      "objectID": "4545ab16e0918ddee8f7cfd7f1909461",
+      "ref": "compton-littleton-and-loseley-park-walking-route"
+    },
+    {
+      "description": "White Horse Wood Country Park",
+      "objectID": "247d5a2225061acac4e9f002c943112a",
+      "ref": "white-horse-wood-country-park-walking-route"
+    },
+    {
+      "description": "Farnham Park",
+      "objectID": "60c85b7f9f787b5698b4ab08836c6432",
+      "ref": "farnham-park-walking-route"
+    },
+    {
+      "description": "Denbies Hillside",
+      "objectID": "10372ccaa59635718c7bf3df32fe4998",
+      "ref": "denbies-hillside-walking-route"
+    },
+    {
+      "description": "Medway Megaliths",
+      "objectID": "3e6e6dc730082c974ffa6f7a41b581d8",
+      "ref": "medway-megaliths-walking-route"
+    },
+    {
+      "description": "Chilham",
+      "objectID": "159a0252df387101fe4b050c706e0ccf",
+      "ref": "chilham-walking-route"
+    },
+    {
+      "description": "Western Heights Dover",
+      "objectID": "999a0709dfe8f66f12a0155ceaf9fdf5",
+      "ref": "western-heights-dover-walking-route"
+    },
+    {
+      "description": "Wye Downs",
+      "objectID": "3383f81787d2812d3aed58579b967b27",
+      "ref": "wye-downs-walking-route"
+    },
+    {
+      "description": "Reigate Hill and Gatton Park",
+      "objectID": "d1cabfe0de094f88d0210e237c45b6c1",
+      "ref": "reigate-hill-and-gatton-park-walking-route"
+    },
+    {
+      "description": "Otford Circular Walk",
+      "objectID": "40d25f7370980e10cfbf78b252ebfae4",
+      "ref": "otford-circular-walk-walking-route"
+    },
+    {
+      "description": "Hogs Back",
+      "objectID": "17eeea1d4bb435600653b90533ebaaf5",
+      "ref": "hogs-back-walking-route"
+    },
+    {
+      "description": "Knockholt",
+      "objectID": "2bb6045c20e1ac25e8c2879623ac6263",
+      "ref": "knockholt-walking-route"
+    },
+    {
+      "description": "Charing",
+      "objectID": "fa1d10090cc2e9b43b24f3267934f9cc",
+      "ref": "charing-walking-route"
+    },
+    {
+      "description": "Hollingbourne",
+      "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
+      "ref": "hollingbourne-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/158891488846dc8d1f43a5eb9e491778.gpx",
+  "_geoloc": {
+    "lat": 51.2141679935,
+    "lng": -0.7954245649
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
+      "title": "GkgAlf at the English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
+      "caption": "North Downs Way near Hollingbourne"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/North_Downs_Way_-_geograph.org.uk_-_1424957.jpg",
+      "title": "Chris Gunns / North Downs Way, via Wikimedia Commons",
+      "caption": "North Downs Way near Wrotham"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/View_across_the_Marinas_from_Western_Heights%2C_Dover_-_geograph.org.uk_-_2756.jpg",
+      "title": "Penny Mayes / View across the Marinas from Western Heights, Dover, via Wikimedia Commons",
+      "caption": "View across the Marinas from the Western Heights in Dover. Dover Castle and the Eastern Docks are visible in the background. The area includes a series of interesting old forts and batteries."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Medway_Valley_from_Blue_Bell_Hill_-_geograph.org.uk_-_1351257.jpg",
+      "title": "Chris Whippet / Medway Valley from Blue Bell Hill, via Wikimedia Commons",
+      "caption": "Medway Valley from Blue Bell Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sunrise_on_The_Saddle_Knob%2C_Colley_Hill_-_geograph.org.uk_-_621066.jpg",
+      "title": "Ian Capper / Sunrise on The Saddle Knob, Colley Hill, via Wikimedia Commons",
+      "caption": "Sunrise on The Saddle Knob, Colley Hill. This picture along the North Downs scarp was taken on a November morning, just after sunrise. The Saddle Knob is the grassy slope, with an old quarry at its foot. In the background is the much bigger Betchworth Quarry - until a few years ago its white cliff was a landmark for miles around. Now only the top shows, the rest having been used as a large landfill, now landscaped and being managed to make new downland. In the very far distance is White Downs. Box Hill, perhaps the most famous part of this stretch of the North Downs, is not visible, lying around the corner beyond Betchworth Quarry."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sunrise_at_Reigate_Hill_-_geograph.org.uk_-_603818.jpg",
+      "title": "Ian Capper / Sunrise at Reigate Hill, via Wikimedia Commons",
+      "caption": "The view from Reigate Hill car park at sunrise, with Reigate and the Priory Park ridge in the background."
+    }
+  ],
+  "distance_km": 246.0,
+  "description": "This beautiful trail starts in Farnham, Surrey and heads east through the stunning North Downs to the historic city of Canterbury in Kent. The path runs for 153 miles taking you through some stunning scenery, including the Surrey Hills and Kent Downs Areas of Outstanding Natural Beauty. In addition to the wonderful rolling countryside you will pass through a variety of interesting towns including Godalming, Guildford, Dorking, Merstham, Otford, Chilham, Rochester and Dover, where the views of the white cliffs from the trail are stunning.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On Reigate Hill you'll find the National Trust's Reigate Hill Tea Rooms. The cafe is in a fabulous elevated position with a number of picnic tables where you can sit outside and soak in the views of the Weald and Gatwick Airport. There's a good range of snacks and it's also very reasonably priced. The Rising Sun in Otford is another good option. They have a fantastic garden area with fine views over the North Downs countryside. It's a great spot to relax in on fine summer days. You can find the pub just to the west of the village on Twitton Lane with a postcode of TN14 5JS for your sat navs. The pub is also dog friendly if you have your canine friend with you. The Robin Hood in Blue Bell Hill village is an interesting pub worthy of some investigation. The pub dates back over 700 years and includes a charming interior with a wood burner for colder days. Outside there's a lovely garden area with BBQ facilities during the warmer months. You can find the pub on Common Road with a postcode of ME5 9RJ for your sat navs. The pub welcomes dogs outside and in the bar area. In the Surrey town of Godalming there's a couple of worthy options to consider for a pit stop. The historic Star Inn dates back to the 1700s and includes and charming 'Olde Worlde' interior. They serve very good food which you can enjoy in a lovely garden area on warmer days. You can find them at 17 Church Street with postcode GU7 1EL for your sat navs. The Inn on the Lake is another good choice in the town. There's a particularly lovely garden here and a great Sunday roast. You can find them on the Ockford Road at postcode GU7 1RH. They are dog friendly if you have your canine friend with you. In the village of Hollingbourne make a pit stop at the splendidly named Dirty Habit. It's a pub of some note with a history dating back to the 11th century when it began life as a monk\u2019s ale and cider house. The pilgrims who passed on their way to Canterbury would refresh themselves and perhaps stay the night. It is also said that James II stayed here whilst escaping the country to France. They serve high quality dishes and have a lovely garden area to sit out in on warmer days. You can find them on Upper Street at postcode ME17 1UW. Just to the north of here there's also the lovely Hucking Estate which includes a Norman church, a waymarked sculpture trail and another fine country pub at the north western end. The historic village is also worth exploring with over a hundred listed buildings including some fine timber framed structures on Eyhorne Street and the noteworthy All Saints Church which dates from the 14th century. The Kent Downs village of Lenham is a good choice for a pit stop. The worthy settlement includes a pretty square and a historic high street with a number of listed buildings. There's also a Grade I listed Tithe Barn, a notable 14th century church and an early 1600s pub to investigate. The Dog and Bull was originally built in 1602 and visited by Queen Anne in 1704 - her coat of arms is still displayed above the door today. They serve fine food and have a pleasant courtyard garden for the summer months. You can find them on the Square at postcode ME17 2PG for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Rt5wQR-bYos",
+  "postcode": "GU9 7RN",
+  "district": "Waverley",
+  "county": "Surrey",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "50, South Street, Fairfield, Farnham, Waverley, Surrey, England, GU9 7RN, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "null",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic city",
+    "area of outstanding natural beauty",
+    "historic site",
+    "church"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,136 +1,147 @@
 {
-    "created_at": "2025-01-06T00:05:39.307899+00:00",
-    "objectID": "2a099cac05f6f1c64128d29444c98175",
-    "ref": "haslemere-circular-walk-walking-route",
-    "title": "Haslemere Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Haslemere_War_Memorial_-_geograph.org.uk_-_115886.jpg",
-    "nearby": [
-        {
-            "description": "Marley Common",
-            "objectID": "fe2aafb35f896af21adbfe47446ff1c8",
-            "ref": "marley-common-walking-route"
-        },
-        {
-            "description": "Black Down",
-            "objectID": "d13d828818d1e801d378aaf4cb507128",
-            "ref": "black-down-walking-and-cycle-route"
-        },
-        {
-            "description": "Sussex Border Path",
-            "objectID": "4f7a4ec8abc2fadf21d3ae98a91fb943",
-            "ref": "sussex-border-path-walking-route"
-        },
-        {
-            "description": "Serpent Trail",
-            "objectID": "98f5c162ad30cbe58662827924002061",
-            "ref": "serpent-trail-walking-route"
-        },
-        {
-            "description": "Ludshott Common",
-            "objectID": "d5a4df14460cbc5245994a1ffd4bbaa1",
-            "ref": "ludshott-common-walking-route"
-        },
-        {
-            "description": "Bramshott Common",
-            "objectID": "779711ec70e1c26f1abf896d9daf7dfb",
-            "ref": "bramshott-common-walking-route"
-        },
-        {
-            "description": "Greensand Way",
-            "objectID": "b670bcac73522667d624f8b630cdb672",
-            "ref": "greensand-way-walking-route"
-        },
-        {
-            "description": "Devil's Punch Bowl",
-            "objectID": "877f31f2fb0e7126f1419866653789ab",
-            "ref": "devils-punch-bowl-walking-and-cycle-route"
-        },
-        {
-            "description": "Liphook",
-            "objectID": "87a8018dfaf4d7ec09c3877d15dd1c59",
-            "ref": "liphook-walking-route"
-        },
-        {
-            "description": "Woolmer Forest",
-            "objectID": "ed4e80a3b13f0f929e70f769a272310c",
-            "ref": "woolmer-forest-walking-route"
-        },
-        {
-            "description": "Lurgashall",
-            "objectID": "524ec330c35c1136034bb7805452a10d",
-            "ref": "lurgashall-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a099cac05f6f1c64128d29444c98175.gpx",
-    "_geoloc": {
-        "lat": 51.0886542835,
-        "lng": -0.7190109096
+  "created_at": "2025-01-06T00:05:39.307899+00:00",
+  "objectID": "2a099cac05f6f1c64128d29444c98175",
+  "ref": "haslemere-circular-walk-walking-route",
+  "title": "Haslemere Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Haslemere_War_Memorial_-_geograph.org.uk_-_115886.jpg",
+  "nearby": [
+    {
+      "description": "Marley Common",
+      "objectID": "fe2aafb35f896af21adbfe47446ff1c8",
+      "ref": "marley-common-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Haslemere_War_Memorial_-_geograph.org.uk_-_115886.jpg",
-            "title": "Colin Smith / Haslemere War Memorial, via Wikimedia Commons",
-            "caption": "Haslemere War Memorial"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Black_Down_-_geograph.org.uk_-_8083.jpg",
-            "title": "Stephen Dawson / Black Down, via Wikimedia Commons",
-            "caption": "Black Down"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_heights_of_Black_Down_-_geograph.org.uk_-_574419.jpg",
-            "title": "Robin Webster / The heights of Black Down, via Wikimedia Commons",
-            "caption": "The heights of Black Down"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%22Temple_of_the_Winds%22_viewpoint_on_Black_Down_-_geograph.org.uk_-_1071964.jpg",
-            "title": "Shazz / \"Temple of the Winds\" viewpoint on Black Down, via Wikimedia Commons",
-            "caption": "\"Temple of the Winds\" viewpoint on Black Down"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/View_south_from_Black_Down_-_geograph.org.uk_-_577278.jpg",
-            "title": "Robin Webster / View south from Black Down, via Wikimedia Commons",
-            "caption": "View south from Black Down"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Southern_edge_of_Black_Down_-_geograph.org.uk_-_8085.jpg",
-            "title": "Stephen Dawson / Southern edge of Black Down, via Wikimedia Commons",
-            "caption": "Southern edge of Black Down"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_962812.jpg",
-            "title": "Shazz / Sussex Border Path on Marley Common, via Wikimedia Commons",
-            "caption": "Sussex Border Path on Marley Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_1159570.jpg",
-            "title": "Shazz / The Sussex Border Path on Marley Common, via Wikimedia Commons",
-            "caption": "The Sussex Border Path on Marley Common"
-        }
-    ],
-    "distance_km": 13.0,
-    "description": "This fine circular walk takes you around the Surrey town of Haslemere. It's a varied walk with woodland, heathland and hills climbs to enjoy. From the high points you can also enjoy fine views across the lovely countryside of the South Downs National Park. The walk starts from Haslemere train station and heads through the town before heading south to Valewood Farm House. Here you can pick up the Sussex Border Path and the Serpent Trail. These long distance trails will take you up onto Black Down. The National Trust run area includes a series of well defined paths taking you to flower-rich meadows, ancient woodland and copses. There are fabulous views over the Weald from the Temple of the Winds, at the southern end of the down, which is the highest point in the South Downs. After taking the views the route descends west toward Fenhurst before turning north toward Marley Heights and Marley Common. The common has miles of good footpaths taking you to heathland, woodland and meadows. Look out for the pretty purple heather in the summer months and the yellow flowering gorse all year round. The final section follows footpaths through Camelsdale before finishing back at the train station. To continue your walking in the Haslemere area you could try the nice footpaths on Ludshott Common and Bramshott Common. The Greensand Way also passes the town. One good option is to follow the waymarked trail north to visit the Devil's Punch Bowl. Here you'll find a splendid large natural amphitheatre and beauty spot run by the National Trust.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the west is the nearby village of Liphook where you can enjoy a walk to the lakes on the pretty Foley Manor Estate before a climb to Weavers Down on the edge of the expansive Woolmer Forest. Just south of Black Down there's the worthy village of Lurgashall to explore. The picturesque settlement includes a pretty village green, a quintessentially English cricket pitch, a millpond, a historic Saxon church and a number of historic timber framed properties to admire."
-        }
-    ],
-    "district": "Waverley",
-    "county": "Surrey",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lower Street, Haslemere, Shottermill, Waverley, Surrey, England, GU27 2PD, United Kingdom",
-    "postcode": "GU27 2PD",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "heathland", "hill"],
-    "points_of_interest": ["viewpoint", "meadow", "woodland"],
-    "facilities": ["visitor center", "car park", "dog friendly", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Black Down",
+      "objectID": "d13d828818d1e801d378aaf4cb507128",
+      "ref": "black-down-walking-and-cycle-route"
+    },
+    {
+      "description": "Sussex Border Path",
+      "objectID": "4f7a4ec8abc2fadf21d3ae98a91fb943",
+      "ref": "sussex-border-path-walking-route"
+    },
+    {
+      "description": "Serpent Trail",
+      "objectID": "98f5c162ad30cbe58662827924002061",
+      "ref": "serpent-trail-walking-route"
+    },
+    {
+      "description": "Ludshott Common",
+      "objectID": "d5a4df14460cbc5245994a1ffd4bbaa1",
+      "ref": "ludshott-common-walking-route"
+    },
+    {
+      "description": "Bramshott Common",
+      "objectID": "779711ec70e1c26f1abf896d9daf7dfb",
+      "ref": "bramshott-common-walking-route"
+    },
+    {
+      "description": "Greensand Way",
+      "objectID": "b670bcac73522667d624f8b630cdb672",
+      "ref": "greensand-way-walking-route"
+    },
+    {
+      "description": "Devil's Punch Bowl",
+      "objectID": "877f31f2fb0e7126f1419866653789ab",
+      "ref": "devils-punch-bowl-walking-and-cycle-route"
+    },
+    {
+      "description": "Liphook",
+      "objectID": "87a8018dfaf4d7ec09c3877d15dd1c59",
+      "ref": "liphook-walking-route"
+    },
+    {
+      "description": "Woolmer Forest",
+      "objectID": "ed4e80a3b13f0f929e70f769a272310c",
+      "ref": "woolmer-forest-walking-route"
+    },
+    {
+      "description": "Lurgashall",
+      "objectID": "524ec330c35c1136034bb7805452a10d",
+      "ref": "lurgashall-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a099cac05f6f1c64128d29444c98175.gpx",
+  "_geoloc": {
+    "lat": 51.0886542835,
+    "lng": -0.7190109096
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Haslemere_War_Memorial_-_geograph.org.uk_-_115886.jpg",
+      "title": "Colin Smith / Haslemere War Memorial, via Wikimedia Commons",
+      "caption": "Haslemere War Memorial"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Black_Down_-_geograph.org.uk_-_8083.jpg",
+      "title": "Stephen Dawson / Black Down, via Wikimedia Commons",
+      "caption": "Black Down"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_heights_of_Black_Down_-_geograph.org.uk_-_574419.jpg",
+      "title": "Robin Webster / The heights of Black Down, via Wikimedia Commons",
+      "caption": "The heights of Black Down"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%22Temple_of_the_Winds%22_viewpoint_on_Black_Down_-_geograph.org.uk_-_1071964.jpg",
+      "title": "Shazz / \"Temple of the Winds\" viewpoint on Black Down, via Wikimedia Commons",
+      "caption": "\"Temple of the Winds\" viewpoint on Black Down"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/View_south_from_Black_Down_-_geograph.org.uk_-_577278.jpg",
+      "title": "Robin Webster / View south from Black Down, via Wikimedia Commons",
+      "caption": "View south from Black Down"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Southern_edge_of_Black_Down_-_geograph.org.uk_-_8085.jpg",
+      "title": "Stephen Dawson / Southern edge of Black Down, via Wikimedia Commons",
+      "caption": "Southern edge of Black Down"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_962812.jpg",
+      "title": "Shazz / Sussex Border Path on Marley Common, via Wikimedia Commons",
+      "caption": "Sussex Border Path on Marley Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_1159570.jpg",
+      "title": "Shazz / The Sussex Border Path on Marley Common, via Wikimedia Commons",
+      "caption": "The Sussex Border Path on Marley Common"
+    }
+  ],
+  "distance_km": 13.0,
+  "description": "This fine circular walk takes you around the Surrey town of Haslemere. It's a varied walk with woodland, heathland and hills climbs to enjoy. From the high points you can also enjoy fine views across the lovely countryside of the South Downs National Park. The walk starts from Haslemere train station and heads through the town before heading south to Valewood Farm House. Here you can pick up the Sussex Border Path and the Serpent Trail. These long distance trails will take you up onto Black Down. The National Trust run area includes a series of well defined paths taking you to flower-rich meadows, ancient woodland and copses. There are fabulous views over the Weald from the Temple of the Winds, at the southern end of the down, which is the highest point in the South Downs. After taking the views the route descends west toward Fenhurst before turning north toward Marley Heights and Marley Common. The common has miles of good footpaths taking you to heathland, woodland and meadows. Look out for the pretty purple heather in the summer months and the yellow flowering gorse all year round. The final section follows footpaths through Camelsdale before finishing back at the train station. To continue your walking in the Haslemere area you could try the nice footpaths on Ludshott Common and Bramshott Common. The Greensand Way also passes the town. One good option is to follow the waymarked trail north to visit the Devil's Punch Bowl. Here you'll find a splendid large natural amphitheatre and beauty spot run by the National Trust.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west is the nearby village of Liphook where you can enjoy a walk to the lakes on the pretty Foley Manor Estate before a climb to Weavers Down on the edge of the expansive Woolmer Forest. Just south of Black Down there's the worthy village of Lurgashall to explore. The picturesque settlement includes a pretty village green, a quintessentially English cricket pitch, a millpond, a historic Saxon church and a number of historic timber framed properties to admire."
+    }
+  ],
+  "district": "Waverley",
+  "county": "Surrey",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lower Street, Haslemere, Shottermill, Waverley, Surrey, England, GU27 2PD, United Kingdom",
+  "postcode": "GU27 2PD",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "natural amphitheatre"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

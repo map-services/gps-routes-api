@@ -95,7 +95,7 @@
   "district": "New Forest",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland"
@@ -105,10 +105,12 @@
     "monument"
   ],
   "facilities": [
+    "car park",
     "picnic area",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

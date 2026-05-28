@@ -1,144 +1,158 @@
 {
-    "created_at": "2025-01-06T04:25:22.897726+00:00",
-    "objectID": "be46934496ec81ce829d24f1ec6992de",
-    "ref": "gwydyr-forest-walking-and-cycle-route",
-    "title": "Gwydyr Forest Walks and MTB",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hafod-las_-_a_forester%27s_house_-_geograph.org.uk_-_402514.jpg",
-    "nearby": [
-        {
-            "description": "Swallow Falls",
-            "objectID": "aff3faf0a77b447e919faf91d048d584",
-            "ref": "swallow-falls-walking-route"
-        },
-        {
-            "description": "Llyn Elsi",
-            "objectID": "0adbd0a48483a4430473281d080f63fa",
-            "ref": "llyn-elsi-walking-route"
-        },
-        {
-            "description": "Llyn Crafnant",
-            "objectID": "8f0e5c5309b9d07d363aa5f4aad04824",
-            "ref": "llyn-crafnant-walking-route"
-        },
-        {
-            "description": "Llyn Geirionydd",
-            "objectID": "76a0771a3650efa62079c19e065c6ab0",
-            "ref": "llyn-geirionydd-walking-route"
-        },
-        {
-            "description": "Fairy Glen Betws y Coed",
-            "objectID": "3f8e38ffd2ad3b54f87022dac392fb25",
-            "ref": "fairy-glen-betws-y-coed-walking-route"
-        },
-        {
-            "description": "Fairy Falls Trefriw",
-            "objectID": "b357d1ec2b606d03318d7c18c63e3263",
-            "ref": "fairy-falls-trefriw-walking-route"
-        },
-        {
-            "description": "Llyn Cowlyd",
-            "objectID": "3ada0d11612d4e95f445832d5156357a",
-            "ref": "llyn-cowlyd-walking-route"
-        },
-        {
-            "description": "Llyn Parc",
-            "objectID": "b89b64984af7c9621d75f59a2e2e5f70",
-            "ref": "llyn-parc-walking-route"
-        },
-        {
-            "description": "Llyn Eigiau",
-            "objectID": "b2513e2bcebb36c5da78b61ed6cfee38",
-            "ref": "llyn-eigiau-walking-route"
-        },
-        {
-            "description": "Dolgarrog Pipeline Walk",
-            "objectID": "51a4a895f93c97e8944ab9ada2f8b04c",
-            "ref": "dolgarrog-pipeline-walk-walking-route"
-        },
-        {
-            "description": "Fishermans Walk and Lledr Gorge Walk",
-            "objectID": "c30c0a3e53da4db07fd3074a0a24851b",
-            "ref": "fishermans-walk-betws-y-coed"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/be46934496ec81ce829d24f1ec6992de.gpx",
-    "_geoloc": {
-        "lat": 53.0911348051,
-        "lng": -3.8034724791
+  "created_at": "2025-01-06T04:25:22.897726+00:00",
+  "objectID": "be46934496ec81ce829d24f1ec6992de",
+  "ref": "gwydyr-forest-walking-and-cycle-route",
+  "title": "Gwydyr Forest Walks and MTB",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hafod-las_-_a_forester%27s_house_-_geograph.org.uk_-_402514.jpg",
+  "nearby": [
+    {
+      "description": "Swallow Falls",
+      "objectID": "aff3faf0a77b447e919faf91d048d584",
+      "ref": "swallow-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hafod-las_-_a_forester%27s_house_-_geograph.org.uk_-_402514.jpg",
-            "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Hafod-las"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_rusting_piece_of_agricultural_machinery_in_a_forest_clearing_-_geograph.org.uk_-_402516.jpg",
-            "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "A rusting piece of agricultural machinery in a forest clearing"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
-            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Monument near Llyn Elsi"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Llyn_Elsi_-_geograph.org.uk_-_75874.jpg",
-            "title": "M Cleary [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Llyn Elsi"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Miners%27_Bridge_Rapid_-_geograph.org.uk_-_1206963.jpg/330px-Miners%27_Bridge_Rapid_-_geograph.org.uk_-_1206963.jpg",
-            "title": "Andy Waddington [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Miners Bridge Rapid. Apart from a grade 5 section invariably portaged, Miners' Bridge Rapid is the hardest part of the Afon Llugwy down to Betws y Coed, at a good grade 4. In this high level of water, it was quite challenging, but everyone in this group paddled down successfully. The Miners' bridge itself provides a good viewpoint for the upper part of the rapid, but the final drop just under the bridge seems the most common place to come to grief for which the river right bank below the bridge is a better spot to view or conduct a rescue."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Crusher_and_compressor_buildings_on_Level_3_of_Hafod-Las_Quarry_-_geograph.org.uk_-_404259.jpg",
-            "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Crusher and compressor buildings on Level 3 of Hafod-Las Quarry"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwardian_stone-built_semis_in_Pentre_Du_-_geograph.org.uk_-_402446.jpg",
-            "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Edwardian stone-built semis in Pentre Du"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Waterfall_near_Miner%27s_Bridge%2C_Betws-y-Coed_-_geograph.org.uk_-_1434823.jpg",
-            "title": "John Rostron / Waterfall near Miner's Bridge, Betws-y-Coed, via Wikimedia Commons",
-            "caption": "Waterfall near Miner's Bridge, Betws-y-Coed. This charming waterfall is just off a minor road west of Betws-y-Coed. There is a path to it signposted from the road."
-        }
-    ],
-    "distance_km": 11.2,
-    "description": "This large area of woodland encircles the popular village of Betws-y-Coed in the Snowdonia National Park. There's miles of footpaths and mountain bike trails with lots of pretty streams, rivers, waterfalls, hills and lakes to see. This long circular route takes you around the area immediately surrounding Betws-y-Coed, following a series of trails to Llyn Elsi, Rhiwddolion, Pentre Du, the Miners Bridge over the River Llugwy and the Clogwyn Cyrau Nature Reserve to the north of the village. The forest stretches for miles so there's huge scope for extending your exercise. Just off this route there is the option of visiting Swallow Falls and Fairy Glen. There's lovely waterside walking here with lots of pretty waterfalls to see. If you head to the northern end of the forest there's several beautiful reservoirs to visit including Llyn Cowlyd, Llyn Crafnant and Llyn Geirionydd. These reservoirs have some lovely circular walking trails with wonderful views of the Carneddau mountains. Near Llyn Geirionydd there's also the delightful Fairy Falls in the village of Trefriw.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head into Betws-y-Coed and you could visit the Stables Bar. They do very good food and also have a good sized outdoor area to relax in. You can find the pub at postcode LL24 0AY for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "As you can imagine the expansive forest, with its network of paths, is ideal for a dog walk. You'll probably bump into several other owners with their pets on a good day. The Stables Bar mentioned above is also dog friendly with water bowls and doggy jumpers provided if it's chilly!"
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west of the forest you can visit one of the significant historical sites in the area at Dolwyddelan Castle. There are excellent views of the surrounding mountains from the ruins of the 13th century fortress. The circular walk also visits the village of Dolwyddelan and the lovely Afon Lledr Valley. The circular Llanrwst Walk which explores the northern part of the forest and some of the features of the wider Gwydir Estate. These include a historic castle, an ancient chapel, Llyn Parc and the Grey Mare's Tail Waterfall. For some interesting local history try the Dolgarrog Pipeline Walk. This explores the area around the little village, visiting the impressive pipeline structure and the Coedty reservoir. Near here there's also the beautiful Llyn Eigiau where the reservoir dam was breached leading to the Dolgarrog Dam disaster of 1925. The Fishermans Walk and Lledr Gorge Walk starts just to the south west of the settlement at Pont-y-Pant railway station on the Conwy Valley line. This takes you through the beautiful scenery of the Lledr Gorge with its picturesque waterfalls, stepping stones and Pont Gethin viaduct. There's also the option of trying the Victorian Fishermans Walk, a precarious route through the gorge on a rickety old walkway. For more walking ideas in the area see the Snowdonia Walks page."
-        }
-    ],
-    "postcode": "LL24 0AD",
-    "district": "Betws-y-coed",
-    "county": "Conwy",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Betws-y-coed, Conwy, Cymru / Wales, LL24 0AD, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["waterfall", "reservoirs", "nature reserve"],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Llyn Elsi",
+      "objectID": "0adbd0a48483a4430473281d080f63fa",
+      "ref": "llyn-elsi-walking-route"
+    },
+    {
+      "description": "Llyn Crafnant",
+      "objectID": "8f0e5c5309b9d07d363aa5f4aad04824",
+      "ref": "llyn-crafnant-walking-route"
+    },
+    {
+      "description": "Llyn Geirionydd",
+      "objectID": "76a0771a3650efa62079c19e065c6ab0",
+      "ref": "llyn-geirionydd-walking-route"
+    },
+    {
+      "description": "Fairy Glen Betws y Coed",
+      "objectID": "3f8e38ffd2ad3b54f87022dac392fb25",
+      "ref": "fairy-glen-betws-y-coed-walking-route"
+    },
+    {
+      "description": "Fairy Falls Trefriw",
+      "objectID": "b357d1ec2b606d03318d7c18c63e3263",
+      "ref": "fairy-falls-trefriw-walking-route"
+    },
+    {
+      "description": "Llyn Cowlyd",
+      "objectID": "3ada0d11612d4e95f445832d5156357a",
+      "ref": "llyn-cowlyd-walking-route"
+    },
+    {
+      "description": "Llyn Parc",
+      "objectID": "b89b64984af7c9621d75f59a2e2e5f70",
+      "ref": "llyn-parc-walking-route"
+    },
+    {
+      "description": "Llyn Eigiau",
+      "objectID": "b2513e2bcebb36c5da78b61ed6cfee38",
+      "ref": "llyn-eigiau-walking-route"
+    },
+    {
+      "description": "Dolgarrog Pipeline Walk",
+      "objectID": "51a4a895f93c97e8944ab9ada2f8b04c",
+      "ref": "dolgarrog-pipeline-walk-walking-route"
+    },
+    {
+      "description": "Fishermans Walk and Lledr Gorge Walk",
+      "objectID": "c30c0a3e53da4db07fd3074a0a24851b",
+      "ref": "fishermans-walk-betws-y-coed"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/be46934496ec81ce829d24f1ec6992de.gpx",
+  "_geoloc": {
+    "lat": 53.0911348051,
+    "lng": -3.8034724791
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hafod-las_-_a_forester%27s_house_-_geograph.org.uk_-_402514.jpg",
+      "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Hafod-las"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_rusting_piece_of_agricultural_machinery_in_a_forest_clearing_-_geograph.org.uk_-_402516.jpg",
+      "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "A rusting piece of agricultural machinery in a forest clearing"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
+      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Monument near Llyn Elsi"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Llyn_Elsi_-_geograph.org.uk_-_75874.jpg",
+      "title": "M Cleary [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Llyn Elsi"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Miners%27_Bridge_Rapid_-_geograph.org.uk_-_1206963.jpg/330px-Miners%27_Bridge_Rapid_-_geograph.org.uk_-_1206963.jpg",
+      "title": "Andy Waddington [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Miners Bridge Rapid. Apart from a grade 5 section invariably portaged, Miners' Bridge Rapid is the hardest part of the Afon Llugwy down to Betws y Coed, at a good grade 4. In this high level of water, it was quite challenging, but everyone in this group paddled down successfully. The Miners' bridge itself provides a good viewpoint for the upper part of the rapid, but the final drop just under the bridge seems the most common place to come to grief for which the river right bank below the bridge is a better spot to view or conduct a rescue."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Crusher_and_compressor_buildings_on_Level_3_of_Hafod-Las_Quarry_-_geograph.org.uk_-_404259.jpg",
+      "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Crusher and compressor buildings on Level 3 of Hafod-Las Quarry"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edwardian_stone-built_semis_in_Pentre_Du_-_geograph.org.uk_-_402446.jpg",
+      "title": "Eric Jones [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Edwardian stone-built semis in Pentre Du"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Waterfall_near_Miner%27s_Bridge%2C_Betws-y-Coed_-_geograph.org.uk_-_1434823.jpg",
+      "title": "John Rostron / Waterfall near Miner's Bridge, Betws-y-Coed, via Wikimedia Commons",
+      "caption": "Waterfall near Miner's Bridge, Betws-y-Coed. This charming waterfall is just off a minor road west of Betws-y-Coed. There is a path to it signposted from the road."
+    }
+  ],
+  "distance_km": 11.2,
+  "description": "This large area of woodland encircles the popular village of Betws-y-Coed in the Snowdonia National Park. There's miles of footpaths and mountain bike trails with lots of pretty streams, rivers, waterfalls, hills and lakes to see. This long circular route takes you around the area immediately surrounding Betws-y-Coed, following a series of trails to Llyn Elsi, Rhiwddolion, Pentre Du, the Miners Bridge over the River Llugwy and the Clogwyn Cyrau Nature Reserve to the north of the village. The forest stretches for miles so there's huge scope for extending your exercise. Just off this route there is the option of visiting Swallow Falls and Fairy Glen. There's lovely waterside walking here with lots of pretty waterfalls to see. If you head to the northern end of the forest there's several beautiful reservoirs to visit including Llyn Cowlyd, Llyn Crafnant and Llyn Geirionydd. These reservoirs have some lovely circular walking trails with wonderful views of the Carneddau mountains. Near Llyn Geirionydd there's also the delightful Fairy Falls in the village of Trefriw.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Betws-y-Coed and you could visit the Stables Bar. They do very good food and also have a good sized outdoor area to relax in. You can find the pub at postcode LL24 0AY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you can imagine the expansive forest, with its network of paths, is ideal for a dog walk. You'll probably bump into several other owners with their pets on a good day. The Stables Bar mentioned above is also dog friendly with water bowls and doggy jumpers provided if it's chilly!"
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the forest you can visit one of the significant historical sites in the area at Dolwyddelan Castle. There are excellent views of the surrounding mountains from the ruins of the 13th century fortress. The circular walk also visits the village of Dolwyddelan and the lovely Afon Lledr Valley. The circular Llanrwst Walk which explores the northern part of the forest and some of the features of the wider Gwydir Estate. These include a historic castle, an ancient chapel, Llyn Parc and the Grey Mare's Tail Waterfall. For some interesting local history try the Dolgarrog Pipeline Walk. This explores the area around the little village, visiting the impressive pipeline structure and the Coedty reservoir. Near here there's also the beautiful Llyn Eigiau where the reservoir dam was breached leading to the Dolgarrog Dam disaster of 1925. The Fishermans Walk and Lledr Gorge Walk starts just to the south west of the settlement at Pont-y-Pant railway station on the Conwy Valley line. This takes you through the beautiful scenery of the Lledr Gorge with its picturesque waterfalls, stepping stones and Pont Gethin viaduct. There's also the option of trying the Victorian Fishermans Walk, a precarious route through the gorge on a rickety old walkway. For more walking ideas in the area see the Snowdonia Walks page."
+    }
+  ],
+  "postcode": "LL24 0AD",
+  "district": "Betws-y-coed",
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Betws-y-coed, Conwy, Cymru / Wales, LL24 0AD, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "3.5 - 4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "lake",
+    "nature reserve",
+    "reservoir"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,82 +1,91 @@
 {
-    "created_at": "2025-01-06T08:12:38.087364+00:00",
-    "objectID": "50c46a24df905637d94869b899e95552",
-    "ref": "ardleigh-reservoir-walking-route",
-    "title": "Ardleigh Reservoir Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ardleigh_Reservoir_from_Wick_Lane_-_geograph.org.uk_-_55381.jpg",
-    "nearby": [
-        {
-            "description": "Colchester",
-            "objectID": "c812da215b78f6f85cce7cc49749536a",
-            "ref": "colchester-walking-route"
-        },
-        {
-            "description": "High Woods Country Park",
-            "objectID": "e0854fec4015f77f88cca692bbcfd463",
-            "ref": "high-woods-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/50c46a24df905637d94869b899e95552.gpx",
-    "_geoloc": {
-        "lat": 51.9260308022,
-        "lng": 0.9848737367
+  "created_at": "2025-01-06T08:12:38.087364+00:00",
+  "objectID": "50c46a24df905637d94869b899e95552",
+  "ref": "ardleigh-reservoir-walking-route",
+  "title": "Ardleigh Reservoir Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ardleigh_Reservoir_from_Wick_Lane_-_geograph.org.uk_-_55381.jpg",
+  "nearby": [
+    {
+      "description": "Colchester",
+      "objectID": "c812da215b78f6f85cce7cc49749536a",
+      "ref": "colchester-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ardleigh_Reservoir_from_Wick_Lane_-_geograph.org.uk_-_55381.jpg",
-            "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Ardleigh Reservoir from Wick Lane. This is a shot of the lake taken from near Fountain Farm. The Reservoir was created in the 1970\u0092s when Colchester\u0092s traditional water source at Lexden Springs became inadequate for the expanding town. The picture was taken from a causeway on Wick Lane looking north east."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ardleigh_Reservoir_near_Hillhouse_Farm_-_geograph.org.uk_-_55384.jpg",
-            "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Ardleigh Reservoir near Hillhouse Farm. The reservoir is a popular spot for carp and pike fishing."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ardleigh_Reservoir_-_geograph.org.uk_-_55387.jpg",
-            "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Ardleigh Reservoir. Taken from the end of Lodge Lane. The picture looks west across the water."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ardleigh_Reservoir_-_geograph.org.uk_-_2131025.jpg/500px-Ardleigh_Reservoir_-_geograph.org.uk_-_2131025.jpg",
-            "title": "Ardleigh Reservoir by terry joyce, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "An aerial view over the lake and surrounding countryside."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Colchester_Road%2C_Ardleigh_-_geograph.org.uk_-_4171252.jpg/500px-Colchester_Road%2C_Ardleigh_-_geograph.org.uk_-_4171252.jpg",
-            "title": "Colchester Road, Ardleigh by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Colchester Road in Ardleigh village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lodge_Lane%2C_Ardleigh_-_geograph.org.uk_-_1918702.jpg/500px-Lodge_Lane%2C_Ardleigh_-_geograph.org.uk_-_1918702.jpg",
-            "title": "Lodge Lane, Ardleigh by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lodge Lane"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This pretty reservoir near Colchester has a nice country lane running along its northern side. You can reach the reservoir from the nearby village of Ardleigh by following Wick Lane and Lodge Lane for about a mile. The path runs right along the lake with nice views across the water to the trees lining its the edge. The lake is located just to the east of High Woods Country Park where there's woodland, open spaces, ponds, a lake and wildflower meadows. You could also try our walk around Colchester and visit the castle, the River Colne and several historic sites.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head east into Ardleigh village and you could enjoy some post exercise refreshments at the Wooden Fender. The historic pub dates back to the 17th century, serving traditional ales and good home cooked food. They have a lovely large garden where you can enjoy views of the countryside. You can find them on the Colchester Road with postcode CO7 7PA for your sat navs. They are dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/7kB5z1nBNa8",
-    "postcode": "CO7 7NR",
-    "district": "Ardleigh",
-    "county": "Essex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Boxley House, Colchester Road, Ardleigh, Tendring, Essex, England, CO7 7NR, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "lake"],
-    "points_of_interest": ["historic site", "country lane"],
-    "facilities": ["visitor center"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "description": "High Woods Country Park",
+      "objectID": "e0854fec4015f77f88cca692bbcfd463",
+      "ref": "high-woods-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/50c46a24df905637d94869b899e95552.gpx",
+  "_geoloc": {
+    "lat": 51.9260308022,
+    "lng": 0.9848737367
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ardleigh_Reservoir_from_Wick_Lane_-_geograph.org.uk_-_55381.jpg",
+      "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Ardleigh Reservoir from Wick Lane. This is a shot of the lake taken from near Fountain Farm. The Reservoir was created in the 1970\u0092s when Colchester\u0092s traditional water source at Lexden Springs became inadequate for the expanding town. The picture was taken from a causeway on Wick Lane looking north east."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ardleigh_Reservoir_near_Hillhouse_Farm_-_geograph.org.uk_-_55384.jpg",
+      "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Ardleigh Reservoir near Hillhouse Farm. The reservoir is a popular spot for carp and pike fishing."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ardleigh_Reservoir_-_geograph.org.uk_-_55387.jpg",
+      "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Ardleigh Reservoir. Taken from the end of Lodge Lane. The picture looks west across the water."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ardleigh_Reservoir_-_geograph.org.uk_-_2131025.jpg/500px-Ardleigh_Reservoir_-_geograph.org.uk_-_2131025.jpg",
+      "title": "Ardleigh Reservoir by terry joyce, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "An aerial view over the lake and surrounding countryside."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Colchester_Road%2C_Ardleigh_-_geograph.org.uk_-_4171252.jpg/500px-Colchester_Road%2C_Ardleigh_-_geograph.org.uk_-_4171252.jpg",
+      "title": "Colchester Road, Ardleigh by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Colchester Road in Ardleigh village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lodge_Lane%2C_Ardleigh_-_geograph.org.uk_-_1918702.jpg/500px-Lodge_Lane%2C_Ardleigh_-_geograph.org.uk_-_1918702.jpg",
+      "title": "Lodge Lane, Ardleigh by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lodge Lane"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This pretty reservoir near Colchester has a nice country lane running along its northern side. You can reach the reservoir from the nearby village of Ardleigh by following Wick Lane and Lodge Lane for about a mile. The path runs right along the lake with nice views across the water to the trees lining its the edge. The lake is located just to the east of High Woods Country Park where there's woodland, open spaces, ponds, a lake and wildflower meadows. You could also try our walk around Colchester and visit the castle, the River Colne and several historic sites.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head east into Ardleigh village and you could enjoy some post exercise refreshments at the Wooden Fender. The historic pub dates back to the 17th century, serving traditional ales and good home cooked food. They have a lovely large garden where you can enjoy views of the countryside. You can find them on the Colchester Road with postcode CO7 7PA for your sat navs. They are dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/7kB5z1nBNa8",
+  "postcode": "CO7 7NR",
+  "district": "Ardleigh",
+  "county": "Essex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Boxley House, Colchester Road, Ardleigh, Tendring, Essex, England, CO7 7NR, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,102 +1,112 @@
 {
-    "created_at": "2025-01-06T02:31:49.247046+00:00",
-    "objectID": "0082cfb3ef5770ef3758f2b3d37fc43b",
-    "ref": "newry-canal-walking-and-cycle-route",
-    "title": "Newry Canal Cycle and Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Newry_Canal_-_geograph.org.uk_-_1342776.jpg",
-    "nearby": [
-        {
-            "description": "Lough Neagh",
-            "objectID": "5a0b7c43db1a9209d3790edcae3cc6db",
-            "ref": "lough-neagh-cycle-route"
-        },
-        {
-            "description": "Carlingford Lough",
-            "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
-            "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
-        },
-        {
-            "description": "Camlough Lake",
-            "objectID": "0a04d8fde0bb8f21680e57b02733ba21",
-            "ref": "camlough-lake-walking-route"
-        },
-        {
-            "description": "Camlough Mountain",
-            "objectID": "29b6d8421ff58b93fa47f4057e50b7ec",
-            "ref": "camlough-mountain-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0082cfb3ef5770ef3758f2b3d37fc43b.gpx",
-    "_geoloc": {
-        "lat": 54.1784724955,
-        "lng": -6.33806129
+  "created_at": "2025-01-06T02:31:49.247046+00:00",
+  "objectID": "0082cfb3ef5770ef3758f2b3d37fc43b",
+  "ref": "newry-canal-walking-and-cycle-route",
+  "title": "Newry Canal Cycle and Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Newry_Canal_-_geograph.org.uk_-_1342776.jpg",
+  "nearby": [
+    {
+      "description": "Lough Neagh",
+      "objectID": "5a0b7c43db1a9209d3790edcae3cc6db",
+      "ref": "lough-neagh-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Newry_Canal_-_geograph.org.uk_-_1342776.jpg",
-            "title": "HENRY CLARK / Newry Canal, via Wikimedia Commons",
-            "caption": "Newry Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Old_warehouse%2C_Newry_canal_-_geograph.org.uk_-_212879.jpg",
-            "title": "Aubrey Dale [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Old warehouse, Newry canal. The Newry canal connected Lough Neagh (via the River Bann) to the town of Newry and then through the Newry ship canal to Carlingford Lough and the Irish Sea. The canal opened in 1742, had become largely derelict by 1939 and was formally abandoned in 1949. This is two of the old warehouses at the Madden Bridge between Lough Neagh and Scarva looking towards Scarva."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Newry_Canal_-_geograph.org.uk_-_1656351.jpg",
-            "title": "P Flannagan / Newry Canal, via Wikimedia Commons",
-            "caption": "Winter scene on the canal. Taken from the Point of Whitecoat Bridge where the Newry Canal and the River Cusher meet the Upper Bann"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Milepost%2C_Newry_Canal_-_geograph.org.uk_-_898718.jpg",
-            "title": "Albert Bridge / Milepost, Newry Canal, via Wikimedia Commons",
-            "caption": "Standard form of Newry Canal milepost, beside Steenson's Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Forsythe%27s_Lock%2C_Newry_canal_-_geograph.org.uk_-_1055190.jpg",
-            "title": "Albert Bridge / Forsythe's Lock, Newry canal, via Wikimedia Commons",
-            "caption": "Forsythe's Lock, Newry canal. The disused Forsythe's Lock (looking towards Lough Neagh) just south of Steenson's Bridge. It was the fifth lock from Newry on the inland canal."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steenson%27s_Bridge%2C_Newry_Canal_-_geograph.org.uk_-_898688.jpg",
-            "title": "Albert Bridge / Steenson's Bridge, Newry Canal, via Wikimedia Commons",
-            "caption": "Cyclist passes under Steenson's Bridge. Steenson's Bridge carries the Drumiller Road/Glen Road across the disused Newry Canal. The towpath is popular with weekend cyclists."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gambles_Bridge_on_the_Newry_Canal_-_geograph.org.uk_-_1342787.jpg",
-            "title": "HENRY CLARK / Gambles Bridge on the Newry Canal, via Wikimedia Commons",
-            "caption": "Gambles Bridge on the Newry Canal. Gambles Bridge, also known as the Crack Bridge due partly to the crack in its wall and partly to its use as a meeting place to share a bit of craic!"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Acton_Lake_on_the_Newry_Canal_-_geograph.org.uk_-_185528.jpg",
-            "title": "HENRY CLARK / Acton Lake on the Newry Canal, via Wikimedia Commons",
-            "caption": "Acton Lake on the Newry Canal."
-        }
-    ],
-    "distance_km": 32.0,
-    "description": "Enjoy a walk or cycle along the Newry Canal on this waterside route in Northern Ireland. The route follows National Cycle Network Route 9 along the canal towpath from Newry to Portadown. It's about 20 miles and makes for a nice, easy cycle or walk. The route passes a series of old stone bridges and pretty locks. The views of the surrounding countryside are great and you should also see lots of water loving wildlife along the way. The route begins in Newry town centre and heads north to Jerretspass, Poyntzpass and Scarva before finishing in Portadown. Highlights on the route include Lough Shark and Brackagh Nature Reserve near Portadown. A good place for refreshments is the lovely village of Scarva. The canalside village is well known for its park with a bandstand and prize winning floral displays. You can enjoy a snack at the tea rooms and visitor centre. At Portadown this route links with the Lough Neagh circuit which runs around the largest freshwater lake in Britain and Ireland.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west of Newry there's more waterside walking at Camlough Lake. The large reservoir has some nice footpaths and fine views over the water to Camlough Mountain."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/QGfnWX7S5-c",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Sugar Island bridge, Sugar Island, Ballybot, Newry, County Down, Northern Ireland / Tuaisceart \u00c9ireann, BT35 6JB, United Kingdom",
-    "postcode": "BT35 6JB",
-    "district": "Newry",
-    "county": "County Down",
-    "region": null,
-    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["canal"],
-    "points_of_interest": ["nature reserve", "village"],
-    "facilities": ["visitor center", "tea room", "park", "bandstand"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Carlingford Lough",
+      "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
+      "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
+    },
+    {
+      "description": "Camlough Lake",
+      "objectID": "0a04d8fde0bb8f21680e57b02733ba21",
+      "ref": "camlough-lake-walking-route"
+    },
+    {
+      "description": "Camlough Mountain",
+      "objectID": "29b6d8421ff58b93fa47f4057e50b7ec",
+      "ref": "camlough-mountain-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0082cfb3ef5770ef3758f2b3d37fc43b.gpx",
+  "_geoloc": {
+    "lat": 54.1784724955,
+    "lng": -6.33806129
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Newry_Canal_-_geograph.org.uk_-_1342776.jpg",
+      "title": "HENRY CLARK / Newry Canal, via Wikimedia Commons",
+      "caption": "Newry Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Old_warehouse%2C_Newry_canal_-_geograph.org.uk_-_212879.jpg",
+      "title": "Aubrey Dale [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Old warehouse, Newry canal. The Newry canal connected Lough Neagh (via the River Bann) to the town of Newry and then through the Newry ship canal to Carlingford Lough and the Irish Sea. The canal opened in 1742, had become largely derelict by 1939 and was formally abandoned in 1949. This is two of the old warehouses at the Madden Bridge between Lough Neagh and Scarva looking towards Scarva."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Newry_Canal_-_geograph.org.uk_-_1656351.jpg",
+      "title": "P Flannagan / Newry Canal, via Wikimedia Commons",
+      "caption": "Winter scene on the canal. Taken from the Point of Whitecoat Bridge where the Newry Canal and the River Cusher meet the Upper Bann"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Milepost%2C_Newry_Canal_-_geograph.org.uk_-_898718.jpg",
+      "title": "Albert Bridge / Milepost, Newry Canal, via Wikimedia Commons",
+      "caption": "Standard form of Newry Canal milepost, beside Steenson's Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Forsythe%27s_Lock%2C_Newry_canal_-_geograph.org.uk_-_1055190.jpg",
+      "title": "Albert Bridge / Forsythe's Lock, Newry canal, via Wikimedia Commons",
+      "caption": "Forsythe's Lock, Newry canal. The disused Forsythe's Lock (looking towards Lough Neagh) just south of Steenson's Bridge. It was the fifth lock from Newry on the inland canal."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steenson%27s_Bridge%2C_Newry_Canal_-_geograph.org.uk_-_898688.jpg",
+      "title": "Albert Bridge / Steenson's Bridge, Newry Canal, via Wikimedia Commons",
+      "caption": "Cyclist passes under Steenson's Bridge. Steenson's Bridge carries the Drumiller Road/Glen Road across the disused Newry Canal. The towpath is popular with weekend cyclists."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gambles_Bridge_on_the_Newry_Canal_-_geograph.org.uk_-_1342787.jpg",
+      "title": "HENRY CLARK / Gambles Bridge on the Newry Canal, via Wikimedia Commons",
+      "caption": "Gambles Bridge on the Newry Canal. Gambles Bridge, also known as the Crack Bridge due partly to the crack in its wall and partly to its use as a meeting place to share a bit of craic!"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Acton_Lake_on_the_Newry_Canal_-_geograph.org.uk_-_185528.jpg",
+      "title": "HENRY CLARK / Acton Lake on the Newry Canal, via Wikimedia Commons",
+      "caption": "Acton Lake on the Newry Canal."
+    }
+  ],
+  "distance_km": 32.0,
+  "description": "Enjoy a walk or cycle along the Newry Canal on this waterside route in Northern Ireland. The route follows National Cycle Network Route 9 along the canal towpath from Newry to Portadown. It's about 20 miles and makes for a nice, easy cycle or walk. The route passes a series of old stone bridges and pretty locks. The views of the surrounding countryside are great and you should also see lots of water loving wildlife along the way. The route begins in Newry town centre and heads north to Jerretspass, Poyntzpass and Scarva before finishing in Portadown. Highlights on the route include Lough Shark and Brackagh Nature Reserve near Portadown. A good place for refreshments is the lovely village of Scarva. The canalside village is well known for its park with a bandstand and prize winning floral displays. You can enjoy a snack at the tea rooms and visitor centre. At Portadown this route links with the Lough Neagh circuit which runs around the largest freshwater lake in Britain and Ireland.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of Newry there's more waterside walking at Camlough Lake. The large reservoir has some nice footpaths and fine views over the water to Camlough Mountain."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/QGfnWX7S5-c",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Sugar Island bridge, Sugar Island, Ballybot, Newry, County Down, Northern Ireland / Tuaisceart \u00c9ireann, BT35 6JB, United Kingdom",
+  "postcode": "BT35 6JB",
+  "district": "Newry",
+  "county": "County Down",
+  "region": null,
+  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "2 to 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

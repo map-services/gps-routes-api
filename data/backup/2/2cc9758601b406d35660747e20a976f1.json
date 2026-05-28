@@ -1,91 +1,98 @@
 {
-    "created_at": "2025-01-06T10:32:26.530469+00:00",
-    "objectID": "2cc9758601b406d35660747e20a976f1",
-    "ref": "peatlands-way-walking-route",
-    "title": "Peatlands Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sykehouse_lock_on_the_New_Junction_Canal_-_geograph.org.uk_-_1184197.jpg",
-    "nearby": [
-        {
-            "description": "Hatfield Moors",
-            "objectID": "236b2ce2ad939516adbe8e7a722ef946",
-            "ref": "hatfield-moors-walking-route"
-        },
-        {
-            "description": "Thorne Moors",
-            "objectID": "72fa8e51c998f426be1ee6d3507d63bd",
-            "ref": "thorne-moors-walking-route"
-        },
-        {
-            "description": "Don Valley Way",
-            "objectID": "e9257c081d15493743a2302d2cf4bc68",
-            "ref": "don-valley-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2cc9758601b406d35660747e20a976f1.gpx",
-    "_geoloc": {
-        "lat": 53.61039755,
-        "lng": -0.9712578472
+  "created_at": "2025-01-06T10:32:26.530469+00:00",
+  "objectID": "2cc9758601b406d35660747e20a976f1",
+  "ref": "peatlands-way-walking-route",
+  "title": "Peatlands Way Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sykehouse_lock_on_the_New_Junction_Canal_-_geograph.org.uk_-_1184197.jpg",
+  "nearby": [
+    {
+      "description": "Hatfield Moors",
+      "objectID": "236b2ce2ad939516adbe8e7a722ef946",
+      "ref": "hatfield-moors-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sykehouse_lock_on_the_New_Junction_Canal_-_geograph.org.uk_-_1184197.jpg",
-            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sykehouse lock on the New Junction Canal. The path on the left forms a section of the Trans Pennine Trail it crosses the canal here to continue North on the opposite bank. The canal is an extremely straight section of The Sheffield and South Yorkshire Navigation."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hatfield_Moors_-_geograph.org.uk_-_1172139.jpg",
-            "title": "Ian Paterson / Hatfield Moors",
-            "caption": "Hatfield Moors. Typical scenery in this area, part of the Humberhead Peatlands National Nature Reserve. Mixture of trees, man-made lakes, grasses and peat. Lots of spongy peat underfoot makes it a delight to walk upon."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Peat_Bog_on_Thorne_Moor_-_geograph.org.uk_-_1221553.jpg",
-            "title": "Glyn Drury / Peat Bog on Thorne Moor",
-            "caption": "Peat Bog on Thorne Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Thorne_Moors_viewing_platform_-_geograph.org.uk_-_736161.jpg",
-            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Thorne Moors viewing platform. The only viewing platform in the Humberhead Peatlands National Nature Reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Information_boards_on_Peatlands_Way%2C_W_end_of_Thorne_Waste_-_geograph.org.uk_-_6334641.jpg/500px-Information_boards_on_Peatlands_Way%2C_W_end_of_Thorne_Waste_-_geograph.org.uk_-_6334641.jpg?20240515211600",
-            "title": "Information boards on Peatlands Way, W end of Thorne Waste by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Information boards on Peatlands Way, W end of Thorne Waste"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Peatlands_Way_towards_Crowle_-_geograph.org.uk_-_5943027.jpg/500px-Peatlands_Way_towards_Crowle_-_geograph.org.uk_-_5943027.jpg?20231216193128",
-            "title": "Peatlands Way towards Crowle by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Peatlands Way towards Crowle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/One_of_the_ponds_east_of_Peatlands_Way_-_geograph.org.uk_-_6371477.jpg/500px-One_of_the_ponds_east_of_Peatlands_Way_-_geograph.org.uk_-_6371477.jpg?20240526232745",
-            "title": "One of the ponds east of Peatlands Way by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "One of the ponds east of the trail"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peatlands_Way_at_Moorends_-_geograph.org.uk_-_5960199.jpg/500px-Peatlands_Way_at_Moorends_-_geograph.org.uk_-_5960199.jpg?20231219143556",
-            "title": "Peatlands Way at Moorends by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Moorends"
-        }
-    ],
-    "distance_km": 80.0,
-    "description": "This waymarked circular walk takes you through the moorland and lowland raised bogs around the town of Thorne near Doncaster. The walk visits Crowle, Belton, Epworth, Haxey, Kirk Bramwith and Sykehouse. You will also cross the famous Thorne Moors and Hatfield Moors, wildlife sites of national and European importance. The walk includes some easy waterside sections along the River Don and the New Junction Canal.",
-    "details": [],
-    "postcode": "DN8 5EP",
-    "district": "Doncaster",
-    "region": "South Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lock Hill, Thorne, Doncaster, South Yorkshire, England, DN8 5EP, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["moorland", "bog"],
-    "points_of_interest": ["wildlife site"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Thorne Moors",
+      "objectID": "72fa8e51c998f426be1ee6d3507d63bd",
+      "ref": "thorne-moors-walking-route"
+    },
+    {
+      "description": "Don Valley Way",
+      "objectID": "e9257c081d15493743a2302d2cf4bc68",
+      "ref": "don-valley-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2cc9758601b406d35660747e20a976f1.gpx",
+  "_geoloc": {
+    "lat": 53.61039755,
+    "lng": -0.9712578472
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sykehouse_lock_on_the_New_Junction_Canal_-_geograph.org.uk_-_1184197.jpg",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sykehouse lock on the New Junction Canal. The path on the left forms a section of the Trans Pennine Trail it crosses the canal here to continue North on the opposite bank. The canal is an extremely straight section of The Sheffield and South Yorkshire Navigation."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hatfield_Moors_-_geograph.org.uk_-_1172139.jpg",
+      "title": "Ian Paterson / Hatfield Moors",
+      "caption": "Hatfield Moors. Typical scenery in this area, part of the Humberhead Peatlands National Nature Reserve. Mixture of trees, man-made lakes, grasses and peat. Lots of spongy peat underfoot makes it a delight to walk upon."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Peat_Bog_on_Thorne_Moor_-_geograph.org.uk_-_1221553.jpg",
+      "title": "Glyn Drury / Peat Bog on Thorne Moor",
+      "caption": "Peat Bog on Thorne Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Thorne_Moors_viewing_platform_-_geograph.org.uk_-_736161.jpg",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Thorne Moors viewing platform. The only viewing platform in the Humberhead Peatlands National Nature Reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Information_boards_on_Peatlands_Way%2C_W_end_of_Thorne_Waste_-_geograph.org.uk_-_6334641.jpg/500px-Information_boards_on_Peatlands_Way%2C_W_end_of_Thorne_Waste_-_geograph.org.uk_-_6334641.jpg?20240515211600",
+      "title": "Information boards on Peatlands Way, W end of Thorne Waste by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Information boards on Peatlands Way, W end of Thorne Waste"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Peatlands_Way_towards_Crowle_-_geograph.org.uk_-_5943027.jpg/500px-Peatlands_Way_towards_Crowle_-_geograph.org.uk_-_5943027.jpg?20231216193128",
+      "title": "Peatlands Way towards Crowle by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Peatlands Way towards Crowle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/One_of_the_ponds_east_of_Peatlands_Way_-_geograph.org.uk_-_6371477.jpg/500px-One_of_the_ponds_east_of_Peatlands_Way_-_geograph.org.uk_-_6371477.jpg?20240526232745",
+      "title": "One of the ponds east of Peatlands Way by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "One of the ponds east of the trail"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peatlands_Way_at_Moorends_-_geograph.org.uk_-_5960199.jpg/500px-Peatlands_Way_at_Moorends_-_geograph.org.uk_-_5960199.jpg?20231219143556",
+      "title": "Peatlands Way at Moorends by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Moorends"
+    }
+  ],
+  "distance_km": 80.0,
+  "description": "This waymarked circular walk takes you through the moorland and lowland raised bogs around the town of Thorne near Doncaster. The walk visits Crowle, Belton, Epworth, Haxey, Kirk Bramwith and Sykehouse. You will also cross the famous Thorne Moors and Hatfield Moors, wildlife sites of national and European importance. The walk includes some easy waterside sections along the River Don and the New Junction Canal.",
+  "details": [],
+  "postcode": "DN8 5EP",
+  "district": "Doncaster",
+  "region": "South Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lock Hill, Thorne, Doncaster, South Yorkshire, England, DN8 5EP, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "lowland bog"
+  ],
+  "points_of_interest": [
+    "wildlife site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

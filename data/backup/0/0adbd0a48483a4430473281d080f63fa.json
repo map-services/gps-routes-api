@@ -1,82 +1,94 @@
 {
-    "created_at": "2025-01-06T11:00:24.387705+00:00",
-    "objectID": "0adbd0a48483a4430473281d080f63fa",
-    "ref": "llyn-elsi-walking-route",
-    "title": "Llyn Elsi Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
-    "nearby": [
-        {
-            "description": "Gwydyr Forest",
-            "objectID": "be46934496ec81ce829d24f1ec6992de",
-            "ref": "gwydyr-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Fairy Glen Betws y Coed",
-            "objectID": "3f8e38ffd2ad3b54f87022dac392fb25",
-            "ref": "fairy-glen-betws-y-coed-walking-route"
-        },
-        {
-            "description": "Moel Siabod",
-            "objectID": "5d2a3c30516868431c53efd0fe0f161a",
-            "ref": "moel-siabod-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0adbd0a48483a4430473281d080f63fa.gpx",
-    "_geoloc": {
-        "lat": 53.09118917,
-        "lng": -3.80347967
+  "created_at": "2025-01-06T11:00:24.387705+00:00",
+  "objectID": "0adbd0a48483a4430473281d080f63fa",
+  "ref": "llyn-elsi-walking-route",
+  "title": "Llyn Elsi Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
+  "nearby": [
+    {
+      "description": "Gwydyr Forest",
+      "objectID": "be46934496ec81ce829d24f1ec6992de",
+      "ref": "gwydyr-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
-            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Monument near Llyn Elsi. The monument built to commemorate the opening of the Betws-y-Coed Waterworks by Lord Ancaster in June 1914. This reservoir in the hills to the west of Betws was named Llyn Elsi and prior to this the lake was in fact two smaller lakes, called Llyn Rhisgog and Llyn Enoc."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Llyn_Elsi_-_geograph.org.uk_-_75874.jpg",
-            "title": "M Cleary [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Looking North towards the Monument, small island left of picture."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Llyn_Elsi_-_geograph.org.uk_-_205500.jpg",
-            "title": "Terry Hughes / Llyn Elsi, via Wikimedia Commons",
-            "caption": "The Southern end of Llyn Elsi in early spring. Looking due West."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Llyn_Elsi%2C_Betws-y-Coed_-_geograph.org.uk_-_300881.jpg",
-            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "A cormorant sunning itself on one of the small islands."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Woodland_path_to_Llyn_Elsi_-_geograph.org.uk_-_1983834.jpg",
-            "title": "Woodland path to Llyn Elsi by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Woodland path to Llyn Elsi"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Heathland_near_Llyn_Elsi_-_geograph.org.uk_-_1985125.jpg",
-            "title": "Heathland near Llyn Elsi by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Heathland north of the lake"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This circular walk visits the lovely Llyn Elsi from the village of Betws-y-Coed in the Snowdonia National Park. It's about a 1 mile walk from the village to the lake where you can pick up a circular trail around the water. Start the walk from just behind St. Mary's church then steadily climb through the woodland to the peaceful lake. Llyn Elsi is surrounded by attractive woodland where you can extend your walk on a number of trails. It sits in an elevated position of about 800ft so there are lovely views towards the Carneddau range, the Glyderau range and Moel Siabod. To continue your walking in the area you can visit the splendid Fairy Glen where you'll find little waterfalls, rapids and cascades in a wooded gorge on the River Conwy. Near here there's also other lovely walks to Conwy Falls and Swallow Falls. The reservoir is located in the Gwydyr Forest area of the national park. You can find a series of other beautiful reservoirs here with more lovely walking trails.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/0qgcDCzSTco",
-    "district": "Betws-y-coed",
-    "county": "Conwy",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Betws-y-coed, Conwy, Cymru / Wales, LL24 0AD, United Kingdom",
-    "postcode": "LL24 0AD",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["waterfall", "gorge", "viewpoint"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Fairy Glen Betws y Coed",
+      "objectID": "3f8e38ffd2ad3b54f87022dac392fb25",
+      "ref": "fairy-glen-betws-y-coed-walking-route"
+    },
+    {
+      "description": "Moel Siabod",
+      "objectID": "5d2a3c30516868431c53efd0fe0f161a",
+      "ref": "moel-siabod-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0adbd0a48483a4430473281d080f63fa.gpx",
+  "_geoloc": {
+    "lat": 53.09118917,
+    "lng": -3.80347967
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monument_near_Llyn_Elsi_-_geograph.org.uk_-_300879.jpg",
+      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Monument near Llyn Elsi. The monument built to commemorate the opening of the Betws-y-Coed Waterworks by Lord Ancaster in June 1914. This reservoir in the hills to the west of Betws was named Llyn Elsi and prior to this the lake was in fact two smaller lakes, called Llyn Rhisgog and Llyn Enoc."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Llyn_Elsi_-_geograph.org.uk_-_75874.jpg",
+      "title": "M Cleary [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Looking North towards the Monument, small island left of picture."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Llyn_Elsi_-_geograph.org.uk_-_205500.jpg",
+      "title": "Terry Hughes / Llyn Elsi, via Wikimedia Commons",
+      "caption": "The Southern end of Llyn Elsi in early spring. Looking due West."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Llyn_Elsi%2C_Betws-y-Coed_-_geograph.org.uk_-_300881.jpg",
+      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "A cormorant sunning itself on one of the small islands."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Woodland_path_to_Llyn_Elsi_-_geograph.org.uk_-_1983834.jpg",
+      "title": "Woodland path to Llyn Elsi by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Woodland path to Llyn Elsi"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Heathland_near_Llyn_Elsi_-_geograph.org.uk_-_1985125.jpg",
+      "title": "Heathland near Llyn Elsi by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Heathland north of the lake"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This circular walk visits the lovely Llyn Elsi from the village of Betws-y-Coed in the Snowdonia National Park. It's about a 1 mile walk from the village to the lake where you can pick up a circular trail around the water. Start the walk from just behind St. Mary's church then steadily climb through the woodland to the peaceful lake. Llyn Elsi is surrounded by attractive woodland where you can extend your walk on a number of trails. It sits in an elevated position of about 800ft so there are lovely views towards the Carneddau range, the Glyderau range and Moel Siabod. To continue your walking in the area you can visit the splendid Fairy Glen where you'll find little waterfalls, rapids and cascades in a wooded gorge on the River Conwy. Near here there's also other lovely walks to Conwy Falls and Swallow Falls. The reservoir is located in the Gwydyr Forest area of the national park. You can find a series of other beautiful reservoirs here with more lovely walking trails.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/0qgcDCzSTco",
+  "district": "Betws-y-coed",
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Betws-y-coed, Conwy, Cymru / Wales, LL24 0AD, United Kingdom",
+  "postcode": "LL24 0AD",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "viewpoint",
+    "waterfall",
+    "rapid",
+    "cascade"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

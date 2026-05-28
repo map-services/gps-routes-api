@@ -1,64 +1,76 @@
 {
-    "created_at": "2025-01-06T10:49:28.642152+00:00",
-    "objectID": "1ed9b2f508e0e37a687ca38563e32679",
-    "ref": "claverdon-walking-route",
-    "title": "Claverdon Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Claverdon_Hall_-_geograph.org.uk_-_2179105.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ed9b2f508e0e37a687ca38563e32679.gpx",
-    "_geoloc": {
-        "lat": 52.2783387788,
-        "lng": -1.7151319329
+  "created_at": "2025-01-06T10:49:28.642152+00:00",
+  "objectID": "1ed9b2f508e0e37a687ca38563e32679",
+  "ref": "claverdon-walking-route",
+  "title": "Claverdon Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Claverdon_Hall_-_geograph.org.uk_-_2179105.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ed9b2f508e0e37a687ca38563e32679.gpx",
+  "_geoloc": {
+    "lat": 52.2783387788,
+    "lng": -1.7151319329
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Claverdon_Hall_-_geograph.org.uk_-_2179105.jpg",
+      "title": "Claverdon Hall by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Claverdon Hall is a Grade II listed part half-timbered country house thought to date back to the 17th century. The village's named comes from the Old English for 'clover hill'."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Claverdon_Hall_-_geograph.org.uk_-_2179105.jpg",
-            "title": "Claverdon Hall by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Claverdon Hall is a Grade II listed part half-timbered country house thought to date back to the 17th century. The village's named comes from the Old English for 'clover hill'."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Parkland_southeast_of_Claverdon_Hall_-_geograph.org.uk_-_2179116.jpg",
-            "title": "Parkland southeast of Claverdon Hall by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Parkland southeast of Claverdon Hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lye_Green_-_geograph.org.uk_-_5134.jpg",
-            "title": "David Stowell / Lye Green",
-            "caption": "Lye Green. Looking across the golf course in front of the Ardencote Hotel with the water tower at Lye Green in the trees"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mill_Mound%2C_Yarningale_Common_-_geograph.org.uk_-_2403928.jpg",
-            "title": "Mill Mound, Yarningale Common by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Mill Mound, Yarningale Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stratford-upon-Avon_Canal_east_of_Preston_Bagot%2C_Warwickshire_-_geograph.org.uk_-_3409629.jpg/500px-Stratford-upon-Avon_Canal_east_of_Preston_Bagot%2C_Warwickshire_-_geograph.org.uk_-_3409629.jpg",
-            "title": "Stratford-upon-Avon Canal east of Preston Bagot, Warwickshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Stratford-upon-Avon Canal east of Preston Bagot, Warwickshire"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Footpath_to_Kington_-_geograph.org.uk_-_2849001.jpg/500px-Footpath_to_Kington_-_geograph.org.uk_-_2849001.jpg",
-            "title": "Footpath to Kington by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath to Kington"
-        }
-    ],
-    "distance_km": 8.6,
-    "description": "This attractive Warwickshire based village lies just to the east of Henley in Arden. It's a historic place with several 16th and 17th century half-timbered cottages and a noteworthy church which includes an English Gothic architecture bell tower dating back to the 15th century. This circular walk from the village uses a mixture of country lanes and public footpaths to explore the surrounding countryside. On the way you will visit Claverdon Hall and the pleasant trails on Yarningdale Common. From here you continue west to link up with the Stratford Upon Avon Canal where you can enjoy more easy waterside walking along the towpath. To extend the walk you could head north to the Grand Union Canal via Pinley Green.",
-    "details": [],
-    "postcode": "CV35 8PY",
-    "district": "Stratford-on-Avon",
-    "county": "Warwickshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Road, Claverdon CP, Claverdon, Stratford-on-Avon, Warwickshire, England, CV35 8PY, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["country lane", "footpath", "canal towpath"],
-    "points_of_interest": ["historic buildings", "common", "canal"],
-    "facilities": ["car park", "pub/cafe"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Parkland_southeast_of_Claverdon_Hall_-_geograph.org.uk_-_2179116.jpg",
+      "title": "Parkland southeast of Claverdon Hall by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Parkland southeast of Claverdon Hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lye_Green_-_geograph.org.uk_-_5134.jpg",
+      "title": "David Stowell / Lye Green",
+      "caption": "Lye Green. Looking across the golf course in front of the Ardencote Hotel with the water tower at Lye Green in the trees"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mill_Mound%2C_Yarningale_Common_-_geograph.org.uk_-_2403928.jpg",
+      "title": "Mill Mound, Yarningale Common by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Mill Mound, Yarningale Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stratford-upon-Avon_Canal_east_of_Preston_Bagot%2C_Warwickshire_-_geograph.org.uk_-_3409629.jpg/500px-Stratford-upon-Avon_Canal_east_of_Preston_Bagot%2C_Warwickshire_-_geograph.org.uk_-_3409629.jpg",
+      "title": "Stratford-upon-Avon Canal east of Preston Bagot, Warwickshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Stratford-upon-Avon Canal east of Preston Bagot, Warwickshire"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Footpath_to_Kington_-_geograph.org.uk_-_2849001.jpg/500px-Footpath_to_Kington_-_geograph.org.uk_-_2849001.jpg",
+      "title": "Footpath to Kington by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath to Kington"
+    }
+  ],
+  "distance_km": 8.6,
+  "description": "This attractive Warwickshire based village lies just to the east of Henley in Arden. It's a historic place with several 16th and 17th century half-timbered cottages and a noteworthy church which includes an English Gothic architecture bell tower dating back to the 15th century. This circular walk from the village uses a mixture of country lanes and public footpaths to explore the surrounding countryside. On the way you will visit Claverdon Hall and the pleasant trails on Yarningdale Common. From here you continue west to link up with the Stratford Upon Avon Canal where you can enjoy more easy waterside walking along the towpath. To extend the walk you could head north to the Grand Union Canal via Pinley Green.",
+  "details": [],
+  "postcode": "CV35 8PY",
+  "district": "Stratford-on-Avon",
+  "county": "Warwickshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Road, Claverdon CP, Claverdon, Stratford-on-Avon, Warwickshire, England, CV35 8PY, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane",
+    "public footpath",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "church",
+    "hall"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

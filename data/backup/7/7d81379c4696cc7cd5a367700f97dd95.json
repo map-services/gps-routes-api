@@ -1,57 +1,64 @@
 {
-    "created_at": "2025-01-06T00:35:21.322978+00:00",
-    "objectID": "7d81379c4696cc7cd5a367700f97dd95",
-    "ref": "crown-lakes-country-park-walking-route",
-    "title": "Crown Lakes Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crown_Lakes_Country_Park%2C_Farcet%2C_Cambridgeshire_-_geograph.org.uk_-_63869.jpg",
-    "nearby": [
-        {
-            "description": "Ferry Meadows Country Park",
-            "objectID": "aca9ac91c984e26a6b5e721100443dda",
-            "ref": "ferry-meadows-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d81379c4696cc7cd5a367700f97dd95.gpx",
-    "_geoloc": {
-        "lat": 52.5360322389,
-        "lng": -0.2349059746
+  "created_at": "2025-01-06T00:35:21.322978+00:00",
+  "objectID": "7d81379c4696cc7cd5a367700f97dd95",
+  "ref": "crown-lakes-country-park-walking-route",
+  "title": "Crown Lakes Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crown_Lakes_Country_Park%2C_Farcet%2C_Cambridgeshire_-_geograph.org.uk_-_63869.jpg",
+  "nearby": [
+    {
+      "description": "Ferry Meadows Country Park",
+      "objectID": "aca9ac91c984e26a6b5e721100443dda",
+      "ref": "ferry-meadows-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d81379c4696cc7cd5a367700f97dd95.gpx",
+  "_geoloc": {
+    "lat": 52.5360322389,
+    "lng": -0.2349059746
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crown_Lakes_Country_Park%2C_Farcet%2C_Cambridgeshire_-_geograph.org.uk_-_63869.jpg",
+      "title": "Andy Gilbert / Crown Lakes Country Park, Farcet, Cambridgeshire",
+      "caption": "Crown Lakes Country Park, Farcet, Cambridgeshire. Flooded brick pits, popular with dog walkers and ornithologists. A view southeast over the largest lake towards the B1091, which runs behind the hedge on the skyline."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crown_Lakes_Country_Park%2C_Farcet%2C_Cambridgeshire_-_geograph.org.uk_-_63869.jpg",
-            "title": "Andy Gilbert / Crown Lakes Country Park, Farcet, Cambridgeshire",
-            "caption": "Crown Lakes Country Park, Farcet, Cambridgeshire. Flooded brick pits, popular with dog walkers and ornithologists. A view southeast over the largest lake towards the B1091, which runs behind the hedge on the skyline."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/%27Union_of_South_Africa%27%2C_Crown_Lakes_CP%2C_Yaxley_-_geograph.org.uk_-_370329.jpg",
-            "title": "Julian Dowse, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "'Union of South Africa', Crown Lakes CP, Yaxley"
-        }
-    ],
-    "distance_km": 1.5,
-    "description": "Enjoy a stroll around the pretty lakes in this country park in Peterborough. There's 85 acres to explore with a series of footpaths taking you around the meadows, woodland and lakes. Look out for butterflies such as the black hairstreak and grizzled skipper. You may also see muntjac deer, badger and fox. The park is located just to the south of Peterborough town centre. If you'd like to extend your walk then you could head to the nearby Ferry Meadows Country Park for more waterside footpaths.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Peterborough Green Wheel is a great way of further exploring the city on a signed route. The fairly easy 20 mile circular trail visits Ferry Meadows, the River Nene Way and the villages of Marholm and Etton. It is suitable for both cyclists and walkers. For more walking ideas in the area see the Cambridgeshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/QFAwtgLxoPo",
-    "district": "Huntingdonshire",
-    "county": "Cambridgeshire",
-    "region": "Cambridgeshire and Peterborough",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Crown Lakes, Haddon Way, Farcet, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE7 3BA, United Kingdom",
-    "postcode": "PE7 3BA",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland", "lake"],
-    "points_of_interest": ["nature trail", "meadow"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/%27Union_of_South_Africa%27%2C_Crown_Lakes_CP%2C_Yaxley_-_geograph.org.uk_-_370329.jpg",
+      "title": "Julian Dowse, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "'Union of South Africa', Crown Lakes CP, Yaxley"
+    }
+  ],
+  "distance_km": 1.5,
+  "description": "Enjoy a stroll around the pretty lakes in this country park in Peterborough. There's 85 acres to explore with a series of footpaths taking you around the meadows, woodland and lakes. Look out for butterflies such as the black hairstreak and grizzled skipper. You may also see muntjac deer, badger and fox. The park is located just to the south of Peterborough town centre. If you'd like to extend your walk then you could head to the nearby Ferry Meadows Country Park for more waterside footpaths.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Peterborough Green Wheel is a great way of further exploring the city on a signed route. The fairly easy 20 mile circular trail visits Ferry Meadows, the River Nene Way and the villages of Marholm and Etton. It is suitable for both cyclists and walkers. For more walking ideas in the area see the Cambridgeshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/QFAwtgLxoPo",
+  "district": "Huntingdonshire",
+  "county": "Cambridgeshire",
+  "region": "Cambridgeshire and Peterborough",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Crown Lakes, Haddon Way, Farcet, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE7 3BA, United Kingdom",
+  "postcode": "PE7 3BA",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "meadow",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "lake"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

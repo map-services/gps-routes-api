@@ -1,69 +1,82 @@
 {
-    "created_at": "2025-01-05T23:25:34.475339+00:00",
-    "objectID": "77f044ba37000d5f634861247c4618fe",
-    "ref": "fernhurst-walking-route",
-    "title": "Fernhurst Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Village_Green%2C_Fernhurst_-_geograph.org.uk_-_3882292.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/77f044ba37000d5f634861247c4618fe.gpx",
-    "_geoloc": {
-        "lat": 51.0487549144,
-        "lng": -0.7235714562
+  "created_at": "2025-01-05T23:25:34.475339+00:00",
+  "objectID": "77f044ba37000d5f634861247c4618fe",
+  "ref": "fernhurst-walking-route",
+  "title": "Fernhurst Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Village_Green%2C_Fernhurst_-_geograph.org.uk_-_3882292.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/77f044ba37000d5f634861247c4618fe.gpx",
+  "_geoloc": {
+    "lat": 51.0487549144,
+    "lng": -0.7235714562
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Village_Green%2C_Fernhurst_-_geograph.org.uk_-_3882292.jpg",
+      "title": "Village Green, Fernhurst by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Village Green, Fernhurst"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Village_Green%2C_Fernhurst_-_geograph.org.uk_-_3882292.jpg",
-            "title": "Village Green, Fernhurst by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Village Green, Fernhurst"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cottages%2C_Fernhurst_-_geograph.org.uk_-_3882290.jpg",
-            "title": "Cottages, Fernhurst by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cottages, Fernhurst"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoewyck_Farm_near_Fernhurst_01.jpg/500px-Hoewyck_Farm_near_Fernhurst_01.jpg",
-            "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Hoewyck Farm"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Track_crossing_road_at_Marley_Heights_-_geograph.org.uk_-_976055.jpg",
-            "title": "Shazz / Track crossing road at Marley Heights",
-            "caption": "Track crossing road at Marley Heights"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gate_across_the_path%2C_Marley_Common_-_geograph.org.uk_-_2048178.jpg",
-            "title": "Gate across the path, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Gate across the path, Marley Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Footpath_-_bridleway_junction%2C_Marley_Common_-_geograph.org.uk_-_2048192.jpg",
-            "title": "Footpath / bridleway junction, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath"
-        }
-    ],
-    "distance_km": 6.6,
-    "description": "This West Sussex village is located just south of Haslemere. It's an attractive place for a stroll with a village green and a notable 16th century pub for refreshments. This walk from the village take you north to visit Marley Heights and Marley Common. The common has miles of good footpaths taking you to heathland, woodland and meadows. Please scroll down for the full list of walks near and around Fernhurst. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Red Lion - Nestled by the village green, the Red Lion has served as a pub since 1592. The interior features a single bar under a low, timbered ceiling, complemented by two cosy side rooms and a magnificent inglenook fireplace, complete with a sizeable wood-burning stove. On pleasant days, patrons can enjoy seating that overlooks the village green at the front, or opt for the spacious rear garden, which includes a covered, heated, and lit shelter for smokers. The pub enjoys popularity among both local residents and those who come specifically to dine. They are located at postcode GU27 3HY and the pub is dog friendly. Kings Arms - The pub has a real fire to settle down to a cosy drink and meal in the winter and a stunning beer garden to enjoy in the warmer months. The decor is traditional with large wooden tables and bare wooden floors. The pub also offers accommodation and an Indian restaurant utilises the barn next door. You can find them at Midhurst Road, GU27 3HA"
-        }
-    ],
-    "district": "Chichester",
-    "county": "West Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Crossways, 5, Vann Road, Fernhurst, Chichester, West Sussex, England, GU27 3EP, United Kingdom",
-    "postcode": "GU27 3EP",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "easy",
-    "terrain": ["heathland", "woodland", "meadow"],
-    "points_of_interest": ["village green"],
-    "facilities": ["pub/cafe"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cottages%2C_Fernhurst_-_geograph.org.uk_-_3882290.jpg",
+      "title": "Cottages, Fernhurst by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cottages, Fernhurst"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoewyck_Farm_near_Fernhurst_01.jpg/500px-Hoewyck_Farm_near_Fernhurst_01.jpg",
+      "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Hoewyck Farm"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Track_crossing_road_at_Marley_Heights_-_geograph.org.uk_-_976055.jpg",
+      "title": "Shazz / Track crossing road at Marley Heights",
+      "caption": "Track crossing road at Marley Heights"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gate_across_the_path%2C_Marley_Common_-_geograph.org.uk_-_2048178.jpg",
+      "title": "Gate across the path, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Gate across the path, Marley Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Footpath_-_bridleway_junction%2C_Marley_Common_-_geograph.org.uk_-_2048192.jpg",
+      "title": "Footpath / bridleway junction, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath"
+    }
+  ],
+  "distance_km": 6.6,
+  "description": "This West Sussex village is located just south of Haslemere. It's an attractive place for a stroll with a village green and a notable 16th century pub for refreshments. This walk from the village take you north to visit Marley Heights and Marley Common. The common has miles of good footpaths taking you to heathland, woodland and meadows. Please scroll down for the full list of walks near and around Fernhurst. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Red Lion - Nestled by the village green, the Red Lion has served as a pub since 1592. The interior features a single bar under a low, timbered ceiling, complemented by two cosy side rooms and a magnificent inglenook fireplace, complete with a sizeable wood-burning stove. On pleasant days, patrons can enjoy seating that overlooks the village green at the front, or opt for the spacious rear garden, which includes a covered, heated, and lit shelter for smokers. The pub enjoys popularity among both local residents and those who come specifically to dine. They are located at postcode GU27 3HY and the pub is dog friendly. Kings Arms - The pub has a real fire to settle down to a cosy drink and meal in the winter and a stunning beer garden to enjoy in the warmer months. The decor is traditional with large wooden tables and bare wooden floors. The pub also offers accommodation and an Indian restaurant utilises the barn next door. You can find them at Midhurst Road, GU27 3HA"
+    }
+  ],
+  "district": "Chichester",
+  "county": "West Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Crossways, 5, Vann Road, Fernhurst, Chichester, West Sussex, England, GU27 3EP, United Kingdom",
+  "postcode": "GU27 3EP",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "village green",
+    "Marley Heights",
+    "Marley Common"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

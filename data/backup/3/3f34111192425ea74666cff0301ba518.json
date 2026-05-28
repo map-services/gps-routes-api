@@ -1,62 +1,73 @@
 {
-    "created_at": "2025-01-06T10:24:16.802251+00:00",
-    "objectID": "3f34111192425ea74666cff0301ba518",
-    "ref": "bold-venture-park-darwen-walking-route",
-    "title": "Bold Venture Park Darwen Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bold_Venture_Park_-_geograph.org.uk_-_1279689.jpg",
-    "nearby": [
-        {
-            "description": "Darwen Tower",
-            "objectID": "0da11952f376e186964ebaa4170f6a15",
-            "ref": "darwen-tower-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f34111192425ea74666cff0301ba518.gpx",
-    "_geoloc": {
-        "lat": 53.6923281336,
-        "lng": -2.4716549225
+  "created_at": "2025-01-06T10:24:16.802251+00:00",
+  "objectID": "3f34111192425ea74666cff0301ba518",
+  "ref": "bold-venture-park-darwen-walking-route",
+  "title": "Bold Venture Park Darwen Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bold_Venture_Park_-_geograph.org.uk_-_1279689.jpg",
+  "nearby": [
+    {
+      "description": "Darwen Tower",
+      "objectID": "0da11952f376e186964ebaa4170f6a15",
+      "ref": "darwen-tower-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f34111192425ea74666cff0301ba518.gpx",
+  "_geoloc": {
+    "lat": 53.6923281336,
+    "lng": -2.4716549225
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bold_Venture_Park_-_geograph.org.uk_-_1279689.jpg",
+      "title": "Kenneth Yarham / Bold Venture Park",
+      "caption": "The war memorial and lake in Bold Venture Park, looking towards the moors beyond. Darwen Tower is just out of the picture to the right."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bold_Venture_Park_-_geograph.org.uk_-_1279689.jpg",
-            "title": "Kenneth Yarham / Bold Venture Park",
-            "caption": "The war memorial and lake in Bold Venture Park, looking towards the moors beyond. Darwen Tower is just out of the picture to the right."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Hindle_Pergola_in_Bold_Venture_Park_-_geograph.org.uk_-_1225951.jpg",
-            "title": "John Tustin / Hindle Pergola in Bold Venture Park",
-            "caption": "Hindle Pergola. In 1901 an aviary was established here. On 2/4/2005 the Pergola was opened and features a mozaic of the birds which originally appeared in the aviary."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bold_Venture_Park_Pool_-_geograph.org.uk_-_1378461.jpg",
-            "title": "Gordon Griffiths / Bold Venture Park Pool",
-            "caption": "The Pool near Manor Road"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tree_Sculpture_-_Squirrel_-_geograph.org.uk_-_1225958.jpg/330px-Tree_Sculpture_-_Squirrel_-_geograph.org.uk_-_1225958.jpg",
-            "title": "John Tustin / Tree Sculpture - Squirrel",
-            "caption": "Tree Sculpture - Squirrel. Just inside the park, near the eastern gate to Darwen Tower, sits this tree sculpture of a squirrel. This is one of several tree sculptures in the park."
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "This large park in Darwen is great for an easy afternoon stroll. The pretty Bold Venture brook runs through the centre of the park so you can enjoy a nice waterside walk through the surrounding woodland valley. Along the way there are a number of wooden sculptures of animals and a series of waterfalls to look out for. At the western end of the park you emerge from the woodland. Here you can enjoy nice views across the surrounding moorland towards Darwen Tower. At the end near the town the park has a large lake, a war memorial and attractive formal gardens. The footpaths throughout the park are generally good paved trails. If you would like to extend your walk then you could visit Sunnyhurst Woods or continue along the Witton Weavers Way .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/JBtENDXBUdk",
-    "district": "Darwen",
-    "county": "Blackburn with Darwen",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Inverness Road, Sough, Darwen, Blackburn with Darwen, England, BB3 2RZ, United Kingdom",
-    "postcode": "BB3 2RZ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "moorland"],
-    "points_of_interest": ["sculptures", "waterfall", "memorial", "gardens"],
-    "facilities": ["car park", "lake", "visitor center"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Hindle_Pergola_in_Bold_Venture_Park_-_geograph.org.uk_-_1225951.jpg",
+      "title": "John Tustin / Hindle Pergola in Bold Venture Park",
+      "caption": "Hindle Pergola. In 1901 an aviary was established here. On 2/4/2005 the Pergola was opened and features a mozaic of the birds which originally appeared in the aviary."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bold_Venture_Park_Pool_-_geograph.org.uk_-_1378461.jpg",
+      "title": "Gordon Griffiths / Bold Venture Park Pool",
+      "caption": "The Pool near Manor Road"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tree_Sculpture_-_Squirrel_-_geograph.org.uk_-_1225958.jpg/330px-Tree_Sculpture_-_Squirrel_-_geograph.org.uk_-_1225958.jpg",
+      "title": "John Tustin / Tree Sculpture - Squirrel",
+      "caption": "Tree Sculpture - Squirrel. Just inside the park, near the eastern gate to Darwen Tower, sits this tree sculpture of a squirrel. This is one of several tree sculptures in the park."
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "This large park in Darwen is great for an easy afternoon stroll. The pretty Bold Venture brook runs through the centre of the park so you can enjoy a nice waterside walk through the surrounding woodland valley. Along the way there are a number of wooden sculptures of animals and a series of waterfalls to look out for. At the western end of the park you emerge from the woodland. Here you can enjoy nice views across the surrounding moorland towards Darwen Tower. At the end near the town the park has a large lake, a war memorial and attractive formal gardens. The footpaths throughout the park are generally good paved trails. If you would like to extend your walk then you could visit Sunnyhurst Woods or continue along the Witton Weavers Way .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/JBtENDXBUdk",
+  "district": "Darwen",
+  "county": "Blackburn with Darwen",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Inverness Road, Sough, Darwen, Blackburn with Darwen, England, BB3 2RZ, United Kingdom",
+  "postcode": "BB3 2RZ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "war memorial"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

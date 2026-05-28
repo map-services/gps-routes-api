@@ -1,82 +1,94 @@
 {
-    "created_at": "2025-01-06T01:16:59.295090+00:00",
-    "objectID": "9970666a9b4451df1130003c7b61bbb8",
-    "ref": "shaw-forest-park-walking-route",
-    "title": "Shaw Forest Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/500px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
-    "nearby": [
-        {
-            "description": "Mouldon Hill Country Park",
-            "objectID": "3d9e9d9446b6729134a4b544b346b078",
-            "ref": "mouldon-hill-country-park-walking-route"
-        },
-        {
-            "description": "Lydiard Country Park",
-            "objectID": "55fbe7a3d74f6a42924fcc885cb4dd61",
-            "ref": "lydiard-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Swindon",
-            "objectID": "1c06f30da55a123ffa2500238a14e1d9",
-            "ref": "swindon-cycle-route"
-        },
-        {
-            "description": "Wootton Bassett",
-            "objectID": "eb9f8e1194e08590971795031cae7bb1",
-            "ref": "wootton-bassett-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9970666a9b4451df1130003c7b61bbb8.gpx",
-    "_geoloc": {
-        "lat": 51.5736323456,
-        "lng": -1.8284232636
+  "created_at": "2025-01-06T01:16:59.295090+00:00",
+  "objectID": "9970666a9b4451df1130003c7b61bbb8",
+  "ref": "shaw-forest-park-walking-route",
+  "title": "Shaw Forest Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/500px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
+  "nearby": [
+    {
+      "description": "Mouldon Hill Country Park",
+      "objectID": "3d9e9d9446b6729134a4b544b346b078",
+      "ref": "mouldon-hill-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/500px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
-            "title": "Brian Robert Marshall / Evergreen trees, Shaw Forest Park, Swindon, via Wikimedia Commons",
-            "caption": "Evergreen trees, Shaw Forest Park, Swindon. The bright colour of stand of conifers contrasts with the rather sere-looking winter grass. The houses beyond are in Sparcells, a 1980s residential development."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg/500px-Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg",
-            "title": "Brian Robert Marshall / Pylon, Shaw Forest Park, Swindon, via Wikimedia Commons",
-            "caption": "Pylon, Shaw Forest Park, Swindon. The pylon is part of the high-voltage grid and has been here for many years as there was once a relatively small coal-fired power station about a kilometre north of here. The pwer station was demolished and the site redeveloped for housing 319888 The buildings in the distance are on the western edge of Cheney Manor Trading Estate. It is possible to make out bulldozers engaged in landscaping operations. In the very far distance is Sparsholt Down about 23 kilometres to the east."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Footpath_in_Shaw_Forest_Park_-_geograph.org.uk_-_2827750.jpg/500px-Footpath_in_Shaw_Forest_Park_-_geograph.org.uk_-_2827750.jpg",
-            "title": "Footpath in Shaw Forest Park by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A view of one of the footpaths at the site. Taken in late winter."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Looking_north-east_from_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704892.jpg/500px-Looking_north-east_from_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704892.jpg",
-            "title": "Brian Robert Marshall / Looking north-east from Shaw Forest Park, Swindon",
-            "caption": "Looking north-east from Shaw Forest Park. The track on the right passing between the pylons follows the line of the former Midland and South Western Junction Railway (M&SWJR) that once ran between Andover in the south and Cheltenham. The line closed in September 1961. Sections of it are now part of the National Cycle Network 922440 whilst another provides a home for a heritage railway"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "Enjoy some nice walking trails in this community woodland in Swindon. You can park in the car park on Forest Park Road off Mead Way. From here you can pick up the trails to the ash/willow woodland, wildflower meadows, grassland and ponds. Look out for wildlife including roe deer, foxes and various wildfowl. At the north western edge of the park you can visit the pretty Peatmoor Lake. To extend your outing you can head a mile north and visit Mouldon Hill Country Park. Here you'll find a lake, the River Ray, a section of the North Wilts Canal and nice views from the high points. Also nearby is Lydiard Country Park. Here you'll find 260 acres of lawns, woodlands and pasture to walk or cycle through. Our circular Swindon Cycle Route visits all these parks using signed cycle routes which run through the town.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the west there's neighbouring Wootton Bassett where you could visit the Jubilee Lake Nature Reserve on the northern side of the town. There's some pleasant waterside footpaths with lots of wildlife to see here."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/9TSsE0L7eCc",
-    "county": "Swindon",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Forest Park Road, Hillmead, West Swindon, Swindon, England, SN5 5PQ, United Kingdom",
-    "postcode": "SN5 5PQ",
-    "district": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "grassland", "pond"],
-    "points_of_interest": ["wildlife", "lake", "canal"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Lydiard Country Park",
+      "objectID": "55fbe7a3d74f6a42924fcc885cb4dd61",
+      "ref": "lydiard-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Swindon",
+      "objectID": "1c06f30da55a123ffa2500238a14e1d9",
+      "ref": "swindon-cycle-route"
+    },
+    {
+      "description": "Wootton Bassett",
+      "objectID": "eb9f8e1194e08590971795031cae7bb1",
+      "ref": "wootton-bassett-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9970666a9b4451df1130003c7b61bbb8.gpx",
+  "_geoloc": {
+    "lat": 51.5736323456,
+    "lng": -1.8284232636
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/500px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
+      "title": "Brian Robert Marshall / Evergreen trees, Shaw Forest Park, Swindon, via Wikimedia Commons",
+      "caption": "Evergreen trees, Shaw Forest Park, Swindon. The bright colour of stand of conifers contrasts with the rather sere-looking winter grass. The houses beyond are in Sparcells, a 1980s residential development."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg/500px-Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg",
+      "title": "Brian Robert Marshall / Pylon, Shaw Forest Park, Swindon, via Wikimedia Commons",
+      "caption": "Pylon, Shaw Forest Park, Swindon. The pylon is part of the high-voltage grid and has been here for many years as there was once a relatively small coal-fired power station about a kilometre north of here. The pwer station was demolished and the site redeveloped for housing 319888 The buildings in the distance are on the western edge of Cheney Manor Trading Estate. It is possible to make out bulldozers engaged in landscaping operations. In the very far distance is Sparsholt Down about 23 kilometres to the east."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Footpath_in_Shaw_Forest_Park_-_geograph.org.uk_-_2827750.jpg/500px-Footpath_in_Shaw_Forest_Park_-_geograph.org.uk_-_2827750.jpg",
+      "title": "Footpath in Shaw Forest Park by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A view of one of the footpaths at the site. Taken in late winter."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Looking_north-east_from_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704892.jpg/500px-Looking_north-east_from_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704892.jpg",
+      "title": "Brian Robert Marshall / Looking north-east from Shaw Forest Park, Swindon",
+      "caption": "Looking north-east from Shaw Forest Park. The track on the right passing between the pylons follows the line of the former Midland and South Western Junction Railway (M&SWJR) that once ran between Andover in the south and Cheltenham. The line closed in September 1961. Sections of it are now part of the National Cycle Network 922440 whilst another provides a home for a heritage railway"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "Enjoy some nice walking trails in this community woodland in Swindon. You can park in the car park on Forest Park Road off Mead Way. From here you can pick up the trails to the ash/willow woodland, wildflower meadows, grassland and ponds. Look out for wildlife including roe deer, foxes and various wildfowl. At the north western edge of the park you can visit the pretty Peatmoor Lake. To extend your outing you can head a mile north and visit Mouldon Hill Country Park. Here you'll find a lake, the River Ray, a section of the North Wilts Canal and nice views from the high points. Also nearby is Lydiard Country Park. Here you'll find 260 acres of lawns, woodlands and pasture to walk or cycle through. Our circular Swindon Cycle Route visits all these parks using signed cycle routes which run through the town.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west there's neighbouring Wootton Bassett where you could visit the Jubilee Lake Nature Reserve on the northern side of the town. There's some pleasant waterside footpaths with lots of wildlife to see here."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/9TSsE0L7eCc",
+  "county": "Swindon",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Forest Park Road, Hillmead, West Swindon, Swindon, England, SN5 5PQ, United Kingdom",
+  "postcode": "SN5 5PQ",
+  "district": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

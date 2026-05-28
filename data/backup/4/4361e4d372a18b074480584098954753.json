@@ -1,112 +1,127 @@
 {
-    "created_at": "2025-01-05T23:47:19.011076+00:00",
-    "objectID": "4361e4d372a18b074480584098954753",
-    "ref": "penrose-estate-walking-and-cycle-route",
-    "title": "Penrose Estate Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PenroseManor.jpg/500px-PenroseManor.jpg",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Godolphin Estate",
-            "objectID": "467068b9c95418703f1c05d747146c02",
-            "ref": "godolphin-estate-walking-route"
-        },
-        {
-            "description": "Helston",
-            "objectID": "45f87adcae9c21a0d7e405a35ba25fbd",
-            "ref": "helston-walking-route"
-        },
-        {
-            "description": "Gweek",
-            "objectID": "7d830b2bf659688b354f3043ddbfb08c",
-            "ref": "gweek-walking-route"
-        },
-        {
-            "description": "Porthleven to Praa Sands Coastal Walk",
-            "objectID": "752c7e0263ef85ff0b276f913478710f",
-            "ref": "porthleven-to-praa-sands-coastal-walk-walking-route"
-        },
-        {
-            "description": "Praa Sands to Prussia Cove Walk",
-            "objectID": "e63deac3e636bfbfdf00f55aa7e0605d",
-            "ref": "praa-sands-to-prussia-cove-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4361e4d372a18b074480584098954753.gpx",
-    "_geoloc": {
-        "lat": 50.0860399317,
-        "lng": -5.3008843892
+  "created_at": "2025-01-05T23:47:19.011076+00:00",
+  "objectID": "4361e4d372a18b074480584098954753",
+  "ref": "penrose-estate-walking-and-cycle-route",
+  "title": "Penrose Estate Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PenroseManor.jpg/500px-PenroseManor.jpg",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PenroseManor.jpg/500px-PenroseManor.jpg",
-            "title": "Hanton01, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Penrose Manor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bath_House_Gate._-_panoramio.jpg/500px-Bath_House_Gate._-_panoramio.jpg",
-            "title": "Jane White, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Bath House Gate."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/External_view_of_the_walled_garden_at_Penrose_-_geograph.org.uk_-_811507.jpg",
-            "title": "Rod Allday / External view of the walled garden at Penrose",
-            "caption": "External view of the walled garden at Penrose"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Penrose_12.jpg",
-            "title": "D3ryo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Loe Pool"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Penrose_estate_valley%2C_from_Shadywalk_Wood_-_geograph.org.uk_-_4882291.jpg/500px-Penrose_estate_valley%2C_from_Shadywalk_Wood_-_geograph.org.uk_-_4882291.jpg",
-            "title": "Penrose estate valley, from Shadywalk Wood by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Penrose estate valley, from Shadywalk Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Penrose_estate_-_geograph.org.uk_-_2566034.jpg",
-            "title": "Penrose estate by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Green fields and trees in summer"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Looking_down_on_Loe_Bar_-_geograph.org.uk_-_4748767.jpg/500px-Looking_down_on_Loe_Bar_-_geograph.org.uk_-_4748767.jpg",
-            "title": "Looking down on Loe Bar by David Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking down on Loe Bar beach"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Part_of_Loe_Marsh_-_geograph.org.uk_-_2110645.jpg",
-            "title": "Part of Loe Marsh by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Part of Loe Marsh"
-        }
-    ],
-    "distance_km": 10.5,
-    "description": "This lovely National Trust owned estate near Porthleven has a number of excellent cycling and walking trails around a large coastal lake. The Loe or Loe Pool is the largest natural freshwater lake in Cornwall. The beautiful lake is separated from the sea by a shingle bar, just east of Porthleven. It is surrounded by attractive farmland, woodland and coast. It's a great place for a safe family cycle with miles of bridleways around the estate. Walkers can also enjoy miles of woodlands and lakeside trails. The route starts from the Penrose Hill National Trust car park just to the east of Porthleven. You then follow woodland trails to the nearby town of Helston, passing the River Cober on the way. Helston has a pretty boating lake and nice tea rooms so is a good place to stop for refreshments. From Helston you turn around and head back towards the lake through the beautiful Loe Valley and Degibna Wood. More woodland and lakeside sections then take you to the shingle beach at Loe Bar and Porthleven Sands where there are lovely coastal views. After passing along the coast you return to the car park on woodland and waterside paths. The walk can easily be extending by heading further up the coast to Gunwalloe where there are more pretty beaches and a valley reedbed which attracts a variety of birdlife. You could also head towards Porthleven and enjoy a stroll around the pretty village and harbour. You can virtually explore the area using the google street view link below!",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head east and you could visit the picturesque little village of Gweek on the Helford River. Here you could try the nature trail at the seal sanctuary where they look after sick and injured seal pups. Head south and you could pick up the Mullion Cove to Lizard Point Walk. The cove has a delighftul harbour and trails leading to the stunning Kynance Cove and the most southerly point in Britain at Lizard Point. If you pick up the Porthleven to Praa Sands Coastal Walk it will take you west to the beautiful white sand beach at Praa Sands. Here you can start the Praa Sands to Prussia Cove Walk and visit a series of delightful little coves."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/5Xg3dvy432M",
-    "county": "Cornwall",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "B3304, Porthleven, Helston, Cornwall, England, TR13 0RA, United Kingdom",
-    "postcode": "TR13 0RA",
-    "district": "Helston",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "coastal", "lakeside"],
-    "points_of_interest": ["historical site", "viewpoint", "beach"],
-    "facilities": ["car park", "tea room", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling", "bird watching"]
+    {
+      "description": "Godolphin Estate",
+      "objectID": "467068b9c95418703f1c05d747146c02",
+      "ref": "godolphin-estate-walking-route"
+    },
+    {
+      "description": "Helston",
+      "objectID": "45f87adcae9c21a0d7e405a35ba25fbd",
+      "ref": "helston-walking-route"
+    },
+    {
+      "description": "Gweek",
+      "objectID": "7d830b2bf659688b354f3043ddbfb08c",
+      "ref": "gweek-walking-route"
+    },
+    {
+      "description": "Porthleven to Praa Sands Coastal Walk",
+      "objectID": "752c7e0263ef85ff0b276f913478710f",
+      "ref": "porthleven-to-praa-sands-coastal-walk-walking-route"
+    },
+    {
+      "description": "Praa Sands to Prussia Cove Walk",
+      "objectID": "e63deac3e636bfbfdf00f55aa7e0605d",
+      "ref": "praa-sands-to-prussia-cove-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4361e4d372a18b074480584098954753.gpx",
+  "_geoloc": {
+    "lat": 50.0860399317,
+    "lng": -5.3008843892
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PenroseManor.jpg/500px-PenroseManor.jpg",
+      "title": "Hanton01, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Penrose Manor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bath_House_Gate._-_panoramio.jpg/500px-Bath_House_Gate._-_panoramio.jpg",
+      "title": "Jane White, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Bath House Gate."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/External_view_of_the_walled_garden_at_Penrose_-_geograph.org.uk_-_811507.jpg",
+      "title": "Rod Allday / External view of the walled garden at Penrose",
+      "caption": "External view of the walled garden at Penrose"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Penrose_12.jpg",
+      "title": "D3ryo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Loe Pool"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Penrose_estate_valley%2C_from_Shadywalk_Wood_-_geograph.org.uk_-_4882291.jpg/500px-Penrose_estate_valley%2C_from_Shadywalk_Wood_-_geograph.org.uk_-_4882291.jpg",
+      "title": "Penrose estate valley, from Shadywalk Wood by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Penrose estate valley, from Shadywalk Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Penrose_estate_-_geograph.org.uk_-_2566034.jpg",
+      "title": "Penrose estate by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Green fields and trees in summer"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Looking_down_on_Loe_Bar_-_geograph.org.uk_-_4748767.jpg/500px-Looking_down_on_Loe_Bar_-_geograph.org.uk_-_4748767.jpg",
+      "title": "Looking down on Loe Bar by David Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking down on Loe Bar beach"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Part_of_Loe_Marsh_-_geograph.org.uk_-_2110645.jpg",
+      "title": "Part of Loe Marsh by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Part of Loe Marsh"
+    }
+  ],
+  "distance_km": 10.5,
+  "description": "This lovely National Trust owned estate near Porthleven has a number of excellent cycling and walking trails around a large coastal lake. The Loe or Loe Pool is the largest natural freshwater lake in Cornwall. The beautiful lake is separated from the sea by a shingle bar, just east of Porthleven. It is surrounded by attractive farmland, woodland and coast. It's a great place for a safe family cycle with miles of bridleways around the estate. Walkers can also enjoy miles of woodlands and lakeside trails. The route starts from the Penrose Hill National Trust car park just to the east of Porthleven. You then follow woodland trails to the nearby town of Helston, passing the River Cober on the way. Helston has a pretty boating lake and nice tea rooms so is a good place to stop for refreshments. From Helston you turn around and head back towards the lake through the beautiful Loe Valley and Degibna Wood. More woodland and lakeside sections then take you to the shingle beach at Loe Bar and Porthleven Sands where there are lovely coastal views. After passing along the coast you return to the car park on woodland and waterside paths. The walk can easily be extending by heading further up the coast to Gunwalloe where there are more pretty beaches and a valley reedbed which attracts a variety of birdlife. You could also head towards Porthleven and enjoy a stroll around the pretty village and harbour. You can virtually explore the area using the google street view link below!",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you could visit the picturesque little village of Gweek on the Helford River. Here you could try the nature trail at the seal sanctuary where they look after sick and injured seal pups. Head south and you could pick up the Mullion Cove to Lizard Point Walk. The cove has a delighftul harbour and trails leading to the stunning Kynance Cove and the most southerly point in Britain at Lizard Point. If you pick up the Porthleven to Praa Sands Coastal Walk it will take you west to the beautiful white sand beach at Praa Sands. Here you can start the Praa Sands to Prussia Cove Walk and visit a series of delightful little coves."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/5Xg3dvy432M",
+  "county": "Cornwall",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B3304, Porthleven, Helston, Cornwall, England, TR13 0RA, United Kingdom",
+  "postcode": "TR13 0RA",
+  "district": "Helston",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "beach",
+    "village",
+    "harbour"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

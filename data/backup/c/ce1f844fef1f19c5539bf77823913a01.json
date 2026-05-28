@@ -1,86 +1,94 @@
 {
-    "created_at": "2025-01-06T10:51:36.536397+00:00",
-    "objectID": "ce1f844fef1f19c5539bf77823913a01",
-    "ref": "bungay-riverside-walk-walking-route",
-    "title": "Bungay Riverside Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Track_on_Outney_Common%2C_Bungay%2C_Suffolk_-_geograph.org.uk_-_1623158.jpg",
-    "nearby": [
-        {
-            "description": "Angles Way",
-            "objectID": "f6cef38e2b6ed5f59b36ea4b6875c872",
-            "ref": "angles-way-walking-route"
-        },
-        {
-            "description": "Bigod Way",
-            "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
-            "ref": "bigod-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce1f844fef1f19c5539bf77823913a01.gpx",
-    "_geoloc": {
-        "lat": 52.45989269,
-        "lng": 1.432299613
+  "created_at": "2025-01-06T10:51:36.536397+00:00",
+  "objectID": "ce1f844fef1f19c5539bf77823913a01",
+  "ref": "bungay-riverside-walk-walking-route",
+  "title": "Bungay Riverside Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Track_on_Outney_Common%2C_Bungay%2C_Suffolk_-_geograph.org.uk_-_1623158.jpg",
+  "nearby": [
+    {
+      "description": "Angles Way",
+      "objectID": "f6cef38e2b6ed5f59b36ea4b6875c872",
+      "ref": "angles-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Track_on_Outney_Common%2C_Bungay%2C_Suffolk_-_geograph.org.uk_-_1623158.jpg",
-            "title": "Ned Nesbitt / Track on Outney Common, Bungay, Suffolk",
-            "caption": "Track on Outney Common, Bungay, Suffolk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Footbridge_across_the_Old_River_on_Outney_Common_-_geograph.org.uk_-_224195.jpg/330px-Footbridge_across_the_Old_River_on_Outney_Common_-_geograph.org.uk_-_224195.jpg",
-            "title": "Linda Bailey / Footbridge across the Old River on Outney Common",
-            "caption": "Footbridge across the Old River on Outney Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kayak_on_the_river_Waveney_-_geograph.org.uk_-_419312.jpg",
-            "title": "Andrew Farrow / Kayak on the river Waveney",
-            "caption": "Kayak on the river Waveney"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cold_Bath_House_and_River_Waveney_-_geograph.org.uk_-_221982.jpg/330px-Cold_Bath_House_and_River_Waveney_-_geograph.org.uk_-_221982.jpg",
-            "title": "Linda Bailey / Cold Bath House and River Waveney",
-            "caption": "Cold Bath House and River Waveney"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/River_Waveney_near_Bath_Hills_-_geograph.org.uk_-_221980.jpg",
-            "title": "Linda Bailey / River Waveney near Bath Hills",
-            "caption": "River Waveney near Bath Hills"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Earsham_Pit_-_geograph.org.uk_-_442211.jpg",
-            "title": "Ian Robertson / Earsham Pit",
-            "caption": "Earsham Pit"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/River_Waveney_-_geograph.org.uk_-_221981.jpg",
-            "title": "Linda Bailey / River Waveney",
-            "caption": "River Waveney"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cattle_on_Outney_Common_-_geograph.org.uk_-_224191.jpg",
-            "title": "Linda Bailey / Cattle on Outney Common",
-            "caption": "Cattle on Outney Common"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This circular walk takes you along the River Waveney in the Suffolk town of Bungay. There's a nice riverside path with the option of continuing your walking on the surrounding Outney Common. The trail runs for about 3 miles following the river around the common on flat paths. Along the way there's lovely views over the river to the surrounding Suffolk countryside. You can also pay a visit to Bungay Castle, a ruined Norman structure which is Grade I listed. The route runs parallel to the Bigod Way long distance trail. The 10 mile circular route offers a variety of wildlife, rare plants, many sites of historical interest and fine views of the Waveney Valley countryside. The Angles Way also runs through the area and is a great way of exploring the river valleys and broads of Suffolk and Norfolk.",
-    "details": [],
-    "postcode": "NR35 1HG",
-    "district": "East Suffolk",
-    "county": "Suffolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bungay, East Suffolk, Suffolk, England, NR35 1HG, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["river", "common"],
-    "points_of_interest": ["castle", "historical site", "countryside"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bigod Way",
+      "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
+      "ref": "bigod-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce1f844fef1f19c5539bf77823913a01.gpx",
+  "_geoloc": {
+    "lat": 52.45989269,
+    "lng": 1.432299613
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Track_on_Outney_Common%2C_Bungay%2C_Suffolk_-_geograph.org.uk_-_1623158.jpg",
+      "title": "Ned Nesbitt / Track on Outney Common, Bungay, Suffolk",
+      "caption": "Track on Outney Common, Bungay, Suffolk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Footbridge_across_the_Old_River_on_Outney_Common_-_geograph.org.uk_-_224195.jpg/330px-Footbridge_across_the_Old_River_on_Outney_Common_-_geograph.org.uk_-_224195.jpg",
+      "title": "Linda Bailey / Footbridge across the Old River on Outney Common",
+      "caption": "Footbridge across the Old River on Outney Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kayak_on_the_river_Waveney_-_geograph.org.uk_-_419312.jpg",
+      "title": "Andrew Farrow / Kayak on the river Waveney",
+      "caption": "Kayak on the river Waveney"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cold_Bath_House_and_River_Waveney_-_geograph.org.uk_-_221982.jpg/330px-Cold_Bath_House_and_River_Waveney_-_geograph.org.uk_-_221982.jpg",
+      "title": "Linda Bailey / Cold Bath House and River Waveney",
+      "caption": "Cold Bath House and River Waveney"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/River_Waveney_near_Bath_Hills_-_geograph.org.uk_-_221980.jpg",
+      "title": "Linda Bailey / River Waveney near Bath Hills",
+      "caption": "River Waveney near Bath Hills"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Earsham_Pit_-_geograph.org.uk_-_442211.jpg",
+      "title": "Ian Robertson / Earsham Pit",
+      "caption": "Earsham Pit"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/River_Waveney_-_geograph.org.uk_-_221981.jpg",
+      "title": "Linda Bailey / River Waveney",
+      "caption": "River Waveney"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cattle_on_Outney_Common_-_geograph.org.uk_-_224191.jpg",
+      "title": "Linda Bailey / Cattle on Outney Common",
+      "caption": "Cattle on Outney Common"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This circular walk takes you along the River Waveney in the Suffolk town of Bungay. There's a nice riverside path with the option of continuing your walking on the surrounding Outney Common. The trail runs for about 3 miles following the river around the common on flat paths. Along the way there's lovely views over the river to the surrounding Suffolk countryside. You can also pay a visit to Bungay Castle, a ruined Norman structure which is Grade I listed. The route runs parallel to the Bigod Way long distance trail. The 10 mile circular route offers a variety of wildlife, rare plants, many sites of historical interest and fine views of the Waveney Valley countryside. The Angles Way also runs through the area and is a great way of exploring the river valleys and broads of Suffolk and Norfolk.",
+  "details": [],
+  "postcode": "NR35 1HG",
+  "district": "East Suffolk",
+  "county": "Suffolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bungay, East Suffolk, Suffolk, England, NR35 1HG, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "riverbank",
+    "common"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

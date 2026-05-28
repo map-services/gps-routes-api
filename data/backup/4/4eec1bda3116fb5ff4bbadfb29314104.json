@@ -96,22 +96,23 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "chalk"
+    "chalk scarp",
+    "vale"
   ],
   "points_of_interest": [
-    "historical site",
-    "viewpoint"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
+    "pub/cafe",
     "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

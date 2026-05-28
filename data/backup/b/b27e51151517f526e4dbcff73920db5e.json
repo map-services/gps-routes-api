@@ -1,144 +1,151 @@
 {
-    "created_at": "2025-01-06T03:40:26.457287+00:00",
-    "objectID": "b27e51151517f526e4dbcff73920db5e",
-    "ref": "levisham-circular-walk-walking-route",
-    "title": "Levisham Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_towards_Dundale_-_geograph.org.uk_-_986844.jpg",
-    "nearby": [
-        {
-            "description": "Hole of Horcum",
-            "objectID": "2f836d52cfc5a59ce322d77f15081604",
-            "ref": "hole-of-horcum-walking-route"
-        },
-        {
-            "description": "Bridestones",
-            "objectID": "0f0c1f783e1f5b696b30ecb53e4ae7ac",
-            "ref": "bridestones-walking-route"
-        },
-        {
-            "description": "Pickering",
-            "objectID": "8463cd586b92ae63a57a051352630d24",
-            "ref": "pickering-walking-route"
-        },
-        {
-            "description": "Dalby Forest",
-            "objectID": "444fb3d84019bfb0cf1d3bee105c7dda",
-            "ref": "dalby-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Wykeham Forest",
-            "objectID": "decc0796f0bbabb327dc710cb721af16",
-            "ref": "wykeham-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Hackness",
-            "objectID": "ce1b8692e494b9d4a7676fc0dfb0a4ed",
-            "ref": "hackness-walking-route"
-        },
-        {
-            "description": "Forge Valley Woods",
-            "objectID": "8ae04bd75322a3680e85379c49f4e057",
-            "ref": "forge-valley-woods-walking-route"
-        },
-        {
-            "description": "West Ayton",
-            "objectID": "f5f97c4a6c3fa49aedd026dab88858fa",
-            "ref": "west-ayton-walking-route"
-        },
-        {
-            "description": "Cropton Forest",
-            "objectID": "0564e826f5ef162e992343a060dcd47b",
-            "ref": "cropton-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Hutton-le-Hole",
-            "objectID": "2da787b14c6048f2dbc3c198d01fb55c",
-            "ref": "hutton-le-hole-walking-route"
-        },
-        {
-            "description": "Lastingham",
-            "objectID": "edf543b88d148348bcb96bd796891c4b",
-            "ref": "lastingham-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b27e51151517f526e4dbcff73920db5e.gpx",
-    "_geoloc": {
-        "lat": 54.3089090677,
-        "lng": -0.7437723181
+  "created_at": "2025-01-06T03:40:26.457287+00:00",
+  "objectID": "b27e51151517f526e4dbcff73920db5e",
+  "ref": "levisham-circular-walk-walking-route",
+  "title": "Levisham Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_towards_Dundale_-_geograph.org.uk_-_986844.jpg",
+  "nearby": [
+    {
+      "description": "Hole of Horcum",
+      "objectID": "2f836d52cfc5a59ce322d77f15081604",
+      "ref": "hole-of-horcum-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_towards_Dundale_-_geograph.org.uk_-_986844.jpg",
-            "title": "Peter Church / South towards Dundale",
-            "caption": "South towards Dundale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dundale_Pond_-_geograph.org.uk_-_985253.jpg",
-            "title": "Peter Church / Dundale Pond",
-            "caption": "Dundale Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Towards_Cross_Dykes_-_geograph.org.uk_-_986814.jpg",
-            "title": "Peter Church / Towards Cross Dykes",
-            "caption": "Towards Cross Dykes"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hole_of_Horcum_-_geograph.org.uk_-_659764.jpg",
-            "title": "dennis smith / Hole of Horcum",
-            "caption": "Hole of Horcum"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Pepperpot_on_Bridestones_Moor_-_geograph.org.uk_-_1514208.jpg",
-            "title": "David Hillas [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The Pepperpot on Bridestones Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dovedale%2C_Dalby_Forest_-_geograph.org.uk_-_1601545.jpg/330px-Dovedale%2C_Dalby_Forest_-_geograph.org.uk_-_1601545.jpg",
-            "title": "Hugh Chappell / Dovedale, Dalby Forest",
-            "caption": "Dovedale, Dalby Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Grass_field_adjacent_to_A169_near_Lockton_-_geograph.org.uk_-_225301.jpg",
-            "title": "Phil Catterall / Grass field adjacent to A169 near Lockton",
-            "caption": "Grass field adjacent to A169 near Lockton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Levisham_Beck_-_geograph.org.uk_-_191957.jpg",
-            "title": "Scott Rimmer [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Levisham Beck"
-        }
-    ],
-    "distance_km": 19.3,
-    "description": "A circular walk exploring the North York Moors around the village of Levisham. The walk visits two of the highlights of the area at the Hole of Horcum and Bridestones. The walk starts at Levisham Station on the North Yorkshire Moors Railway. You can catch the heritage railway from the nearby town of Pickering. Follow the country lane north east from the station and you can pick up footpaths up to Dundale Pond on Levisham Moor. Follow the trail across the moor and look out for the Bronze Age barrows and late Iron Age boundary dykes which expose the ancient history of the area. At the top of the path you can take a detour south to visit the Hole of Horcum. This stunning natural amphitheatre was created over thousands of years by a series of landslides caused by water pressure. The moor is great for flora and fauna. Look out for wild flowers, purple heather, deer, grouse, curlew, lapwing, merlin and golden plover as you make your way through the area. The route then picks up the Old Wife's Way and heads south east towards Dalby Forest and the Bridestones. This is another photogenic spot with a series of striking sandstone sculptures dating back to the Jurassic period 150 million years ago. After exploring the Bridestone the route then continues south through the pretty Dove Dale on the edge of Dalby Forest. From here you head west following country lanes and footpaths back to the train station. The first section of this walk uses part of the Tabular Hills Walk. You can extend your walk on this long distance trail which will take you east through Dalby Forest to Wykeham Forest .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In the village there's a notable pub in the form of the 19th century Horseshoe Inn. It's in a lovely spot in the pretty village and includes a nice outdoor seating area if the weather is fine. The pub was featured in an article for The Telegraph's 'The 30 best winter pubs in Britain, for dog-lovers, walkers, foodies and more'. There's a good menu and a warm welcome at the this traditional country pub. You can find the pub at postcode YO18 7NL. They also have a sister pub in Lockton called the Fox and Rabbit. There's another splendid outdoor area with fine views of the countryside here. Just to the east of Levisham is the neighbouring village of Lockton. Here you'll find delightful Loft Tea Rooms and Gallery. These delightful tea rooms are the ideal place to enjoy a cream tea after your walk. It's an idyllic setting with the tea rooms surrounded by pretty gardens and attractive North York Moors countryside. The site includes a lovely gallery which showcases the work of local artists who have painted the beautiful surroundings. There's also Tag\u2019s Bistro which offers a varied range of dining options and an evening menu. You can find the cafe in the village on Hudgin Lane with a postcode of YO18 7QA for you sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "On the western side of Levisham Moor you'll find the wonderfully positioned Skelton Tower. The tower dates from 1830 and sits perched high above the moor in a dramatic and picturesque spot. There are great views over Goathland Moor and the steam trains of the North York Moors Railway below. It's a great spot to take some stunning photos. Also to the west is the expansive Cropton Forest and the historic villages of Hutton-le-Hole and Lastingham, where you'll find the excellent Ryedale Folk Museum and the noteworthy 11th century St Mary's church respectively. For more walking ideas in the area see the North York Moors Walks page."
-        }
-    ],
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Levisham, Newton upon Rawcliffe, North Yorkshire, York and North Yorkshire, England, YO18 7NN, United Kingdom",
-    "postcode": "YO18 7NN",
-    "district": "Newton upon Rawcliffe",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "3-4 hours",
-    "difficulty": "moderate",
-    "terrain": ["moorland", "woodland"],
-    "points_of_interest": [
-        "archaeological site",
-        "natural amphitheatre",
-        "sandstone sculptures"
-    ],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bridestones",
+      "objectID": "0f0c1f783e1f5b696b30ecb53e4ae7ac",
+      "ref": "bridestones-walking-route"
+    },
+    {
+      "description": "Pickering",
+      "objectID": "8463cd586b92ae63a57a051352630d24",
+      "ref": "pickering-walking-route"
+    },
+    {
+      "description": "Dalby Forest",
+      "objectID": "444fb3d84019bfb0cf1d3bee105c7dda",
+      "ref": "dalby-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Wykeham Forest",
+      "objectID": "decc0796f0bbabb327dc710cb721af16",
+      "ref": "wykeham-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Hackness",
+      "objectID": "ce1b8692e494b9d4a7676fc0dfb0a4ed",
+      "ref": "hackness-walking-route"
+    },
+    {
+      "description": "Forge Valley Woods",
+      "objectID": "8ae04bd75322a3680e85379c49f4e057",
+      "ref": "forge-valley-woods-walking-route"
+    },
+    {
+      "description": "West Ayton",
+      "objectID": "f5f97c4a6c3fa49aedd026dab88858fa",
+      "ref": "west-ayton-walking-route"
+    },
+    {
+      "description": "Cropton Forest",
+      "objectID": "0564e826f5ef162e992343a060dcd47b",
+      "ref": "cropton-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Hutton-le-Hole",
+      "objectID": "2da787b14c6048f2dbc3c198d01fb55c",
+      "ref": "hutton-le-hole-walking-route"
+    },
+    {
+      "description": "Lastingham",
+      "objectID": "edf543b88d148348bcb96bd796891c4b",
+      "ref": "lastingham-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b27e51151517f526e4dbcff73920db5e.gpx",
+  "_geoloc": {
+    "lat": 54.3089090677,
+    "lng": -0.7437723181
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_towards_Dundale_-_geograph.org.uk_-_986844.jpg",
+      "title": "Peter Church / South towards Dundale",
+      "caption": "South towards Dundale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dundale_Pond_-_geograph.org.uk_-_985253.jpg",
+      "title": "Peter Church / Dundale Pond",
+      "caption": "Dundale Pond"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Towards_Cross_Dykes_-_geograph.org.uk_-_986814.jpg",
+      "title": "Peter Church / Towards Cross Dykes",
+      "caption": "Towards Cross Dykes"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hole_of_Horcum_-_geograph.org.uk_-_659764.jpg",
+      "title": "dennis smith / Hole of Horcum",
+      "caption": "Hole of Horcum"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Pepperpot_on_Bridestones_Moor_-_geograph.org.uk_-_1514208.jpg",
+      "title": "David Hillas [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The Pepperpot on Bridestones Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dovedale%2C_Dalby_Forest_-_geograph.org.uk_-_1601545.jpg/330px-Dovedale%2C_Dalby_Forest_-_geograph.org.uk_-_1601545.jpg",
+      "title": "Hugh Chappell / Dovedale, Dalby Forest",
+      "caption": "Dovedale, Dalby Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Grass_field_adjacent_to_A169_near_Lockton_-_geograph.org.uk_-_225301.jpg",
+      "title": "Phil Catterall / Grass field adjacent to A169 near Lockton",
+      "caption": "Grass field adjacent to A169 near Lockton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Levisham_Beck_-_geograph.org.uk_-_191957.jpg",
+      "title": "Scott Rimmer [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Levisham Beck"
+    }
+  ],
+  "distance_km": 19.3,
+  "description": "A circular walk exploring the North York Moors around the village of Levisham. The walk visits two of the highlights of the area at the Hole of Horcum and Bridestones. The walk starts at Levisham Station on the North Yorkshire Moors Railway. You can catch the heritage railway from the nearby town of Pickering. Follow the country lane north east from the station and you can pick up footpaths up to Dundale Pond on Levisham Moor. Follow the trail across the moor and look out for the Bronze Age barrows and late Iron Age boundary dykes which expose the ancient history of the area. At the top of the path you can take a detour south to visit the Hole of Horcum. This stunning natural amphitheatre was created over thousands of years by a series of landslides caused by water pressure. The moor is great for flora and fauna. Look out for wild flowers, purple heather, deer, grouse, curlew, lapwing, merlin and golden plover as you make your way through the area. The route then picks up the Old Wife's Way and heads south east towards Dalby Forest and the Bridestones. This is another photogenic spot with a series of striking sandstone sculptures dating back to the Jurassic period 150 million years ago. After exploring the Bridestone the route then continues south through the pretty Dove Dale on the edge of Dalby Forest. From here you head west following country lanes and footpaths back to the train station. The first section of this walk uses part of the Tabular Hills Walk. You can extend your walk on this long distance trail which will take you east through Dalby Forest to Wykeham Forest .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village there's a notable pub in the form of the 19th century Horseshoe Inn. It's in a lovely spot in the pretty village and includes a nice outdoor seating area if the weather is fine. The pub was featured in an article for The Telegraph's 'The 30 best winter pubs in Britain, for dog-lovers, walkers, foodies and more'. There's a good menu and a warm welcome at the this traditional country pub. You can find the pub at postcode YO18 7NL. They also have a sister pub in Lockton called the Fox and Rabbit. There's another splendid outdoor area with fine views of the countryside here. Just to the east of Levisham is the neighbouring village of Lockton. Here you'll find delightful Loft Tea Rooms and Gallery. These delightful tea rooms are the ideal place to enjoy a cream tea after your walk. It's an idyllic setting with the tea rooms surrounded by pretty gardens and attractive North York Moors countryside. The site includes a lovely gallery which showcases the work of local artists who have painted the beautiful surroundings. There's also Tag\u2019s Bistro which offers a varied range of dining options and an evening menu. You can find the cafe in the village on Hudgin Lane with a postcode of YO18 7QA for you sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the western side of Levisham Moor you'll find the wonderfully positioned Skelton Tower. The tower dates from 1830 and sits perched high above the moor in a dramatic and picturesque spot. There are great views over Goathland Moor and the steam trains of the North York Moors Railway below. It's a great spot to take some stunning photos. Also to the west is the expansive Cropton Forest and the historic villages of Hutton-le-Hole and Lastingham, where you'll find the excellent Ryedale Folk Museum and the noteworthy 11th century St Mary's church respectively. For more walking ideas in the area see the North York Moors Walks page."
+    }
+  ],
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Levisham, Newton upon Rawcliffe, North Yorkshire, York and North Yorkshire, England, YO18 7NN, United Kingdom",
+  "postcode": "YO18 7NN",
+  "district": "Newton upon Rawcliffe",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "8 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

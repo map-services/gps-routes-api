@@ -96,8 +96,8 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "hill"
@@ -107,11 +107,12 @@
     "viewpoint"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "picnic area",
-    "pub/cafe"
+    "dog friendly",
+    "picnic area"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

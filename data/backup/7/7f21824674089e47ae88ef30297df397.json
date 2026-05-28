@@ -1,112 +1,118 @@
 {
-    "created_at": "2025-01-06T08:20:02.556978+00:00",
-    "objectID": "7f21824674089e47ae88ef30297df397",
-    "ref": "brecon-to-talybont-canal-walk-walking-route",
-    "title": "Brecon to Talybont Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Brecon_Canal_Basin.JPG/500px-Brecon_Canal_Basin.JPG",
-    "nearby": [
-        {
-            "description": "Pencelli",
-            "objectID": "8974a7580ac5a172016a477b2bacb39d",
-            "ref": "pencelli-walking-route"
-        },
-        {
-            "description": "Taff Trail",
-            "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
-            "ref": "taff-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Tor Y Foel",
-            "objectID": "e9a361f24023fefc32ac922622fe6192",
-            "ref": "tor-y-foel-walking-route"
-        },
-        {
-            "description": "Talybont On Usk",
-            "objectID": "d5c131c67edc8ddb2fe6202dab1d2d0f",
-            "ref": "talybont-on-usk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f21824674089e47ae88ef30297df397.gpx",
-    "_geoloc": {
-        "lat": 51.9460802533,
-        "lng": -3.3891240427
+  "created_at": "2025-01-06T08:20:02.556978+00:00",
+  "objectID": "7f21824674089e47ae88ef30297df397",
+  "ref": "brecon-to-talybont-canal-walk-walking-route",
+  "title": "Brecon to Talybont Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Brecon_Canal_Basin.JPG/500px-Brecon_Canal_Basin.JPG",
+  "nearby": [
+    {
+      "description": "Pencelli",
+      "objectID": "8974a7580ac5a172016a477b2bacb39d",
+      "ref": "pencelli-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Brecon_Canal_Basin.JPG/500px-Brecon_Canal_Basin.JPG",
-            "title": "Wiccasha [Public domain], via Wikimedia Commons",
-            "caption": "Brecon Canal Basin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Brynich_Aqueduct_-_geograph.org.uk_-_1384117.jpg",
-            "title": "Philip Halling / The Brynich Aqueduct, via Wikimedia Commons",
-            "caption": "The Brynich Aqueduct carries the Monmouthshire and Brecon Canal over the River Usk."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Storehouse_Bridge_over_Monmouthshire_and_Brecon_Canal_-_geograph.org.uk_-_376834.jpg",
-            "title": "Alan Bowring / Storehouse Bridge over Monmouthshire & Brecon Canal, via Wikimedia Commons",
-            "caption": "Storehouse Bridge over Monmouthshire & Brecon Canal. You'll pass under this bridge (which carries the B4558 between Brecon and Talybont) if following either the Usk Valley Walk along the towpath. The old storehouse which gives its name to the bridge is off to the left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pencelli_Bridge_-_geograph.org.uk_-_1415282.jpg",
-            "title": "Stephen McKay / Pencelli Bridge, via Wikimedia Commons",
-            "caption": "Pencelli Bridge. The Great Western Railway notice on the parapet of the bridge is a reminder that prior to nationalisation in 1948 the Monmouthshire and Brecon Canal was owned by that company. This was not unusual; many canals were acquired by railway companies who were not generally interested in developing canal traffic, seeing it as unwelcome competition to the core business. This was certainly the case on this canal where commercial traffic ceased in the early years of the 20th century, although the canal had to be maintained as a water feed for Newport Docks. The notice itself, couched in archaic legal terms, warns that the bridge is not sufficiently strong to carry exceptional loads; it was probably never intended to act as a road sign, more in the nature of a legal disclaimer."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Monmouthshire_and_Brecon_Canal%2C_near_Pencelli_-_geograph.org.uk_-_1415359.jpg",
-            "title": "Stephen McKay / Monmouthshire & Brecon Canal, near Pencelli, via Wikimedia Commons",
-            "caption": "Monmouthshire & Brecon Canal, near Pencelli. Narrowboats and canoes happily co-exist, although boat steerers have to be careful not to run aground on this notoriously shallow canal. Here a group of youngsters and their adult instructors, probably on some sort of adventure holiday, pause while two boats pass - they all seemed to be having plenty of fun."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lift_Bridge_on_the_Monmouthshire_and_Brecon_Canal_between_Cross_Oak_and_Pencelli_-_geograph.org.uk_-_406081.jpg",
-            "title": "Paul Thomas / Lift Bridge on the Monmouthshire & Brecon Canal between Cross Oak and Pencelli, via Wikimedia Commons",
-            "caption": "Lift Bridge on the Monmouthshire and Brecon Canal between Cross Oak and Pencelli. In use by a local farmer to allow him access to his sheep on the other side of the canal."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Monmouthshire_and_Brecon_Canal%2C_Talybont_-_geograph.org.uk_-_378815.jpg",
-            "title": "Dr Neil Clifton / Monmouthshire and Brecon Canal, Talybont, via Wikimedia Commons",
-            "caption": "Talybont. The bridge is White Hart Bridge No 143, beyond which are the remains on the railway bridge of the former Midland Railway Hereford, Hay and Brecon line."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lift_Bridge_on_the_Monmouthshire_and_Brecon_Canal_at_Talybont-on-Usk_-_geograph.org.uk_-_404901.jpg",
-            "title": "Paul Thomas / Lift Bridge on the Monmouthshire & Brecon Canal at Talybont-on-Usk, via Wikimedia Commons",
-            "caption": "Lift Bridge on the Monmouthshire & Brecon Canal at Talybont-on-Usk"
-        }
-    ],
-    "distance_km": 11.4,
-    "description": "This waterside walk takes you along the opening section of the Monmouthshire and Brecon Canal, from Brecon to the village of Talybont On Usk. The route runs for just over 7 miles on the flat canal towpath, passing a series of aqueducts, old bridges, marinas and weirs. The walk starts from the canal basin in Brecon and heads east towards the Brynich Aqueduct which carries the canal over the River Usk. The route turns south here, taking you to Storehouse Bridge where there's a marina and another aqueduct. The final section runs from Pencelli into Talybont-on-Usk. The small village has a shop and several pubs for refreshments after your walk. You can extend the walk by continuing south to Talybont Reservoir. The Taff Trail runs along the eastern side of the water. There are splendid views over the water to the surrounding hills and beautiful waterfalls near Abercynafon at the southern end of the reservoir. Another walk can be followed along the line of the former Brinore Tramroad which runs south from the canalside wharf in the village around the western flanks of Y Wenallt and Tor Y Foel .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "We recommend heading to the Usk Inn in Talybont at the end of the walk. The pub dates from the 1840s and has a nice outdoor seating area to relax in during the summer months. The old inn is in an enviable position on the edge of the village, opposite the former railway station and yard. You can find it at postcode LD3 7JE. The White Hart is an historic Coaching Inn which has welcomed travelers for over 300 years. Located near the canal it has an extensive menu and a nice outdoor seating area. The inn is dog friendly so you can bring your pooch. You can find the pub at postcode LD3 7JD for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The circular Henry Vaughan Walk starts and finishes in Talybont. The interesting literary walk follows in the footsteps of the 17th century poet Henry Vaughan. It visits the pretty Vaughan Garden and features a series of information panels with details of his life and works."
-        }
-    ],
-    "postcode": "LD3 7DW",
-    "district": "Brecon",
-    "county": "Powys",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Danygaer, Pendre, Brecon, Powys, Cymru / Wales, LD3 7DW, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["canal"],
-    "points_of_interest": [
-        "aqueducts",
-        "bridges",
-        "marinas",
-        "weirs",
-        "reservoir",
-        "waterfall"
-    ],
-    "facilities": ["shop", "pubs", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Taff Trail",
+      "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
+      "ref": "taff-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Tor Y Foel",
+      "objectID": "e9a361f24023fefc32ac922622fe6192",
+      "ref": "tor-y-foel-walking-route"
+    },
+    {
+      "description": "Talybont On Usk",
+      "objectID": "d5c131c67edc8ddb2fe6202dab1d2d0f",
+      "ref": "talybont-on-usk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f21824674089e47ae88ef30297df397.gpx",
+  "_geoloc": {
+    "lat": 51.9460802533,
+    "lng": -3.3891240427
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Brecon_Canal_Basin.JPG/500px-Brecon_Canal_Basin.JPG",
+      "title": "Wiccasha [Public domain], via Wikimedia Commons",
+      "caption": "Brecon Canal Basin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Brynich_Aqueduct_-_geograph.org.uk_-_1384117.jpg",
+      "title": "Philip Halling / The Brynich Aqueduct, via Wikimedia Commons",
+      "caption": "The Brynich Aqueduct carries the Monmouthshire and Brecon Canal over the River Usk."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Storehouse_Bridge_over_Monmouthshire_and_Brecon_Canal_-_geograph.org.uk_-_376834.jpg",
+      "title": "Alan Bowring / Storehouse Bridge over Monmouthshire & Brecon Canal, via Wikimedia Commons",
+      "caption": "Storehouse Bridge over Monmouthshire & Brecon Canal. You'll pass under this bridge (which carries the B4558 between Brecon and Talybont) if following either the Usk Valley Walk along the towpath. The old storehouse which gives its name to the bridge is off to the left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pencelli_Bridge_-_geograph.org.uk_-_1415282.jpg",
+      "title": "Stephen McKay / Pencelli Bridge, via Wikimedia Commons",
+      "caption": "Pencelli Bridge. The Great Western Railway notice on the parapet of the bridge is a reminder that prior to nationalisation in 1948 the Monmouthshire and Brecon Canal was owned by that company. This was not unusual; many canals were acquired by railway companies who were not generally interested in developing canal traffic, seeing it as unwelcome competition to the core business. This was certainly the case on this canal where commercial traffic ceased in the early years of the 20th century, although the canal had to be maintained as a water feed for Newport Docks. The notice itself, couched in archaic legal terms, warns that the bridge is not sufficiently strong to carry exceptional loads; it was probably never intended to act as a road sign, more in the nature of a legal disclaimer."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Monmouthshire_and_Brecon_Canal%2C_near_Pencelli_-_geograph.org.uk_-_1415359.jpg",
+      "title": "Stephen McKay / Monmouthshire & Brecon Canal, near Pencelli, via Wikimedia Commons",
+      "caption": "Monmouthshire & Brecon Canal, near Pencelli. Narrowboats and canoes happily co-exist, although boat steerers have to be careful not to run aground on this notoriously shallow canal. Here a group of youngsters and their adult instructors, probably on some sort of adventure holiday, pause while two boats pass - they all seemed to be having plenty of fun."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lift_Bridge_on_the_Monmouthshire_and_Brecon_Canal_between_Cross_Oak_and_Pencelli_-_geograph.org.uk_-_406081.jpg",
+      "title": "Paul Thomas / Lift Bridge on the Monmouthshire & Brecon Canal between Cross Oak and Pencelli, via Wikimedia Commons",
+      "caption": "Lift Bridge on the Monmouthshire and Brecon Canal between Cross Oak and Pencelli. In use by a local farmer to allow him access to his sheep on the other side of the canal."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Monmouthshire_and_Brecon_Canal%2C_Talybont_-_geograph.org.uk_-_378815.jpg",
+      "title": "Dr Neil Clifton / Monmouthshire and Brecon Canal, Talybont, via Wikimedia Commons",
+      "caption": "Talybont. The bridge is White Hart Bridge No 143, beyond which are the remains on the railway bridge of the former Midland Railway Hereford, Hay and Brecon line."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lift_Bridge_on_the_Monmouthshire_and_Brecon_Canal_at_Talybont-on-Usk_-_geograph.org.uk_-_404901.jpg",
+      "title": "Paul Thomas / Lift Bridge on the Monmouthshire & Brecon Canal at Talybont-on-Usk, via Wikimedia Commons",
+      "caption": "Lift Bridge on the Monmouthshire & Brecon Canal at Talybont-on-Usk"
+    }
+  ],
+  "distance_km": 11.4,
+  "description": "This waterside walk takes you along the opening section of the Monmouthshire and Brecon Canal, from Brecon to the village of Talybont On Usk. The route runs for just over 7 miles on the flat canal towpath, passing a series of aqueducts, old bridges, marinas and weirs. The walk starts from the canal basin in Brecon and heads east towards the Brynich Aqueduct which carries the canal over the River Usk. The route turns south here, taking you to Storehouse Bridge where there's a marina and another aqueduct. The final section runs from Pencelli into Talybont-on-Usk. The small village has a shop and several pubs for refreshments after your walk. You can extend the walk by continuing south to Talybont Reservoir. The Taff Trail runs along the eastern side of the water. There are splendid views over the water to the surrounding hills and beautiful waterfalls near Abercynafon at the southern end of the reservoir. Another walk can be followed along the line of the former Brinore Tramroad which runs south from the canalside wharf in the village around the western flanks of Y Wenallt and Tor Y Foel .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "We recommend heading to the Usk Inn in Talybont at the end of the walk. The pub dates from the 1840s and has a nice outdoor seating area to relax in during the summer months. The old inn is in an enviable position on the edge of the village, opposite the former railway station and yard. You can find it at postcode LD3 7JE. The White Hart is an historic Coaching Inn which has welcomed travelers for over 300 years. Located near the canal it has an extensive menu and a nice outdoor seating area. The inn is dog friendly so you can bring your pooch. You can find the pub at postcode LD3 7JD for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Henry Vaughan Walk starts and finishes in Talybont. The interesting literary walk follows in the footsteps of the 17th century poet Henry Vaughan. It visits the pretty Vaughan Garden and features a series of information panels with details of his life and works."
+    }
+  ],
+  "postcode": "LD3 7DW",
+  "district": "Brecon",
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Danygaer, Pendre, Brecon, Powys, Cymru / Wales, LD3 7DW, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "aqueduct",
+    "bridge",
+    "marina",
+    "weir",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

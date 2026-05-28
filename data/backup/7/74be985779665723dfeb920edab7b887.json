@@ -1,105 +1,116 @@
 {
-    "created_at": "2025-01-06T01:38:17.087230+00:00",
-    "objectID": "74be985779665723dfeb920edab7b887",
-    "ref": "clapham-wood-walking-route",
-    "title": "Clapham Wood Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Clearing_in_Clapham_Wood_-_geograph.org.uk_-_870293.jpg",
-    "nearby": [
-        {
-            "description": "Cissbury Ring",
-            "objectID": "c8d32d89ca24d6ce2b2a0c959fea1329",
-            "ref": "cissbury-ring-walking-route"
-        },
-        {
-            "description": "Chanctonbury Ring",
-            "objectID": "363ee78a1c92cc96afd9561d72428d2c",
-            "ref": "chanctonbury-ring-walking-route"
-        },
-        {
-            "description": "Worthing",
-            "objectID": "4a86996316d33281651e2101a1b1f84a",
-            "ref": "worthing-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/74be985779665723dfeb920edab7b887.gpx",
-    "_geoloc": {
-        "lat": 50.8486848315,
-        "lng": -0.4451786512
+  "created_at": "2025-01-06T01:38:17.087230+00:00",
+  "objectID": "74be985779665723dfeb920edab7b887",
+  "ref": "clapham-wood-walking-route",
+  "title": "Clapham Wood Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Clearing_in_Clapham_Wood_-_geograph.org.uk_-_870293.jpg",
+  "nearby": [
+    {
+      "description": "Cissbury Ring",
+      "objectID": "c8d32d89ca24d6ce2b2a0c959fea1329",
+      "ref": "cissbury-ring-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Clearing_in_Clapham_Wood_-_geograph.org.uk_-_870293.jpg",
-            "title": "Slbs [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Clearing in Clapham Wood. A public footpath can be seen running to the left of the fence. The clearing is large yet seems not to be marked on the OS 50,000 and 25,000 scale maps. It is used as pasture, mostly sheep, some cattle."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grub_Ride%2C_Clapham_Wood_-_geograph.org.uk_-_870413.jpg",
-            "title": "Slbs [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Grub Ride, Clapham Wood. A public footpath crosses Grub Ride at this point; it runs on the left between the signpost and the nearest young oak tree. The oaks were planted in memory of Bert Searle, a woodman well-known locally. Taken in June. Bert Searle's memorial plaque is now almost hidden by undergrowth."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Clapham_Wood_-_geograph.org.uk_-_1333781.jpg",
-            "title": "Simon Carey / Clapham Wood",
-            "caption": "The woods viewed from a footpath that links Longfurlong with another running along the hedge in the centre and looking towards the edge of the woods perched on top of the hill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Junction_of_tracks_in_Clapham_Wood_-_geograph.org.uk_-_870419.jpg",
-            "title": "Slbs / Junction of tracks in Clapham Wood",
-            "caption": "Junction of tracks in the woods. The track branching off to the left is a public footpath leading to Clapham Farm; the track straight ahead is Grub Ride."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Little_Thatch%2C_The_Street_-_geograph.org.uk_-_3568430.jpg",
-            "title": "Little Thatch, The Street by Simon Carey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Little Thatch, The Street. A view of the picturesque thatched cottages in the village of Clapham."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/St_Mary_the_Virgin_-_geograph.org.uk_-_1631983.jpg",
-            "title": "Dave Spicer / St Mary the Virgin",
-            "caption": "St Mary the Virgin. The church dates from the 12th century and is located on the edge of the woods."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_World%27s_End%2C_Patching_-_geograph.org.uk_-_611423.jpg",
-            "title": "Peter Holmes / The World's End, Patching",
-            "caption": "The World's End, Patching. You could pop into the neighbouring village for a stroll and a pint after your exercise."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Field%2C_Clapham_Wood_-_geograph.org.uk_-_3535479.jpg",
-            "title": "Field, Clapham Wood by Simon Carey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Field, Clapham Wood"
-        }
-    ],
-    "distance_km": 3.5,
-    "description": "These mysterious woods are located in the Arun District of West Sussex, next to the village of Clapham. The woods are most well known for paranormal activity including several UFO sightings. They also have some nice public footpaths to follow through the woods. The woods are surrounded by some lovely Sussex countryside and have bluebells growing in the spring. There's parking available at the south western corner of the woods.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Junction cafe is located in the village. They sell a good range of meals and snacks in a delightful setting. You can find them at postcode BN13 3UU. If you prefer a pub lunch then the World\u2019s End in nearby Patching is well worth a look. The fine country pub has a warming wood burner indoors and a lovely garden area to relax in outside. They are located at postcode BN13 3UQ."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "As you'd expect the woodland trails make for a nice dog walk so you'll probably see other owners on your visit. The World's End pub mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area try the circular Worthing Walk. It visits the Iron Age fort at Cissbury Ring before heading across the South Downs to the 11th century ruins of Bramber Castle. Also near the wood is the fort at Chanctonbury Ring. For more walking ideas in the area see the Sussex Walks and South Downs Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/BhXePDEMlss",
-    "county": "West Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Close, Clapham, Arun, West Sussex, England, BN13 3XP, United Kingdom",
-    "postcode": "BN13 3XP",
-    "district": "Arun",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "rural"],
-    "points_of_interest": ["footpath", "countryside"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Chanctonbury Ring",
+      "objectID": "363ee78a1c92cc96afd9561d72428d2c",
+      "ref": "chanctonbury-ring-walking-route"
+    },
+    {
+      "description": "Worthing",
+      "objectID": "4a86996316d33281651e2101a1b1f84a",
+      "ref": "worthing-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/74be985779665723dfeb920edab7b887.gpx",
+  "_geoloc": {
+    "lat": 50.8486848315,
+    "lng": -0.4451786512
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Clearing_in_Clapham_Wood_-_geograph.org.uk_-_870293.jpg",
+      "title": "Slbs [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Clearing in Clapham Wood. A public footpath can be seen running to the left of the fence. The clearing is large yet seems not to be marked on the OS 50,000 and 25,000 scale maps. It is used as pasture, mostly sheep, some cattle."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grub_Ride%2C_Clapham_Wood_-_geograph.org.uk_-_870413.jpg",
+      "title": "Slbs [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Grub Ride, Clapham Wood. A public footpath crosses Grub Ride at this point; it runs on the left between the signpost and the nearest young oak tree. The oaks were planted in memory of Bert Searle, a woodman well-known locally. Taken in June. Bert Searle's memorial plaque is now almost hidden by undergrowth."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Clapham_Wood_-_geograph.org.uk_-_1333781.jpg",
+      "title": "Simon Carey / Clapham Wood",
+      "caption": "The woods viewed from a footpath that links Longfurlong with another running along the hedge in the centre and looking towards the edge of the woods perched on top of the hill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Junction_of_tracks_in_Clapham_Wood_-_geograph.org.uk_-_870419.jpg",
+      "title": "Slbs / Junction of tracks in Clapham Wood",
+      "caption": "Junction of tracks in the woods. The track branching off to the left is a public footpath leading to Clapham Farm; the track straight ahead is Grub Ride."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Little_Thatch%2C_The_Street_-_geograph.org.uk_-_3568430.jpg",
+      "title": "Little Thatch, The Street by Simon Carey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Little Thatch, The Street. A view of the picturesque thatched cottages in the village of Clapham."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/St_Mary_the_Virgin_-_geograph.org.uk_-_1631983.jpg",
+      "title": "Dave Spicer / St Mary the Virgin",
+      "caption": "St Mary the Virgin. The church dates from the 12th century and is located on the edge of the woods."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_World%27s_End%2C_Patching_-_geograph.org.uk_-_611423.jpg",
+      "title": "Peter Holmes / The World's End, Patching",
+      "caption": "The World's End, Patching. You could pop into the neighbouring village for a stroll and a pint after your exercise."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Field%2C_Clapham_Wood_-_geograph.org.uk_-_3535479.jpg",
+      "title": "Field, Clapham Wood by Simon Carey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Field, Clapham Wood"
+    }
+  ],
+  "distance_km": 3.5,
+  "description": "These mysterious woods are located in the Arun District of West Sussex, next to the village of Clapham. The woods are most well known for paranormal activity including several UFO sightings. They also have some nice public footpaths to follow through the woods. The woods are surrounded by some lovely Sussex countryside and have bluebells growing in the spring. There's parking available at the south western corner of the woods.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Junction cafe is located in the village. They sell a good range of meals and snacks in a delightful setting. You can find them at postcode BN13 3UU. If you prefer a pub lunch then the World\u2019s End in nearby Patching is well worth a look. The fine country pub has a warming wood burner indoors and a lovely garden area to relax in outside. They are located at postcode BN13 3UQ."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd expect the woodland trails make for a nice dog walk so you'll probably see other owners on your visit. The World's End pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area try the circular Worthing Walk. It visits the Iron Age fort at Cissbury Ring before heading across the South Downs to the 11th century ruins of Bramber Castle. Also near the wood is the fort at Chanctonbury Ring. For more walking ideas in the area see the Sussex Walks and South Downs Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/BhXePDEMlss",
+  "county": "West Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Close, Clapham, Arun, West Sussex, England, BN13 3XP, United Kingdom",
+  "postcode": "BN13 3XP",
+  "district": "Arun",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

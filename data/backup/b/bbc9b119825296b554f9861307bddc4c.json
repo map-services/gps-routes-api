@@ -1,72 +1,77 @@
 {
-    "created_at": "2025-01-06T10:52:28.667067+00:00",
-    "objectID": "bbc9b119825296b554f9861307bddc4c",
-    "ref": "gwennap-pit-walking-route",
-    "title": "Gwennap Pit Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Redruth%2C_Gwennap_Pit%2C_Busveal_-_geograph.org.uk_-_91928.jpg",
-    "nearby": [
-        {
-            "description": "Redruth",
-            "objectID": "493c97517db66a4daa76c71ec7387fb0",
-            "ref": "redruth-walking-route"
-        },
-        {
-            "description": "Carn Marth",
-            "objectID": "2e59997b1060848abe2a6b3dc486ae59",
-            "ref": "carn-marth-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bbc9b119825296b554f9861307bddc4c.gpx",
-    "_geoloc": {
-        "lat": 50.2315105591,
-        "lng": -5.2036394234
+  "created_at": "2025-01-06T10:52:28.667067+00:00",
+  "objectID": "bbc9b119825296b554f9861307bddc4c",
+  "ref": "gwennap-pit-walking-route",
+  "title": "Gwennap Pit Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Redruth%2C_Gwennap_Pit%2C_Busveal_-_geograph.org.uk_-_91928.jpg",
+  "nearby": [
+    {
+      "description": "Redruth",
+      "objectID": "493c97517db66a4daa76c71ec7387fb0",
+      "ref": "redruth-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Redruth%2C_Gwennap_Pit%2C_Busveal_-_geograph.org.uk_-_91928.jpg",
-            "title": "Martin Bodman / Redruth: Gwennap Pit, Busveal",
-            "caption": "Redruth: Gwennap Pit, Busveal. John Wesley preached here, in a hollow amidst old mine workings. The terraces were constructed following his death"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Display_panel_at_Gwennap_Pit_-_geograph.org.uk_-_801103.jpg",
-            "title": "Rod Allday / Display panel at Gwennap Pit",
-            "caption": "Display panel at Gwennap Pit"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/St_Aubyn_Farm_and_engine_house_-_geograph.org.uk_-_1955366.jpg",
-            "title": "St Aubyn Farm and engine house by Rod Allday, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "St Aubyn Farm and engine house"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Road_Junction_by_Mynheer_Farm_-_geograph.org.uk_-_836555.jpg",
-            "title": "Tony Atkin / Road Junction by Mynheer Farm",
-            "caption": "Road Junction by Mynheer Farm"
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "This walk visits Gwennap Pit in Busveal, Cornwall. The interesting architectural structure is located just to the east of Redruth. The historical site is where the Methodist preacher John Wesley preached several times between 1762 and 1789. The pit was then later transformed into the grassy circular amphitheatre you can see today. There are car parks at the site where you can pick up footpaths around the pit. There's also some pleasant country lanes that you can then follow to the old Busveal mine workings before returning to the car park. You can extend the walk by heading just a mile to the south to visit Carn Marth. Here you will find a fine viewpoint, old quarries and an Amphitheatre where you can enjoy theatrical performances during the summer months.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/vM67R6g8p4k",
-    "postcode": "TR16 5HF",
-    "district": "St. Day",
-    "county": "Cornwall",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Busveal, St. Day, Cornwall, England, TR16 5HF, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["grassland", "rural"],
-    "points_of_interest": [
-        "historical site",
-        "viewpoint",
-        "mine workings",
-        "amphitheatre"
-    ],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Carn Marth",
+      "objectID": "2e59997b1060848abe2a6b3dc486ae59",
+      "ref": "carn-marth-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bbc9b119825296b554f9861307bddc4c.gpx",
+  "_geoloc": {
+    "lat": 50.2315105591,
+    "lng": -5.2036394234
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Redruth%2C_Gwennap_Pit%2C_Busveal_-_geograph.org.uk_-_91928.jpg",
+      "title": "Martin Bodman / Redruth: Gwennap Pit, Busveal",
+      "caption": "Redruth: Gwennap Pit, Busveal. John Wesley preached here, in a hollow amidst old mine workings. The terraces were constructed following his death"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Display_panel_at_Gwennap_Pit_-_geograph.org.uk_-_801103.jpg",
+      "title": "Rod Allday / Display panel at Gwennap Pit",
+      "caption": "Display panel at Gwennap Pit"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/St_Aubyn_Farm_and_engine_house_-_geograph.org.uk_-_1955366.jpg",
+      "title": "St Aubyn Farm and engine house by Rod Allday, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "St Aubyn Farm and engine house"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Road_Junction_by_Mynheer_Farm_-_geograph.org.uk_-_836555.jpg",
+      "title": "Tony Atkin / Road Junction by Mynheer Farm",
+      "caption": "Road Junction by Mynheer Farm"
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "This walk visits Gwennap Pit in Busveal, Cornwall. The interesting architectural structure is located just to the east of Redruth. The historical site is where the Methodist preacher John Wesley preached several times between 1762 and 1789. The pit was then later transformed into the grassy circular amphitheatre you can see today. There are car parks at the site where you can pick up footpaths around the pit. There's also some pleasant country lanes that you can then follow to the old Busveal mine workings before returning to the car park. You can extend the walk by heading just a mile to the south to visit Carn Marth. Here you will find a fine viewpoint, old quarries and an Amphitheatre where you can enjoy theatrical performances during the summer months.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/vM67R6g8p4k",
+  "postcode": "TR16 5HF",
+  "district": "St. Day",
+  "county": "Cornwall",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Busveal, St. Day, Cornwall, England, TR16 5HF, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "amphitheatre"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

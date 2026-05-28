@@ -1,120 +1,130 @@
 {
-    "created_at": "2025-01-06T02:26:04.861880+00:00",
-    "objectID": "64094cd33b9208280c8b2371f393cf87",
-    "ref": "clent-hills-country-park-walking-and-cycle-route",
-    "title": "Clent Hills Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Toposcope_on_the_Clent_Hills_-_geograph.org.uk_-_672203.jpg",
-    "nearby": [
-        {
-            "description": "Uffmoor Wood",
-            "objectID": "a34c0ad38e721d40b8d33edd1290726a",
-            "ref": "uffmoor-wood-walking-route"
-        },
-        {
-            "description": "Hagley Park",
-            "objectID": "7ed249973cef5fd46caa0e97359fbb20",
-            "ref": "hagley-park-walking-route"
-        },
-        {
-            "description": "North Worcestershire Path",
-            "objectID": "3ba181e4b3ed581e600a12f6dea8b88f",
-            "ref": "north-worcestershire-path-walking-route"
-        },
-        {
-            "description": "Titterstone Clee Hill",
-            "objectID": "b7a87ec8b6c414d1d63e8710ca241da7",
-            "ref": "titterstone-clee-hill-walking-route"
-        },
-        {
-            "description": "Brown Clee Hill",
-            "objectID": "51b9d203978b5b1008027f48f422d050",
-            "ref": "brown-clee-hill-walking-route"
-        },
-        {
-            "description": "Waseley Hills Country Park",
-            "objectID": "b90ce2beb28334df7389139c06d35e15",
-            "ref": "waseley-hills-country-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/64094cd33b9208280c8b2371f393cf87.gpx",
-    "_geoloc": {
-        "lat": 52.4164474933,
-        "lng": -2.1092376702
+  "created_at": "2025-01-06T02:26:04.861880+00:00",
+  "objectID": "64094cd33b9208280c8b2371f393cf87",
+  "ref": "clent-hills-country-park-walking-and-cycle-route",
+  "title": "Clent Hills Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Toposcope_on_the_Clent_Hills_-_geograph.org.uk_-_672203.jpg",
+  "nearby": [
+    {
+      "description": "Uffmoor Wood",
+      "objectID": "a34c0ad38e721d40b8d33edd1290726a",
+      "ref": "uffmoor-wood-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Toposcope_on_the_Clent_Hills_-_geograph.org.uk_-_672203.jpg",
-            "title": "Philip Halling / Toposcope on the Clent Hills",
-            "caption": "Toposcope. The summit of the Clent Hills provides wonderful views of the surrounding countryside. This toposcope indicates distance hills as far away as the Sugarloaf near Abergavenny in South Wales."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Path_on_the_Clent_Hills_-_geograph.org.uk_-_850397.jpg",
-            "title": "Mat Fascione / Path on the Clent Hills",
-            "caption": "A dog on one of the hill's footpaths. A view over Adams Hill from here."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/View_to_the_west_from_the_Clent_Hills_-_geograph.org.uk_-_674123.jpg",
-            "title": "Philip Halling / View to the west from the Clent Hills",
-            "caption": "View to the west. View from just west of the toposcope on the Hills. Titterstone Clee Hill (centre) and Brown Clee Hill (right) can be seen on the horizon. Both these hills are a prominent feature of south Shropshire, with Brown Hill Clee at 540m the highest point in the county."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Footpath_through_trees%2C_Clent_Hills_-_geograph.org.uk_-_672215.jpg",
-            "title": "Philip Halling / Footpath through trees, Clent Hills",
-            "caption": "Footpath through trees. Being on the southern edge of the West Midlands conurbation the hills are a popular area for recreation and walking, the footpath pictured here passes to Beech trees near the summit ridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Adams_Hill_-_Clent_-_geograph.org.uk_-_273336.jpg",
-            "title": "Dan Quinn / Adams Hill - Clent",
-            "caption": "Adams Hill. This hill is situated at the foot of the Clent Hills. This side of Clent village is the 'Tourist' side where visitors can stop at one of the pubs or restaurants. The photo has been taken looking south to the 'Hill Tavern' and village. The road still has evidence of the past in the form of an old gas lantern street light (unfortunately not in working condition) that can be found towards the top of the road just below the Four Stones restaurant."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St_Kenelm%27s_Spring%2C_Clent_-_geograph.org.uk_-_673180.jpg/330px-St_Kenelm%27s_Spring%2C_Clent_-_geograph.org.uk_-_673180.jpg",
-            "title": "Philip Halling / St Kenelm's Spring, Clent",
-            "caption": "St Kenelm's Spring, Clent. Behind St Kenelm's church in the Clent Hills is a spring and well near where Kenelm, a Mercia king was allegedly murdered around 820AD. 'Now, take St Kenelm's life which I've been reading; He was Kenulph's son, the nobel king Of Mercia. Now St Kenelm dreamt a thing Shortly before they murdered him one day. He saw his murder in a dream, I say...' - Chaucer, The Nun's Priest's Tale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Clent_Sham_Castle.jpg",
-            "title": "Paul Brooker / Clent Sham Castle",
-            "caption": "Clent Castle is a sham ruin castellated folly in the grounds of Clent Grove (the site of Sunfield Children's Home) that is situated opposite the Fountain Inn on Adams Hill in Clent England. It was built in the late 18th century and it has been designated by English Heritage as a Grade II listed building."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Four_Stones_Folly_-_geograph.org.uk_-_672193.jpg",
-            "title": "Philip Halling / Four Stones Folly",
-            "caption": "Four Stones Folly. Standing on the summit of the hills, Four Stone Folly was created for a Victorian owner of nearby Hagley Hall."
-        }
-    ],
-    "distance_km": 4.5,
-    "description": "This country park in Clent has miles of footpaths and bridleways with breathtaking panoramic views over the Cotswolds, Shropshire Hills and Welsh borders. The park is run by the National Trust who have devised several excellent walking trails through the park. There are also cycling trails that are best suited to mountain bikers. The park is located 10 miles south-west of Birmingham city centre, not far from Stourbridge. The North Worcestershire Path walking route runs through the park if you would like to continue your walk. Hagley Park and hall are also adjacent to the park - here you will find some great footpaths through landscaped parkland. Just a mile to the east you'll find Uffmoor Wood where there are waymarked walking trails in shady bluebell woods.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head into Clent village and you could enjoy some post walk refreshment at The Fountain. The pub has a nice Olde Worlde feel with a charming interior and an outdoor area for warmer days. They serve excellent food and can be found at Adam\u2019s Hill with postcode DY9 9PU for your sat navs. At the site there's a good National Trust Cafe as well."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woodland trails in the park are ideal for dog walking so expect to see other owners on your visit. They can run around off lead in most of the park.  The Fountain pub mentioned above is also dog friendly in the outdoor area."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the north there's the climb to Wychbury Hill to try. Here you'll find an Iron Age hillfort and the noteworthy Wychbury Obelisk. The Grade II listed structure stands at a height of 84 feet (26 m) and is something of a local landmark. It was commissioned as a family memorial and completed in 1758 at the same time as Hagley Park was being redeveloped in the fashionable neoclassical style. Just to the south east there's more fine trails around Waseley Hills Country Park. The park is also home to the source of the River Rea which runs through the area. For more walking ideas in the area see the Worcestershire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/yKz4P0boprk",
-    "postcode": "DY9 9PS",
-    "district": "Bromsgrove",
-    "county": "Worcestershire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Adam's Hill, Clent, Bromsgrove, Worcestershire, England, DY9 9PS, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "parkland"],
-    "points_of_interest": ["footpath", "views"],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Hagley Park",
+      "objectID": "7ed249973cef5fd46caa0e97359fbb20",
+      "ref": "hagley-park-walking-route"
+    },
+    {
+      "description": "North Worcestershire Path",
+      "objectID": "3ba181e4b3ed581e600a12f6dea8b88f",
+      "ref": "north-worcestershire-path-walking-route"
+    },
+    {
+      "description": "Titterstone Clee Hill",
+      "objectID": "b7a87ec8b6c414d1d63e8710ca241da7",
+      "ref": "titterstone-clee-hill-walking-route"
+    },
+    {
+      "description": "Brown Clee Hill",
+      "objectID": "51b9d203978b5b1008027f48f422d050",
+      "ref": "brown-clee-hill-walking-route"
+    },
+    {
+      "description": "Waseley Hills Country Park",
+      "objectID": "b90ce2beb28334df7389139c06d35e15",
+      "ref": "waseley-hills-country-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/64094cd33b9208280c8b2371f393cf87.gpx",
+  "_geoloc": {
+    "lat": 52.4164474933,
+    "lng": -2.1092376702
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Toposcope_on_the_Clent_Hills_-_geograph.org.uk_-_672203.jpg",
+      "title": "Philip Halling / Toposcope on the Clent Hills",
+      "caption": "Toposcope. The summit of the Clent Hills provides wonderful views of the surrounding countryside. This toposcope indicates distance hills as far away as the Sugarloaf near Abergavenny in South Wales."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Path_on_the_Clent_Hills_-_geograph.org.uk_-_850397.jpg",
+      "title": "Mat Fascione / Path on the Clent Hills",
+      "caption": "A dog on one of the hill's footpaths. A view over Adams Hill from here."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/View_to_the_west_from_the_Clent_Hills_-_geograph.org.uk_-_674123.jpg",
+      "title": "Philip Halling / View to the west from the Clent Hills",
+      "caption": "View to the west. View from just west of the toposcope on the Hills. Titterstone Clee Hill (centre) and Brown Clee Hill (right) can be seen on the horizon. Both these hills are a prominent feature of south Shropshire, with Brown Hill Clee at 540m the highest point in the county."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Footpath_through_trees%2C_Clent_Hills_-_geograph.org.uk_-_672215.jpg",
+      "title": "Philip Halling / Footpath through trees, Clent Hills",
+      "caption": "Footpath through trees. Being on the southern edge of the West Midlands conurbation the hills are a popular area for recreation and walking, the footpath pictured here passes to Beech trees near the summit ridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Adams_Hill_-_Clent_-_geograph.org.uk_-_273336.jpg",
+      "title": "Dan Quinn / Adams Hill - Clent",
+      "caption": "Adams Hill. This hill is situated at the foot of the Clent Hills. This side of Clent village is the 'Tourist' side where visitors can stop at one of the pubs or restaurants. The photo has been taken looking south to the 'Hill Tavern' and village. The road still has evidence of the past in the form of an old gas lantern street light (unfortunately not in working condition) that can be found towards the top of the road just below the Four Stones restaurant."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St_Kenelm%27s_Spring%2C_Clent_-_geograph.org.uk_-_673180.jpg/330px-St_Kenelm%27s_Spring%2C_Clent_-_geograph.org.uk_-_673180.jpg",
+      "title": "Philip Halling / St Kenelm's Spring, Clent",
+      "caption": "St Kenelm's Spring, Clent. Behind St Kenelm's church in the Clent Hills is a spring and well near where Kenelm, a Mercia king was allegedly murdered around 820AD. 'Now, take St Kenelm's life which I've been reading; He was Kenulph's son, the nobel king Of Mercia. Now St Kenelm dreamt a thing Shortly before they murdered him one day. He saw his murder in a dream, I say...' - Chaucer, The Nun's Priest's Tale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Clent_Sham_Castle.jpg",
+      "title": "Paul Brooker / Clent Sham Castle",
+      "caption": "Clent Castle is a sham ruin castellated folly in the grounds of Clent Grove (the site of Sunfield Children's Home) that is situated opposite the Fountain Inn on Adams Hill in Clent England. It was built in the late 18th century and it has been designated by English Heritage as a Grade II listed building."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Four_Stones_Folly_-_geograph.org.uk_-_672193.jpg",
+      "title": "Philip Halling / Four Stones Folly",
+      "caption": "Four Stones Folly. Standing on the summit of the hills, Four Stone Folly was created for a Victorian owner of nearby Hagley Hall."
+    }
+  ],
+  "distance_km": 4.5,
+  "description": "This country park in Clent has miles of footpaths and bridleways with breathtaking panoramic views over the Cotswolds, Shropshire Hills and Welsh borders. The park is run by the National Trust who have devised several excellent walking trails through the park. There are also cycling trails that are best suited to mountain bikers. The park is located 10 miles south-west of Birmingham city centre, not far from Stourbridge. The North Worcestershire Path walking route runs through the park if you would like to continue your walk. Hagley Park and hall are also adjacent to the park - here you will find some great footpaths through landscaped parkland. Just a mile to the east you'll find Uffmoor Wood where there are waymarked walking trails in shady bluebell woods.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Clent village and you could enjoy some post walk refreshment at The Fountain. The pub has a nice Olde Worlde feel with a charming interior and an outdoor area for warmer days. They serve excellent food and can be found at Adam\u2019s Hill with postcode DY9 9PU for your sat navs. At the site there's a good National Trust Cafe as well."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails in the park are ideal for dog walking so expect to see other owners on your visit. They can run around off lead in most of the park.  The Fountain pub mentioned above is also dog friendly in the outdoor area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north there's the climb to Wychbury Hill to try. Here you'll find an Iron Age hillfort and the noteworthy Wychbury Obelisk. The Grade II listed structure stands at a height of 84 feet (26 m) and is something of a local landmark. It was commissioned as a family memorial and completed in 1758 at the same time as Hagley Park was being redeveloped in the fashionable neoclassical style. Just to the south east there's more fine trails around Waseley Hills Country Park. The park is also home to the source of the River Rea which runs through the area. For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/yKz4P0boprk",
+  "postcode": "DY9 9PS",
+  "district": "Bromsgrove",
+  "county": "Worcestershire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Adam's Hill, Clent, Bromsgrove, Worcestershire, England, DY9 9PS, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

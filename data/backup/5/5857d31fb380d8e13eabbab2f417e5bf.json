@@ -85,22 +85,24 @@
   "district": "North East Derbyshire",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "waterside"
-  ],
-  "points_of_interest": [
+    "waterside",
     "woodland"
   ],
+  "points_of_interest": [
+    "reservoir"
+  ],
   "facilities": [
+    "pub/cafe",
     "car park",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
+    "walking",
     "cycling",
-    "walking"
+    "dog walking"
   ]
 }

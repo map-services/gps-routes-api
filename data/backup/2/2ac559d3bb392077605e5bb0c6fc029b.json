@@ -1,81 +1,92 @@
 {
-    "created_at": "2025-01-06T03:03:43.582353+00:00",
-    "objectID": "2ac559d3bb392077605e5bb0c6fc029b",
-    "ref": "gnoll-estate-country-park-walking-route",
-    "title": "Gnoll Estate Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gnoll_Visitor_Centre_-_geograph.org.uk_-_1358482.jpg",
-    "nearby": [
-        {
-            "description": "Aberdulais Falls",
-            "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
-            "ref": "aberdulais-falls-walking-route"
-        },
-        {
-            "description": "Neath Canal",
-            "objectID": "a56769f1dd963e25165dfd9e336906c5",
-            "ref": "neath-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Tennant Canal",
-            "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
-            "ref": "tennant-canal-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2ac559d3bb392077605e5bb0c6fc029b.gpx",
-    "_geoloc": {
-        "lat": 51.6595513483,
-        "lng": -3.794674422
+  "created_at": "2025-01-06T03:03:43.582353+00:00",
+  "objectID": "2ac559d3bb392077605e5bb0c6fc029b",
+  "ref": "gnoll-estate-country-park-walking-route",
+  "title": "Gnoll Estate Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gnoll_Visitor_Centre_-_geograph.org.uk_-_1358482.jpg",
+  "nearby": [
+    {
+      "description": "Aberdulais Falls",
+      "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
+      "ref": "aberdulais-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gnoll_Visitor_Centre_-_geograph.org.uk_-_1358482.jpg",
-            "title": "Robert Davies / Gnoll Visitor Centre",
-            "caption": "Gnoll Visitor Centre. The pond in the foreground once helped power machinery in Mackworths' battery mills. Prior to the construction of this pond, the old highway from Neath to Efail Fach and Michaelston super Avon (Cwmafan) passed through here."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cascade_at_Mosshouse_Woods%2C_Gnoll_Country_Park_-_geograph.org.uk_-_1308670.jpg/330px-Cascade_at_Mosshouse_Woods%2C_Gnoll_Country_Park_-_geograph.org.uk_-_1308670.jpg",
-            "title": "Robert Davies / Cascade at Mosshouse Woods, Gnoll Country Park",
-            "caption": "Waterfall cascade at Mosshouse Woods. The Gnoll Country Park has two cascades, this is the 180 feet high informal cascade situated at Mosshouse Woods. It dates from around 1740 and since 1899 fed Neath's Mosshouse reservoir. In the 18th. century there was a means of damming the water at the top so that it could be released in an impressive surge for the amusement of guests of the Mackworth family who then owned the Gnoll Estate. After rain it's well worth a visit."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mosshouse_Wood_Reservoir_%28geograph_5935730%29.jpg/500px-Mosshouse_Wood_Reservoir_%28geograph_5935730%29.jpg",
-            "title": "Alan Hughes / Mosshouse Wood Reservoir",
-            "caption": "Mosshouse Wood Reservoir. View of the Reservoir from the south-western corner. Set within the Gnoll Country estate the Mosshouse Wood Reservoir has a capacity of 5 million gallons and used to supply the town of Neath."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gnoll_Brook_-_geograph.org.uk_-_1374298.jpg",
-            "title": "Robert Davies / Gnoll Brook",
-            "caption": "The Gnoll Brook at the point where it flows from the Great Pond, Neath's swimming pool until the construction of a more modern one at Dyfed Road. This brook once powered the water wheels of the Mackworth mills."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Explore 240 acres of woodland and wide open spaces in this country park in Neath. There are miles of walking trails taking you to Mosshouse Wood Reservoir, Mosshouse Woods, two large duck ponds, two impressive 18th century cascades and the Gnoll House ruins. Gnoll Park was voted as the Best Picnic spot in Wales in the 2010 Warburtons National Picnic Awards. The park is located just a short walk from Neath town centre. There is a lovely waterside walking path running along the nearby Neath River and Neath Canal so this is a good option if you would like to continue your walk. You could also visit the delightful Aberdulais Falls located just north of the park. The Tennant Canal also runs through the area and can be followed west towards Swansea.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a good on site cafe located close to the lake. They serve a decent range of meals and snacks in a lovely setting."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The expansive park is ideal for dog walking so you're bound to bump into other owners on a fine day."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/7_LyvySlIlA",
-    "postcode": "SA11 3TF",
-    "district": "Neath",
-    "county": "Neath Port Talbot",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Gnoll Crescent, Cimla, Neath, Neath Port Talbot, Cymru / Wales, SA11 3TF, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland"],
-    "points_of_interest": ["ruins", "waterfall", "canal"],
-    "facilities": ["car park", "dog friendly", "visitor center"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Neath Canal",
+      "objectID": "a56769f1dd963e25165dfd9e336906c5",
+      "ref": "neath-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Tennant Canal",
+      "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
+      "ref": "tennant-canal-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2ac559d3bb392077605e5bb0c6fc029b.gpx",
+  "_geoloc": {
+    "lat": 51.6595513483,
+    "lng": -3.794674422
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gnoll_Visitor_Centre_-_geograph.org.uk_-_1358482.jpg",
+      "title": "Robert Davies / Gnoll Visitor Centre",
+      "caption": "Gnoll Visitor Centre. The pond in the foreground once helped power machinery in Mackworths' battery mills. Prior to the construction of this pond, the old highway from Neath to Efail Fach and Michaelston super Avon (Cwmafan) passed through here."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cascade_at_Mosshouse_Woods%2C_Gnoll_Country_Park_-_geograph.org.uk_-_1308670.jpg/330px-Cascade_at_Mosshouse_Woods%2C_Gnoll_Country_Park_-_geograph.org.uk_-_1308670.jpg",
+      "title": "Robert Davies / Cascade at Mosshouse Woods, Gnoll Country Park",
+      "caption": "Waterfall cascade at Mosshouse Woods. The Gnoll Country Park has two cascades, this is the 180 feet high informal cascade situated at Mosshouse Woods. It dates from around 1740 and since 1899 fed Neath's Mosshouse reservoir. In the 18th. century there was a means of damming the water at the top so that it could be released in an impressive surge for the amusement of guests of the Mackworth family who then owned the Gnoll Estate. After rain it's well worth a visit."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mosshouse_Wood_Reservoir_%28geograph_5935730%29.jpg/500px-Mosshouse_Wood_Reservoir_%28geograph_5935730%29.jpg",
+      "title": "Alan Hughes / Mosshouse Wood Reservoir",
+      "caption": "Mosshouse Wood Reservoir. View of the Reservoir from the south-western corner. Set within the Gnoll Country estate the Mosshouse Wood Reservoir has a capacity of 5 million gallons and used to supply the town of Neath."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gnoll_Brook_-_geograph.org.uk_-_1374298.jpg",
+      "title": "Robert Davies / Gnoll Brook",
+      "caption": "The Gnoll Brook at the point where it flows from the Great Pond, Neath's swimming pool until the construction of a more modern one at Dyfed Road. This brook once powered the water wheels of the Mackworth mills."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Explore 240 acres of woodland and wide open spaces in this country park in Neath. There are miles of walking trails taking you to Mosshouse Wood Reservoir, Mosshouse Woods, two large duck ponds, two impressive 18th century cascades and the Gnoll House ruins. Gnoll Park was voted as the Best Picnic spot in Wales in the 2010 Warburtons National Picnic Awards. The park is located just a short walk from Neath town centre. There is a lovely waterside walking path running along the nearby Neath River and Neath Canal so this is a good option if you would like to continue your walk. You could also visit the delightful Aberdulais Falls located just north of the park. The Tennant Canal also runs through the area and can be followed west towards Swansea.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe located close to the lake. They serve a decent range of meals and snacks in a lovely setting."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive park is ideal for dog walking so you're bound to bump into other owners on a fine day."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/7_LyvySlIlA",
+  "postcode": "SA11 3TF",
+  "district": "Neath",
+  "county": "Neath Port Talbot",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Gnoll Crescent, Cimla, Neath, Neath Port Talbot, Cymru / Wales, SA11 3TF, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "reservoir",
+    "ruin",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

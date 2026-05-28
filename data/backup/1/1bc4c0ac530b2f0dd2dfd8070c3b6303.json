@@ -1,101 +1,110 @@
 {
-    "created_at": "2025-01-06T08:45:32.533620+00:00",
-    "objectID": "1bc4c0ac530b2f0dd2dfd8070c3b6303",
-    "ref": "coniston-to-langdale-walking-route",
-    "title": "Coniston to Langdale Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coniston_Village_-_geograph.org.uk_-_1544554.jpg",
-    "nearby": [
-        {
-            "description": "Tarn Hows",
-            "objectID": "77d01f30057b7497362adbbfffa13633",
-            "ref": "tarn-hows-walking-route"
-        },
-        {
-            "description": "Chapel Stile",
-            "objectID": "4e2d3c8b0469dff31e752755c0da3eca",
-            "ref": "chapel-stile-walking-route"
-        },
-        {
-            "description": "Elterwater",
-            "objectID": "f9f74d00bea39fef2bc996fd0c85a4a0",
-            "ref": "elterwater-walking-route"
-        },
-        {
-            "description": "Elterwater Waterfalls Walk",
-            "objectID": "38a6fb3c274aea8585fba9fabd3d1875",
-            "ref": "elterwater-waterfalls-walk-walking-route"
-        },
-        {
-            "description": "Skelwith Bridge",
-            "objectID": "3529e430ff56718af791acb41e356e60",
-            "ref": "skelwith-bridge-walking-route"
-        },
-        {
-            "description": "Langdale Pikes",
-            "objectID": "e13b02cbeda30e31600a89d9170e0f47",
-            "ref": "langdale-pikes-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1bc4c0ac530b2f0dd2dfd8070c3b6303.gpx",
-    "_geoloc": {
-        "lat": 54.370918,
-        "lng": -3.071638
+  "created_at": "2025-01-06T08:45:32.533620+00:00",
+  "objectID": "1bc4c0ac530b2f0dd2dfd8070c3b6303",
+  "ref": "coniston-to-langdale-walking-route",
+  "title": "Coniston to Langdale Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coniston_Village_-_geograph.org.uk_-_1544554.jpg",
+  "nearby": [
+    {
+      "description": "Tarn Hows",
+      "objectID": "77d01f30057b7497362adbbfffa13633",
+      "ref": "tarn-hows-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coniston_Village_-_geograph.org.uk_-_1544554.jpg",
-            "title": "Peter Trimming / Coniston Village",
-            "caption": "Coniston Village. The main street pictured from the bridge over Church Beck. Long Crag, the lower part of Yew Pike, dominates the skyline."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tarn_Hows_winter.jpg/500px-Tarn_Hows_winter.jpg",
-            "title": "Mjobling at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Tarn Hows winter"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Skelwith_Bridge_-_geograph.org.uk_-_2032290.jpg",
-            "title": "Skelwith Bridge by George Hopkins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Skelwith Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Langdale_Pikes_From_Elterwater_-_geograph.org.uk_-_356345.jpg",
-            "title": "Geoff Kowalczyk / The Langdale Pikes From Elterwater",
-            "caption": "The Langdale Pikes From Elterwater"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Church_in_Chapel_Stile_-_geograph.org.uk_-_32781.jpg",
-            "title": "George Ford / Church in Chapel Stile",
-            "caption": "Church in Chapel Stile"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Langdale.jpg/500px-Langdale.jpg",
-            "title": "No machine-readable author provided. Rob Cowie assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-            "caption": "Langdale"
-        }
-    ],
-    "distance_km": 17.0,
-    "description": "This is the second leg of the Cumbria Way taking you from Coniston to Langdale. The walk starts in the village of Coniston and takes you to the picturesque Tarn Hows, Skelwith Bridge, the village of Elterwater and then onto Langdale. There's much to enjoy on this leg including Elterwater Lake, the little village of Chapel Stile, Skelwith Force Waterfalls and fabulous views of Langdale Pikes .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "At Skelwith Bridge you can enjoy refreshments at the lovely Chesters by the River cafe. Here you'll find a nice riverside deck where you can sit outside and enjoy lunch on finer days. There's delicious salads, specials, cakes and a shop where you can buy souvenirs. You can find it at postcode LA22 9NW for your sat navs."
-        }
-    ],
-    "district": "Coniston",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Shepherd's Bridge Lane, Dixon Ground, Coniston, Westmorland and Furness, England, LA21 8AL, United Kingdom",
-    "postcode": "LA21 8AL",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["lake", "woodland", "waterfall"],
-    "points_of_interest": ["lake", "village", "waterfall", "mountain views"],
-    "facilities": ["car park", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Chapel Stile",
+      "objectID": "4e2d3c8b0469dff31e752755c0da3eca",
+      "ref": "chapel-stile-walking-route"
+    },
+    {
+      "description": "Elterwater",
+      "objectID": "f9f74d00bea39fef2bc996fd0c85a4a0",
+      "ref": "elterwater-walking-route"
+    },
+    {
+      "description": "Elterwater Waterfalls Walk",
+      "objectID": "38a6fb3c274aea8585fba9fabd3d1875",
+      "ref": "elterwater-waterfalls-walk-walking-route"
+    },
+    {
+      "description": "Skelwith Bridge",
+      "objectID": "3529e430ff56718af791acb41e356e60",
+      "ref": "skelwith-bridge-walking-route"
+    },
+    {
+      "description": "Langdale Pikes",
+      "objectID": "e13b02cbeda30e31600a89d9170e0f47",
+      "ref": "langdale-pikes-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1bc4c0ac530b2f0dd2dfd8070c3b6303.gpx",
+  "_geoloc": {
+    "lat": 54.370918,
+    "lng": -3.071638
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coniston_Village_-_geograph.org.uk_-_1544554.jpg",
+      "title": "Peter Trimming / Coniston Village",
+      "caption": "Coniston Village. The main street pictured from the bridge over Church Beck. Long Crag, the lower part of Yew Pike, dominates the skyline."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tarn_Hows_winter.jpg/500px-Tarn_Hows_winter.jpg",
+      "title": "Mjobling at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Tarn Hows winter"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Skelwith_Bridge_-_geograph.org.uk_-_2032290.jpg",
+      "title": "Skelwith Bridge by George Hopkins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Skelwith Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Langdale_Pikes_From_Elterwater_-_geograph.org.uk_-_356345.jpg",
+      "title": "Geoff Kowalczyk / The Langdale Pikes From Elterwater",
+      "caption": "The Langdale Pikes From Elterwater"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Church_in_Chapel_Stile_-_geograph.org.uk_-_32781.jpg",
+      "title": "George Ford / Church in Chapel Stile",
+      "caption": "Church in Chapel Stile"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Langdale.jpg/500px-Langdale.jpg",
+      "title": "No machine-readable author provided. Rob Cowie assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "caption": "Langdale"
+    }
+  ],
+  "distance_km": 17.0,
+  "description": "This is the second leg of the Cumbria Way taking you from Coniston to Langdale. The walk starts in the village of Coniston and takes you to the picturesque Tarn Hows, Skelwith Bridge, the village of Elterwater and then onto Langdale. There's much to enjoy on this leg including Elterwater Lake, the little village of Chapel Stile, Skelwith Force Waterfalls and fabulous views of Langdale Pikes .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Skelwith Bridge you can enjoy refreshments at the lovely Chesters by the River cafe. Here you'll find a nice riverside deck where you can sit outside and enjoy lunch on finer days. There's delicious salads, specials, cakes and a shop where you can buy souvenirs. You can find it at postcode LA22 9NW for your sat navs."
+    }
+  ],
+  "district": "Coniston",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Shepherd's Bridge Lane, Dixon Ground, Coniston, Westmorland and Furness, England, LA21 8AL, United Kingdom",
+  "postcode": "LA21 8AL",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours 40 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "tarn",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,92 +1,105 @@
 {
-    "created_at": "2025-01-06T05:05:11.796228+00:00",
-    "objectID": "241f73136cc729c1459b82a1c709af98",
-    "ref": "banagher-glen-walking-route",
-    "title": "Banagher Glen and Dam Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Banagher_Glen_-_geograph.org.uk_-_595238.jpg",
-    "nearby": [
-        {
-            "description": "Davagh Forest",
-            "objectID": "19a97b9c0868a21db149b1f5a40c05e7",
-            "ref": "davagh-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Foyle Valley Cycle Route",
-            "objectID": "add48114a4bfc32b1cd6208a5455deb9",
-            "ref": "foyle-valley-cycle-route"
-        },
-        {
-            "description": "Gortin Glen",
-            "objectID": "3744590638405276e7bfbc5bbc8bdd42",
-            "ref": "gortin-glen-walking-and-cycle-route"
-        },
-        {
-            "description": "Garvagh Forest",
-            "objectID": "556090b15a5fb7c2d751177553c68f0a",
-            "ref": "garvagh-forest-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/241f73136cc729c1459b82a1c709af98.gpx",
-    "_geoloc": {
-        "lat": 54.8857138144,
-        "lng": -6.9554962034
+  "created_at": "2025-01-06T05:05:11.796228+00:00",
+  "objectID": "241f73136cc729c1459b82a1c709af98",
+  "ref": "banagher-glen-walking-route",
+  "title": "Banagher Glen and Dam Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Banagher_Glen_-_geograph.org.uk_-_595238.jpg",
+  "nearby": [
+    {
+      "description": "Davagh Forest",
+      "objectID": "19a97b9c0868a21db149b1f5a40c05e7",
+      "ref": "davagh-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Banagher_Glen_-_geograph.org.uk_-_595238.jpg",
-            "title": "Kenneth Allen / Banagher Glen, via Wikimedia Commons",
-            "caption": "Banagher Glen. The sun is slowly filtering through the hidden glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Banagher_Glen_-_geograph.org.uk_-_595242.jpg",
-            "title": "Kenneth Allen / Banagher Glen, via Wikimedia Commons",
-            "caption": "The location is near Strone Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Banagher_Dam_-_panoramio.jpg/500px-Banagher_Dam_-_panoramio.jpg",
-            "title": "Alistair Cunningham, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
-            "caption": "Banagher Dam"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Banagher_Glen_Nature_Reserve_-_geograph.org.uk_-_65067.jpg/330px-Banagher_Glen_Nature_Reserve_-_geograph.org.uk_-_65067.jpg",
-            "title": "Dr Charles Nelson / Banagher Glen Nature Reserve",
-            "caption": "Banagher Glen Nature Reserve in summer"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stick_Hill_-_geograph.org.uk_-_546663.jpg",
-            "title": "Kenneth Allen / Stick Hill",
-            "caption": "Stick Hill. Edge of woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Stick_Hill_-_geograph.org.uk_-_546659.jpg",
-            "title": "Kenneth Allen / Stick Hill",
-            "caption": "Stick Hill. Looking towards Banagher Forest"
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "Follow the riverside trail through these ancient oak woodlands and look out for red squirrels on this walk through the beautiful Banagher Glen Nature Reserve. The walk takes you through a steep ravine along the Altnaheglish river leading to the Altnaheglish Reservoir at the end of the route. Along the way you'll pass oak, ash, hazel, hawthorn and holly trees with lots of wildlife to look out for. There's also pretty waterfalls, wonderful views of the Sperrin Mountains and the splendid Banagher Dam to enjoy. You can start the walk from the car park at Strone Hill, a few miles south of Dungiven. From here you pick up the riverside trail heading east towards the reservoir, passing Teeavan Hill and Streeve Mountain. To the south there's the expansive Davagh Forest where you'll find miles of footpaths and a red graded mountain bike trail. The forest sits within the Sperrin Mountains AONB where you'll find numerous challenging walking trails. Near here there's also Gortin Glen where you'll find another red graded mountain bike trail and a series of waymarked footpaths. The circular trail around Loughmacrory Lough can also be found in this area.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head west into Derry city and you can pick up the Foyle Valley Cycle Route. The ride takes you along a dismantled railway and the River Foyle to Lifford and Strabane. The opening section is traffic free so suitable for walkers. In the city you can also try the popular Derry Walls Walk which takes you along the top of the historic ramparts. To the north east there's Garvagh Forest where there's some popular mountain bike trails, peaceful walks and an unusual folly in the shape of a pyramid."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Uy6RFXHKw8M",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Cushcapple Bridge, County Londonderry, Northern Ireland / Tuaisceart \u00c9ireann, BT47 4TX, United Kingdom",
-    "postcode": "BT47 4TX",
-    "district": null,
-    "county": "County Londonderry",
-    "region": null,
-    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["viewpoint", "waterfall", "dam"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Foyle Valley Cycle Route",
+      "objectID": "add48114a4bfc32b1cd6208a5455deb9",
+      "ref": "foyle-valley-cycle-route"
+    },
+    {
+      "description": "Gortin Glen",
+      "objectID": "3744590638405276e7bfbc5bbc8bdd42",
+      "ref": "gortin-glen-walking-and-cycle-route"
+    },
+    {
+      "description": "Garvagh Forest",
+      "objectID": "556090b15a5fb7c2d751177553c68f0a",
+      "ref": "garvagh-forest-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/241f73136cc729c1459b82a1c709af98.gpx",
+  "_geoloc": {
+    "lat": 54.8857138144,
+    "lng": -6.9554962034
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Banagher_Glen_-_geograph.org.uk_-_595238.jpg",
+      "title": "Kenneth Allen / Banagher Glen, via Wikimedia Commons",
+      "caption": "Banagher Glen. The sun is slowly filtering through the hidden glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Banagher_Glen_-_geograph.org.uk_-_595242.jpg",
+      "title": "Kenneth Allen / Banagher Glen, via Wikimedia Commons",
+      "caption": "The location is near Strone Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Banagher_Dam_-_panoramio.jpg/500px-Banagher_Dam_-_panoramio.jpg",
+      "title": "Alistair Cunningham, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "caption": "Banagher Dam"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Banagher_Glen_Nature_Reserve_-_geograph.org.uk_-_65067.jpg/330px-Banagher_Glen_Nature_Reserve_-_geograph.org.uk_-_65067.jpg",
+      "title": "Dr Charles Nelson / Banagher Glen Nature Reserve",
+      "caption": "Banagher Glen Nature Reserve in summer"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stick_Hill_-_geograph.org.uk_-_546663.jpg",
+      "title": "Kenneth Allen / Stick Hill",
+      "caption": "Stick Hill. Edge of woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Stick_Hill_-_geograph.org.uk_-_546659.jpg",
+      "title": "Kenneth Allen / Stick Hill",
+      "caption": "Stick Hill. Looking towards Banagher Forest"
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "Follow the riverside trail through these ancient oak woodlands and look out for red squirrels on this walk through the beautiful Banagher Glen Nature Reserve. The walk takes you through a steep ravine along the Altnaheglish river leading to the Altnaheglish Reservoir at the end of the route. Along the way you'll pass oak, ash, hazel, hawthorn and holly trees with lots of wildlife to look out for. There's also pretty waterfalls, wonderful views of the Sperrin Mountains and the splendid Banagher Dam to enjoy. You can start the walk from the car park at Strone Hill, a few miles south of Dungiven. From here you pick up the riverside trail heading east towards the reservoir, passing Teeavan Hill and Streeve Mountain. To the south there's the expansive Davagh Forest where you'll find miles of footpaths and a red graded mountain bike trail. The forest sits within the Sperrin Mountains AONB where you'll find numerous challenging walking trails. Near here there's also Gortin Glen where you'll find another red graded mountain bike trail and a series of waymarked footpaths. The circular trail around Loughmacrory Lough can also be found in this area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west into Derry city and you can pick up the Foyle Valley Cycle Route. The ride takes you along a dismantled railway and the River Foyle to Lifford and Strabane. The opening section is traffic free so suitable for walkers. In the city you can also try the popular Derry Walls Walk which takes you along the top of the historic ramparts. To the north east there's Garvagh Forest where there's some popular mountain bike trails, peaceful walks and an unusual folly in the shape of a pyramid."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Uy6RFXHKw8M",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Cushcapple Bridge, County Londonderry, Northern Ireland / Tuaisceart \u00c9ireann, BT47 4TX, United Kingdom",
+  "postcode": "BT47 4TX",
+  "district": null,
+  "county": "County Londonderry",
+  "region": null,
+  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "ravine"
+  ],
+  "points_of_interest": [
+    "reservoir",
+    "waterfall",
+    "viewpoint",
+    "dam"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,82 +1,95 @@
 {
-    "created_at": "2025-01-06T01:11:19.901488+00:00",
-    "objectID": "7032de924453c04005416cef9c021681",
-    "ref": "biddulph-grange-country-park-walking-route",
-    "title": "Biddulph Grange Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Biddulph_Grange_Garden_-_geograph.org.uk_-_430266.jpg",
-    "nearby": [
-        {
-            "description": "Greenway Bank Country Park",
-            "objectID": "efb638dcc6f550aa5ba80ee4aa90d001",
-            "ref": "greenway-bank-country-park-walking-route"
-        },
-        {
-            "description": "Biddulph Valley Way",
-            "objectID": "22d544993c7c64de4f5868d761694568",
-            "ref": "biddulph-valley-way-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7032de924453c04005416cef9c021681.gpx",
-    "_geoloc": {
-        "lat": 53.1297468826,
-        "lng": -2.1628629341
+  "created_at": "2025-01-06T01:11:19.901488+00:00",
+  "objectID": "7032de924453c04005416cef9c021681",
+  "ref": "biddulph-grange-country-park-walking-route",
+  "title": "Biddulph Grange Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Biddulph_Grange_Garden_-_geograph.org.uk_-_430266.jpg",
+  "nearby": [
+    {
+      "description": "Greenway Bank Country Park",
+      "objectID": "efb638dcc6f550aa5ba80ee4aa90d001",
+      "ref": "greenway-bank-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Biddulph_Grange_Garden_-_geograph.org.uk_-_430266.jpg",
-            "title": "Chris Gunns / Biddulph Grange Garden, via Wikimedia Commons",
-            "caption": "Biddulph Grange Garden"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Biddulph_Grange_Garden_-_geograph.org.uk_-_48582.jpg",
-            "title": "Andrew Huggett / Biddulph Grange Garden, via Wikimedia Commons",
-            "caption": "The Egyptian garden"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chinese_garden_at_Biddulph_Grange_-_geograph.org.uk_-_23321.jpg",
-            "title": "Ian Mitchell / Chinese garden at Biddulph Grange, via Wikimedia Commons",
-            "caption": "Chinese garden at Biddulph Grange. A garden within a garden. Designed by James Bateman."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Biddulph_Grange_across_the_Pond_-_geograph.org.uk_-_951752.jpg",
-            "title": "Sarah Charlesworth / Biddulph Grange across the Pond, via Wikimedia Commons",
-            "caption": "Biddulph Grange across the Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Beech_Grove_-_geograph.org.uk_-_1310801.jpg",
-            "title": "Jonathan Kington / Beech Grove, via Wikimedia Commons",
-            "caption": "Beech Grove. A small stand of Beech trees form a beautiful grove near the entrance to Biddulph Grange Country Park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Bateman_Walk_through_the_Tranquillity_Gardens_-_geograph.org.uk_-_1715357.jpg",
-            "title": "Jonathan Kington / The Bateman Walk through the Tranquillity Gardens, via Wikimedia Commons",
-            "caption": "The Bateman Walk through the Tranquillity Gardens. This path was once the private walk from the Grange. It became very badly overgrown and in 2005, to celebrate their Centenary, Biddulph Rotary Club restored it to its former glory; it is now maintained by Biddulph Town Council. The path is named after the Bateman family who once owned Biddulph Grange and, possibly in particular, James Bateman who designed and created the famous gardens attached to the Grange."
-        }
-    ],
-    "distance_km": 3.5,
-    "description": "This circular walk runs for a distance of about 2 miles on a series of well laid out footpaths in this lovely country park in Biddulph. The 73 acre park includes woodland trails, open meadows and a lake. After your walk head to the visitor centre where you can enjoy refreshments in the cafe. There's also beautiful National Trust gardens which take you on a global journey from Italy to the pyramids of Egypt, a Victorian vision of China and a re-creation of a Himalayan glen. The Staffordshire Moorlands Walks long distance trail runs through the park so there is scope for extending your walk. You could follow the waymarked footpath south to Greenway Bank and Knypersley Reservoir. The park has some nice footpaths taking you to quiet woodland, a lovely waterfall and the Serpentine Pool. There's also the Biddulph Valley Way to try. This shared cycling and walking path takes you to Congleton on a disused railway track.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There is an on site pub for refreshments but if you're in the car you could head to the Gardeners Arms near Knypersley Reservoir. It's a great place to go in the warmer months as it has a large outdoor seating area to relax in. You can find the pub in Brown Lees part way between Stoke and Biddulph at postcode ST8 6PH."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/yEJcnYZOgQg",
-    "postcode": "ST8 7SD",
-    "district": "Staffordshire Moorlands",
-    "county": "Staffordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Biddulph Grange Gardens, Grange Road, Gillow Heath, Biddulph, Biddulph Moor, Staffordshire Moorlands, Staffordshire, England, ST8 7SD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "lake"],
-    "points_of_interest": ["visitor center", "gardens", "trail"],
-    "facilities": ["cafe", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Biddulph Valley Way",
+      "objectID": "22d544993c7c64de4f5868d761694568",
+      "ref": "biddulph-valley-way-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7032de924453c04005416cef9c021681.gpx",
+  "_geoloc": {
+    "lat": 53.1297468826,
+    "lng": -2.1628629341
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Biddulph_Grange_Garden_-_geograph.org.uk_-_430266.jpg",
+      "title": "Chris Gunns / Biddulph Grange Garden, via Wikimedia Commons",
+      "caption": "Biddulph Grange Garden"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Biddulph_Grange_Garden_-_geograph.org.uk_-_48582.jpg",
+      "title": "Andrew Huggett / Biddulph Grange Garden, via Wikimedia Commons",
+      "caption": "The Egyptian garden"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chinese_garden_at_Biddulph_Grange_-_geograph.org.uk_-_23321.jpg",
+      "title": "Ian Mitchell / Chinese garden at Biddulph Grange, via Wikimedia Commons",
+      "caption": "Chinese garden at Biddulph Grange. A garden within a garden. Designed by James Bateman."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Biddulph_Grange_across_the_Pond_-_geograph.org.uk_-_951752.jpg",
+      "title": "Sarah Charlesworth / Biddulph Grange across the Pond, via Wikimedia Commons",
+      "caption": "Biddulph Grange across the Pond"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Beech_Grove_-_geograph.org.uk_-_1310801.jpg",
+      "title": "Jonathan Kington / Beech Grove, via Wikimedia Commons",
+      "caption": "Beech Grove. A small stand of Beech trees form a beautiful grove near the entrance to Biddulph Grange Country Park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Bateman_Walk_through_the_Tranquillity_Gardens_-_geograph.org.uk_-_1715357.jpg",
+      "title": "Jonathan Kington / The Bateman Walk through the Tranquillity Gardens, via Wikimedia Commons",
+      "caption": "The Bateman Walk through the Tranquillity Gardens. This path was once the private walk from the Grange. It became very badly overgrown and in 2005, to celebrate their Centenary, Biddulph Rotary Club restored it to its former glory; it is now maintained by Biddulph Town Council. The path is named after the Bateman family who once owned Biddulph Grange and, possibly in particular, James Bateman who designed and created the famous gardens attached to the Grange."
+    }
+  ],
+  "distance_km": 3.5,
+  "description": "This circular walk runs for a distance of about 2 miles on a series of well laid out footpaths in this lovely country park in Biddulph. The 73 acre park includes woodland trails, open meadows and a lake. After your walk head to the visitor centre where you can enjoy refreshments in the cafe. There's also beautiful National Trust gardens which take you on a global journey from Italy to the pyramids of Egypt, a Victorian vision of China and a re-creation of a Himalayan glen. The Staffordshire Moorlands Walks long distance trail runs through the park so there is scope for extending your walk. You could follow the waymarked footpath south to Greenway Bank and Knypersley Reservoir. The park has some nice footpaths taking you to quiet woodland, a lovely waterfall and the Serpentine Pool. There's also the Biddulph Valley Way to try. This shared cycling and walking path takes you to Congleton on a disused railway track.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is an on site pub for refreshments but if you're in the car you could head to the Gardeners Arms near Knypersley Reservoir. It's a great place to go in the warmer months as it has a large outdoor seating area to relax in. You can find the pub in Brown Lees part way between Stoke and Biddulph at postcode ST8 6PH."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/yEJcnYZOgQg",
+  "postcode": "ST8 7SD",
+  "district": "Staffordshire Moorlands",
+  "county": "Staffordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Biddulph Grange Gardens, Grange Road, Gillow Heath, Biddulph, Biddulph Moor, Staffordshire Moorlands, Staffordshire, England, ST8 7SD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall",
+    "reservoir"
+  ],
+  "facilities": [
+    "cafe",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

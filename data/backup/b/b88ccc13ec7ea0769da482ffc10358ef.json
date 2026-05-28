@@ -89,24 +89,25 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2.5 hours",
+  "difficulty": "easy",
   "terrain": [
+    "heath",
     "woodland",
-    "moorland",
-    "heath"
+    "moorland"
   ],
   "points_of_interest": [
-    "burial mounds",
-    "village"
+    "historical site",
+    "viewpoint",
+    "burial mound"
   ],
   "facilities": [
-    "visitor center",
-    "boardwalks",
-    "viewing platforms"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

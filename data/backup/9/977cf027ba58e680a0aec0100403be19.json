@@ -1,143 +1,142 @@
 {
-    "created_at": "2025-01-05T23:42:21.579788+00:00",
-    "objectID": "977cf027ba58e680a0aec0100403be19",
-    "ref": "lancaster-circular-walk-walking-route",
-    "title": "Lancaster Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lancaster_Priory.jpg",
-    "nearby": [
-        {
-            "description": "Lune Valley Ramble",
-            "objectID": "25c5d1d74f76b40478e940ad881928d9",
-            "ref": "lune-valley-ramble-walking-route"
-        },
-        {
-            "description": "Lancaster Canal",
-            "objectID": "08cea8b165fd73b4fce338356f70285a",
-            "ref": "lancaster-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Lancashire Coastal Way",
-            "objectID": "0684fc813b4fb3da164391e5f4840e2e",
-            "ref": "lancashire-coastal-way-walking-route"
-        },
-        {
-            "description": "Morecambe Bay",
-            "objectID": "c5d7d8ba1cae6b5cf9baa9e51e433dcc",
-            "ref": "morecambe-bay-walking-and-cycle-route"
-        },
-        {
-            "description": "Clougha Pike",
-            "objectID": "eb4af8a83d3a97766e991ab36f8ab5a1",
-            "ref": "clougha-pike-walking-route"
-        },
-        {
-            "description": "Sunderland Point",
-            "objectID": "d2074202bfd896c7acf8755ec2e07c17",
-            "ref": "sunderland-point-walking-route"
-        },
-        {
-            "description": "Way of the Roses",
-            "objectID": "0ebbd693675bceae5ad40c293bb259eb",
-            "ref": "way-of-the-roses-walking-and-cycle-route"
-        },
-        {
-            "description": "Lunesdale Walk",
-            "objectID": "0c3aa38a121784e9c9fdff2fe0ed94af",
-            "ref": "lunesdale-walk-walking-route"
-        },
-        {
-            "description": "Lancaster to Caton",
-            "objectID": "4e5521bccde88ff8c24550bd6f4d88bb",
-            "ref": "lancaster-to-caton-walking-and-cycle-route"
-        },
-        {
-            "description": "Fairfield Nature Reserve",
-            "objectID": "ac8516458ac3dc25a8e0c57aec5ae3e2",
-            "ref": "fairfield-nature-reserve-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/977cf027ba58e680a0aec0100403be19.gpx",
-    "_geoloc": {
-        "lat": 54.0494502413,
-        "lng": -2.8074730397
+  "created_at": "2025-01-05T23:42:21.579788+00:00",
+  "objectID": "977cf027ba58e680a0aec0100403be19",
+  "ref": "lancaster-circular-walk-walking-route",
+  "title": "Lancaster Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lancaster_Priory.jpg",
+  "nearby": [
+    {
+      "description": "Lune Valley Ramble",
+      "objectID": "25c5d1d74f76b40478e940ad881928d9",
+      "ref": "lune-valley-ramble-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lancaster_Priory.jpg",
-            "title": "Alexander P Kapp [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Lancaster Priory"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lancaster_Castle_%285766%29.jpg/500px-Lancaster_Castle_%285766%29.jpg",
-            "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Lancaster Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lune_Millennium_Bridge%2C_west_side.jpg/500px-Lune_Millennium_Bridge%2C_west_side.jpg",
-            "title": "By Rwendland (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
-            "caption": "Lune Millennium Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Greyhound_Bridge_-_geograph.org.uk_-_1328180.jpg",
-            "title": "David Ashcroft [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Greyhound Bridge over the Lune"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Lune_Aqueduct_of_the_Lancaster_Canal%2C_from_the_south_-_geograph.org.uk_-_1334426.jpg",
-            "title": "David Long [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The Lune Aqueduct of the Lancaster Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Folly_Bridge_-_geograph.org.uk_-_1373604.jpg",
-            "title": "Ian Taylor [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Folly Bridge over the Lancaster Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shore_Road_and_Cafe%2C_Hest_Bank_-_geograph.org.uk_-_1477147.jpg",
-            "title": "Stephen Armstrong [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Shore Road and Cafe, Hest Bank"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Morecambe%2C_UK_-_panoramio_%288%29.jpg/500px-Morecambe%2C_UK_-_panoramio_%288%29.jpg",
-            "title": "Immanuel Giel [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-            "caption": "Morecambe Beach"
-        }
-    ],
-    "distance_km": 16.0,
-    "description": "This 10 mile circular walk makes use of three of the long distance trails which run through the area surrounding the city. You'll pass along the River Lune on the Lune Valley Ramble before picking up the Lancaster Canal to take you to the coast. Here you follow the Lancashire Coastal Way to take you to along Morecambe Bay. The walk starts at the train station in the city centre and first heads past Lancaster Castle and Priory. The medieval castle dates from the 12th century and has a fascinating history. You can enjoy the courtyard spaces, external views of the historic building, two small exhibition spaces, and the giftshop without charge, but public access to the interiors of the castle buildings is by guided tour only. From the castle it is a short stroll down to the river where you pick up a nice riverside footpath to the impressive Millennium Bridge. You continue to the lovely Lune Aqueduct of the Lancaster Canal, which rises above the river. The navigable aqueduct carries the Lancaster Canal over the River Lune, and was completed in 1797. The route crosses the river here and continues along the towpath of the canal to Hest Bank on the coast. It's a lovely stretch of the canal with great views of the surrounding Lancashire countryside to enjoy. At Hest Bank you pick up the coastal path to take you into Morecambe. There's lovely views of the attractive beach and the famous Morecambe Bay with lots of wading birds to look out for. The final stage of the walk takes you along the Lancaster to Morecambe Cycleway. The shared surfaced path runs all the way back to the Lune in Lancaster. The city is located on the edge of the Forest of Bowland AONB where there are miles of greating walking routes to try. You could head a few miles to the east and climb to Clougha Pike. From the hill summit there are wonderful views over Morecambe Bay, Snowdonia and the Lake District Fells. Sunderland Point is located south of Lancaster and well worth a visit if you are in the area. There's nice footpaths to follow around a delightful peninsula with salt marsh salt marsh, beach, mud flats, farmland and lots of wildlife to look out for. The Lunesdale Walk is another good option and can be picked up just to the north at Carnforth. It takes you through the Forest of Bowland, visiting many pretty villages and waterways. The long distance Way of the Roses also passes through the city. It will also take you into the Forest of Bowland and then on into the Yorkshire Dales. For another riverside stroll you could try the Lancaster to Caton route. The shared cycling and walking path takes you along the River Lune to nearby Caton.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "On the south western side of the city you will find the Fairfield Nature Reserve. It's a pleasant place for a walk with wetlands, a lovely apple orchard and lots of birdlife to look out for. You can find the reserve in the Abraham Heights area of the city."
-        }
-    ],
-    "postcode": "LA1 5SJ",
-    "district": "Lancaster",
-    "county": "Lancashire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "West Road, Castle and Priory Precinct, Marsh, Lancaster, Lancashire, England, LA1 5SJ, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["river", "canal", "coastal", "hill"],
-    "points_of_interest": [
-        "castle",
-        "aqueduct",
-        "bridge",
-        "beach",
-        "peninsula"
-    ],
-    "facilities": [
-        "visitor center",
-        "giftshop",
-        "car park",
-        "dog friendly",
-        "footpath"
-    ],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Lancaster Canal",
+      "objectID": "08cea8b165fd73b4fce338356f70285a",
+      "ref": "lancaster-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Lancashire Coastal Way",
+      "objectID": "0684fc813b4fb3da164391e5f4840e2e",
+      "ref": "lancashire-coastal-way-walking-route"
+    },
+    {
+      "description": "Morecambe Bay",
+      "objectID": "c5d7d8ba1cae6b5cf9baa9e51e433dcc",
+      "ref": "morecambe-bay-walking-and-cycle-route"
+    },
+    {
+      "description": "Clougha Pike",
+      "objectID": "eb4af8a83d3a97766e991ab36f8ab5a1",
+      "ref": "clougha-pike-walking-route"
+    },
+    {
+      "description": "Sunderland Point",
+      "objectID": "d2074202bfd896c7acf8755ec2e07c17",
+      "ref": "sunderland-point-walking-route"
+    },
+    {
+      "description": "Way of the Roses",
+      "objectID": "0ebbd693675bceae5ad40c293bb259eb",
+      "ref": "way-of-the-roses-walking-and-cycle-route"
+    },
+    {
+      "description": "Lunesdale Walk",
+      "objectID": "0c3aa38a121784e9c9fdff2fe0ed94af",
+      "ref": "lunesdale-walk-walking-route"
+    },
+    {
+      "description": "Lancaster to Caton",
+      "objectID": "4e5521bccde88ff8c24550bd6f4d88bb",
+      "ref": "lancaster-to-caton-walking-and-cycle-route"
+    },
+    {
+      "description": "Fairfield Nature Reserve",
+      "objectID": "ac8516458ac3dc25a8e0c57aec5ae3e2",
+      "ref": "fairfield-nature-reserve-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/977cf027ba58e680a0aec0100403be19.gpx",
+  "_geoloc": {
+    "lat": 54.0494502413,
+    "lng": -2.8074730397
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lancaster_Priory.jpg",
+      "title": "Alexander P Kapp [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Lancaster Priory"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lancaster_Castle_%285766%29.jpg/500px-Lancaster_Castle_%285766%29.jpg",
+      "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Lancaster Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lune_Millennium_Bridge%2C_west_side.jpg/500px-Lune_Millennium_Bridge%2C_west_side.jpg",
+      "title": "By Rwendland (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
+      "caption": "Lune Millennium Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Greyhound_Bridge_-_geograph.org.uk_-_1328180.jpg",
+      "title": "David Ashcroft [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Greyhound Bridge over the Lune"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Lune_Aqueduct_of_the_Lancaster_Canal%2C_from_the_south_-_geograph.org.uk_-_1334426.jpg",
+      "title": "David Long [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The Lune Aqueduct of the Lancaster Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Folly_Bridge_-_geograph.org.uk_-_1373604.jpg",
+      "title": "Ian Taylor [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Folly Bridge over the Lancaster Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shore_Road_and_Cafe%2C_Hest_Bank_-_geograph.org.uk_-_1477147.jpg",
+      "title": "Stephen Armstrong [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Shore Road and Cafe, Hest Bank"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Morecambe%2C_UK_-_panoramio_%288%29.jpg/500px-Morecambe%2C_UK_-_panoramio_%288%29.jpg",
+      "title": "Immanuel Giel [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+      "caption": "Morecambe Beach"
+    }
+  ],
+  "distance_km": 16.0,
+  "description": "This 10 mile circular walk makes use of three of the long distance trails which run through the area surrounding the city. You'll pass along the River Lune on the Lune Valley Ramble before picking up the Lancaster Canal to take you to the coast. Here you follow the Lancashire Coastal Way to take you to along Morecambe Bay. The walk starts at the train station in the city centre and first heads past Lancaster Castle and Priory. The medieval castle dates from the 12th century and has a fascinating history. You can enjoy the courtyard spaces, external views of the historic building, two small exhibition spaces, and the giftshop without charge, but public access to the interiors of the castle buildings is by guided tour only. From the castle it is a short stroll down to the river where you pick up a nice riverside footpath to the impressive Millennium Bridge. You continue to the lovely Lune Aqueduct of the Lancaster Canal, which rises above the river. The navigable aqueduct carries the Lancaster Canal over the River Lune, and was completed in 1797. The route crosses the river here and continues along the towpath of the canal to Hest Bank on the coast. It's a lovely stretch of the canal with great views of the surrounding Lancashire countryside to enjoy. At Hest Bank you pick up the coastal path to take you into Morecambe. There's lovely views of the attractive beach and the famous Morecambe Bay with lots of wading birds to look out for. The final stage of the walk takes you along the Lancaster to Morecambe Cycleway. The shared surfaced path runs all the way back to the Lune in Lancaster. The city is located on the edge of the Forest of Bowland AONB where there are miles of greating walking routes to try. You could head a few miles to the east and climb to Clougha Pike. From the hill summit there are wonderful views over Morecambe Bay, Snowdonia and the Lake District Fells. Sunderland Point is located south of Lancaster and well worth a visit if you are in the area. There's nice footpaths to follow around a delightful peninsula with salt marsh salt marsh, beach, mud flats, farmland and lots of wildlife to look out for. The Lunesdale Walk is another good option and can be picked up just to the north at Carnforth. It takes you through the Forest of Bowland, visiting many pretty villages and waterways. The long distance Way of the Roses also passes through the city. It will also take you into the Forest of Bowland and then on into the Yorkshire Dales. For another riverside stroll you could try the Lancaster to Caton route. The shared cycling and walking path takes you along the River Lune to nearby Caton.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the south western side of the city you will find the Fairfield Nature Reserve. It's a pleasant place for a walk with wetlands, a lovely apple orchard and lots of birdlife to look out for. You can find the reserve in the Abraham Heights area of the city."
+    }
+  ],
+  "postcode": "LA1 5SJ",
+  "district": "Lancaster",
+  "county": "Lancashire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "West Road, Castle and Priory Precinct, Marsh, Lancaster, Lancashire, England, LA1 5SJ, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "riverine"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

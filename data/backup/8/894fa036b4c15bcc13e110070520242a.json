@@ -1,135 +1,143 @@
 {
-    "created_at": "2025-01-06T08:34:26.625248+00:00",
-    "objectID": "894fa036b4c15bcc13e110070520242a",
-    "ref": "sywell-country-park-walking-route",
-    "title": "Sywell Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sywell_Reservoir_-_geograph.org.uk_-_1906525.jpg",
-    "nearby": [
-        {
-            "description": "Wellingborough",
-            "objectID": "50f52b4719a779b8f15bc6217aef0937",
-            "ref": "wellingborough-walking-route"
-        },
-        {
-            "description": "Northampton Canal Walk",
-            "objectID": "cc80d8223dc1ab491a43fb99446775b2",
-            "ref": "northampton-canal-walk-walking-route"
-        },
-        {
-            "description": "Nene Way",
-            "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
-            "ref": "nene-way-walking-route"
-        },
-        {
-            "description": "Irchester Country Park",
-            "objectID": "c51624b1591978ceff74727e980d23a1",
-            "ref": "irchester-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Pitsford Reservoir",
-            "objectID": "7904de283c883df53f1dfa79ad74e8a1",
-            "ref": "pitsford-reservoir-walking-route"
-        },
-        {
-            "description": "Brixworth Country Park",
-            "objectID": "6eaa52b9a34ce8f90261c36973512896",
-            "ref": "brixworth-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Summer Leys",
-            "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
-            "ref": "summer-leys-walking-route"
-        },
-        {
-            "description": "Delapre Abbey Park",
-            "objectID": "b8921d843d6d16bf53df0f685be90c95",
-            "ref": "delapre-abbey-park-walking-route"
-        },
-        {
-            "description": "Hunsbury Hill Country Park",
-            "objectID": "87021de230d309b2d15a5e2030384d27",
-            "ref": "hunsbury-hill-country-park-walking-route"
-        },
-        {
-            "description": "Northamptonshire Round",
-            "objectID": "5cec609b4565029c3852899d59e0d24f",
-            "ref": "northamptonshire-round-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/894fa036b4c15bcc13e110070520242a.gpx",
-    "_geoloc": {
-        "lat": 52.2778879044,
-        "lng": -0.782447386
+  "created_at": "2025-01-06T08:34:26.625248+00:00",
+  "objectID": "894fa036b4c15bcc13e110070520242a",
+  "ref": "sywell-country-park-walking-route",
+  "title": "Sywell Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sywell_Reservoir_-_geograph.org.uk_-_1906525.jpg",
+  "nearby": [
+    {
+      "description": "Wellingborough",
+      "objectID": "50f52b4719a779b8f15bc6217aef0937",
+      "ref": "wellingborough-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sywell_Reservoir_-_geograph.org.uk_-_1906525.jpg",
-            "title": "Sywell Reservoir by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sywell Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sywell_Reservoir_-_geograph.org.uk_-_1907925.jpg",
-            "title": "Sywell Reservoir by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of the footpath along the water"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sywell_Reservoir_and_Trafalgar_Covert_-_geograph.org.uk_-_111012.jpg",
-            "title": "Kokai / Sywell Reservoir and Trafalgar Covert",
-            "caption": "Sywell Reservoir and Trafalgar Covert. Taken from the end of a footpath leading from Earls Barton Road to Washbrook Lane."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sywell_Country_Park_-_geograph.org.uk_-_1906319.jpg",
-            "title": "Sywell Country Park by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sywell Country Park. Open lawn with picnic benches."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sywell_Country_Park_-_geograph.org.uk_-_1904997.jpg",
-            "title": "Sywell Country Park by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Information boards near the car park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sywell_Cross_-_geograph.org.uk_-_2582500.jpg/500px-Sywell_Cross_-_geograph.org.uk_-_2582500.jpg",
-            "title": "Sywell Cross by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sywell Cross in the village, just to the north of the park."
-        }
-    ],
-    "distance_km": 4.5,
-    "description": "Follow the waterside path around the delightful Sywell Reservoir on this easy walk in Northamptonshire. The reservoir gets a variety of winged visitors and there are two bird hides to use. Look out for terns, swallows, and many different ducks and geese. In the park you will find a small arboretum of exotic trees and a number of interesting Edwardian buildings. There is also an amphibian pond with a viewing boardwalk and a pretty butterfly garden. The park is located between Wellingborough and Northampton .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The on site Pump house cafe sells a good range of meals, snacks and treats for you to enjoy after your exercise."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The parkland and woodland are great for dog walking so you'll probably see other owners on your visit. There are off lead areas, bins and water bowls at the cafe."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "If you head about a mile south east to Earls Barton you could pick up the Nene Way and enjoy a nice waterside stroll along the towpath of the River Nene. There are a number of lakes in this area and the Summer Leys Nature Reserve as well. On the southern side of the river and canal you will find Delapre Abbey Park. There's 500 acres of parkland, lakes, woodland and gardens to explore on this popular historic site. A few miles to the north west there's the expansive Pitsford Reservoir and the adjacent Brixworth Country Park. The Northamptonshire Round long distance circular walk passes through the park. It takes you on a tour of the countryside and villages of the area. For more walking ideas in the area see the Northamptonshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Py8-fCo6UUM?start=119",
-    "county": "North Northamptonshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Washbrook Lane, Ecton, Mears Ashby, North Northamptonshire, England, NN6 0QU, United Kingdom",
-    "postcode": "NN6 0QU",
-    "district": "Mears Ashby",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "water"],
-    "points_of_interest": [
-        "bird hide",
-        "arboretum",
-        "buildings",
-        "butterfly garden"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly", "playground"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Northampton Canal Walk",
+      "objectID": "cc80d8223dc1ab491a43fb99446775b2",
+      "ref": "northampton-canal-walk-walking-route"
+    },
+    {
+      "description": "Nene Way",
+      "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
+      "ref": "nene-way-walking-route"
+    },
+    {
+      "description": "Irchester Country Park",
+      "objectID": "c51624b1591978ceff74727e980d23a1",
+      "ref": "irchester-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Pitsford Reservoir",
+      "objectID": "7904de283c883df53f1dfa79ad74e8a1",
+      "ref": "pitsford-reservoir-walking-route"
+    },
+    {
+      "description": "Brixworth Country Park",
+      "objectID": "6eaa52b9a34ce8f90261c36973512896",
+      "ref": "brixworth-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Summer Leys",
+      "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
+      "ref": "summer-leys-walking-route"
+    },
+    {
+      "description": "Delapre Abbey Park",
+      "objectID": "b8921d843d6d16bf53df0f685be90c95",
+      "ref": "delapre-abbey-park-walking-route"
+    },
+    {
+      "description": "Hunsbury Hill Country Park",
+      "objectID": "87021de230d309b2d15a5e2030384d27",
+      "ref": "hunsbury-hill-country-park-walking-route"
+    },
+    {
+      "description": "Northamptonshire Round",
+      "objectID": "5cec609b4565029c3852899d59e0d24f",
+      "ref": "northamptonshire-round-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/894fa036b4c15bcc13e110070520242a.gpx",
+  "_geoloc": {
+    "lat": 52.2778879044,
+    "lng": -0.782447386
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sywell_Reservoir_-_geograph.org.uk_-_1906525.jpg",
+      "title": "Sywell Reservoir by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sywell Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sywell_Reservoir_-_geograph.org.uk_-_1907925.jpg",
+      "title": "Sywell Reservoir by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of the footpath along the water"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sywell_Reservoir_and_Trafalgar_Covert_-_geograph.org.uk_-_111012.jpg",
+      "title": "Kokai / Sywell Reservoir and Trafalgar Covert",
+      "caption": "Sywell Reservoir and Trafalgar Covert. Taken from the end of a footpath leading from Earls Barton Road to Washbrook Lane."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sywell_Country_Park_-_geograph.org.uk_-_1906319.jpg",
+      "title": "Sywell Country Park by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sywell Country Park. Open lawn with picnic benches."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sywell_Country_Park_-_geograph.org.uk_-_1904997.jpg",
+      "title": "Sywell Country Park by Burgess Von Thunen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Information boards near the car park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sywell_Cross_-_geograph.org.uk_-_2582500.jpg/500px-Sywell_Cross_-_geograph.org.uk_-_2582500.jpg",
+      "title": "Sywell Cross by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sywell Cross in the village, just to the north of the park."
+    }
+  ],
+  "distance_km": 4.5,
+  "description": "Follow the waterside path around the delightful Sywell Reservoir on this easy walk in Northamptonshire. The reservoir gets a variety of winged visitors and there are two bird hides to use. Look out for terns, swallows, and many different ducks and geese. In the park you will find a small arboretum of exotic trees and a number of interesting Edwardian buildings. There is also an amphibian pond with a viewing boardwalk and a pretty butterfly garden. The park is located between Wellingborough and Northampton .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Pump house cafe sells a good range of meals, snacks and treats for you to enjoy after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland are great for dog walking so you'll probably see other owners on your visit. There are off lead areas, bins and water bowls at the cafe."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head about a mile south east to Earls Barton you could pick up the Nene Way and enjoy a nice waterside stroll along the towpath of the River Nene. There are a number of lakes in this area and the Summer Leys Nature Reserve as well. On the southern side of the river and canal you will find Delapre Abbey Park. There's 500 acres of parkland, lakes, woodland and gardens to explore on this popular historic site. A few miles to the north west there's the expansive Pitsford Reservoir and the adjacent Brixworth Country Park. The Northamptonshire Round long distance circular walk passes through the park. It takes you on a tour of the countryside and villages of the area. For more walking ideas in the area see the Northamptonshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Py8-fCo6UUM?start=119",
+  "county": "North Northamptonshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Washbrook Lane, Ecton, Mears Ashby, North Northamptonshire, England, NN6 0QU, United Kingdom",
+  "postcode": "NN6 0QU",
+  "district": "Mears Ashby",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "arboretum",
+    "historical site",
+    "amphibian pond",
+    "butterfly garden"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,112 +1,122 @@
 {
-    "created_at": "2025-01-06T00:18:27.393747+00:00",
-    "objectID": "63aac236a831556e1b448a7537d4e803",
-    "ref": "mount-caburn-walking-route",
-    "title": "Mount Caburn Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg/330px-View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg",
-    "nearby": [
-        {
-            "description": "Barcombe Mills",
-            "objectID": "347d62b87d5f25d1ea7ae5bc0772dd88",
-            "ref": "barcombe-mills-walking-route"
-        },
-        {
-            "description": "Firle Beacon",
-            "objectID": "58fc39beb8c8ba5a23b5f065de6f31ca",
-            "ref": "firle-beacon-walking-route"
-        },
-        {
-            "description": "Lewes",
-            "objectID": "75d6be509adaff16b2144c9239df3075",
-            "ref": "lewes-walking-route"
-        },
-        {
-            "description": "Iford",
-            "objectID": "df42aca8ac31b75f6a88a750323123b6",
-            "ref": "iford-walking-route"
-        },
-        {
-            "description": "Castle Hill National Nature Reserve",
-            "objectID": "bd0bd40c208e22a1f00a20fa4bfdedbf",
-            "ref": "castle-hill-nature-reserve-walking-route"
-        },
-        {
-            "description": "Ringmer",
-            "objectID": "2c85dac9bb92bbcf7c8250af3bddc79d",
-            "ref": "ringmer-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/63aac236a831556e1b448a7537d4e803.gpx",
-    "_geoloc": {
-        "lat": 50.8740285182,
-        "lng": 0.0146255105
+  "created_at": "2025-01-06T00:18:27.393747+00:00",
+  "objectID": "63aac236a831556e1b448a7537d4e803",
+  "ref": "mount-caburn-walking-route",
+  "title": "Mount Caburn Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg/330px-View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg",
+  "nearby": [
+    {
+      "description": "Barcombe Mills",
+      "objectID": "347d62b87d5f25d1ea7ae5bc0772dd88",
+      "ref": "barcombe-mills-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg/330px-View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg",
-            "title": "Simon Carey / View from Mount Caburn",
-            "caption": "A bench to rest your legs at the viewpoint on the top of Mount Caburn. Taken in the spring of 2018. Caburn is an isolated part of the South Downs separated from the rest by the valleys of the Ouse and Glynde Reach. This looks across the latter, which can be seen running left to right, towards Beddingham and Itford Hills (Left and right respectively). The main A27 can also be seen running across the picture as well as its junction with the A26 at the small village of Beddingham. Caburn's etymology derives from Calde Burgh or cold fort which lived up to its name with the wind whipping in from the coast."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Footpath_to_Mount_Caburn_-_geograph.org.uk_-_594749.jpg",
-            "title": "Simon Carey / Footpath to Mount Caburn",
-            "caption": "Footpath to Mount Caburn. Part of a popular local walk from Lewes to Glynde via Mount Caburn, pubs and train stations either end where can you go wrong? The hill is a former Iron Age commanding excellent views down the Ouse Valley."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Caburn_Pit_-_geograph.org.uk_-_762115.jpg/330px-Caburn_Pit_-_geograph.org.uk_-_762115.jpg",
-            "title": "Simon Carey / Caburn Pit",
-            "caption": "Caburn Pit. Chalk quarry on the eastern side of the Iron Age fort viewed from above."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg/500px-Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg",
-            "title": "Mount Caburn Fort by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Mount Caburn Fort in summer."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ranscombe_Hill_-_geograph.org.uk_-_971101.jpg",
-            "title": "Simon Carey / Ranscombe Hill",
-            "caption": "Ranscombe Hill. The contour line up to 105 metres are in this square, the former Iron Age fort known as Ranscombe Camp is in the next square. Viewed from Ranscombe Lane."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Footpath_to_Mount_Caburn_-_geograph.org.uk_-_594749.jpg",
-            "title": "Simon Carey / Footpath to Mount Caburn",
-            "caption": "Footpath to Mount Caburn from Glynde."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Southerham_Bottom_-_geograph.org.uk_-_761984.jpg",
-            "title": "Simon Carey / Southerham Bottom",
-            "caption": "Southerham Bottom to the west of the hill. Begins in this square before joining up with Oxteddle Bottom in the next. Taken from the permissive footpath that runs from Southerham Corner to Oxteddle Bottom."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Caburn_Bottom_-_geograph.org.uk_-_762064.jpg/330px-Caburn_Bottom_-_geograph.org.uk_-_762064.jpg",
-            "title": "Simon Carey / Caburn Bottom",
-            "caption": "Caburn Bottom viewed from Mount Caburn. The bottom joins Oxteddle Bottom near the dew pond."
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This walk visits the delightful Mount Caburn Nature Reserve in the South Downs. You can reach the reserve by following a footpath from the centre of Lewes. It's just over 2 miles to the reserve from the town with the route crossing the River Ouse before passing Malling Down Nature Reserve, Ranscombe Camp hill, Oxteddle Bottom and Caburn Bottom. The reserve consists of managed chalk downland and a Bronze Age hill fort. There is also a wide variety of flora and fauna to look out for. This includes the largest British population of burnt-tip orchid and pyramidal orchids. There are also many different types of wildflowers such as Sweet briar, Marjoram and the bright yellow horseshoe vetch. These attract various butterflies including Adonis, chalkhill blue butterfly and silver-spotted skippers. It's also great for bird watching with Skylarks, meadow pipits, yellowhammers, corn bunting, kestrels, peregrine falcon and buzzards to look out for. The summit of Mount Caburn stands at 480-feet (146m) and consists of an Iron Age Hill Fort. There are wonderful views of Lewes, Glynde, Firle and the South Downs to enjoy. After climbing the hill you could visit the delightful Little Cottage Tea Rooms and enjoy a cream tea. The tea rooms are located just to the south of the reserve on Ranscombe Lane. A shorter, alternative route to the reserve is to start from Glynde Bridge. There is a train station and parking area about a mile from the hill. If you would like to extend your walking in the area then you could head to the nearby Firle Beacon. It is located just a few miles to the south east and offers great views over the Weald towards the south coast. A few miles to the north you can visit the delightful Barcombe Mills where there are lovely waterside walks along the River Ouse and Barcombe Reservoir.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For a longer walk which visits the reserve try the Glynde to Lewes Walk. This circular path visits the historic Elizabethan Manor House at Glynde Place and the pretty village of Glynde. It can be started from either Lewes train station or Glynde train station. Just a couple of miles to the south of Lewes you'll find the interesting village of Iford. The historic settlement includes 18 listed buildings, a 12th century church and a sundial marking the Greenwich meridian which runs through the village. From here you can enjoy a walk up to the viewpoint at Iford Hill on a particularly lovely section of the South Downs. On the Iford walk there's also Rodmell where you can visit the National Trust's Monk's House. The 16th-century weatherboarded cottage was once the home of author Virginia Woolfe and her husband. Next to the village there's also the Castle Hill National Nature Reserve. The significant site includes chalk grassland with ancient settlements and lots of interesting flora and fauna to see."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/XMu6Yd0RlWs",
-    "postcode": "BN7 2AD",
-    "district": "Lewes",
-    "county": "East Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "High Street, Cliffe, Lewes, East Sussex, England, BN7 2AD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["chalk downland", "hill"],
-    "points_of_interest": ["historical fort", "viewpoint"],
-    "facilities": ["tea room", "car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Firle Beacon",
+      "objectID": "58fc39beb8c8ba5a23b5f065de6f31ca",
+      "ref": "firle-beacon-walking-route"
+    },
+    {
+      "description": "Lewes",
+      "objectID": "75d6be509adaff16b2144c9239df3075",
+      "ref": "lewes-walking-route"
+    },
+    {
+      "description": "Iford",
+      "objectID": "df42aca8ac31b75f6a88a750323123b6",
+      "ref": "iford-walking-route"
+    },
+    {
+      "description": "Castle Hill National Nature Reserve",
+      "objectID": "bd0bd40c208e22a1f00a20fa4bfdedbf",
+      "ref": "castle-hill-nature-reserve-walking-route"
+    },
+    {
+      "description": "Ringmer",
+      "objectID": "2c85dac9bb92bbcf7c8250af3bddc79d",
+      "ref": "ringmer-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/63aac236a831556e1b448a7537d4e803.gpx",
+  "_geoloc": {
+    "lat": 50.8740285182,
+    "lng": 0.0146255105
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg/330px-View_from_Mount_Caburn_-_geograph.org.uk_-_762074.jpg",
+      "title": "Simon Carey / View from Mount Caburn",
+      "caption": "A bench to rest your legs at the viewpoint on the top of Mount Caburn. Taken in the spring of 2018. Caburn is an isolated part of the South Downs separated from the rest by the valleys of the Ouse and Glynde Reach. This looks across the latter, which can be seen running left to right, towards Beddingham and Itford Hills (Left and right respectively). The main A27 can also be seen running across the picture as well as its junction with the A26 at the small village of Beddingham. Caburn's etymology derives from Calde Burgh or cold fort which lived up to its name with the wind whipping in from the coast."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Footpath_to_Mount_Caburn_-_geograph.org.uk_-_594749.jpg",
+      "title": "Simon Carey / Footpath to Mount Caburn",
+      "caption": "Footpath to Mount Caburn. Part of a popular local walk from Lewes to Glynde via Mount Caburn, pubs and train stations either end where can you go wrong? The hill is a former Iron Age commanding excellent views down the Ouse Valley."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Caburn_Pit_-_geograph.org.uk_-_762115.jpg/330px-Caburn_Pit_-_geograph.org.uk_-_762115.jpg",
+      "title": "Simon Carey / Caburn Pit",
+      "caption": "Caburn Pit. Chalk quarry on the eastern side of the Iron Age fort viewed from above."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg/500px-Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg",
+      "title": "Mount Caburn Fort by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Mount Caburn Fort in summer."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ranscombe_Hill_-_geograph.org.uk_-_971101.jpg",
+      "title": "Simon Carey / Ranscombe Hill",
+      "caption": "Ranscombe Hill. The contour line up to 105 metres are in this square, the former Iron Age fort known as Ranscombe Camp is in the next square. Viewed from Ranscombe Lane."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Footpath_to_Mount_Caburn_-_geograph.org.uk_-_594749.jpg",
+      "title": "Simon Carey / Footpath to Mount Caburn",
+      "caption": "Footpath to Mount Caburn from Glynde."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Southerham_Bottom_-_geograph.org.uk_-_761984.jpg",
+      "title": "Simon Carey / Southerham Bottom",
+      "caption": "Southerham Bottom to the west of the hill. Begins in this square before joining up with Oxteddle Bottom in the next. Taken from the permissive footpath that runs from Southerham Corner to Oxteddle Bottom."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Caburn_Bottom_-_geograph.org.uk_-_762064.jpg/330px-Caburn_Bottom_-_geograph.org.uk_-_762064.jpg",
+      "title": "Simon Carey / Caburn Bottom",
+      "caption": "Caburn Bottom viewed from Mount Caburn. The bottom joins Oxteddle Bottom near the dew pond."
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This walk visits the delightful Mount Caburn Nature Reserve in the South Downs. You can reach the reserve by following a footpath from the centre of Lewes. It's just over 2 miles to the reserve from the town with the route crossing the River Ouse before passing Malling Down Nature Reserve, Ranscombe Camp hill, Oxteddle Bottom and Caburn Bottom. The reserve consists of managed chalk downland and a Bronze Age hill fort. There is also a wide variety of flora and fauna to look out for. This includes the largest British population of burnt-tip orchid and pyramidal orchids. There are also many different types of wildflowers such as Sweet briar, Marjoram and the bright yellow horseshoe vetch. These attract various butterflies including Adonis, chalkhill blue butterfly and silver-spotted skippers. It's also great for bird watching with Skylarks, meadow pipits, yellowhammers, corn bunting, kestrels, peregrine falcon and buzzards to look out for. The summit of Mount Caburn stands at 480-feet (146m) and consists of an Iron Age Hill Fort. There are wonderful views of Lewes, Glynde, Firle and the South Downs to enjoy. After climbing the hill you could visit the delightful Little Cottage Tea Rooms and enjoy a cream tea. The tea rooms are located just to the south of the reserve on Ranscombe Lane. A shorter, alternative route to the reserve is to start from Glynde Bridge. There is a train station and parking area about a mile from the hill. If you would like to extend your walking in the area then you could head to the nearby Firle Beacon. It is located just a few miles to the south east and offers great views over the Weald towards the south coast. A few miles to the north you can visit the delightful Barcombe Mills where there are lovely waterside walks along the River Ouse and Barcombe Reservoir.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a longer walk which visits the reserve try the Glynde to Lewes Walk. This circular path visits the historic Elizabethan Manor House at Glynde Place and the pretty village of Glynde. It can be started from either Lewes train station or Glynde train station. Just a couple of miles to the south of Lewes you'll find the interesting village of Iford. The historic settlement includes 18 listed buildings, a 12th century church and a sundial marking the Greenwich meridian which runs through the village. From here you can enjoy a walk up to the viewpoint at Iford Hill on a particularly lovely section of the South Downs. On the Iford walk there's also Rodmell where you can visit the National Trust's Monk's House. The 16th-century weatherboarded cottage was once the home of author Virginia Woolfe and her husband. Next to the village there's also the Castle Hill National Nature Reserve. The significant site includes chalk grassland with ancient settlements and lots of interesting flora and fauna to see."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/XMu6Yd0RlWs",
+  "postcode": "BN7 2AD",
+  "district": "Lewes",
+  "county": "East Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "High Street, Cliffe, Lewes, East Sussex, England, BN7 2AD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalk downland"
+  ],
+  "points_of_interest": [
+    "Bronze Age hill fort",
+    "Iron Age Hill Fort",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,67 +1,78 @@
 {
-    "created_at": "2025-01-06T04:03:05.003744+00:00",
-    "objectID": "b62bb004ed0dea930d49c217edd28d7a",
-    "ref": "marton-mere-walking-route",
-    "title": "Marton Mere Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Marton_Mere_-_geograph.org.uk_-_178027.jpg",
-    "nearby": [
-        {
-            "description": "Stanley Park",
-            "objectID": "cd5e3e15d03ca821df6a9aaf2ad70775",
-            "ref": "stanley-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b62bb004ed0dea930d49c217edd28d7a.gpx",
-    "_geoloc": {
-        "lat": 53.8101795791,
-        "lng": -2.9944068106
+  "created_at": "2025-01-06T04:03:05.003744+00:00",
+  "objectID": "b62bb004ed0dea930d49c217edd28d7a",
+  "ref": "marton-mere-walking-route",
+  "title": "Marton Mere Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Marton_Mere_-_geograph.org.uk_-_178027.jpg",
+  "nearby": [
+    {
+      "description": "Stanley Park",
+      "objectID": "cd5e3e15d03ca821df6a9aaf2ad70775",
+      "ref": "stanley-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b62bb004ed0dea930d49c217edd28d7a.gpx",
+  "_geoloc": {
+    "lat": 53.8101795791,
+    "lng": -2.9944068106
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Marton_Mere_-_geograph.org.uk_-_178027.jpg",
+      "title": "Trevor Hilton / Marton Mere",
+      "caption": "Marton Mere"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Marton_Mere_-_geograph.org.uk_-_178027.jpg",
-            "title": "Trevor Hilton / Marton Mere",
-            "caption": "Marton Mere"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Marton_Mere_..._and_Blackpool_Tower_-_geograph.org.uk_-_1004482.jpg",
-            "title": "Terry Robinson / Marton Mere ... and Blackpool Tower",
-            "caption": "The mere with Blackpool Tower in the background"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Public_footpath_round_Marton_Mere_-_geograph.org.uk_-_1394602.jpg",
-            "title": "Stephen Sweeney / Public footpath round Marton Mere",
-            "caption": "Public footpath round the mere. Well signposted around the Holiday Village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Small_stream_flowing_from_Marton_Mere_-_geograph.org.uk_-_1394605.jpg",
-            "title": "Stephen Sweeney / Small stream flowing from Marton Mere",
-            "caption": "Small stream flowing from Marton Mere"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "Enjoy a short walk around this pretty nature reserve near Blackpool. The reserve includes a large lake with a number of good footpaths running through the surrounding area. There's several bird hides where you can look out for the water loving birds which visit the mere. These include Great Crested Grebe, Coot, Moorhen, Shoveler, Pochard and Teal. Other features include reed beds, grassland, small areas of woodland and a variety of wildflowers. Look out for bee orchids, yellow rattle, marsh woundwort and birdsfoot trefoil in the summer months. These attract a large number of butterflies such as common blue, red admiral and meadow brown. It's easy to extend your walk on the paths which run to the north and west of the mere. These will take you around a golf course to the pretty Stanley Park where you will find a large boating lake and lovely gardens. Marton Mere is located just to the east of Blackpool town centre, near Staining. There are views of Blackpool Tower from the reserve. National Cycle Route 62 runs close to the site so you can easily cycle there too.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the north is Hesketh Bank where you can explore the RSPB's Hesketh Out Marshes Nature Reserve. The reserve is a great place for bird spotting on the Ribble Estuary. Near here there's also Longton and the Longton Brickcroft Nature Reserve which includes picturesque ponds, pleasant footpaths and a visitor centre with displays about the reserve's habitats and wildlife. For more walking ideas in the area see the Lancashire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/OWrdcJDjy5s",
-    "postcode": "FY4 4ZA",
-    "county": "Blackpool",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Marton Mere Sign, Marples Drive, Little Marton, Blackpool, England, FY4 4ZA, United Kingdom",
-    "district": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1-2 hours",
-    "difficulty": "easy",
-    "terrain": ["grassland", "woodland", "lake"],
-    "points_of_interest": ["bird hide", "gardens", "boating lake"],
-    "facilities": ["car park", "visitor center", "cycle route"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Marton_Mere_..._and_Blackpool_Tower_-_geograph.org.uk_-_1004482.jpg",
+      "title": "Terry Robinson / Marton Mere ... and Blackpool Tower",
+      "caption": "The mere with Blackpool Tower in the background"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Public_footpath_round_Marton_Mere_-_geograph.org.uk_-_1394602.jpg",
+      "title": "Stephen Sweeney / Public footpath round Marton Mere",
+      "caption": "Public footpath round the mere. Well signposted around the Holiday Village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Small_stream_flowing_from_Marton_Mere_-_geograph.org.uk_-_1394605.jpg",
+      "title": "Stephen Sweeney / Small stream flowing from Marton Mere",
+      "caption": "Small stream flowing from Marton Mere"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "Enjoy a short walk around this pretty nature reserve near Blackpool. The reserve includes a large lake with a number of good footpaths running through the surrounding area. There's several bird hides where you can look out for the water loving birds which visit the mere. These include Great Crested Grebe, Coot, Moorhen, Shoveler, Pochard and Teal. Other features include reed beds, grassland, small areas of woodland and a variety of wildflowers. Look out for bee orchids, yellow rattle, marsh woundwort and birdsfoot trefoil in the summer months. These attract a large number of butterflies such as common blue, red admiral and meadow brown. It's easy to extend your walk on the paths which run to the north and west of the mere. These will take you around a golf course to the pretty Stanley Park where you will find a large boating lake and lovely gardens. Marton Mere is located just to the east of Blackpool town centre, near Staining. There are views of Blackpool Tower from the reserve. National Cycle Route 62 runs close to the site so you can easily cycle there too.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north is Hesketh Bank where you can explore the RSPB's Hesketh Out Marshes Nature Reserve. The reserve is a great place for bird spotting on the Ribble Estuary. Near here there's also Longton and the Longton Brickcroft Nature Reserve which includes picturesque ponds, pleasant footpaths and a visitor centre with displays about the reserve's habitats and wildlife. For more walking ideas in the area see the Lancashire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/OWrdcJDjy5s",
+  "postcode": "FY4 4ZA",
+  "county": "Blackpool",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Marton Mere Sign, Marples Drive, Little Marton, Blackpool, England, FY4 4ZA, United Kingdom",
+  "district": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "viewpoint"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

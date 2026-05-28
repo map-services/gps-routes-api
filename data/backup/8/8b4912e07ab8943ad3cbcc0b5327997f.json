@@ -1,91 +1,103 @@
 {
-    "created_at": "2025-01-06T10:27:53.762421+00:00",
-    "objectID": "8b4912e07ab8943ad3cbcc0b5327997f",
-    "ref": "badger-wood-walking-route",
-    "title": "Badger Wood Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hill_Crest_Farm_in_Badger_Wood_-_geograph.org.uk_-_385605.jpg?20110203140535",
-    "nearby": [
-        {
-            "description": "Rosliston Forestry Centre",
-            "objectID": "d0803a8a1ca5eed407ee98d6ae48c1ce",
-            "ref": "rosliston-forestry-centre-walking-route"
-        },
-        {
-            "description": "National Forest",
-            "objectID": "9a39bcb933a99ee1aec8b769b5d29197",
-            "ref": "national-forest-walking-route"
-        },
-        {
-            "description": "National Forest Way",
-            "objectID": "33273a16668d5733c3b1e311dffdbaed",
-            "ref": "national-forest-way-walking-route"
-        },
-        {
-            "description": "Trent and Mersey Canal",
-            "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
-            "ref": "trent-and-mersey-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Lichfield City Walk",
-            "objectID": "1e21b179b83477712b121640794ba73c",
-            "ref": "lichfield-city-walk-walking-route"
-        },
-        {
-            "description": "Alrewas and Fradley Junction",
-            "objectID": "58d32b63ebe12a339d43c49386e07aa0",
-            "ref": "alrewas-and-fradley-junction-walking-route"
-        },
-        {
-            "description": "National Memorial Arboretum",
-            "objectID": "102d902f9015d56a676b9a52ebc82da0",
-            "ref": "national-memorial-arboretum-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8b4912e07ab8943ad3cbcc0b5327997f.gpx",
-    "_geoloc": {
-        "lat": 52.7561048683,
-        "lng": -1.5987457769
+  "created_at": "2025-01-06T10:27:53.762421+00:00",
+  "objectID": "8b4912e07ab8943ad3cbcc0b5327997f",
+  "ref": "badger-wood-walking-route",
+  "title": "Badger Wood Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hill_Crest_Farm_in_Badger_Wood_-_geograph.org.uk_-_385605.jpg?20110203140535",
+  "nearby": [
+    {
+      "description": "Rosliston Forestry Centre",
+      "objectID": "d0803a8a1ca5eed407ee98d6ae48c1ce",
+      "ref": "rosliston-forestry-centre-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hill_Crest_Farm_in_Badger_Wood_-_geograph.org.uk_-_385605.jpg?20110203140535",
-            "title": "Mark Walton / Hill Crest Farm in Badger Wood",
-            "caption": "Hill Crest Farm in Badger Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sheep_in_a_field_-_geograph.org.uk_-_385725.jpg?20110203150553",
-            "title": "Mark Walton / Sheep in a field",
-            "caption": "Countryside view on the edge of the wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Footpath_to_Badger_Wood_-_geograph.org.uk_-_385421.jpg?20110203135150",
-            "title": "Mark Walton / Footpath to Badger Wood",
-            "caption": "Footpath to Badger Wood. The footpath continues along the hedgeline and across the road. Badger Wood itself runs along the left hand side of the path while the right hand side is fields (heading in a North West to South East direction)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Track_%28footpath%29_beside_Badger_Wood_-_geograph.org.uk_-_6200555.jpg?20240127002156",
-            "title": "Track (footpath) beside Badger Wood by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track (footpath) beside Badger Wood"
-        }
-    ],
-    "distance_km": 3.2,
-    "description": "This walk explores Badger Wood, on the edge of Coton Park in the National Forest, South Derbyshire. The wood offers a unique blend of natural and industrial vistas, with views extending towards the industrial areas of Burton and Swadlincote as well as the more pastoral Mease Lowlands. This woodland is characterised by a diverse planting scheme, incorporating both broadleaf and coniferous trees, and is bordered by native shrubs. An extensive network of rides and glades enhances the accessibility and enjoyment of the area. Four wetland habitats have been established within Badger Wood, serving as crucial environments for dragonflies and other insect species. These wetlands contribute to the biodiversity and ecological richness of the woodland. Efforts to support local wildlife are evident in the installation of bat and bird boxes on the mature trees, promoting roosting and nesting. Additionally, the footpath along the southern boundary of Badger Wood has been upgraded to a bridleway, facilitating a circular ride through the new woodland and improving the overall accessibility for visitors on horseback. This enhancement not only supports recreational activities but also encourages greater exploration and appreciation of the woodland environment. To continue your walking in the area head west to visit the Rosliston Forestry Centre. The area includes woodland trails, meadows, ponds, lots of butterflies and some interesting sculptures. There's also cycle trails and the epic National Forest Way to pick up in the park.",
-    "details": [],
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Coton Park, Linton, Coton Park, South Derbyshire, Derbyshire, East Midlands, England, DE12 6RE, United Kingdom",
-    "postcode": "DE12 6RE",
-    "district": "South Derbyshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland"],
-    "points_of_interest": ["sculptures", "meadow", "ponds"],
-    "facilities": ["visitor center", "cycle trails", "car park"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "National Forest",
+      "objectID": "9a39bcb933a99ee1aec8b769b5d29197",
+      "ref": "national-forest-walking-route"
+    },
+    {
+      "description": "National Forest Way",
+      "objectID": "33273a16668d5733c3b1e311dffdbaed",
+      "ref": "national-forest-way-walking-route"
+    },
+    {
+      "description": "Trent and Mersey Canal",
+      "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
+      "ref": "trent-and-mersey-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Lichfield City Walk",
+      "objectID": "1e21b179b83477712b121640794ba73c",
+      "ref": "lichfield-city-walk-walking-route"
+    },
+    {
+      "description": "Alrewas and Fradley Junction",
+      "objectID": "58d32b63ebe12a339d43c49386e07aa0",
+      "ref": "alrewas-and-fradley-junction-walking-route"
+    },
+    {
+      "description": "National Memorial Arboretum",
+      "objectID": "102d902f9015d56a676b9a52ebc82da0",
+      "ref": "national-memorial-arboretum-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8b4912e07ab8943ad3cbcc0b5327997f.gpx",
+  "_geoloc": {
+    "lat": 52.7561048683,
+    "lng": -1.5987457769
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hill_Crest_Farm_in_Badger_Wood_-_geograph.org.uk_-_385605.jpg?20110203140535",
+      "title": "Mark Walton / Hill Crest Farm in Badger Wood",
+      "caption": "Hill Crest Farm in Badger Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sheep_in_a_field_-_geograph.org.uk_-_385725.jpg?20110203150553",
+      "title": "Mark Walton / Sheep in a field",
+      "caption": "Countryside view on the edge of the wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Footpath_to_Badger_Wood_-_geograph.org.uk_-_385421.jpg?20110203135150",
+      "title": "Mark Walton / Footpath to Badger Wood",
+      "caption": "Footpath to Badger Wood. The footpath continues along the hedgeline and across the road. Badger Wood itself runs along the left hand side of the path while the right hand side is fields (heading in a North West to South East direction)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Track_%28footpath%29_beside_Badger_Wood_-_geograph.org.uk_-_6200555.jpg?20240127002156",
+      "title": "Track (footpath) beside Badger Wood by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track (footpath) beside Badger Wood"
+    }
+  ],
+  "distance_km": 3.2,
+  "description": "This walk explores Badger Wood, on the edge of Coton Park in the National Forest, South Derbyshire. The wood offers a unique blend of natural and industrial vistas, with views extending towards the industrial areas of Burton and Swadlincote as well as the more pastoral Mease Lowlands. This woodland is characterised by a diverse planting scheme, incorporating both broadleaf and coniferous trees, and is bordered by native shrubs. An extensive network of rides and glades enhances the accessibility and enjoyment of the area. Four wetland habitats have been established within Badger Wood, serving as crucial environments for dragonflies and other insect species. These wetlands contribute to the biodiversity and ecological richness of the woodland. Efforts to support local wildlife are evident in the installation of bat and bird boxes on the mature trees, promoting roosting and nesting. Additionally, the footpath along the southern boundary of Badger Wood has been upgraded to a bridleway, facilitating a circular ride through the new woodland and improving the overall accessibility for visitors on horseback. This enhancement not only supports recreational activities but also encourages greater exploration and appreciation of the woodland environment. To continue your walking in the area head west to visit the Rosliston Forestry Centre. The area includes woodland trails, meadows, ponds, lots of butterflies and some interesting sculptures. There's also cycle trails and the epic National Forest Way to pick up in the park.",
+  "details": [],
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Coton Park, Linton, Coton Park, South Derbyshire, Derbyshire, East Midlands, England, DE12 6RE, United Kingdom",
+  "postcode": "DE12 6RE",
+  "district": "South Derbyshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wetland habitat",
+    "sculpture"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

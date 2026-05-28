@@ -1,100 +1,109 @@
 {
-    "created_at": "2025-01-06T02:02:17.332796+00:00",
-    "objectID": "bf7723f77fda1ce52d1d8df58ca67594",
-    "ref": "aylesbury-canal-walking-route",
-    "title": "Aylesbury Canal Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg/500px-Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg",
-    "nearby": [
-        {
-            "description": "Berkhamsted Canal Walk",
-            "objectID": "18203bad1cf8f36c86c8f572b0c6d24e",
-            "ref": "berkhamsted-canal-walk-walking-route"
-        },
-        {
-            "description": "Tring Reservoirs",
-            "objectID": "fa68832f07583c10caac77a926a2f363",
-            "ref": "tring-reservoirs-walking-route"
-        },
-        {
-            "description": "Aylesbury Ring",
-            "objectID": "7341401f0c1ececc44346b20fdc92dc9",
-            "ref": "aylesbury-ring-walking-route"
-        },
-        {
-            "description": "Grand Union Canal Walk",
-            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-            "ref": "grand-union-canal-walk-walking-route"
-        },
-        {
-            "description": "Mentmore",
-            "objectID": "8830e97f24ff71ebd6d438fd751bc9b1",
-            "ref": "mentmore-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bf7723f77fda1ce52d1d8df58ca67594.gpx",
-    "_geoloc": {
-        "lat": 51.8137526659,
-        "lng": -0.809353333
+  "created_at": "2025-01-06T02:02:17.332796+00:00",
+  "objectID": "bf7723f77fda1ce52d1d8df58ca67594",
+  "ref": "aylesbury-canal-walking-route",
+  "title": "Aylesbury Canal Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg/500px-Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg",
+  "nearby": [
+    {
+      "description": "Berkhamsted Canal Walk",
+      "objectID": "18203bad1cf8f36c86c8f572b0c6d24e",
+      "ref": "berkhamsted-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg/500px-Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg",
-            "title": "Chris Reynolds / Aylesbury Arm - Canal Bridge No 2 - Dixon's Gap Bridge",
-            "caption": "Dixon's Gap Bridge with lock in the background. The road over this hump-backed bridge runs from Tring to Long Marston."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aylesbury_Arm%2C_Canal_Bridge_No_13_-_geograph.org.uk_-_1445402.jpg",
-            "title": "Chris Reynolds / Aylesbury Arm: Canal Bridge No 13",
-            "caption": "This is the view of Canal Bridge No 13. The bridge is currently used for farm access across the Aylesbury Arm of the Grand Union Canal and also carries a bridleway. The bridge crosses the canal at an angle, which is unusual for a farm bridge - suggesting a more significant history - and an examination of the surrounding landscape suggest it carried an ancient greenway from Oak Farm, Broughton, towards Rectory Farm, Puttenham."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Aylesbury_Arm%2C_Approaching_bend_before_Canal_Bridge_No_13_-_geograph.org.uk_-_1445623.jpg",
-            "title": "Chris Reynolds / Aylesbury Arm: Approaching bend before Canal Bridge No 13",
-            "caption": "A dog saunters along the towpath near Kingsbrook with open countryside in the background. Because the land of the Aylesbury Vale is very flat, and populations were low in the past, the canal is very straight, but there is a slight bend immediately west of Bridge No 13. Note the sheep grazing the wildlife meadows on the north bank of the canal."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Aylesbury_Arm_of_the_Grand_Union_Canal_-_geograph.org.uk_-_1228440.jpg/330px-The_Aylesbury_Arm_of_the_Grand_Union_Canal_-_geograph.org.uk_-_1228440.jpg",
-            "title": "Chris Reynolds / The Aylesbury Arm of the Grand Union Canal",
-            "caption": "British Waterways Canal sign at Marsworth, near the Tring Reservoirs. The Aylesbury Arm is a branch of the Grand Union Canal (originally the Grand Junction Canal) and the Act authorising its construction was passed in 1794, and there were plans (never implemented) to extend the Arm to the River Thames at Abingdon. Construction started in 1811 and it was opened in 1815, and has been open ever since. It was used to ship grain, coal, timber and building materials until the 1960's. It is now provides a pleasant route through the Aylesbury Vale and is much used for walking, boating and fishing. There is also a working boatyard."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Aylesbury_Arm%2C_View_from_Bridge_No_13_clearly_showing_the_bend_in_the_Canal_-_geograph.org.uk_-_1445642.jpg",
-            "title": "Chris Reynolds / Aylesbury Arm: View from Bridge No 13 clearly showing the bend in the Canal",
-            "caption": "View from Bridge No 13 clearly showing the bend in the Canal. A cyclists is making her way along the path in the photo. The Arm is 6\u00bc miles long, has 16 locks and rises 95 feet between Aylesbury and Marsworth. Unlike the Grand Junction Canal and the nearby Wendover Arm, which weave across the countryside making the most of the contours, the Aylesbury Arm is remarkably straight, reflecting the level nature of the Vale of Aylesbury. The locks will only take a single narrowboat, in contrast to the main canal, which will take two \u0096 or one full width barge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Aylesbury_Arm%2C_Bridge_No_13_from_the_north_-_geograph.org.uk_-_1445795.jpg",
-            "title": "Chris Reynolds / Aylesbury Arm: Bridge No 13 from the north",
-            "caption": "Bridge No 13 from the north. While the bridge is built at an angle it would have been too expensive to angle it along the line of the original track so it is necessary to make a definite turn in the direction of the photographer after crossing the bridge. To the west there is a large field of uniproved pasture. Travel over the bridge towards Broughton. Looking in the opposite direction and passing through the gateway there is an apparent choice of ways. The old trackway towards Puttenham runs between hedgerows while it is clear that farm vehicles (and probably most walkers) take a route nearer the canal"
-        }
-    ],
-    "distance_km": 10.0,
-    "description": "This waterside walk takes you along the Aylesbury Arm of the Grand Union Canal. The arm runs for about 6 miles from Aylesbury to Marsworth. You can start off from the centre of town near the train station or there is a parking area on the outskirts next to the canal. You then head east along the towpath to the village of Marsworth. Along the way there are pretty locks, stone bridges over the water and some nice views of the surrounding Bucks countryside to enjoy. Near the end of the walk you'll pass the lovely Tring Reservoirs. If you have time it is well worth following the footpaths around the four reservoirs which include Startops End, Marsworth, Tringford and Wilstone reservoir. Look out for birds such as grebes and bitterns on the water. Just before Wilstone you will pass the Aylesbury Ring long distance footpath which crosses the canal. You can pick this up to explore the Buckinghamshire countryside around Long Marston and Buckland. At Marsworth you have the option of continuing along the Grand Union Canal. Heading north will take you towards Cheddington, while heading south east will take you past Tring towards Berkhamsted .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In Wilstone village you could enjoy a pit stop at the Half Moon. The classic village pub includes a fine interior with an inglenook fireplace, exposed wooden beams and old photographs featuring village scenes and personalities past and present. They serve good food and have a nice garden area for warmer days. You can find them on Tring Road at postcode HP23 4PD for your sat navs. It's located just south of the canal towards the end of the route."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head north from the canal and you can visit the historic village of Mentmore where you will find several interesting old buildings associated with the 19th century Mentmore Towers Estate."
-        }
-    ],
-    "postcode": "HP21 7FS",
-    "district": "Aylesbury",
-    "county": "Buckinghamshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Kingfisher House, 61, Walton Street, Walton, Aylesbury, Buckinghamshire, England, HP21 7FS, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["canal", "rural"],
-    "points_of_interest": ["countryside views", "reservoirs"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Tring Reservoirs",
+      "objectID": "fa68832f07583c10caac77a926a2f363",
+      "ref": "tring-reservoirs-walking-route"
+    },
+    {
+      "description": "Aylesbury Ring",
+      "objectID": "7341401f0c1ececc44346b20fdc92dc9",
+      "ref": "aylesbury-ring-walking-route"
+    },
+    {
+      "description": "Grand Union Canal Walk",
+      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+      "ref": "grand-union-canal-walk-walking-route"
+    },
+    {
+      "description": "Mentmore",
+      "objectID": "8830e97f24ff71ebd6d438fd751bc9b1",
+      "ref": "mentmore-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bf7723f77fda1ce52d1d8df58ca67594.gpx",
+  "_geoloc": {
+    "lat": 51.8137526659,
+    "lng": -0.809353333
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg/500px-Aylesbury_Arm_-_Canal_Bridge_No_2_-_Dixon%27s_Gap_Bridge_-_geograph.org.uk_-_1235895.jpg",
+      "title": "Chris Reynolds / Aylesbury Arm - Canal Bridge No 2 - Dixon's Gap Bridge",
+      "caption": "Dixon's Gap Bridge with lock in the background. The road over this hump-backed bridge runs from Tring to Long Marston."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aylesbury_Arm%2C_Canal_Bridge_No_13_-_geograph.org.uk_-_1445402.jpg",
+      "title": "Chris Reynolds / Aylesbury Arm: Canal Bridge No 13",
+      "caption": "This is the view of Canal Bridge No 13. The bridge is currently used for farm access across the Aylesbury Arm of the Grand Union Canal and also carries a bridleway. The bridge crosses the canal at an angle, which is unusual for a farm bridge - suggesting a more significant history - and an examination of the surrounding landscape suggest it carried an ancient greenway from Oak Farm, Broughton, towards Rectory Farm, Puttenham."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Aylesbury_Arm%2C_Approaching_bend_before_Canal_Bridge_No_13_-_geograph.org.uk_-_1445623.jpg",
+      "title": "Chris Reynolds / Aylesbury Arm: Approaching bend before Canal Bridge No 13",
+      "caption": "A dog saunters along the towpath near Kingsbrook with open countryside in the background. Because the land of the Aylesbury Vale is very flat, and populations were low in the past, the canal is very straight, but there is a slight bend immediately west of Bridge No 13. Note the sheep grazing the wildlife meadows on the north bank of the canal."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Aylesbury_Arm_of_the_Grand_Union_Canal_-_geograph.org.uk_-_1228440.jpg/330px-The_Aylesbury_Arm_of_the_Grand_Union_Canal_-_geograph.org.uk_-_1228440.jpg",
+      "title": "Chris Reynolds / The Aylesbury Arm of the Grand Union Canal",
+      "caption": "British Waterways Canal sign at Marsworth, near the Tring Reservoirs. The Aylesbury Arm is a branch of the Grand Union Canal (originally the Grand Junction Canal) and the Act authorising its construction was passed in 1794, and there were plans (never implemented) to extend the Arm to the River Thames at Abingdon. Construction started in 1811 and it was opened in 1815, and has been open ever since. It was used to ship grain, coal, timber and building materials until the 1960's. It is now provides a pleasant route through the Aylesbury Vale and is much used for walking, boating and fishing. There is also a working boatyard."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Aylesbury_Arm%2C_View_from_Bridge_No_13_clearly_showing_the_bend_in_the_Canal_-_geograph.org.uk_-_1445642.jpg",
+      "title": "Chris Reynolds / Aylesbury Arm: View from Bridge No 13 clearly showing the bend in the Canal",
+      "caption": "View from Bridge No 13 clearly showing the bend in the Canal. A cyclists is making her way along the path in the photo. The Arm is 6\u00bc miles long, has 16 locks and rises 95 feet between Aylesbury and Marsworth. Unlike the Grand Junction Canal and the nearby Wendover Arm, which weave across the countryside making the most of the contours, the Aylesbury Arm is remarkably straight, reflecting the level nature of the Vale of Aylesbury. The locks will only take a single narrowboat, in contrast to the main canal, which will take two \u0096 or one full width barge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Aylesbury_Arm%2C_Bridge_No_13_from_the_north_-_geograph.org.uk_-_1445795.jpg",
+      "title": "Chris Reynolds / Aylesbury Arm: Bridge No 13 from the north",
+      "caption": "Bridge No 13 from the north. While the bridge is built at an angle it would have been too expensive to angle it along the line of the original track so it is necessary to make a definite turn in the direction of the photographer after crossing the bridge. To the west there is a large field of uniproved pasture. Travel over the bridge towards Broughton. Looking in the opposite direction and passing through the gateway there is an apparent choice of ways. The old trackway towards Puttenham runs between hedgerows while it is clear that farm vehicles (and probably most walkers) take a route nearer the canal"
+    }
+  ],
+  "distance_km": 10.0,
+  "description": "This waterside walk takes you along the Aylesbury Arm of the Grand Union Canal. The arm runs for about 6 miles from Aylesbury to Marsworth. You can start off from the centre of town near the train station or there is a parking area on the outskirts next to the canal. You then head east along the towpath to the village of Marsworth. Along the way there are pretty locks, stone bridges over the water and some nice views of the surrounding Bucks countryside to enjoy. Near the end of the walk you'll pass the lovely Tring Reservoirs. If you have time it is well worth following the footpaths around the four reservoirs which include Startops End, Marsworth, Tringford and Wilstone reservoir. Look out for birds such as grebes and bitterns on the water. Just before Wilstone you will pass the Aylesbury Ring long distance footpath which crosses the canal. You can pick this up to explore the Buckinghamshire countryside around Long Marston and Buckland. At Marsworth you have the option of continuing along the Grand Union Canal. Heading north will take you towards Cheddington, while heading south east will take you past Tring towards Berkhamsted .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Wilstone village you could enjoy a pit stop at the Half Moon. The classic village pub includes a fine interior with an inglenook fireplace, exposed wooden beams and old photographs featuring village scenes and personalities past and present. They serve good food and have a nice garden area for warmer days. You can find them on Tring Road at postcode HP23 4PD for your sat navs. It's located just south of the canal towards the end of the route."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north from the canal and you can visit the historic village of Mentmore where you will find several interesting old buildings associated with the 19th century Mentmore Towers Estate."
+    }
+  ],
+  "postcode": "HP21 7FS",
+  "district": "Aylesbury",
+  "county": "Buckinghamshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Kingfisher House, 61, Walton Street, Walton, Aylesbury, Buckinghamshire, England, HP21 7FS, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "reservoir",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

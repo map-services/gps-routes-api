@@ -1,102 +1,116 @@
 {
-    "created_at": "2025-01-06T10:31:41.886563+00:00",
-    "objectID": "60c2087f7af9445ae3f0369c74e89d7f",
-    "ref": "barnes-common,-river-and-wetland-centre-walking-route",
-    "title": "Barnes Common, River and Wetland Centre Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Barnes_Common._-_geograph.org.uk_-_21034.jpg",
-    "nearby": [
-        {
-            "description": "Chiswick House",
-            "objectID": "e85357e6cac2004e9a7b4b9a8eb7cb3e",
-            "ref": "chiswick-house-walking-route"
-        },
-        {
-            "description": "Chiswick Riverside Walk",
-            "objectID": "1faa5e3279482948d229bb7ddc8855ec",
-            "ref": "chiswick-riverside-walk-walking-route"
-        },
-        {
-            "description": "Beverley Brook Walk",
-            "objectID": "cb9d2caf633adf2bfe8a4d5041043d5c",
-            "ref": "beverley-brook-walk-walking-route"
-        },
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Richmond Park",
-            "objectID": "47915094402f026d119940fe0df24241",
-            "ref": "richmond-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/60c2087f7af9445ae3f0369c74e89d7f.gpx",
-    "_geoloc": {
-        "lat": 51.4672687577,
-        "lng": -0.2415795091
+  "created_at": "2025-01-06T10:31:41.886563+00:00",
+  "objectID": "60c2087f7af9445ae3f0369c74e89d7f",
+  "ref": "barnes-common,-river-and-wetland-centre-walking-route",
+  "title": "Barnes Common, River and Wetland Centre Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Barnes_Common._-_geograph.org.uk_-_21034.jpg",
+  "nearby": [
+    {
+      "description": "Chiswick House",
+      "objectID": "e85357e6cac2004e9a7b4b9a8eb7cb3e",
+      "ref": "chiswick-house-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Barnes_Common._-_geograph.org.uk_-_21034.jpg",
-            "title": "Noel Foster [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Barnes Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/River_Thames_From_Barnes_-_geograph.org.uk_-_1310028.jpg",
-            "title": "Peter Trimming [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "River Thames at Barnes. Looking down river towards Hammersmith, several crews are out training."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/London_Wetland_Centre_May_2015.JPG/500px-London_Wetland_Centre_May_2015.JPG",
-            "title": "By Jeff Reuben (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "This is the Peter Scott Visitor Centre building at the London Wetland Centre in the London Borough of Richmond upon Thames. The London Wetland Centre is an approximately 100-acre wetland reserve managed by the Wildfowl and Wetland Trust."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Grey_Heron_in_London_Wetlands_Centre_-_geograph.org.uk_-_795424.jpg",
-            "title": "Jay Haywood [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Grey Heron at the Wetland Centre. Looking vaguely north across one of the small 'ponds' at the London Wetlands Centre (near Barnes)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/On_Barnes_Common_-_geograph.org.uk_-_2898458.jpg",
-            "title": "On Barnes Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "On Barnes Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Path%2C_Barnes_Common_-_geograph.org.uk_-_3810830.jpg",
-            "title": "Path, Barnes Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath, Barnes Common in the spring"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Barnes_Bridge_-_geograph.org.uk_-_2618249.jpg/500px-Barnes_Bridge_-_geograph.org.uk_-_2618249.jpg",
-            "title": "Barnes Bridge by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Barnes Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barnes_village_green_-_geograph.org.uk_-_2219244.jpg/500px-Barnes_village_green_-_geograph.org.uk_-_2219244.jpg",
-            "title": "Barnes village green by David Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Barnes village green in late summer"
-        }
-    ],
-    "distance_km": 11.5,
-    "description": "This circular walk takes you around the London village of Barnes. It's an affluent and attractive area with nice walks to be had through the common, green and along the River Thames. There's also the splendid London Wetland Centre with its lakes, ponds, gardens and wide variety of wildlife. The walk starts from Barnes train station and heads east across Barnes Common and Putney Lower Common. The commons consist of mixed broadleaf woodland, meadows, scrubland and acid grassland. The commons lead you on to the pretty Beverley Brook which you follow to the River Thames. Head north along the Thames Path and you will soon come to the London Wetland Centre. For a fee you can explore the site and look out for a huge variety of wildlife including otters, Eurasian bittern, northern pintail, northern lapwing, water rail, rose-ringed parakeet, Eurasian sparrowhawk, sand martin, common kingfisher, little grebe and great crested grebe. The site also includes an excellent visitor centre and a nice cafe. After exploring the site, the walk heads back to the river, heading north to Hammersmith Bridge. You continue through Chiswick before leaving the river and heading to Barnes Green. The pretty green has a pond and the Grade II listed Sun Inn on its fringe. The mid 18th century pub is a nice place for refreshments at the end of your walk. There's lots of good options for extending your exercise in the area. You could try our Chiswick Riverside Walk and visit the lovely Chiswick House with its beautiful gardens and neo-Palladian villa. You could also follow the Beverley Brook south through Roehampton to Richmond Park where there's miles of cycling and walking trails set in a huge deer park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/p0hZ5CZCguk",
-    "postcode": "SW13 0HT",
-    "district": "London",
-    "county": null,
-    "region": "Greater London",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Station Road, London Borough of Richmond upon Thames, London, Greater London, England, SW13 0HT, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "grassland"],
-    "points_of_interest": ["visitor center", "pond", "pub"],
-    "facilities": ["cafe", "pub/cafe", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Chiswick Riverside Walk",
+      "objectID": "1faa5e3279482948d229bb7ddc8855ec",
+      "ref": "chiswick-riverside-walk-walking-route"
+    },
+    {
+      "description": "Beverley Brook Walk",
+      "objectID": "cb9d2caf633adf2bfe8a4d5041043d5c",
+      "ref": "beverley-brook-walk-walking-route"
+    },
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
+    },
+    {
+      "description": "Richmond Park",
+      "objectID": "47915094402f026d119940fe0df24241",
+      "ref": "richmond-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/60c2087f7af9445ae3f0369c74e89d7f.gpx",
+  "_geoloc": {
+    "lat": 51.4672687577,
+    "lng": -0.2415795091
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Barnes_Common._-_geograph.org.uk_-_21034.jpg",
+      "title": "Noel Foster [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Barnes Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/River_Thames_From_Barnes_-_geograph.org.uk_-_1310028.jpg",
+      "title": "Peter Trimming [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "River Thames at Barnes. Looking down river towards Hammersmith, several crews are out training."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/London_Wetland_Centre_May_2015.JPG/500px-London_Wetland_Centre_May_2015.JPG",
+      "title": "By Jeff Reuben (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "This is the Peter Scott Visitor Centre building at the London Wetland Centre in the London Borough of Richmond upon Thames. The London Wetland Centre is an approximately 100-acre wetland reserve managed by the Wildfowl and Wetland Trust."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Grey_Heron_in_London_Wetlands_Centre_-_geograph.org.uk_-_795424.jpg",
+      "title": "Jay Haywood [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Grey Heron at the Wetland Centre. Looking vaguely north across one of the small 'ponds' at the London Wetlands Centre (near Barnes)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/On_Barnes_Common_-_geograph.org.uk_-_2898458.jpg",
+      "title": "On Barnes Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "On Barnes Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Path%2C_Barnes_Common_-_geograph.org.uk_-_3810830.jpg",
+      "title": "Path, Barnes Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath, Barnes Common in the spring"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Barnes_Bridge_-_geograph.org.uk_-_2618249.jpg/500px-Barnes_Bridge_-_geograph.org.uk_-_2618249.jpg",
+      "title": "Barnes Bridge by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Barnes Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Barnes_village_green_-_geograph.org.uk_-_2219244.jpg/500px-Barnes_village_green_-_geograph.org.uk_-_2219244.jpg",
+      "title": "Barnes village green by David Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Barnes village green in late summer"
+    }
+  ],
+  "distance_km": 11.5,
+  "description": "This circular walk takes you around the London village of Barnes. It's an affluent and attractive area with nice walks to be had through the common, green and along the River Thames. There's also the splendid London Wetland Centre with its lakes, ponds, gardens and wide variety of wildlife. The walk starts from Barnes train station and heads east across Barnes Common and Putney Lower Common. The commons consist of mixed broadleaf woodland, meadows, scrubland and acid grassland. The commons lead you on to the pretty Beverley Brook which you follow to the River Thames. Head north along the Thames Path and you will soon come to the London Wetland Centre. For a fee you can explore the site and look out for a huge variety of wildlife including otters, Eurasian bittern, northern pintail, northern lapwing, water rail, rose-ringed parakeet, Eurasian sparrowhawk, sand martin, common kingfisher, little grebe and great crested grebe. The site also includes an excellent visitor centre and a nice cafe. After exploring the site, the walk heads back to the river, heading north to Hammersmith Bridge. You continue through Chiswick before leaving the river and heading to Barnes Green. The pretty green has a pond and the Grade II listed Sun Inn on its fringe. The mid 18th century pub is a nice place for refreshments at the end of your walk. There's lots of good options for extending your exercise in the area. You could try our Chiswick Riverside Walk and visit the lovely Chiswick House with its beautiful gardens and neo-Palladian villa. You could also follow the Beverley Brook south through Roehampton to Richmond Park where there's miles of cycling and walking trails set in a huge deer park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/p0hZ5CZCguk",
+  "postcode": "SW13 0HT",
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Road, London Borough of Richmond upon Thames, London, Greater London, England, SW13 0HT, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "scrubland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wetland centre",
+    "historical site"
+  ],
+  "facilities": [
+    "cafe",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

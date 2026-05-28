@@ -1,65 +1,73 @@
 {
-    "created_at": "2025-01-06T11:09:30.450341+00:00",
-    "objectID": "b00b48d87b895ed93e550398f649be45",
-    "ref": "walton-on-the-hill-walking-route",
-    "title": "Walton on the Hill Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg/500px-Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b00b48d87b895ed93e550398f649be45.gpx",
-    "_geoloc": {
-        "lat": 51.2843084045,
-        "lng": -0.2411549308
+  "created_at": "2025-01-06T11:09:30.450341+00:00",
+  "objectID": "b00b48d87b895ed93e550398f649be45",
+  "ref": "walton-on-the-hill-walking-route",
+  "title": "Walton on the Hill Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg/500px-Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b00b48d87b895ed93e550398f649be45.gpx",
+  "_geoloc": {
+    "lat": 51.2843084045,
+    "lng": -0.2411549308
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg/500px-Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg",
+      "title": "AndyScott, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Walton on the Hill, Surrey, Mere Pond"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg/500px-Walton_on_the_Hill%2C_Surrey%2C_Mere_Pond.jpg",
-            "title": "AndyScott, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Walton on the Hill, Surrey, Mere Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Chequers%2C_Walton_on_the_Hill_-_geograph.org.uk_-_1062929.jpg",
-            "title": "Ian Capper / The Chequers, Walton on the Hill",
-            "caption": "The Chequers. One of four pubs in the village, although much rebuilt and extended, the original pub here dates from at least the early 1800s."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Walton-on-the-Hill%2C_St_Peter%27s_Church_from_graveyard.jpg/500px-Walton-on-the-Hill%2C_St_Peter%27s_Church_from_graveyard.jpg",
-            "title": "AndyScott, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "St Peter's Church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pond_on_Walton_Heath_-_geograph.org.uk_-_1152754.jpg",
-            "title": "Ian Capper / Pond on Walton Heath",
-            "caption": "Pond on Walton Heath"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Path_junction_on_Walton_Heath_-_geograph.org.uk_-_1151057.jpg",
-            "title": "Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Path junction on Walton Heath. The noticeboard is of the Banstead Common Conservators who manage the various commons in the area. Walton Heath is the southernmost part of Banstead Heath or Downs in the North Downs."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Banstead_Heath_-_geograph.org.uk_-_1839026.jpg",
-            "title": "Banstead Heath by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Banstead Heath"
-        }
-    ],
-    "distance_km": 7.8,
-    "description": "This Surrey based village is located near Tadworth in the North Downs. This circular walk explores Walton Heath and Banstead Heath which lie just to the south of the settlement. The walk starts in the centre of the village next to the pretty mere pond. There's miles of footpaths on the heaths with features including meadow grasses, wildflowers, woodland and mixed heather. You'll also pass around the old golf course whose former members include King Edward VIII, Winston Churchill and David Lloyd George.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/2CLV8jCTNA8",
-    "county": "Surrey",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Mere Road, Walton On The Hill, Reigate and Banstead, Surrey, England, KT20 5RY, United Kingdom",
-    "postcode": "KT20 5RY",
-    "district": "Reigate and Banstead",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["meadow", "woodland", "heathland"],
-    "points_of_interest": ["golf course", "meadow", "wildflowers"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Chequers%2C_Walton_on_the_Hill_-_geograph.org.uk_-_1062929.jpg",
+      "title": "Ian Capper / The Chequers, Walton on the Hill",
+      "caption": "The Chequers. One of four pubs in the village, although much rebuilt and extended, the original pub here dates from at least the early 1800s."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Walton-on-the-Hill%2C_St_Peter%27s_Church_from_graveyard.jpg/500px-Walton-on-the-Hill%2C_St_Peter%27s_Church_from_graveyard.jpg",
+      "title": "AndyScott, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "St Peter's Church"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pond_on_Walton_Heath_-_geograph.org.uk_-_1152754.jpg",
+      "title": "Ian Capper / Pond on Walton Heath",
+      "caption": "Pond on Walton Heath"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Path_junction_on_Walton_Heath_-_geograph.org.uk_-_1151057.jpg",
+      "title": "Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Path junction on Walton Heath. The noticeboard is of the Banstead Common Conservators who manage the various commons in the area. Walton Heath is the southernmost part of Banstead Heath or Downs in the North Downs."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Banstead_Heath_-_geograph.org.uk_-_1839026.jpg",
+      "title": "Banstead Heath by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Banstead Heath"
+    }
+  ],
+  "distance_km": 7.8,
+  "description": "This Surrey based village is located near Tadworth in the North Downs. This circular walk explores Walton Heath and Banstead Heath which lie just to the south of the settlement. The walk starts in the centre of the village next to the pretty mere pond. There's miles of footpaths on the heaths with features including meadow grasses, wildflowers, woodland and mixed heather. You'll also pass around the old golf course whose former members include King Edward VIII, Winston Churchill and David Lloyd George.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/2CLV8jCTNA8",
+  "county": "Surrey",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Mere Road, Walton On The Hill, Reigate and Banstead, Surrey, England, KT20 5RY, United Kingdom",
+  "postcode": "KT20 5RY",
+  "district": "Reigate and Banstead",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 36 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "heath",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "mere pond",
+    "golf course"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

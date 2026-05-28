@@ -1,125 +1,137 @@
 {
-    "created_at": "2025-01-05T23:40:27.650063+00:00",
-    "objectID": "bdc6a6b90c57bb67ff2c99c965ad3cf3",
-    "ref": "brocks-hill-country-park-walking-route",
-    "title": "Brocks Hill Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bird_Sculpture_Brock_Hill_Country_Park_-_geograph.org.uk_-_2182337.jpg",
-    "nearby": [
-        {
-            "description": "Aylestone Meadows",
-            "objectID": "1505d6ac56a766c17051419be8d0e531",
-            "ref": "aylestone-meadows-walking-route"
-        },
-        {
-            "description": "Grand Union Canal Walk",
-            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-            "ref": "grand-union-canal-walk-walking-route"
-        },
-        {
-            "description": "River Soar",
-            "objectID": "0fbaf52f510b686b74bfc86bd7d6972c",
-            "ref": "river-soar-walking-route"
-        },
-        {
-            "description": "Watermead Country Park",
-            "objectID": "4ee1e93e28b7697c6da3f6a17a15aee5",
-            "ref": "watermead-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Everards Meadows",
-            "objectID": "588810ca7137445b483e64fa52fe4a59",
-            "ref": "everards-meadows-walking-and-cycle-route"
-        },
-        {
-            "description": "Wistow",
-            "objectID": "899e84f4b5c684fff2b137e50bf9111d",
-            "ref": "wistow-walking-route"
-        },
-        {
-            "description": "Kibworth",
-            "objectID": "f469f279e601cb4aacdee79bc3975aa2",
-            "ref": "kibworth-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bdc6a6b90c57bb67ff2c99c965ad3cf3.gpx",
-    "_geoloc": {
-        "lat": 52.5943484325,
-        "lng": -1.0865934086
+  "created_at": "2025-01-05T23:40:27.650063+00:00",
+  "objectID": "bdc6a6b90c57bb67ff2c99c965ad3cf3",
+  "ref": "brocks-hill-country-park-walking-route",
+  "title": "Brocks Hill Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bird_Sculpture_Brock_Hill_Country_Park_-_geograph.org.uk_-_2182337.jpg",
+  "nearby": [
+    {
+      "description": "Aylestone Meadows",
+      "objectID": "1505d6ac56a766c17051419be8d0e531",
+      "ref": "aylestone-meadows-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bird_Sculpture_Brock_Hill_Country_Park_-_geograph.org.uk_-_2182337.jpg",
-            "title": "Bird Sculpture Brock Hill Country Park by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bird Sculpture Brock Hill Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brocks_hill_-_panoramio.jpg/500px-Brocks_hill_-_panoramio.jpg",
-            "title": "Nick Hitchings, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "A wintery scene at the park 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brocks_hill_-_panoramio_-_Nick_Hitchings_%281%29.jpg/500px-Brocks_hill_-_panoramio_-_Nick_Hitchings_%281%29.jpg",
-            "title": "Nick Hitchings, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "A wintery scene at the park 2"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lucas_Marsh_Nature_Reserve_-_geograph.org.uk_-_2182154.jpg",
-            "title": "Lucas Marsh Nature Reserve by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lucas Marsh Nature Reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231379.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231379.jpg",
-            "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wildlife scuplture"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231358.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231358.jpg",
-            "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Playground"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Brocks_Hill_Country_Park_-_geograph.org.uk_-_2845689.jpg/500px-Brocks_Hill_Country_Park_-_geograph.org.uk_-_2845689.jpg",
-            "title": "Brocks Hill Country Park by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of one of the surfaced footpaths"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231305.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231305.jpg",
-            "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Visitor centre"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "Enjoy woodland, meadows, ponds and a community orchard in this 67 acre country park in Leicester. There are a number of well laid out footpaths to follow and a visitor centre with a cafe. The park is located between Oadby and Wigston. On the site there's some interesting sculptures and handy information boards which tell you all about the flora and fauna you can see here. Look out for a variety of butterflies around the meadows and several species of woodland bird.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a decent on site cafe selling a range of snacks and meals."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The park is a popular place for dog walkers so you'll probably see other owners on your visit. There's waterbowls and waste bags available at the Country Park Centre. Please keep them under close control as you make your way around the site."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "If you head to the western side of the city you can visit Leicester's largest local nature reserve at Aylestone Meadows. Near here you could also pick up the River Soar Walk and visit the lovely Watermead Country Park where there are a series of lakes to explore. Just to the south there's Everards Meadows where there's a popular cycle route and more nice walking trails. The site also includes a cafe and cycle hire centre. For more walking ideas in the area see the Leicestershire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/nhKKZjBRRmY",
-    "district": "Oadby and Wigston",
-    "county": "Leicestershire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Washbrook Lane, Oadby, Oadby and Wigston, Leicestershire, England, LE2 5QG, United Kingdom",
-    "postcode": "LE2 5QG",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "meadow", "ponds"],
-    "points_of_interest": ["sculptures", "information boards"],
-    "facilities": ["visitor center", "cafe", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Grand Union Canal Walk",
+      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+      "ref": "grand-union-canal-walk-walking-route"
+    },
+    {
+      "description": "River Soar",
+      "objectID": "0fbaf52f510b686b74bfc86bd7d6972c",
+      "ref": "river-soar-walking-route"
+    },
+    {
+      "description": "Watermead Country Park",
+      "objectID": "4ee1e93e28b7697c6da3f6a17a15aee5",
+      "ref": "watermead-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Everards Meadows",
+      "objectID": "588810ca7137445b483e64fa52fe4a59",
+      "ref": "everards-meadows-walking-and-cycle-route"
+    },
+    {
+      "description": "Wistow",
+      "objectID": "899e84f4b5c684fff2b137e50bf9111d",
+      "ref": "wistow-walking-route"
+    },
+    {
+      "description": "Kibworth",
+      "objectID": "f469f279e601cb4aacdee79bc3975aa2",
+      "ref": "kibworth-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bdc6a6b90c57bb67ff2c99c965ad3cf3.gpx",
+  "_geoloc": {
+    "lat": 52.5943484325,
+    "lng": -1.0865934086
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bird_Sculpture_Brock_Hill_Country_Park_-_geograph.org.uk_-_2182337.jpg",
+      "title": "Bird Sculpture Brock Hill Country Park by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bird Sculpture Brock Hill Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brocks_hill_-_panoramio.jpg/500px-Brocks_hill_-_panoramio.jpg",
+      "title": "Nick Hitchings, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "A wintery scene at the park 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brocks_hill_-_panoramio_-_Nick_Hitchings_%281%29.jpg/500px-Brocks_hill_-_panoramio_-_Nick_Hitchings_%281%29.jpg",
+      "title": "Nick Hitchings, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "A wintery scene at the park 2"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lucas_Marsh_Nature_Reserve_-_geograph.org.uk_-_2182154.jpg",
+      "title": "Lucas Marsh Nature Reserve by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lucas Marsh Nature Reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231379.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231379.jpg",
+      "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wildlife scuplture"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231358.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231358.jpg",
+      "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Playground"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Brocks_Hill_Country_Park_-_geograph.org.uk_-_2845689.jpg/500px-Brocks_Hill_Country_Park_-_geograph.org.uk_-_2845689.jpg",
+      "title": "Brocks Hill Country Park by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of one of the surfaced footpaths"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231305.jpg/500px-Brocks_Hill_Country_Park%2C_Oadby%2C_Leics_-_geograph.org.uk_-_4231305.jpg",
+      "title": "Brocks Hill Country Park, Oadby, Leics by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Visitor centre"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "Enjoy woodland, meadows, ponds and a community orchard in this 67 acre country park in Leicester. There are a number of well laid out footpaths to follow and a visitor centre with a cafe. The park is located between Oadby and Wigston. On the site there's some interesting sculptures and handy information boards which tell you all about the flora and fauna you can see here. Look out for a variety of butterflies around the meadows and several species of woodland bird.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a decent on site cafe selling a range of snacks and meals."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers so you'll probably see other owners on your visit. There's waterbowls and waste bags available at the Country Park Centre. Please keep them under close control as you make your way around the site."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head to the western side of the city you can visit Leicester's largest local nature reserve at Aylestone Meadows. Near here you could also pick up the River Soar Walk and visit the lovely Watermead Country Park where there are a series of lakes to explore. Just to the south there's Everards Meadows where there's a popular cycle route and more nice walking trails. The site also includes a cafe and cycle hire centre. For more walking ideas in the area see the Leicestershire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/nhKKZjBRRmY",
+  "district": "Oadby and Wigston",
+  "county": "Leicestershire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Washbrook Lane, Oadby, Oadby and Wigston, Leicestershire, England, LE2 5QG, United Kingdom",
+  "postcode": "LE2 5QG",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "community orchard",
+    "sculpture",
+    "information board"
+  ],
+  "facilities": [
+    "cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

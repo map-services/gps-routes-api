@@ -176,27 +176,28 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 days",
+  "estimated_duration": "multiple days",
   "difficulty": "hard",
   "terrain": [
-    "moorland",
+    "moor",
     "woodland",
+    "waterside",
     "mountain",
-    "riverside"
+    "limestone pavement"
   ],
   "points_of_interest": [
-    "historical site",
-    "waterfall",
-    "mountain",
+    "castle",
     "reservoir",
-    "estate"
+    "tarn estate",
+    "cove",
+    "waterfall",
+    "mountain"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
+    "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

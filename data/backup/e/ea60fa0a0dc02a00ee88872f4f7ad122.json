@@ -1,125 +1,137 @@
 {
-    "created_at": "2025-01-06T02:00:03.852626+00:00",
-    "objectID": "ea60fa0a0dc02a00ee88872f4f7ad122",
-    "ref": "barbon-beck-barbondale-walking-route",
-    "title": "Barbon Beck Barbondale Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hodge_Bridge%2C_Barbon_-_geograph.org.uk_-_1809681.jpg",
-    "nearby": [
-        {
-            "description": "Hutton Roof Crags and Farleton Fell",
-            "objectID": "45c8071e530c3a3176f84d07f693dee8",
-            "ref": "hutton-roof-crags-and-farleton-fell-walking-route"
-        },
-        {
-            "description": "Limestone Link - Cumbria",
-            "objectID": "f99b43897564868d28aedf06537bc686",
-            "ref": "limestone-link---cumbria-walking-route"
-        },
-        {
-            "description": "Lune Valley Ramble",
-            "objectID": "25c5d1d74f76b40478e940ad881928d9",
-            "ref": "lune-valley-ramble-walking-route"
-        },
-        {
-            "description": "Kirkby Lonsdale",
-            "objectID": "220c02875939bf7e0816504c860107e5",
-            "ref": "kirkby-lonsdale-walking-route"
-        },
-        {
-            "description": "Carnforth Canal Walk",
-            "objectID": "61288e053608d9f519b60ff29a4ab1b8",
-            "ref": "carnforth-canal-walk-walking-route"
-        },
-        {
-            "description": "Sedbergh - River Dee - Dentdale",
-            "objectID": "0654b73282f24febdd6886f8297e1fcb",
-            "ref": "sedbergh---river-dee---dentdale-walking-route"
-        },
-        {
-            "description": "Sedbergh Circular Walk",
-            "objectID": "d229b3606a225817421cd5f0ad989a48",
-            "ref": "sedbergh-circular-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea60fa0a0dc02a00ee88872f4f7ad122.gpx",
-    "_geoloc": {
-        "lat": 54.2365082497,
-        "lng": -2.5677861503
+  "created_at": "2025-01-06T02:00:03.852626+00:00",
+  "objectID": "ea60fa0a0dc02a00ee88872f4f7ad122",
+  "ref": "barbon-beck-barbondale-walking-route",
+  "title": "Barbon Beck Barbondale Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hodge_Bridge%2C_Barbon_-_geograph.org.uk_-_1809681.jpg",
+  "nearby": [
+    {
+      "description": "Hutton Roof Crags and Farleton Fell",
+      "objectID": "45c8071e530c3a3176f84d07f693dee8",
+      "ref": "hutton-roof-crags-and-farleton-fell-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hodge_Bridge%2C_Barbon_-_geograph.org.uk_-_1809681.jpg",
-            "title": "Hodge Bridge, Barbon by Maigheach-gheal, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hodge Bridge, Barbon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/A_track_in_Barbondale_-_geograph.org.uk_-_1817787.jpg/500px-A_track_in_Barbondale_-_geograph.org.uk_-_1817787.jpg",
-            "title": "A track in Barbondale by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A track in Barbondale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Barbon_Beck_-_geograph.org.uk_-_963082.jpg/330px-The_Barbon_Beck_-_geograph.org.uk_-_963082.jpg",
-            "title": "Tom Richardson / The Barbon Beck",
-            "caption": "The Barbon Beck"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ford_across_Barbon_Beck_-_geograph.org.uk_-_1817790.jpg/500px-Ford_across_Barbon_Beck_-_geograph.org.uk_-_1817790.jpg",
-            "title": "Ford across Barbon Beck by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ford across Barbon Beck"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Castle_Knott_-_geograph.org.uk_-_131453.jpg",
-            "title": "John Illingworth / Castle Knott",
-            "caption": "Castle Knott"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wall_on_Calf_Top_-_geograph.org.uk_-_1909887.jpg",
-            "title": "Wall on Calf Top by Michael Graham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wall on Calf Top"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Barkin_Top_-_geograph.org.uk_-_131438.jpg",
-            "title": "John Illingworth / Barkin Top",
-            "caption": "Barkin Top. Part of the ridge along the edge of Middleton Fell which formed the old Westmorland-Yorkshire border, now the Yorkshire Dales National Park boundary."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Barbon_in_Cumbria_-_geograph.org.uk_-_1655193.jpg",
-            "title": "Eamon Curry / Barbon in Cumbria",
-            "caption": "A lovely pair of cottages in the village of Barbon in Cumbria."
-        }
-    ],
-    "distance_km": 15.0,
-    "description": "This lovely valley in the Cumbrian section of the Yorkshire Dales is a great place for a peaceful, waterside walk. It can also be made into a challenging circular walk by climbing Castle Knott Hill and Calf Top Hill. The circular walk starts from the village of Barbon which is located just a few miles north east of Kirkby Lonsdale. The Barbon Beck runs through the village to the River Lune, about one mile to the west. After leaving the village you climb to Eskhome Pike, Castle Knott Hill and Calf Top Hill. It's a challenging climb with Calf Top Hill reaching a height of 609m (2000 ft). From the high points there are splendid views of the surrounding fells and countryside. The route then descends from Calf Top to Hanging Clint and Rowel Gill. Here you pick up the much easier path along the beck through Barbondale. On the way you'll pass a series of pretty waterfalls and a woodland section at Barbon Manor. For an easier walk you can just take the southern section of the path along the Beck which is very flat. To extend your walking in the area you could head to Kirkby Lonsdale, pick up the Lune Valley Ramble and enjoy another waterside walk along the River Lune. You could also follow the Limestone Link to Hutton Roof Crags and Farleton Fell where you will find some of the finest limestone pavement in the country.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Back in Barbon village there's the Barbon Inn for post walk refreshments. The 17th century former coaching inn serves high quality dishes and provides accommodation too. There's an attractive garden area which is popular with walkers and cyclists looking for a peaceful spot to relax in. You can find them at postcode LA6 2LJ. Another option is to head into nearby Kirkby Lonsdale and visit the Snooty Fox. The classic old pub dates from the 17th century and has an excellent menu. There's also a nice beer garden to relax in on warmer days. You can find it in the attractive market town on Main Street with a postcode of LA6 2AH for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The beck and fells make for a fine walk for fit dogs. The Barbon Inn mentioned above is also very dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The village is not far from the coastal town of Carnforth where you could enjoy an easy waterside stroll on the Carnforth Canal Walk. Just to the north is Sedbergh where there's the River Dee - Dentdale Walk and the Sedbergh Circular Walk to try around the town. For more walking ideas in the area see the Cumbria Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/yAdI7x8JcH8",
-    "district": "Barbon",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Town End, Barbon, Westmorland and Furness, England, LA6 2LJ, United Kingdom",
-    "postcode": "LA6 2LJ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["waterfall", "woodland"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Limestone Link - Cumbria",
+      "objectID": "f99b43897564868d28aedf06537bc686",
+      "ref": "limestone-link---cumbria-walking-route"
+    },
+    {
+      "description": "Lune Valley Ramble",
+      "objectID": "25c5d1d74f76b40478e940ad881928d9",
+      "ref": "lune-valley-ramble-walking-route"
+    },
+    {
+      "description": "Kirkby Lonsdale",
+      "objectID": "220c02875939bf7e0816504c860107e5",
+      "ref": "kirkby-lonsdale-walking-route"
+    },
+    {
+      "description": "Carnforth Canal Walk",
+      "objectID": "61288e053608d9f519b60ff29a4ab1b8",
+      "ref": "carnforth-canal-walk-walking-route"
+    },
+    {
+      "description": "Sedbergh - River Dee - Dentdale",
+      "objectID": "0654b73282f24febdd6886f8297e1fcb",
+      "ref": "sedbergh---river-dee---dentdale-walking-route"
+    },
+    {
+      "description": "Sedbergh Circular Walk",
+      "objectID": "d229b3606a225817421cd5f0ad989a48",
+      "ref": "sedbergh-circular-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea60fa0a0dc02a00ee88872f4f7ad122.gpx",
+  "_geoloc": {
+    "lat": 54.2365082497,
+    "lng": -2.5677861503
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hodge_Bridge%2C_Barbon_-_geograph.org.uk_-_1809681.jpg",
+      "title": "Hodge Bridge, Barbon by Maigheach-gheal, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hodge Bridge, Barbon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/A_track_in_Barbondale_-_geograph.org.uk_-_1817787.jpg/500px-A_track_in_Barbondale_-_geograph.org.uk_-_1817787.jpg",
+      "title": "A track in Barbondale by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A track in Barbondale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Barbon_Beck_-_geograph.org.uk_-_963082.jpg/330px-The_Barbon_Beck_-_geograph.org.uk_-_963082.jpg",
+      "title": "Tom Richardson / The Barbon Beck",
+      "caption": "The Barbon Beck"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ford_across_Barbon_Beck_-_geograph.org.uk_-_1817790.jpg/500px-Ford_across_Barbon_Beck_-_geograph.org.uk_-_1817790.jpg",
+      "title": "Ford across Barbon Beck by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ford across Barbon Beck"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Castle_Knott_-_geograph.org.uk_-_131453.jpg",
+      "title": "John Illingworth / Castle Knott",
+      "caption": "Castle Knott"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wall_on_Calf_Top_-_geograph.org.uk_-_1909887.jpg",
+      "title": "Wall on Calf Top by Michael Graham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wall on Calf Top"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Barkin_Top_-_geograph.org.uk_-_131438.jpg",
+      "title": "John Illingworth / Barkin Top",
+      "caption": "Barkin Top. Part of the ridge along the edge of Middleton Fell which formed the old Westmorland-Yorkshire border, now the Yorkshire Dales National Park boundary."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Barbon_in_Cumbria_-_geograph.org.uk_-_1655193.jpg",
+      "title": "Eamon Curry / Barbon in Cumbria",
+      "caption": "A lovely pair of cottages in the village of Barbon in Cumbria."
+    }
+  ],
+  "distance_km": 15.0,
+  "description": "This lovely valley in the Cumbrian section of the Yorkshire Dales is a great place for a peaceful, waterside walk. It can also be made into a challenging circular walk by climbing Castle Knott Hill and Calf Top Hill. The circular walk starts from the village of Barbon which is located just a few miles north east of Kirkby Lonsdale. The Barbon Beck runs through the village to the River Lune, about one mile to the west. After leaving the village you climb to Eskhome Pike, Castle Knott Hill and Calf Top Hill. It's a challenging climb with Calf Top Hill reaching a height of 609m (2000 ft). From the high points there are splendid views of the surrounding fells and countryside. The route then descends from Calf Top to Hanging Clint and Rowel Gill. Here you pick up the much easier path along the beck through Barbondale. On the way you'll pass a series of pretty waterfalls and a woodland section at Barbon Manor. For an easier walk you can just take the southern section of the path along the Beck which is very flat. To extend your walking in the area you could head to Kirkby Lonsdale, pick up the Lune Valley Ramble and enjoy another waterside walk along the River Lune. You could also follow the Limestone Link to Hutton Roof Crags and Farleton Fell where you will find some of the finest limestone pavement in the country.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in Barbon village there's the Barbon Inn for post walk refreshments. The 17th century former coaching inn serves high quality dishes and provides accommodation too. There's an attractive garden area which is popular with walkers and cyclists looking for a peaceful spot to relax in. You can find them at postcode LA6 2LJ. Another option is to head into nearby Kirkby Lonsdale and visit the Snooty Fox. The classic old pub dates from the 17th century and has an excellent menu. There's also a nice beer garden to relax in on warmer days. You can find it in the attractive market town on Main Street with a postcode of LA6 2AH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The beck and fells make for a fine walk for fit dogs. The Barbon Inn mentioned above is also very dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The village is not far from the coastal town of Carnforth where you could enjoy an easy waterside stroll on the Carnforth Canal Walk. Just to the north is Sedbergh where there's the River Dee - Dentdale Walk and the Sedbergh Circular Walk to try around the town. For more walking ideas in the area see the Cumbria Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/yAdI7x8JcH8",
+  "district": "Barbon",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Town End, Barbon, Westmorland and Furness, England, LA6 2LJ, United Kingdom",
+  "postcode": "LA6 2LJ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "waterfall",
+    "limestone pavement"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

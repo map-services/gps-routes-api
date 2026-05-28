@@ -102,26 +102,30 @@
   "postcode": "ME17 2PH",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
     "downland",
     "woodland",
+    "orchard",
+    "farmland",
     "marshland"
   ],
   "points_of_interest": [
-    "villages",
-    "hamlets",
-    "historic towns",
+    "historic town",
+    "cathedral",
     "lake",
     "watermill",
-    "Norman Keep"
+    "Norman Keep",
+    "national nature reserve",
+    "estuary"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "car park",
+    "picnic area"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

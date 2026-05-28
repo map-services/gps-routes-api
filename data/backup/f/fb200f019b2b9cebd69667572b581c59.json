@@ -1,112 +1,122 @@
 {
-    "created_at": "2025-01-06T01:34:27.928238+00:00",
-    "objectID": "fb200f019b2b9cebd69667572b581c59",
-    "ref": "arrochar-walking-route",
-    "title": "Arrochar Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
-    "nearby": [
-        {
-            "description": "Three Lochs Way",
-            "objectID": "fa62927297a08219759fa017ac10efed",
-            "ref": "three-lochs-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Cowal Way",
-            "objectID": "edc7929e768b691e075889109f9c7d54",
-            "ref": "cowal-way-walking-route"
-        },
-        {
-            "description": "The Cobbler Mountain",
-            "objectID": "61cfc88ddf55437e36dd6ba4bd900600",
-            "ref": "the-cobbler-mountain-walking-route"
-        },
-        {
-            "description": "Loch Sloy",
-            "objectID": "cb2f9c5d96862f086b4f885891a9f9e5",
-            "ref": "loch-sloy-walking-route"
-        },
-        {
-            "description": "Inveraray Castle",
-            "objectID": "8eb4336f8c3536edbd000ac853da78ad",
-            "ref": "inveraray-castle-walking-route"
-        },
-        {
-            "description": "Lochgoilhead and Loch Goil",
-            "objectID": "5fb154e4cdb8ac0bc512f01be27cd3b4",
-            "ref": "lochgoilhead-and-loch-goil-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb200f019b2b9cebd69667572b581c59.gpx",
-    "_geoloc": {
-        "lat": 56.2031241068,
-        "lng": -4.7232766086
+  "created_at": "2025-01-06T01:34:27.928238+00:00",
+  "objectID": "fb200f019b2b9cebd69667572b581c59",
+  "ref": "arrochar-walking-route",
+  "title": "Arrochar Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
+  "nearby": [
+    {
+      "description": "Three Lochs Way",
+      "objectID": "fa62927297a08219759fa017ac10efed",
+      "ref": "three-lochs-way-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
-            "title": "Andrew Smith / Loch Long and Arrochar, via Wikimedia Commons",
-            "caption": "Loch Long and Arrochar, near to Arrochar, Argyll And Bute, Great Britain. A view across the head of the tidal loch from the start of the path to Beinn Narnain above Succoth. Ben Reoch is in the background beyond the ridge extending southwest from Cruach Taibeirt."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Succoth_%28geograph_3396667%29.jpg",
-            "title": "Richard Webb [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Succoth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/On_The_West_Highland_Line_-_Arrochar_and_Tarbet_Station_from_geograph-2982082-by-Richard-West.jpg/500px-On_The_West_Highland_Line_-_Arrochar_and_Tarbet_Station_from_geograph-2982082-by-Richard-West.jpg",
-            "title": "Richard West / On The West Highland Line : Arrochar and Tarbert Station, via Wikimedia Commons",
-            "caption": "On The West Highland Line : Arrochar and Tarbet Station"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stronafyne.jpg",
-            "title": "Adam Ward [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Stronafyne"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/The_phone_box_at_Succoth_looking_lonely_amid_the_misty_hills_%28geograph_2913169%29.jpg",
-            "title": "Elliott Simpson / The phone box at Succoth looking lonely amid the misty hills, via Wikimedia Commons",
-            "caption": "The phone box at Succoth looking lonely amid the misty hills"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Loch_Long_-_geograph.org.uk_-_33500.jpg",
-            "title": "Kevin Rae / Loch Long, via Wikimedia Commons",
-            "caption": "Loch Long. Looking down Loch Long from the path which leads to the Buttermilk Burn Dam. The path you used to take when walking up the Cobbler from Succoth."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
-            "title": "Andrew Smith / Loch Long and Arrochar, via Wikimedia Commons",
-            "caption": "Loch Long and Arrochar. A view across the head of the tidal loch from the start of the path to Beinn Narnain above Succoth. Ben Reoch is in the background beyond the ridge extending southwest from Cruach Taibeirt."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_Arrochar_Pier%2C_Loch_Long%2C_Argyll_and_Bute%2C_Scotlland.jpg/500px-Old_Arrochar_Pier%2C_Loch_Long%2C_Argyll_and_Bute%2C_Scotlland.jpg",
-            "title": "Rosser1954 [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Old Arrochar Pier, Loch Long. 1977 saw the closure of the pier to steamers."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "This circular walk explores the area around the village of Succoth, just to the west of Arrochar. There's nice views over Loch Long and the surrounding mountains. You can catch the train to Arrochar from Glasgow on the West Highland Line. The journey is less than 1.5 hours and is also a direct service. The walk starts from Arrochar and Tarbet train station where you can pick up the Three Lochs Way waymarked trail and follow it towards Stronafyne and then on to Succoth. You can then follow a waymarked, circular trail through woodland around the village. You'll enjoy fine views of Glen Loin, Loin Water, Loch Long and Ben Lomond as you make your way along the path. To continue your walking in the area climb to The Cobbler Mountain in the Arrochar Alps. Also known as Ben Arthur, the climb to the summit starts near Succoth and heads in a north westerly direction. The Cowal Way also passes the village. The waymarked trail visits Loch Fyne, the Kyle of Bute and Loch Ruel. You could follow the trail west to visit Lochgoilhead and Loch Goil where you can enjoy some splendid waterfalls on Donich Water.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head a few miles north and you could visit the impressive Loch Sloy Dam and enjoy fine views down to the loch below. Ben Vorlich is also near the loch and a good climb to try in the area. Head west to Loch Fyne and you could visit Inveraray Castle. The photogenic Gothic Revival castle dates back to the 18th century and is surrounded by lovely parkland, woodland and gardens. There's also a wonderful viewpoint with fine views down to the loch. For more walking ideas in the area see the Loch Lomond and the Trossachs Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/BXhdavFPsdY",
-    "district": "Tarbet",
-    "county": "Argyll and Bute",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Station road, Stuckiedhu, Tarbet, Argyll and Bute, Alba / Scotland, G83 7DA, United Kingdom",
-    "postcode": "G83 7DA",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["viewpoint", "waterfall"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Cowal Way",
+      "objectID": "edc7929e768b691e075889109f9c7d54",
+      "ref": "cowal-way-walking-route"
+    },
+    {
+      "description": "The Cobbler Mountain",
+      "objectID": "61cfc88ddf55437e36dd6ba4bd900600",
+      "ref": "the-cobbler-mountain-walking-route"
+    },
+    {
+      "description": "Loch Sloy",
+      "objectID": "cb2f9c5d96862f086b4f885891a9f9e5",
+      "ref": "loch-sloy-walking-route"
+    },
+    {
+      "description": "Inveraray Castle",
+      "objectID": "8eb4336f8c3536edbd000ac853da78ad",
+      "ref": "inveraray-castle-walking-route"
+    },
+    {
+      "description": "Lochgoilhead and Loch Goil",
+      "objectID": "5fb154e4cdb8ac0bc512f01be27cd3b4",
+      "ref": "lochgoilhead-and-loch-goil-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb200f019b2b9cebd69667572b581c59.gpx",
+  "_geoloc": {
+    "lat": 56.2031241068,
+    "lng": -4.7232766086
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
+      "title": "Andrew Smith / Loch Long and Arrochar, via Wikimedia Commons",
+      "caption": "Loch Long and Arrochar, near to Arrochar, Argyll And Bute, Great Britain. A view across the head of the tidal loch from the start of the path to Beinn Narnain above Succoth. Ben Reoch is in the background beyond the ridge extending southwest from Cruach Taibeirt."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Succoth_%28geograph_3396667%29.jpg",
+      "title": "Richard Webb [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Succoth"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/On_The_West_Highland_Line_-_Arrochar_and_Tarbet_Station_from_geograph-2982082-by-Richard-West.jpg/500px-On_The_West_Highland_Line_-_Arrochar_and_Tarbet_Station_from_geograph-2982082-by-Richard-West.jpg",
+      "title": "Richard West / On The West Highland Line : Arrochar and Tarbert Station, via Wikimedia Commons",
+      "caption": "On The West Highland Line : Arrochar and Tarbet Station"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stronafyne.jpg",
+      "title": "Adam Ward [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Stronafyne"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/The_phone_box_at_Succoth_looking_lonely_amid_the_misty_hills_%28geograph_2913169%29.jpg",
+      "title": "Elliott Simpson / The phone box at Succoth looking lonely amid the misty hills, via Wikimedia Commons",
+      "caption": "The phone box at Succoth looking lonely amid the misty hills"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Loch_Long_-_geograph.org.uk_-_33500.jpg",
+      "title": "Kevin Rae / Loch Long, via Wikimedia Commons",
+      "caption": "Loch Long. Looking down Loch Long from the path which leads to the Buttermilk Burn Dam. The path you used to take when walking up the Cobbler from Succoth."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loch_Long_and_Arrochar_864714.jpg",
+      "title": "Andrew Smith / Loch Long and Arrochar, via Wikimedia Commons",
+      "caption": "Loch Long and Arrochar. A view across the head of the tidal loch from the start of the path to Beinn Narnain above Succoth. Ben Reoch is in the background beyond the ridge extending southwest from Cruach Taibeirt."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_Arrochar_Pier%2C_Loch_Long%2C_Argyll_and_Bute%2C_Scotlland.jpg/500px-Old_Arrochar_Pier%2C_Loch_Long%2C_Argyll_and_Bute%2C_Scotlland.jpg",
+      "title": "Rosser1954 [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Old Arrochar Pier, Loch Long. 1977 saw the closure of the pier to steamers."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "This circular walk explores the area around the village of Succoth, just to the west of Arrochar. There's nice views over Loch Long and the surrounding mountains. You can catch the train to Arrochar from Glasgow on the West Highland Line. The journey is less than 1.5 hours and is also a direct service. The walk starts from Arrochar and Tarbet train station where you can pick up the Three Lochs Way waymarked trail and follow it towards Stronafyne and then on to Succoth. You can then follow a waymarked, circular trail through woodland around the village. You'll enjoy fine views of Glen Loin, Loin Water, Loch Long and Ben Lomond as you make your way along the path. To continue your walking in the area climb to The Cobbler Mountain in the Arrochar Alps. Also known as Ben Arthur, the climb to the summit starts near Succoth and heads in a north westerly direction. The Cowal Way also passes the village. The waymarked trail visits Loch Fyne, the Kyle of Bute and Loch Ruel. You could follow the trail west to visit Lochgoilhead and Loch Goil where you can enjoy some splendid waterfalls on Donich Water.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles north and you could visit the impressive Loch Sloy Dam and enjoy fine views down to the loch below. Ben Vorlich is also near the loch and a good climb to try in the area. Head west to Loch Fyne and you could visit Inveraray Castle. The photogenic Gothic Revival castle dates back to the 18th century and is surrounded by lovely parkland, woodland and gardens. There's also a wonderful viewpoint with fine views down to the loch. For more walking ideas in the area see the Loch Lomond and the Trossachs Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/BXhdavFPsdY",
+  "district": "Tarbet",
+  "county": "Argyll and Bute",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station road, Stuckiedhu, Tarbet, Argyll and Bute, Alba / Scotland, G83 7DA, United Kingdom",
+  "postcode": "G83 7DA",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

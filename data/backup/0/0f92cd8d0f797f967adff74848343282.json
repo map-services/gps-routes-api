@@ -1,112 +1,123 @@
 {
-    "created_at": "2025-01-06T02:41:15.870158+00:00",
-    "objectID": "0f92cd8d0f797f967adff74848343282",
-    "ref": "glyndwrs-way-walking-route",
-    "title": "Glyndwr's Way National Trail Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Glyndwr%27s_Way_-_geograph.org.uk_-_228907.jpg",
-    "nearby": [
-        {
-            "description": "Knighton",
-            "objectID": "0a99012b873d88c0d5d0a3d17af78b38",
-            "ref": "knighton-walking-route"
-        },
-        {
-            "description": "Llyn Clywedog",
-            "objectID": "2cfd50509b1de4d9fd11ced16f55206a",
-            "ref": "llyn-clywedog-walking-and-cycle-route"
-        },
-        {
-            "description": "Lake Vyrnwy",
-            "objectID": "73cca2c40e644ae9c1f87a1804fa76f8",
-            "ref": "lake-vyrnwy-walking-and-cycle-route"
-        },
-        {
-            "description": "Rhiwargor Waterfall",
-            "objectID": "82ede8009567f6e2089df40c2e05d72d",
-            "ref": "rhiwargor-waterfall-walking-route"
-        },
-        {
-            "description": "Welshpool",
-            "objectID": "98056822d9077a86a6bd39d9c2c45387",
-            "ref": "welshpool-walking-route"
-        },
-        {
-            "description": "Dylife Waterfall Walk",
-            "objectID": "7044d510e9c01660b3982b71310fa4e4",
-            "ref": "dylife-waterfall-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0f92cd8d0f797f967adff74848343282.gpx",
-    "_geoloc": {
-        "lat": 52.3442972602,
-        "lng": -3.0498692832
+  "created_at": "2025-01-06T02:41:15.870158+00:00",
+  "objectID": "0f92cd8d0f797f967adff74848343282",
+  "ref": "glyndwrs-way-walking-route",
+  "title": "Glyndwr's Way National Trail Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Glyndwr%27s_Way_-_geograph.org.uk_-_228907.jpg",
+  "nearby": [
+    {
+      "description": "Knighton",
+      "objectID": "0a99012b873d88c0d5d0a3d17af78b38",
+      "ref": "knighton-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Glyndwr%27s_Way_-_geograph.org.uk_-_228907.jpg",
-            "title": "Philip Halling / Glyndwr's Way",
-            "caption": "Here Glyndwr's Way passes a livestock shed and pens to reach a lane above Llyn Clywedog reservoir."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Glynd%C5%B5r%27s_Way_-_geograph.org.uk_-_567053.jpg",
-            "title": "Chris Denny / Glynd\u0175r\u2019s Way",
-            "caption": "Looking south towards Glaspwll from near Wylfa"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Glynd%C5%B5r%27s_Way_-_geograph.org.uk_-_986792.jpg",
-            "title": "Nigel Brown / Glynd\u0175r's Way",
-            "caption": "Following this minor road east of Llanidloes."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/View_west_from_Glyndwr%27s_Way_-_geograph.org.uk_-_502651.jpg",
-            "title": "Roger Butler / View west from Glyndwr's Way",
-            "caption": "View west. The track in the picture isn't a right of way. There are lots of windfarms on the far horizon."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mountain_Ponies_beside_Glyndwr%27s_Way_-_geograph.org.uk_-_321502.jpg",
-            "title": "Geoff Cryer / Mountain Ponies beside Glyndwr's Way",
-            "caption": "Mountain ponies graze beside Glyndwr's way, on the route from Cefn Pawl southwards towards Warren Bank and Black Mountain"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fallen_finger_post_on_Glyndwr%27s_Way_-_geograph.org.uk_-_1176485.jpg",
-            "title": "Nigel Davies / Fallen finger post on Glyndwr's Way",
-            "caption": "Fallen finger post on the trail. The obvious farm track ascends Pegwn Bach southeastwards in the rear of the shot. The trail branches off to the south out of the rear of shot on a fairly indistinct path. This finger post would have been a help."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sheep_walking_Glyndwr%27s_Way_-_geograph.org.uk_-_676965.jpg",
-            "title": "Rudi Winter / Sheep walking Glyndwr's Way",
-            "caption": "A flock of sheep at Pen y Banc appears to be setting off southwards on the trail, which follows the line of trees onto the wide grassy ridge of Cefn Modfedd."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Glynd%C5%B5r%27s_Way_marker_and_footpath_-_geograph.org.uk_-_1425033.jpg",
-            "title": "Richard Law / Glynd\u0175r\u2019s Way marker and footpath",
-            "caption": "Way marker and footpath In the valley of the Nant Nodwydd. The Way is well signposted here on the south side, but becomes a little more vague to the north."
-        }
-    ],
-    "distance_km": 217.0,
-    "description": "Starting at Knighton on the English/Welsh border follow this wonderful 135 mile long trail through some of the most stunning landscape in Wales. Highlights on the route include rolling Welsh Hills, views of the River Severn, a series of interesting Welsh towns, several beautiful waterfalls including the Rhiwargor Waterfall and the lovely lakes of Llyn Clywedog and Lake Vyrnwy. For more information on this trail please visit the National Trail web site .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "At the start point in Knighton you could enjoy a pre walk drink at the historic Horse and Jockey. The traditional 14th century coaching inn includes a cosy interior with original beams and open fires. There's a nice garden area for warmer weather and a fine restaurant which serves good quality dishes. You can find them at Wylcwm Place, Station Rd, LD7 1AE. The village of Knucklas is just north west of here. The historic village includes the excellent Castle Inn and views of the impressive Knucklas Viaduct which you can see from the trail around Bailey Hill. Machynlleth is a nice place to stop for some refreshments on the route. The town is significant as the ancient capital and parliamentary seat of wales, home to Laura Ashley, lying within the UNESCO Dyfi Biosphere reserve. The Red Lion pub has a good menu and is also dog friendly. Outside you can relax in the beer garden on warmer days. Inside there's interesting heavy rock memorabilia on the walls and a cosy atmosphere. You can find the pub at 11 Heol Maengwyn with a postcode of SY20 8AA for your sat navs. In Llanidloes one of the highlights is the historic Angel Inn. The Timber framed former Coaching Inn was built way back in 1748. The Pub has a wealth of character with many original features including Oak beams in the Bar and Lounge. There's a very good menu and some picnic tables outdoors for warmer days. It is located close to the center of Llanidloes on the High Street with a postcode of SY18 6BY for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/hFdPcv2DPMo",
-    "postcode": "LD7 1AT",
-    "district": "Knighton",
-    "county": "Powys",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Watson's Ale House, 24, High Street, Knighton, Powys, Cymru / Wales, LD7 1AT, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "multiple days",
-    "difficulty": "moderate",
-    "terrain": ["hill", "river", "lake"],
-    "points_of_interest": ["towns", "waterfall"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Llyn Clywedog",
+      "objectID": "2cfd50509b1de4d9fd11ced16f55206a",
+      "ref": "llyn-clywedog-walking-and-cycle-route"
+    },
+    {
+      "description": "Lake Vyrnwy",
+      "objectID": "73cca2c40e644ae9c1f87a1804fa76f8",
+      "ref": "lake-vyrnwy-walking-and-cycle-route"
+    },
+    {
+      "description": "Rhiwargor Waterfall",
+      "objectID": "82ede8009567f6e2089df40c2e05d72d",
+      "ref": "rhiwargor-waterfall-walking-route"
+    },
+    {
+      "description": "Welshpool",
+      "objectID": "98056822d9077a86a6bd39d9c2c45387",
+      "ref": "welshpool-walking-route"
+    },
+    {
+      "description": "Dylife Waterfall Walk",
+      "objectID": "7044d510e9c01660b3982b71310fa4e4",
+      "ref": "dylife-waterfall-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0f92cd8d0f797f967adff74848343282.gpx",
+  "_geoloc": {
+    "lat": 52.3442972602,
+    "lng": -3.0498692832
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Glyndwr%27s_Way_-_geograph.org.uk_-_228907.jpg",
+      "title": "Philip Halling / Glyndwr's Way",
+      "caption": "Here Glyndwr's Way passes a livestock shed and pens to reach a lane above Llyn Clywedog reservoir."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Glynd%C5%B5r%27s_Way_-_geograph.org.uk_-_567053.jpg",
+      "title": "Chris Denny / Glynd\u0175r\u2019s Way",
+      "caption": "Looking south towards Glaspwll from near Wylfa"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Glynd%C5%B5r%27s_Way_-_geograph.org.uk_-_986792.jpg",
+      "title": "Nigel Brown / Glynd\u0175r's Way",
+      "caption": "Following this minor road east of Llanidloes."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/View_west_from_Glyndwr%27s_Way_-_geograph.org.uk_-_502651.jpg",
+      "title": "Roger Butler / View west from Glyndwr's Way",
+      "caption": "View west. The track in the picture isn't a right of way. There are lots of windfarms on the far horizon."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mountain_Ponies_beside_Glyndwr%27s_Way_-_geograph.org.uk_-_321502.jpg",
+      "title": "Geoff Cryer / Mountain Ponies beside Glyndwr's Way",
+      "caption": "Mountain ponies graze beside Glyndwr's way, on the route from Cefn Pawl southwards towards Warren Bank and Black Mountain"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fallen_finger_post_on_Glyndwr%27s_Way_-_geograph.org.uk_-_1176485.jpg",
+      "title": "Nigel Davies / Fallen finger post on Glyndwr's Way",
+      "caption": "Fallen finger post on the trail. The obvious farm track ascends Pegwn Bach southeastwards in the rear of the shot. The trail branches off to the south out of the rear of shot on a fairly indistinct path. This finger post would have been a help."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sheep_walking_Glyndwr%27s_Way_-_geograph.org.uk_-_676965.jpg",
+      "title": "Rudi Winter / Sheep walking Glyndwr's Way",
+      "caption": "A flock of sheep at Pen y Banc appears to be setting off southwards on the trail, which follows the line of trees onto the wide grassy ridge of Cefn Modfedd."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Glynd%C5%B5r%27s_Way_marker_and_footpath_-_geograph.org.uk_-_1425033.jpg",
+      "title": "Richard Law / Glynd\u0175r\u2019s Way marker and footpath",
+      "caption": "Way marker and footpath In the valley of the Nant Nodwydd. The Way is well signposted here on the south side, but becomes a little more vague to the north."
+    }
+  ],
+  "distance_km": 217.0,
+  "description": "Starting at Knighton on the English/Welsh border follow this wonderful 135 mile long trail through some of the most stunning landscape in Wales. Highlights on the route include rolling Welsh Hills, views of the River Severn, a series of interesting Welsh towns, several beautiful waterfalls including the Rhiwargor Waterfall and the lovely lakes of Llyn Clywedog and Lake Vyrnwy. For more information on this trail please visit the National Trail web site .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the start point in Knighton you could enjoy a pre walk drink at the historic Horse and Jockey. The traditional 14th century coaching inn includes a cosy interior with original beams and open fires. There's a nice garden area for warmer weather and a fine restaurant which serves good quality dishes. You can find them at Wylcwm Place, Station Rd, LD7 1AE. The village of Knucklas is just north west of here. The historic village includes the excellent Castle Inn and views of the impressive Knucklas Viaduct which you can see from the trail around Bailey Hill. Machynlleth is a nice place to stop for some refreshments on the route. The town is significant as the ancient capital and parliamentary seat of wales, home to Laura Ashley, lying within the UNESCO Dyfi Biosphere reserve. The Red Lion pub has a good menu and is also dog friendly. Outside you can relax in the beer garden on warmer days. Inside there's interesting heavy rock memorabilia on the walls and a cosy atmosphere. You can find the pub at 11 Heol Maengwyn with a postcode of SY20 8AA for your sat navs. In Llanidloes one of the highlights is the historic Angel Inn. The Timber framed former Coaching Inn was built way back in 1748. The Pub has a wealth of character with many original features including Oak beams in the Bar and Lounge. There's a very good menu and some picnic tables outdoors for warmer days. It is located close to the center of Llanidloes on the High Street with a postcode of SY18 6BY for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/hFdPcv2DPMo",
+  "postcode": "LD7 1AT",
+  "district": "Knighton",
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Watson's Ale House, 24, High Street, Knighton, Powys, Cymru / Wales, LD7 1AT, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "null",
+  "difficulty": "moderate",
+  "terrain": [
+    "rolling hill"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "lake",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

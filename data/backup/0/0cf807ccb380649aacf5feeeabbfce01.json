@@ -1,91 +1,99 @@
 {
-    "created_at": "2025-01-06T02:39:56.655445+00:00",
-    "objectID": "0cf807ccb380649aacf5feeeabbfce01",
-    "ref": "balgray-reservoir-walking-route",
-    "title": "Balgray Reservoir Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Balgray_Reservoir_-_geograph.org.uk_-_92328.jpg",
-    "nearby": [
-        {
-            "description": "Dams to Darnley Country Park",
-            "objectID": "8a6ac6a4df12f8b62085e1e9ffb25611",
-            "ref": "dams-to-darnley-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Rouken Glen Park",
-            "objectID": "a81f38e7fa5554e99d30e15d1f182d18",
-            "ref": "rouken-glen-park-walking-route"
-        },
-        {
-            "description": "Pollok Country Park",
-            "objectID": "23ca102e8a8953466a2a38a4d3a9cc3b",
-            "ref": "pollok-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Cathkin Braes Country Park",
-            "objectID": "cda233fbd2f440f22c7028a5f47a655c",
-            "ref": "cathkin-braes-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0cf807ccb380649aacf5feeeabbfce01.gpx",
-    "_geoloc": {
-        "lat": 55.7883367793,
-        "lng": -4.3763944811
+  "created_at": "2025-01-06T02:39:56.655445+00:00",
+  "objectID": "0cf807ccb380649aacf5feeeabbfce01",
+  "ref": "balgray-reservoir-walking-route",
+  "title": "Balgray Reservoir Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Balgray_Reservoir_-_geograph.org.uk_-_92328.jpg",
+  "nearby": [
+    {
+      "description": "Dams to Darnley Country Park",
+      "objectID": "8a6ac6a4df12f8b62085e1e9ffb25611",
+      "ref": "dams-to-darnley-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Balgray_Reservoir_-_geograph.org.uk_-_92328.jpg",
-            "title": "Chris Upson / Balgray Reservoir",
-            "caption": "Balgray Reservoir 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Path%2C_Balgray_Reservoir_%28geograph_5098984%29.jpg",
-            "title": "Richard Webb / Path, Balgray Reservoir",
-            "caption": "View of the surfaced footpath along the reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Small_Pond_Near_Balgray_Reservoir_-_geograph.org.uk_-_245394.jpg",
-            "title": "Iain Thompson / Small Pond Near Balgray Reservoir",
-            "caption": "Small Pond Near Balgray Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ryat_Linn_Reservoir_-_geograph.org.uk_-_1770551.jpg",
-            "title": "Stephen Sweeney / Ryat Linn Reservoir",
-            "caption": "Ryat Linn Reservoir. From the pathway north of Balgray Reservoir."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Weirs_at_Ryat_Linn_Reservoir_-_geograph.org.uk_-_247115.jpg",
-            "title": "Iain Thompson / Weirs at Ryat Linn Reservoir",
-            "caption": "Weirs between Balgray Reservoir and Ryat Linn Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Waterfall_on_the_Brock_Burn_%28geograph_6041577%29.jpg/330px-Waterfall_on_the_Brock_Burn_%28geograph_6041577%29.jpg",
-            "title": "Richard Sutcliffe / Waterfall on the Brock Burn",
-            "caption": "Waterfall on the Brock Burn"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk visits the attractive Balgray Reservoir in Barrhead. You can start the walk from the car park at the eastern end of the water on Balgraystone Road. From here you can pick up footpaths heading along the southern side of the water and along the Brock Burn. You can extend the walk by visiting the adjacent Ryat Linn and Waulkmill Reservoirs. There's more nice footpaths here and some woodland trails too. On the walk look out for a variety of water loving birds on the reservoir.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The reservoir is set within the expansive Dams to Darnley Country Park where there's 1350 acres to explore with wetland, burn, woodland, grassland and scrub. You could also visit the nearby Rouken Glen Park where there's more good footpaths and lovely scenery. A few miles to the north east there's the popular Pollok Country Park to explore. One of the highlights of the area Pollok was named the best park in Britain in 2006 and in 2008, was named the best park in Europe. In the park you'll find a riverside section along the pretty White Cart River, a beautiful walled garden with glasshouses, a delightful woodland garden and the very grand Pollok House - Scotland\u2019s answer to Downton Abbey."
-        }
-    ],
-    "county": "East Renfrewshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Springfield Road, Springhill, Barrhead, East Renfrewshire, Alba / Scotland, G78 2JP, United Kingdom",
-    "postcode": "G78 2JP",
-    "district": "Barrhead",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "waterfront"],
-    "points_of_interest": ["waterfall", "bird watching"],
-    "facilities": ["car park"],
-    "route_type": "loop",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Rouken Glen Park",
+      "objectID": "a81f38e7fa5554e99d30e15d1f182d18",
+      "ref": "rouken-glen-park-walking-route"
+    },
+    {
+      "description": "Pollok Country Park",
+      "objectID": "23ca102e8a8953466a2a38a4d3a9cc3b",
+      "ref": "pollok-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Cathkin Braes Country Park",
+      "objectID": "cda233fbd2f440f22c7028a5f47a655c",
+      "ref": "cathkin-braes-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0cf807ccb380649aacf5feeeabbfce01.gpx",
+  "_geoloc": {
+    "lat": 55.7883367793,
+    "lng": -4.3763944811
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Balgray_Reservoir_-_geograph.org.uk_-_92328.jpg",
+      "title": "Chris Upson / Balgray Reservoir",
+      "caption": "Balgray Reservoir 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Path%2C_Balgray_Reservoir_%28geograph_5098984%29.jpg",
+      "title": "Richard Webb / Path, Balgray Reservoir",
+      "caption": "View of the surfaced footpath along the reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Small_Pond_Near_Balgray_Reservoir_-_geograph.org.uk_-_245394.jpg",
+      "title": "Iain Thompson / Small Pond Near Balgray Reservoir",
+      "caption": "Small Pond Near Balgray Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ryat_Linn_Reservoir_-_geograph.org.uk_-_1770551.jpg",
+      "title": "Stephen Sweeney / Ryat Linn Reservoir",
+      "caption": "Ryat Linn Reservoir. From the pathway north of Balgray Reservoir."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Weirs_at_Ryat_Linn_Reservoir_-_geograph.org.uk_-_247115.jpg",
+      "title": "Iain Thompson / Weirs at Ryat Linn Reservoir",
+      "caption": "Weirs between Balgray Reservoir and Ryat Linn Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Waterfall_on_the_Brock_Burn_%28geograph_6041577%29.jpg/330px-Waterfall_on_the_Brock_Burn_%28geograph_6041577%29.jpg",
+      "title": "Richard Sutcliffe / Waterfall on the Brock Burn",
+      "caption": "Waterfall on the Brock Burn"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk visits the attractive Balgray Reservoir in Barrhead. You can start the walk from the car park at the eastern end of the water on Balgraystone Road. From here you can pick up footpaths heading along the southern side of the water and along the Brock Burn. You can extend the walk by visiting the adjacent Ryat Linn and Waulkmill Reservoirs. There's more nice footpaths here and some woodland trails too. On the walk look out for a variety of water loving birds on the reservoir.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The reservoir is set within the expansive Dams to Darnley Country Park where there's 1350 acres to explore with wetland, burn, woodland, grassland and scrub. You could also visit the nearby Rouken Glen Park where there's more good footpaths and lovely scenery. A few miles to the north east there's the popular Pollok Country Park to explore. One of the highlights of the area Pollok was named the best park in Britain in 2006 and in 2008, was named the best park in Europe. In the park you'll find a riverside section along the pretty White Cart River, a beautiful walled garden with glasshouses, a delightful woodland garden and the very grand Pollok House - Scotland\u2019s answer to Downton Abbey."
+    }
+  ],
+  "county": "East Renfrewshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Springfield Road, Springhill, Barrhead, East Renfrewshire, Alba / Scotland, G78 2JP, United Kingdom",
+  "postcode": "G78 2JP",
+  "district": "Barrhead",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "reservoir"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

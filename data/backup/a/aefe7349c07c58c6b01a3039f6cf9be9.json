@@ -1,70 +1,78 @@
 {
-    "created_at": "2025-01-06T03:11:48.793221+00:00",
-    "objectID": "aefe7349c07c58c6b01a3039f6cf9be9",
-    "ref": "braemar-walking-route",
-    "title": "Braemar Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Entrance_to_Braemar_Castle_-_geograph.org.uk_-_478452.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aefe7349c07c58c6b01a3039f6cf9be9.gpx",
-    "_geoloc": {
-        "lat": 57.0132849423,
-        "lng": -3.3946161871
+  "created_at": "2025-01-06T03:11:48.793221+00:00",
+  "objectID": "aefe7349c07c58c6b01a3039f6cf9be9",
+  "ref": "braemar-walking-route",
+  "title": "Braemar Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Entrance_to_Braemar_Castle_-_geograph.org.uk_-_478452.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aefe7349c07c58c6b01a3039f6cf9be9.gpx",
+  "_geoloc": {
+    "lat": 57.0132849423,
+    "lng": -3.3946161871
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Entrance_to_Braemar_Castle_-_geograph.org.uk_-_478452.jpg",
+      "title": "Stanley Howe / Entrance to Braemar Castle",
+      "caption": "Entrance to Braemar Castle"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Entrance_to_Braemar_Castle_-_geograph.org.uk_-_478452.jpg",
-            "title": "Stanley Howe / Entrance to Braemar Castle",
-            "caption": "Entrance to Braemar Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Braemar_Castle_-_geograph.org.uk_-_2703089.jpg",
-            "title": "Braemar Castle by Elliott Simpson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Braemar Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/River_Dee_-_geograph.org.uk_-_19173.jpg",
-            "title": "Ailith Stewart / River Dee",
-            "caption": "River Dee"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/View_NE_from_Braemar_Castle_-_geograph.org.uk_-_1435903.jpg",
-            "title": "Stanley Howe / View NE from Braemar Castle",
-            "caption": "View NE from Braemar Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Clunie_Water_at_Braemar_-_geograph.org.uk_-_3200808.jpg/500px-The_Clunie_Water_at_Braemar_-_geograph.org.uk_-_3200808.jpg",
-            "title": "The Clunie Water at Braemar by jeff collins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Clunie Water at Braemar"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fife_Arms%2C_Braemar_-_geograph.org.uk_-_3359431.jpg",
-            "title": "Fife Arms, Braemar by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fife Arms, Braemar"
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "This beautiful village in Aberdeenshire is a popular base for exploring the Cairngorms National Park. In the village there's pleasant walks along the River Dee and the Morrone Birkwood National Nature Reserve with its woodland and wildlife. This walk visits the historic Braemar Castle which lies just to the north of the village. There's some nice trails to follow around the grounds of the highly photogenic castle. The castle dates back to the 17th century with an audio tour detailing its fascinating history. To continue your outing head west to visit the nearby Linn of Quoich where there are some splendid waterside trails and lots of picturesque waterfalls to see.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For more walking ideas in the area see the Cairngorms Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/lOXN0Ld2xCY",
-    "postcode": "AB35 5YR",
-    "county": "Aberdeenshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "A93, Castleton, Braemar, Aberdeenshire, Alba / Scotland, AB35 5YR, United Kingdom",
-    "district": "Braemar",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["historical site", "castle", "waterfall"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Braemar_Castle_-_geograph.org.uk_-_2703089.jpg",
+      "title": "Braemar Castle by Elliott Simpson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Braemar Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/River_Dee_-_geograph.org.uk_-_19173.jpg",
+      "title": "Ailith Stewart / River Dee",
+      "caption": "River Dee"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/View_NE_from_Braemar_Castle_-_geograph.org.uk_-_1435903.jpg",
+      "title": "Stanley Howe / View NE from Braemar Castle",
+      "caption": "View NE from Braemar Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Clunie_Water_at_Braemar_-_geograph.org.uk_-_3200808.jpg/500px-The_Clunie_Water_at_Braemar_-_geograph.org.uk_-_3200808.jpg",
+      "title": "The Clunie Water at Braemar by jeff collins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Clunie Water at Braemar"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fife_Arms%2C_Braemar_-_geograph.org.uk_-_3359431.jpg",
+      "title": "Fife Arms, Braemar by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fife Arms, Braemar"
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "This beautiful village in Aberdeenshire is a popular base for exploring the Cairngorms National Park. In the village there's pleasant walks along the River Dee and the Morrone Birkwood National Nature Reserve with its woodland and wildlife. This walk visits the historic Braemar Castle which lies just to the north of the village. There's some nice trails to follow around the grounds of the highly photogenic castle. The castle dates back to the 17th century with an audio tour detailing its fascinating history. To continue your outing head west to visit the nearby Linn of Quoich where there are some splendid waterside trails and lots of picturesque waterfalls to see.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Cairngorms Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/lOXN0Ld2xCY",
+  "postcode": "AB35 5YR",
+  "county": "Aberdeenshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A93, Castleton, Braemar, Aberdeenshire, Alba / Scotland, AB35 5YR, United Kingdom",
+  "district": "Braemar",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "waterfall"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

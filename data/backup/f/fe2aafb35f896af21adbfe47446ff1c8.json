@@ -1,135 +1,149 @@
 {
-    "created_at": "2025-01-06T02:48:24.808970+00:00",
-    "objectID": "fe2aafb35f896af21adbfe47446ff1c8",
-    "ref": "marley-common-walking-route",
-    "title": "Marley Common Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Private_track_on_Marley_Common_-_geograph.org.uk_-_1159588.jpg",
-    "nearby": [
-        {
-            "description": "Ludshott Common",
-            "objectID": "d5a4df14460cbc5245994a1ffd4bbaa1",
-            "ref": "ludshott-common-walking-route"
-        },
-        {
-            "description": "Bramshott Common",
-            "objectID": "779711ec70e1c26f1abf896d9daf7dfb",
-            "ref": "bramshott-common-walking-route"
-        },
-        {
-            "description": "Sussex Border Path",
-            "objectID": "4f7a4ec8abc2fadf21d3ae98a91fb943",
-            "ref": "sussex-border-path-walking-route"
-        },
-        {
-            "description": "Serpent Trail",
-            "objectID": "98f5c162ad30cbe58662827924002061",
-            "ref": "serpent-trail-walking-route"
-        },
-        {
-            "description": "Black Down",
-            "objectID": "d13d828818d1e801d378aaf4cb507128",
-            "ref": "black-down-walking-and-cycle-route"
-        },
-        {
-            "description": "Haslemere Circular Walk",
-            "objectID": "2a099cac05f6f1c64128d29444c98175",
-            "ref": "haslemere-circular-walk-walking-route"
-        },
-        {
-            "description": "Liphook",
-            "objectID": "87a8018dfaf4d7ec09c3877d15dd1c59",
-            "ref": "liphook-walking-route"
-        },
-        {
-            "description": "Lurgashall",
-            "objectID": "524ec330c35c1136034bb7805452a10d",
-            "ref": "lurgashall-walking-route"
-        },
-        {
-            "description": "Fernhurst",
-            "objectID": "77f044ba37000d5f634861247c4618fe",
-            "ref": "fernhurst-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fe2aafb35f896af21adbfe47446ff1c8.gpx",
-    "_geoloc": {
-        "lat": 51.0730736802,
-        "lng": -0.7354278793
+  "created_at": "2025-01-06T02:48:24.808970+00:00",
+  "objectID": "fe2aafb35f896af21adbfe47446ff1c8",
+  "ref": "marley-common-walking-route",
+  "title": "Marley Common Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Private_track_on_Marley_Common_-_geograph.org.uk_-_1159588.jpg",
+  "nearby": [
+    {
+      "description": "Ludshott Common",
+      "objectID": "d5a4df14460cbc5245994a1ffd4bbaa1",
+      "ref": "ludshott-common-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Private_track_on_Marley_Common_-_geograph.org.uk_-_1159588.jpg",
-            "title": "Shazz / Private track on Marley Common",
-            "caption": "Private track on Marley Common. The common is part of the Lynchmere Commons along with Stanley and Lynchmere Common."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_1159570.jpg",
-            "title": "Shazz / The Sussex Border Path on Marley Common",
-            "caption": "The Sussex Border Path on Marley Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Information_Board%2C_Marley_Common_-_geograph.org.uk_-_3806818.jpg?20220916112017",
-            "title": "Information Board, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Information Board at the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_from_Marley_Common_-_geograph.org.uk_-_3806887.jpg?20220916114228",
-            "title": "View from Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of the countryside from the common."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Crossways_on_Marley_Common_-_geograph.org.uk_-_4799294.jpg?20230520210646",
-            "title": "Crossways on Marley Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Crossways at a clearing"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruined_chimney_and_fireplace%2C_Marley_Common_01.jpg/330px-Ruined_chimney_and_fireplace%2C_Marley_Common_01.jpg?20230714100023",
-            "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Ruins of a small building, consisting of the still-standing fireplace and chimney, and the footprint of the building's floor."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Iron_Hill_seen_from_Marley_Common_viewpoint_-_geograph.org.uk_-_963651.jpg?20110222170540",
-            "title": "Shazz / Iron Hill seen from Marley Common viewpoint",
-            "caption": "Iron Hill seen from Marley Common viewpoint. Iron Hill is prominent on the right of the picture. The skyline on the left is of the South Downs."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sussex_Border_Path_heads_west_-_geograph.org.uk_-_2048632.jpg?20210524015623",
-            "title": "Sussex Border Path heads west by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sussex Border Path heads west from the site."
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "This large green space in Haslemere is great for a peaceful stroll in lovely surroundings. The common has miles of good footpaths taking you to heathland, woodland and meadows. Look out for the pretty purple heather in the summer months and the yellow flowering gorse all year round. It's great for wildlife too with woodlarks, warblers and various reptiles. You can park at the car park off Marley Lane and pick up the trails from there. It's easy to extend your walk as two long distance paths pass through the common. You can follow the Sussex Border Path and the Serpent Trail east and visit the wonderful Black Down. It's the highest point on the South Downs and commands fabulous views over the Weald. Our Haslemere Circular Walk which starts from the train station visits both Marley Common and Black Down. Heading west along the border path will take you towards Liphook and Stanley Common. Also of interest are two more National Trust commons just to the north west of Marley Common. Ludshott Common and Bramshott Common have miles of good walking trails and the attractive Waggoners Wells ponds to enjoy.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head south into nearby Fernhurst and there's the noteworthy Red Lion to visit. Nestled by the village green, the historic inn has served as a pub since 1592. The interior features a single bar under a low, timbered ceiling, complemented by two cosy side rooms and a magnificent inglenook fireplace, complete with a sizeable wood-burning stove. On pleasant days, patrons can enjoy seating that overlooks the village green at the front, or opt for the spacious rear garden, which includes a covered, heated, and lit shelter for smokers. The pub enjoys popularity among both local residents and those who come specifically to dine. They are located at postcode GU27 3HY and the pub is dog friendly."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The common is a fine place for a dog walk with miles of woodland trails to explore. You'll probably meet with other owners on your outing."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just south of Black Down there's the worthy village of Lurgashall to explore. The picturesque settlement includes a pretty village green, a quintessentially English cricket pitch, a millpond, a historic Saxon church and a number of historic timber framed properties to admire."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/4fvHazea07I?si=vTN9QUQfVVgorzPd",
-    "postcode": "GU27 3PU",
-    "district": "Chichester",
-    "county": "West Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Marley Lane, Linchmere, Hammer, Chichester, West Sussex, England, GU27 3PU, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["heathland", "woodland", "meadow"],
-    "points_of_interest": ["viewpoint", "wildlife"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bramshott Common",
+      "objectID": "779711ec70e1c26f1abf896d9daf7dfb",
+      "ref": "bramshott-common-walking-route"
+    },
+    {
+      "description": "Sussex Border Path",
+      "objectID": "4f7a4ec8abc2fadf21d3ae98a91fb943",
+      "ref": "sussex-border-path-walking-route"
+    },
+    {
+      "description": "Serpent Trail",
+      "objectID": "98f5c162ad30cbe58662827924002061",
+      "ref": "serpent-trail-walking-route"
+    },
+    {
+      "description": "Black Down",
+      "objectID": "d13d828818d1e801d378aaf4cb507128",
+      "ref": "black-down-walking-and-cycle-route"
+    },
+    {
+      "description": "Haslemere Circular Walk",
+      "objectID": "2a099cac05f6f1c64128d29444c98175",
+      "ref": "haslemere-circular-walk-walking-route"
+    },
+    {
+      "description": "Liphook",
+      "objectID": "87a8018dfaf4d7ec09c3877d15dd1c59",
+      "ref": "liphook-walking-route"
+    },
+    {
+      "description": "Lurgashall",
+      "objectID": "524ec330c35c1136034bb7805452a10d",
+      "ref": "lurgashall-walking-route"
+    },
+    {
+      "description": "Fernhurst",
+      "objectID": "77f044ba37000d5f634861247c4618fe",
+      "ref": "fernhurst-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fe2aafb35f896af21adbfe47446ff1c8.gpx",
+  "_geoloc": {
+    "lat": 51.0730736802,
+    "lng": -0.7354278793
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Private_track_on_Marley_Common_-_geograph.org.uk_-_1159588.jpg",
+      "title": "Shazz / Private track on Marley Common",
+      "caption": "Private track on Marley Common. The common is part of the Lynchmere Commons along with Stanley and Lynchmere Common."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Sussex_Border_Path_on_Marley_Common_-_geograph.org.uk_-_1159570.jpg",
+      "title": "Shazz / The Sussex Border Path on Marley Common",
+      "caption": "The Sussex Border Path on Marley Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Information_Board%2C_Marley_Common_-_geograph.org.uk_-_3806818.jpg?20220916112017",
+      "title": "Information Board, Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Information Board at the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_from_Marley_Common_-_geograph.org.uk_-_3806887.jpg?20220916114228",
+      "title": "View from Marley Common by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of the countryside from the common."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Crossways_on_Marley_Common_-_geograph.org.uk_-_4799294.jpg?20230520210646",
+      "title": "Crossways on Marley Common by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Crossways at a clearing"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruined_chimney_and_fireplace%2C_Marley_Common_01.jpg/330px-Ruined_chimney_and_fireplace%2C_Marley_Common_01.jpg?20230714100023",
+      "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Ruins of a small building, consisting of the still-standing fireplace and chimney, and the footprint of the building's floor."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Iron_Hill_seen_from_Marley_Common_viewpoint_-_geograph.org.uk_-_963651.jpg?20110222170540",
+      "title": "Shazz / Iron Hill seen from Marley Common viewpoint",
+      "caption": "Iron Hill seen from Marley Common viewpoint. Iron Hill is prominent on the right of the picture. The skyline on the left is of the South Downs."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sussex_Border_Path_heads_west_-_geograph.org.uk_-_2048632.jpg?20210524015623",
+      "title": "Sussex Border Path heads west by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sussex Border Path heads west from the site."
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "This large green space in Haslemere is great for a peaceful stroll in lovely surroundings. The common has miles of good footpaths taking you to heathland, woodland and meadows. Look out for the pretty purple heather in the summer months and the yellow flowering gorse all year round. It's great for wildlife too with woodlarks, warblers and various reptiles. You can park at the car park off Marley Lane and pick up the trails from there. It's easy to extend your walk as two long distance paths pass through the common. You can follow the Sussex Border Path and the Serpent Trail east and visit the wonderful Black Down. It's the highest point on the South Downs and commands fabulous views over the Weald. Our Haslemere Circular Walk which starts from the train station visits both Marley Common and Black Down. Heading west along the border path will take you towards Liphook and Stanley Common. Also of interest are two more National Trust commons just to the north west of Marley Common. Ludshott Common and Bramshott Common have miles of good walking trails and the attractive Waggoners Wells ponds to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head south into nearby Fernhurst and there's the noteworthy Red Lion to visit. Nestled by the village green, the historic inn has served as a pub since 1592. The interior features a single bar under a low, timbered ceiling, complemented by two cosy side rooms and a magnificent inglenook fireplace, complete with a sizeable wood-burning stove. On pleasant days, patrons can enjoy seating that overlooks the village green at the front, or opt for the spacious rear garden, which includes a covered, heated, and lit shelter for smokers. The pub enjoys popularity among both local residents and those who come specifically to dine. They are located at postcode GU27 3HY and the pub is dog friendly."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a fine place for a dog walk with miles of woodland trails to explore. You'll probably meet with other owners on your outing."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just south of Black Down there's the worthy village of Lurgashall to explore. The picturesque settlement includes a pretty village green, a quintessentially English cricket pitch, a millpond, a historic Saxon church and a number of historic timber framed properties to admire."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/4fvHazea07I?si=vTN9QUQfVVgorzPd",
+  "postcode": "GU27 3PU",
+  "district": "Chichester",
+  "county": "West Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Marley Lane, Linchmere, Hammer, Chichester, West Sussex, England, GU27 3PU, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

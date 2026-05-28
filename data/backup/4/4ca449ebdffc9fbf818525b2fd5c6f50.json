@@ -1,78 +1,86 @@
 {
-    "created_at": "2025-01-05T23:52:39.289563+00:00",
-    "objectID": "4ca449ebdffc9fbf818525b2fd5c6f50",
-    "ref": "lands-end-trail-walking-route",
-    "title": "Land's End Trail Walking Route",
-    "nearby": [
-        {
-            "description": "Glastonbury Tor",
-            "objectID": "806f45c20865df8f31e23f192bf3aa76",
-            "ref": "glastonbury-tor-walking-route"
-        },
-        {
-            "description": "South Molton",
-            "objectID": "25ea5ee9f30d3df5245b74648fae1106",
-            "ref": "south-molton-walking-route"
-        },
-        {
-            "description": "Bruton",
-            "objectID": "1f4d7426017b6c8eaed4cc094affbc8f",
-            "ref": "bruton-walking-route"
-        },
-        {
-            "description": "Carn Brea",
-            "objectID": "7d4ba7283ef508571ca14223d423ec94",
-            "ref": "carn-brea-walking-route"
-        },
-        {
-            "description": "Redruth",
-            "objectID": "493c97517db66a4daa76c71ec7387fb0",
-            "ref": "redruth-walking-route"
-        },
-        {
-            "description": "Minions Cheesewring",
-            "objectID": "85d8c0f6f69467335581fd56ffc956aa",
-            "ref": "minions-cheesewring-walking-route"
-        },
-        {
-            "description": "Wiveliscombe",
-            "objectID": "c40330a4ead0f7379fa002422bf978cc",
-            "ref": "wiveliscombe-walking-route"
-        },
-        {
-            "description": "Callington",
-            "objectID": "2fe0bafbbbdeb8e6bf5ccd67d16f8c6c",
-            "ref": "callington-walking-route"
-        }
-    ],
-    "distance_km": 488.0,
-    "description": "This terrific trail runs for over 300 miles from Avebury in Wiltshire, through Devon and Somerset to Land's End in Cornwall. The walk has been spit into a number of manageable stages as follows 1 Land's End 2 Bosullow Common 3 St. Erth 4 Leedstown 5 Beacon, Camborne 6 Chiverton Cross 7 Mitchell 8 Tregonetha 9 Dunmere Bridge 10 St. Breward 11 Jamaica Inn, Bolventor 12 Minions 13 Callington 14 Tavistock 15 Lydford 16 Belstone 17 Sampford Courtenay 18 Chulmleigh 19 South Molton 20 Dulverton 21 Wiveliscombe 22 Bishop's Lydeard 23 Bridgwater 24 Glastonbury Tor 25 Bruton 26 Warminster 27 Market Lavington 28 Avebury The walk is waymarked with a Yellow chevron for most of the way. The link below includes excellent pdf route guides for each stage.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "On the walk we recommend heading to the Rose & Crown pub in Warminster for refreshments. There's bar games, a good menu and a nice beer garden to sit out in during the summer months here. You can find it at 57 East St, with postcode: BA12 9BZ."
-        }
-    ],
-    "gazetteer_found": false,
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4ca449ebdffc9fbf818525b2fd5c6f50.gpx",
-    "_geoloc": {
-        "lat": 51.4285450648,
-        "lng": -1.8538129099
+  "created_at": "2025-01-05T23:52:39.289563+00:00",
+  "objectID": "4ca449ebdffc9fbf818525b2fd5c6f50",
+  "ref": "lands-end-trail-walking-route",
+  "title": "Land's End Trail Walking Route",
+  "nearby": [
+    {
+      "description": "Glastonbury Tor",
+      "objectID": "806f45c20865df8f31e23f192bf3aa76",
+      "ref": "glastonbury-tor-walking-route"
     },
-    "nominatim_found": true,
-    "display_address": "Herepath, Avebury, Wiltshire, England, SN8 1RE, United Kingdom",
-    "postcode": "SN8 1RE",
-    "district": "Avebury",
-    "county": "Wiltshire",
-    "region": null,
-    "state": "England",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "multiple days",
-    "difficulty": "moderate",
-    "terrain": ["rural", "woodland"],
-    "points_of_interest": ["historical site", "natural landmarks"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "linear",
-    "activities": ["walking"]
+    {
+      "description": "South Molton",
+      "objectID": "25ea5ee9f30d3df5245b74648fae1106",
+      "ref": "south-molton-walking-route"
+    },
+    {
+      "description": "Bruton",
+      "objectID": "1f4d7426017b6c8eaed4cc094affbc8f",
+      "ref": "bruton-walking-route"
+    },
+    {
+      "description": "Carn Brea",
+      "objectID": "7d4ba7283ef508571ca14223d423ec94",
+      "ref": "carn-brea-walking-route"
+    },
+    {
+      "description": "Redruth",
+      "objectID": "493c97517db66a4daa76c71ec7387fb0",
+      "ref": "redruth-walking-route"
+    },
+    {
+      "description": "Minions Cheesewring",
+      "objectID": "85d8c0f6f69467335581fd56ffc956aa",
+      "ref": "minions-cheesewring-walking-route"
+    },
+    {
+      "description": "Wiveliscombe",
+      "objectID": "c40330a4ead0f7379fa002422bf978cc",
+      "ref": "wiveliscombe-walking-route"
+    },
+    {
+      "description": "Callington",
+      "objectID": "2fe0bafbbbdeb8e6bf5ccd67d16f8c6c",
+      "ref": "callington-walking-route"
+    }
+  ],
+  "distance_km": 488.0,
+  "description": "This terrific trail runs for over 300 miles from Avebury in Wiltshire, through Devon and Somerset to Land's End in Cornwall. The walk has been spit into a number of manageable stages as follows 1 Land's End 2 Bosullow Common 3 St. Erth 4 Leedstown 5 Beacon, Camborne 6 Chiverton Cross 7 Mitchell 8 Tregonetha 9 Dunmere Bridge 10 St. Breward 11 Jamaica Inn, Bolventor 12 Minions 13 Callington 14 Tavistock 15 Lydford 16 Belstone 17 Sampford Courtenay 18 Chulmleigh 19 South Molton 20 Dulverton 21 Wiveliscombe 22 Bishop's Lydeard 23 Bridgwater 24 Glastonbury Tor 25 Bruton 26 Warminster 27 Market Lavington 28 Avebury The walk is waymarked with a Yellow chevron for most of the way. The link below includes excellent pdf route guides for each stage.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the walk we recommend heading to the Rose & Crown pub in Warminster for refreshments. There's bar games, a good menu and a nice beer garden to sit out in during the summer months here. You can find it at 57 East St, with postcode: BA12 9BZ."
+    }
+  ],
+  "gazetteer_found": false,
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4ca449ebdffc9fbf818525b2fd5c6f50.gpx",
+  "_geoloc": {
+    "lat": 51.4285450648,
+    "lng": -1.8538129099
+  },
+  "nominatim_found": true,
+  "display_address": "Herepath, Avebury, Wiltshire, England, SN8 1RE, United Kingdom",
+  "postcode": "SN8 1RE",
+  "district": "Avebury",
+  "county": "Wiltshire",
+  "region": null,
+  "state": "England",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

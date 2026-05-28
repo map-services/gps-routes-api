@@ -1,84 +1,95 @@
 {
-    "created_at": "2025-01-06T01:07:56.680386+00:00",
-    "objectID": "6d6fbeffca461ba9d5470f5efb093785",
-    "ref": "feltwell-walking-route",
-    "title": "Feltwell Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_Post_Office_in_The_Beck%2C_Feltwell_-_geograph.org.uk_-_1880992.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d6fbeffca461ba9d5470f5efb093785.gpx",
-    "_geoloc": {
-        "lat": 52.4879116216,
-        "lng": 0.5215829491
+  "created_at": "2025-01-06T01:07:56.680386+00:00",
+  "objectID": "6d6fbeffca461ba9d5470f5efb093785",
+  "ref": "feltwell-walking-route",
+  "title": "Feltwell Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_Post_Office_in_The_Beck%2C_Feltwell_-_geograph.org.uk_-_1880992.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d6fbeffca461ba9d5470f5efb093785.gpx",
+  "_geoloc": {
+    "lat": 52.4879116216,
+    "lng": 0.5215829491
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_Post_Office_in_The_Beck%2C_Feltwell_-_geograph.org.uk_-_1880992.jpg",
+      "title": "The Post Office in The Beck, Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Post Office in The Beck, Feltwell. Feltwell's name is of Anglo-Saxon origin and derives from the Old English for a spring or stream with an abundance of mullein. The village has a connection with RAF Feltwell, which opened in 1937 and played a significant role during World War II. It hosted squadrons conducting strategic bombing missions over Continental Europe. Post-war, it was used for ballistic missiles and later leased to the United States Air Force. Today, RAF Feltwell serves as accommodation for American servicepeople based at RAF Mildenhall and is known for its distinctive radomes, resembling large golf balls."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_Post_Office_in_The_Beck%2C_Feltwell_-_geograph.org.uk_-_1880992.jpg",
-            "title": "The Post Office in The Beck, Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Post Office in The Beck, Feltwell. Feltwell's name is of Anglo-Saxon origin and derives from the Old English for a spring or stream with an abundance of mullein. The village has a connection with RAF Feltwell, which opened in 1937 and played a significant role during World War II. It hosted squadrons conducting strategic bombing missions over Continental Europe. Post-war, it was used for ballistic missiles and later leased to the United States Air Force. Today, RAF Feltwell serves as accommodation for American servicepeople based at RAF Mildenhall and is known for its distinctive radomes, resembling large golf balls."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Feltwell_St._Nicholas%27_church_-_geograph.org.uk_-_4353937.jpg/500px-Feltwell_St._Nicholas%27_church_-_geograph.org.uk_-_4353937.jpg",
-            "title": "Feltwell St. Nicholas' church by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Feltwell St. Nicholas' church. St Nicholas Church is a redundant church in the care of the Churches Conservation Trust. It is recorded in the National Heritage List for England as a designated Grade I listed building. St Nicholas was largely rebuilt in the nineteenth century, after the collapse of the tower in 1898, under the direction of Frederick Preedy."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cut-off_Channel%2C_near_Feltwell_-_geograph.org.uk_-_1439366.jpg",
-            "title": "Bob Jones / Cut-off Channel, near Feltwell",
-            "caption": "Cut-off Channel, near Feltwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Haythill_Lane%2C_near_Feltwell_-_geograph.org.uk_-_1439397.jpg/330px-Haythill_Lane%2C_near_Feltwell_-_geograph.org.uk_-_1439397.jpg",
-            "title": "Bob Jones / Haythill Lane, near Feltwell",
-            "caption": "Haythill Lane, near Feltwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Farmland_west_of_Feltwell_-_geograph.org.uk_-_1439318.jpg",
-            "title": "Bob Jones / Farmland west of Feltwell",
-            "caption": "Farmland west of Feltwell. Viewed from the eastern bank of the Cut-off Channel, with farm buildings in the distance at Whitebridge Farm. The grassy bank in the foreground is the western bank of the drainage channel."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cut-off_Channel%2C_north_of_Feltwell_-_geograph.org.uk_-_1439405.jpg",
-            "title": "Bob Jones / Cut-off Channel, north of Feltwell",
-            "caption": "Cut-off Channel, north of Feltwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/St_Mary%27s_church_in_Feltwell_-_geograph.org.uk_-_1880999.jpg",
-            "title": "St Mary's church in Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "St. Mary's, the active Church of England parish church, is also a Grade I listed structure and largely dates from the fifteenth century. This church features exquisite French stained-glass, installed by the Parisian workshops of \u00c9douard Didron and Eugene Oudinot in the nineteenth century."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Track_to_Brandon_Road%2C_Feltwell_-_geograph.org.uk_-_2726459.jpg",
-            "title": "Track to Brandon Road, Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track to Brandon Road, Feltwell"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This Norfolk based village is located near Thetford Forest in the South Western part of the county. It is known for its two, ancient Grade I listed churches which have a fascinating history. The village also has compelling archaeological evidence of Roman settlement, including two unidentified buildings, villas, and bathhouses that underscore the wealth of Feltwell during that era. This circular walk from the village takes you along country lanes to the cut off channel to the west of the settlement. There's some easy waterside trails and nice views of the surrounding farmland to enjoy on the way. To continue your walking in the area head south to visit the RSPB's Lakenheath Fen where there are some pleasant waterside trails and lots of wildlife to look out for.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Wellington is situated at the heart of Feltwell, occupying a building with a diverse history, including its previous role as a village store. Some sections of the structure have origins dating back to 1730 and boast period elements like an inglenook and a distinctive green marble fireplace. The Wellington made its debut in March 2014, following a comprehensive process of refurbishment and renovation, accompanied by the adoption of its new name. The name was specifically chosen to honor the Wellington Planes that were stationed at R.A.F. Feltwell during World War II. The pub proudly showcases an extensive collection of genuine memorabilia and artwork from that era. The Wellington warmly welcomes patrons of all ages and backgrounds, making it a family-friendly establishment. They serve good quality dishes and also have a garden and car parking area. The pub is dog friendly in the garden area. You can find them on the High Street at postcode IP26 4AF."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the south is neighbouring Hockwold Cum Wilton where there's the 15th century Hockwold Hall and some nice walks around the Hockwold Washes."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/K1T9sXMzuuE?si=Ens4KkEP1mmzPaGZ",
-    "district": "King's Lynn and West Norfolk",
-    "county": "Norfolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "The Chequers, 36, Hill Street, Feltwell, King's Lynn and West Norfolk, Norfolk, England, IP26 4AB, United Kingdom",
-    "postcode": "IP26 4AB",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["countryside", "waterfront"],
-    "points_of_interest": ["archaeological site", "farmland"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Feltwell_St._Nicholas%27_church_-_geograph.org.uk_-_4353937.jpg/500px-Feltwell_St._Nicholas%27_church_-_geograph.org.uk_-_4353937.jpg",
+      "title": "Feltwell St. Nicholas' church by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Feltwell St. Nicholas' church. St Nicholas Church is a redundant church in the care of the Churches Conservation Trust. It is recorded in the National Heritage List for England as a designated Grade I listed building. St Nicholas was largely rebuilt in the nineteenth century, after the collapse of the tower in 1898, under the direction of Frederick Preedy."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cut-off_Channel%2C_near_Feltwell_-_geograph.org.uk_-_1439366.jpg",
+      "title": "Bob Jones / Cut-off Channel, near Feltwell",
+      "caption": "Cut-off Channel, near Feltwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Haythill_Lane%2C_near_Feltwell_-_geograph.org.uk_-_1439397.jpg/330px-Haythill_Lane%2C_near_Feltwell_-_geograph.org.uk_-_1439397.jpg",
+      "title": "Bob Jones / Haythill Lane, near Feltwell",
+      "caption": "Haythill Lane, near Feltwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Farmland_west_of_Feltwell_-_geograph.org.uk_-_1439318.jpg",
+      "title": "Bob Jones / Farmland west of Feltwell",
+      "caption": "Farmland west of Feltwell. Viewed from the eastern bank of the Cut-off Channel, with farm buildings in the distance at Whitebridge Farm. The grassy bank in the foreground is the western bank of the drainage channel."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cut-off_Channel%2C_north_of_Feltwell_-_geograph.org.uk_-_1439405.jpg",
+      "title": "Bob Jones / Cut-off Channel, north of Feltwell",
+      "caption": "Cut-off Channel, north of Feltwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/St_Mary%27s_church_in_Feltwell_-_geograph.org.uk_-_1880999.jpg",
+      "title": "St Mary's church in Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "St. Mary's, the active Church of England parish church, is also a Grade I listed structure and largely dates from the fifteenth century. This church features exquisite French stained-glass, installed by the Parisian workshops of \u00c9douard Didron and Eugene Oudinot in the nineteenth century."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Track_to_Brandon_Road%2C_Feltwell_-_geograph.org.uk_-_2726459.jpg",
+      "title": "Track to Brandon Road, Feltwell by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track to Brandon Road, Feltwell"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This Norfolk based village is located near Thetford Forest in the South Western part of the county. It is known for its two, ancient Grade I listed churches which have a fascinating history. The village also has compelling archaeological evidence of Roman settlement, including two unidentified buildings, villas, and bathhouses that underscore the wealth of Feltwell during that era. This circular walk from the village takes you along country lanes to the cut off channel to the west of the settlement. There's some easy waterside trails and nice views of the surrounding farmland to enjoy on the way. To continue your walking in the area head south to visit the RSPB's Lakenheath Fen where there are some pleasant waterside trails and lots of wildlife to look out for.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Wellington is situated at the heart of Feltwell, occupying a building with a diverse history, including its previous role as a village store. Some sections of the structure have origins dating back to 1730 and boast period elements like an inglenook and a distinctive green marble fireplace. The Wellington made its debut in March 2014, following a comprehensive process of refurbishment and renovation, accompanied by the adoption of its new name. The name was specifically chosen to honor the Wellington Planes that were stationed at R.A.F. Feltwell during World War II. The pub proudly showcases an extensive collection of genuine memorabilia and artwork from that era. The Wellington warmly welcomes patrons of all ages and backgrounds, making it a family-friendly establishment. They serve good quality dishes and also have a garden and car parking area. The pub is dog friendly in the garden area. You can find them on the High Street at postcode IP26 4AF."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south is neighbouring Hockwold Cum Wilton where there's the 15th century Hockwold Hall and some nice walks around the Hockwold Washes."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/K1T9sXMzuuE?si=Ens4KkEP1mmzPaGZ",
+  "district": "King's Lynn and West Norfolk",
+  "county": "Norfolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Chequers, 36, Hill Street, Feltwell, King's Lynn and West Norfolk, Norfolk, England, IP26 4AB, United Kingdom",
+  "postcode": "IP26 4AB",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "archaeological site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

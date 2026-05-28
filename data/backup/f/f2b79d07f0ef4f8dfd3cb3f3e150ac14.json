@@ -1,88 +1,101 @@
 {
-    "created_at": "2025-01-06T01:36:45.359459+00:00",
-    "objectID": "f2b79d07f0ef4f8dfd3cb3f3e150ac14",
-    "ref": "terling-walking-route",
-    "title": "Terling Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Terling_-_geograph.org.uk_-_445024.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2b79d07f0ef4f8dfd3cb3f3e150ac14.gpx",
-    "_geoloc": {
-        "lat": 51.8060579797,
-        "lng": 0.5680780787
+  "created_at": "2025-01-06T01:36:45.359459+00:00",
+  "objectID": "f2b79d07f0ef4f8dfd3cb3f3e150ac14",
+  "ref": "terling-walking-route",
+  "title": "Terling Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Terling_-_geograph.org.uk_-_445024.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2b79d07f0ef4f8dfd3cb3f3e150ac14.gpx",
+  "_geoloc": {
+    "lat": 51.8060579797,
+    "lng": 0.5680780787
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Terling_-_geograph.org.uk_-_445024.jpg",
+      "title": "David Kemp / Terling",
+      "caption": "Terling village view. Taken at the junction of River Hill and Braintree Road looking down Owl's Hill."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Terling_-_geograph.org.uk_-_445024.jpg",
-            "title": "David Kemp / Terling",
-            "caption": "Terling village view. Taken at the junction of River Hill and Braintree Road looking down Owl's Hill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Ford_at_Terling_-_geograph.org.uk_-_576929.jpg",
-            "title": "Robert Palmer / The Ford at Terling",
-            "caption": "The Ford at Terling"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/A_little_cottage_on_Church_Green%2C_Terling_-_geograph.org.uk_-_1318887.jpg",
-            "title": "Trevor Harris / A little cottage on Church Green, Terling",
-            "caption": "A little cottage on Church Green. The tiny green cottage is in sharp contrast to its grander neighbours on the green."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/All_Saints_Parish_Church%2C_Terling%2C_Essex._-_geograph.org.uk_-_2011953.jpg",
-            "title": "All Saints Parish Church, Terling, Essex. by Peter Stack, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "All Saints Parish Church."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Footbridge_over_the_River_Ter_-_geograph.org.uk_-_1319011.jpg",
-            "title": "Trevor Harris / Footbridge over the River Ter",
-            "caption": "Dog walker on the footbridge over the River Ter. The footbridge carries the footpath running from Terling Windmill to Three Ashes Farm."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fuller_Street_-_geograph.org.uk_-_445003.jpg",
-            "title": "David Kemp / Fuller Street",
-            "caption": "Fuller Street. Taken from the Essex Way footpath."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Essex_Way_76_-_geograph.org.uk_-_2068159.jpg",
-            "title": "The Essex Way 76 by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Walkers on the Essex Way near Fairstead."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Essex_Way_74_-_geograph.org.uk_-_2068157.jpg",
-            "title": "The Essex Way 74 by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Essex Way footpath view."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "This pretty Essex village has many picturesque features including a ford on the River Ter, an old windmill, a cricket pitch and cottages around Church Green. This circular walk from the village uses a section of the Essex Way and other country lanes to explore the area. The walk starts in the village centre and passes along the Cricket Green to Flack's Green. You then follow the waymarked Essex Way footpath north west to Sandy Wood and Fuller's Green. Pleasant country lanes then takes you north east to Fairstead where you pick up the Essex Way again. Follow it south and it will take you back to Terling.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Rayleigh Arms for some post walk refreshment. The 1840 pub is one of the dominant buildings in the village. They have a good menu with a cosy interior and log fire. Outside there's a lovely large garden area for warmer days. You can find them at 1 Owl's Hill, CM3 2PW."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The country trails make for a fine dog walk and the Rayleigh Arms mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the east you can pick up the Witham River Walk and enjoy a waterside stroll along the River Brain. For more walking ideas in the area see the Essex Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/52lFuhkE7XQ",
-    "district": "Braintree",
-    "county": "Essex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "The Dismals, Flack's Green, Terling, Braintree, Essex, England, CM3 2PN, United Kingdom",
-    "postcode": "CM3 2PN",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["rural", "country lane"],
-    "points_of_interest": ["windmill", "village"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Ford_at_Terling_-_geograph.org.uk_-_576929.jpg",
+      "title": "Robert Palmer / The Ford at Terling",
+      "caption": "The Ford at Terling"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/A_little_cottage_on_Church_Green%2C_Terling_-_geograph.org.uk_-_1318887.jpg",
+      "title": "Trevor Harris / A little cottage on Church Green, Terling",
+      "caption": "A little cottage on Church Green. The tiny green cottage is in sharp contrast to its grander neighbours on the green."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/All_Saints_Parish_Church%2C_Terling%2C_Essex._-_geograph.org.uk_-_2011953.jpg",
+      "title": "All Saints Parish Church, Terling, Essex. by Peter Stack, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "All Saints Parish Church."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Footbridge_over_the_River_Ter_-_geograph.org.uk_-_1319011.jpg",
+      "title": "Trevor Harris / Footbridge over the River Ter",
+      "caption": "Dog walker on the footbridge over the River Ter. The footbridge carries the footpath running from Terling Windmill to Three Ashes Farm."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fuller_Street_-_geograph.org.uk_-_445003.jpg",
+      "title": "David Kemp / Fuller Street",
+      "caption": "Fuller Street. Taken from the Essex Way footpath."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Essex_Way_76_-_geograph.org.uk_-_2068159.jpg",
+      "title": "The Essex Way 76 by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Walkers on the Essex Way near Fairstead."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Essex_Way_74_-_geograph.org.uk_-_2068157.jpg",
+      "title": "The Essex Way 74 by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Essex Way footpath view."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "This pretty Essex village has many picturesque features including a ford on the River Ter, an old windmill, a cricket pitch and cottages around Church Green. This circular walk from the village uses a section of the Essex Way and other country lanes to explore the area. The walk starts in the village centre and passes along the Cricket Green to Flack's Green. You then follow the waymarked Essex Way footpath north west to Sandy Wood and Fuller's Green. Pleasant country lanes then takes you north east to Fairstead where you pick up the Essex Way again. Follow it south and it will take you back to Terling.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Rayleigh Arms for some post walk refreshment. The 1840 pub is one of the dominant buildings in the village. They have a good menu with a cosy interior and log fire. Outside there's a lovely large garden area for warmer days. You can find them at 1 Owl's Hill, CM3 2PW."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Rayleigh Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east you can pick up the Witham River Walk and enjoy a waterside stroll along the River Brain. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/52lFuhkE7XQ",
+  "district": "Braintree",
+  "county": "Essex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Dismals, Flack's Green, Terling, Braintree, Essex, England, CM3 2PN, United Kingdom",
+  "postcode": "CM3 2PN",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "ford",
+    "windmill",
+    "cricket pitch",
+    "village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

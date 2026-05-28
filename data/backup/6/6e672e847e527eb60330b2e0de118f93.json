@@ -1,111 +1,124 @@
 {
-    "created_at": "2025-01-06T04:47:27.169681+00:00",
-    "objectID": "6e672e847e527eb60330b2e0de118f93",
-    "ref": "grimsthorpe-castle-walking-route",
-    "title": "Grimsthorpe Castle Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg/500px-Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg",
-    "nearby": [
-        {
-            "description": "Bourne Woods Lincolnshire",
-            "objectID": "000b9dbf54f57362d517312c95952b28",
-            "ref": "bourne-woods-lincolnshire-walking-and-cycle-route"
-        },
-        {
-            "description": "Culverthorpe",
-            "objectID": "65e6164f0145b60ffff2d668e1fa48be",
-            "ref": "culverthorpe-walking-route"
-        },
-        {
-            "description": "Twyford Wood",
-            "objectID": "b57d5ffb9e3430ffdcf2eacc57c80de4",
-            "ref": "twyford-wood-walking-and-cycle-route"
-        },
-        {
-            "description": "Clipsham",
-            "objectID": "8a4f45fa34c2590778e6c0a5d1fdbbbf",
-            "ref": "clipsham-walking-route"
-        },
-        {
-            "description": "Market Deeping",
-            "objectID": "dea486484c6900f9a7c75b2be8ce7c2c",
-            "ref": "market-deeping-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6e672e847e527eb60330b2e0de118f93.gpx",
-    "_geoloc": {
-        "lat": 52.7941583889,
-        "lng": -0.4524028725
+  "created_at": "2025-01-06T04:47:27.169681+00:00",
+  "objectID": "6e672e847e527eb60330b2e0de118f93",
+  "ref": "grimsthorpe-castle-walking-route",
+  "title": "Grimsthorpe Castle Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg/500px-Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg",
+  "nearby": [
+    {
+      "description": "Bourne Woods Lincolnshire",
+      "objectID": "000b9dbf54f57362d517312c95952b28",
+      "ref": "bourne-woods-lincolnshire-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg/500px-Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg",
-            "title": "Mark Holland / Looking across the Courtyard at the rear of Grimsthorpe Castle",
-            "caption": "Looking across the Courtyard at the rear of Grimsthorpe Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chestnut_Avenue_to_Grimsthorpe_Castle_-_geograph.org.uk_-_401710.jpg",
-            "title": "Ken Brockway / Chestnut Avenue to Grimsthorpe Castle",
-            "caption": "Chestnut Avenue to Grimsthorpe Castle. Taken from the footpath."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deer_on_the_Grimsthorpe_Castle_Estate_-_geograph.org.uk_-_334467.jpg",
-            "title": "Tony Clayton / Deer on the Grimsthorpe Castle Estate",
-            "caption": "Deer on the Grimsthorpe Castle Estate. The deer approach the wood on Maize Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grimsthorpe_Castle_gladiator.jpg/330px-Grimsthorpe_Castle_gladiator.jpg",
-            "title": "Richard Croft / Grimsthorpe gladiator",
-            "caption": "Lead gladiator sculpture in the east garden at Grimsthorpe Castle, a 19th century copy of a gladiator in the Borghese Gardens in Rome."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Swinstead_Hall_-_geograph.org.uk_-_675662.jpg",
-            "title": "Brian Green / Swinstead Hall",
-            "caption": "Swinstead Hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Old_stone_cross_at_Edenham%2C_near_Bourne%2C_Lincolnshire_%28geograph_4428635%29.jpg/500px-Old_stone_cross_at_Edenham%2C_near_Bourne%2C_Lincolnshire_%28geograph_4428635%29.jpg",
-            "title": "Rex Needle / The old market cross at Edenham, near Bourne, Lincolnshire",
-            "caption": "Old stone cross at Edenham, near Bourne, Lincolnshire. The village is a short stroll from the castle grounds and worth a visit if you have time."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Grimsthorpe_Castle_%28geograph_3954112%29.jpg/500px-Grimsthorpe_Castle_%28geograph_3954112%29.jpg",
-            "title": "Richard Croft / Grimsthorpe Castle",
-            "caption": "The Baroque north Front is the last work of Sir John Vanbrugh, commissioned in 1715 by his friend Robert Bertie, the 17th Baron Willoughby de Eresby, to celebrate his ennoblement as the first Duke of Ancaster and Kesteven."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Grimsthorpe_Lake_-_geograph.org.uk_-_289664.jpg",
-            "title": "Tim Heaton / Grimsthorpe Lake",
-            "caption": "Grimsthorpe Lake. The southern end of the lake, with the castle in the distance. The first castle at Grimsthorpe was built by Gilbert de Gant, Earl of Lincoln in the early 13th century, but has been the home of the de Eresby family since 1516, when it was granted by Henry VIII to the 11th Baron Willoughby de Eresby on the occasion of his marriage to Maria de Salinas, lady-in-waiting to Queen Katherine of Aragon. Their daughter Katherine inherited the estate and married Charles Brandon, 1st Duke of Suffolk, who built much of the house that remains today."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This fine country house has an expansive estate to explore on a number of footpaths. This circular walk visits the woodland, lake and parkland where there's fine views of the surrounding Lincolnshire countryside. The castle is situated between Bourne and Swinstead and has been the home of the de Eresby family since 1516. There's 10 miles of trails with a medieval deer park and Tudor oak park crossed by fine avenues of trees. You can also hire bikes on the estate if you prefer to cycle. The park is home to an abundance of wildlife with Buzzards, Red Kites, Swans, and Geese to look out for in the air. There are also resident deer with types including Red, Fallow and Muntjack Deer. The gardens are also majestic with wonderful topiary and ornate statues. To extend the walk you could head west into Swinstead or east into Edenham where there's The Five Bells pub to visit. There's also some good public footpaths heading south toward Little Bytham where there's another deer park with woodland.",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "The estate parkland is a fine place for a dog walk though you are requested to keep them on a lead because of the deer. They are also not allowed in the formal gardens and children's adventure playground. You'll find water bowls outside the shop though."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head a couple of miles east of the estate and you could visit Bourne Woods. There's miles of peaceful trails here with pretty bluebells to see in the spring months. Also nearby is the Willow Tree Fen Nature Reserve and the Macmillan Way long distance trail which can be picked up near Thurlby. Just to the west is the lovely Twyford Wood where there's lots of good footpaths taking you to conifer woodland, grassland and the lovely Twyford Wood butterfly glades. To the north west you'll find the town of Grantham where you'll find one of the highlights of the area at the splendid Belton House. The National Trust owned property includes 1300 acres of parkland surrounding a fine country house. You can also pick up the Grantham Canal near here. A few miles to the south is the market town of Market Deeping. The historic town includes several 17th century stone buildings, a weekly market dating back to 1220 and a well known stone bridge from the mid 17th century. There's also pleasant walking trails along the River Welland to enjoy here. For more walking ideas in the area see the Lincolnshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Pt116i76j20",
-    "district": "South Kesteven",
-    "county": "Lincolnshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "North Avenue, Edenham, Grimsthorpe, South Kesteven, Lincolnshire, England, PE10 0LZ, United Kingdom",
-    "postcode": "PE10 0LZ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "parkland", "garden"],
-    "points_of_interest": ["deer park", "avenues of trees", "statues"],
-    "facilities": ["pub/cafe", "car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling", "bird watching"]
+    {
+      "description": "Culverthorpe",
+      "objectID": "65e6164f0145b60ffff2d668e1fa48be",
+      "ref": "culverthorpe-walking-route"
+    },
+    {
+      "description": "Twyford Wood",
+      "objectID": "b57d5ffb9e3430ffdcf2eacc57c80de4",
+      "ref": "twyford-wood-walking-and-cycle-route"
+    },
+    {
+      "description": "Clipsham",
+      "objectID": "8a4f45fa34c2590778e6c0a5d1fdbbbf",
+      "ref": "clipsham-walking-route"
+    },
+    {
+      "description": "Market Deeping",
+      "objectID": "dea486484c6900f9a7c75b2be8ce7c2c",
+      "ref": "market-deeping-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6e672e847e527eb60330b2e0de118f93.gpx",
+  "_geoloc": {
+    "lat": 52.7941583889,
+    "lng": -0.4524028725
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg/500px-Looking_across_the_Courtyard_at_the_rear_of_Grimsthorpe_Castle_-_geograph.org.uk_-_1739832.jpg",
+      "title": "Mark Holland / Looking across the Courtyard at the rear of Grimsthorpe Castle",
+      "caption": "Looking across the Courtyard at the rear of Grimsthorpe Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chestnut_Avenue_to_Grimsthorpe_Castle_-_geograph.org.uk_-_401710.jpg",
+      "title": "Ken Brockway / Chestnut Avenue to Grimsthorpe Castle",
+      "caption": "Chestnut Avenue to Grimsthorpe Castle. Taken from the footpath."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Deer_on_the_Grimsthorpe_Castle_Estate_-_geograph.org.uk_-_334467.jpg",
+      "title": "Tony Clayton / Deer on the Grimsthorpe Castle Estate",
+      "caption": "Deer on the Grimsthorpe Castle Estate. The deer approach the wood on Maize Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grimsthorpe_Castle_gladiator.jpg/330px-Grimsthorpe_Castle_gladiator.jpg",
+      "title": "Richard Croft / Grimsthorpe gladiator",
+      "caption": "Lead gladiator sculpture in the east garden at Grimsthorpe Castle, a 19th century copy of a gladiator in the Borghese Gardens in Rome."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Swinstead_Hall_-_geograph.org.uk_-_675662.jpg",
+      "title": "Brian Green / Swinstead Hall",
+      "caption": "Swinstead Hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Old_stone_cross_at_Edenham%2C_near_Bourne%2C_Lincolnshire_%28geograph_4428635%29.jpg/500px-Old_stone_cross_at_Edenham%2C_near_Bourne%2C_Lincolnshire_%28geograph_4428635%29.jpg",
+      "title": "Rex Needle / The old market cross at Edenham, near Bourne, Lincolnshire",
+      "caption": "Old stone cross at Edenham, near Bourne, Lincolnshire. The village is a short stroll from the castle grounds and worth a visit if you have time."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Grimsthorpe_Castle_%28geograph_3954112%29.jpg/500px-Grimsthorpe_Castle_%28geograph_3954112%29.jpg",
+      "title": "Richard Croft / Grimsthorpe Castle",
+      "caption": "The Baroque north Front is the last work of Sir John Vanbrugh, commissioned in 1715 by his friend Robert Bertie, the 17th Baron Willoughby de Eresby, to celebrate his ennoblement as the first Duke of Ancaster and Kesteven."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Grimsthorpe_Lake_-_geograph.org.uk_-_289664.jpg",
+      "title": "Tim Heaton / Grimsthorpe Lake",
+      "caption": "Grimsthorpe Lake. The southern end of the lake, with the castle in the distance. The first castle at Grimsthorpe was built by Gilbert de Gant, Earl of Lincoln in the early 13th century, but has been the home of the de Eresby family since 1516, when it was granted by Henry VIII to the 11th Baron Willoughby de Eresby on the occasion of his marriage to Maria de Salinas, lady-in-waiting to Queen Katherine of Aragon. Their daughter Katherine inherited the estate and married Charles Brandon, 1st Duke of Suffolk, who built much of the house that remains today."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This fine country house has an expansive estate to explore on a number of footpaths. This circular walk visits the woodland, lake and parkland where there's fine views of the surrounding Lincolnshire countryside. The castle is situated between Bourne and Swinstead and has been the home of the de Eresby family since 1516. There's 10 miles of trails with a medieval deer park and Tudor oak park crossed by fine avenues of trees. You can also hire bikes on the estate if you prefer to cycle. The park is home to an abundance of wildlife with Buzzards, Red Kites, Swans, and Geese to look out for in the air. There are also resident deer with types including Red, Fallow and Muntjack Deer. The gardens are also majestic with wonderful topiary and ornate statues. To extend the walk you could head west into Swinstead or east into Edenham where there's The Five Bells pub to visit. There's also some good public footpaths heading south toward Little Bytham where there's another deer park with woodland.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The estate parkland is a fine place for a dog walk though you are requested to keep them on a lead because of the deer. They are also not allowed in the formal gardens and children's adventure playground. You'll find water bowls outside the shop though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a couple of miles east of the estate and you could visit Bourne Woods. There's miles of peaceful trails here with pretty bluebells to see in the spring months. Also nearby is the Willow Tree Fen Nature Reserve and the Macmillan Way long distance trail which can be picked up near Thurlby. Just to the west is the lovely Twyford Wood where there's lots of good footpaths taking you to conifer woodland, grassland and the lovely Twyford Wood butterfly glades. To the north west you'll find the town of Grantham where you'll find one of the highlights of the area at the splendid Belton House. The National Trust owned property includes 1300 acres of parkland surrounding a fine country house. You can also pick up the Grantham Canal near here. A few miles to the south is the market town of Market Deeping. The historic town includes several 17th century stone buildings, a weekly market dating back to 1220 and a well known stone bridge from the mid 17th century. There's also pleasant walking trails along the River Welland to enjoy here. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Pt116i76j20",
+  "district": "South Kesteven",
+  "county": "Lincolnshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "North Avenue, Edenham, Grimsthorpe, South Kesteven, Lincolnshire, England, PE10 0LZ, United Kingdom",
+  "postcode": "PE10 0LZ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "lake",
+    "deer park"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

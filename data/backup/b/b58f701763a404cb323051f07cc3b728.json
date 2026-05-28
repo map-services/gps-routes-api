@@ -1,72 +1,81 @@
 {
-    "created_at": "2025-01-06T19:03:42.072628+00:00",
-    "objectID": "b58f701763a404cb323051f07cc3b728",
-    "ref": "fairlie-glen-circular-walk",
-    "title": "Fairlie Glen Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fairlie_Glen_-_geograph.org.uk_-_173873.jpg?20100131134808",
-    "nearby": [
-        {
-            "description": "Ayrshire Coastal Path",
-            "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
-            "ref": "ayrshire-coastal-path-walking-route"
-        },
-        {
-            "description": "Largs",
-            "objectID": "8658cc62581a7e49e82b6a0ab4e05b81",
-            "ref": "largs-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b58f701763a404cb323051f07cc3b728.gpx",
-    "_geoloc": {
-        "lat": 55.75268,
-        "lng": -4.85366
+  "created_at": "2025-01-06T19:03:42.072628+00:00",
+  "objectID": "b58f701763a404cb323051f07cc3b728",
+  "ref": "fairlie-glen-circular-walk",
+  "title": "Fairlie Glen Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fairlie_Glen_-_geograph.org.uk_-_173873.jpg?20100131134808",
+  "nearby": [
+    {
+      "description": "Ayrshire Coastal Path",
+      "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
+      "ref": "ayrshire-coastal-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fairlie_Glen_-_geograph.org.uk_-_173873.jpg?20100131134808",
-            "title": "william craig / Fairlie Glen",
-            "caption": "Fairlie Glen. View from Glenside Burn looking over Hunterston, Little Cumbrae to Arran"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fairlie_Burn_-_Fairlie_Glen_-_geograph.org.uk_-_5596497.jpg/500px-Fairlie_Burn_-_Fairlie_Glen_-_geograph.org.uk_-_5596497.jpg?20231023121841",
-            "title": "Fairlie Burn - Fairlie Glen by Raibeart MacAoidh, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fairlie Castle Waterfall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fairlie_Glen%2C_ruins_of_Fairlie_Castle_-_geograph.org.uk_-_173837.jpg?20100131134806",
-            "title": "william craig / Fairlie Glen, ruins of Fairlie Castle",
-            "caption": "Fairlie Glen, ruins of Fairlie Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Glen_Burn%2C_Fence_Bay%2C_Fairlie._North_Ayrshire.jpg/500px-The_Glen_Burn%2C_Fence_Bay%2C_Fairlie._North_Ayrshire.jpg?20201125201812",
-            "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "The Glen Burn, Fence Bay, Fairlie. North Ayrshire."
-        }
-    ],
-    "distance_km": 7.2,
-    "description": "This popular circular walk explores the beautiful Fairlie Glen in the village of Fairlie, North Ayrshire. The varied route combines woodland trails, open glens, waterfalls and coastal views. Starting in the village of Fairlie, the route begins with a gentle ascent through the glen, following the path alongside the burn. The babbling stream, flanked by mossy banks and native trees such as ash, oak, and birch, creates a tranquil atmosphere. As you progress, the walk takes you through areas rich in wildlife. Look out for birds like robins, blackbirds, and woodpeckers in the wooded sections, while the open glen might reveal sightings of deer or foxes. In spring and summer, wildflowers like bluebells, primroses, and wild garlic carpet the forest floor, adding colour and fragrance to the journey. Emerging from the glen, the trail opens up to rewarding views of the Firth of Clyde. On clear days, you can see the Isle of Arran and Cumbrae, their rugged landscapes creating a dramatic backdrop against the water. The route circles back to the village, passing through fields and open spaces, where buzzards and other raptors are often spotted soaring overhead. Ensure to wear suitable footwear, especially after rain, as some paths can be muddy.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area you could pick up the long distance Ayrshire Coastal Path or head north to visit the neighbouring town of Largs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/XdLtuKgVn9s?si=VdgusWuqAdAddZkJ",
-    "postcode": "KA29 0DJ",
-    "district": "Fairlie",
-    "county": "North Ayrshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Burnfoot Road, Fairlie, North Ayrshire, Alba / Scotland, KA29 0DJ, United Kingdom",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "glens", "coastal"],
-    "points_of_interest": ["wildlife viewing", "waterfall", "views"],
-    "facilities": ["car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Largs",
+      "objectID": "8658cc62581a7e49e82b6a0ab4e05b81",
+      "ref": "largs-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b58f701763a404cb323051f07cc3b728.gpx",
+  "_geoloc": {
+    "lat": 55.75268,
+    "lng": -4.85366
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fairlie_Glen_-_geograph.org.uk_-_173873.jpg?20100131134808",
+      "title": "william craig / Fairlie Glen",
+      "caption": "Fairlie Glen. View from Glenside Burn looking over Hunterston, Little Cumbrae to Arran"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fairlie_Burn_-_Fairlie_Glen_-_geograph.org.uk_-_5596497.jpg/500px-Fairlie_Burn_-_Fairlie_Glen_-_geograph.org.uk_-_5596497.jpg?20231023121841",
+      "title": "Fairlie Burn - Fairlie Glen by Raibeart MacAoidh, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fairlie Castle Waterfall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fairlie_Glen%2C_ruins_of_Fairlie_Castle_-_geograph.org.uk_-_173837.jpg?20100131134806",
+      "title": "william craig / Fairlie Glen, ruins of Fairlie Castle",
+      "caption": "Fairlie Glen, ruins of Fairlie Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Glen_Burn%2C_Fence_Bay%2C_Fairlie._North_Ayrshire.jpg/500px-The_Glen_Burn%2C_Fence_Bay%2C_Fairlie._North_Ayrshire.jpg?20201125201812",
+      "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "The Glen Burn, Fence Bay, Fairlie. North Ayrshire."
+    }
+  ],
+  "distance_km": 7.2,
+  "description": "This popular circular walk explores the beautiful Fairlie Glen in the village of Fairlie, North Ayrshire. The varied route combines woodland trails, open glens, waterfalls and coastal views. Starting in the village of Fairlie, the route begins with a gentle ascent through the glen, following the path alongside the burn. The babbling stream, flanked by mossy banks and native trees such as ash, oak, and birch, creates a tranquil atmosphere. As you progress, the walk takes you through areas rich in wildlife. Look out for birds like robins, blackbirds, and woodpeckers in the wooded sections, while the open glen might reveal sightings of deer or foxes. In spring and summer, wildflowers like bluebells, primroses, and wild garlic carpet the forest floor, adding colour and fragrance to the journey. Emerging from the glen, the trail opens up to rewarding views of the Firth of Clyde. On clear days, you can see the Isle of Arran and Cumbrae, their rugged landscapes creating a dramatic backdrop against the water. The route circles back to the village, passing through fields and open spaces, where buzzards and other raptors are often spotted soaring overhead. Ensure to wear suitable footwear, especially after rain, as some paths can be muddy.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could pick up the long distance Ayrshire Coastal Path or head north to visit the neighbouring town of Largs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/XdLtuKgVn9s?si=VdgusWuqAdAddZkJ",
+  "postcode": "KA29 0DJ",
+  "district": "Fairlie",
+  "county": "North Ayrshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Burnfoot Road, Fairlie, North Ayrshire, Alba / Scotland, KA29 0DJ, United Kingdom",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "open glen",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,117 +1,129 @@
 {
-    "created_at": "2025-01-05T23:44:50.205815+00:00",
-    "objectID": "9e315fd68b82273b696b35909c3a558e",
-    "ref": "rochdale-canal-walking-and-cycle-route",
-    "title": "Rochdale Canal Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_rochdale_branch.jpg/500px-Rochdale_canal_rochdale_branch.jpg",
-    "nearby": [
-        {
-            "description": "Calder and Hebble Navigation Canal",
-            "objectID": "9cd45c93be556a22133b1e8a8d3f3827",
-            "ref": "calder-and-hebble-navigation-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Hollingworth Lake",
-            "objectID": "006350ef483637495e86b5971a08b72e",
-            "ref": "hollingworth-lake-walking-route"
-        },
-        {
-            "description": "Stoodley Pike",
-            "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
-            "ref": "stoodley-pike-walking-route"
-        },
-        {
-            "description": "Hardcastle Crags",
-            "objectID": "8c8e0416de95d6531813fb6dd0724615",
-            "ref": "hardcastle-crags-walking-route"
-        },
-        {
-            "description": "Norland Moor",
-            "objectID": "e6aa7e1abd2296f128191c0f98c68c32",
-            "ref": "norland-moor-walking-route"
-        },
-        {
-            "description": "South Pennine Water Trail",
-            "objectID": "6147ef1e7b39108125ecf773eddcd3e4",
-            "ref": "south-pennine-water-trail-walking-route"
-        },
-        {
-            "description": "Mytholmroyd",
-            "objectID": "c8f70c1aca66efc31aa9fcf15890966f",
-            "ref": "mytholmroyd-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9e315fd68b82273b696b35909c3a558e.gpx",
-    "_geoloc": {
-        "lat": 53.481521544,
-        "lng": -2.2291174308
+  "created_at": "2025-01-05T23:44:50.205815+00:00",
+  "objectID": "9e315fd68b82273b696b35909c3a558e",
+  "ref": "rochdale-canal-walking-and-cycle-route",
+  "title": "Rochdale Canal Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_rochdale_branch.jpg/500px-Rochdale_canal_rochdale_branch.jpg",
+  "nearby": [
+    {
+      "description": "Calder and Hebble Navigation Canal",
+      "objectID": "9cd45c93be556a22133b1e8a8d3f3827",
+      "ref": "calder-and-hebble-navigation-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_rochdale_branch.jpg/500px-Rochdale_canal_rochdale_branch.jpg",
-            "title": "By Parrot of Doom (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "The old branch of the canal heading into Rochdale (visible to centre) - route to Hebden bridge is on the right, back to Manchester behind the photographer."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rochdale_Canal_at_Hebden_Bridge.jpg/330px-Rochdale_Canal_at_Hebden_Bridge.jpg",
-            "title": "By Ian1000 at en.wikipedia (Own work Transferred from en.wikipedia) [Public domain], via Wikimedia Commons",
-            "caption": "Rochdale Canal locks at Hebden Bridge. The The canal runs for a distance of about 32 miles (51 km) across the Pennines, passing through this popular town on the way. It includes 91 locks including these in Yorkshire's Hebden Bridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_railway_viaduct.jpg/500px-Rochdale_canal_railway_viaduct.jpg",
-            "title": "By Parrot of Doom at English Wikipedia (Transferred from en.wikipedia to Commons.) [Public domain], via Wikimedia Commons",
-            "caption": "Railway viaduct. An interesting castellated railway viaduct over the Rochdale Canal, just south of Todmorden near the junction of Bacup and Rochdale Roads (A681 and A6033). Picture taken looking north towards Todmorden."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rochdale_Canal_%2827854924424%29.jpg/330px-Rochdale_Canal_%2827854924424%29.jpg",
-            "title": "By Tim Green from Bradford (Rochdale Canal) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-            "caption": "Barge on the canal."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rochdale_Canal_-_Old_Royd_Lock_%28geograph_5856833%29.jpg/500px-Rochdale_Canal_-_Old_Royd_Lock_%28geograph_5856833%29.jpg",
-            "title": "Nigel Thompson / Rochdale Canal - Old Royd Lock",
-            "caption": "Old Royd Lock, just east of Todmorden. Nice view to the hills and countryside in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rochdale_Canal_-_Woodhouse_Road_bridge_%28geograph_5864565%29.jpg/500px-Rochdale_Canal_-_Woodhouse_Road_bridge_%28geograph_5864565%29.jpg",
-            "title": "Nigel Thompson / Rochdale Canal - Woodhouse Road bridge",
-            "caption": "Woodhouse Road bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gauxholme_-_geograph.org.uk_-_5328.jpg",
-            "title": "Martin Clark / Gauxholme",
-            "caption": "Gauxholme. Looking north-east from Pexwood Road, Gauxholme, near Todmorden, towards Gauxholme Middle Lock and the castellated railway bridge across the Rochdale Canal."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rochdale_Canal_-_geograph.org.uk_-_481192.jpg/500px-Rochdale_Canal_-_geograph.org.uk_-_481192.jpg",
-            "title": "Jo Turner / Rochdale Canal",
-            "caption": "Looking down from Nip Square lock 29 to Travis Mill lock 28 near Walsden."
-        }
-    ],
-    "distance_km": 53.0,
-    "description": "Follow the Rochdale canal from Manchester to Sowerby Bridge on this waterside route through Greater Manchester and Yorkshire. It starts in the city centre of Manchester and runs for about 33 miles through the Pennine Hills. The canal is an excellent way to see the Pennines without too much effort as the towpath is largely flat. You start off in Manchester just to the north of Piccadilly train station at the Castlefield Basin. The canal then heads to Rochdale passing through Failsworth and Chadderton on the way. Near Rochdale you will pass the lovely Hollingworth Lake which is worth a small detour. The route continues through Littleborough to Todmorden where there is the opportunity to visit Stoodley Pike. The challenging climb to the monument gives gives great views over the surrounding area. The next section runs from Todmorden to Hebden Bridge giving wonderful views of Calderdale and the Pennine Hills. If you have time you could visit the wonderful Hardcastle Crags just north of Hebden Bridge. Here you will find streams, beautiful waterfalls and the fantastic Gibson Mill. The final stretch runs from Hebden Bridge to Sowerby Bridge passing the pretty village of Mytholmroyd. The canal then joins the Calder and Hebble Navigation Canal which is also great for a walk or cycle. You can continue along the towpath to nearby Brighouse to extend your exercise. The Rochdale Canal also forms part of the circular South Pennine Water Trail. It's a great way of exploring the area around Littleborough and includes a visit to Hollingworth Lake and the Ealees Valley. The canal is excellent for cycling with National Cycle Route 66 running along the towpath for most of the way.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In Hebden Bridge there's the excellent Rim Nam Thai Restaurant. It's located in a wonderful spot right on the canal side just a short distance from The Hebden Bridge Picture House. It's a great place to enjoy a fine meal with a lovely scenic view. You can find it at Butlers Wharf at postcode HX7 8AF. A little to the west of the town centre there's also the noteworthy Fox & Goose Inn. The pub is the first community-owned pub in West Yorkshire. The friendly place is well worth some investigation with its cosy interior with a roaring fire and an exhibition space for local artists to display their work. Outside there's a lovely hillside beer garden which is great on warmer days. You can find the pub at 7 Heptonstall Road with a postcode of HX7 6AZ for your sat navs. In Todmorden there's The Golden Lion to consider. It's located right next to the canal and has an outdoor area with views over the water. They do excellent Thai food and have a good selection of craft beers too. You can find them at Fielden Square with a postcode of OL14 6LZ for your sat navs. The pub is also dog friendly if you have your canine friend with you."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/AeJK1Y-o6Wo",
-    "postcode": "M4 6DE",
-    "district": "Manchester",
-    "region": "Greater Manchester",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Urban Exchange, 100, Great Ancoats Street, Miles Platting, Manchester, Greater Manchester, England, M4 6DE, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["canal", "hill"],
-    "points_of_interest": ["monument", "waterfall", "mill"],
-    "facilities": ["visitor center", "car park", "cycle route"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Hollingworth Lake",
+      "objectID": "006350ef483637495e86b5971a08b72e",
+      "ref": "hollingworth-lake-walking-route"
+    },
+    {
+      "description": "Stoodley Pike",
+      "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
+      "ref": "stoodley-pike-walking-route"
+    },
+    {
+      "description": "Hardcastle Crags",
+      "objectID": "8c8e0416de95d6531813fb6dd0724615",
+      "ref": "hardcastle-crags-walking-route"
+    },
+    {
+      "description": "Norland Moor",
+      "objectID": "e6aa7e1abd2296f128191c0f98c68c32",
+      "ref": "norland-moor-walking-route"
+    },
+    {
+      "description": "South Pennine Water Trail",
+      "objectID": "6147ef1e7b39108125ecf773eddcd3e4",
+      "ref": "south-pennine-water-trail-walking-route"
+    },
+    {
+      "description": "Mytholmroyd",
+      "objectID": "c8f70c1aca66efc31aa9fcf15890966f",
+      "ref": "mytholmroyd-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9e315fd68b82273b696b35909c3a558e.gpx",
+  "_geoloc": {
+    "lat": 53.481521544,
+    "lng": -2.2291174308
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_rochdale_branch.jpg/500px-Rochdale_canal_rochdale_branch.jpg",
+      "title": "By Parrot of Doom (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "The old branch of the canal heading into Rochdale (visible to centre) - route to Hebden bridge is on the right, back to Manchester behind the photographer."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rochdale_Canal_at_Hebden_Bridge.jpg/330px-Rochdale_Canal_at_Hebden_Bridge.jpg",
+      "title": "By Ian1000 at en.wikipedia (Own work Transferred from en.wikipedia) [Public domain], via Wikimedia Commons",
+      "caption": "Rochdale Canal locks at Hebden Bridge. The The canal runs for a distance of about 32 miles (51 km) across the Pennines, passing through this popular town on the way. It includes 91 locks including these in Yorkshire's Hebden Bridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rochdale_canal_railway_viaduct.jpg/500px-Rochdale_canal_railway_viaduct.jpg",
+      "title": "By Parrot of Doom at English Wikipedia (Transferred from en.wikipedia to Commons.) [Public domain], via Wikimedia Commons",
+      "caption": "Railway viaduct. An interesting castellated railway viaduct over the Rochdale Canal, just south of Todmorden near the junction of Bacup and Rochdale Roads (A681 and A6033). Picture taken looking north towards Todmorden."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rochdale_Canal_%2827854924424%29.jpg/330px-Rochdale_Canal_%2827854924424%29.jpg",
+      "title": "By Tim Green from Bradford (Rochdale Canal) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "caption": "Barge on the canal."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rochdale_Canal_-_Old_Royd_Lock_%28geograph_5856833%29.jpg/500px-Rochdale_Canal_-_Old_Royd_Lock_%28geograph_5856833%29.jpg",
+      "title": "Nigel Thompson / Rochdale Canal - Old Royd Lock",
+      "caption": "Old Royd Lock, just east of Todmorden. Nice view to the hills and countryside in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rochdale_Canal_-_Woodhouse_Road_bridge_%28geograph_5864565%29.jpg/500px-Rochdale_Canal_-_Woodhouse_Road_bridge_%28geograph_5864565%29.jpg",
+      "title": "Nigel Thompson / Rochdale Canal - Woodhouse Road bridge",
+      "caption": "Woodhouse Road bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gauxholme_-_geograph.org.uk_-_5328.jpg",
+      "title": "Martin Clark / Gauxholme",
+      "caption": "Gauxholme. Looking north-east from Pexwood Road, Gauxholme, near Todmorden, towards Gauxholme Middle Lock and the castellated railway bridge across the Rochdale Canal."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rochdale_Canal_-_geograph.org.uk_-_481192.jpg/500px-Rochdale_Canal_-_geograph.org.uk_-_481192.jpg",
+      "title": "Jo Turner / Rochdale Canal",
+      "caption": "Looking down from Nip Square lock 29 to Travis Mill lock 28 near Walsden."
+    }
+  ],
+  "distance_km": 53.0,
+  "description": "Follow the Rochdale canal from Manchester to Sowerby Bridge on this waterside route through Greater Manchester and Yorkshire. It starts in the city centre of Manchester and runs for about 33 miles through the Pennine Hills. The canal is an excellent way to see the Pennines without too much effort as the towpath is largely flat. You start off in Manchester just to the north of Piccadilly train station at the Castlefield Basin. The canal then heads to Rochdale passing through Failsworth and Chadderton on the way. Near Rochdale you will pass the lovely Hollingworth Lake which is worth a small detour. The route continues through Littleborough to Todmorden where there is the opportunity to visit Stoodley Pike. The challenging climb to the monument gives gives great views over the surrounding area. The next section runs from Todmorden to Hebden Bridge giving wonderful views of Calderdale and the Pennine Hills. If you have time you could visit the wonderful Hardcastle Crags just north of Hebden Bridge. Here you will find streams, beautiful waterfalls and the fantastic Gibson Mill. The final stretch runs from Hebden Bridge to Sowerby Bridge passing the pretty village of Mytholmroyd. The canal then joins the Calder and Hebble Navigation Canal which is also great for a walk or cycle. You can continue along the towpath to nearby Brighouse to extend your exercise. The Rochdale Canal also forms part of the circular South Pennine Water Trail. It's a great way of exploring the area around Littleborough and includes a visit to Hollingworth Lake and the Ealees Valley. The canal is excellent for cycling with National Cycle Route 66 running along the towpath for most of the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Hebden Bridge there's the excellent Rim Nam Thai Restaurant. It's located in a wonderful spot right on the canal side just a short distance from The Hebden Bridge Picture House. It's a great place to enjoy a fine meal with a lovely scenic view. You can find it at Butlers Wharf at postcode HX7 8AF. A little to the west of the town centre there's also the noteworthy Fox & Goose Inn. The pub is the first community-owned pub in West Yorkshire. The friendly place is well worth some investigation with its cosy interior with a roaring fire and an exhibition space for local artists to display their work. Outside there's a lovely hillside beer garden which is great on warmer days. You can find the pub at 7 Heptonstall Road with a postcode of HX7 6AZ for your sat navs. In Todmorden there's The Golden Lion to consider. It's located right next to the canal and has an outdoor area with views over the water. They do excellent Thai food and have a good selection of craft beers too. You can find them at Fielden Square with a postcode of OL14 6LZ for your sat navs. The pub is also dog friendly if you have your canine friend with you."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/AeJK1Y-o6Wo",
+  "postcode": "M4 6DE",
+  "district": "Manchester",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Urban Exchange, 100, Great Ancoats Street, Miles Platting, Manchester, Greater Manchester, England, M4 6DE, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "10-12 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "hilly"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

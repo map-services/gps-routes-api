@@ -1,82 +1,93 @@
 {
-    "created_at": "2025-01-06T00:22:47.998987+00:00",
-    "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
-    "ref": "brockhill-country-park-walking-and-cycle-route",
-    "title": "Brockhill Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Caf%C3%A9_at_Brockhill_Country_Park_-_geograph.org.uk_-_1766384.jpg",
-    "nearby": [
-        {
-            "description": "Saxon Shore Way",
-            "objectID": "e50fab578e5425ee992debe450ead99a",
-            "ref": "saxon-shore-way-walking-route"
-        },
-        {
-            "description": "Hythe",
-            "objectID": "a1c7b48264ed82e3b4edf1d4ed4ef806",
-            "ref": "hythe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fbbcb463fe7609eb17c7a1c633c9edbc.gpx",
-    "_geoloc": {
-        "lat": 51.0824788556,
-        "lng": 1.0671104049
+  "created_at": "2025-01-06T00:22:47.998987+00:00",
+  "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
+  "ref": "brockhill-country-park-walking-and-cycle-route",
+  "title": "Brockhill Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Caf%C3%A9_at_Brockhill_Country_Park_-_geograph.org.uk_-_1766384.jpg",
+  "nearby": [
+    {
+      "description": "Saxon Shore Way",
+      "objectID": "e50fab578e5425ee992debe450ead99a",
+      "ref": "saxon-shore-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Caf%C3%A9_at_Brockhill_Country_Park_-_geograph.org.uk_-_1766384.jpg",
-            "title": "Andy Potter / Caf\u00e9 at Brockhill Country Park",
-            "caption": "Caf\u00e9 at Brockhill Country Park. On a warm August afternoon the (pay & display) car park was packed but the park itself was uncrowded."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg/330px-Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg",
-            "title": "David Anstiss / Brockhill Stream in Brockhill Country Park",
-            "caption": "Brockhill Stream. This stream leads from the lake down the valley into Hythe."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Footbridge_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274574.jpg",
-            "title": "David Anstiss / Footbridge in Brockhill Country Park",
-            "caption": "Footbridge. This is on the 'Blue Route'. A 3/4 mile route from the carpark down the valley and then around the lake. This bridge is over a small feeder stream to the lake, on the west of the lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Cascades_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274568.jpg/330px-The_Cascades_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274568.jpg",
-            "title": "David Anstiss / The Cascades in Brockhill Country Park",
-            "caption": "The Cascades. The Brockhill Stream was a natural watercourse. The stream was dammed by the Victorians to create the lake and the Cascades waterfall."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lake%2C_Brockhill_Country_Park_-_geograph.org.uk_-_36117.jpg",
-            "title": "Roger Miller / Lake, Brockhill Country Park",
-            "caption": "The Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saxon_Shore_Way_in_Heane_Wood_-_geograph.org.uk_-_2161367.jpg/500px-Saxon_Shore_Way_in_Heane_Wood_-_geograph.org.uk_-_2161367.jpg",
-            "title": "Saxon Shore Way in Heane Wood by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Saxon Shore Way in Heane Wood. The wood is located just north west off the park and a place to extend your walk."
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "Brockhill Park has a number of waymarked woodland trails, a lake, open grassland and meadows. The park is rich in wildlife, with marbled white butterflies, green woodpeckers and carpets of snowdrops. There are also excellent facilities with picnic areas and a cafe. Brockhill is located near Hythe on the Kent Coast.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west on the Royal Military Canal Path you'll find the village of Lympne. Here you can visit the splendid Port Lympne Wild Animal Park, the medieval Lympne Castle and the ancient Portus Lemanis Roman Fort. For more walking ideas in the area see the Kent Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/ESv0b8HKvVU",
-    "postcode": "CT21 4HL",
-    "district": "Folkestone and Hythe",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Brockhill Park Performing Arts College, Sandling Road, Sandling, Saltwood, Folkestone and Hythe, Kent, England, CT21 4HL, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "grassland", "meadow"],
-    "points_of_interest": ["wildlife"],
-    "facilities": ["picnic area", "cafe", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Hythe",
+      "objectID": "a1c7b48264ed82e3b4edf1d4ed4ef806",
+      "ref": "hythe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fbbcb463fe7609eb17c7a1c633c9edbc.gpx",
+  "_geoloc": {
+    "lat": 51.0824788556,
+    "lng": 1.0671104049
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Caf%C3%A9_at_Brockhill_Country_Park_-_geograph.org.uk_-_1766384.jpg",
+      "title": "Andy Potter / Caf\u00e9 at Brockhill Country Park",
+      "caption": "Caf\u00e9 at Brockhill Country Park. On a warm August afternoon the (pay & display) car park was packed but the park itself was uncrowded."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg/330px-Brockhill_Stream_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274562.jpg",
+      "title": "David Anstiss / Brockhill Stream in Brockhill Country Park",
+      "caption": "Brockhill Stream. This stream leads from the lake down the valley into Hythe."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Footbridge_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274574.jpg",
+      "title": "David Anstiss / Footbridge in Brockhill Country Park",
+      "caption": "Footbridge. This is on the 'Blue Route'. A 3/4 mile route from the carpark down the valley and then around the lake. This bridge is over a small feeder stream to the lake, on the west of the lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Cascades_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274568.jpg/330px-The_Cascades_in_Brockhill_Country_Park_-_geograph.org.uk_-_1274568.jpg",
+      "title": "David Anstiss / The Cascades in Brockhill Country Park",
+      "caption": "The Cascades. The Brockhill Stream was a natural watercourse. The stream was dammed by the Victorians to create the lake and the Cascades waterfall."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lake%2C_Brockhill_Country_Park_-_geograph.org.uk_-_36117.jpg",
+      "title": "Roger Miller / Lake, Brockhill Country Park",
+      "caption": "The Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saxon_Shore_Way_in_Heane_Wood_-_geograph.org.uk_-_2161367.jpg/500px-Saxon_Shore_Way_in_Heane_Wood_-_geograph.org.uk_-_2161367.jpg",
+      "title": "Saxon Shore Way in Heane Wood by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Saxon Shore Way in Heane Wood. The wood is located just north west off the park and a place to extend your walk."
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "Brockhill Park has a number of waymarked woodland trails, a lake, open grassland and meadows. The park is rich in wildlife, with marbled white butterflies, green woodpeckers and carpets of snowdrops. There are also excellent facilities with picnic areas and a cafe. Brockhill is located near Hythe on the Kent Coast.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west on the Royal Military Canal Path you'll find the village of Lympne. Here you can visit the splendid Port Lympne Wild Animal Park, the medieval Lympne Castle and the ancient Portus Lemanis Roman Fort. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/ESv0b8HKvVU",
+  "postcode": "CT21 4HL",
+  "district": "Folkestone and Hythe",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Brockhill Park Performing Arts College, Sandling Road, Sandling, Saltwood, Folkestone and Hythe, Kent, England, CT21 4HL, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "lake"
+  ],
+  "facilities": [
+    "cafe",
+    "picnic area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

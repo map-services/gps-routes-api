@@ -1,97 +1,104 @@
 {
-    "created_at": "2025-01-06T11:05:56.908553+00:00",
-    "objectID": "02dc1c3e7d54c37f46d109cce99e9552",
-    "ref": "river-tone-walking-route",
-    "title": "River Tone Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg/500px-Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg?20211006235209",
-    "nearby": [
-        {
-            "description": "Bridgwater and Taunton Canal",
-            "objectID": "e571e18a0e6613925af42440a1d55968",
-            "ref": "bridgwater-and-taunton-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Somerset Space Walk",
-            "objectID": "bd84563b2c921be516082a4f7582a984",
-            "ref": "somerset-space-walk"
-        },
-        {
-            "description": "Burrow Mump",
-            "objectID": "2a36923e10f80a9db664728df60227ab",
-            "ref": "burrow-mump-walking-route"
-        },
-        {
-            "description": "Creech St Michael",
-            "objectID": "5b7ae1a8b887dfb3d1ae9ccd9e9b14b4",
-            "ref": "creech-st-michael-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02dc1c3e7d54c37f46d109cce99e9552.gpx",
-    "_geoloc": {
-        "lat": 51.020105992,
-        "lng": -3.0997749738
+  "created_at": "2025-01-06T11:05:56.908553+00:00",
+  "objectID": "02dc1c3e7d54c37f46d109cce99e9552",
+  "ref": "river-tone-walking-route",
+  "title": "River Tone Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg/500px-Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg?20211006235209",
+  "nearby": [
+    {
+      "description": "Bridgwater and Taunton Canal",
+      "objectID": "e571e18a0e6613925af42440a1d55968",
+      "ref": "bridgwater-and-taunton-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg/500px-Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg?20211006235209",
-            "title": "Firepool. Taunton by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Firepool. Taunton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Behind_Creech_Castle_in_Taunton_-_geograph.org.uk_-_4151569.jpg/500px-Behind_Creech_Castle_in_Taunton_-_geograph.org.uk_-_4151569.jpg?20221217231309",
-            "title": "Behind Creech Castle in Taunton by Julie Munckton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Behind Creech Castle in Taunton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_River_Tone_at_Hankridge_-_geograph.org.uk_-_1413786.jpg?20110301171721",
-            "title": "Ken Grainger / The River Tone at Hankridge",
-            "caption": "The River Tone at Hankridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/River_Tone_near_Ruishton_-_geograph.org.uk_-_1458913.jpg?20110302060755",
-            "title": "Derek Harper / River Tone near Ruishton",
-            "caption": "River Tone near Ruishton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/River_Tone_%2C_with_Chard_Canal_aqueduct_in_the_distance_%28geograph_3315101%29.jpg/500px-River_Tone_%2C_with_Chard_Canal_aqueduct_in_the_distance_%28geograph_3315101%29.jpg?20150530204932",
-            "title": "Roger Cornfoot / River Tone, with Chard Canal aqueduct in the distance",
-            "caption": "River Tone, with Chard Canal aqueduct in the distance"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Tone_-_geograph.org.uk_-_5673335.jpg?20231104014333",
-            "title": "River Tone by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Near Burrowbridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burrowbridge_%2C_Burrow_Mump_-_geograph.org.uk_-_3938257.jpg/500px-Burrowbridge_%2C_Burrow_Mump_-_geograph.org.uk_-_3938257.jpg?20221028102750",
-            "title": "Burrowbridge : Burrow Mump by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Burrowbridge, Burrow Mump"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burrow_Mump_is_just_a_hump.jpg/500px-Burrow_Mump_is_just_a_hump.jpg?20131122234013",
-            "title": "Saffron Blaze, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Burrow Mump is just a hump"
-        }
-    ],
-    "distance_km": 18.0,
-    "description": "This walk takes you along the River Tone from Taunton To Burrowbridge in Somerset. At Burrowbridge you will link up with the River Parret Trail as this is the point where the two rivers meet. At the end of the walk you can also climb Burrow Mump for some interesting local history and views over the area. The route passes the settlements of Creech St Michael, Knapp and Stoke St Gregory. Along the way you will enjoy pleasant waterside sections and views over the surrounding countryside. To continue your walking in the area you could pick up the Somerset Space Walk along the Bridgwater and Taunton Canal .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/l84bALEsCIA?si=h5ufgURqw7iZQEdu",
-    "postcode": "TA1 1AP",
-    "district": "Taunton",
-    "county": "Somerset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Youngman Place, Firepool, Taunton, Somerset, England, TA1 1AP, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["riverside", "countryside"],
-    "points_of_interest": ["historical site", "views"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Somerset Space Walk",
+      "objectID": "bd84563b2c921be516082a4f7582a984",
+      "ref": "somerset-space-walk"
+    },
+    {
+      "description": "Burrow Mump",
+      "objectID": "2a36923e10f80a9db664728df60227ab",
+      "ref": "burrow-mump-walking-route"
+    },
+    {
+      "description": "Creech St Michael",
+      "objectID": "5b7ae1a8b887dfb3d1ae9ccd9e9b14b4",
+      "ref": "creech-st-michael-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02dc1c3e7d54c37f46d109cce99e9552.gpx",
+  "_geoloc": {
+    "lat": 51.020105992,
+    "lng": -3.0997749738
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg/500px-Firepool._Taunton_-_geograph.org.uk_-_2726457.jpg?20211006235209",
+      "title": "Firepool. Taunton by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Firepool. Taunton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Behind_Creech_Castle_in_Taunton_-_geograph.org.uk_-_4151569.jpg/500px-Behind_Creech_Castle_in_Taunton_-_geograph.org.uk_-_4151569.jpg?20221217231309",
+      "title": "Behind Creech Castle in Taunton by Julie Munckton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Behind Creech Castle in Taunton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_River_Tone_at_Hankridge_-_geograph.org.uk_-_1413786.jpg?20110301171721",
+      "title": "Ken Grainger / The River Tone at Hankridge",
+      "caption": "The River Tone at Hankridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/River_Tone_near_Ruishton_-_geograph.org.uk_-_1458913.jpg?20110302060755",
+      "title": "Derek Harper / River Tone near Ruishton",
+      "caption": "River Tone near Ruishton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/River_Tone_%2C_with_Chard_Canal_aqueduct_in_the_distance_%28geograph_3315101%29.jpg/500px-River_Tone_%2C_with_Chard_Canal_aqueduct_in_the_distance_%28geograph_3315101%29.jpg?20150530204932",
+      "title": "Roger Cornfoot / River Tone, with Chard Canal aqueduct in the distance",
+      "caption": "River Tone, with Chard Canal aqueduct in the distance"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Tone_-_geograph.org.uk_-_5673335.jpg?20231104014333",
+      "title": "River Tone by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Near Burrowbridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burrowbridge_%2C_Burrow_Mump_-_geograph.org.uk_-_3938257.jpg/500px-Burrowbridge_%2C_Burrow_Mump_-_geograph.org.uk_-_3938257.jpg?20221028102750",
+      "title": "Burrowbridge : Burrow Mump by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Burrowbridge, Burrow Mump"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burrow_Mump_is_just_a_hump.jpg/500px-Burrow_Mump_is_just_a_hump.jpg?20131122234013",
+      "title": "Saffron Blaze, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Burrow Mump is just a hump"
+    }
+  ],
+  "distance_km": 18.0,
+  "description": "This walk takes you along the River Tone from Taunton To Burrowbridge in Somerset. At Burrowbridge you will link up with the River Parret Trail as this is the point where the two rivers meet. At the end of the walk you can also climb Burrow Mump for some interesting local history and views over the area. The route passes the settlements of Creech St Michael, Knapp and Stoke St Gregory. Along the way you will enjoy pleasant waterside sections and views over the surrounding countryside. To continue your walking in the area you could pick up the Somerset Space Walk along the Bridgwater and Taunton Canal .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/l84bALEsCIA?si=h5ufgURqw7iZQEdu",
+  "postcode": "TA1 1AP",
+  "district": "Taunton",
+  "county": "Somerset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Youngman Place, Firepool, Taunton, Somerset, England, TA1 1AP, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "6 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

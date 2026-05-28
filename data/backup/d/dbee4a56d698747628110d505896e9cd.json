@@ -1,91 +1,99 @@
 {
-    "created_at": "2025-01-05T23:22:52.951872+00:00",
-    "objectID": "dbee4a56d698747628110d505896e9cd",
-    "ref": "coxley-woods-walking-route",
-    "title": "Coxley Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lake_on_edge_of_Stony_Cliffe_Wood_-_geograph.org.uk_-_738114.jpg",
-    "nearby": [
-        {
-            "description": "Kirklees Way",
-            "objectID": "1e204191e917b4fb8cd67606b7b5832e",
-            "ref": "kirklees-way-walking-route"
-        },
-        {
-            "description": "Bretton Country Park",
-            "objectID": "3dd10aa0776bf472618b3a2dde80174c",
-            "ref": "bretton-country-park-walking-route"
-        },
-        {
-            "description": "Cannon Hall Country Park",
-            "objectID": "b48a2153f63ffc3e7557f0dc120c239d",
-            "ref": "cannon-hall-country-park-walking-route"
-        },
-        {
-            "description": "Deffer Wood",
-            "objectID": "2d92866ce8707b7d975c6d57e0ac87dc",
-            "ref": "deffer-wood-walking-route"
-        },
-        {
-            "description": "Emley Circular Trail",
-            "objectID": "1a76eda64b2a7770e3dffc9b38ce890b",
-            "ref": "emley-circular-trail-walking-route"
-        },
-        {
-            "description": "Dewsbury Country Park",
-            "objectID": "0df3d50ca2c5a2cc4ced6bf1ed6bb93c",
-            "ref": "dewsbury-country-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dbee4a56d698747628110d505896e9cd.gpx",
-    "_geoloc": {
-        "lat": 53.651389293,
-        "lng": -1.5828190798
+  "created_at": "2025-01-05T23:22:52.951872+00:00",
+  "objectID": "dbee4a56d698747628110d505896e9cd",
+  "ref": "coxley-woods-walking-route",
+  "title": "Coxley Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lake_on_edge_of_Stony_Cliffe_Wood_-_geograph.org.uk_-_738114.jpg",
+  "nearby": [
+    {
+      "description": "Kirklees Way",
+      "objectID": "1e204191e917b4fb8cd67606b7b5832e",
+      "ref": "kirklees-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lake_on_edge_of_Stony_Cliffe_Wood_-_geograph.org.uk_-_738114.jpg",
-            "title": "Andrew Whale [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Lake on edge of Stony Cliffe Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Footpath_into_Stone_Cliffe_Wood%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_794813.jpg",
-            "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Footpath into Stone Cliffe Wood, Midgley, Sitlington"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bridleway_to_Middlestown%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_796075.jpg",
-            "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Bridleway to Middlestown, Midgley, Sitlington"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_from_a_seat%2C_New_Hall_Wood_plantation%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_787526.jpg",
-            "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "View from a seat, New Hall Wood plantation, Midgley, Sitlington"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "These woods near Netherton have miles of trails to follow through attractive woodland. There's pretty streams, becks and a series of ponds to enjoy. Also look out for lots of bluebells in the spring and a variety of woodland birds. Most of the route is on fairly flat paths but towards the southern end of the site it does get quite hilly. As such a reasonable level of fitness is required if you are going to walk the length of the woods. You can access Coxley Woods just to the north west of Netherton in Wakefield. Then pick up the trails heading south along the Coxley Beck and the ponds. You then pass through Perkin Wood and Stony Cliffe Wood before turning around and returning to the northern end of the site. The Kirklees Way long distance trail, passes to the west of the woods. You can pick this up to continue your walking in the Wakefield area. You could follow the trail south and visit the splendid Bretton Country Park and Yorkshire Sculpture Park. Here you will find 500 acres of lakes and parkland, with a myriad of footpaths to follow. Following the trail north will take you into Dewsbury where you could explore Dewsbury Country Park .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the south there's Cannon Hall Country Park to explore. Here you'll find a fine old hall surrounded by beautiful parkland and gardens, a lake and a waterfall. The peaceful woodland trails in Deffer Wood can also be picked up in this area."
-        }
-    ],
-    "district": "Wakefield",
-    "region": "West Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Coxley Lane, Sitlington, Netherton, Wakefield, West Yorkshire, England, WF4 4PU, United Kingdom",
-    "postcode": "WF4 4PU",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "grass"],
-    "points_of_interest": ["parkland", "footpath"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bretton Country Park",
+      "objectID": "3dd10aa0776bf472618b3a2dde80174c",
+      "ref": "bretton-country-park-walking-route"
+    },
+    {
+      "description": "Cannon Hall Country Park",
+      "objectID": "b48a2153f63ffc3e7557f0dc120c239d",
+      "ref": "cannon-hall-country-park-walking-route"
+    },
+    {
+      "description": "Deffer Wood",
+      "objectID": "2d92866ce8707b7d975c6d57e0ac87dc",
+      "ref": "deffer-wood-walking-route"
+    },
+    {
+      "description": "Emley Circular Trail",
+      "objectID": "1a76eda64b2a7770e3dffc9b38ce890b",
+      "ref": "emley-circular-trail-walking-route"
+    },
+    {
+      "description": "Dewsbury Country Park",
+      "objectID": "0df3d50ca2c5a2cc4ced6bf1ed6bb93c",
+      "ref": "dewsbury-country-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dbee4a56d698747628110d505896e9cd.gpx",
+  "_geoloc": {
+    "lat": 53.651389293,
+    "lng": -1.5828190798
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lake_on_edge_of_Stony_Cliffe_Wood_-_geograph.org.uk_-_738114.jpg",
+      "title": "Andrew Whale [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Lake on edge of Stony Cliffe Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Footpath_into_Stone_Cliffe_Wood%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_794813.jpg",
+      "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Footpath into Stone Cliffe Wood, Midgley, Sitlington"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bridleway_to_Middlestown%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_796075.jpg",
+      "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Bridleway to Middlestown, Midgley, Sitlington"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_from_a_seat%2C_New_Hall_Wood_plantation%2C_Midgley%2C_Sitlington_-_geograph.org.uk_-_787526.jpg",
+      "title": "Humphrey Bolton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "View from a seat, New Hall Wood plantation, Midgley, Sitlington"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "These woods near Netherton have miles of trails to follow through attractive woodland. There's pretty streams, becks and a series of ponds to enjoy. Also look out for lots of bluebells in the spring and a variety of woodland birds. Most of the route is on fairly flat paths but towards the southern end of the site it does get quite hilly. As such a reasonable level of fitness is required if you are going to walk the length of the woods. You can access Coxley Woods just to the north west of Netherton in Wakefield. Then pick up the trails heading south along the Coxley Beck and the ponds. You then pass through Perkin Wood and Stony Cliffe Wood before turning around and returning to the northern end of the site. The Kirklees Way long distance trail, passes to the west of the woods. You can pick this up to continue your walking in the Wakefield area. You could follow the trail south and visit the splendid Bretton Country Park and Yorkshire Sculpture Park. Here you will find 500 acres of lakes and parkland, with a myriad of footpaths to follow. Following the trail north will take you into Dewsbury where you could explore Dewsbury Country Park .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's Cannon Hall Country Park to explore. Here you'll find a fine old hall surrounded by beautiful parkland and gardens, a lake and a waterfall. The peaceful woodland trails in Deffer Wood can also be picked up in this area."
+    }
+  ],
+  "district": "Wakefield",
+  "region": "West Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Coxley Lane, Sitlington, Netherton, Wakefield, West Yorkshire, England, WF4 4PU, United Kingdom",
+  "postcode": "WF4 4PU",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "stream",
+    "pond",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

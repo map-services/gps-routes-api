@@ -1,72 +1,82 @@
 {
-    "created_at": "2025-01-06T18:51:05.235233+00:00",
-    "objectID": "eef22913bbe57496d64e283ad71be957",
-    "ref": "haughton-dale-nature-reserve-walking-route",
-    "title": "Haughton Dale Nature Reserve Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg/500px-Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg",
-    "nearby": [
-        {
-            "description": "Tameside Trail",
-            "objectID": "2b31b0ed991f37cdcbd7ee6f064ba384",
-            "ref": "tameside-trail-walking-route"
-        },
-        {
-            "description": "Reddish Vale Country Park",
-            "objectID": "2df69cd96c29975caf2d6a4575dd3d07",
-            "ref": "reddish-vale-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Peak Forest Canal",
-            "objectID": "58bd76853a36b9a324b3b4952d4ee4a5",
-            "ref": "peak-forest-canal-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eef22913bbe57496d64e283ad71be957.gpx",
-    "_geoloc": {
-        "lat": 53.44026,
-        "lng": -2.09243
+  "created_at": "2025-01-06T18:51:05.235233+00:00",
+  "objectID": "eef22913bbe57496d64e283ad71be957",
+  "ref": "haughton-dale-nature-reserve-walking-route",
+  "title": "Haughton Dale Nature Reserve Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg/500px-Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg",
+  "nearby": [
+    {
+      "description": "Tameside Trail",
+      "objectID": "2b31b0ed991f37cdcbd7ee6f064ba384",
+      "ref": "tameside-trail-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg/500px-Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg",
-            "title": "Footpath in Haughton Dale by Gerald England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath in Haughton Dale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/River_Tame_in_Haughton_Dale_-_geograph.org.uk_-_4672617.jpg/500px-River_Tame_in_Haughton_Dale_-_geograph.org.uk_-_4672617.jpg",
-            "title": "River Tame in Haughton Dale by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Tame in Haughton Dale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Peak_Forest_Canal_by_Haughton_Dale_Nature_Reserve_-_geograph.org.uk_-_995551.jpg",
-            "title": "Chris Wimbush / Peak Forest Canal by Haughton Dale Nature Reserve",
-            "caption": "Peak Forest Canal by Haughton Dale Nature Reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Haughton_Dale_-_geograph.org.uk_-_1942834.jpg",
-            "title": "Haughton Dale by Gerald England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Summer in the dale."
-        }
-    ],
-    "distance_km": 1.2,
-    "description": "This walk visits the Haughton Dale Nature Reserve in the village of Haughton Green in Tameside. In the reserve you can enjoy ancient woodland trails, scenic meadows and riverside paths along the River Tame. Highlights include the bluebells in spring and a variety of wildlife including woodpeckers, owls, buzzards, bullfinches and nuthatches. The Tameside Trail passes through the reserve providing an opportunity to extend your walk along the river. One nice idea is to follow it west to visit Reddish Vale Country Park where there are some fine walking and cycling trails to try. The Peak Forest Canal can also be picked up on the southern side of the park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/ncbAS-O6vq4",
-    "postcode": "M34 7GS",
-    "district": "Tameside",
-    "region": "Greater Manchester",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Gibraltar Lane, Cheetham Fold, Haughton Green, Tameside, Greater Manchester, England, M34 7GS, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "riverside"],
-    "points_of_interest": ["nature reserve", "country park"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Reddish Vale Country Park",
+      "objectID": "2df69cd96c29975caf2d6a4575dd3d07",
+      "ref": "reddish-vale-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Peak Forest Canal",
+      "objectID": "58bd76853a36b9a324b3b4952d4ee4a5",
+      "ref": "peak-forest-canal-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eef22913bbe57496d64e283ad71be957.gpx",
+  "_geoloc": {
+    "lat": 53.44026,
+    "lng": -2.09243
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg/500px-Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg",
+      "title": "Footpath in Haughton Dale by Gerald England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath in Haughton Dale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/River_Tame_in_Haughton_Dale_-_geograph.org.uk_-_4672617.jpg/500px-River_Tame_in_Haughton_Dale_-_geograph.org.uk_-_4672617.jpg",
+      "title": "River Tame in Haughton Dale by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Tame in Haughton Dale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Peak_Forest_Canal_by_Haughton_Dale_Nature_Reserve_-_geograph.org.uk_-_995551.jpg",
+      "title": "Chris Wimbush / Peak Forest Canal by Haughton Dale Nature Reserve",
+      "caption": "Peak Forest Canal by Haughton Dale Nature Reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Haughton_Dale_-_geograph.org.uk_-_1942834.jpg",
+      "title": "Haughton Dale by Gerald England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Summer in the dale."
+    }
+  ],
+  "distance_km": 1.2,
+  "description": "This walk visits the Haughton Dale Nature Reserve in the village of Haughton Green in Tameside. In the reserve you can enjoy ancient woodland trails, scenic meadows and riverside paths along the River Tame. Highlights include the bluebells in spring and a variety of wildlife including woodpeckers, owls, buzzards, bullfinches and nuthatches. The Tameside Trail passes through the reserve providing an opportunity to extend your walk along the river. One nice idea is to follow it west to visit Reddish Vale Country Park where there are some fine walking and cycling trails to try. The Peak Forest Canal can also be picked up on the southern side of the park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/ncbAS-O6vq4",
+  "postcode": "M34 7GS",
+  "district": "Tameside",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Gibraltar Lane, Cheetham Fold, Haughton Green, Tameside, Greater Manchester, England, M34 7GS, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

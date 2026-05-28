@@ -105,23 +105,26 @@
   "district": "Derbyshire Dales",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "rock",
-    "countryside"
+    "woodland"
   ],
   "points_of_interest": [
+    "rock formation",
     "viewpoint",
-    "rock formations",
+    "historical site",
     "stone circle"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
-    "climbing"
+    "rock climbing",
+    "dog walking"
   ]
 }

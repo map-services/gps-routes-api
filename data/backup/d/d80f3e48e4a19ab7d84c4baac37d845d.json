@@ -1,87 +1,97 @@
 {
-    "created_at": "2025-01-06T19:01:33.682752+00:00",
-    "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
-    "ref": "tennant-canal-walking-route",
-    "title": "Tennant Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tennant_Canal_-_Aberdulais_-_geograph.org.uk_-_4037111.jpg",
-    "nearby": [
-        {
-            "description": "Neath Canal",
-            "objectID": "a56769f1dd963e25165dfd9e336906c5",
-            "ref": "neath-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Melincourt Falls",
-            "objectID": "9b494791498f7dc5372a601458ec1f59",
-            "ref": "melincourt-falls-walking-route"
-        },
-        {
-            "description": "St Illtyd's Walk",
-            "objectID": "4a4b91ac7ce3ca721bbfd025eb556451",
-            "ref": "st-illtyds-walk-walking-route"
-        },
-        {
-            "description": "Aberdulais Falls",
-            "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
-            "ref": "aberdulais-falls-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d80f3e48e4a19ab7d84c4baac37d845d.gpx",
-    "_geoloc": {
-        "lat": 51.67887,
-        "lng": -3.7772
+  "created_at": "2025-01-06T19:01:33.682752+00:00",
+  "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
+  "ref": "tennant-canal-walking-route",
+  "title": "Tennant Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tennant_Canal_-_Aberdulais_-_geograph.org.uk_-_4037111.jpg",
+  "nearby": [
+    {
+      "description": "Neath Canal",
+      "objectID": "a56769f1dd963e25165dfd9e336906c5",
+      "ref": "neath-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tennant_Canal_-_Aberdulais_-_geograph.org.uk_-_4037111.jpg",
-            "title": "Tennant Canal - Aberdulais by Chris Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Tennant Canal at Aberdulais"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bridge_on_the_Tennant_Canal_-_geograph.org.uk_-_1618086.jpg",
-            "title": "Robert Davies / Bridge on the Tennant Canal",
-            "caption": "Bridge on the Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Tennant_Canal_and_Neath_Abbey_-_geograph.org.uk_-_2625837.jpg/500px-The_Tennant_Canal_and_Neath_Abbey_-_geograph.org.uk_-_2625837.jpg",
-            "title": "Mick Lobb / The Tennant Canal and Neath Abbey",
-            "caption": "Canal and Neath Abbey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/River_Neath_and_Tennant_Canal_-_geograph.org.uk_-_2597131.jpg",
-            "title": "River Neath and Tennant Canal by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Neath and Tennant Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Tennant_Canal_-_geograph.org.uk_-_202662.jpg",
-            "title": "Cedwyn Davies / The Tennant Canal",
-            "caption": "Looking south towards the Pant-y-Sais Fen."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neath_Abbey_-_geograph.org.uk_-_2625771.jpg/500px-Neath_Abbey_-_geograph.org.uk_-_2625771.jpg",
-            "title": "Neath Abbey by Mick Lobb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Neath Abbey"
-        }
-    ],
-    "distance_km": 14.0,
-    "description": "This walk visits the Tenant Canal in Aberdulais, near Swansea. The canal is a pleasant place for an easy waterside stroll with pretty villages, historic sites and lovely countryside to see on the way. The walk starts off at the car park at the Aberdulais Lock and Aqueduct at the eastern end of the canal. From here you can pick up the footpath heading west through the Vale of Neath to Neath where you will find the ruins of the ancient Cistercian monastery. You continue south west past the Crymyln Bog to the finish point at Porth Tennant, on the eastern side of the city of Swansea. To continue your waterside walking you can pick up the Neath Canal at the eastern end of the route. This will take you east towards Resolven and Glynneath.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/sAQBjCvEF0o",
-    "district": "Aberdulais",
-    "county": "Neath Port Talbot",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Station Road, Blaenhonddan, Aberdulais, Neath Port Talbot, Cymru / Wales, SA10 8ES, United Kingdom",
-    "postcode": "SA10 8ES",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["canal", "countryside"],
-    "points_of_interest": ["historic site", "villages"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Melincourt Falls",
+      "objectID": "9b494791498f7dc5372a601458ec1f59",
+      "ref": "melincourt-falls-walking-route"
+    },
+    {
+      "description": "St Illtyd's Walk",
+      "objectID": "4a4b91ac7ce3ca721bbfd025eb556451",
+      "ref": "st-illtyds-walk-walking-route"
+    },
+    {
+      "description": "Aberdulais Falls",
+      "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
+      "ref": "aberdulais-falls-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d80f3e48e4a19ab7d84c4baac37d845d.gpx",
+  "_geoloc": {
+    "lat": 51.67887,
+    "lng": -3.7772
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tennant_Canal_-_Aberdulais_-_geograph.org.uk_-_4037111.jpg",
+      "title": "Tennant Canal - Aberdulais by Chris Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tennant Canal at Aberdulais"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bridge_on_the_Tennant_Canal_-_geograph.org.uk_-_1618086.jpg",
+      "title": "Robert Davies / Bridge on the Tennant Canal",
+      "caption": "Bridge on the Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Tennant_Canal_and_Neath_Abbey_-_geograph.org.uk_-_2625837.jpg/500px-The_Tennant_Canal_and_Neath_Abbey_-_geograph.org.uk_-_2625837.jpg",
+      "title": "Mick Lobb / The Tennant Canal and Neath Abbey",
+      "caption": "Canal and Neath Abbey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/River_Neath_and_Tennant_Canal_-_geograph.org.uk_-_2597131.jpg",
+      "title": "River Neath and Tennant Canal by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Neath and Tennant Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Tennant_Canal_-_geograph.org.uk_-_202662.jpg",
+      "title": "Cedwyn Davies / The Tennant Canal",
+      "caption": "Looking south towards the Pant-y-Sais Fen."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neath_Abbey_-_geograph.org.uk_-_2625771.jpg/500px-Neath_Abbey_-_geograph.org.uk_-_2625771.jpg",
+      "title": "Neath Abbey by Mick Lobb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Neath Abbey"
+    }
+  ],
+  "distance_km": 14.0,
+  "description": "This walk visits the Tenant Canal in Aberdulais, near Swansea. The canal is a pleasant place for an easy waterside stroll with pretty villages, historic sites and lovely countryside to see on the way. The walk starts off at the car park at the Aberdulais Lock and Aqueduct at the eastern end of the canal. From here you can pick up the footpath heading west through the Vale of Neath to Neath where you will find the ruins of the ancient Cistercian monastery. You continue south west past the Crymyln Bog to the finish point at Porth Tennant, on the eastern side of the city of Swansea. To continue your waterside walking you can pick up the Neath Canal at the eastern end of the route. This will take you east towards Resolven and Glynneath.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/sAQBjCvEF0o",
+  "district": "Aberdulais",
+  "county": "Neath Port Talbot",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Road, Blaenhonddan, Aberdulais, Neath Port Talbot, Cymru / Wales, SA10 8ES, United Kingdom",
+  "postcode": "SA10 8ES",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic site",
+    "ruin"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

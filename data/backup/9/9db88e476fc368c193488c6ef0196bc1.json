@@ -96,8 +96,8 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "hard",
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
@@ -105,11 +105,12 @@
     "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "climbing"
+    "walking"
   ]
 }

@@ -1,116 +1,121 @@
 {
-    "created_at": "2025-01-06T09:26:51.503932+00:00",
-    "objectID": "3dd10aa0776bf472618b3a2dde80174c",
-    "ref": "bretton-country-park-walking-route",
-    "title": "Bretton Country Park and Yorkshire Sculpture Park Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Round_Wood%2C_Bretton_Country_park_-_geograph.org.uk_-_904161.jpg",
-    "nearby": [
-        {
-            "description": "Coxley Woods",
-            "objectID": "dbee4a56d698747628110d505896e9cd",
-            "ref": "coxley-woods-walking-route"
-        },
-        {
-            "description": "Barnsley Boundary Walk",
-            "objectID": "200d34e395a931fbbefb0956d96387c1",
-            "ref": "barnsley-boundary-walk-walking-route"
-        },
-        {
-            "description": "Dearne Way",
-            "objectID": "0d39e9297f2ec3869134b7722ec1453d",
-            "ref": "dearne-way-walking-route"
-        },
-        {
-            "description": "Cannon Hall Country Park",
-            "objectID": "b48a2153f63ffc3e7557f0dc120c239d",
-            "ref": "cannon-hall-country-park-walking-route"
-        },
-        {
-            "description": "Deffer Wood",
-            "objectID": "2d92866ce8707b7d975c6d57e0ac87dc",
-            "ref": "deffer-wood-walking-route"
-        },
-        {
-            "description": "Emley Circular Trail",
-            "objectID": "1a76eda64b2a7770e3dffc9b38ce890b",
-            "ref": "emley-circular-trail-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3dd10aa0776bf472618b3a2dde80174c.gpx",
-    "_geoloc": {
-        "lat": 53.6075678747,
-        "lng": -1.556611885
+  "created_at": "2025-01-06T09:26:51.503932+00:00",
+  "objectID": "3dd10aa0776bf472618b3a2dde80174c",
+  "ref": "bretton-country-park-walking-route",
+  "title": "Bretton Country Park and Yorkshire Sculpture Park Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Round_Wood%2C_Bretton_Country_park_-_geograph.org.uk_-_904161.jpg",
+  "nearby": [
+    {
+      "description": "Coxley Woods",
+      "objectID": "dbee4a56d698747628110d505896e9cd",
+      "ref": "coxley-woods-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Round_Wood%2C_Bretton_Country_park_-_geograph.org.uk_-_904161.jpg",
-            "title": "Wendy North / The Round Wood, Bretton Country park",
-            "caption": "The Round Wood, Bretton Country park. View taken on the footpath walk from the Longside Gallery of the YSP. An Andy Goldsworthy's sculpture `The Outclosure' is located here."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Weir_below_Bretton_Lower_lake_-_geograph.org.uk_-_904183.jpg",
-            "title": "Wendy North / Weir below Bretton Lower lake",
-            "caption": "Weir below the Lower lake. Canada Geese are permanent residents at the park. Here they enjoy a stretch of the River Dearne below the artificially created lakes at Bretton."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bridge_over_infant_River_Dearne_at_Bretton_country_park_-_geograph.org.uk_-_481948.jpg",
-            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bridge over infant River Dearne at Bretton country park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bretton_Hall_-_geograph.org.uk_-_387769.jpg",
-            "title": "John Fielding / Bretton Hall",
-            "caption": "Bretton Hall. From Barnsley Boundary Walk Bridleway"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bridge_in_Menagerie_Wood.jpg",
-            "title": "Graham Hogg / Bridge in Bretton Country Park",
-            "caption": "Bridge in Menagerie Wood. Photograph of an arm of the Lower Lake in Menagerie Wood, Bretton Park, showing the footbridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Menagerie_Wood_With_Highland_Cattle_-_geograph.org.uk_-_1165788.jpg",
-            "title": "John Fielding / Menagerie Wood With Highland Cattle",
-            "caption": "Menagerie Wood With Highland Cattle. The pic was taken from the bridleway to Lithertop Road, Bretton Lower Lake is behind the tree line."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1511883.jpg/330px-Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1511883.jpg",
-            "title": "Stephen Armstrong / Yorkshire Sculpture Park",
-            "caption": "Yorkshire Sculpture Park. The sculpture \"Sitting\" by Sophie Ryder, 18 feet high & made from galvanised wire. Outside The Camellia House"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1157549.jpg",
-            "title": "John Fielding / Yorkshire Sculpture Park",
-            "caption": "Sculptures by Elisabeth Frink, right hand side middle is the start of the bridleway to Lithertop Road which runs at the back of the hedge."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This country park includes 500 acres of lakes and parkland, housing various sculptures as well as being the home of several endangered species. The fascinating Yorkshire Sculpture Park also sits within the park and is well worth exploring. The only one of its kind, the park is an international centre for modern and contemporary art, which receives thousands of visitors each year. Also of interest is the Grade II listed Bretton Hall built around 1720. The Barnsley Boundary Walk and Dearne Way run through the park so you could continue your walk along the River Dearne towards Barnsley. Just to the north of the park you will find Coxley Woods. There's miles of shady footpaths here, with a series of ponds, streams and becks.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the south there's Cannon Hall Country Park to explore. Here you'll find a fine old hall surrounded by beautiful parkland and gardens, a lake and a waterfall. The peaceful woodland trails in Deffer Wood can also be picked up in this area. To the west you can pick up the Emley Circular Trail near the village of Emley. The 6 mile trail explores the area around the pretty village with some fine views of the Upper Dearne Valley."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/QW0YO8PtCdk",
-    "postcode": "S75 4BY",
-    "district": "Wakefield",
-    "region": "West Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Yellow Car Park - YSP Country Park, Huddersfield Road, West Bretton, Wakefield, West Yorkshire, England, S75 4BY, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "water"],
-    "points_of_interest": [
-        "sculptures",
-        "historical building",
-        "natural features"
-    ],
-    "facilities": ["visitor center", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Barnsley Boundary Walk",
+      "objectID": "200d34e395a931fbbefb0956d96387c1",
+      "ref": "barnsley-boundary-walk-walking-route"
+    },
+    {
+      "description": "Dearne Way",
+      "objectID": "0d39e9297f2ec3869134b7722ec1453d",
+      "ref": "dearne-way-walking-route"
+    },
+    {
+      "description": "Cannon Hall Country Park",
+      "objectID": "b48a2153f63ffc3e7557f0dc120c239d",
+      "ref": "cannon-hall-country-park-walking-route"
+    },
+    {
+      "description": "Deffer Wood",
+      "objectID": "2d92866ce8707b7d975c6d57e0ac87dc",
+      "ref": "deffer-wood-walking-route"
+    },
+    {
+      "description": "Emley Circular Trail",
+      "objectID": "1a76eda64b2a7770e3dffc9b38ce890b",
+      "ref": "emley-circular-trail-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3dd10aa0776bf472618b3a2dde80174c.gpx",
+  "_geoloc": {
+    "lat": 53.6075678747,
+    "lng": -1.556611885
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Round_Wood%2C_Bretton_Country_park_-_geograph.org.uk_-_904161.jpg",
+      "title": "Wendy North / The Round Wood, Bretton Country park",
+      "caption": "The Round Wood, Bretton Country park. View taken on the footpath walk from the Longside Gallery of the YSP. An Andy Goldsworthy's sculpture `The Outclosure' is located here."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Weir_below_Bretton_Lower_lake_-_geograph.org.uk_-_904183.jpg",
+      "title": "Wendy North / Weir below Bretton Lower lake",
+      "caption": "Weir below the Lower lake. Canada Geese are permanent residents at the park. Here they enjoy a stretch of the River Dearne below the artificially created lakes at Bretton."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bridge_over_infant_River_Dearne_at_Bretton_country_park_-_geograph.org.uk_-_481948.jpg",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bridge over infant River Dearne at Bretton country park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bretton_Hall_-_geograph.org.uk_-_387769.jpg",
+      "title": "John Fielding / Bretton Hall",
+      "caption": "Bretton Hall. From Barnsley Boundary Walk Bridleway"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bridge_in_Menagerie_Wood.jpg",
+      "title": "Graham Hogg / Bridge in Bretton Country Park",
+      "caption": "Bridge in Menagerie Wood. Photograph of an arm of the Lower Lake in Menagerie Wood, Bretton Park, showing the footbridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Menagerie_Wood_With_Highland_Cattle_-_geograph.org.uk_-_1165788.jpg",
+      "title": "John Fielding / Menagerie Wood With Highland Cattle",
+      "caption": "Menagerie Wood With Highland Cattle. The pic was taken from the bridleway to Lithertop Road, Bretton Lower Lake is behind the tree line."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1511883.jpg/330px-Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1511883.jpg",
+      "title": "Stephen Armstrong / Yorkshire Sculpture Park",
+      "caption": "Yorkshire Sculpture Park. The sculpture \"Sitting\" by Sophie Ryder, 18 feet high & made from galvanised wire. Outside The Camellia House"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Yorkshire_Sculpture_Park_-_geograph.org.uk_-_1157549.jpg",
+      "title": "John Fielding / Yorkshire Sculpture Park",
+      "caption": "Sculptures by Elisabeth Frink, right hand side middle is the start of the bridleway to Lithertop Road which runs at the back of the hedge."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This country park includes 500 acres of lakes and parkland, housing various sculptures as well as being the home of several endangered species. The fascinating Yorkshire Sculpture Park also sits within the park and is well worth exploring. The only one of its kind, the park is an international centre for modern and contemporary art, which receives thousands of visitors each year. Also of interest is the Grade II listed Bretton Hall built around 1720. The Barnsley Boundary Walk and Dearne Way run through the park so you could continue your walk along the River Dearne towards Barnsley. Just to the north of the park you will find Coxley Woods. There's miles of shady footpaths here, with a series of ponds, streams and becks.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's Cannon Hall Country Park to explore. Here you'll find a fine old hall surrounded by beautiful parkland and gardens, a lake and a waterfall. The peaceful woodland trails in Deffer Wood can also be picked up in this area. To the west you can pick up the Emley Circular Trail near the village of Emley. The 6 mile trail explores the area around the pretty village with some fine views of the Upper Dearne Valley."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/QW0YO8PtCdk",
+  "postcode": "S75 4BY",
+  "district": "Wakefield",
+  "region": "West Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Yellow Car Park - YSP Country Park, Huddersfield Road, West Bretton, Wakefield, West Yorkshire, England, S75 4BY, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "parkland"
+  ],
+  "points_of_interest": [
+    "sculpture park",
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

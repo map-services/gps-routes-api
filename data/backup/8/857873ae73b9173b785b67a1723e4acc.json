@@ -91,19 +91,23 @@
   "postcode": "PO9 6BL",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "garden"
+    "parkland"
   ],
   "points_of_interest": [
+    "farm",
+    "lake",
     "maze",
-    "library",
-    "castle"
+    "walled garden",
+    "glasshouse",
+    "visitor center",
+    "folly",
+    "gothic library"
   ],
   "facilities": [
-    "visitor center",
     "car park",
     "cycle hire",
     "dog friendly"
@@ -111,6 +115,7 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "dog walking"
   ]
 }

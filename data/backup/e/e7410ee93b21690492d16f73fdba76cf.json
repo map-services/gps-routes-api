@@ -1,87 +1,100 @@
 {
-    "created_at": "2025-01-06T02:57:43.328451+00:00",
-    "objectID": "e7410ee93b21690492d16f73fdba76cf",
-    "ref": "coombes-valley-walking-route",
-    "title": "Coombes Valley Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Combes_Brook_-_geograph.org.uk_-_402651.jpg",
-    "nearby": [
-        {
-            "description": "Leek",
-            "objectID": "f9ab6c82b2b3b4a2d556b2a058267c61",
-            "ref": "leek-walking-route"
-        },
-        {
-            "description": "Staffordshire Moorlands Walks",
-            "objectID": "85f9a331b2ac88779618fdf001507b87",
-            "ref": "staffordshire-moorlands-walks-walking-route"
-        },
-        {
-            "description": "Churnet Valley",
-            "objectID": "3d8a5cf782157f4eb010e5f3fa52acfd",
-            "ref": "churnet-valley-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e7410ee93b21690492d16f73fdba76cf.gpx",
-    "_geoloc": {
-        "lat": 53.0741911618,
-        "lng": -1.993762545
+  "created_at": "2025-01-06T02:57:43.328451+00:00",
+  "objectID": "e7410ee93b21690492d16f73fdba76cf",
+  "ref": "coombes-valley-walking-route",
+  "title": "Coombes Valley Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Combes_Brook_-_geograph.org.uk_-_402651.jpg",
+  "nearby": [
+    {
+      "description": "Leek",
+      "objectID": "f9ab6c82b2b3b4a2d556b2a058267c61",
+      "ref": "leek-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Combes_Brook_-_geograph.org.uk_-_402651.jpg",
-            "title": "Dave Dunford / Combes Brook",
-            "caption": "Combes Brook. Looking downstream from the footbridge. An RSPB bird hide stands behind the photographer. I'd have liked to have found and photographed the Horsley Stone and Buttermilk Spring marked on the map, but they lie within a private area of the reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Combes_Valley_-_geograph.org.uk_-_402646.jpg",
-            "title": "Dave Dunford / Combes Valley",
-            "caption": "Bench at the point where the footpath crosses Combes Brook. A bird hide overlooking a pond is nearby."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cloughmeadow_Cottage_-_geograph.org.uk_-_402649.jpg",
-            "title": "Dave Dunford / Cloughmeadow Cottage",
-            "caption": "Cloughmeadow Cottage. View from the bird hide in RSPB Combes Valley reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Clough_Meadow_Cottage.jpg/500px-Clough_Meadow_Cottage.jpg",
-            "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "A Grade II listed cottage in the civil parish of Ipstones"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coombes_Valley_Visitor_Centre_-_geograph.org.uk_-_2276463.jpg/500px-Coombes_Valley_Visitor_Centre_-_geograph.org.uk_-_2276463.jpg",
-            "title": "Coombes Valley Visitor Centre by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Coombes Valley Visitor Centre. The site is the oldest RSPB reserve in the Midlands, dating back to 1962 when it was home to the last breeding pair of sparrowhawks in Staffordshire."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Low_Wood%2C_Combes_Valley_-_geograph.org.uk_-_402778.jpg",
-            "title": "Dave Dunford / Low Wood, Combes Valley",
-            "caption": "Low Wood, Combes Valley"
-        }
-    ],
-    "distance_km": 3.2,
-    "description": "This circular walk explores the lovely Coombes Valley RSPB Nature reserve near Leek in Staffordshire. There's good facilites with a parking area, information centre and picnic area. From here you can pick up various trails taking you to woodland, ponds, scrub and the pretty Coombes Brook which runs through the centre of the site. On the way you'll pass bird hides where you can look for species including Dipper, Great Spotted Woodpecker and Woodcock. The Staffordshire Moorlands Walk also runs through the area so you can pick this up to explore the surrounding countryside too.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head into Leek and you can pick up the circular walk which visits some of the area's highlights including the Caldon Canal, the River Churnet, Ladderedge Country Park and Tittesworth Reservoir. To the west there's more waterside walking through the Churnet Valley at Cheddleton. For more walking ideas in the area see the Staffordshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/dbKq_4UhczY",
-    "county": "Staffordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Cheddleton 27, Cheddleton, Staffordshire Moorlands, Staffordshire, England, ST13 7DU, United Kingdom",
-    "postcode": "ST13 7DU",
-    "district": "Staffordshire Moorlands",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "scrub", "ponds"],
-    "points_of_interest": ["bird hide"],
-    "facilities": ["parking area", "information center", "picnic area"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Staffordshire Moorlands Walks",
+      "objectID": "85f9a331b2ac88779618fdf001507b87",
+      "ref": "staffordshire-moorlands-walks-walking-route"
+    },
+    {
+      "description": "Churnet Valley",
+      "objectID": "3d8a5cf782157f4eb010e5f3fa52acfd",
+      "ref": "churnet-valley-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e7410ee93b21690492d16f73fdba76cf.gpx",
+  "_geoloc": {
+    "lat": 53.0741911618,
+    "lng": -1.993762545
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Combes_Brook_-_geograph.org.uk_-_402651.jpg",
+      "title": "Dave Dunford / Combes Brook",
+      "caption": "Combes Brook. Looking downstream from the footbridge. An RSPB bird hide stands behind the photographer. I'd have liked to have found and photographed the Horsley Stone and Buttermilk Spring marked on the map, but they lie within a private area of the reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Combes_Valley_-_geograph.org.uk_-_402646.jpg",
+      "title": "Dave Dunford / Combes Valley",
+      "caption": "Bench at the point where the footpath crosses Combes Brook. A bird hide overlooking a pond is nearby."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cloughmeadow_Cottage_-_geograph.org.uk_-_402649.jpg",
+      "title": "Dave Dunford / Cloughmeadow Cottage",
+      "caption": "Cloughmeadow Cottage. View from the bird hide in RSPB Combes Valley reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Clough_Meadow_Cottage.jpg/500px-Clough_Meadow_Cottage.jpg",
+      "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "A Grade II listed cottage in the civil parish of Ipstones"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coombes_Valley_Visitor_Centre_-_geograph.org.uk_-_2276463.jpg/500px-Coombes_Valley_Visitor_Centre_-_geograph.org.uk_-_2276463.jpg",
+      "title": "Coombes Valley Visitor Centre by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Coombes Valley Visitor Centre. The site is the oldest RSPB reserve in the Midlands, dating back to 1962 when it was home to the last breeding pair of sparrowhawks in Staffordshire."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Low_Wood%2C_Combes_Valley_-_geograph.org.uk_-_402778.jpg",
+      "title": "Dave Dunford / Low Wood, Combes Valley",
+      "caption": "Low Wood, Combes Valley"
+    }
+  ],
+  "distance_km": 3.2,
+  "description": "This circular walk explores the lovely Coombes Valley RSPB Nature reserve near Leek in Staffordshire. There's good facilites with a parking area, information centre and picnic area. From here you can pick up various trails taking you to woodland, ponds, scrub and the pretty Coombes Brook which runs through the centre of the site. On the way you'll pass bird hides where you can look for species including Dipper, Great Spotted Woodpecker and Woodcock. The Staffordshire Moorlands Walk also runs through the area so you can pick this up to explore the surrounding countryside too.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into Leek and you can pick up the circular walk which visits some of the area's highlights including the Caldon Canal, the River Churnet, Ladderedge Country Park and Tittesworth Reservoir. To the west there's more waterside walking through the Churnet Valley at Cheddleton. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/dbKq_4UhczY",
+  "county": "Staffordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Cheddleton 27, Cheddleton, Staffordshire Moorlands, Staffordshire, England, ST13 7DU, United Kingdom",
+  "postcode": "ST13 7DU",
+  "district": "Staffordshire Moorlands",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "pond",
+    "bird hide"
+  ],
+  "facilities": [
+    "car park",
+    "information centre",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

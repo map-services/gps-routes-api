@@ -1,132 +1,144 @@
 {
-    "created_at": "2025-01-05T23:31:20.846278+00:00",
-    "objectID": "e99aca0d27b8670b2206b288b4e1982a",
-    "ref": "beverley-twenty-walking-route",
-    "title": "Beverley Twenty Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/On_the_%27Beverley_20%27_Path_-_geograph.org.uk_-_565022.jpg",
-    "nearby": [
-        {
-            "description": "Humber Bridge",
-            "objectID": "e78ba17915ca4715d066e26d93cc2a26",
-            "ref": "humber-bridge-walking-route"
-        },
-        {
-            "description": "Humber Bridge Country Park",
-            "objectID": "ebbf5b8fe35aa7cf04f3abcee53ebe4b",
-            "ref": "humber-bridge-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Beverley Beck",
-            "objectID": "6ec76a28677811f52f7a3ea0591f4986",
-            "ref": "beverley-beck-walking-route"
-        },
-        {
-            "description": "Welton Dale",
-            "objectID": "34ce3ba7b3b454d0caff720ea6fd8186",
-            "ref": "welton-dale-walking-route"
-        },
-        {
-            "description": "Skidby Mill",
-            "objectID": "560c8d9a31d48d465ec56b8b36be1cb4",
-            "ref": "skidby-mill-walking-route"
-        },
-        {
-            "description": "Cottingham",
-            "objectID": "b4729cbc0d1547a226ca321854fc7e42",
-            "ref": "cottingham-walking-route"
-        },
-        {
-            "description": "Barton Upon Humber",
-            "objectID": "21d929c152409fc5d09e17c97d2f6f8c",
-            "ref": "barton-upon-humber-walking-route"
-        },
-        {
-            "description": "Hudson Way",
-            "objectID": "9a41bedd024897693561c9f7f4fa3d90",
-            "ref": "hudson-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Brandesburton",
-            "objectID": "5fbff958c6c8c24edef4fec1a118fa98",
-            "ref": "brandesburton-walking-route"
-        },
-        {
-            "description": "Beverley Westwood",
-            "objectID": "2646fd18ad9f2bf31fc75558c248a9a7",
-            "ref": "beverley-westwood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e99aca0d27b8670b2206b288b4e1982a.gpx",
-    "_geoloc": {
-        "lat": 53.7178469249,
-        "lng": -0.452300377
+  "created_at": "2025-01-05T23:31:20.846278+00:00",
+  "objectID": "e99aca0d27b8670b2206b288b4e1982a",
+  "ref": "beverley-twenty-walking-route",
+  "title": "Beverley Twenty Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/On_the_%27Beverley_20%27_Path_-_geograph.org.uk_-_565022.jpg",
+  "nearby": [
+    {
+      "description": "Humber Bridge",
+      "objectID": "e78ba17915ca4715d066e26d93cc2a26",
+      "ref": "humber-bridge-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/On_the_%27Beverley_20%27_Path_-_geograph.org.uk_-_565022.jpg",
-            "title": "Andy Beecroft / On the 'Beverley 20' Path",
-            "caption": "On the 'Beverley 20' Path, north east of Welton,"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_Beverley_20_Footpath_-_geograph.org.uk_-_778063.jpg",
-            "title": "Peter Church / The Beverley 20 Footpath",
-            "caption": "The path climbs here from the side of the Beverley Bypass (hidden by the hedge) to cross the bypass on a bridge before running up to Beverley."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/We_Must_Be_Making_Progress_-_geograph.org.uk_-_247500.jpg",
-            "title": "Roger Gilbertson / We Must Be Making Progress",
-            "caption": "South south west of Melton, East Riding of Yorkshire. The Trans-Pennine Trail and the Beverley 20 approaching the Humber Bridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/From_Humber_Bank_at_Oyster_Ness_looking_east_%28geograph_4343063%29.jpg/500px-From_Humber_Bank_at_Oyster_Ness_looking_east_%28geograph_4343063%29.jpg",
-            "title": "Chris Morgan / From Humber Bank at Oyster Ness looking east",
-            "caption": "From Humber Bank at Oyster Ness looking east"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Beverley_20_near_Welton_Wold_Farm_%28geograph_4102672%29.jpg/500px-The_Beverley_20_near_Welton_Wold_Farm_%28geograph_4102672%29.jpg",
-            "title": "Ian S / The Beverley 20 near Welton Wold Farm",
-            "caption": "The Beverley 20 near Welton Wold Farm"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Path_towards_Wauldby_Manor_%28geograph_6686407%29.jpg/500px-Path_towards_Wauldby_Manor_%28geograph_6686407%29.jpg",
-            "title": "Ian S / Path towards Wauldby Manor",
-            "caption": "Path towards Wauldby Manor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Risby.jpg",
-            "title": "Stephen Horncastle, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Risby"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mossy_logs_at_the_top_of_Spout_Hill%2C_Brantingham_%28geograph_4505245%29.jpg",
-            "title": "Chris / Mossy logs at the top of Spout Hill, Brantingham",
-            "caption": "Mossy logs at the top of Spout Hill, Brantingham. Nice view of the River Humber."
-        }
-    ],
-    "distance_km": 32.0,
-    "description": "This 20 mile walk runs from Hessle to Beverley through the Yorkshire wolds. The walk starts near Hull in Hessle, at Humber Bridge Country Park and takes you to the Humber Estuary with fine views of the Humber Bridge. The path then follows the estuary to North Ferriby where you turn north and head towards Beverley through the countryside of the Yorkshire Wolds. The walk passes Welton Dale and the pretty village of Skidby, with its English Heritage windmill, before finishing at the splendid Beverley Minster. Highlights on the route include the section through Risby Park near Beverley. The park includes the site of a medieval village and the remains of Risby Hall which was destroyed by fire in the 1780s. It also includes the lovely Folly Cafe which is a great place to stop for refreshments. In Beverley you can extend your walking by enjoying an easy stroll along the Beverley Beck in the town centre. You can also explore Beverley Westwood, a large area of common land with grazing cattle, a network of footpaths and the historic Black Mill.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In the village of Welton you'll find a historic pub well worth investigating. The Green Dragon is set in a 17th Century coaching inn and is said to have been a favourite haunt of highwayman Dick Turpin. There's a good menu and a nice outdoor seating area with views over the quaint village green. You can find the pub at Cowgate with a postcode of HU15 1NB for your sat navs. It's also dog friendly if you have your canine friend with you. At Skidby you could stop off at the Millhouse. There's a fine restauarant here serving delicious modern British and European cuisine. It includes some beautifully landscaped gardens, located in the grounds of the 19th century Skidby Mill. Here you can sit outside and enjoy the barbecue/hog roast chalet and bar area. There's also a rooftop lounge with excellent views across the surrounding countryside. After your meal there's also the option of exploring the mill museum where you can learn all about the history of the area. A few miles north of Beverley there's the lovely Tophill Low Nature Reserve to explore. The reserve includes two pretty reservoirs and easy footpaths along the River Hull. It's a great place for birdwatching with several hides dotted around the site. Near here is also the worthy vlllage of Brandesburton with its medieval church and historic 16th century pub"
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/WUSK42HbOkI",
-    "district": "Hessle",
-    "county": "East Riding of Yorkshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Hessle, East Riding of Yorkshire, England, HU13 0GX, United Kingdom",
-    "postcode": "HU13 0GX",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "3-4 hours",
-    "difficulty": "moderate",
-    "terrain": ["pasture", "countryside", "estuary"],
-    "points_of_interest": ["village", "historical site", "windmill"],
-    "facilities": ["cafe", "visitor center", "car park", "footpath"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Humber Bridge Country Park",
+      "objectID": "ebbf5b8fe35aa7cf04f3abcee53ebe4b",
+      "ref": "humber-bridge-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Beverley Beck",
+      "objectID": "6ec76a28677811f52f7a3ea0591f4986",
+      "ref": "beverley-beck-walking-route"
+    },
+    {
+      "description": "Welton Dale",
+      "objectID": "34ce3ba7b3b454d0caff720ea6fd8186",
+      "ref": "welton-dale-walking-route"
+    },
+    {
+      "description": "Skidby Mill",
+      "objectID": "560c8d9a31d48d465ec56b8b36be1cb4",
+      "ref": "skidby-mill-walking-route"
+    },
+    {
+      "description": "Cottingham",
+      "objectID": "b4729cbc0d1547a226ca321854fc7e42",
+      "ref": "cottingham-walking-route"
+    },
+    {
+      "description": "Barton Upon Humber",
+      "objectID": "21d929c152409fc5d09e17c97d2f6f8c",
+      "ref": "barton-upon-humber-walking-route"
+    },
+    {
+      "description": "Hudson Way",
+      "objectID": "9a41bedd024897693561c9f7f4fa3d90",
+      "ref": "hudson-way-walking-and-cycle-route"
+    },
+    {
+      "description": "Brandesburton",
+      "objectID": "5fbff958c6c8c24edef4fec1a118fa98",
+      "ref": "brandesburton-walking-route"
+    },
+    {
+      "description": "Beverley Westwood",
+      "objectID": "2646fd18ad9f2bf31fc75558c248a9a7",
+      "ref": "beverley-westwood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e99aca0d27b8670b2206b288b4e1982a.gpx",
+  "_geoloc": {
+    "lat": 53.7178469249,
+    "lng": -0.452300377
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/On_the_%27Beverley_20%27_Path_-_geograph.org.uk_-_565022.jpg",
+      "title": "Andy Beecroft / On the 'Beverley 20' Path",
+      "caption": "On the 'Beverley 20' Path, north east of Welton,"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_Beverley_20_Footpath_-_geograph.org.uk_-_778063.jpg",
+      "title": "Peter Church / The Beverley 20 Footpath",
+      "caption": "The path climbs here from the side of the Beverley Bypass (hidden by the hedge) to cross the bypass on a bridge before running up to Beverley."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/We_Must_Be_Making_Progress_-_geograph.org.uk_-_247500.jpg",
+      "title": "Roger Gilbertson / We Must Be Making Progress",
+      "caption": "South south west of Melton, East Riding of Yorkshire. The Trans-Pennine Trail and the Beverley 20 approaching the Humber Bridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/From_Humber_Bank_at_Oyster_Ness_looking_east_%28geograph_4343063%29.jpg/500px-From_Humber_Bank_at_Oyster_Ness_looking_east_%28geograph_4343063%29.jpg",
+      "title": "Chris Morgan / From Humber Bank at Oyster Ness looking east",
+      "caption": "From Humber Bank at Oyster Ness looking east"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Beverley_20_near_Welton_Wold_Farm_%28geograph_4102672%29.jpg/500px-The_Beverley_20_near_Welton_Wold_Farm_%28geograph_4102672%29.jpg",
+      "title": "Ian S / The Beverley 20 near Welton Wold Farm",
+      "caption": "The Beverley 20 near Welton Wold Farm"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Path_towards_Wauldby_Manor_%28geograph_6686407%29.jpg/500px-Path_towards_Wauldby_Manor_%28geograph_6686407%29.jpg",
+      "title": "Ian S / Path towards Wauldby Manor",
+      "caption": "Path towards Wauldby Manor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Risby.jpg",
+      "title": "Stephen Horncastle, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Risby"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mossy_logs_at_the_top_of_Spout_Hill%2C_Brantingham_%28geograph_4505245%29.jpg",
+      "title": "Chris / Mossy logs at the top of Spout Hill, Brantingham",
+      "caption": "Mossy logs at the top of Spout Hill, Brantingham. Nice view of the River Humber."
+    }
+  ],
+  "distance_km": 32.0,
+  "description": "This 20 mile walk runs from Hessle to Beverley through the Yorkshire wolds. The walk starts near Hull in Hessle, at Humber Bridge Country Park and takes you to the Humber Estuary with fine views of the Humber Bridge. The path then follows the estuary to North Ferriby where you turn north and head towards Beverley through the countryside of the Yorkshire Wolds. The walk passes Welton Dale and the pretty village of Skidby, with its English Heritage windmill, before finishing at the splendid Beverley Minster. Highlights on the route include the section through Risby Park near Beverley. The park includes the site of a medieval village and the remains of Risby Hall which was destroyed by fire in the 1780s. It also includes the lovely Folly Cafe which is a great place to stop for refreshments. In Beverley you can extend your walking by enjoying an easy stroll along the Beverley Beck in the town centre. You can also explore Beverley Westwood, a large area of common land with grazing cattle, a network of footpaths and the historic Black Mill.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village of Welton you'll find a historic pub well worth investigating. The Green Dragon is set in a 17th Century coaching inn and is said to have been a favourite haunt of highwayman Dick Turpin. There's a good menu and a nice outdoor seating area with views over the quaint village green. You can find the pub at Cowgate with a postcode of HU15 1NB for your sat navs. It's also dog friendly if you have your canine friend with you. At Skidby you could stop off at the Millhouse. There's a fine restauarant here serving delicious modern British and European cuisine. It includes some beautifully landscaped gardens, located in the grounds of the 19th century Skidby Mill. Here you can sit outside and enjoy the barbecue/hog roast chalet and bar area. There's also a rooftop lounge with excellent views across the surrounding countryside. After your meal there's also the option of exploring the mill museum where you can learn all about the history of the area. A few miles north of Beverley there's the lovely Tophill Low Nature Reserve to explore. The reserve includes two pretty reservoirs and easy footpaths along the River Hull. It's a great place for birdwatching with several hides dotted around the site. Near here is also the worthy vlllage of Brandesburton with its medieval church and historic 16th century pub"
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/WUSK42HbOkI",
+  "district": "Hessle",
+  "county": "East Riding of Yorkshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Hessle, East Riding of Yorkshire, England, HU13 0GX, United Kingdom",
+  "postcode": "HU13 0GX",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "estuary"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "medieval village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

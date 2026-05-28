@@ -1,66 +1,76 @@
 {
-    "created_at": "2025-01-06T01:37:20.513439+00:00",
-    "objectID": "7d08d5ad4b1966a260ff4c36bf594bc8",
-    "ref": "hawkshead-to-tarn-hows-walk-walking-route",
-    "title": "Hawkshead to Tarn Hows Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/War_Memorial_in_the_churchyard%2C_Hawkshead_-_geograph.org.uk_-_168976.jpg",
-    "nearby": [
-        {
-            "description": "Tarn Hows",
-            "objectID": "77d01f30057b7497362adbbfffa13633",
-            "ref": "tarn-hows-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d08d5ad4b1966a260ff4c36bf594bc8.gpx",
-    "_geoloc": {
-        "lat": 54.3747993631,
-        "lng": -2.9990373911
+  "created_at": "2025-01-06T01:37:20.513439+00:00",
+  "objectID": "7d08d5ad4b1966a260ff4c36bf594bc8",
+  "ref": "hawkshead-to-tarn-hows-walk-walking-route",
+  "title": "Hawkshead to Tarn Hows Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/War_Memorial_in_the_churchyard%2C_Hawkshead_-_geograph.org.uk_-_168976.jpg",
+  "nearby": [
+    {
+      "description": "Tarn Hows",
+      "objectID": "77d01f30057b7497362adbbfffa13633",
+      "ref": "tarn-hows-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d08d5ad4b1966a260ff4c36bf594bc8.gpx",
+  "_geoloc": {
+    "lat": 54.3747993631,
+    "lng": -2.9990373911
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/War_Memorial_in_the_churchyard%2C_Hawkshead_-_geograph.org.uk_-_168976.jpg",
+      "title": "Humphrey Bolton / War Memorial in the churchyard, Hawkshead",
+      "caption": "War Memorial in the churchyard, Hawkshead"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/War_Memorial_in_the_churchyard%2C_Hawkshead_-_geograph.org.uk_-_168976.jpg",
-            "title": "Humphrey Bolton / War Memorial in the churchyard, Hawkshead",
-            "caption": "War Memorial in the churchyard, Hawkshead"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hawkshead_Hill_%28geograph_3634535%29.jpg/500px-Hawkshead_Hill_%28geograph_3634535%29.jpg",
-            "title": "Chris Heaton / Hawkshead Hill",
-            "caption": "Hawkshead Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tenter_Hill_from_Hawkshead_Hill_-_geograph.org.uk_-_1233068.jpg",
-            "title": "David Long / Tenter Hill from Hawkshead Hill",
-            "caption": "Tenter Hill from Hawkshead Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/View_of_Tarn_Hows_-_geograph.org.uk_-_839025.jpg",
-            "title": "Espresso Addict / View of Tarn Hows",
-            "caption": "View of Tarn Hows"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This route visits the lovely Tarn Hows from the village of Hawkshead. It's about a 2 mile walk from the village, climbing to the Tarns on a mixture of country lanes and public footpaths. The walk starts in the centre of Hawkshead and follows Vicarage Lane out of the village. You then turn right to follow a footpath up to Keen Ground Wood and the hamlet of Hawkshead Hill. You then pass through the woodland of Hill Fell and the Sawrey Ground Plantation before coming to Tarn Hows. Here you'll find well surfaced tracks taking you around the tarn with some nice woodland trails as well. You can also climb to a lovely viewpoint at the south eastern end of the site.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Sun Inn in Hawkshead is a popular option for walkers. They do really good food including an excellent fish and chips. It's a friendly place and can be easily found in the village on Main Street with a postcode of LA22 0NT for your sat navs. The inn is also very dog friendly if you have your pet with you."
-        }
-    ],
-    "district": "Hawkshead",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Roger Ground, Hawkshead, Westmorland and Furness, England, LA22 0NZ, United Kingdom",
-    "postcode": "LA22 0NZ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "moderate",
-    "terrain": ["country lane", "footpath", "woodland"],
-    "points_of_interest": ["viewpoint"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hawkshead_Hill_%28geograph_3634535%29.jpg/500px-Hawkshead_Hill_%28geograph_3634535%29.jpg",
+      "title": "Chris Heaton / Hawkshead Hill",
+      "caption": "Hawkshead Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tenter_Hill_from_Hawkshead_Hill_-_geograph.org.uk_-_1233068.jpg",
+      "title": "David Long / Tenter Hill from Hawkshead Hill",
+      "caption": "Tenter Hill from Hawkshead Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/View_of_Tarn_Hows_-_geograph.org.uk_-_839025.jpg",
+      "title": "Espresso Addict / View of Tarn Hows",
+      "caption": "View of Tarn Hows"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This route visits the lovely Tarn Hows from the village of Hawkshead. It's about a 2 mile walk from the village, climbing to the Tarns on a mixture of country lanes and public footpaths. The walk starts in the centre of Hawkshead and follows Vicarage Lane out of the village. You then turn right to follow a footpath up to Keen Ground Wood and the hamlet of Hawkshead Hill. You then pass through the woodland of Hill Fell and the Sawrey Ground Plantation before coming to Tarn Hows. Here you'll find well surfaced tracks taking you around the tarn with some nice woodland trails as well. You can also climb to a lovely viewpoint at the south eastern end of the site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Sun Inn in Hawkshead is a popular option for walkers. They do really good food including an excellent fish and chips. It's a friendly place and can be easily found in the village on Main Street with a postcode of LA22 0NT for your sat navs. The inn is also very dog friendly if you have your pet with you."
+    }
+  ],
+  "district": "Hawkshead",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Roger Ground, Hawkshead, Westmorland and Furness, England, LA22 0NZ, United Kingdom",
+  "postcode": "LA22 0NZ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

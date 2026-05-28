@@ -1,112 +1,122 @@
 {
-    "created_at": "2025-01-06T04:14:34.974096+00:00",
-    "objectID": "0e83f77a355df3bfdb1ba2c207ecbae7",
-    "ref": "blashford-lakes-walking-route",
-    "title": "Blashford Lakes Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blashford_Lakes_-_geograph.org.uk_-_1287681.jpg",
-    "nearby": [
-        {
-            "description": "Avon Valley Path",
-            "objectID": "61555704a9a0b0749fd1fc084e491f41",
-            "ref": "avon-valley-path-walking-route"
-        },
-        {
-            "description": "Rockford and Ibsley Common",
-            "objectID": "046b493ea0d53f9d079034da267a0e58",
-            "ref": "rockford-and-ibsley-common-walking-route"
-        },
-        {
-            "description": "Ashley Walk",
-            "objectID": "b1a21754a420ef3adbe8adb4fd8b6500",
-            "ref": "ashley-walk-walking-route"
-        },
-        {
-            "description": "Godshill",
-            "objectID": "7811d731a6d0cffeb34d1bc89c8be003",
-            "ref": "godshill-walking-route"
-        },
-        {
-            "description": "Latchmore Brook and Hasley Hill Inclosure",
-            "objectID": "1a5304aea5b8925dffc8e0cbea306d3b",
-            "ref": "latchmore-brook-and-hasley-hill-inclosure-walking-route"
-        },
-        {
-            "description": "Verwood",
-            "objectID": "723ffe66e6c7309684667e7094a58bed",
-            "ref": "verwood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e83f77a355df3bfdb1ba2c207ecbae7.gpx",
-    "_geoloc": {
-        "lat": 50.8605149588,
-        "lng": -1.7782640808
+  "created_at": "2025-01-06T04:14:34.974096+00:00",
+  "objectID": "0e83f77a355df3bfdb1ba2c207ecbae7",
+  "ref": "blashford-lakes-walking-route",
+  "title": "Blashford Lakes Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blashford_Lakes_-_geograph.org.uk_-_1287681.jpg",
+  "nearby": [
+    {
+      "description": "Avon Valley Path",
+      "objectID": "61555704a9a0b0749fd1fc084e491f41",
+      "ref": "avon-valley-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blashford_Lakes_-_geograph.org.uk_-_1287681.jpg",
-            "title": "william / Blashford Lakes, via Wikimedia Commons",
-            "caption": "View from the bird hide at the nature reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Blashford_Lakes_Education_Centre_-_geograph.org.uk_-_838437.jpg",
-            "title": "Peter Facey / Blashford Lakes Education Centre, via Wikimedia Commons",
-            "caption": "Blashford Lakes Education Centre Accessed by a gravel track which is the far side of the hut. There is a pond within the fenced enclosure."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Water_Treatment_Works%2C_Blashford_Lakes_-_geograph.org.uk_-_838427.jpg",
-            "title": "Peter Facey / Water Treatment Works, Blashford Lakes, via Wikimedia Commons",
-            "caption": "Water Treatment Works, Blashford Lakes"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Car_park_for_Blashford_Lakes%2C_Ellingham_Drove_-_geograph.org.uk_-_836646.jpg",
-            "title": "Peter Facey / Car park for Blashford Lakes, Ellingham Drove, via Wikimedia Commons",
-            "caption": "Car park for Blashford Lakes, Ellingham Drove. On land formerly part of Hanson Blocks works. The lake is named Ibsley Water."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Entering_Blashford_Lakes_wildlife_reserve_-_geograph.org.uk_-_804171.jpg",
-            "title": "Peter Facey / Entering Blashford Lakes wildlife reserve, via Wikimedia Commons",
-            "caption": "Entering Blashford Lakes wildlife reserve Run by Hampshire and Isle of Wight Wildlife Trust. As a consequence of this reserve, many more of the paths around the lakes are open to the public than might appear from looking for RoW on maps."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Looking_across_Ibsley_Lakes_from_A338_-_geograph.org.uk_-_836678.jpg",
-            "title": "Peter Facey / Looking across Ibsley Lakes from A338, via Wikimedia Commons",
-            "caption": "Looking across Ibsley Lakes from A338. On the far bank is the public car park for Blashford Lakes, and Hanson Blocks works."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Avon_Valley_Path_skirts_Kingfisher_Lake%2C_Blashford_-_geograph.org.uk_-_759463.jpg",
-            "title": "Peter Facey / Avon Valley Path skirts Kingfisher Lake, Blashford, via Wikimedia Commons",
-            "caption": "Avon Valley Path skirts Kingfisher Lake, Blashford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/House_named_Brooklyn_and_lake_beyond%2C_Blashford_-_geograph.org.uk_-_759456.jpg",
-            "title": "Peter Facey / House named Brooklyn and lake beyond, Blashford, via Wikimedia Commons",
-            "caption": "House named Brooklyn and lake beyond, Blashford. Seen from footpath around Kingfisher Lake. The lake here is a smaller, apparently unnamed, one just to the north of Kingfisher Lake."
-        }
-    ],
-    "distance_km": 8.5,
-    "description": "This walk takes you around Blashford Lakes Nature Reserve and Ibsley Water on the edge of the New Forest. There are good surfaced footpaths to follow around several lakes with the Avon Valley Path also running through the site. You can stop and use won of the many bird hides to look out for woodpecker, nuthatch, grey heron, great crested grebe, coot and sand martin. Adder, grass snake and kingfisher can be seen in the summer months. There are good facilities with a visitor centre and car park. If you would like to extend your walk you could continue along the Avon Valley Path towards the pretty village of Ibsley or head east, on any number of footpaths, into the New Forest. Just to the east of the reserve you will find the expansive Rockford and Ibsley Commons where there are miles of heathland and woodland trails.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just north east of the lakes there's some fine areas of the New Forest to explore. These include the Ashley Walk, Godshill and the Latchmore Brook and Hasley Hill Inclosure which is only a couple of miles away. There's lots of peaceful woodland, heathland, streams and New Forest Ponies to enjoy in these nearby locations. Just to the north west is the nearby town of Verwood. Here you can enjoy a walk around Verwood Forest, the Cranborne Common Nature Reserve and the Stephen's Castle Nature Reserve where there's a lovely viewpoint."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/vjtF2XKhhp8",
-    "county": "Hampshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "North Poulner Road, Ringwood, Poulner, New Forest, Hampshire, England, BH24 1SP, United Kingdom",
-    "postcode": "BH24 1SP",
-    "district": "New Forest",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland", "heathland"],
-    "points_of_interest": ["visitor center", "bird hide", "village"],
-    "facilities": ["car park", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Rockford and Ibsley Common",
+      "objectID": "046b493ea0d53f9d079034da267a0e58",
+      "ref": "rockford-and-ibsley-common-walking-route"
+    },
+    {
+      "description": "Ashley Walk",
+      "objectID": "b1a21754a420ef3adbe8adb4fd8b6500",
+      "ref": "ashley-walk-walking-route"
+    },
+    {
+      "description": "Godshill",
+      "objectID": "7811d731a6d0cffeb34d1bc89c8be003",
+      "ref": "godshill-walking-route"
+    },
+    {
+      "description": "Latchmore Brook and Hasley Hill Inclosure",
+      "objectID": "1a5304aea5b8925dffc8e0cbea306d3b",
+      "ref": "latchmore-brook-and-hasley-hill-inclosure-walking-route"
+    },
+    {
+      "description": "Verwood",
+      "objectID": "723ffe66e6c7309684667e7094a58bed",
+      "ref": "verwood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e83f77a355df3bfdb1ba2c207ecbae7.gpx",
+  "_geoloc": {
+    "lat": 50.8605149588,
+    "lng": -1.7782640808
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blashford_Lakes_-_geograph.org.uk_-_1287681.jpg",
+      "title": "william / Blashford Lakes, via Wikimedia Commons",
+      "caption": "View from the bird hide at the nature reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Blashford_Lakes_Education_Centre_-_geograph.org.uk_-_838437.jpg",
+      "title": "Peter Facey / Blashford Lakes Education Centre, via Wikimedia Commons",
+      "caption": "Blashford Lakes Education Centre Accessed by a gravel track which is the far side of the hut. There is a pond within the fenced enclosure."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Water_Treatment_Works%2C_Blashford_Lakes_-_geograph.org.uk_-_838427.jpg",
+      "title": "Peter Facey / Water Treatment Works, Blashford Lakes, via Wikimedia Commons",
+      "caption": "Water Treatment Works, Blashford Lakes"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Car_park_for_Blashford_Lakes%2C_Ellingham_Drove_-_geograph.org.uk_-_836646.jpg",
+      "title": "Peter Facey / Car park for Blashford Lakes, Ellingham Drove, via Wikimedia Commons",
+      "caption": "Car park for Blashford Lakes, Ellingham Drove. On land formerly part of Hanson Blocks works. The lake is named Ibsley Water."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Entering_Blashford_Lakes_wildlife_reserve_-_geograph.org.uk_-_804171.jpg",
+      "title": "Peter Facey / Entering Blashford Lakes wildlife reserve, via Wikimedia Commons",
+      "caption": "Entering Blashford Lakes wildlife reserve Run by Hampshire and Isle of Wight Wildlife Trust. As a consequence of this reserve, many more of the paths around the lakes are open to the public than might appear from looking for RoW on maps."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Looking_across_Ibsley_Lakes_from_A338_-_geograph.org.uk_-_836678.jpg",
+      "title": "Peter Facey / Looking across Ibsley Lakes from A338, via Wikimedia Commons",
+      "caption": "Looking across Ibsley Lakes from A338. On the far bank is the public car park for Blashford Lakes, and Hanson Blocks works."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Avon_Valley_Path_skirts_Kingfisher_Lake%2C_Blashford_-_geograph.org.uk_-_759463.jpg",
+      "title": "Peter Facey / Avon Valley Path skirts Kingfisher Lake, Blashford, via Wikimedia Commons",
+      "caption": "Avon Valley Path skirts Kingfisher Lake, Blashford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/House_named_Brooklyn_and_lake_beyond%2C_Blashford_-_geograph.org.uk_-_759456.jpg",
+      "title": "Peter Facey / House named Brooklyn and lake beyond, Blashford, via Wikimedia Commons",
+      "caption": "House named Brooklyn and lake beyond, Blashford. Seen from footpath around Kingfisher Lake. The lake here is a smaller, apparently unnamed, one just to the north of Kingfisher Lake."
+    }
+  ],
+  "distance_km": 8.5,
+  "description": "This walk takes you around Blashford Lakes Nature Reserve and Ibsley Water on the edge of the New Forest. There are good surfaced footpaths to follow around several lakes with the Avon Valley Path also running through the site. You can stop and use won of the many bird hides to look out for woodpecker, nuthatch, grey heron, great crested grebe, coot and sand martin. Adder, grass snake and kingfisher can be seen in the summer months. There are good facilities with a visitor centre and car park. If you would like to extend your walk you could continue along the Avon Valley Path towards the pretty village of Ibsley or head east, on any number of footpaths, into the New Forest. Just to the east of the reserve you will find the expansive Rockford and Ibsley Commons where there are miles of heathland and woodland trails.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just north east of the lakes there's some fine areas of the New Forest to explore. These include the Ashley Walk, Godshill and the Latchmore Brook and Hasley Hill Inclosure which is only a couple of miles away. There's lots of peaceful woodland, heathland, streams and New Forest Ponies to enjoy in these nearby locations. Just to the north west is the nearby town of Verwood. Here you can enjoy a walk around Verwood Forest, the Cranborne Common Nature Reserve and the Stephen's Castle Nature Reserve where there's a lovely viewpoint."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/vjtF2XKhhp8",
+  "county": "Hampshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "North Poulner Road, Ringwood, Poulner, New Forest, Hampshire, England, BH24 1SP, United Kingdom",
+  "postcode": "BH24 1SP",
+  "district": "New Forest",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor centre",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

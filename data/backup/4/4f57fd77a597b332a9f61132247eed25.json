@@ -1,112 +1,121 @@
 {
-    "created_at": "2025-01-06T04:54:24.837402+00:00",
-    "objectID": "4f57fd77a597b332a9f61132247eed25",
-    "ref": "plankey-mill-walking-route",
-    "title": "Plankey Mill Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Plankey_Mill_-_geograph.org.uk_-_2002611.jpg/500px-Plankey_Mill_-_geograph.org.uk_-_2002611.jpg",
-    "nearby": [
-        {
-            "description": "Allen Banks and Staward Gorge",
-            "objectID": "53098583b01b281164a4be625247c55c",
-            "ref": "allen-banks-and-staward-gorge-walking-route"
-        },
-        {
-            "description": "Hexham",
-            "objectID": "791fdfe6ae4a208ef4d9ead8d8c0b38d",
-            "ref": "hexham-walking-route"
-        },
-        {
-            "description": "Hadrian's Wall Path",
-            "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
-            "ref": "hadrians-wall-path-walking-route"
-        },
-        {
-            "description": "Housesteads",
-            "objectID": "fc4970e2ccbdc33de9c32fbc7ee26ec1",
-            "ref": "housesteads-walking-route"
-        },
-        {
-            "description": "Allendale",
-            "objectID": "eb803feb2a7d6f01d2ae82e5b8254a49",
-            "ref": "allendale-walking-route"
-        },
-        {
-            "description": "Bardon Mill",
-            "objectID": "59fcfa546749f24740915660d44de522",
-            "ref": "bardon-mill-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f57fd77a597b332a9f61132247eed25.gpx",
-    "_geoloc": {
-        "lat": 54.9704776111,
-        "lng": -2.3162870749
+  "created_at": "2025-01-06T04:54:24.837402+00:00",
+  "objectID": "4f57fd77a597b332a9f61132247eed25",
+  "ref": "plankey-mill-walking-route",
+  "title": "Plankey Mill Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Plankey_Mill_-_geograph.org.uk_-_2002611.jpg/500px-Plankey_Mill_-_geograph.org.uk_-_2002611.jpg",
+  "nearby": [
+    {
+      "description": "Allen Banks and Staward Gorge",
+      "objectID": "53098583b01b281164a4be625247c55c",
+      "ref": "allen-banks-and-staward-gorge-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Plankey_Mill_-_geograph.org.uk_-_2002611.jpg/500px-Plankey_Mill_-_geograph.org.uk_-_2002611.jpg",
-            "title": "Plankey Mill by Philip Barker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Plankey Mill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footbridge_at_Plankey_Mill_-_geograph.org.uk_-_408156.jpg",
-            "title": "Julia Thompson / Footbridge at Plankey Mill",
-            "caption": "Footbridge at Plankey Mill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/River_Allen_below_Staward_Peel_-_geograph.org.uk_-_2145807.jpg/500px-River_Allen_below_Staward_Peel_-_geograph.org.uk_-_2145807.jpg",
-            "title": "River Allen below Staward Peel by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Allen below Staward Peel"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Burn_and_footbridge_in_Harsondale_Cleugh_-_geograph.org.uk_-_2074495.jpg",
-            "title": "Burn and footbridge in Harsondale Cleugh by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Burn and footbridge in Harsondale Cleugh"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_wooded_valley_of_the_River_Allen_-_geograph.org.uk_-_2073907.jpg",
-            "title": "The wooded valley of the River Allen by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The wooded valley of the River Allen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Path_in_Stawardpeel_Wood_-_geograph.org.uk_-_2074608.jpg/330px-Path_in_Stawardpeel_Wood_-_geograph.org.uk_-_2074608.jpg",
-            "title": "Path in Stawardpeel Wood by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Path in Stawardpeel Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_River_Allen_below_Hag_Bank_%284%29_-_geograph.org.uk_-_2074565.jpg/330px-The_River_Allen_below_Hag_Bank_%284%29_-_geograph.org.uk_-_2074565.jpg",
-            "title": "The River Allen below Hag Bank (4) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The River Allen below Hag Bank"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Footpath_to_Staward_Peel_%282%29_-_geograph.org.uk_-_2073850.jpg",
-            "title": "Footpath to Staward Peel (2) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath to Staward Peel"
-        }
-    ],
-    "distance_km": 5.7,
-    "description": "This walk visits Plankey Mill near Hexham. There's some lovely trails through the wooded river gorge to the old mill and campsite. The walk starts from the Allen Banks and Staward Gorge car park to the north of the site. You can then pick up footpaths heading south along the River Allen to the mill which is about a 1.5 mile walk. The route then continues south to Staward Peel and Haltwhistle wood where there are some pretty waterfalls to see along the river.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head a few miles east along the river and you could pick up the Haydon Bridge Walk from the nearby village. The walk will take you to the historic Langley Castle which dates from the 14th century. In the village itself there's a fine 17th century inn and a noteworthy 14th century bridge over the river to see. The site is located just a few miles south of one of the highlights of the area at Housesteads Roman Fort. Here you can explore the fascinating old fort and pick up the epic Hadrian's Wall Path. Head south of the site and you can visit the village of Allendale. The stone built village is very pretty and was twice crowned Village of the Year for All England. There are some nice walks here along the River East Allen. For more walking ideas in the area see the Northumberland Walks and North Pennines Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/JzYTiDqwO8o",
-    "postcode": "NE47 7BW",
-    "district": "Bardon Mill",
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Ridley Hall, A69, Thorngrafton, Bardon Mill, Northumberland, North East, England, NE47 7BW, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["waterfall", "historical site"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Hexham",
+      "objectID": "791fdfe6ae4a208ef4d9ead8d8c0b38d",
+      "ref": "hexham-walking-route"
+    },
+    {
+      "description": "Hadrian's Wall Path",
+      "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
+      "ref": "hadrians-wall-path-walking-route"
+    },
+    {
+      "description": "Housesteads",
+      "objectID": "fc4970e2ccbdc33de9c32fbc7ee26ec1",
+      "ref": "housesteads-walking-route"
+    },
+    {
+      "description": "Allendale",
+      "objectID": "eb803feb2a7d6f01d2ae82e5b8254a49",
+      "ref": "allendale-walking-route"
+    },
+    {
+      "description": "Bardon Mill",
+      "objectID": "59fcfa546749f24740915660d44de522",
+      "ref": "bardon-mill-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f57fd77a597b332a9f61132247eed25.gpx",
+  "_geoloc": {
+    "lat": 54.9704776111,
+    "lng": -2.3162870749
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Plankey_Mill_-_geograph.org.uk_-_2002611.jpg/500px-Plankey_Mill_-_geograph.org.uk_-_2002611.jpg",
+      "title": "Plankey Mill by Philip Barker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Plankey Mill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footbridge_at_Plankey_Mill_-_geograph.org.uk_-_408156.jpg",
+      "title": "Julia Thompson / Footbridge at Plankey Mill",
+      "caption": "Footbridge at Plankey Mill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/River_Allen_below_Staward_Peel_-_geograph.org.uk_-_2145807.jpg/500px-River_Allen_below_Staward_Peel_-_geograph.org.uk_-_2145807.jpg",
+      "title": "River Allen below Staward Peel by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Allen below Staward Peel"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Burn_and_footbridge_in_Harsondale_Cleugh_-_geograph.org.uk_-_2074495.jpg",
+      "title": "Burn and footbridge in Harsondale Cleugh by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Burn and footbridge in Harsondale Cleugh"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_wooded_valley_of_the_River_Allen_-_geograph.org.uk_-_2073907.jpg",
+      "title": "The wooded valley of the River Allen by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The wooded valley of the River Allen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Path_in_Stawardpeel_Wood_-_geograph.org.uk_-_2074608.jpg/330px-Path_in_Stawardpeel_Wood_-_geograph.org.uk_-_2074608.jpg",
+      "title": "Path in Stawardpeel Wood by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Path in Stawardpeel Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_River_Allen_below_Hag_Bank_%284%29_-_geograph.org.uk_-_2074565.jpg/330px-The_River_Allen_below_Hag_Bank_%284%29_-_geograph.org.uk_-_2074565.jpg",
+      "title": "The River Allen below Hag Bank (4) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The River Allen below Hag Bank"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Footpath_to_Staward_Peel_%282%29_-_geograph.org.uk_-_2073850.jpg",
+      "title": "Footpath to Staward Peel (2) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath to Staward Peel"
+    }
+  ],
+  "distance_km": 5.7,
+  "description": "This walk visits Plankey Mill near Hexham. There's some lovely trails through the wooded river gorge to the old mill and campsite. The walk starts from the Allen Banks and Staward Gorge car park to the north of the site. You can then pick up footpaths heading south along the River Allen to the mill which is about a 1.5 mile walk. The route then continues south to Staward Peel and Haltwhistle wood where there are some pretty waterfalls to see along the river.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles east along the river and you could pick up the Haydon Bridge Walk from the nearby village. The walk will take you to the historic Langley Castle which dates from the 14th century. In the village itself there's a fine 17th century inn and a noteworthy 14th century bridge over the river to see. The site is located just a few miles south of one of the highlights of the area at Housesteads Roman Fort. Here you can explore the fascinating old fort and pick up the epic Hadrian's Wall Path. Head south of the site and you can visit the village of Allendale. The stone built village is very pretty and was twice crowned Village of the Year for All England. There are some nice walks here along the River East Allen. For more walking ideas in the area see the Northumberland Walks and North Pennines Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/JzYTiDqwO8o",
+  "postcode": "NE47 7BW",
+  "district": "Bardon Mill",
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ridley Hall, A69, Thorngrafton, Bardon Mill, Northumberland, North East, England, NE47 7BW, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 45 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "mill",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

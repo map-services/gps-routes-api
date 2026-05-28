@@ -1,70 +1,79 @@
 {
-    "created_at": "2025-01-06T00:01:54.584786+00:00",
-    "objectID": "d1c4c3cae414f49f7817c97836fc3163",
-    "ref": "chadlington-walking-route",
-    "title": "Chadlington Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entering_Chadlington_-_geograph.org.uk_-_3985920.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1c4c3cae414f49f7817c97836fc3163.gpx",
-    "_geoloc": {
-        "lat": 51.895690126,
-        "lng": -1.5176549459
+  "created_at": "2025-01-06T00:01:54.584786+00:00",
+  "objectID": "d1c4c3cae414f49f7817c97836fc3163",
+  "ref": "chadlington-walking-route",
+  "title": "Chadlington Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entering_Chadlington_-_geograph.org.uk_-_3985920.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1c4c3cae414f49f7817c97836fc3163.gpx",
+  "_geoloc": {
+    "lat": 51.895690126,
+    "lng": -1.5176549459
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entering_Chadlington_-_geograph.org.uk_-_3985920.jpg",
+      "title": "Entering Chadlington by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entering Chadlington"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entering_Chadlington_-_geograph.org.uk_-_3985920.jpg",
-            "title": "Entering Chadlington by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entering Chadlington"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chadlington_pub.jpg",
-            "title": "S A Mathieson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Tite Inn, Chadlington, Oxfordshire. This 17th-century pub is on the edge of Chadlington in Oxfordshire, and won Camra's North Oxfordshire pub of the year in 2005. The road visible to the left leads to the A361 and then Churchill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Evenlode_Valley_at_Catsham_Bridge_-_geograph.org.uk_-_2565836.jpg/500px-Evenlode_Valley_at_Catsham_Bridge_-_geograph.org.uk_-_2565836.jpg",
-            "title": "Evenlode Valley at Catsham Bridge by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Evenlode Valley at Catsham Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_River_Evenlode_and_a_pool_in_a_field_-_geograph.org.uk_-_3302401.jpg/500px-The_River_Evenlode_and_a_pool_in_a_field_-_geograph.org.uk_-_3302401.jpg",
-            "title": "The River Evenlode and a pool in a field by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The River Evenlode and a pool in a field"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Road_through_Dean_-_geograph.org.uk_-_1549942.jpg",
-            "title": "andrew auger / Road through Dean",
-            "caption": "Road through Dean"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Houses_in_Spelsbury_-_geograph.org.uk_-_1116420.jpg",
-            "title": "Philip Halling / Houses in Spelsbury",
-            "caption": "Houses in Spelsbury"
-        }
-    ],
-    "distance_km": 9.5,
-    "description": "This Cotswolds based village is located just south of Chipping Norton in the River Evenlode valley. Two popular waymarked walking trails run through the area and there's also a fine 17th century stone pub to relax in after your exercise. This circular walk uses sections of the Wychwood Way and the Oxfordshire Way to explore the surrounding countryside. The footpaths will first take you east towards Dean and Spelsbury before turning south to visit the River Evenlode. Here you can visit Catsham Bridge and enjoy some wonderful views of the Evenlode Valley. The route continues west along the river before returning to Chadlington via Greenend.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Tite Inn for some refreshments after your walk. The historic stone pub dates back to the 1600s and includes a fine restaurant and a glorious garden for warmer days. You can find them at postcode OX7 3NY for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/9xqobkTgbLM",
-    "district": "West Oxfordshire",
-    "county": "Oxfordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "3, East End, Eastend, Chadlington, Spelsbury, West Oxfordshire, Oxfordshire, England, OX7 3LY, United Kingdom",
-    "postcode": "OX7 3LY",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["river valley", "countryside"],
-    "facilities": ["pub/cafe", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chadlington_pub.jpg",
+      "title": "S A Mathieson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Tite Inn, Chadlington, Oxfordshire. This 17th-century pub is on the edge of Chadlington in Oxfordshire, and won Camra's North Oxfordshire pub of the year in 2005. The road visible to the left leads to the A361 and then Churchill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Evenlode_Valley_at_Catsham_Bridge_-_geograph.org.uk_-_2565836.jpg/500px-Evenlode_Valley_at_Catsham_Bridge_-_geograph.org.uk_-_2565836.jpg",
+      "title": "Evenlode Valley at Catsham Bridge by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Evenlode Valley at Catsham Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_River_Evenlode_and_a_pool_in_a_field_-_geograph.org.uk_-_3302401.jpg/500px-The_River_Evenlode_and_a_pool_in_a_field_-_geograph.org.uk_-_3302401.jpg",
+      "title": "The River Evenlode and a pool in a field by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The River Evenlode and a pool in a field"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Road_through_Dean_-_geograph.org.uk_-_1549942.jpg",
+      "title": "andrew auger / Road through Dean",
+      "caption": "Road through Dean"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Houses_in_Spelsbury_-_geograph.org.uk_-_1116420.jpg",
+      "title": "Philip Halling / Houses in Spelsbury",
+      "caption": "Houses in Spelsbury"
+    }
+  ],
+  "distance_km": 9.5,
+  "description": "This Cotswolds based village is located just south of Chipping Norton in the River Evenlode valley. Two popular waymarked walking trails run through the area and there's also a fine 17th century stone pub to relax in after your exercise. This circular walk uses sections of the Wychwood Way and the Oxfordshire Way to explore the surrounding countryside. The footpaths will first take you east towards Dean and Spelsbury before turning south to visit the River Evenlode. Here you can visit Catsham Bridge and enjoy some wonderful views of the Evenlode Valley. The route continues west along the river before returning to Chadlington via Greenend.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Tite Inn for some refreshments after your walk. The historic stone pub dates back to the 1600s and includes a fine restaurant and a glorious garden for warmer days. You can find them at postcode OX7 3NY for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/9xqobkTgbLM",
+  "district": "West Oxfordshire",
+  "county": "Oxfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "3, East End, Eastend, Chadlington, Spelsbury, West Oxfordshire, Oxfordshire, England, OX7 3LY, United Kingdom",
+  "postcode": "OX7 3LY",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "valley"
+  ],
+  "points_of_interest": [
+    "bridge",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

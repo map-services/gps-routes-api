@@ -1,97 +1,111 @@
 {
-    "created_at": "2025-01-06T08:45:29.552828+00:00",
-    "objectID": "2a5732747553e9f3b3139bf412e02b97",
-    "ref": "nant-y-arian-walking-and-cycle-route",
-    "title": "Nant Y Arian Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Small_birds_feeding_at_Cwmbrwyno_Kite_Feeding_Centre_-_geograph.org.uk_-_1094104.jpg",
-    "nearby": [
-        {
-            "description": "Devil's Bridge Falls",
-            "objectID": "555db35c034821bd4f8bc3acf2797107",
-            "ref": "devils-bridge-falls-walking-route"
-        },
-        {
-            "description": "Nant-y-moch Reservoir",
-            "objectID": "b6ef58eea3b2d7d357de529916280e58",
-            "ref": "nant-y-moch-reservoir-walking-route"
-        },
-        {
-            "description": "Hafod Estate",
-            "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
-            "ref": "hafod-estate-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a5732747553e9f3b3139bf412e02b97.gpx",
-    "_geoloc": {
-        "lat": 52.4151419054,
-        "lng": -3.8871800199
+  "created_at": "2025-01-06T08:45:29.552828+00:00",
+  "objectID": "2a5732747553e9f3b3139bf412e02b97",
+  "ref": "nant-y-arian-walking-and-cycle-route",
+  "title": "Nant Y Arian Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Small_birds_feeding_at_Cwmbrwyno_Kite_Feeding_Centre_-_geograph.org.uk_-_1094104.jpg",
+  "nearby": [
+    {
+      "description": "Devil's Bridge Falls",
+      "objectID": "555db35c034821bd4f8bc3acf2797107",
+      "ref": "devils-bridge-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Small_birds_feeding_at_Cwmbrwyno_Kite_Feeding_Centre_-_geograph.org.uk_-_1094104.jpg",
-            "title": "David Stoker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Small birds feeding at Cwmbrwyno Kite Feeding Centre. A chaffinch tries to join a group of green finches at a bird feeder."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Forestry_track%2C_Llechwedd_Gwinau_-_geograph.org.uk_-_40035.jpg",
-            "title": "Nigel Callaghan [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Forestry track, Llechwedd Gwinau. The track runs through mature conifers."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Footpath_and_forestry%2C_Llechwedd_gwinau_-_geograph.org.uk_-_40030.jpg",
-            "title": "Nigel Callaghan [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Footpath and forestry, Llechwedd gwinau"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen_Llywernog_viewed_from_Bwlch_Nany-yr-arian_-_geograph.org.uk_-_901455.jpg",
-            "title": "OLU [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Blaen Llywernog viewed from Bwlch Nany-yr-arian"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/View_over_Llywernog_Pond_-_geograph.org.uk_-_2558996.jpg",
-            "title": "View over Llywernog Pond by John Light, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View over Llywernog Pond. This picturesque pond is located at the southern end of the route."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bwlch_Nant-yr-arian_-_geograph.org.uk_-_5905367.jpg/500px-Bwlch_Nant-yr-arian_-_geograph.org.uk_-_5905367.jpg",
-            "title": "Bwlch Nant-yr-arian by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bwlch Nant-yr-arian. Lake at the southern part of the route. There is a bird hide with information about the wildlife you can see in the area. Also look out for sculptures and poetry along the paths which bring local folklore and history to life."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cwm_Melindwr_viewpoint_-_geograph.org.uk_-_901445.jpg",
-            "title": "OLU, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cwm Melindwr viewpoint"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Red_Kite_in_Wales.jpg/500px-Red_Kite_in_Wales.jpg",
-            "title": "Etro0309, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Red Kite in Wales. Bwlch Nant yr Arian Visitor Centre is renowned for its longstanding tradition of daily red kite feeding sessions. Situated atop a dramatic hill, the visitor centre commands striking views of Cardigan Bay and the Cambrian Mountains, straddling the boundary between the lowlands and uplands. While exploring the trails, visitors can still observe remnants of the historic lead mining industry. Nowadays, the hills are adorned with bilberry and heather, while majestic red kites soar gracefully above."
-        }
-    ],
-    "distance_km": 4.5,
-    "description": "This large forest near Aberystwyth has a series of good mountain bike trails and miles of good footpaths for walkers. The forest has a good sized car park and visitor centre just off the A44 between Goginan and Ponterwyd. From here you can pick up the mtb trails heading north into the forest. There's two red grade and two black grade trails of varying lengths. These include technical singletrack descents and long climbs with more details on the open street map link and more information link below. If you're on foot then there's nice paths around the two ponds located just to the east of the car park. There's also miles of bridleways and footpaths to the north of the car park. Some of the trails are quite challenging with a climb to Mynydd March in the northern section. From the high points there are stunning views to the Welsh Mountains. There's also a number of large ponds which are in really lovely remote spots. The forest has a number of bird hides and is well known as a great place to watch red kites. There's also a nice cafe where you can refresh yourself after your exercise. To extend your walking in the area you could head to the nearby Devil's Bridge Falls. The spectacular falls include the imposing Jacob's Ladder stone steps and some wonderful scenery. A few miles north you'll find Nant-y-moch Reservoir where there's a nice waterside trail to try.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the south east there's the noteworthy Hafod Estate to explore. The National Trust managed estate includes miles of woodland trails through the lovely Ystwyth valley. There's riverside trails, cascading waterfalls, restored gardens and lots of wildlife to see here."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/JNT9NPSaUPE",
-    "county": "Ceredigion",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Nant yr Arian, A44, Cwm-brwyno, Melindwr, Goginan, Ceredigion, Cymru / Wales, SY23 3PG, United Kingdom",
-    "postcode": "SY23 3PG",
-    "district": "Goginan",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["mountain"],
-    "points_of_interest": ["viewpoint", "scenery"],
-    "facilities": ["car park", "visitor center", "cafe", "bird hide"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling", "bird watching"]
+    {
+      "description": "Nant-y-moch Reservoir",
+      "objectID": "b6ef58eea3b2d7d357de529916280e58",
+      "ref": "nant-y-moch-reservoir-walking-route"
+    },
+    {
+      "description": "Hafod Estate",
+      "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
+      "ref": "hafod-estate-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a5732747553e9f3b3139bf412e02b97.gpx",
+  "_geoloc": {
+    "lat": 52.4151419054,
+    "lng": -3.8871800199
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Small_birds_feeding_at_Cwmbrwyno_Kite_Feeding_Centre_-_geograph.org.uk_-_1094104.jpg",
+      "title": "David Stoker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Small birds feeding at Cwmbrwyno Kite Feeding Centre. A chaffinch tries to join a group of green finches at a bird feeder."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Forestry_track%2C_Llechwedd_Gwinau_-_geograph.org.uk_-_40035.jpg",
+      "title": "Nigel Callaghan [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Forestry track, Llechwedd Gwinau. The track runs through mature conifers."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Footpath_and_forestry%2C_Llechwedd_gwinau_-_geograph.org.uk_-_40030.jpg",
+      "title": "Nigel Callaghan [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Footpath and forestry, Llechwedd gwinau"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen_Llywernog_viewed_from_Bwlch_Nany-yr-arian_-_geograph.org.uk_-_901455.jpg",
+      "title": "OLU [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Blaen Llywernog viewed from Bwlch Nany-yr-arian"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/View_over_Llywernog_Pond_-_geograph.org.uk_-_2558996.jpg",
+      "title": "View over Llywernog Pond by John Light, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View over Llywernog Pond. This picturesque pond is located at the southern end of the route."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bwlch_Nant-yr-arian_-_geograph.org.uk_-_5905367.jpg/500px-Bwlch_Nant-yr-arian_-_geograph.org.uk_-_5905367.jpg",
+      "title": "Bwlch Nant-yr-arian by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bwlch Nant-yr-arian. Lake at the southern part of the route. There is a bird hide with information about the wildlife you can see in the area. Also look out for sculptures and poetry along the paths which bring local folklore and history to life."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cwm_Melindwr_viewpoint_-_geograph.org.uk_-_901445.jpg",
+      "title": "OLU, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cwm Melindwr viewpoint"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Red_Kite_in_Wales.jpg/500px-Red_Kite_in_Wales.jpg",
+      "title": "Etro0309, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Red Kite in Wales. Bwlch Nant yr Arian Visitor Centre is renowned for its longstanding tradition of daily red kite feeding sessions. Situated atop a dramatic hill, the visitor centre commands striking views of Cardigan Bay and the Cambrian Mountains, straddling the boundary between the lowlands and uplands. While exploring the trails, visitors can still observe remnants of the historic lead mining industry. Nowadays, the hills are adorned with bilberry and heather, while majestic red kites soar gracefully above."
+    }
+  ],
+  "distance_km": 4.5,
+  "description": "This large forest near Aberystwyth has a series of good mountain bike trails and miles of good footpaths for walkers. The forest has a good sized car park and visitor centre just off the A44 between Goginan and Ponterwyd. From here you can pick up the mtb trails heading north into the forest. There's two red grade and two black grade trails of varying lengths. These include technical singletrack descents and long climbs with more details on the open street map link and more information link below. If you're on foot then there's nice paths around the two ponds located just to the east of the car park. There's also miles of bridleways and footpaths to the north of the car park. Some of the trails are quite challenging with a climb to Mynydd March in the northern section. From the high points there are stunning views to the Welsh Mountains. There's also a number of large ponds which are in really lovely remote spots. The forest has a number of bird hides and is well known as a great place to watch red kites. There's also a nice cafe where you can refresh yourself after your exercise. To extend your walking in the area you could head to the nearby Devil's Bridge Falls. The spectacular falls include the imposing Jacob's Ladder stone steps and some wonderful scenery. A few miles north you'll find Nant-y-moch Reservoir where there's a nice waterside trail to try.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south east there's the noteworthy Hafod Estate to explore. The National Trust managed estate includes miles of woodland trails through the lovely Ystwyth valley. There's riverside trails, cascading waterfalls, restored gardens and lots of wildlife to see here."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/JNT9NPSaUPE",
+  "county": "Ceredigion",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Nant yr Arian, A44, Cwm-brwyno, Melindwr, Goginan, Ceredigion, Cymru / Wales, SY23 3PG, United Kingdom",
+  "postcode": "SY23 3PG",
+  "district": "Goginan",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "bird hide",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor centre",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

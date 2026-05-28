@@ -1,110 +1,124 @@
 {
-    "created_at": "2025-01-06T02:08:17.250814+00:00",
-    "objectID": "efa40d584236f173eeffbc16ee9a9662",
-    "ref": "jumbles-country-park-walking-route",
-    "title": "Jumbles Reservoir Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
-    "nearby": [
-        {
-            "description": "Witton Weavers Way",
-            "objectID": "dbe4faf3aa82e6fb97e7d53441f11550",
-            "ref": "witton-weavers-way-walking-route"
-        },
-        {
-            "description": "Bolton Rotary Way Footpath",
-            "objectID": "4d38fe97c0a524bf23e614d010e8322e",
-            "ref": "bolton-rotary-way-footpath-walking-route"
-        },
-        {
-            "description": "Turton Tower",
-            "objectID": "1274125a39766caaac23c96e08696dbd",
-            "ref": "turton-tower-walking-route"
-        },
-        {
-            "description": "Wayoh Reservoir",
-            "objectID": "fdeb42a6585b702a0dea8167e776a0ce",
-            "ref": "wayoh-reservoir-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/efa40d584236f173eeffbc16ee9a9662.gpx",
-    "_geoloc": {
-        "lat": 53.6218733285,
-        "lng": -2.4004145979
+  "created_at": "2025-01-06T02:08:17.250814+00:00",
+  "objectID": "efa40d584236f173eeffbc16ee9a9662",
+  "ref": "jumbles-country-park-walking-route",
+  "title": "Jumbles Reservoir Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
+  "nearby": [
+    {
+      "description": "Witton Weavers Way",
+      "objectID": "dbe4faf3aa82e6fb97e7d53441f11550",
+      "ref": "witton-weavers-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
-            "title": "John Tustin / Stone Cottages At North End Of Jumbles Reservoir",
-            "caption": "Stone Cottages At North End Of Jumbles Reservoir. These stone cottages are photographed from the East side of the the reservoir on the popular country walk around the park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jumbles_dam_and_outflow_-_geograph.org.uk_-_127029.jpg",
-            "title": "Margaret Clough / Jumbles dam and outflow",
-            "caption": "Jumbles dam and outflow"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jumbles_Reservoir_-_geograph.org.uk_-_653031.jpg",
-            "title": "frances barton / Jumbles Reservoir",
-            "caption": "Jumbles Reservoir. Looking towards the sailing club on the Jumbles the lower of the 3 reservoirs feeding Bolton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Path_beside_the_Jumbles_reservoir_dam._-_geograph.org.uk_-_127042.jpg/330px-Path_beside_the_Jumbles_reservoir_dam._-_geograph.org.uk_-_127042.jpg",
-            "title": "Margaret Clough / Path beside the Jumbles reservoir dam.",
-            "caption": "Path beside the reservoir dam."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
-            "title": "John Tustin / Stone Cottages At North End Of Jumbles Reservoir",
-            "caption": "Stone Cottages At North End Of Jumbles Reservoir. These old stone cottages are photographed from the East side of the reservoir on the popular country walk around the lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flooded_Quarry_-_geograph.org.uk_-_482096.jpg",
-            "title": "Paul Rudge / Flooded Quarry",
-            "caption": "This flooded quarry is now part of the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bradshaw_Brook_-_geograph.org.uk_-_2363719.jpg/500px-Bradshaw_Brook_-_geograph.org.uk_-_2363719.jpg",
-            "title": "Bradshaw Brook by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bradshaw Brook. A view of this pretty brook which runs to the south of the lake. The river runs from Turton Moor, feeding the Turton and Entwistle Reservoir and Wayoh Reservoir (the latter also fed by Blackstone Brook and Whittlestone Head Brook). From there, the river traverses Turton Bottoms and passes Chapeltown before feeding Jumbles Reservoir (along with Hazelhurst Brook). It then passes Bromley Cross and Bradshaw on its way to meet the River Tonge at Leverhulme Park east of Bolton."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ousel_Nest_Meadows_-_geograph.org.uk_-_2363674.jpg/500px-Ousel_Nest_Meadows_-_geograph.org.uk_-_2363674.jpg",
-            "title": "Ousel Nest Meadows by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ousel Nest Meadows. A delightful area to the south of the lake. There's a network of paths taking you around woodland and wildflower meadows with fine views of the River Bradshaw Valley. The following is taken from an information board at the site. \u201cOusel is the old English word for the Blackbird, although it is possible that its cousin the Ring Ousel may have nested close to Bradshaw Brook in the past. Grazing or mowing has not taken place at the site for several years allowing young Oak and Birch trees to start regenerating. This has been helped along by the planting of 4000 young native broadleaves by Bolton Metro and local interest groups during the winter of 1996-7.\u201d"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "Enjoy a short stroll around Jumbles Reservoir in this pretty country park in Bolton. The park is set within the beautiful West Pennine Moors with a lovely waterside footpath around the reservoir. There are also good facilities with a visitor centre and cafe. The park is located just a couple of miles north east of Bolton city centre, near to the Lancashire village of Chapeltown. If you have time you could continue your walk along the Witton Weavers Way to the nearby Wayoh Reservoir and Nature Reserve. Just south of the reservoir there's also Ousel Nest Meadows to explore. There's some pleasant trails with river and countryside views here.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a decent on site cafe where you can enjoy refreshments after your exercise. They sell a good range of meals and some tasty sweets and ice creams too. There's also several picnic spots if you'd prefer to bring your own food with you. If you fancy a pub lunch then The King William Pub is located just west of the lake. They serve good quality pub food and can be found at postcode BL7 9AN for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The lakeside and woodland trails in the park are ideal for dog walking. It's a popular place for dog walkers so expect to bump into other owners on a fine day. The King William Pub mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just a short stroll from the reservoir you will find Turton Tower. This historical landmark dates back to the Middle Ages and includes pleasant grounds with woodland and pretty gardens. For more walking ideas in the area see the West Pennine Moors Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/TNAxFJynZ-0",
-    "county": null,
-    "region": "Greater Manchester",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bromley Cross, Bolton, Greater Manchester, England, BL2 4JP, United Kingdom",
-    "postcode": "BL2 4JP",
-    "district": "Bolton",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "easy",
-    "terrain": ["woodland", "countryside"],
-    "points_of_interest": ["nature reserve", "meadow"],
-    "facilities": ["visitor center", "cafe", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bolton Rotary Way Footpath",
+      "objectID": "4d38fe97c0a524bf23e614d010e8322e",
+      "ref": "bolton-rotary-way-footpath-walking-route"
+    },
+    {
+      "description": "Turton Tower",
+      "objectID": "1274125a39766caaac23c96e08696dbd",
+      "ref": "turton-tower-walking-route"
+    },
+    {
+      "description": "Wayoh Reservoir",
+      "objectID": "fdeb42a6585b702a0dea8167e776a0ce",
+      "ref": "wayoh-reservoir-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/efa40d584236f173eeffbc16ee9a9662.gpx",
+  "_geoloc": {
+    "lat": 53.6218733285,
+    "lng": -2.4004145979
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
+      "title": "John Tustin / Stone Cottages At North End Of Jumbles Reservoir",
+      "caption": "Stone Cottages At North End Of Jumbles Reservoir. These stone cottages are photographed from the East side of the the reservoir on the popular country walk around the park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jumbles_dam_and_outflow_-_geograph.org.uk_-_127029.jpg",
+      "title": "Margaret Clough / Jumbles dam and outflow",
+      "caption": "Jumbles dam and outflow"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jumbles_Reservoir_-_geograph.org.uk_-_653031.jpg",
+      "title": "frances barton / Jumbles Reservoir",
+      "caption": "Jumbles Reservoir. Looking towards the sailing club on the Jumbles the lower of the 3 reservoirs feeding Bolton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Path_beside_the_Jumbles_reservoir_dam._-_geograph.org.uk_-_127042.jpg/330px-Path_beside_the_Jumbles_reservoir_dam._-_geograph.org.uk_-_127042.jpg",
+      "title": "Margaret Clough / Path beside the Jumbles reservoir dam.",
+      "caption": "Path beside the reservoir dam."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Stone_Cottages_At_North_End_Of_Jumbles_Reservoir_-_geograph.org.uk_-_1141000.jpg",
+      "title": "John Tustin / Stone Cottages At North End Of Jumbles Reservoir",
+      "caption": "Stone Cottages At North End Of Jumbles Reservoir. These old stone cottages are photographed from the East side of the reservoir on the popular country walk around the lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flooded_Quarry_-_geograph.org.uk_-_482096.jpg",
+      "title": "Paul Rudge / Flooded Quarry",
+      "caption": "This flooded quarry is now part of the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bradshaw_Brook_-_geograph.org.uk_-_2363719.jpg/500px-Bradshaw_Brook_-_geograph.org.uk_-_2363719.jpg",
+      "title": "Bradshaw Brook by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bradshaw Brook. A view of this pretty brook which runs to the south of the lake. The river runs from Turton Moor, feeding the Turton and Entwistle Reservoir and Wayoh Reservoir (the latter also fed by Blackstone Brook and Whittlestone Head Brook). From there, the river traverses Turton Bottoms and passes Chapeltown before feeding Jumbles Reservoir (along with Hazelhurst Brook). It then passes Bromley Cross and Bradshaw on its way to meet the River Tonge at Leverhulme Park east of Bolton."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ousel_Nest_Meadows_-_geograph.org.uk_-_2363674.jpg/500px-Ousel_Nest_Meadows_-_geograph.org.uk_-_2363674.jpg",
+      "title": "Ousel Nest Meadows by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ousel Nest Meadows. A delightful area to the south of the lake. There's a network of paths taking you around woodland and wildflower meadows with fine views of the River Bradshaw Valley. The following is taken from an information board at the site. \u201cOusel is the old English word for the Blackbird, although it is possible that its cousin the Ring Ousel may have nested close to Bradshaw Brook in the past. Grazing or mowing has not taken place at the site for several years allowing young Oak and Birch trees to start regenerating. This has been helped along by the planting of 4000 young native broadleaves by Bolton Metro and local interest groups during the winter of 1996-7.\u201d"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "Enjoy a short stroll around Jumbles Reservoir in this pretty country park in Bolton. The park is set within the beautiful West Pennine Moors with a lovely waterside footpath around the reservoir. There are also good facilities with a visitor centre and cafe. The park is located just a couple of miles north east of Bolton city centre, near to the Lancashire village of Chapeltown. If you have time you could continue your walk along the Witton Weavers Way to the nearby Wayoh Reservoir and Nature Reserve. Just south of the reservoir there's also Ousel Nest Meadows to explore. There's some pleasant trails with river and countryside views here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a decent on site cafe where you can enjoy refreshments after your exercise. They sell a good range of meals and some tasty sweets and ice creams too. There's also several picnic spots if you'd prefer to bring your own food with you. If you fancy a pub lunch then The King William Pub is located just west of the lake. They serve good quality pub food and can be found at postcode BL7 9AN for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lakeside and woodland trails in the park are ideal for dog walking. It's a popular place for dog walkers so expect to bump into other owners on a fine day. The King William Pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a short stroll from the reservoir you will find Turton Tower. This historical landmark dates back to the Middle Ages and includes pleasant grounds with woodland and pretty gardens. For more walking ideas in the area see the West Pennine Moors Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/TNAxFJynZ-0",
+  "county": null,
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bromley Cross, Bolton, Greater Manchester, England, BL2 4JP, United Kingdom",
+  "postcode": "BL2 4JP",
+  "district": "Bolton",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "reservoir",
+    "nature reserve"
+  ],
+  "facilities": [
+    "cafe",
+    "pub",
+    "picnic spot",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

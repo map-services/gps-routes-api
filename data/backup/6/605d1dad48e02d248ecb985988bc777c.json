@@ -1,161 +1,170 @@
 {
-    "created_at": "2025-01-05T23:36:45.640715+00:00",
-    "objectID": "605d1dad48e02d248ecb985988bc777c",
-    "ref": "dales-way-walking-route",
-    "title": "Dales Way Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dales_Way_-_geograph.org.uk_-_757604.jpg",
-    "nearby": [
-        {
-            "description": "Meanwood Valley Trail",
-            "objectID": "ae22161535020dad7b56d21fc1ccca90",
-            "ref": "meanwood-valley-trail-walking-route"
-        },
-        {
-            "description": "Bolton Abbey",
-            "objectID": "a69fb3e102efb21a6b6da81a52a3c551",
-            "ref": "bolton-abbey-walking-route"
-        },
-        {
-            "description": "Ebor Way",
-            "objectID": "460b6eaefa835488435e3937ef49f82d",
-            "ref": "ebor-way-walking-route"
-        },
-        {
-            "description": "Linton Falls",
-            "objectID": "11a08617617af634fd7557116e1bd62c",
-            "ref": "linton-falls-walking-route"
-        },
-        {
-            "description": "Leeds Country Way",
-            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-            "ref": "leeds-country-way-walking-route"
-        },
-        {
-            "description": "Harewood House",
-            "objectID": "9ae5294687aac3c9a44ba436873002b5",
-            "ref": "harewood-house-walking-route"
-        },
-        {
-            "description": "Eccup Reservoir",
-            "objectID": "2130206e2be82a193be607b5b2b02a8b",
-            "ref": "eccup-reservoir-walking-route"
-        },
-        {
-            "description": "Circular Walk around Kettlewell",
-            "objectID": "8030b8aac5ea90b4f74d7bd5614c393b",
-            "ref": "circular-walk-around-kettlewell-walking-route"
-        },
-        {
-            "description": "Burnsall to Grassington",
-            "objectID": "aa6b71a86e629ad49a8aca9a073573bc",
-            "ref": "burnsall-to-grassington-walking-route"
-        },
-        {
-            "description": "Windermere",
-            "objectID": "5bb20b797f32df44b1c4b7dde1e0e2a6",
-            "ref": "windermere-walking-route"
-        },
-        {
-            "description": "Ilkley Moor",
-            "objectID": "c47b5760ae8158674a200d8e87072dc9",
-            "ref": "ilkley-moor-walking-route"
-        },
-        {
-            "description": "Cow and Calf and Twelve Apostles",
-            "objectID": "efffa2845b204a8c8931afd9859949b2",
-            "ref": "cow-and-calf-and-twelve-apostles-walking-route"
-        },
-        {
-            "description": "Burley in Wharfedale",
-            "objectID": "c6f8a13ed34d12e42ec2e6b7daf2562f",
-            "ref": "burley-in-wharfedale-walking-route"
-        },
-        {
-            "description": "Staveley Cumbria",
-            "objectID": "1c2e8f76cadc9a565f8db3f5b3a2c0be",
-            "ref": "staveley-cumbria-walking-route"
-        },
-        {
-            "description": "Lady Anne's Way",
-            "objectID": "010425956e7dd46f635509c1e3a9ba33",
-            "ref": "lady-annes-way-walking-route"
-        },
-        {
-            "description": "Hubberholme",
-            "objectID": "e707dae8bdcc9d9d28c02ed63caff249",
-            "ref": "hubberholme-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/605d1dad48e02d248ecb985988bc777c.gpx",
-    "_geoloc": {
-        "lat": 53.9287924235,
-        "lng": -1.8304930442
+  "created_at": "2025-01-05T23:36:45.640715+00:00",
+  "objectID": "605d1dad48e02d248ecb985988bc777c",
+  "ref": "dales-way-walking-route",
+  "title": "Dales Way Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dales_Way_-_geograph.org.uk_-_757604.jpg",
+  "nearby": [
+    {
+      "description": "Meanwood Valley Trail",
+      "objectID": "ae22161535020dad7b56d21fc1ccca90",
+      "ref": "meanwood-valley-trail-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dales_Way_-_geograph.org.uk_-_757604.jpg",
-            "title": "John Sparshatt / Dales Way",
-            "caption": "Yockenthwaite Stone Circle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Dales_Way_%28geograph_3198286%29.jpg",
-            "title": "Ian S / The Dales Way",
-            "caption": "Millthrop Bridge over the River Rawthey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Stile%2C_Dales_Way_-_geograph.org.uk_-_758541.jpg",
-            "title": "Michael Graham / Stile, Dales Way",
-            "caption": "Stile over an old stone wall near Laithbank. Yorkshire Hills in the background"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/On_the_Dales_Way_-_geograph.org.uk_-_1652871.jpg",
-            "title": "Dr Neil Clifton / On the Dales Way",
-            "caption": "On the Dales Way near Ilkley Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dales_Way_-_geograph.org.uk_-_757612.jpg",
-            "title": "John Sparshatt / Dales Way",
-            "caption": "Dales Way Footbridge and ford across Gayle Beck. The ford is in the civil parish of Horton in Ribblesdale, although geographically nearer Ribblehead than Horton."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Footbridge_on_The_Dales_Way_-_geograph.org.uk_-_1389873.jpg",
-            "title": "Roger Smith / Footbridge on The Dales Way",
-            "caption": "Footbridge by the river on The Dales Way"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg/500px-The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg",
-            "title": "The George Inn, Hubberholme by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The George Inn, Hubberholme. The River Wharfe flows through this little settlement at the point where Langstrothdale meets Wharfedale. It's a secluded and attractive place with a Norman church and a notable mid 17th century pub for refreshments."
-        }
-    ],
-    "distance_km": 126.0,
-    "description": "This wonderful walk takes you through the fabulous Yorkshire Dales and on into Cumbria and the spectacular Lake District. There are several wonderful waterside stretches to enjoy starting with the River Wharfe at Ilkley before runs along the Rivers Dee and Lune soon follow. A pleasant stroll along the River Kent takes you into the Lake District National Park and then onto the finish point at Bowness. Highlights on the route include the spectacular Linton Falls, the beautiful Burnsall to Grassington section through Wharfedale and the wonderful Bolton Abbey .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Near Eccup Reservoir you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the water. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs. The pretty village of Staveley is located in Cumbria towards the end of the route. Here you could enjoy a pit stop at the Eagle and Child. The inn serves high quality dishes which you can enjoy with a view of the River Kent in the lovely large garden area. You can find them on the Kendal Road, at postcode LA8 9LP for your sat navs. In Burnsall there's the The Red Lion. The historic inn dates back to the 16th century and serves high quality food. They also provide rooms if you'd like to stay in the area. You can find them in a lovely spot overlooking the river at postcode BD23 6BU for your sat navs. In the village there's also the noteworthy church to see. It's a Grade I listed building and is almost entirely Perpendicular. Inside there's an 11th-century font carved with bird and beasts, twelve Anglo-Saxon sculpture fragments and a 14th-century alabaster panel depicting the Adoration of the Magi."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Embsay and Bolton Abbey Railway is a great way to see the lovely scenery surrounding Bolton Abbey. You can pick up the heritage railway just to the south of the abbey at Bolton Abbey Station. Here you can enjoy a ride on a vintage steam locomotive to Embsay where you can visit Embsay Reservoir. The rolling stock on the line consists of 20 ex-industrial locomotives, the oldest of which was built in 1908, three diesel-multiple units, and ten other diesel locomotives. Embsay station dates back to 1888 and has good facilities with a cafe, gift shop, bookshop and picnic tables. It's a nice place to stroll around and watch the trains come in and go out.  Pictured above left Embsay railway station looking towards Bolton Abbey station. On the right part of the track between Embsay and Bolton Abbey with a siding to the left. This section was restored in the 1990s over 100 years after its initial opening as part of the line from Ilkley to Skipton. Other route highlights include the splendid Ilkley Moor and the famous Cow and Calf rocks. The delightful village of Burley in Wharfedale is also near the route in this area. The route links with the long distance Lady Anne's Way in various places. It runs through the Yorkshire Dales to Penrith, passing several historic buildings associated with Lady Anne Clifford. The noteworthy Noblewoman was a signficant restorer of many English castles during the 17th century."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/weyhIQ-zI9E",
-    "district": "Bradford",
-    "region": "West Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Old Bridge, Middleton Estate, Ilkley, Bradford, West Yorkshire, England, LS29 9HD, United Kingdom",
-    "postcode": "LS29 9HD",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["river", "woodland"],
-    "points_of_interest": ["waterfall", "valley"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Bolton Abbey",
+      "objectID": "a69fb3e102efb21a6b6da81a52a3c551",
+      "ref": "bolton-abbey-walking-route"
+    },
+    {
+      "description": "Ebor Way",
+      "objectID": "460b6eaefa835488435e3937ef49f82d",
+      "ref": "ebor-way-walking-route"
+    },
+    {
+      "description": "Linton Falls",
+      "objectID": "11a08617617af634fd7557116e1bd62c",
+      "ref": "linton-falls-walking-route"
+    },
+    {
+      "description": "Leeds Country Way",
+      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+      "ref": "leeds-country-way-walking-route"
+    },
+    {
+      "description": "Harewood House",
+      "objectID": "9ae5294687aac3c9a44ba436873002b5",
+      "ref": "harewood-house-walking-route"
+    },
+    {
+      "description": "Eccup Reservoir",
+      "objectID": "2130206e2be82a193be607b5b2b02a8b",
+      "ref": "eccup-reservoir-walking-route"
+    },
+    {
+      "description": "Circular Walk around Kettlewell",
+      "objectID": "8030b8aac5ea90b4f74d7bd5614c393b",
+      "ref": "circular-walk-around-kettlewell-walking-route"
+    },
+    {
+      "description": "Burnsall to Grassington",
+      "objectID": "aa6b71a86e629ad49a8aca9a073573bc",
+      "ref": "burnsall-to-grassington-walking-route"
+    },
+    {
+      "description": "Windermere",
+      "objectID": "5bb20b797f32df44b1c4b7dde1e0e2a6",
+      "ref": "windermere-walking-route"
+    },
+    {
+      "description": "Ilkley Moor",
+      "objectID": "c47b5760ae8158674a200d8e87072dc9",
+      "ref": "ilkley-moor-walking-route"
+    },
+    {
+      "description": "Cow and Calf and Twelve Apostles",
+      "objectID": "efffa2845b204a8c8931afd9859949b2",
+      "ref": "cow-and-calf-and-twelve-apostles-walking-route"
+    },
+    {
+      "description": "Burley in Wharfedale",
+      "objectID": "c6f8a13ed34d12e42ec2e6b7daf2562f",
+      "ref": "burley-in-wharfedale-walking-route"
+    },
+    {
+      "description": "Staveley Cumbria",
+      "objectID": "1c2e8f76cadc9a565f8db3f5b3a2c0be",
+      "ref": "staveley-cumbria-walking-route"
+    },
+    {
+      "description": "Lady Anne's Way",
+      "objectID": "010425956e7dd46f635509c1e3a9ba33",
+      "ref": "lady-annes-way-walking-route"
+    },
+    {
+      "description": "Hubberholme",
+      "objectID": "e707dae8bdcc9d9d28c02ed63caff249",
+      "ref": "hubberholme-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/605d1dad48e02d248ecb985988bc777c.gpx",
+  "_geoloc": {
+    "lat": 53.9287924235,
+    "lng": -1.8304930442
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dales_Way_-_geograph.org.uk_-_757604.jpg",
+      "title": "John Sparshatt / Dales Way",
+      "caption": "Yockenthwaite Stone Circle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Dales_Way_%28geograph_3198286%29.jpg",
+      "title": "Ian S / The Dales Way",
+      "caption": "Millthrop Bridge over the River Rawthey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Stile%2C_Dales_Way_-_geograph.org.uk_-_758541.jpg",
+      "title": "Michael Graham / Stile, Dales Way",
+      "caption": "Stile over an old stone wall near Laithbank. Yorkshire Hills in the background"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/On_the_Dales_Way_-_geograph.org.uk_-_1652871.jpg",
+      "title": "Dr Neil Clifton / On the Dales Way",
+      "caption": "On the Dales Way near Ilkley Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dales_Way_-_geograph.org.uk_-_757612.jpg",
+      "title": "John Sparshatt / Dales Way",
+      "caption": "Dales Way Footbridge and ford across Gayle Beck. The ford is in the civil parish of Horton in Ribblesdale, although geographically nearer Ribblehead than Horton."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Footbridge_on_The_Dales_Way_-_geograph.org.uk_-_1389873.jpg",
+      "title": "Roger Smith / Footbridge on The Dales Way",
+      "caption": "Footbridge by the river on The Dales Way"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg/500px-The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg",
+      "title": "The George Inn, Hubberholme by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The George Inn, Hubberholme. The River Wharfe flows through this little settlement at the point where Langstrothdale meets Wharfedale. It's a secluded and attractive place with a Norman church and a notable mid 17th century pub for refreshments."
+    }
+  ],
+  "distance_km": 126.0,
+  "description": "This wonderful walk takes you through the fabulous Yorkshire Dales and on into Cumbria and the spectacular Lake District. There are several wonderful waterside stretches to enjoy starting with the River Wharfe at Ilkley before runs along the Rivers Dee and Lune soon follow. A pleasant stroll along the River Kent takes you into the Lake District National Park and then onto the finish point at Bowness. Highlights on the route include the spectacular Linton Falls, the beautiful Burnsall to Grassington section through Wharfedale and the wonderful Bolton Abbey .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Eccup Reservoir you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the water. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs. The pretty village of Staveley is located in Cumbria towards the end of the route. Here you could enjoy a pit stop at the Eagle and Child. The inn serves high quality dishes which you can enjoy with a view of the River Kent in the lovely large garden area. You can find them on the Kendal Road, at postcode LA8 9LP for your sat navs. In Burnsall there's the The Red Lion. The historic inn dates back to the 16th century and serves high quality food. They also provide rooms if you'd like to stay in the area. You can find them in a lovely spot overlooking the river at postcode BD23 6BU for your sat navs. In the village there's also the noteworthy church to see. It's a Grade I listed building and is almost entirely Perpendicular. Inside there's an 11th-century font carved with bird and beasts, twelve Anglo-Saxon sculpture fragments and a 14th-century alabaster panel depicting the Adoration of the Magi."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Embsay and Bolton Abbey Railway is a great way to see the lovely scenery surrounding Bolton Abbey. You can pick up the heritage railway just to the south of the abbey at Bolton Abbey Station. Here you can enjoy a ride on a vintage steam locomotive to Embsay where you can visit Embsay Reservoir. The rolling stock on the line consists of 20 ex-industrial locomotives, the oldest of which was built in 1908, three diesel-multiple units, and ten other diesel locomotives. Embsay station dates back to 1888 and has good facilities with a cafe, gift shop, bookshop and picnic tables. It's a nice place to stroll around and watch the trains come in and go out.  Pictured above left Embsay railway station looking towards Bolton Abbey station. On the right part of the track between Embsay and Bolton Abbey with a siding to the left. This section was restored in the 1990s over 100 years after its initial opening as part of the line from Ilkley to Skipton. Other route highlights include the splendid Ilkley Moor and the famous Cow and Calf rocks. The delightful village of Burley in Wharfedale is also near the route in this area. The route links with the long distance Lady Anne's Way in various places. It runs through the Yorkshire Dales to Penrith, passing several historic buildings associated with Lady Anne Clifford. The noteworthy Noblewoman was a signficant restorer of many English castles during the 17th century."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/weyhIQ-zI9E",
+  "district": "Bradford",
+  "region": "West Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Old Bridge, Middleton Estate, Ilkley, Bradford, West Yorkshire, England, LS29 9HD, United Kingdom",
+  "postcode": "LS29 9HD",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

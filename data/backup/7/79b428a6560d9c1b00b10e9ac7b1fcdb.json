@@ -1,112 +1,123 @@
 {
-    "created_at": "2025-01-06T08:39:47.571984+00:00",
-    "objectID": "79b428a6560d9c1b00b10e9ac7b1fcdb",
-    "ref": "ladderedge-country-park-walking-route",
-    "title": "Ladderedge Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Footbridge_in_Ladderedge_Country_park_-_geograph.org.uk_-_452278.jpg",
-    "nearby": [
-        {
-            "description": "Caldon Canal",
-            "objectID": "868acee010162c5fa010ee3e05ff772f",
-            "ref": "caldon-canal-walking-route"
-        },
-        {
-            "description": "Rudyard Lake",
-            "objectID": "ba871a2d7ce51dec3db6aa94939d45b8",
-            "ref": "rudyard-lake-walking-and-cycle-route"
-        },
-        {
-            "description": "Staffordshire Way",
-            "objectID": "0f4ae85e999427bc5e24f5738eb8e2d1",
-            "ref": "staffordshire-way-walking-route"
-        },
-        {
-            "description": "Deep Hayes Country Park",
-            "objectID": "bc6a8e60be0d2e46120b8291123a9a33",
-            "ref": "deep-hayes-country-park-walking-route"
-        },
-        {
-            "description": "Churnet Valley",
-            "objectID": "3d8a5cf782157f4eb010e5f3fa52acfd",
-            "ref": "churnet-valley-walking-route"
-        },
-        {
-            "description": "Leek",
-            "objectID": "f9ab6c82b2b3b4a2d556b2a058267c61",
-            "ref": "leek-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/79b428a6560d9c1b00b10e9ac7b1fcdb.gpx",
-    "_geoloc": {
-        "lat": 53.0936448283,
-        "lng": -2.0425542119
+  "created_at": "2025-01-06T08:39:47.571984+00:00",
+  "objectID": "79b428a6560d9c1b00b10e9ac7b1fcdb",
+  "ref": "ladderedge-country-park-walking-route",
+  "title": "Ladderedge Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Footbridge_in_Ladderedge_Country_park_-_geograph.org.uk_-_452278.jpg",
+  "nearby": [
+    {
+      "description": "Caldon Canal",
+      "objectID": "868acee010162c5fa010ee3e05ff772f",
+      "ref": "caldon-canal-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Footbridge_in_Ladderedge_Country_park_-_geograph.org.uk_-_452278.jpg",
-            "title": "Neil Lewin / Footbridge in Ladderedge Country park, via Wikimedia Commons",
-            "caption": "Footbridge in Ladderedge Country park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ladderedge_Footpath_-_geograph.org.uk_-_452285.jpg",
-            "title": "Neil Lewin / Ladderedge Footpath, via Wikimedia Commons",
-            "caption": "Ladderedge Footpath"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seat_with_a_view_-_geograph.org.uk_-_2347417.jpg",
-            "title": "Seat with a view by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Seat with a view"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Looking_down_the_pasture_-_geograph.org.uk_-_2347263.jpg",
-            "title": "Looking down the pasture by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking down the pasture"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leaving_the_woods_-_geograph.org.uk_-_2348696.jpg",
-            "title": "Leaving the woods by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Leaving the woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Along_the_boardwalk_-_geograph.org.uk_-_2349118.jpg/500px-Along_the_boardwalk_-_geograph.org.uk_-_2349118.jpg",
-            "title": "Along the boardwalk by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Along the boardwalk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blackthorn_tree_-_geograph.org.uk_-_2346007.jpg/500px-Blackthorn_tree_-_geograph.org.uk_-_2346007.jpg",
-            "title": "Blackthorn tree by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Blackthorn tree with early spring blossom. Near the car park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bridge_to_the_car_park_-_geograph.org.uk_-_2352112.jpg",
-            "title": "Bridge to the car park by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bridge to the car park"
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "Explore 70 acres of wetland, meadows and woodlands on this short circular walk in Leek. The park has good footpaths with views of the River Churnet Valley and the Peak District. The Staffordshire Way runs through the park so you could follow it a mile south to Deep Hayes Country Park if you wanted to extend your exercise. The Caldon Canal and Rudyard Lake are also very nearby. You could follow the Canal Feeder north for about two miles to reach Rudyard Lake. This is a lovely waterside walk which starts in Ladderedge Country Park.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The popular Blue Mugge in Leek is a nice place to go for some refreshments. It's a well priced traditional pub with good food and a decent selection of beers. There's also a small outdoor area partly undercover. You can find the pub on 17 Osborne St with a postcode of ST13 6LJ for your sat navs. Also of interest is the noteworthy Roebuck. Steeped in character and charm this historic pub dates from 1626. It's dog friendly and has a lovely outdoor seating area for warmer days. You can find it at 18 Derby Street with postcode ST13 5AB."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/u-761z4Ch4c",
-    "postcode": "ST13 7AB",
-    "district": "Staffordshire Moorlands",
-    "county": "Staffordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Leek Town 37, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 7AB, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "wetland"],
-    "points_of_interest": ["viewpoint"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Rudyard Lake",
+      "objectID": "ba871a2d7ce51dec3db6aa94939d45b8",
+      "ref": "rudyard-lake-walking-and-cycle-route"
+    },
+    {
+      "description": "Staffordshire Way",
+      "objectID": "0f4ae85e999427bc5e24f5738eb8e2d1",
+      "ref": "staffordshire-way-walking-route"
+    },
+    {
+      "description": "Deep Hayes Country Park",
+      "objectID": "bc6a8e60be0d2e46120b8291123a9a33",
+      "ref": "deep-hayes-country-park-walking-route"
+    },
+    {
+      "description": "Churnet Valley",
+      "objectID": "3d8a5cf782157f4eb010e5f3fa52acfd",
+      "ref": "churnet-valley-walking-route"
+    },
+    {
+      "description": "Leek",
+      "objectID": "f9ab6c82b2b3b4a2d556b2a058267c61",
+      "ref": "leek-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/79b428a6560d9c1b00b10e9ac7b1fcdb.gpx",
+  "_geoloc": {
+    "lat": 53.0936448283,
+    "lng": -2.0425542119
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Footbridge_in_Ladderedge_Country_park_-_geograph.org.uk_-_452278.jpg",
+      "title": "Neil Lewin / Footbridge in Ladderedge Country park, via Wikimedia Commons",
+      "caption": "Footbridge in Ladderedge Country park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ladderedge_Footpath_-_geograph.org.uk_-_452285.jpg",
+      "title": "Neil Lewin / Ladderedge Footpath, via Wikimedia Commons",
+      "caption": "Ladderedge Footpath"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seat_with_a_view_-_geograph.org.uk_-_2347417.jpg",
+      "title": "Seat with a view by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Seat with a view"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Looking_down_the_pasture_-_geograph.org.uk_-_2347263.jpg",
+      "title": "Looking down the pasture by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking down the pasture"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leaving_the_woods_-_geograph.org.uk_-_2348696.jpg",
+      "title": "Leaving the woods by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Leaving the woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Along_the_boardwalk_-_geograph.org.uk_-_2349118.jpg/500px-Along_the_boardwalk_-_geograph.org.uk_-_2349118.jpg",
+      "title": "Along the boardwalk by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Along the boardwalk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blackthorn_tree_-_geograph.org.uk_-_2346007.jpg/500px-Blackthorn_tree_-_geograph.org.uk_-_2346007.jpg",
+      "title": "Blackthorn tree by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Blackthorn tree with early spring blossom. Near the car park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bridge_to_the_car_park_-_geograph.org.uk_-_2352112.jpg",
+      "title": "Bridge to the car park by Jonathan Kington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bridge to the car park"
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "Explore 70 acres of wetland, meadows and woodlands on this short circular walk in Leek. The park has good footpaths with views of the River Churnet Valley and the Peak District. The Staffordshire Way runs through the park so you could follow it a mile south to Deep Hayes Country Park if you wanted to extend your exercise. The Caldon Canal and Rudyard Lake are also very nearby. You could follow the Canal Feeder north for about two miles to reach Rudyard Lake. This is a lovely waterside walk which starts in Ladderedge Country Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The popular Blue Mugge in Leek is a nice place to go for some refreshments. It's a well priced traditional pub with good food and a decent selection of beers. There's also a small outdoor area partly undercover. You can find the pub on 17 Osborne St with a postcode of ST13 6LJ for your sat navs. Also of interest is the noteworthy Roebuck. Steeped in character and charm this historic pub dates from 1626. It's dog friendly and has a lovely outdoor seating area for warmer days. You can find it at 18 Derby Street with postcode ST13 5AB."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/u-761z4Ch4c",
+  "postcode": "ST13 7AB",
+  "district": "Staffordshire Moorlands",
+  "county": "Staffordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Leek Town 37, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 7AB, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "river valley",
+    "lake"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

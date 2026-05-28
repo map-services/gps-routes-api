@@ -1,131 +1,142 @@
 {
-    "created_at": "2025-01-06T04:46:25.814635+00:00",
-    "objectID": "f8e578e3eb31a56d96a412be96d17d38",
-    "ref": "snowdon-watkin-path-walking-route",
-    "title": "Snowdon Watkin Path Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Watkin_Path_-_Snowdon_-_geograph.org.uk_-_1721.jpg",
-    "nearby": [
-        {
-            "description": "Llyn Gwynant",
-            "objectID": "b67e64f2b29956504c8a3e11e232ec59",
-            "ref": "llyn-gwynant-walking-route"
-        },
-        {
-            "description": "Snowdon Horseshoe",
-            "objectID": "952ab42276ab0be63da4c1ffe289d1c4",
-            "ref": "snowdon-horseshoe-walking-route"
-        },
-        {
-            "description": "Snowdon Llanberis Path",
-            "objectID": "10a981b1a9ab8b8be3be12a89626d6ab",
-            "ref": "snowdon-llanberis-path-walking-route"
-        },
-        {
-            "description": "Snowdon Rhyd Ddu Path",
-            "objectID": "18e793e2335af4b7c306ea6f62091423",
-            "ref": "snowdon-rhyd-ddu-path-walking-route"
-        },
-        {
-            "description": "Snowdon Miners Track",
-            "objectID": "5d6c7a9eeb3827c76d53bed0072a2f2a",
-            "ref": "snowdon-miners-track-walking-route"
-        },
-        {
-            "description": "Snowdon Ranger Path",
-            "objectID": "781c269a5166c784d50b88e82f97e255",
-            "ref": "snowdon-ranger-path-walking-route"
-        },
-        {
-            "description": "Snowdon Pyg Track",
-            "objectID": "6346dc91ea811e80f7fbd6b982048ff7",
-            "ref": "snowdon-pyg-track-walking-route"
-        },
-        {
-            "description": "Llyn Llydaw",
-            "objectID": "30a90621b74b0ad439f0de940ab557bf",
-            "ref": "llyn-llydaw-walking-route"
-        },
-        {
-            "description": "Hafod Y Llan",
-            "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
-            "ref": "hafod-y-llan-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f8e578e3eb31a56d96a412be96d17d38.gpx",
-    "_geoloc": {
-        "lat": 53.0349427,
-        "lng": -4.0488907
+  "created_at": "2025-01-06T04:46:25.814635+00:00",
+  "objectID": "f8e578e3eb31a56d96a412be96d17d38",
+  "ref": "snowdon-watkin-path-walking-route",
+  "title": "Snowdon Watkin Path Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Watkin_Path_-_Snowdon_-_geograph.org.uk_-_1721.jpg",
+  "nearby": [
+    {
+      "description": "Llyn Gwynant",
+      "objectID": "b67e64f2b29956504c8a3e11e232ec59",
+      "ref": "llyn-gwynant-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Watkin_Path_-_Snowdon_-_geograph.org.uk_-_1721.jpg",
-            "title": "Subarite, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Watkin path lies to the SSE of Snowdon. This view shows Snowdon in the distance with a light coating of snow."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Waterfall_on_Afon_Cwm_Llan_-_Watkin_Path_Snowdon_-_geograph.org.uk_-_1254532.jpg",
-            "title": "Nick R / Waterfall on Afon Cwm Llan - Watkin Path Snowdon",
-            "caption": "Waterfall on Afon Cwm Llan. The river level was fairly high and this waterfall was spectacular."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Summit_of_Yr_Wyddfa_-_geograph.org.uk_-_1499504.jpg",
-            "title": "Stephen MARSDEN / Summit of Yr Wyddfa",
-            "caption": "The marker stone at the junction of the Watkin Path & Rhyd Ddu Path, just below the summit of Yr Wyddfa (Snowdon)(1085m). Taken from Bwlch Main. South side of the mountain."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/View_from_the_Watkin_Path_-_geograph.org.uk_-_1543063.jpg",
-            "title": "Jeff Buck / View from the Watkin Path",
-            "caption": "View from the path. Taken near the end of the walk looking along Bwlchysaethau. Llyn Llydaw can be seen on the left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Watkin_Path_and_Y_Lliwedd_-_geograph.org.uk_-_82626.jpg",
-            "title": "David Crocker / The Watkin Path and Y Lliwedd",
-            "caption": "Much of this sector covers the rough ground separating the eastern face of Snowdon and Y Lliwedd. The Watkin Path can be seen running diagonally across the ground and then veering right on its descent to Nant Gwynant. The continuation of the track onto Lliwedd forms the final high-level section of the Snowdon Horseshoe."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/View_from_the_Watkin_Path_-_geograph.org.uk_-_1543081.jpg",
-            "title": "Jeff Buck / View from the Watkin Path",
-            "caption": "Looking south west with Bwlch Main on the right."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/View_north_northeast_from_Bwlch_Ciliau_-_geograph.org.uk_-_660542.jpg",
-            "title": "Nigel Brown / View north northeast from Bwlch Ciliau",
-            "caption": "View north northeast from Bwlch Ciliau. Looking across to Crib Goch, with the scar of the Miners' Track clearly visible lower down, and the Glyders in the distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowded_Summit%2C_Snowdon_-_geograph.org.uk_-_1543212.jpg/500px-Crowded_Summit%2C_Snowdon_-_geograph.org.uk_-_1543212.jpg",
-            "title": "Jeff Buck / Crowded Summit, Snowdon",
-            "caption": "Crowded Summit. And this was a quiet day. It was a bit of a surprise to see so many people after the solitude of the path."
-        }
-    ],
-    "distance_km": 12.0,
-    "description": "The Watkin Path to the Snowdon summit is considered to be the most challenging of the available routes as it starts from the lowest elevation. It is, however, very pretty with attractive woodland and waterfalls near the start. You can start your walk from the good sized Nant Gwynant car park off the A498. Then if you head south over the Afon Glaslyn you will soon come to the start of the Watkin path on your right. You head north along the path, passing through woodland before a waterside stretch along the Afon Cwm Llan. You'll pass some lovely waterfalls before coming to the Gladstone Rock. The rock is dedicated to the Prime Minister William Gladstone, who opened the path in 1892. The path continues north from the rock with great views over the Glaslyn estuary and Llyn Glaslyn lake below. The next section from Bwlch y Saethau is quite challenging with a very steep incline and loose stones. Shortly after you reach the summit where you are rewarded with magnificent views towards Ireland, the Isle of Man and the Lake District. There's several other routes across Snowdon to try. If you would like to do a circular walk then the Snowdon Horseshoe is a good option. For a longer but less demanding climb try the Llanberis Path. The beautiful Llyn Gwynant and Llyn Dinas are also very close to the start of this route. You could visit these two lovely lakes from the same car park. You can virtually climb to the summit using the google street view link below!",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Hebog Cafe & Bistro is a great place to head for refreshments after your walk. The food is excellent and there's also a lovely river terrace to sit out and enjoy the surrounding mountainous scenery in the summer months. You can find it in the centre of Beddgelert on Caernarfon Road, with postcode LL55 4UY for your sat navs. Closer to the start point of the climb is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The waymarked Hafod Y Llan Walk also passes through the area. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/FxGevYoTYFc",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Watkin Path, Nantgwynant, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NH, United Kingdom",
-    "postcode": "LL55 4NH",
-    "district": "Beddgelert",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "hard",
-    "terrain": ["woodland", "water"],
-    "points_of_interest": ["waterfall", "viewpoint"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Snowdon Horseshoe",
+      "objectID": "952ab42276ab0be63da4c1ffe289d1c4",
+      "ref": "snowdon-horseshoe-walking-route"
+    },
+    {
+      "description": "Snowdon Llanberis Path",
+      "objectID": "10a981b1a9ab8b8be3be12a89626d6ab",
+      "ref": "snowdon-llanberis-path-walking-route"
+    },
+    {
+      "description": "Snowdon Rhyd Ddu Path",
+      "objectID": "18e793e2335af4b7c306ea6f62091423",
+      "ref": "snowdon-rhyd-ddu-path-walking-route"
+    },
+    {
+      "description": "Snowdon Miners Track",
+      "objectID": "5d6c7a9eeb3827c76d53bed0072a2f2a",
+      "ref": "snowdon-miners-track-walking-route"
+    },
+    {
+      "description": "Snowdon Ranger Path",
+      "objectID": "781c269a5166c784d50b88e82f97e255",
+      "ref": "snowdon-ranger-path-walking-route"
+    },
+    {
+      "description": "Snowdon Pyg Track",
+      "objectID": "6346dc91ea811e80f7fbd6b982048ff7",
+      "ref": "snowdon-pyg-track-walking-route"
+    },
+    {
+      "description": "Llyn Llydaw",
+      "objectID": "30a90621b74b0ad439f0de940ab557bf",
+      "ref": "llyn-llydaw-walking-route"
+    },
+    {
+      "description": "Hafod Y Llan",
+      "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
+      "ref": "hafod-y-llan-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f8e578e3eb31a56d96a412be96d17d38.gpx",
+  "_geoloc": {
+    "lat": 53.0349427,
+    "lng": -4.0488907
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Watkin_Path_-_Snowdon_-_geograph.org.uk_-_1721.jpg",
+      "title": "Subarite, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Watkin path lies to the SSE of Snowdon. This view shows Snowdon in the distance with a light coating of snow."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Waterfall_on_Afon_Cwm_Llan_-_Watkin_Path_Snowdon_-_geograph.org.uk_-_1254532.jpg",
+      "title": "Nick R / Waterfall on Afon Cwm Llan - Watkin Path Snowdon",
+      "caption": "Waterfall on Afon Cwm Llan. The river level was fairly high and this waterfall was spectacular."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Summit_of_Yr_Wyddfa_-_geograph.org.uk_-_1499504.jpg",
+      "title": "Stephen MARSDEN / Summit of Yr Wyddfa",
+      "caption": "The marker stone at the junction of the Watkin Path & Rhyd Ddu Path, just below the summit of Yr Wyddfa (Snowdon)(1085m). Taken from Bwlch Main. South side of the mountain."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/View_from_the_Watkin_Path_-_geograph.org.uk_-_1543063.jpg",
+      "title": "Jeff Buck / View from the Watkin Path",
+      "caption": "View from the path. Taken near the end of the walk looking along Bwlchysaethau. Llyn Llydaw can be seen on the left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Watkin_Path_and_Y_Lliwedd_-_geograph.org.uk_-_82626.jpg",
+      "title": "David Crocker / The Watkin Path and Y Lliwedd",
+      "caption": "Much of this sector covers the rough ground separating the eastern face of Snowdon and Y Lliwedd. The Watkin Path can be seen running diagonally across the ground and then veering right on its descent to Nant Gwynant. The continuation of the track onto Lliwedd forms the final high-level section of the Snowdon Horseshoe."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/View_from_the_Watkin_Path_-_geograph.org.uk_-_1543081.jpg",
+      "title": "Jeff Buck / View from the Watkin Path",
+      "caption": "Looking south west with Bwlch Main on the right."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/View_north_northeast_from_Bwlch_Ciliau_-_geograph.org.uk_-_660542.jpg",
+      "title": "Nigel Brown / View north northeast from Bwlch Ciliau",
+      "caption": "View north northeast from Bwlch Ciliau. Looking across to Crib Goch, with the scar of the Miners' Track clearly visible lower down, and the Glyders in the distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crowded_Summit%2C_Snowdon_-_geograph.org.uk_-_1543212.jpg/500px-Crowded_Summit%2C_Snowdon_-_geograph.org.uk_-_1543212.jpg",
+      "title": "Jeff Buck / Crowded Summit, Snowdon",
+      "caption": "Crowded Summit. And this was a quiet day. It was a bit of a surprise to see so many people after the solitude of the path."
+    }
+  ],
+  "distance_km": 12.0,
+  "description": "The Watkin Path to the Snowdon summit is considered to be the most challenging of the available routes as it starts from the lowest elevation. It is, however, very pretty with attractive woodland and waterfalls near the start. You can start your walk from the good sized Nant Gwynant car park off the A498. Then if you head south over the Afon Glaslyn you will soon come to the start of the Watkin path on your right. You head north along the path, passing through woodland before a waterside stretch along the Afon Cwm Llan. You'll pass some lovely waterfalls before coming to the Gladstone Rock. The rock is dedicated to the Prime Minister William Gladstone, who opened the path in 1892. The path continues north from the rock with great views over the Glaslyn estuary and Llyn Glaslyn lake below. The next section from Bwlch y Saethau is quite challenging with a very steep incline and loose stones. Shortly after you reach the summit where you are rewarded with magnificent views towards Ireland, the Isle of Man and the Lake District. There's several other routes across Snowdon to try. If you would like to do a circular walk then the Snowdon Horseshoe is a good option. For a longer but less demanding climb try the Llanberis Path. The beautiful Llyn Gwynant and Llyn Dinas are also very close to the start of this route. You could visit these two lovely lakes from the same car park. You can virtually climb to the summit using the google street view link below!",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Hebog Cafe & Bistro is a great place to head for refreshments after your walk. The food is excellent and there's also a lovely river terrace to sit out and enjoy the surrounding mountainous scenery in the summer months. You can find it in the centre of Beddgelert on Caernarfon Road, with postcode LL55 4UY for your sat navs. Closer to the start point of the climb is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The waymarked Hafod Y Llan Walk also passes through the area. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/FxGevYoTYFc",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Watkin Path, Nantgwynant, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NH, United Kingdom",
+  "postcode": "LL55 4NH",
+  "district": "Beddgelert",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }
