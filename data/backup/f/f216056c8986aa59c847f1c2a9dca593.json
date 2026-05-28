@@ -1,148 +1,135 @@
 {
-  "created_at": "2025-01-06T03:09:04.004255+00:00",
-  "objectID": "f216056c8986aa59c847f1c2a9dca593",
-  "ref": "maidstone-river-walk-walking-route",
-  "title": "Maidstone River Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Narrowboat_moored_on_the_River_Medway_-_geograph.org.uk_-_1510269.jpg",
-  "nearby": [
-    {
-      "description": "Medway Valley Walk",
-      "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
-      "ref": "medway-valley-walk-walking-route"
+    "created_at": "2025-01-06T03:09:04.004255+00:00",
+    "objectID": "f216056c8986aa59c847f1c2a9dca593",
+    "ref": "maidstone-river-walk-walking-route",
+    "title": "Maidstone River Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Narrowboat_moored_on_the_River_Medway_-_geograph.org.uk_-_1510269.jpg",
+    "nearby": [
+        {
+            "description": "Medway Valley Walk",
+            "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
+            "ref": "medway-valley-walk-walking-route"
+        },
+        {
+            "description": "Leybourne Lakes Country Park",
+            "objectID": "8b32e1bfeee2537065447b4f98b181ef",
+            "ref": "leybourne-lakes-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Leeds Castle Maidstone",
+            "objectID": "33e174abba2c24690d6c25591d84c0f7",
+            "ref": "leeds-castle-maidstone-walking-route"
+        },
+        {
+            "description": "Hollingbourne",
+            "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
+            "ref": "hollingbourne-walking-route"
+        },
+        {
+            "description": "North Downs Way",
+            "objectID": "158891488846dc8d1f43a5eb9e491778",
+            "ref": "north-downs-way-walking-route"
+        },
+        {
+            "description": "Boxley",
+            "objectID": "e37722f0b165c2cec70c1dcb0347f416",
+            "ref": "boxley-walking-route"
+        },
+        {
+            "description": "Bearsted Walk",
+            "objectID": "089ca0d6a3c84a936c06b0c8acc2bbad",
+            "ref": "bearsted-walking-route"
+        },
+        {
+            "description": "Hucking Estate",
+            "objectID": "2358b6b38412ef0aac27575165a1d8c0",
+            "ref": "hucking-estate-walking-route"
+        },
+        {
+            "description": "Sutton Valence",
+            "objectID": "4ce5fc5fef6f6b4b4e368f933ee1e5c5",
+            "ref": "sutton-valence-walks"
+        },
+        {
+            "description": "Allington Lock",
+            "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
+            "ref": "allington-lock-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f216056c8986aa59c847f1c2a9dca593.gpx",
+    "_geoloc": {
+        "lat": 51.2716428857,
+        "lng": 0.5174490662
     },
-    {
-      "description": "Leybourne Lakes Country Park",
-      "objectID": "8b32e1bfeee2537065447b4f98b181ef",
-      "ref": "leybourne-lakes-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Leeds Castle Maidstone",
-      "objectID": "33e174abba2c24690d6c25591d84c0f7",
-      "ref": "leeds-castle-maidstone-walking-route"
-    },
-    {
-      "description": "Hollingbourne",
-      "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
-      "ref": "hollingbourne-walking-route"
-    },
-    {
-      "description": "North Downs Way",
-      "objectID": "158891488846dc8d1f43a5eb9e491778",
-      "ref": "north-downs-way-walking-route"
-    },
-    {
-      "description": "Boxley",
-      "objectID": "e37722f0b165c2cec70c1dcb0347f416",
-      "ref": "boxley-walking-route"
-    },
-    {
-      "description": "Bearsted Walk",
-      "objectID": "089ca0d6a3c84a936c06b0c8acc2bbad",
-      "ref": "bearsted-walking-route"
-    },
-    {
-      "description": "Hucking Estate",
-      "objectID": "2358b6b38412ef0aac27575165a1d8c0",
-      "ref": "hucking-estate-walking-route"
-    },
-    {
-      "description": "Sutton Valence",
-      "objectID": "4ce5fc5fef6f6b4b4e368f933ee1e5c5",
-      "ref": "sutton-valence-walks"
-    },
-    {
-      "description": "Allington Lock",
-      "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
-      "ref": "allington-lock-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f216056c8986aa59c847f1c2a9dca593.gpx",
-  "_geoloc": {
-    "lat": 51.2716428857,
-    "lng": 0.5174490662
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Narrowboat_moored_on_the_River_Medway_-_geograph.org.uk_-_1510269.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Narrowboat moored on the River Medway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/A_working_narrowboat_passes_new_flats_in_Maidstone_-_geograph.org.uk_-_1510272.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "A working narrowboat passes new flats in Maidstone"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bench_by_the_Medway_Valley_Walk_-_geograph.org.uk_-_1512645.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Bench by the Medway Valley Walk"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fishermen_by_the_River_Medway_-_geograph.org.uk_-_1512617.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Fishermen by the River Medway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Boats_on_River_Medway_at_Sandling_-_geograph.org.uk_-_1354220.jpg",
-      "title": "Oast House Archive / Boats on River Medway at Sandling",
-      "caption": "Boats on River Medway at Sandling"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_old_bridge%2C_Aylesford%2C_viewed_from_the_footpath_-_geograph.org.uk_-_740000.jpg",
-      "title": "pam fray / The old bridge, Aylesford, viewed from the footpath",
-      "caption": "The old bridge, Aylesford, viewed from the footpath"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Friars%2C_Aylesford_Priory_from_footpath_-_geograph.org.uk_-_1097289.jpg",
-      "title": "David Anstiss [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "The Friars, Aylesford Priory from footpath"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leybourne_Lakes_Country_Park_-_geograph.org.uk_-_665697.jpg",
-      "title": "Richard Dorrell / Leybourne Lakes Country Park",
-      "caption": "Leybourne Lakes Country Park"
-    }
-  ],
-  "distance_km": 9.7,
-  "description": "A nice riverside walk along the Medway from Maidstone to Leybourne Lakes Country Park. It's a lovely section of the river, passing a number of interesting villages. The route follows a section of the Medway Valley Walk long distance trail. The walk starts on St Peter's Bridge and heads north to Ringlestone, passing the Gallagher Stadium, home to Maidstone United F.C. The river bends round to the village of Aylesford. Here you cross the river and follow it round to New Hythe and Leybourne Lakes in Snodland. In the park you will find 230 acres of lakes and woodland providing a peaceful location for wildlife and birdwatching. After exploring the park you can catch the train back to Maidstone from New Hythe.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Aylesford the historic Chequers is a pub of some note. It's the oldest pub in the village, dating all the way back to 1511. It's set in a Grade II listed timber framed, former wool merchants house. The pub is located in a lovely spot with views of the old bridge from the riverside garden area in the back. You can find them on the High Street at postcode ME20 7AY for your sat navs. They are dog friendly if you have your canine friend with you. Next to the lakes in Snodland there's the Freemasons Arms. The pub dates to 1753 and serves good quality dishes. They have an excellent outdoor area with a covered Pergola and patio area which can accommodate seating for over one hundred customers. You can find them at 267 Malling Road, Snodland, ME6 5JR. They have a large car park and are also dog friendly. Snodland is also a nice place for a stroll with its Tudor Mulberry Cottages on the High Street and an ancient church dating to the 12th century. Our walk from the train station in the town visits the Holborough Marshes Nature Reserve where you can look out for a wide variety of wildlife next to the River Medway."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To continue your walking around Maidstone head west to visit the interesting town of West Malling and Manor Park Country Park. There's fields, wildflower meadows and a pretty lake with lots of birds to see here. Also nearby is the splendid Leybourne Lakes Country Park. Here you'll find 230 acres of lakes and woodland providing a peaceful location for wildlife and birdwatching. Near the town you can pick up the circular Aylesford Walk. This route starts from the attractive village and takes you along both sides of the river. It also visits several interesting historical sites including Allington Castle, Allington Lock, the Museum of Kent Life and Aylesford Priory. On the northern side of the town there's the lovely village of Boxley to visit. Here you'll find the noteworthy Boxley Warren Nature Reserve and the remains of the 12th century Boxley Abbey. To the east you can enjoy walks along the North Downs Way around the worthy village of Hollingbourne. The historic village includes over a hundred listed buildings including some fine timber framed structures on Eyhorne Street and the noteworthy All Saints Church which dates from the 14th century. There's also a splendid 11th century pub to investigate after your exercise. Just to the north of here there's also the lovely Hucking Estate which includes a Norman church, a waymarked sculpture trail and another fine country pub at the north western end. Just to the east there's the circular Bearsted Walk which visits the ruins of the 12th century Thurnham Castle in White Horse Wood Country Park. The village is also worth a visit with a nice village green, a 13th century church, a conservation area with many historic listed buildings and a 17th century pub to see. For more walking ideas in the area see the Kent Walks and North Downs Walks pages."
-    }
-  ],
-  "district": "Maidstone",
-  "county": "Kent",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Broadway, Maidstone, Kent, England, ME16 8PB, United Kingdom",
-  "postcode": "ME16 8PB",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "riverine",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "nature reserve"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Narrowboat_moored_on_the_River_Medway_-_geograph.org.uk_-_1510269.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Narrowboat moored on the River Medway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/A_working_narrowboat_passes_new_flats_in_Maidstone_-_geograph.org.uk_-_1510272.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "A working narrowboat passes new flats in Maidstone"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bench_by_the_Medway_Valley_Walk_-_geograph.org.uk_-_1512645.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Bench by the Medway Valley Walk"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fishermen_by_the_River_Medway_-_geograph.org.uk_-_1512617.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Fishermen by the River Medway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Boats_on_River_Medway_at_Sandling_-_geograph.org.uk_-_1354220.jpg",
+            "title": "Oast House Archive / Boats on River Medway at Sandling",
+            "caption": "Boats on River Medway at Sandling"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_old_bridge%2C_Aylesford%2C_viewed_from_the_footpath_-_geograph.org.uk_-_740000.jpg",
+            "title": "pam fray / The old bridge, Aylesford, viewed from the footpath",
+            "caption": "The old bridge, Aylesford, viewed from the footpath"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Friars%2C_Aylesford_Priory_from_footpath_-_geograph.org.uk_-_1097289.jpg",
+            "title": "David Anstiss [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "The Friars, Aylesford Priory from footpath"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leybourne_Lakes_Country_Park_-_geograph.org.uk_-_665697.jpg",
+            "title": "Richard Dorrell / Leybourne Lakes Country Park",
+            "caption": "Leybourne Lakes Country Park"
+        }
+    ],
+    "distance_km": 9.7,
+    "description": "A nice riverside walk along the Medway from Maidstone to Leybourne Lakes Country Park. It's a lovely section of the river, passing a number of interesting villages. The route follows a section of the Medway Valley Walk long distance trail. The walk starts on St Peter's Bridge and heads north to Ringlestone, passing the Gallagher Stadium, home to Maidstone United F.C. The river bends round to the village of Aylesford. Here you cross the river and follow it round to New Hythe and Leybourne Lakes in Snodland. In the park you will find 230 acres of lakes and woodland providing a peaceful location for wildlife and birdwatching. After exploring the park you can catch the train back to Maidstone from New Hythe.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Aylesford the historic Chequers is a pub of some note. It's the oldest pub in the village, dating all the way back to 1511. It's set in a Grade II listed timber framed, former wool merchants house. The pub is located in a lovely spot with views of the old bridge from the riverside garden area in the back. You can find them on the High Street at postcode ME20 7AY for your sat navs. They are dog friendly if you have your canine friend with you. Next to the lakes in Snodland there's the Freemasons Arms. The pub dates to 1753 and serves good quality dishes. They have an excellent outdoor area with a covered Pergola and patio area which can accommodate seating for over one hundred customers. You can find them at 267 Malling Road, Snodland, ME6 5JR. They have a large car park and are also dog friendly. Snodland is also a nice place for a stroll with its Tudor Mulberry Cottages on the High Street and an ancient church dating to the 12th century. Our walk from the train station in the town visits the Holborough Marshes Nature Reserve where you can look out for a wide variety of wildlife next to the River Medway."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To continue your walking around Maidstone head west to visit the interesting town of West Malling and Manor Park Country Park. There's fields, wildflower meadows and a pretty lake with lots of birds to see here. Also nearby is the splendid Leybourne Lakes Country Park. Here you'll find 230 acres of lakes and woodland providing a peaceful location for wildlife and birdwatching. Near the town you can pick up the circular Aylesford Walk. This route starts from the attractive village and takes you along both sides of the river. It also visits several interesting historical sites including Allington Castle, Allington Lock, the Museum of Kent Life and Aylesford Priory. On the northern side of the town there's the lovely village of Boxley to visit. Here you'll find the noteworthy Boxley Warren Nature Reserve and the remains of the 12th century Boxley Abbey. To the east you can enjoy walks along the North Downs Way around the worthy village of Hollingbourne. The historic village includes over a hundred listed buildings including some fine timber framed structures on Eyhorne Street and the noteworthy All Saints Church which dates from the 14th century. There's also a splendid 11th century pub to investigate after your exercise. Just to the north of here there's also the lovely Hucking Estate which includes a Norman church, a waymarked sculpture trail and another fine country pub at the north western end. Just to the east there's the circular Bearsted Walk which visits the ruins of the 12th century Thurnham Castle in White Horse Wood Country Park. The village is also worth a visit with a nice village green, a 13th century church, a conservation area with many historic listed buildings and a 17th century pub to see. For more walking ideas in the area see the Kent Walks and North Downs Walks pages."
+        }
+    ],
+    "district": "Maidstone",
+    "county": "Kent",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Broadway, Maidstone, Kent, England, ME16 8PB, United Kingdom",
+    "postcode": "ME16 8PB",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "easy",
+    "terrain": ["riverine", "woodland"],
+    "points_of_interest": ["historical site", "nature reserve"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching"]
 }

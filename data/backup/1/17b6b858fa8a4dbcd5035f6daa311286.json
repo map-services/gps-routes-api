@@ -1,152 +1,135 @@
 {
-  "created_at": "2025-01-06T01:40:17.301519+00:00",
-  "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
-  "ref": "dunwich-forest-walking-route",
-  "title": "Dunwich Forest Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
-  "nearby": [
-    {
-      "description": "Dunwich Heath",
-      "objectID": "2d24a7501d7d2338cbe113f0e2764951",
-      "ref": "dunwich-heath-walking-route"
+    "created_at": "2025-01-06T01:40:17.301519+00:00",
+    "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
+    "ref": "dunwich-forest-walking-route",
+    "title": "Dunwich Forest Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
+    "nearby": [
+        {
+            "description": "Dunwich Heath",
+            "objectID": "2d24a7501d7d2338cbe113f0e2764951",
+            "ref": "dunwich-heath-walking-route"
+        },
+        {
+            "description": "Suffolk Coast Path",
+            "objectID": "0e29c3db92e53d17066c601df86904be",
+            "ref": "suffolk-coast-path-walking-route"
+        },
+        {
+            "description": "Sandlings Walk",
+            "objectID": "6e283556dac10952906de5016af23b09",
+            "ref": "sandlings-walk-walking-route"
+        },
+        {
+            "description": "Minsmere Nature Reserve",
+            "objectID": "c3ba9ede0d780da672e3e56f5a171339",
+            "ref": "minsmere-nature-reserve-walking-route"
+        },
+        {
+            "description": "Southwold",
+            "objectID": "c1df1439d6a34052643520ae577ba499",
+            "ref": "southwold-walking-route"
+        },
+        {
+            "description": "Suffolk Coast National Nature Reserve",
+            "objectID": "6cd7b4fca5d3d64c4a65ae4213663640",
+            "ref": "suffolk-coast-national-nature-reserve-walking-route"
+        },
+        {
+            "description": "Dunwich to Walberswick Walk",
+            "objectID": "21298f9b673330217ca5ef8ccfc8a9ac",
+            "ref": "dunwich-to-walberswick-walk-walking-route"
+        },
+        {
+            "description": "Blythburgh",
+            "objectID": "c7a528f3464dda16a82036b0a18245e7",
+            "ref": "blythburgh-walking-route"
+        },
+        {
+            "description": "Westleton",
+            "objectID": "42788000f6b9a7b0a58ccc6986d78bbe",
+            "ref": "westleton-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17b6b858fa8a4dbcd5035f6daa311286.gpx",
+    "_geoloc": {
+        "lat": 52.2782354351,
+        "lng": 1.6253573578
     },
-    {
-      "description": "Suffolk Coast Path",
-      "objectID": "0e29c3db92e53d17066c601df86904be",
-      "ref": "suffolk-coast-path-walking-route"
-    },
-    {
-      "description": "Sandlings Walk",
-      "objectID": "6e283556dac10952906de5016af23b09",
-      "ref": "sandlings-walk-walking-route"
-    },
-    {
-      "description": "Minsmere Nature Reserve",
-      "objectID": "c3ba9ede0d780da672e3e56f5a171339",
-      "ref": "minsmere-nature-reserve-walking-route"
-    },
-    {
-      "description": "Southwold",
-      "objectID": "c1df1439d6a34052643520ae577ba499",
-      "ref": "southwold-walking-route"
-    },
-    {
-      "description": "Suffolk Coast National Nature Reserve",
-      "objectID": "6cd7b4fca5d3d64c4a65ae4213663640",
-      "ref": "suffolk-coast-national-nature-reserve-walking-route"
-    },
-    {
-      "description": "Dunwich to Walberswick Walk",
-      "objectID": "21298f9b673330217ca5ef8ccfc8a9ac",
-      "ref": "dunwich-to-walberswick-walk-walking-route"
-    },
-    {
-      "description": "Blythburgh",
-      "objectID": "c7a528f3464dda16a82036b0a18245e7",
-      "ref": "blythburgh-walking-route"
-    },
-    {
-      "description": "Westleton",
-      "objectID": "42788000f6b9a7b0a58ccc6986d78bbe",
-      "ref": "westleton-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17b6b858fa8a4dbcd5035f6daa311286.gpx",
-  "_geoloc": {
-    "lat": 52.2782354351,
-    "lng": 1.6253573578
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
-      "title": "Stephen McKay / Dunwich Forest, via Wikimedia Commons",
-      "caption": "Forestry Commission land off the Westleton - Dunwich road."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_depths_of_Dunwich_Forest_-_geograph.org.uk_-_432357.jpg",
-      "title": "Trevor Alder / The depths of Dunwich Forest, via Wikimedia Commons",
-      "caption": "The depths of the forest. Looking deep into Dunwich Forest, popular with folk walking their dogs. The gate is to stop vehicular access, as there are many Byways and RUPPS in the area that 4x4s can travel along, this has public footpath status."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
-      "title": "Stephen McKay / Dunwich Forest",
-      "caption": "Clearing in the woods. Forestry Commission land off the Westleton - Dunwich road."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dingle_marsh_and_Dunwich_Forest_-_geograph.org.uk_-_274585.jpg",
-      "title": "Simon Leatherdale / Dingle marsh and Dunwich Forest",
-      "caption": "Dingle marsh and Dunwich Forest. This shot shows the marsh after being inundated by salt water due to a breach of the shingle bank - an increasingly common event."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Westleton_Heath_in_mid-September_-_geograph.org.uk_-_2067968.jpg/330px-Westleton_Heath_in_mid-September_-_geograph.org.uk_-_2067968.jpg",
-      "title": "Westleton Heath in mid-September by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Westleton Heath in autumn. Located on the southern side of the forest."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Car_park_in_Dunwich_Forest_-_geograph.org.uk_-_3023838.jpg",
-      "title": "Car park in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "A view of the Car park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Marshland_beside_Dunwich_River_-_geograph.org.uk_-_3023936.jpg",
-      "title": "Marshland beside Dunwich River by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Marshland beside Dunwich River on the eastern side of the forest."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068214.jpg/330px-Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068214.jpg",
-      "title": "Dartmoor pony in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Dartmoor pony"
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This large forest is located in the Suffolk Coasts and Heaths Area of Outstanding Natural Beauty in the village of Dunwich. There are miles of peaceful woodland walking trails and lovely conservation areas of marshland and wetland adjacent to the woodland. This 5 mile circular walk starts at Dunwich village car park and takes you into the forest on the Suffolk Coast Path. You then follow a series of well defined trails through the coniferous and broadleaved woodland before returning to the village. At the northern end of the forest you will find the delightful Westwood Marshes and Walberswick Nature Reserve where there are excellent birdwatching opportunities. Also look out for the Dunwich ponies in the woodland area. If you follow the Suffolk Coast Path south you will soon come to the wonderful Minsmere Nature Reserve. This coastal nature reserve is considered one of the best sites in the country for birdwatching. Just to the south you'll find the lovely National Trust owned Dunwich Heath. There's miles of footpaths through beautiful purple heathland and coastal views along the pretty Dunwich beach. Also nearby is the pretty town of Southwold where you can try our circular walk around the town and along the River Blyth to Walberswick. The forest is also part of the Suffolk Coast National Nature Reserve. It includes waymarked trails taking you to heathland, reed beds, grassland, woodlands, shingle, lagoons, mudflats and the salt marshes of the Blyth estuary.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Dunwich you could enjoy some post walk refreshments at the Ship Inn. Once a haunt of smugglers, The Ship at Dunwich, is nestled in between Southwold and Aldeburgh. On colder days there's a nice cosy fire indoors, while in the summer there's a nice outdoor area with fruit trees. The pub also does accommodation if you need to stay over. You can find it in the little village on St James's St, with a postoce of IP17 3DT for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The woodland paths are ideal for a long dog walk and you will likely see plenty of other dog owners on your outing. If you have time you could also head to Dunwich Beach which is another great place to take the pooch. The National Trust tea room at Dunwich Heath and the Ship Inn mentioned above are also very dog friendly. They've even created a special package that incorporates some thoughtful gifts for their four-legged guests. This package includes a cosy blanket, water bowl and treats!"
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The Dunwich to Walberswick Walk skirts the edge of the forest and is a good option for continuing your exercise. The 7 mile circular walk visits Walberswick before returning along the beach. The circular Blythburgh Walk starts at the nearby village and visits the Westwood Marshes and the forest. The village is located just to the north of the forest and includes trails along the River Blyth and a noteworthy 14th century church which is lit at night. There's also a notable 16th century pub with an excellent garden area overlooking the estuary. If you followed the Blyth river west from the settlement you will soon come to the neighbouring town of Halesworth. This town has some interesting history with a walk down the central Thoroughfare highly recommended. The pedestrianised area includes many buildings dating back to the sixteenth century. The circular Westleton Walk skirts the edge of the forest. It visits the adjacent Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. For more walking ideas in the area see the Suffolk Coast and Heaths Walks and the Suffolk Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/BVGWsHnPnyk",
-  "district": "East Suffolk",
-  "county": "Suffolk",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Sandy Lane, Dunwich, East Suffolk, Suffolk, England, IP17 3DY, United Kingdom",
-  "postcode": "IP17 3DY",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "marshland",
-    "wetland",
-    "heathland",
-    "coastal"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "beach"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
+            "title": "Stephen McKay / Dunwich Forest, via Wikimedia Commons",
+            "caption": "Forestry Commission land off the Westleton - Dunwich road."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_depths_of_Dunwich_Forest_-_geograph.org.uk_-_432357.jpg",
+            "title": "Trevor Alder / The depths of Dunwich Forest, via Wikimedia Commons",
+            "caption": "The depths of the forest. Looking deep into Dunwich Forest, popular with folk walking their dogs. The gate is to stop vehicular access, as there are many Byways and RUPPS in the area that 4x4s can travel along, this has public footpath status."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dunwich_Forest_-_geograph.org.uk_-_178217.jpg",
+            "title": "Stephen McKay / Dunwich Forest",
+            "caption": "Clearing in the woods. Forestry Commission land off the Westleton - Dunwich road."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dingle_marsh_and_Dunwich_Forest_-_geograph.org.uk_-_274585.jpg",
+            "title": "Simon Leatherdale / Dingle marsh and Dunwich Forest",
+            "caption": "Dingle marsh and Dunwich Forest. This shot shows the marsh after being inundated by salt water due to a breach of the shingle bank - an increasingly common event."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Westleton_Heath_in_mid-September_-_geograph.org.uk_-_2067968.jpg/330px-Westleton_Heath_in_mid-September_-_geograph.org.uk_-_2067968.jpg",
+            "title": "Westleton Heath in mid-September by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Westleton Heath in autumn. Located on the southern side of the forest."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Car_park_in_Dunwich_Forest_-_geograph.org.uk_-_3023838.jpg",
+            "title": "Car park in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "A view of the Car park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Marshland_beside_Dunwich_River_-_geograph.org.uk_-_3023936.jpg",
+            "title": "Marshland beside Dunwich River by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Marshland beside Dunwich River on the eastern side of the forest."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068214.jpg/330px-Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068214.jpg",
+            "title": "Dartmoor pony in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Dartmoor pony"
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This large forest is located in the Suffolk Coasts and Heaths Area of Outstanding Natural Beauty in the village of Dunwich. There are miles of peaceful woodland walking trails and lovely conservation areas of marshland and wetland adjacent to the woodland. This 5 mile circular walk starts at Dunwich village car park and takes you into the forest on the Suffolk Coast Path. You then follow a series of well defined trails through the coniferous and broadleaved woodland before returning to the village. At the northern end of the forest you will find the delightful Westwood Marshes and Walberswick Nature Reserve where there are excellent birdwatching opportunities. Also look out for the Dunwich ponies in the woodland area. If you follow the Suffolk Coast Path south you will soon come to the wonderful Minsmere Nature Reserve. This coastal nature reserve is considered one of the best sites in the country for birdwatching. Just to the south you'll find the lovely National Trust owned Dunwich Heath. There's miles of footpaths through beautiful purple heathland and coastal views along the pretty Dunwich beach. Also nearby is the pretty town of Southwold where you can try our circular walk around the town and along the River Blyth to Walberswick. The forest is also part of the Suffolk Coast National Nature Reserve. It includes waymarked trails taking you to heathland, reed beds, grassland, woodlands, shingle, lagoons, mudflats and the salt marshes of the Blyth estuary.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Dunwich you could enjoy some post walk refreshments at the Ship Inn. Once a haunt of smugglers, The Ship at Dunwich, is nestled in between Southwold and Aldeburgh. On colder days there's a nice cosy fire indoors, while in the summer there's a nice outdoor area with fruit trees. The pub also does accommodation if you need to stay over. You can find it in the little village on St James's St, with a postoce of IP17 3DT for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The woodland paths are ideal for a long dog walk and you will likely see plenty of other dog owners on your outing. If you have time you could also head to Dunwich Beach which is another great place to take the pooch. The National Trust tea room at Dunwich Heath and the Ship Inn mentioned above are also very dog friendly. They've even created a special package that incorporates some thoughtful gifts for their four-legged guests. This package includes a cosy blanket, water bowl and treats!"
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The Dunwich to Walberswick Walk skirts the edge of the forest and is a good option for continuing your exercise. The 7 mile circular walk visits Walberswick before returning along the beach. The circular Blythburgh Walk starts at the nearby village and visits the Westwood Marshes and the forest. The village is located just to the north of the forest and includes trails along the River Blyth and a noteworthy 14th century church which is lit at night. There's also a notable 16th century pub with an excellent garden area overlooking the estuary. If you followed the Blyth river west from the settlement you will soon come to the neighbouring town of Halesworth. This town has some interesting history with a walk down the central Thoroughfare highly recommended. The pedestrianised area includes many buildings dating back to the sixteenth century. The circular Westleton Walk skirts the edge of the forest. It visits the adjacent Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. For more walking ideas in the area see the Suffolk Coast and Heaths Walks and the Suffolk Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/BVGWsHnPnyk",
+    "district": "East Suffolk",
+    "county": "Suffolk",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Sandy Lane, Dunwich, East Suffolk, Suffolk, England, IP17 3DY, United Kingdom",
+    "postcode": "IP17 3DY",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland", "marshland", "wetland", "heathland", "coastal"],
+    "points_of_interest": ["nature reserve", "beach"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching", "dog walking"]
 }

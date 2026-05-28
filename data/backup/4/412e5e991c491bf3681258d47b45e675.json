@@ -1,142 +1,130 @@
 {
-  "created_at": "2025-01-06T00:06:58.672235+00:00",
-  "objectID": "412e5e991c491bf3681258d47b45e675",
-  "ref": "brewood-canal-walk-walking-route",
-  "title": "Brewood Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brewood_Bridge_across_the_Shropshire_Union_Canal%2C_Staffordshire_-_geograph.org.uk_-_1344225.jpg",
-  "nearby": [
-    {
-      "description": "Shropshire Union Canal",
-      "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
-      "ref": "shropshire-union-canal-walking-route"
+    "created_at": "2025-01-06T00:06:58.672235+00:00",
+    "objectID": "412e5e991c491bf3681258d47b45e675",
+    "ref": "brewood-canal-walk-walking-route",
+    "title": "Brewood Canal Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brewood_Bridge_across_the_Shropshire_Union_Canal%2C_Staffordshire_-_geograph.org.uk_-_1344225.jpg",
+    "nearby": [
+        {
+            "description": "Shropshire Union Canal",
+            "objectID": "d286ea892666d94e0e1ac40b769ac8f3",
+            "ref": "shropshire-union-canal-walking-route"
+        },
+        {
+            "description": "Belvide Reservoir",
+            "objectID": "f32e6b466f2e7d294dbf239a15f8a63b",
+            "ref": "belvide-reservoir-walking-route"
+        },
+        {
+            "description": "Staffordshire Way",
+            "objectID": "0f4ae85e999427bc5e24f5738eb8e2d1",
+            "ref": "staffordshire-way-walking-route"
+        },
+        {
+            "description": "Wolverhampton Canal Walk",
+            "objectID": "53c744dbeac3d1f9c3d9776a16d46b1f",
+            "ref": "wolverhampton-canal-walk-walking-route"
+        },
+        {
+            "description": "Aqualate Mere",
+            "objectID": "9c23cf26ed85fb2b9f2332645506186d",
+            "ref": "aqualate-mere-walking-route"
+        },
+        {
+            "description": "Staffordshire and Worcestershire Canal",
+            "objectID": "7b73e095a9e82ad1e47bcabf38c25232",
+            "ref": "staffordshire-and-worcestershire-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Codsall",
+            "objectID": "25b7bbbdb098c57d915f4d385199f375",
+            "ref": "codsall-walking-route"
+        },
+        {
+            "description": "Weston Park",
+            "objectID": "a08d799d11e5cc0620ae6e9733b06df0",
+            "ref": "weston-park-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/412e5e991c491bf3681258d47b45e675.gpx",
+    "_geoloc": {
+        "lat": 52.6780780988,
+        "lng": -2.1794046099
     },
-    {
-      "description": "Belvide Reservoir",
-      "objectID": "f32e6b466f2e7d294dbf239a15f8a63b",
-      "ref": "belvide-reservoir-walking-route"
-    },
-    {
-      "description": "Staffordshire Way",
-      "objectID": "0f4ae85e999427bc5e24f5738eb8e2d1",
-      "ref": "staffordshire-way-walking-route"
-    },
-    {
-      "description": "Wolverhampton Canal Walk",
-      "objectID": "53c744dbeac3d1f9c3d9776a16d46b1f",
-      "ref": "wolverhampton-canal-walk-walking-route"
-    },
-    {
-      "description": "Aqualate Mere",
-      "objectID": "9c23cf26ed85fb2b9f2332645506186d",
-      "ref": "aqualate-mere-walking-route"
-    },
-    {
-      "description": "Staffordshire and Worcestershire Canal",
-      "objectID": "7b73e095a9e82ad1e47bcabf38c25232",
-      "ref": "staffordshire-and-worcestershire-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Codsall",
-      "objectID": "25b7bbbdb098c57d915f4d385199f375",
-      "ref": "codsall-walking-route"
-    },
-    {
-      "description": "Weston Park",
-      "objectID": "a08d799d11e5cc0620ae6e9733b06df0",
-      "ref": "weston-park-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/412e5e991c491bf3681258d47b45e675.gpx",
-  "_geoloc": {
-    "lat": 52.6780780988,
-    "lng": -2.1794046099
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brewood_Bridge_across_the_Shropshire_Union_Canal%2C_Staffordshire_-_geograph.org.uk_-_1344225.jpg",
-      "title": "Roger Kidd / Brewood Bridge across the Shropshire Union Canal, Staffordshire",
-      "caption": "Brewood Bridge across the Shropshire Union Canal, Staffordshire Bridge No 14, counting from Autherley Junction."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Shropshire_Union_Canal%2C_near_Brewood_-_geograph.org.uk_-_517618.jpg",
-      "title": "Stephen McKay / Shropshire Union Canal, near Brewood",
-      "caption": "Shropshire Union Canal, near Brewood. A group of artists can be seen sketching this delightful canal scene on the opposite bank."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Eskew_Bridge_at_Shutt_Green%2C_Staffordshire_-_geograph.org.uk_-_1374552.jpg",
-      "title": "Roger Kidd / Eskew Bridge at Shutt Green, Staffordshire",
-      "caption": "Calm reflections at Brewood Wharf. This peaceful spot on the Shropshire Union Canal is the home of Countrywide Cruisers, a boat hire company."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Brewood_Wharf_-_geograph.org.uk_-_517613.jpg",
-      "title": "Stephen McKay / Brewood Wharf",
-      "caption": "Eskew Bridge at Shutt Green, Staffordshire Bridge No 15 on the Shropshire Union Canal, which crosses at an angle of about 50 degrees, rather than the usual 90 - hence its name. Broomhall Bridge, No 16 can be seen through the arch."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Belvide_Reservoir_-_geograph.org.uk_-_622007.jpg",
-      "title": "Gordon Griffiths / Belvide Reservoir",
-      "caption": "Belvide Reservoir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chillington_Hall._-_geograph.org.uk_-_623839.jpg",
-      "title": "Paul Beaman / Chillington Hall.",
-      "caption": "Chillington Hall. A view along the upper Avenue."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Shropshire_Union_Canal_at_Brewood%2C_Staffordshire_-_geograph.org.uk_-_1392275.jpg",
-      "title": "Roger Kidd / Shropshire Union Canal at Brewood, Staffordshire",
-      "caption": "Shropshire Union Canal at Brewood, Staffordshire in May 2009. There are good moorings here at Brewood, though it is a popular pleasant village with good pubs, so the moorings can be fully used in popular times in the summer. Brewood Bridge (No 14) can be seen ahead. The canal was built by Thomas Telford. He started work in 1826 and the canal opened in 1835, shortly after his death. He attempted to minimise the distance by adopting straight lines wherever possible, so his canal includes many long embankments, and cuttings (as here at Brewood). It was persistent collapse and other construction difficulties at the massive mile long embankment at Shelmore (ten miles north-west of here) that caused the delay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Bridge_Inn%2C_Brewood_-_geograph.org.uk_-_1805278.jpg/500px-The_Bridge_Inn%2C_Brewood_-_geograph.org.uk_-_1805278.jpg",
-      "title": "John Lord / The Bridge Inn, Brewood",
-      "caption": "The Bridge Inn, Brewood"
-    }
-  ],
-  "distance_km": 14.0,
-  "description": "This circular walk from Brewood takes you along a section of the Shropshire Union Canal towards Wheaton Aston before heading through the countryside to visit the pretty Belvide Reservoir and the historic Chillington Hall. The walk starts on the canal on the western side of the town, next to Brewood Bridge. From here you head north passing Shutt Green and Broomhall Bridge. At Lapley Wood Farm you leave the canal to head south west to Belvide Reservoir. You can follow footpaths along the western side of the water which is a great place for birdwatching. The route continues south past Kiddermore Green and Hungary Hill Farm to Chillington Hall. This Georgian country house has some fine walks around the Capability Brown landscaped park and lake. After passing the hall the route picks up the Staffordshire Way and follows it north east back to Dean's Hall Bridge on the canal. From here it is a short waterside stroll back into Brewood.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Bridge Inn is conveniently located right next to the canal at the start/finish to the walk. The pub has a good menu and a nice outdoor seating area to relax in on warmer days. You can find it at postcode ST19 9BD for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The area is great for dog walking and the Bridge Inn mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head south from the village and you can try the Wolverhampton Canal Walk along the Birmingham Canal. You can also pick up the Staffordshire and Worcestershire Canal in this area. Just to the south west of the city you can pick up the circular Wombourne Railway Walk which takes you along a section of the old Wolverhampton to Dudley railway line before visiting the pretty Bratch Locks on the Staffordshire and Worcestershire Canal. This route forms part of the longer South Staffordshire Railway Walk which runs from Wolverhampton's Aldersley Stadium to Pensett. The circular Codsall Walk can be picked up just to the south west of the town. The noteworthy Weston Park is located just west of Belvide Reservoir and north west of Chillington Hall. There's more than 1000 acres of landscaped parkland surrounding this 17th century country mansion. To the north there's the lovely Aqualate Mere to explore. There's a pleasant waterside path to pick up at this large, scenic lake. The site is one of the area's highlights and notable as the largest natural lake in the English Midlands. Just to the west of here there's the interesting market town of Newport where you can enjoy another waterside stroll along the old Newport Canal. For more walking ideas around Brewood see the Staffordshire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/58CkNAxLfwg",
-  "district": "South Staffordshire",
-  "county": "Staffordshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Wharf Lane, Brewood and Coven, Brewood, South Staffordshire, Staffordshire, England, ST19 9BG, United Kingdom",
-  "postcode": "ST19 9BG",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
-  "terrain": [
-    "canal",
-    "countryside"
-  ],
-  "points_of_interest": [
-    "reservoir",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brewood_Bridge_across_the_Shropshire_Union_Canal%2C_Staffordshire_-_geograph.org.uk_-_1344225.jpg",
+            "title": "Roger Kidd / Brewood Bridge across the Shropshire Union Canal, Staffordshire",
+            "caption": "Brewood Bridge across the Shropshire Union Canal, Staffordshire Bridge No 14, counting from Autherley Junction."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Shropshire_Union_Canal%2C_near_Brewood_-_geograph.org.uk_-_517618.jpg",
+            "title": "Stephen McKay / Shropshire Union Canal, near Brewood",
+            "caption": "Shropshire Union Canal, near Brewood. A group of artists can be seen sketching this delightful canal scene on the opposite bank."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Eskew_Bridge_at_Shutt_Green%2C_Staffordshire_-_geograph.org.uk_-_1374552.jpg",
+            "title": "Roger Kidd / Eskew Bridge at Shutt Green, Staffordshire",
+            "caption": "Calm reflections at Brewood Wharf. This peaceful spot on the Shropshire Union Canal is the home of Countrywide Cruisers, a boat hire company."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Brewood_Wharf_-_geograph.org.uk_-_517613.jpg",
+            "title": "Stephen McKay / Brewood Wharf",
+            "caption": "Eskew Bridge at Shutt Green, Staffordshire Bridge No 15 on the Shropshire Union Canal, which crosses at an angle of about 50 degrees, rather than the usual 90 - hence its name. Broomhall Bridge, No 16 can be seen through the arch."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Belvide_Reservoir_-_geograph.org.uk_-_622007.jpg",
+            "title": "Gordon Griffiths / Belvide Reservoir",
+            "caption": "Belvide Reservoir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chillington_Hall._-_geograph.org.uk_-_623839.jpg",
+            "title": "Paul Beaman / Chillington Hall.",
+            "caption": "Chillington Hall. A view along the upper Avenue."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Shropshire_Union_Canal_at_Brewood%2C_Staffordshire_-_geograph.org.uk_-_1392275.jpg",
+            "title": "Roger Kidd / Shropshire Union Canal at Brewood, Staffordshire",
+            "caption": "Shropshire Union Canal at Brewood, Staffordshire in May 2009. There are good moorings here at Brewood, though it is a popular pleasant village with good pubs, so the moorings can be fully used in popular times in the summer. Brewood Bridge (No 14) can be seen ahead. The canal was built by Thomas Telford. He started work in 1826 and the canal opened in 1835, shortly after his death. He attempted to minimise the distance by adopting straight lines wherever possible, so his canal includes many long embankments, and cuttings (as here at Brewood). It was persistent collapse and other construction difficulties at the massive mile long embankment at Shelmore (ten miles north-west of here) that caused the delay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Bridge_Inn%2C_Brewood_-_geograph.org.uk_-_1805278.jpg/500px-The_Bridge_Inn%2C_Brewood_-_geograph.org.uk_-_1805278.jpg",
+            "title": "John Lord / The Bridge Inn, Brewood",
+            "caption": "The Bridge Inn, Brewood"
+        }
+    ],
+    "distance_km": 14.0,
+    "description": "This circular walk from Brewood takes you along a section of the Shropshire Union Canal towards Wheaton Aston before heading through the countryside to visit the pretty Belvide Reservoir and the historic Chillington Hall. The walk starts on the canal on the western side of the town, next to Brewood Bridge. From here you head north passing Shutt Green and Broomhall Bridge. At Lapley Wood Farm you leave the canal to head south west to Belvide Reservoir. You can follow footpaths along the western side of the water which is a great place for birdwatching. The route continues south past Kiddermore Green and Hungary Hill Farm to Chillington Hall. This Georgian country house has some fine walks around the Capability Brown landscaped park and lake. After passing the hall the route picks up the Staffordshire Way and follows it north east back to Dean's Hall Bridge on the canal. From here it is a short waterside stroll back into Brewood.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Bridge Inn is conveniently located right next to the canal at the start/finish to the walk. The pub has a good menu and a nice outdoor seating area to relax in on warmer days. You can find it at postcode ST19 9BD for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The area is great for dog walking and the Bridge Inn mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head south from the village and you can try the Wolverhampton Canal Walk along the Birmingham Canal. You can also pick up the Staffordshire and Worcestershire Canal in this area. Just to the south west of the city you can pick up the circular Wombourne Railway Walk which takes you along a section of the old Wolverhampton to Dudley railway line before visiting the pretty Bratch Locks on the Staffordshire and Worcestershire Canal. This route forms part of the longer South Staffordshire Railway Walk which runs from Wolverhampton's Aldersley Stadium to Pensett. The circular Codsall Walk can be picked up just to the south west of the town. The noteworthy Weston Park is located just west of Belvide Reservoir and north west of Chillington Hall. There's more than 1000 acres of landscaped parkland surrounding this 17th century country mansion. To the north there's the lovely Aqualate Mere to explore. There's a pleasant waterside path to pick up at this large, scenic lake. The site is one of the area's highlights and notable as the largest natural lake in the English Midlands. Just to the west of here there's the interesting market town of Newport where you can enjoy another waterside stroll along the old Newport Canal. For more walking ideas around Brewood see the Staffordshire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/58CkNAxLfwg",
+    "district": "South Staffordshire",
+    "county": "Staffordshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Wharf Lane, Brewood and Coven, Brewood, South Staffordshire, Staffordshire, England, ST19 9BG, United Kingdom",
+    "postcode": "ST19 9BG",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "easy",
+    "terrain": ["canal", "countryside"],
+    "points_of_interest": ["reservoir", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

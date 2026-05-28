@@ -1,143 +1,131 @@
 {
-  "created_at": "2025-01-06T02:29:58.700203+00:00",
-  "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
-  "ref": "nene-way-walking-route",
-  "title": "Nene Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg/500px-River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg",
-  "nearby": [
-    {
-      "description": "Rushden Lakes",
-      "objectID": "44bc2f81034dd5440b521b85c6c156fd",
-      "ref": "rushden-lakes-walking-route"
+    "created_at": "2025-01-06T02:29:58.700203+00:00",
+    "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
+    "ref": "nene-way-walking-route",
+    "title": "Nene Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg/500px-River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg",
+    "nearby": [
+        {
+            "description": "Rushden Lakes",
+            "objectID": "44bc2f81034dd5440b521b85c6c156fd",
+            "ref": "rushden-lakes-walking-route"
+        },
+        {
+            "description": "Stanwick Lakes",
+            "objectID": "f9e110757579a1deb8828fdc69ed12c3",
+            "ref": "stanwick-lakes-walking-and-cycle-route"
+        },
+        {
+            "description": "Titchmarsh Nature Reserve",
+            "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
+            "ref": "titchmarsh-nature-reserve-walking-route"
+        },
+        {
+            "description": "Barnwell Country Park",
+            "objectID": "c4b3d0640c3916a7ef301b9d782e5549",
+            "ref": "barnwell-country-park-walking-route"
+        },
+        {
+            "description": "Lyveden Way",
+            "objectID": "d5e9fc0d00df9c3fdbe385a836f71f93",
+            "ref": "lyveden-way-walking-route"
+        },
+        {
+            "description": "Wansford",
+            "objectID": "2c730355290c16a7bd5978cfad46d1e8",
+            "ref": "wansford-walking-route"
+        },
+        {
+            "description": "Ringstead Circular Walk",
+            "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
+            "ref": "ringstead-walking-route"
+        },
+        {
+            "description": "Summer Leys",
+            "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
+            "ref": "summer-leys-walking-route"
+        },
+        {
+            "description": "March",
+            "objectID": "e82e29aed50f0f3de101927e09f92703",
+            "ref": "march-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/069bba7a02799aa7ca3ec8c4f9c867fe.gpx",
+    "_geoloc": {
+        "lat": 52.2261571165,
+        "lng": -1.179157753
     },
-    {
-      "description": "Stanwick Lakes",
-      "objectID": "f9e110757579a1deb8828fdc69ed12c3",
-      "ref": "stanwick-lakes-walking-and-cycle-route"
-    },
-    {
-      "description": "Titchmarsh Nature Reserve",
-      "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
-      "ref": "titchmarsh-nature-reserve-walking-route"
-    },
-    {
-      "description": "Barnwell Country Park",
-      "objectID": "c4b3d0640c3916a7ef301b9d782e5549",
-      "ref": "barnwell-country-park-walking-route"
-    },
-    {
-      "description": "Lyveden Way",
-      "objectID": "d5e9fc0d00df9c3fdbe385a836f71f93",
-      "ref": "lyveden-way-walking-route"
-    },
-    {
-      "description": "Wansford",
-      "objectID": "2c730355290c16a7bd5978cfad46d1e8",
-      "ref": "wansford-walking-route"
-    },
-    {
-      "description": "Ringstead Circular Walk",
-      "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
-      "ref": "ringstead-walking-route"
-    },
-    {
-      "description": "Summer Leys",
-      "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
-      "ref": "summer-leys-walking-route"
-    },
-    {
-      "description": "March",
-      "objectID": "e82e29aed50f0f3de101927e09f92703",
-      "ref": "march-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/069bba7a02799aa7ca3ec8c4f9c867fe.gpx",
-  "_geoloc": {
-    "lat": 52.2261571165,
-    "lng": -1.179157753
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg/500px-River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg",
-      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "River Nene at Oundle Marina"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/500px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
-      "title": "Christopher French [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "Irthlingborough Lakes and Meadows in Northamptonshire"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Billing_Aquadrome_-_geograph.org.uk_-_171423.jpg",
-      "title": "Kokai / Billing Aquadrome, via Wikimedia Commons",
-      "caption": "Billing Aquadrome. This is a large and popular leisure resort on the river Nene and walkers of the Nene Way spend some time passing through it."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Titchmarsh_Nature_Reserve_1.jpg/500px-Titchmarsh_Nature_Reserve_1.jpg",
-      "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "Titchmarsh Nature Reserve is a Local Nature Reserve north of Thrapston in Northampstonshire. It is managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire. It is part of the Upper Nene Valley Gravel Pits Site of Special Scientific Interest."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Titchmarsh_Nature_Reserve_-_geograph.org.uk_-_1026345.jpg",
-      "title": "Michael Trolove / Titchmarsh Nature Reserve",
-      "caption": "River Nene towards Islip. A contentious issue as to the pronunciation of the Nene from this point on. It is generally safe to pronounce Nene (pronounced Neen). Up river from the Thrapston bridge it's Nene (as in hen). Others may suggest that the distinction is less easily defined."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/River_Bridge_East_of_Aldwincle_-_geograph.org.uk_-_322067.jpg",
-      "title": "Nigel Stickells / River Bridge East of Aldwincle",
-      "caption": "River Bridge East of Aldwincle. This attractive bridge to the east of Aldwincle crosses the westernmost of two channels of the River Nene, along the road between Aldwincle and Thorpe Waterville."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Barnwell_lower_lock_-_geograph.org.uk_-_1339967.jpg",
-      "title": "Michael Trolove / Barnwell lower lock",
-      "caption": "Barnwell lower lock"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cogenhoe_Mill_-_geograph.org.uk_-_162050.jpg",
-      "title": "Kokai / Cogenhoe Mill",
-      "caption": "Cogenhoe Mill. Approximate pronunciation of Cogenhoe is 'coogner' with the 'oo' as in 'cook'. The mill is the red brick building and the sluice can be seen beneath. The Mill House on the left is dated 1725."
-    }
-  ],
-  "distance_km": 176.0,
-  "description": "Follow the River Nene through the beautiful Nene Valley on this fabulous walk through Cambridgeshire, Lincolnshire and Northamptonshire. The long distance path runs for over 100 miles, passing Northampton, Wellingborough, Oundle, Peterborough and Wisbech. There's much to enjoy on the way with rushing weirs, a series of historic villages and old mills. It's an excellent area for birdwatchers too with the Nene Valley now one of the most important wetlands in England, gaining international recognition for its significance as a stop-over for thousands of wildfowl and waders that visit during the winter. In particular look out for birds around Rushden Lakes, Summer Leys Nature Reserve, the Titchmarsh Nature Reserve at Thrapston, Barnwell Country Park and Stanwick Lakes as you pass Irthlingborough and Higham Ferrers in Northamptonshire. The route links with the Knightley Way around the Northamptonshire village of Badby .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Fox Inn in Thrapston is a nice place for refreshments on the walk. The friendly pub does good food and has a nice beer garden for warmer weather. You can find the pub on the High Street with a postcode of NN14 4JJ for your sat navs. It's also dog friendly if you have your canine friend with you. The pretty Northampstonshire village of Wadenhoe is another nice stopping point. Here you'll find the 17th century King's Head in Wadenhoe. They have a particularly lovely garden area next to the river where you can watch the boats go by with your meal. You can find the pub at postcode PE8 5ST. In Wansford there's the riverside Paper Mills. The inn sits in a nice location overlooking the old bridge and includes a lovely garden area for warmer days. You can find them on London Road at postcode PE8 6JB for your sat navs. Around the village of Ringstead there's some good options to consider. The Water Mill Tea Rooms have a lovely garden area right next to the river. Here you can enjoy a good range of meals and snacks with a view over the water. You can find them at Woodford Mill with a postcode of NN14 4DU for your sat navs. If you prefer a pub lunch then the Axe and Compass in the village is a good option. The historic inn dates back to 1796 and serves good home cooked dishes. They can be found at 14 Carlow Rd, NN14 4DW. At Ringstead you can also enjoy a small detour to visit the lovely Kinewell Lake. In March The Ship Inn is well worth a visit. The historic thatched inn dates back to 1680 and sits in a lovely riverside location. Inside there's a charming interior with unusual carved beams said to have \"fallen off a barge\" during the building of Ely Cathedral. Outside there's a garden area where you can enjoy a view over the river and the boats with your meal. You can find them at 1 Nene Parade with postcode PE15 8TD for your sat navs."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "At Wadenhoe the route links up with the Lyveden Way. This fine trail will take you west towards the National Trust's Lyveden Estate. Here you'll find a fine Elizabethan lodge and moated garden with a fascinating history. On the southern side of the river in Northampton you will pass the noteworthy Delapre Abbey Park. There's 500 acres of parkland, lakes, woodland and gardens to explore on this popular historic site. For more walking ideas in the area see the Cambridgeshire Walks, Lincolnshire Walks and Northamptonshire Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/To3eeZRFfBU",
-  "postcode": "NN11 3AQ",
-  "district": "Badby",
-  "county": "West Northamptonshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Chapel Lane, Badby, West Northamptonshire, England, NN11 3AQ, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": null,
-  "difficulty": "moderate",
-  "terrain": [
-    "river"
-  ],
-  "points_of_interest": [
-    "historic village",
-    "old mill",
-    "wetland"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg/500px-River_Nene_at_Oundle_Marina_-_July_2014_-_panoramio.jpg",
+            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "River Nene at Oundle Marina"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/500px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
+            "title": "Christopher French [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "Irthlingborough Lakes and Meadows in Northamptonshire"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Billing_Aquadrome_-_geograph.org.uk_-_171423.jpg",
+            "title": "Kokai / Billing Aquadrome, via Wikimedia Commons",
+            "caption": "Billing Aquadrome. This is a large and popular leisure resort on the river Nene and walkers of the Nene Way spend some time passing through it."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Titchmarsh_Nature_Reserve_1.jpg/500px-Titchmarsh_Nature_Reserve_1.jpg",
+            "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "Titchmarsh Nature Reserve is a Local Nature Reserve north of Thrapston in Northampstonshire. It is managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire. It is part of the Upper Nene Valley Gravel Pits Site of Special Scientific Interest."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Titchmarsh_Nature_Reserve_-_geograph.org.uk_-_1026345.jpg",
+            "title": "Michael Trolove / Titchmarsh Nature Reserve",
+            "caption": "River Nene towards Islip. A contentious issue as to the pronunciation of the Nene from this point on. It is generally safe to pronounce Nene (pronounced Neen). Up river from the Thrapston bridge it's Nene (as in hen). Others may suggest that the distinction is less easily defined."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/River_Bridge_East_of_Aldwincle_-_geograph.org.uk_-_322067.jpg",
+            "title": "Nigel Stickells / River Bridge East of Aldwincle",
+            "caption": "River Bridge East of Aldwincle. This attractive bridge to the east of Aldwincle crosses the westernmost of two channels of the River Nene, along the road between Aldwincle and Thorpe Waterville."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Barnwell_lower_lock_-_geograph.org.uk_-_1339967.jpg",
+            "title": "Michael Trolove / Barnwell lower lock",
+            "caption": "Barnwell lower lock"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cogenhoe_Mill_-_geograph.org.uk_-_162050.jpg",
+            "title": "Kokai / Cogenhoe Mill",
+            "caption": "Cogenhoe Mill. Approximate pronunciation of Cogenhoe is 'coogner' with the 'oo' as in 'cook'. The mill is the red brick building and the sluice can be seen beneath. The Mill House on the left is dated 1725."
+        }
+    ],
+    "distance_km": 176.0,
+    "description": "Follow the River Nene through the beautiful Nene Valley on this fabulous walk through Cambridgeshire, Lincolnshire and Northamptonshire. The long distance path runs for over 100 miles, passing Northampton, Wellingborough, Oundle, Peterborough and Wisbech. There's much to enjoy on the way with rushing weirs, a series of historic villages and old mills. It's an excellent area for birdwatchers too with the Nene Valley now one of the most important wetlands in England, gaining international recognition for its significance as a stop-over for thousands of wildfowl and waders that visit during the winter. In particular look out for birds around Rushden Lakes, Summer Leys Nature Reserve, the Titchmarsh Nature Reserve at Thrapston, Barnwell Country Park and Stanwick Lakes as you pass Irthlingborough and Higham Ferrers in Northamptonshire. The route links with the Knightley Way around the Northamptonshire village of Badby .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Fox Inn in Thrapston is a nice place for refreshments on the walk. The friendly pub does good food and has a nice beer garden for warmer weather. You can find the pub on the High Street with a postcode of NN14 4JJ for your sat navs. It's also dog friendly if you have your canine friend with you. The pretty Northampstonshire village of Wadenhoe is another nice stopping point. Here you'll find the 17th century King's Head in Wadenhoe. They have a particularly lovely garden area next to the river where you can watch the boats go by with your meal. You can find the pub at postcode PE8 5ST. In Wansford there's the riverside Paper Mills. The inn sits in a nice location overlooking the old bridge and includes a lovely garden area for warmer days. You can find them on London Road at postcode PE8 6JB for your sat navs. Around the village of Ringstead there's some good options to consider. The Water Mill Tea Rooms have a lovely garden area right next to the river. Here you can enjoy a good range of meals and snacks with a view over the water. You can find them at Woodford Mill with a postcode of NN14 4DU for your sat navs. If you prefer a pub lunch then the Axe and Compass in the village is a good option. The historic inn dates back to 1796 and serves good home cooked dishes. They can be found at 14 Carlow Rd, NN14 4DW. At Ringstead you can also enjoy a small detour to visit the lovely Kinewell Lake. In March The Ship Inn is well worth a visit. The historic thatched inn dates back to 1680 and sits in a lovely riverside location. Inside there's a charming interior with unusual carved beams said to have \"fallen off a barge\" during the building of Ely Cathedral. Outside there's a garden area where you can enjoy a view over the river and the boats with your meal. You can find them at 1 Nene Parade with postcode PE15 8TD for your sat navs."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "At Wadenhoe the route links up with the Lyveden Way. This fine trail will take you west towards the National Trust's Lyveden Estate. Here you'll find a fine Elizabethan lodge and moated garden with a fascinating history. On the southern side of the river in Northampton you will pass the noteworthy Delapre Abbey Park. There's 500 acres of parkland, lakes, woodland and gardens to explore on this popular historic site. For more walking ideas in the area see the Cambridgeshire Walks, Lincolnshire Walks and Northamptonshire Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/To3eeZRFfBU",
+    "postcode": "NN11 3AQ",
+    "district": "Badby",
+    "county": "West Northamptonshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Chapel Lane, Badby, West Northamptonshire, England, NN11 3AQ, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["river"],
+    "points_of_interest": ["historic village", "old mill", "wetland"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching"]
 }

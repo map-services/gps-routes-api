@@ -1,76 +1,66 @@
 {
-  "created_at": "2025-01-06T09:09:13.396662+00:00",
-  "objectID": "be01d72b4de26398d9d181b63029671f",
-  "ref": "battlefields-trail-walking-route",
-  "title": "Battlefields Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg",
-  "nearby": [
-    {
-      "description": "Oxford Canal Walk",
-      "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
-      "ref": "oxford-canal-walk-walking-route"
+    "created_at": "2025-01-06T09:09:13.396662+00:00",
+    "objectID": "be01d72b4de26398d9d181b63029671f",
+    "ref": "battlefields-trail-walking-route",
+    "title": "Battlefields Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg",
+    "nearby": [
+        {
+            "description": "Oxford Canal Walk",
+            "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
+            "ref": "oxford-canal-walk-walking-route"
+        },
+        {
+            "description": "Edge Hill",
+            "objectID": "6ac14844dc69c8db97e44bef1d67fe37",
+            "ref": "edge-hill-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/be01d72b4de26398d9d181b63029671f.gpx",
+    "_geoloc": {
+        "lat": 52.1355792117,
+        "lng": -1.2723583476
     },
-    {
-      "description": "Edge Hill",
-      "objectID": "6ac14844dc69c8db97e44bef1d67fe37",
-      "ref": "edge-hill-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/be01d72b4de26398d9d181b63029671f.gpx",
-  "_geoloc": {
-    "lat": 52.1355792117,
-    "lng": -1.2723583476
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg",
-      "title": "David M Jones / Danesmoor (site of the Battle of Edgcote)",
-      "caption": "Danesmoor (site of the Battle of Edgcote). The Battle of Edgcote during the Wars of the Roses took place in this now tranquil vale close to the river Cherwell. The Earl of Pembroke and his mainly Welsh troops were travelling north to support Edward IV at Nottingham and came upon the rebel army led by Robin of Redesdale who were moving south to join forces with Warwick (the Kingmaker). The battle on the 26th July 1469 was a black day for the Welsh, Pembroke was captured and executed and 168 Welsh noblemen were killed along with many hundreds of common soldiers."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Charge_during_the_Battle_of_Cropredy_Bridge_Reenactment_1983.jpg/500px-Charge_during_the_Battle_of_Cropredy_Bridge_Reenactment_1983.jpg",
-      "title": "Glenluwin, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Charge during the Battle of Cropredy Bridge Reenactment 1983"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/View_from_Edgehill_-_geograph.org.uk_-_37614.jpg",
-      "title": "David Stowell / View from Edgehill",
-      "caption": "View from Edgehill. Looking NNE from the Edgehill escarpment, with Arlescote at the foot and then across towards Kineton in the distance, with the site of the Battle of Edge Hill some 2-3 miles away."
-    }
-  ],
-  "distance_km": 32.0,
-  "description": "This interesting walking trail links three of England's most significant Battlefields: Edgcote (1469) in Northamptonshire Cropredy Bridge (1644) in Oxfordshire Edgehill (1642) in Warwickshire It runs from Chipping Warden, Northamptonshire and ends in Kineton, Warwickshire, passing through some beautiful countryside along the way. The first section of the walk takes you from Chipping Warden to Upper Wardington. On the way you will pass the site of the Battle of Edgecote Moor which was fought during the Wars of the Roses in July 1469. The battle pitted the forces of Richard Neville, 16th Earl of Warwick, against those of King Edward IV. From Upper Wardington you continue west to Warmington, passing Cropedy where the Battle of Cropredy Bridge was fought on 29th June 1644 between a Parliamentarian army under Sir William Waller and the Royalist army of King Charles. This section also includes views of the Oxford Canal Walk and the River Cherwell. The final section then runs from Warmington to Kineton, passing through the beautiful Edghill Country Park. The park is set in the Cotswolds Area of Outstanding Natural Beauty and includes sixteen acres of mixed grass and primary Bluebell woodland. After passing through Ratley you soon come to the site of Battle of Edgehill. The battle was fought on Sunday, 23rd October 1642 and was the first pitched battle of the First English Civil War. Shortly after the walk then comes to at an end at the village of Kineton in Warwickshire. The Battlefields Trust Website has a wealth of information on this route and the history of the Battlefields of Britain.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For more walking ideas in the areas the trail passes through see the Northamptonshire Walks, Warwickshire Walks, Oxfordshire Walks and the Cotswolds Walks pages."
-    }
-  ],
-  "postcode": "OX17 1LF",
-  "district": "Chipping Warden",
-  "county": "West Northamptonshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Banbury Road, Chipping Warden and Edgcote, Chipping Warden, West Northamptonshire, England, OX17 1LF, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "10 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "countryside",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Danesmoor_%28site_of_the_Battle_of_Edgcote%29_-_geograph.org.uk_-_815349.jpg",
+            "title": "David M Jones / Danesmoor (site of the Battle of Edgcote)",
+            "caption": "Danesmoor (site of the Battle of Edgcote). The Battle of Edgcote during the Wars of the Roses took place in this now tranquil vale close to the river Cherwell. The Earl of Pembroke and his mainly Welsh troops were travelling north to support Edward IV at Nottingham and came upon the rebel army led by Robin of Redesdale who were moving south to join forces with Warwick (the Kingmaker). The battle on the 26th July 1469 was a black day for the Welsh, Pembroke was captured and executed and 168 Welsh noblemen were killed along with many hundreds of common soldiers."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Charge_during_the_Battle_of_Cropredy_Bridge_Reenactment_1983.jpg/500px-Charge_during_the_Battle_of_Cropredy_Bridge_Reenactment_1983.jpg",
+            "title": "Glenluwin, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Charge during the Battle of Cropredy Bridge Reenactment 1983"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/View_from_Edgehill_-_geograph.org.uk_-_37614.jpg",
+            "title": "David Stowell / View from Edgehill",
+            "caption": "View from Edgehill. Looking NNE from the Edgehill escarpment, with Arlescote at the foot and then across towards Kineton in the distance, with the site of the Battle of Edge Hill some 2-3 miles away."
+        }
+    ],
+    "distance_km": 32.0,
+    "description": "This interesting walking trail links three of England's most significant Battlefields: Edgcote (1469) in Northamptonshire Cropredy Bridge (1644) in Oxfordshire Edgehill (1642) in Warwickshire It runs from Chipping Warden, Northamptonshire and ends in Kineton, Warwickshire, passing through some beautiful countryside along the way. The first section of the walk takes you from Chipping Warden to Upper Wardington. On the way you will pass the site of the Battle of Edgecote Moor which was fought during the Wars of the Roses in July 1469. The battle pitted the forces of Richard Neville, 16th Earl of Warwick, against those of King Edward IV. From Upper Wardington you continue west to Warmington, passing Cropedy where the Battle of Cropredy Bridge was fought on 29th June 1644 between a Parliamentarian army under Sir William Waller and the Royalist army of King Charles. This section also includes views of the Oxford Canal Walk and the River Cherwell. The final section then runs from Warmington to Kineton, passing through the beautiful Edghill Country Park. The park is set in the Cotswolds Area of Outstanding Natural Beauty and includes sixteen acres of mixed grass and primary Bluebell woodland. After passing through Ratley you soon come to the site of Battle of Edgehill. The battle was fought on Sunday, 23rd October 1642 and was the first pitched battle of the First English Civil War. Shortly after the walk then comes to at an end at the village of Kineton in Warwickshire. The Battlefields Trust Website has a wealth of information on this route and the history of the Battlefields of Britain.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For more walking ideas in the areas the trail passes through see the Northamptonshire Walks, Warwickshire Walks, Oxfordshire Walks and the Cotswolds Walks pages."
+        }
+    ],
+    "postcode": "OX17 1LF",
+    "district": "Chipping Warden",
+    "county": "West Northamptonshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Banbury Road, Chipping Warden and Edgcote, Chipping Warden, West Northamptonshire, England, OX17 1LF, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "10 hours",
+    "difficulty": "moderate",
+    "terrain": ["countryside", "woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

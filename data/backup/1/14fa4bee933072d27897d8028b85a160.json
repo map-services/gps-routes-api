@@ -1,130 +1,123 @@
 {
-  "created_at": "2025-01-06T11:16:34.057066+00:00",
-  "objectID": "14fa4bee933072d27897d8028b85a160",
-  "ref": "avebury-to-stonehenge-walking-route",
-  "title": "Avebury to Stonehenge Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Avebury_stone_circle.jpg",
-  "nearby": [
-    {
-      "description": "Avebury Stones",
-      "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
-      "ref": "avebury-stones-walking-route"
+    "created_at": "2025-01-06T11:16:34.057066+00:00",
+    "objectID": "14fa4bee933072d27897d8028b85a160",
+    "ref": "avebury-to-stonehenge-walking-route",
+    "title": "Avebury to Stonehenge Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Avebury_stone_circle.jpg",
+    "nearby": [
+        {
+            "description": "Avebury Stones",
+            "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
+            "ref": "avebury-stones-walking-route"
+        },
+        {
+            "description": "West Kennet Long Barrow",
+            "objectID": "acb300707c0604227e33148e68431cd9",
+            "ref": "west-kennet-long-barrow-walking-route"
+        },
+        {
+            "description": "Stonehenge",
+            "objectID": "53957255d5fdc8c9682d20c40abd1889",
+            "ref": "stonehenge-walking-route"
+        },
+        {
+            "description": "Durrington Walls",
+            "objectID": "1a5aa3ba3105f678863bfac2c5f439f3",
+            "ref": "durrington-walls-walking-route"
+        },
+        {
+            "description": "Amesbury River Walk",
+            "objectID": "e34986ed528700723658f3734f63b337",
+            "ref": "amesbury-river-walk-walking-route"
+        },
+        {
+            "description": "Amesbury to Stonehenge",
+            "objectID": "ea6881bfd5309c13078d4bfbd1baff69",
+            "ref": "amesbury-to-stonehenge-walking-route"
+        },
+        {
+            "description": "Sarsen Way",
+            "objectID": "1b0701f5ce1a49954a0139a465bd6dfc",
+            "ref": "sarsen-way-walking-route"
+        },
+        {
+            "description": "Alton Barnes White Horse",
+            "objectID": "010a251326922871866292a843035c1e",
+            "ref": "alton-barnes-white-horse-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/14fa4bee933072d27897d8028b85a160.gpx",
+    "_geoloc": {
+        "lat": 51.4283669312,
+        "lng": -1.8552507459
     },
-    {
-      "description": "West Kennet Long Barrow",
-      "objectID": "acb300707c0604227e33148e68431cd9",
-      "ref": "west-kennet-long-barrow-walking-route"
-    },
-    {
-      "description": "Stonehenge",
-      "objectID": "53957255d5fdc8c9682d20c40abd1889",
-      "ref": "stonehenge-walking-route"
-    },
-    {
-      "description": "Durrington Walls",
-      "objectID": "1a5aa3ba3105f678863bfac2c5f439f3",
-      "ref": "durrington-walls-walking-route"
-    },
-    {
-      "description": "Amesbury River Walk",
-      "objectID": "e34986ed528700723658f3734f63b337",
-      "ref": "amesbury-river-walk-walking-route"
-    },
-    {
-      "description": "Amesbury to Stonehenge",
-      "objectID": "ea6881bfd5309c13078d4bfbd1baff69",
-      "ref": "amesbury-to-stonehenge-walking-route"
-    },
-    {
-      "description": "Sarsen Way",
-      "objectID": "1b0701f5ce1a49954a0139a465bd6dfc",
-      "ref": "sarsen-way-walking-route"
-    },
-    {
-      "description": "Alton Barnes White Horse",
-      "objectID": "010a251326922871866292a843035c1e",
-      "ref": "alton-barnes-white-horse-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/14fa4bee933072d27897d8028b85a160.gpx",
-  "_geoloc": {
-    "lat": 51.4283669312,
-    "lng": -1.8552507459
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Avebury_stone_circle.jpg",
-      "title": "Ark3pix, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Avebury stone circle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Kennet_long_barrow_entrance_-_geograph.org.uk_-_1877235.jpg/500px-West_Kennet_long_barrow_entrance_-_geograph.org.uk_-_1877235.jpg",
-      "title": "West Kennet long barrow entrance by Isabella Perry, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "West Kennet long barrow entrance"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alton_Barnes_White_Horse_-_geograph.org.uk_-_1744619.jpg",
-      "title": "Brian Robert Marshall / Alton Barnes White Horse",
-      "caption": "Alton Barnes White Horse"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Upavon%2C_The_%27Ship%27_-_geograph.org.uk_-_4135336.jpg/500px-Upavon%2C_The_%27Ship%27_-_geograph.org.uk_-_4135336.jpg",
-      "title": "Upavon: The 'Ship' by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Upavon, The 'Ship'"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bulford_-_The_River_Avon_-_geograph.org.uk_-_1279865.jpg",
-      "title": "Chris Talbot / Bulford - The River Avon",
-      "caption": "The River Avon at Bulford"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Amesbury_-_Millennium_Cross_-_geograph.org.uk_-_2609565.jpg",
-      "title": "Amesbury - Millennium Cross by Chris Talbot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Amesbury"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/King_Barrow_Ridge%2C_Near_Stonehenge_-_geograph.org.uk_-_1626621.jpg/500px-King_Barrow_Ridge%2C_Near_Stonehenge_-_geograph.org.uk_-_1626621.jpg",
-      "title": "Peter Trimming / King Barrow Ridge, Near Stonehenge",
-      "caption": "King Barrow Ridge, Near Stonehenge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stonehenge_-_panoramio_-_H-NS_LOOSEN.jpg/500px-Stonehenge_-_panoramio_-_H-NS_LOOSEN.jpg",
-      "title": "H/NS LOOSEN, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
-      "caption": "Stonehenge"
-    }
-  ],
-  "distance_km": 47.0,
-  "description": "This long distance walk links these two famous ancient sites in Wiltshire. The walk follows part of the Sarsen Way, a long distance trail running through Wiltshire from Coate Water Country Park to Salisbury Cathedral. You'll walk through some lovely countryside and pass several other fascinating ancient sites on the way. The walk starts at the Avebury Stones in the village of Avebury. The site includes the largest stone circle in Europe with some fine views of the surrounding countryside as well. The first section takes you south along the River Kennet to visit another historic site at the West Kennet Long Barrow. The Neolithic chambered tomb dates back over 5000 years and includes some excellent English Heritage Information boards. The route then follows a track south across Cow Down towards Alton Barnes where you will pass a noteworthy White Horse hill figure. You continue past Manningford Abbots, Upavon, Bulford and Durrington where there are some nice views of the River Avon to enjoy. At Amesbury you turn west to cross the fields to finish at Stonehenge, one of England's major attractions. The mysterious site dates back over 5000 years and includes some lovely views over Salisbury Plain .",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/kBu68hzQ4HI?si=5Kjdl5rUgxZgQCRR",
-  "county": "Wiltshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "High Street, Avebury Trusloe, Beckhampton, Avebury, Wiltshire, England, SN8 1RF, United Kingdom",
-  "postcode": "SN8 1RF",
-  "district": "Beckhampton",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 days",
-  "difficulty": "moderate",
-  "terrain": [
-    "countryside",
-    "field"
-  ],
-  "points_of_interest": [
-    "stone circle",
-    "historic site",
-    "chambered tomb",
-    "hill figure",
-    "viewpoint"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Avebury_stone_circle.jpg",
+            "title": "Ark3pix, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Avebury stone circle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Kennet_long_barrow_entrance_-_geograph.org.uk_-_1877235.jpg/500px-West_Kennet_long_barrow_entrance_-_geograph.org.uk_-_1877235.jpg",
+            "title": "West Kennet long barrow entrance by Isabella Perry, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "West Kennet long barrow entrance"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alton_Barnes_White_Horse_-_geograph.org.uk_-_1744619.jpg",
+            "title": "Brian Robert Marshall / Alton Barnes White Horse",
+            "caption": "Alton Barnes White Horse"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Upavon%2C_The_%27Ship%27_-_geograph.org.uk_-_4135336.jpg/500px-Upavon%2C_The_%27Ship%27_-_geograph.org.uk_-_4135336.jpg",
+            "title": "Upavon: The 'Ship' by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Upavon, The 'Ship'"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bulford_-_The_River_Avon_-_geograph.org.uk_-_1279865.jpg",
+            "title": "Chris Talbot / Bulford - The River Avon",
+            "caption": "The River Avon at Bulford"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Amesbury_-_Millennium_Cross_-_geograph.org.uk_-_2609565.jpg",
+            "title": "Amesbury - Millennium Cross by Chris Talbot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Amesbury"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/King_Barrow_Ridge%2C_Near_Stonehenge_-_geograph.org.uk_-_1626621.jpg/500px-King_Barrow_Ridge%2C_Near_Stonehenge_-_geograph.org.uk_-_1626621.jpg",
+            "title": "Peter Trimming / King Barrow Ridge, Near Stonehenge",
+            "caption": "King Barrow Ridge, Near Stonehenge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stonehenge_-_panoramio_-_H-NS_LOOSEN.jpg/500px-Stonehenge_-_panoramio_-_H-NS_LOOSEN.jpg",
+            "title": "H/NS LOOSEN, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+            "caption": "Stonehenge"
+        }
+    ],
+    "distance_km": 47.0,
+    "description": "This long distance walk links these two famous ancient sites in Wiltshire. The walk follows part of the Sarsen Way, a long distance trail running through Wiltshire from Coate Water Country Park to Salisbury Cathedral. You'll walk through some lovely countryside and pass several other fascinating ancient sites on the way. The walk starts at the Avebury Stones in the village of Avebury. The site includes the largest stone circle in Europe with some fine views of the surrounding countryside as well. The first section takes you south along the River Kennet to visit another historic site at the West Kennet Long Barrow. The Neolithic chambered tomb dates back over 5000 years and includes some excellent English Heritage Information boards. The route then follows a track south across Cow Down towards Alton Barnes where you will pass a noteworthy White Horse hill figure. You continue past Manningford Abbots, Upavon, Bulford and Durrington where there are some nice views of the River Avon to enjoy. At Amesbury you turn west to cross the fields to finish at Stonehenge, one of England's major attractions. The mysterious site dates back over 5000 years and includes some lovely views over Salisbury Plain .",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/kBu68hzQ4HI?si=5Kjdl5rUgxZgQCRR",
+    "county": "Wiltshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "High Street, Avebury Trusloe, Beckhampton, Avebury, Wiltshire, England, SN8 1RF, United Kingdom",
+    "postcode": "SN8 1RF",
+    "district": "Beckhampton",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 days",
+    "difficulty": "moderate",
+    "terrain": ["countryside", "field"],
+    "points_of_interest": [
+        "stone circle",
+        "historic site",
+        "chambered tomb",
+        "hill figure",
+        "viewpoint"
+    ],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

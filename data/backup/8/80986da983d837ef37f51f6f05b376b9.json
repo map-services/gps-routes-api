@@ -1,97 +1,87 @@
 {
-  "created_at": "2025-01-06T11:10:12.242002+00:00",
-  "objectID": "80986da983d837ef37f51f6f05b376b9",
-  "ref": "beeleigh-falls-walking-route",
-  "title": "Beeleigh Falls Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Langford_Cut_-_geograph.org.uk_-_973729.jpg",
-  "nearby": [
-    {
-      "description": "Maldon",
-      "objectID": "5f66a58fcffef66a7b9ff67bab0409e1",
-      "ref": "maldon-walking-route"
+    "created_at": "2025-01-06T11:10:12.242002+00:00",
+    "objectID": "80986da983d837ef37f51f6f05b376b9",
+    "ref": "beeleigh-falls-walking-route",
+    "title": "Beeleigh Falls Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Langford_Cut_-_geograph.org.uk_-_973729.jpg",
+    "nearby": [
+        {
+            "description": "Maldon",
+            "objectID": "5f66a58fcffef66a7b9ff67bab0409e1",
+            "ref": "maldon-walking-route"
+        },
+        {
+            "description": "Chelmer and Blackwater Navigation",
+            "objectID": "b790c40a0f975da1f1380271b64d919e",
+            "ref": "chelmer-and-blackwater-navigation-walking-route"
+        },
+        {
+            "description": "Blackwater Estuary",
+            "objectID": "babc6834b61398b0b0c77b9148a0bf9d",
+            "ref": "blackwater-estuary-walking-route"
+        },
+        {
+            "description": "Heybridge Basin",
+            "objectID": "d3a1bf77d3e246b4a6723f90ee3f0bdd",
+            "ref": "heybridge-basin-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/80986da983d837ef37f51f6f05b376b9.gpx",
+    "_geoloc": {
+        "lat": 51.7496920217,
+        "lng": 0.6589215428
     },
-    {
-      "description": "Chelmer and Blackwater Navigation",
-      "objectID": "b790c40a0f975da1f1380271b64d919e",
-      "ref": "chelmer-and-blackwater-navigation-walking-route"
-    },
-    {
-      "description": "Blackwater Estuary",
-      "objectID": "babc6834b61398b0b0c77b9148a0bf9d",
-      "ref": "blackwater-estuary-walking-route"
-    },
-    {
-      "description": "Heybridge Basin",
-      "objectID": "d3a1bf77d3e246b4a6723f90ee3f0bdd",
-      "ref": "heybridge-basin-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/80986da983d837ef37f51f6f05b376b9.gpx",
-  "_geoloc": {
-    "lat": 51.7496920217,
-    "lng": 0.6589215428
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Langford_Cut_-_geograph.org.uk_-_973729.jpg",
-      "title": "Trevor Harris / Langford Cut, via Wikimedia Commons",
-      "caption": "Langford Cut 1. The section of the Chelmer and Blackwater Navigation (canal) which approaches Maldon is known as the Langford Cut."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Langford_Cut_-_geograph.org.uk_-_230869.jpg",
-      "title": "John Myers / Langford Cut, via Wikimedia Commons",
-      "caption": "Langford Cut 2. Small and overgrown side branch of the Chelmer and Blackwater Navigation running parallel to the River Blackwater to the village of Langford."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Below_Beeleigh_Falls_-_geograph.org.uk_-_230821.jpg",
-      "title": "John Myers / Below Beeleigh Falls, via Wikimedia Commons",
-      "caption": "Below Beeleigh Falls. From the weir over which flows a side branch of the Chelmer."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Beeleigh_Falls_-_geograph.org.uk_-_230832.jpg",
-      "title": "John Myers / Beeleigh Falls, via Wikimedia Commons",
-      "caption": "Blackwater/Chelmer Navigation weir. Just downstream of the confluence of the river and the canal."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hurst_frame%2C_Beeleigh_Mill_-_geograph.org.uk_-_1180687.jpg",
-      "title": "Chris Allen / Hurst frame, Beeleigh Mill",
-      "caption": "Hurst frame, Beeleigh Mill. As I recall this was arranged to drive five pairs of stones underdrift. The stones are completely absent on the first floor. The drive shaft from the beam engine comes in on the left."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beeleigh_Lock_-_geograph.org.uk_-_1844227.jpg",
-      "title": "Beeleigh Lock by Glyn Baker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Beeleigh Lock"
-    }
-  ],
-  "distance_km": 2.5,
-  "description": "Enjoy a short walk to these pretty falls on the River Chelmer in Essex. It's an interesting spot, where four waterways converge with a series of locks and weirs. The River Chelmer, River Blackwater, the Chelmer and Blackwater Navigation Canal and the tidal Chelmer all meet at Beeleigh Falls. It's a great place for birdwatching so keep your eyes peeled for the Kingfishers which frequent the area. The walk starts in the village of Langford just to the north of the falls. From here you can pick up footpaths running south along the Langford Cut, the section of the Chelmer and Blackwater Navigation (canal) which approaches Maldon. It will take you to the falls where you can also see Beeleigh Falls House, an attractive Victorian villa. It's easy to extend your walking in the area if you have time. You could try our longer Maldon Circular Walk which starts in the town and visits the rivers, the canal, the falls and the interesting Beeleigh Abbey house, which incorporates the remains of the earlier monastery on the site. The abbey gardens, are now open to the public, on specific days during the summer months. There's also the option of picking up the Chelmer and Blackwater Navigation Canal and following it to the Blackwater Estuary where you can try the Heybridge Basin Walk. This will take you around the nearby Chigborough Lakes Nature Reserve which is another lovely place for a stroll.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/HXtOUh9tTNQ",
-  "county": "Essex",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Maldon Road, Langford, Maldon, Essex, England, CM9 4ST, United Kingdom",
-  "postcode": "CM9 4ST",
-  "district": "Maldon",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "canal"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Langford_Cut_-_geograph.org.uk_-_973729.jpg",
+            "title": "Trevor Harris / Langford Cut, via Wikimedia Commons",
+            "caption": "Langford Cut 1. The section of the Chelmer and Blackwater Navigation (canal) which approaches Maldon is known as the Langford Cut."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Langford_Cut_-_geograph.org.uk_-_230869.jpg",
+            "title": "John Myers / Langford Cut, via Wikimedia Commons",
+            "caption": "Langford Cut 2. Small and overgrown side branch of the Chelmer and Blackwater Navigation running parallel to the River Blackwater to the village of Langford."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Below_Beeleigh_Falls_-_geograph.org.uk_-_230821.jpg",
+            "title": "John Myers / Below Beeleigh Falls, via Wikimedia Commons",
+            "caption": "Below Beeleigh Falls. From the weir over which flows a side branch of the Chelmer."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Beeleigh_Falls_-_geograph.org.uk_-_230832.jpg",
+            "title": "John Myers / Beeleigh Falls, via Wikimedia Commons",
+            "caption": "Blackwater/Chelmer Navigation weir. Just downstream of the confluence of the river and the canal."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hurst_frame%2C_Beeleigh_Mill_-_geograph.org.uk_-_1180687.jpg",
+            "title": "Chris Allen / Hurst frame, Beeleigh Mill",
+            "caption": "Hurst frame, Beeleigh Mill. As I recall this was arranged to drive five pairs of stones underdrift. The stones are completely absent on the first floor. The drive shaft from the beam engine comes in on the left."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beeleigh_Lock_-_geograph.org.uk_-_1844227.jpg",
+            "title": "Beeleigh Lock by Glyn Baker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Beeleigh Lock"
+        }
+    ],
+    "distance_km": 2.5,
+    "description": "Enjoy a short walk to these pretty falls on the River Chelmer in Essex. It's an interesting spot, where four waterways converge with a series of locks and weirs. The River Chelmer, River Blackwater, the Chelmer and Blackwater Navigation Canal and the tidal Chelmer all meet at Beeleigh Falls. It's a great place for birdwatching so keep your eyes peeled for the Kingfishers which frequent the area. The walk starts in the village of Langford just to the north of the falls. From here you can pick up footpaths running south along the Langford Cut, the section of the Chelmer and Blackwater Navigation (canal) which approaches Maldon. It will take you to the falls where you can also see Beeleigh Falls House, an attractive Victorian villa. It's easy to extend your walking in the area if you have time. You could try our longer Maldon Circular Walk which starts in the town and visits the rivers, the canal, the falls and the interesting Beeleigh Abbey house, which incorporates the remains of the earlier monastery on the site. The abbey gardens, are now open to the public, on specific days during the summer months. There's also the option of picking up the Chelmer and Blackwater Navigation Canal and following it to the Blackwater Estuary where you can try the Heybridge Basin Walk. This will take you around the nearby Chigborough Lakes Nature Reserve which is another lovely place for a stroll.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/HXtOUh9tTNQ",
+    "county": "Essex",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Maldon Road, Langford, Maldon, Essex, England, CM9 4ST, United Kingdom",
+    "postcode": "CM9 4ST",
+    "district": "Maldon",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["canal"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching"]
 }

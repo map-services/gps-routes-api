@@ -1,120 +1,107 @@
 {
-  "created_at": "2025-01-06T10:17:17.996985+00:00",
-  "objectID": "f9a2646d2798902ee167263ba38f737f",
-  "ref": "mourne-way-walking-route",
-  "title": "Mourne Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg/500px-View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg",
-  "nearby": [
-    {
-      "description": "Tollymore Forest Park",
-      "objectID": "f0271d44fdfb8a5a6b67b0a3eda32f3c",
-      "ref": "tollymore-forest-park-walking-route"
+    "created_at": "2025-01-06T10:17:17.996985+00:00",
+    "objectID": "f9a2646d2798902ee167263ba38f737f",
+    "ref": "mourne-way-walking-route",
+    "title": "Mourne Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg/500px-View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg",
+    "nearby": [
+        {
+            "description": "Tollymore Forest Park",
+            "objectID": "f0271d44fdfb8a5a6b67b0a3eda32f3c",
+            "ref": "tollymore-forest-park-walking-route"
+        },
+        {
+            "description": "Trassey Track",
+            "objectID": "fdcc393415e8b6c39921493910374cf6",
+            "ref": "trassey-track-walking-route"
+        },
+        {
+            "description": "Kilbroney Forest Park",
+            "objectID": "c82f68629ee69e260cd6557ac915e6bd",
+            "ref": "kilbroney-forest-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Spelga Dam",
+            "objectID": "6cba4574cd723a240464623377e87b5b",
+            "ref": "spelga-dam-walking-route"
+        },
+        {
+            "description": "Rostrevor Forest",
+            "objectID": "23601c2dab3d979b78a61cec4b5e3120",
+            "ref": "rostrevor-forest-walking-route"
+        },
+        {
+            "description": "Carlingford Lough",
+            "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
+            "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f9a2646d2798902ee167263ba38f737f.gpx",
+    "_geoloc": {
+        "lat": 54.2102362196,
+        "lng": -5.8905870248
     },
-    {
-      "description": "Trassey Track",
-      "objectID": "fdcc393415e8b6c39921493910374cf6",
-      "ref": "trassey-track-walking-route"
-    },
-    {
-      "description": "Kilbroney Forest Park",
-      "objectID": "c82f68629ee69e260cd6557ac915e6bd",
-      "ref": "kilbroney-forest-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Spelga Dam",
-      "objectID": "6cba4574cd723a240464623377e87b5b",
-      "ref": "spelga-dam-walking-route"
-    },
-    {
-      "description": "Rostrevor Forest",
-      "objectID": "23601c2dab3d979b78a61cec4b5e3120",
-      "ref": "rostrevor-forest-walking-route"
-    },
-    {
-      "description": "Carlingford Lough",
-      "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
-      "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f9a2646d2798902ee167263ba38f737f.gpx",
-  "_geoloc": {
-    "lat": 54.2102362196,
-    "lng": -5.8905870248
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg/500px-View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg",
-      "title": "View south along the northern section of Newcastle's Promenade by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View south along the northern section of Newcastle's Promenade"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Path%2C_Tollymore_forest_park_%281%29_-_geograph.org.uk_-_1539979.jpg",
-      "title": "Albert Bridge / Path, Tollymore forest park (1)",
-      "caption": "Path, Tollymore forest park (1)"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Stile_and_drystone_wall_at_Fofanny_Dam_-_geograph.org.uk_-_971893.jpg",
-      "title": "Albert Bridge / Stile and drystone wall at Fofanny Dam",
-      "caption": "Stile and drystone wall at Fofanny Dam. The drystone wall forms the western boundary of the Fofanny Dam site. The stile is part of the \u0093Mourne Way\u0094 path leading from the Slievenaman Road (on the embankment at top right)."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Mourne_Way-Ulster_Way_ascending_towards_the_col_between_the_Glen_Valley_and_that_of_the_Shanky%27s_River._-_geograph.org.uk_-_4620759.jpg/500px-The_Mourne_Way-Ulster_Way_ascending_towards_the_col_between_the_Glen_Valley_and_that_of_the_Shanky%27s_River._-_geograph.org.uk_-_4620759.jpg",
-      "title": "The Mourne Way/Ulster Way ascending towards the col between the Glen Valley and that of the Shanky's River. by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Mourne Way-Ulster Way ascending towards the col between the Glen Valley and that of the Shanky's River."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Mourne_Way-Ulster_Way_from_Sandbank_Road_-_geograph.org.uk_-_3378798.jpg/500px-The_Mourne_Way-Ulster_Way_from_Sandbank_Road_-_geograph.org.uk_-_3378798.jpg",
-      "title": "The Mourne Way/Ulster Way from Sandbank Road by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Mourne Way-Ulster Way from Sandbank Road"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mourne_Way_crossing_-_geograph.org.uk_-_388174.jpg",
-      "title": "Andrew Spenceley / Mourne Way crossing",
-      "caption": "The Mourne Way footpath (and the Ulster Way) cross the road here and head towards Tollymore Forest and Newcastle. This is a popular starting point for walking in the Mournes which explains the parked cars on the road due to the car park provided (just out of sight) being full on this sunny Sunday afternoon."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Track_to_Rostrevor_forest_-_geograph.org.uk_-_457875.jpg",
-      "title": "Albert Bridge / Track to Rostrevor forest",
-      "caption": "Track to Rostrevor forest. Some whin bushes are still in flower long after those at lower levels are past."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_shore_of_Carlingford_Lough%2C_Rostrevor_-_geograph.org.uk_-_753816.jpg",
-      "title": "Oliver Dixon / The shore of Carlingford Lough, Rostrevor",
-      "caption": "The shore of Carlingford Lough, Rostrevor"
-    }
-  ],
-  "distance_km": 37.0,
-  "description": "This waymarked long distance trail takes you through the beautiful Mourne Mountains from Newcastle on the Irish Sea to Rostrevor on Carlingford Lough. The route runs for 37 km / 23 miles with some challenging climbs on the way. Starting on the coast at Newcastle you head west to the Tollymore Forest Park where you can enjoy some peaceful woodland trails and views of the Shimna River. The Trassey Track can also be picked up and followed through a spectacular mountain pass here. You continue south west along the river towards Slieve Meelmore and Slieve Meelbeg before coming to Fofanny Reservoir. The route then climbs past Butter Mountain before entering the Spelga Pass and crossing the River Bann, the longest river in Northern Ireland. In this area you can take a detour to visit the Spelga Dam where there are some splendid waterside trails. The next stage runs past Hen Mountain before following the Rocky River South to the Rowan Tree River. Here you turn west past Rocky Mountain before heading south west to enter the Rostrevor Forest. The expansive forest includes some waymarked footpaths and views of the Glen River. You'll also pass close to the Red Grade mountain bike trail as you make your way along the path. The final section passes Kilbroney Forest Park and Carlingford Lough before finishing in Rostrevor.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/cwB6kvtdxIk",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Newcastle Library, 141-143, Main Street, Newcastle, Newry, Mourne and Down District Council, Northern Ireland / Tuaisceart \u00c9ireann, BT33 0AE, United Kingdom",
-  "postcode": "BT33 0AE",
-  "district": "Newcastle",
-  "county": null,
-  "region": null,
-  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom",
-  "llama_cpp": true,
-  "estimated_duration": "2.5 to 3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "woodland",
-    "mountain"
-  ],
-  "points_of_interest": [
-    "river",
-    "reservoir",
-    "dam"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg/500px-View_south_along_the_northern_section_of_Newcastle%27s_Promenade_-_geograph.org.uk_-_2067493.jpg",
+            "title": "View south along the northern section of Newcastle's Promenade by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View south along the northern section of Newcastle's Promenade"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Path%2C_Tollymore_forest_park_%281%29_-_geograph.org.uk_-_1539979.jpg",
+            "title": "Albert Bridge / Path, Tollymore forest park (1)",
+            "caption": "Path, Tollymore forest park (1)"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Stile_and_drystone_wall_at_Fofanny_Dam_-_geograph.org.uk_-_971893.jpg",
+            "title": "Albert Bridge / Stile and drystone wall at Fofanny Dam",
+            "caption": "Stile and drystone wall at Fofanny Dam. The drystone wall forms the western boundary of the Fofanny Dam site. The stile is part of the \u0093Mourne Way\u0094 path leading from the Slievenaman Road (on the embankment at top right)."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Mourne_Way-Ulster_Way_ascending_towards_the_col_between_the_Glen_Valley_and_that_of_the_Shanky%27s_River._-_geograph.org.uk_-_4620759.jpg/500px-The_Mourne_Way-Ulster_Way_ascending_towards_the_col_between_the_Glen_Valley_and_that_of_the_Shanky%27s_River._-_geograph.org.uk_-_4620759.jpg",
+            "title": "The Mourne Way/Ulster Way ascending towards the col between the Glen Valley and that of the Shanky's River. by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Mourne Way-Ulster Way ascending towards the col between the Glen Valley and that of the Shanky's River."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Mourne_Way-Ulster_Way_from_Sandbank_Road_-_geograph.org.uk_-_3378798.jpg/500px-The_Mourne_Way-Ulster_Way_from_Sandbank_Road_-_geograph.org.uk_-_3378798.jpg",
+            "title": "The Mourne Way/Ulster Way from Sandbank Road by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Mourne Way-Ulster Way from Sandbank Road"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mourne_Way_crossing_-_geograph.org.uk_-_388174.jpg",
+            "title": "Andrew Spenceley / Mourne Way crossing",
+            "caption": "The Mourne Way footpath (and the Ulster Way) cross the road here and head towards Tollymore Forest and Newcastle. This is a popular starting point for walking in the Mournes which explains the parked cars on the road due to the car park provided (just out of sight) being full on this sunny Sunday afternoon."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Track_to_Rostrevor_forest_-_geograph.org.uk_-_457875.jpg",
+            "title": "Albert Bridge / Track to Rostrevor forest",
+            "caption": "Track to Rostrevor forest. Some whin bushes are still in flower long after those at lower levels are past."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_shore_of_Carlingford_Lough%2C_Rostrevor_-_geograph.org.uk_-_753816.jpg",
+            "title": "Oliver Dixon / The shore of Carlingford Lough, Rostrevor",
+            "caption": "The shore of Carlingford Lough, Rostrevor"
+        }
+    ],
+    "distance_km": 37.0,
+    "description": "This waymarked long distance trail takes you through the beautiful Mourne Mountains from Newcastle on the Irish Sea to Rostrevor on Carlingford Lough. The route runs for 37 km / 23 miles with some challenging climbs on the way. Starting on the coast at Newcastle you head west to the Tollymore Forest Park where you can enjoy some peaceful woodland trails and views of the Shimna River. The Trassey Track can also be picked up and followed through a spectacular mountain pass here. You continue south west along the river towards Slieve Meelmore and Slieve Meelbeg before coming to Fofanny Reservoir. The route then climbs past Butter Mountain before entering the Spelga Pass and crossing the River Bann, the longest river in Northern Ireland. In this area you can take a detour to visit the Spelga Dam where there are some splendid waterside trails. The next stage runs past Hen Mountain before following the Rocky River South to the Rowan Tree River. Here you turn west past Rocky Mountain before heading south west to enter the Rostrevor Forest. The expansive forest includes some waymarked footpaths and views of the Glen River. You'll also pass close to the Red Grade mountain bike trail as you make your way along the path. The final section passes Kilbroney Forest Park and Carlingford Lough before finishing in Rostrevor.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/cwB6kvtdxIk",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Newcastle Library, 141-143, Main Street, Newcastle, Newry, Mourne and Down District Council, Northern Ireland / Tuaisceart \u00c9ireann, BT33 0AE, United Kingdom",
+    "postcode": "BT33 0AE",
+    "district": "Newcastle",
+    "county": null,
+    "region": null,
+    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+    "country": "United Kingdom",
+    "llama_cpp": true,
+    "estimated_duration": "2.5 to 3 hours",
+    "difficulty": "moderate",
+    "terrain": ["coastal", "woodland", "mountain"],
+    "points_of_interest": ["river", "reservoir", "dam"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

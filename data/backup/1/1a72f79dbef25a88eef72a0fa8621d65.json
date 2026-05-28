@@ -1,115 +1,100 @@
 {
-  "created_at": "2025-01-06T09:06:30.895741+00:00",
-  "objectID": "1a72f79dbef25a88eef72a0fa8621d65",
-  "ref": "cowpen-bewley-woodland-park-walking-and-cycle-route",
-  "title": "Cowpen Bewley Woodland Park - Billingham Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_66856.jpg",
-  "nearby": [
-    {
-      "description": "Wynyard Woodland Park",
-      "objectID": "1201a146e7aafb8baeb0f4d53fe699cf",
-      "ref": "wynyard-woodland-park-walking-route"
+    "created_at": "2025-01-06T09:06:30.895741+00:00",
+    "objectID": "1a72f79dbef25a88eef72a0fa8621d65",
+    "ref": "cowpen-bewley-woodland-park-walking-and-cycle-route",
+    "title": "Cowpen Bewley Woodland Park - Billingham Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_66856.jpg",
+    "nearby": [
+        {
+            "description": "Wynyard Woodland Park",
+            "objectID": "1201a146e7aafb8baeb0f4d53fe699cf",
+            "ref": "wynyard-woodland-park-walking-route"
+        },
+        {
+            "description": "Coatham Woods",
+            "objectID": "c6fc4a650a19198d900847878e4eb4cd",
+            "ref": "coatham-woods-walking-route"
+        },
+        {
+            "description": "National Cycle Route 14",
+            "objectID": "520e9cfa9c750d43445b1029ddb2c042",
+            "ref": "national-cycle-route-14"
+        },
+        {
+            "description": "Billingham Beck Valley Country Park",
+            "objectID": "028442dcedd41f11547be99fd7adea88",
+            "ref": "billingham-beck-valley-country-park-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a72f79dbef25a88eef72a0fa8621d65.gpx",
+    "_geoloc": {
+        "lat": 54.6240323283,
+        "lng": -1.2688619348
     },
-    {
-      "description": "Coatham Woods",
-      "objectID": "c6fc4a650a19198d900847878e4eb4cd",
-      "ref": "coatham-woods-walking-route"
-    },
-    {
-      "description": "National Cycle Route 14",
-      "objectID": "520e9cfa9c750d43445b1029ddb2c042",
-      "ref": "national-cycle-route-14"
-    },
-    {
-      "description": "Billingham Beck Valley Country Park",
-      "objectID": "028442dcedd41f11547be99fd7adea88",
-      "ref": "billingham-beck-valley-country-park-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a72f79dbef25a88eef72a0fa8621d65.gpx",
-  "_geoloc": {
-    "lat": 54.6240323283,
-    "lng": -1.2688619348
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_66856.jpg",
-      "title": "Mick Garratt / Cowpen Bewley Woodland Country Park",
-      "caption": "Pond at the site"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Visitor_Centre_Cowpen_Bewley_Woodland_Park_-_geograph.org.uk_-_1376896.jpg",
-      "title": "peter robinson / Visitor Centre Cowpen Bewley Woodland Park",
-      "caption": "Visitor Centre Cowpen Bewley Woodland Park. The park also includes wildflower meadows, wetland areas and a lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Inscribed_stone_at_Cowpen_Bewley%2C_County_Durham%2C_England.jpg",
-      "title": "Carol Rose / \"The towers are tall....\"",
-      "caption": "Inscribed stone. \"The towers are tall....\" The park is peppered with carved stones bearing poetic quotes from local people."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Seat%2C_Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_103764.jpg",
-      "title": "Mick Garratt / Seat, Cowpen Bewley Woodland Country Park",
-      "caption": "Seat. Built in brick in recognition of the brickworks that originally stood on this land."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_lake_-_geograph.org.uk_-_497362.jpg",
-      "title": "Carol Rose / The lake",
-      "caption": "The lake in mid summer."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Across_the_wildflower_meadow_towards_the_pylons_-_geograph.org.uk_-_497354.jpg",
-      "title": "Carol Rose / Across the wildflower meadow towards the pylons",
-      "caption": "Across the wildflower meadow towards the pylons"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This country park in Billingham is the perfect place for a peaceful afternoon stroll. The park consists of grassland, a lake, a series of ponds and a beck flows which around the boundary of the park. The lake is fantastic for birdwatching - look out for coot, pochard, swans, grebes, herons and the tufted duck. For cyclists National Cycle Route 14 runs through the park. Just to the west of the park you will find Wynyard Woodland Park which is a great place to extend your woodland walking. Head south west and you can visit Coatham Woods where there's more nice trails and wildlife to see.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There's a nice on site cafe where you can enjoy rest and refreshment after your exercise."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The parkland and woodland are ideal for a dog walk. There are off lead and on lead areas because of the wildlife. It's a popular place for dog walkers so you'll probably meet other owners on your visit."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just two miles to the south west there's Billingham Beck Valley Country Park to explore. There's a visitor centre and pleasant nature trails along the pretty Billingham Beck to be found at this wildlife rich site."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/p8VZExjPo0Y",
-  "district": "Billingham",
-  "county": "Stockton-on-Tees",
-  "region": "Tees Valley",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Seal Sands Road, Cowpen Bewley, Billingham, Stockton-on-Tees, Tees Valley, England, TS23 3LT, United Kingdom",
-  "postcode": "TS23 3LT",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "grassland",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "lake",
-    "pond",
-    "beck"
-  ],
-  "facilities": [
-    "cafe",
-    "dog friendly"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling",
-    "birdwatching",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_66856.jpg",
+            "title": "Mick Garratt / Cowpen Bewley Woodland Country Park",
+            "caption": "Pond at the site"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Visitor_Centre_Cowpen_Bewley_Woodland_Park_-_geograph.org.uk_-_1376896.jpg",
+            "title": "peter robinson / Visitor Centre Cowpen Bewley Woodland Park",
+            "caption": "Visitor Centre Cowpen Bewley Woodland Park. The park also includes wildflower meadows, wetland areas and a lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Inscribed_stone_at_Cowpen_Bewley%2C_County_Durham%2C_England.jpg",
+            "title": "Carol Rose / \"The towers are tall....\"",
+            "caption": "Inscribed stone. \"The towers are tall....\" The park is peppered with carved stones bearing poetic quotes from local people."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Seat%2C_Cowpen_Bewley_Woodland_Country_Park_-_geograph.org.uk_-_103764.jpg",
+            "title": "Mick Garratt / Seat, Cowpen Bewley Woodland Country Park",
+            "caption": "Seat. Built in brick in recognition of the brickworks that originally stood on this land."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_lake_-_geograph.org.uk_-_497362.jpg",
+            "title": "Carol Rose / The lake",
+            "caption": "The lake in mid summer."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Across_the_wildflower_meadow_towards_the_pylons_-_geograph.org.uk_-_497354.jpg",
+            "title": "Carol Rose / Across the wildflower meadow towards the pylons",
+            "caption": "Across the wildflower meadow towards the pylons"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This country park in Billingham is the perfect place for a peaceful afternoon stroll. The park consists of grassland, a lake, a series of ponds and a beck flows which around the boundary of the park. The lake is fantastic for birdwatching - look out for coot, pochard, swans, grebes, herons and the tufted duck. For cyclists National Cycle Route 14 runs through the park. Just to the west of the park you will find Wynyard Woodland Park which is a great place to extend your woodland walking. Head south west and you can visit Coatham Woods where there's more nice trails and wildlife to see.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There's a nice on site cafe where you can enjoy rest and refreshment after your exercise."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The parkland and woodland are ideal for a dog walk. There are off lead and on lead areas because of the wildlife. It's a popular place for dog walkers so you'll probably meet other owners on your visit."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just two miles to the south west there's Billingham Beck Valley Country Park to explore. There's a visitor centre and pleasant nature trails along the pretty Billingham Beck to be found at this wildlife rich site."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/p8VZExjPo0Y",
+    "district": "Billingham",
+    "county": "Stockton-on-Tees",
+    "region": "Tees Valley",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Seal Sands Road, Cowpen Bewley, Billingham, Stockton-on-Tees, Tees Valley, England, TS23 3LT, United Kingdom",
+    "postcode": "TS23 3LT",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["grassland", "woodland"],
+    "points_of_interest": ["lake", "pond", "beck"],
+    "facilities": ["cafe", "dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking", "cycling", "bird watching", "dog walking"]
 }

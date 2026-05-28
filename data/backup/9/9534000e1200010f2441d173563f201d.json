@@ -1,133 +1,120 @@
 {
-  "created_at": "2025-01-06T03:35:37.117615+00:00",
-  "objectID": "9534000e1200010f2441d173563f201d",
-  "ref": "levington-walking-route",
-  "title": "Levington Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Levington_-_church%2C_pub_and_cottage_-_geograph.org.uk_-_1586627.jpg",
-  "nearby": [
-    {
-      "description": "Nacton Shores",
-      "objectID": "06a98d5f26f108a958b789848fedd487",
-      "ref": "nacton-shores-walking-route"
+    "created_at": "2025-01-06T03:35:37.117615+00:00",
+    "objectID": "9534000e1200010f2441d173563f201d",
+    "ref": "levington-walking-route",
+    "title": "Levington Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Levington_-_church%2C_pub_and_cottage_-_geograph.org.uk_-_1586627.jpg",
+    "nearby": [
+        {
+            "description": "Nacton Shores",
+            "objectID": "06a98d5f26f108a958b789848fedd487",
+            "ref": "nacton-shores-walking-route"
+        },
+        {
+            "description": "Orwell Country Park",
+            "objectID": "682a4eb1b6690e34683c67f1323a67b1",
+            "ref": "orwell-country-park-walking-route"
+        },
+        {
+            "description": "Suffolk Coast Path",
+            "objectID": "0e29c3db92e53d17066c601df86904be",
+            "ref": "suffolk-coast-path-walking-route"
+        },
+        {
+            "description": "Trimley Marshes",
+            "objectID": "b35ad0aafeac64a546b87e3c65adf575",
+            "ref": "trimley-marshes-walking-route"
+        },
+        {
+            "description": "Stour and Orwell Walk",
+            "objectID": "fd6a1cb844bf80f32c77a011fee71c29",
+            "ref": "stour-and-orwell-walk-walking-route"
+        },
+        {
+            "description": "Shotley Peninsula",
+            "objectID": "39b20e0f868cb2f3a266f568e45adc87",
+            "ref": "shotley-peninsula-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9534000e1200010f2441d173563f201d.gpx",
+    "_geoloc": {
+        "lat": 52.0058003784,
+        "lng": 1.2523992625
     },
-    {
-      "description": "Orwell Country Park",
-      "objectID": "682a4eb1b6690e34683c67f1323a67b1",
-      "ref": "orwell-country-park-walking-route"
-    },
-    {
-      "description": "Suffolk Coast Path",
-      "objectID": "0e29c3db92e53d17066c601df86904be",
-      "ref": "suffolk-coast-path-walking-route"
-    },
-    {
-      "description": "Trimley Marshes",
-      "objectID": "b35ad0aafeac64a546b87e3c65adf575",
-      "ref": "trimley-marshes-walking-route"
-    },
-    {
-      "description": "Stour and Orwell Walk",
-      "objectID": "fd6a1cb844bf80f32c77a011fee71c29",
-      "ref": "stour-and-orwell-walk-walking-route"
-    },
-    {
-      "description": "Shotley Peninsula",
-      "objectID": "39b20e0f868cb2f3a266f568e45adc87",
-      "ref": "shotley-peninsula-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9534000e1200010f2441d173563f201d.gpx",
-  "_geoloc": {
-    "lat": 52.0058003784,
-    "lng": 1.2523992625
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Levington_-_church%2C_pub_and_cottage_-_geograph.org.uk_-_1586627.jpg",
-      "title": "Bob Jones / Levington - church, pub and cottage",
-      "caption": "Levington - church, pub and cottage. This view from the green in front of the church takes in, from left to right, St Peter's Church, the Ship Inn and Hill Cottage."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Levington_Village_Sign_-_geograph.org.uk_-_1188022.jpg/500px-Levington_Village_Sign_-_geograph.org.uk_-_1188022.jpg",
-      "title": "Adrian Cable / Levington Village Sign",
-      "caption": "Levington Village Sign and cannon."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/St._Peter%27s%2C_the_parish_church_of_Levington_-_geograph.org.uk_-_560944.jpg",
-      "title": "Robert Edwards / St. Peter's; the parish church of Levington",
-      "caption": "St. Peter's; the parish church of the village. This is a lovely, well cared for church that stands in a pleasant setting next to an attractive pub. The church is mainly 16th century and replaced a much earlier one that stood a few hundred yards to the east."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footpath_along_Levington_Creek_-_geograph.org.uk_-_1592182.jpg",
-      "title": "Bob Jones / Footpath along Levington Creek",
-      "caption": "Footpath along Levington Creek. This path, part of the Stour and Orwell Walk, follows the west bank of the creek, an arm of the River Orwell."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Levington_Creek_-_geograph.org.uk_-_1592181.jpg",
-      "title": "Bob Jones / Levington Creek",
-      "caption": "Levington Creek. At high tide, this area is full of water. But when the tide is low, the creek dries out almost completely. The creek is a branch of the River Orwell and was once used by barges for loading goods from a quay at the head of the creek."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bank_of_the_River_Orwell_-_geograph.org.uk_-_1592162.jpg",
-      "title": "Bob Jones / Bank of the River Orwell",
-      "caption": "Bank of the River Orwell. The saltings at Levington Creek are rarely covered, except at spring hide tides."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Ship%2C_Levington_-_geograph.org.uk_-_1163173.jpg",
-      "title": "Oxymoron / The Ship, Levington",
-      "caption": "The Ship, Levington"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/River_Orwell_foreshore_at_Nacton_-_geograph.org.uk_-_861667.jpg",
-      "title": "Bob Jones / River Orwell foreshore at Nacton",
-      "caption": "River Orwell foreshore at Nacton. Known locally as 'Nacton Shore', the foreshore is a popular place to stroll along the banks of the River Orwell. A nearby car park makes the area easily accessible."
-    }
-  ],
-  "distance_km": 3.2,
-  "description": "This pretty East Suffolk based village is in an ideal spot for easy waterside walking. There's two waymarked trails, riverside footpaths and pockets of woodland to explore around the settlement. There's also an interesting 16th century church and a fine 14th century pub to investigate on the way. This circular walk from the village visits the lovely Levington Creek and Nacton Shores on the River Orwell. It's a delightful place for a stroll with views across the river to Chelmondiston on the opposite side. The walk starts in the village where you can pick up the Suffolk Coast Path and follow the waymarked trail south east towards Levington Creek. The pretty creek is a good spot for birdwatching with several species of water loving bird visiting the area. After passing along the creek you reach the river where you follow a trail west along Nacton Shore. There's a nice beach and the Levington Lagoon Nature Reserve on this stretch of the walk. After leaving the shore you head back to the village through Broke Hall Woods, following the Levington Road for the last stretch.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Back in the village head to The Ship for some post walk refreshment. It's an historic pub of some note, dating all the way back to the 14th century. The pub sits in a lovely spot, overlooking the Orwell River and next to the 16th century St Peter's Church. There's a charming interior with low ceilings and original beams as well as the warmth from the log burner. There's also pictures of sailing ships on the walls to add to the nautical theme. If the weather is good there's a decent outdoor area to relax in. You can find the picturesque thatched inn on Church Lane with a postcode of IP10 0LQ for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The area makes for a pleasant walk with your dog. The Ship Inn mentioned above is also very dog friendly with treats provided for your hungry friend."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "You could extend the walk by heading north from the village to the nearby Decoy Wood and Hobbins Walk where there's some nice woodland trails and pretty ponds. Part of this route uses the Stour and Orwell Walk. You could pick up this long distance footpath and head west to visit Orwell Country Park or east to the Trimley Marshes Nature Reserve where there are excellent wildlife spotting opportunities. On the opposite side of the river there's the beautiful Shotley Peninsula to explore. For more walking ideas in the area see the Suffolk Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/3yN9iSXTTK8",
-  "county": "Suffolk",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Church Lane, Levington, East Suffolk, Suffolk, England, IP10 0LG, United Kingdom",
-  "postcode": "IP10 0LG",
-  "district": "East Suffolk",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "waterside",
-    "woodland",
-    "beach"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Levington_-_church%2C_pub_and_cottage_-_geograph.org.uk_-_1586627.jpg",
+            "title": "Bob Jones / Levington - church, pub and cottage",
+            "caption": "Levington - church, pub and cottage. This view from the green in front of the church takes in, from left to right, St Peter's Church, the Ship Inn and Hill Cottage."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Levington_Village_Sign_-_geograph.org.uk_-_1188022.jpg/500px-Levington_Village_Sign_-_geograph.org.uk_-_1188022.jpg",
+            "title": "Adrian Cable / Levington Village Sign",
+            "caption": "Levington Village Sign and cannon."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/St._Peter%27s%2C_the_parish_church_of_Levington_-_geograph.org.uk_-_560944.jpg",
+            "title": "Robert Edwards / St. Peter's; the parish church of Levington",
+            "caption": "St. Peter's; the parish church of the village. This is a lovely, well cared for church that stands in a pleasant setting next to an attractive pub. The church is mainly 16th century and replaced a much earlier one that stood a few hundred yards to the east."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footpath_along_Levington_Creek_-_geograph.org.uk_-_1592182.jpg",
+            "title": "Bob Jones / Footpath along Levington Creek",
+            "caption": "Footpath along Levington Creek. This path, part of the Stour and Orwell Walk, follows the west bank of the creek, an arm of the River Orwell."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Levington_Creek_-_geograph.org.uk_-_1592181.jpg",
+            "title": "Bob Jones / Levington Creek",
+            "caption": "Levington Creek. At high tide, this area is full of water. But when the tide is low, the creek dries out almost completely. The creek is a branch of the River Orwell and was once used by barges for loading goods from a quay at the head of the creek."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bank_of_the_River_Orwell_-_geograph.org.uk_-_1592162.jpg",
+            "title": "Bob Jones / Bank of the River Orwell",
+            "caption": "Bank of the River Orwell. The saltings at Levington Creek are rarely covered, except at spring hide tides."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Ship%2C_Levington_-_geograph.org.uk_-_1163173.jpg",
+            "title": "Oxymoron / The Ship, Levington",
+            "caption": "The Ship, Levington"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/River_Orwell_foreshore_at_Nacton_-_geograph.org.uk_-_861667.jpg",
+            "title": "Bob Jones / River Orwell foreshore at Nacton",
+            "caption": "River Orwell foreshore at Nacton. Known locally as 'Nacton Shore', the foreshore is a popular place to stroll along the banks of the River Orwell. A nearby car park makes the area easily accessible."
+        }
+    ],
+    "distance_km": 3.2,
+    "description": "This pretty East Suffolk based village is in an ideal spot for easy waterside walking. There's two waymarked trails, riverside footpaths and pockets of woodland to explore around the settlement. There's also an interesting 16th century church and a fine 14th century pub to investigate on the way. This circular walk from the village visits the lovely Levington Creek and Nacton Shores on the River Orwell. It's a delightful place for a stroll with views across the river to Chelmondiston on the opposite side. The walk starts in the village where you can pick up the Suffolk Coast Path and follow the waymarked trail south east towards Levington Creek. The pretty creek is a good spot for birdwatching with several species of water loving bird visiting the area. After passing along the creek you reach the river where you follow a trail west along Nacton Shore. There's a nice beach and the Levington Lagoon Nature Reserve on this stretch of the walk. After leaving the shore you head back to the village through Broke Hall Woods, following the Levington Road for the last stretch.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Back in the village head to The Ship for some post walk refreshment. It's an historic pub of some note, dating all the way back to the 14th century. The pub sits in a lovely spot, overlooking the Orwell River and next to the 16th century St Peter's Church. There's a charming interior with low ceilings and original beams as well as the warmth from the log burner. There's also pictures of sailing ships on the walls to add to the nautical theme. If the weather is good there's a decent outdoor area to relax in. You can find the picturesque thatched inn on Church Lane with a postcode of IP10 0LQ for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The area makes for a pleasant walk with your dog. The Ship Inn mentioned above is also very dog friendly with treats provided for your hungry friend."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "You could extend the walk by heading north from the village to the nearby Decoy Wood and Hobbins Walk where there's some nice woodland trails and pretty ponds. Part of this route uses the Stour and Orwell Walk. You could pick up this long distance footpath and head west to visit Orwell Country Park or east to the Trimley Marshes Nature Reserve where there are excellent wildlife spotting opportunities. On the opposite side of the river there's the beautiful Shotley Peninsula to explore. For more walking ideas in the area see the Suffolk Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/3yN9iSXTTK8",
+    "county": "Suffolk",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Church Lane, Levington, East Suffolk, Suffolk, England, IP10 0LG, United Kingdom",
+    "postcode": "IP10 0LG",
+    "district": "East Suffolk",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["waterside", "woodland", "beach"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

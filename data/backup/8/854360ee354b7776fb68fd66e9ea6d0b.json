@@ -1,71 +1,64 @@
 {
-  "created_at": "2025-01-06T18:52:57.238364+00:00",
-  "objectID": "854360ee354b7776fb68fd66e9ea6d0b",
-  "ref": "carlow-oak-park-forest-walking-route",
-  "title": "Carlow Oak Park Forest Walk Route",
-  "nearby": [
-    {
-      "description": "Kilkenny River and Canal Walk",
-      "objectID": "189a945262bfbe88f4210c273ed85ebe",
-      "ref": "kilkenny-canal-and-river-walk"
+    "created_at": "2025-01-06T18:52:57.238364+00:00",
+    "objectID": "854360ee354b7776fb68fd66e9ea6d0b",
+    "ref": "carlow-oak-park-forest-walking-route",
+    "title": "Carlow Oak Park Forest Walk Route",
+    "nearby": [
+        {
+            "description": "Kilkenny River and Canal Walk",
+            "objectID": "189a945262bfbe88f4210c273ed85ebe",
+            "ref": "kilkenny-canal-and-river-walk"
+        },
+        {
+            "description": "Nore Valley Walk",
+            "objectID": "56b3be97c892b939b219607f8e173354",
+            "ref": "nore-valley-walk"
+        },
+        {
+            "description": "Tinahely Railway Walk",
+            "objectID": "c0e0d2c2e56fd1bf737d595b84980e8d",
+            "ref": "tinahely-railway-walk"
+        },
+        {
+            "description": "Mount Leinster",
+            "objectID": "f9aa6d458a1cee5570330b0454390f31",
+            "ref": "mount-leinster-walking-route"
+        },
+        {
+            "description": "Rock Of Dunamase",
+            "objectID": "aa678fa59283447e978c3d75db5a6b24",
+            "ref": "rock-of-dunamase-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/854360ee354b7776fb68fd66e9ea6d0b.gpx",
+    "_geoloc": {
+        "lat": 52.865651,
+        "lng": -6.8992847
     },
-    {
-      "description": "Nore Valley Walk",
-      "objectID": "56b3be97c892b939b219607f8e173354",
-      "ref": "nore-valley-walk"
-    },
-    {
-      "description": "Tinahely Railway Walk",
-      "objectID": "c0e0d2c2e56fd1bf737d595b84980e8d",
-      "ref": "tinahely-railway-walk"
-    },
-    {
-      "description": "Mount Leinster",
-      "objectID": "f9aa6d458a1cee5570330b0454390f31",
-      "ref": "mount-leinster-walking-route"
-    },
-    {
-      "description": "Rock Of Dunamase",
-      "objectID": "aa678fa59283447e978c3d75db5a6b24",
-      "ref": "rock-of-dunamase-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/854360ee354b7776fb68fd66e9ea6d0b.gpx",
-  "_geoloc": {
-    "lat": 52.865651,
-    "lng": -6.8992847
-  },
-  "distance_km": 4.2,
-  "description": "This circular walk follows the Oak Park Forest Loop near the town of Carlow in County Carlow, in the south-east of Ireland. The trail takes you along boardwalks surrounding a shallow man-made lake with a number of islands. It's set within a mature mixed species woodland on the grounds of an historic estate. The diverse habitat created by the combination of water and woodland supports a variety of wildlife, including wild and game birds, swans, and ducks. The serene environment and natural beauty make it a popular spot for walking and birdwatching. The trail offers an immersive experience in nature while also highlighting the historical context of the estate grounds.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the east there's the popular Tinahely Railway Walk along the old railway line around the pretty village of Tinahely. To the south west there's the some pleasant waterside paths on the Kilkenny River and Canal Walk. You can also pick up the Nore Valley Walk here."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/u2t_rsWysSM?si=xN84rabLIYIzN_6r&start=32",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Oak Park Forest Park, Lake Path, Ballaghmoon ED, The Municipal District of Athy, County Kildare, Leinster, R93 Y381, \u00c9ire / Ireland",
-  "postcode": "R93 Y381",
-  "district": null,
-  "county": "County Kildare",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "distance_km": 4.2,
+    "description": "This circular walk follows the Oak Park Forest Loop near the town of Carlow in County Carlow, in the south-east of Ireland. The trail takes you along boardwalks surrounding a shallow man-made lake with a number of islands. It's set within a mature mixed species woodland on the grounds of an historic estate. The diverse habitat created by the combination of water and woodland supports a variety of wildlife, including wild and game birds, swans, and ducks. The serene environment and natural beauty make it a popular spot for walking and birdwatching. The trail offers an immersive experience in nature while also highlighting the historical context of the estate grounds.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the east there's the popular Tinahely Railway Walk along the old railway line around the pretty village of Tinahely. To the south west there's the some pleasant waterside paths on the Kilkenny River and Canal Walk. You can also pick up the Nore Valley Walk here."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/u2t_rsWysSM?si=xN84rabLIYIzN_6r&start=32",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Oak Park Forest Park, Lake Path, Ballaghmoon ED, The Municipal District of Athy, County Kildare, Leinster, R93 Y381, \u00c9ire / Ireland",
+    "postcode": "R93 Y381",
+    "district": null,
+    "county": "County Kildare",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

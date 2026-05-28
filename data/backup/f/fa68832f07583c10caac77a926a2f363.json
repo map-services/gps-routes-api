@@ -1,134 +1,126 @@
 {
-  "created_at": "2025-01-06T04:22:02.255857+00:00",
-  "objectID": "fa68832f07583c10caac77a926a2f363",
-  "ref": "tring-reservoirs-walking-route",
-  "title": "Tring Reservoirs Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Canal_and_Reservoir_Information_-_Tring_Area_-_geograph.org.uk_-_1413799.jpg",
-  "nearby": [
-    {
-      "description": "Aylesbury Canal",
-      "objectID": "bf7723f77fda1ce52d1d8df58ca67594",
-      "ref": "aylesbury-canal-walking-route"
+    "created_at": "2025-01-06T04:22:02.255857+00:00",
+    "objectID": "fa68832f07583c10caac77a926a2f363",
+    "ref": "tring-reservoirs-walking-route",
+    "title": "Tring Reservoirs Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Canal_and_Reservoir_Information_-_Tring_Area_-_geograph.org.uk_-_1413799.jpg",
+    "nearby": [
+        {
+            "description": "Aylesbury Canal",
+            "objectID": "bf7723f77fda1ce52d1d8df58ca67594",
+            "ref": "aylesbury-canal-walking-route"
+        },
+        {
+            "description": "Ivinghoe Beacon",
+            "objectID": "33d3802ec0caac4aed08b1fd610248db",
+            "ref": "ivinghoe-beacon-walking-route"
+        },
+        {
+            "description": "Aylesbury Ring",
+            "objectID": "7341401f0c1ececc44346b20fdc92dc9",
+            "ref": "aylesbury-ring-walking-route"
+        },
+        {
+            "description": "Grand Union Canal Walk",
+            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+            "ref": "grand-union-canal-walk-walking-route"
+        },
+        {
+            "description": "Wendover Canal Arm",
+            "objectID": "6f544d39fe0772500395a75bbb09dc0c",
+            "ref": "wendover-canal-arm-walking-route"
+        },
+        {
+            "description": "Pitstone Windmill",
+            "objectID": "22345e9dcc1d1d342878a58d4f94c9b0",
+            "ref": "pitstone-windmill-walking-route"
+        },
+        {
+            "description": "Wilstone Reservoir",
+            "objectID": "17e9010f021f4deca2f2271979cf96c6",
+            "ref": "wilstone-reservoir-walking-route"
+        },
+        {
+            "description": "Weston Turville Reservoir",
+            "objectID": "ea415459e7e2f05dbda105ab349cd949",
+            "ref": "weston-turville-reservoir-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa68832f07583c10caac77a926a2f363.gpx",
+    "_geoloc": {
+        "lat": 51.8173696986,
+        "lng": -0.666753596
     },
-    {
-      "description": "Ivinghoe Beacon",
-      "objectID": "33d3802ec0caac4aed08b1fd610248db",
-      "ref": "ivinghoe-beacon-walking-route"
-    },
-    {
-      "description": "Aylesbury Ring",
-      "objectID": "7341401f0c1ececc44346b20fdc92dc9",
-      "ref": "aylesbury-ring-walking-route"
-    },
-    {
-      "description": "Grand Union Canal Walk",
-      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-      "ref": "grand-union-canal-walk-walking-route"
-    },
-    {
-      "description": "Wendover Canal Arm",
-      "objectID": "6f544d39fe0772500395a75bbb09dc0c",
-      "ref": "wendover-canal-arm-walking-route"
-    },
-    {
-      "description": "Pitstone Windmill",
-      "objectID": "22345e9dcc1d1d342878a58d4f94c9b0",
-      "ref": "pitstone-windmill-walking-route"
-    },
-    {
-      "description": "Wilstone Reservoir",
-      "objectID": "17e9010f021f4deca2f2271979cf96c6",
-      "ref": "wilstone-reservoir-walking-route"
-    },
-    {
-      "description": "Weston Turville Reservoir",
-      "objectID": "ea415459e7e2f05dbda105ab349cd949",
-      "ref": "weston-turville-reservoir-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa68832f07583c10caac77a926a2f363.gpx",
-  "_geoloc": {
-    "lat": 51.8173696986,
-    "lng": -0.666753596
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Canal_and_Reservoir_Information_-_Tring_Area_-_geograph.org.uk_-_1413799.jpg",
-      "title": "Chris Reynolds / Canal and Reservoir Information \u2013 Tring Area",
-      "caption": "The picture shows the Information Board in Startops End Car Park, Marsworth, erected in 2009"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Marsworth_and_Startops_Reservoirs._Tring_-_geograph.org.uk_-_1221320.jpg",
-      "title": "Chris Reynolds / Marsworth and Startops Reservoirs. Tring",
-      "caption": "Marsworth and Startops Reservoirs. Tring This is one of the few spots where it is possible to show parts of both Marsworth Reservoir (north west corner in the foreground) and Startops Reservoir (beyond the embankment). This spot is in Buckinghamshire, and the Hertfordshire boundary crosses the embankment just out of shot on the left."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Reed_Beds_at_Marsworth_Reservoir%2C_Tring_-_geograph.org.uk_-_1221149.jpg",
-      "title": "Chris Reynolds / The Reed Beds at Marsworth Reservoir, Tring",
-      "caption": "The Reed Beds at Marsworth Reservoir, Tring. This shows part of the reed beds on the south side of the reservoir. The beds are home for many reed buntings in the summer, and cuckoos, which lay their eggs in unsuspecting reed bunting nests can sometimes be seen and heard in the spring."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sunset_over_Startops_Reservoir%2C_Near_Tring_-_geograph.org.uk_-_1394127.jpg",
-      "title": "Chris Reynolds / Sunset over Startops Reservoir, Near Tring",
-      "caption": "Sunset over Startops Reservoir, Near Tring. This shows the western embankment and trees in silhouette, on a cloudy summer evening. The slightly lighter band shows that the reservoir water levels are low."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Trout_Fishing_from_a_boat_on_Tringford_Reservoir%2C_Tring_-_geograph.org.uk_-_1417928.jpg",
-      "title": "Chris Reynolds / Trout Fishing from a boat on Tringford Reservoir, Tring",
-      "caption": "Trout Fishing from a boat on Tringford Reservoir, Tring. In the background you can see the woodland walk on the left and the earth dam and spillway on the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Start_of_the_track_to_Wilstone_Reservoir%2C_near_Tring_-_geograph.org.uk_-_1440164.jpg",
-      "title": "Chris Reynolds / Start of the track to Wilstone Reservoir, near Tring",
-      "caption": "Start of the track to Wilstone Reservoir, near Tring. This track runs through a large field, of wheat in early August 2009, cut a few days later, and its verge contained a wide variety of plants, including thistle and burdock, which were attracting many butterflies on the first visit. A few days later the burdock was no longer flowering, and the wheat had been cut, and there were far less butterflies to be seen. While it may be an open track through a wheat field there is much to see if you know how to read the countryside and how it changes through the year."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/On_the_track_to_Wilstone_Reservoir_before_the_wheat_was_cut_-_geograph.org.uk_-_1440341.jpg",
-      "title": "Chris Reynolds / On the track to Wilstone Reservoir before the wheat was cut",
-      "caption": "On the track to Wilstone Reservoir before the wheat was cut. The Tree in the distance is at the corner where the track joins the B489 from Aston Clinton to Marsworth. Note the tags on the overhead electric cables which have been placed there to increase visibility for the many swans and geese that fly between the reservoirs in the Tring area"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Comma_Butterfly_on_Burdock%2C_near_Wilstone_Reservoir_-_geograph.org.uk_-_1440356.jpg",
-      "title": "Chris Reynolds / Comma Butterfly on Burdock, near Wilstone Reservoir",
-      "caption": "Comma Butterfly on Burdock, near Wilstone Reservoir. One of many butterflies seen on the verge-side vegetation on the track through a wheat field in early August."
-    }
-  ],
-  "distance_km": 8.5,
-  "description": "Enjoy a waterside walk around these pretty reservoirs in Hertfordshire. The four reservoirs include Startops End, Marsworth, Tringford and Wilstone Reservoir. They are fantastic for birdwatching with visitors including grebes, bitterns, peregrine falcon, pied flycatcher and ringed plovers. This circular walk starts at the village of Marsworth and takes you around the reservoirs on a series of footpaths before returning along the Grand Union Canal. It's a nice easy walk with many waterside sections. The walk can be extended by picking up the Aylesbury Ring or Grand Union Canal Walk which run through the area. You could head west along the Aylesbury Canal into Aylesbury which is about 6 miles from the reservoirs. You could also pick up the Wendover Canal Arm and follow it south west into Wendover.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Wilstone village you could enjoy some refreshments at the Half Moon. The classic village pub includes a fine interior with an inglenook fireplace, exposed wooden beams and old photographs featuring village scenes and personalities past and present. They serve good food and have a nice garden area for warmer days. You can find them on Tring Road at postcode HP23 4PD for your sat navs."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just over a mile east of Marsworth Reservoir you'll find the noteworthy Pitstone Windmill. The National Trust owned mill dates back to the 17th century and as is Grade II listed. For a small fee you can explore both the inner and outer workings of the mill and learn about the grinding of the flour in the milling process. The climb to the iconic Ivinghoe Beacon also starts from the windmill car park. From here you can enjoy wonderful views over the surrounding area. The circular Wiggington Walk and the Tring Circular Walk pass close to the site and provide a further opportunity for exploring the area. Head north along the canal and you can visit the historic village of Mentmore where you will find several interesting old buildings associated with the 19th century Mentmore Towers Estate. For more walking ideas in the area see the Chilterns Walks and Buckinghamshire Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/XrGvLY1BlbE",
-  "postcode": "HP23 4LN",
-  "district": "Marsworth",
-  "county": "Buckinghamshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "B489, Marsworth, Buckinghamshire, England, HP23 4LN, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "waterside"
-  ],
-  "points_of_interest": [
-    "birdwatching"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Canal_and_Reservoir_Information_-_Tring_Area_-_geograph.org.uk_-_1413799.jpg",
+            "title": "Chris Reynolds / Canal and Reservoir Information \u2013 Tring Area",
+            "caption": "The picture shows the Information Board in Startops End Car Park, Marsworth, erected in 2009"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Marsworth_and_Startops_Reservoirs._Tring_-_geograph.org.uk_-_1221320.jpg",
+            "title": "Chris Reynolds / Marsworth and Startops Reservoirs. Tring",
+            "caption": "Marsworth and Startops Reservoirs. Tring This is one of the few spots where it is possible to show parts of both Marsworth Reservoir (north west corner in the foreground) and Startops Reservoir (beyond the embankment). This spot is in Buckinghamshire, and the Hertfordshire boundary crosses the embankment just out of shot on the left."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Reed_Beds_at_Marsworth_Reservoir%2C_Tring_-_geograph.org.uk_-_1221149.jpg",
+            "title": "Chris Reynolds / The Reed Beds at Marsworth Reservoir, Tring",
+            "caption": "The Reed Beds at Marsworth Reservoir, Tring. This shows part of the reed beds on the south side of the reservoir. The beds are home for many reed buntings in the summer, and cuckoos, which lay their eggs in unsuspecting reed bunting nests can sometimes be seen and heard in the spring."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sunset_over_Startops_Reservoir%2C_Near_Tring_-_geograph.org.uk_-_1394127.jpg",
+            "title": "Chris Reynolds / Sunset over Startops Reservoir, Near Tring",
+            "caption": "Sunset over Startops Reservoir, Near Tring. This shows the western embankment and trees in silhouette, on a cloudy summer evening. The slightly lighter band shows that the reservoir water levels are low."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Trout_Fishing_from_a_boat_on_Tringford_Reservoir%2C_Tring_-_geograph.org.uk_-_1417928.jpg",
+            "title": "Chris Reynolds / Trout Fishing from a boat on Tringford Reservoir, Tring",
+            "caption": "Trout Fishing from a boat on Tringford Reservoir, Tring. In the background you can see the woodland walk on the left and the earth dam and spillway on the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Start_of_the_track_to_Wilstone_Reservoir%2C_near_Tring_-_geograph.org.uk_-_1440164.jpg",
+            "title": "Chris Reynolds / Start of the track to Wilstone Reservoir, near Tring",
+            "caption": "Start of the track to Wilstone Reservoir, near Tring. This track runs through a large field, of wheat in early August 2009, cut a few days later, and its verge contained a wide variety of plants, including thistle and burdock, which were attracting many butterflies on the first visit. A few days later the burdock was no longer flowering, and the wheat had been cut, and there were far less butterflies to be seen. While it may be an open track through a wheat field there is much to see if you know how to read the countryside and how it changes through the year."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/On_the_track_to_Wilstone_Reservoir_before_the_wheat_was_cut_-_geograph.org.uk_-_1440341.jpg",
+            "title": "Chris Reynolds / On the track to Wilstone Reservoir before the wheat was cut",
+            "caption": "On the track to Wilstone Reservoir before the wheat was cut. The Tree in the distance is at the corner where the track joins the B489 from Aston Clinton to Marsworth. Note the tags on the overhead electric cables which have been placed there to increase visibility for the many swans and geese that fly between the reservoirs in the Tring area"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Comma_Butterfly_on_Burdock%2C_near_Wilstone_Reservoir_-_geograph.org.uk_-_1440356.jpg",
+            "title": "Chris Reynolds / Comma Butterfly on Burdock, near Wilstone Reservoir",
+            "caption": "Comma Butterfly on Burdock, near Wilstone Reservoir. One of many butterflies seen on the verge-side vegetation on the track through a wheat field in early August."
+        }
+    ],
+    "distance_km": 8.5,
+    "description": "Enjoy a waterside walk around these pretty reservoirs in Hertfordshire. The four reservoirs include Startops End, Marsworth, Tringford and Wilstone Reservoir. They are fantastic for birdwatching with visitors including grebes, bitterns, peregrine falcon, pied flycatcher and ringed plovers. This circular walk starts at the village of Marsworth and takes you around the reservoirs on a series of footpaths before returning along the Grand Union Canal. It's a nice easy walk with many waterside sections. The walk can be extended by picking up the Aylesbury Ring or Grand Union Canal Walk which run through the area. You could head west along the Aylesbury Canal into Aylesbury which is about 6 miles from the reservoirs. You could also pick up the Wendover Canal Arm and follow it south west into Wendover.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Wilstone village you could enjoy some refreshments at the Half Moon. The classic village pub includes a fine interior with an inglenook fireplace, exposed wooden beams and old photographs featuring village scenes and personalities past and present. They serve good food and have a nice garden area for warmer days. You can find them on Tring Road at postcode HP23 4PD for your sat navs."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just over a mile east of Marsworth Reservoir you'll find the noteworthy Pitstone Windmill. The National Trust owned mill dates back to the 17th century and as is Grade II listed. For a small fee you can explore both the inner and outer workings of the mill and learn about the grinding of the flour in the milling process. The climb to the iconic Ivinghoe Beacon also starts from the windmill car park. From here you can enjoy wonderful views over the surrounding area. The circular Wiggington Walk and the Tring Circular Walk pass close to the site and provide a further opportunity for exploring the area. Head north along the canal and you can visit the historic village of Mentmore where you will find several interesting old buildings associated with the 19th century Mentmore Towers Estate. For more walking ideas in the area see the Chilterns Walks and Buckinghamshire Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/XrGvLY1BlbE",
+    "postcode": "HP23 4LN",
+    "district": "Marsworth",
+    "county": "Buckinghamshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "B489, Marsworth, Buckinghamshire, England, HP23 4LN, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "easy",
+    "terrain": ["waterside"],
+    "points_of_interest": ["bird watching"],
+    "facilities": ["pub/cafe"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

@@ -1,165 +1,159 @@
 {
-  "created_at": "2025-01-06T10:23:11.792763+00:00",
-  "objectID": "c2688761818da5c0690858557f78957f",
-  "ref": "heart-of-wales-line-trail-walking-route",
-  "title": "Heart of Wales Line Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heart_of_Wales_Line.jpg/500px-Heart_of_Wales_Line.jpg",
-  "nearby": [
-    {
-      "description": "Stokesay Castle",
-      "objectID": "978c41ad6ca487c7afd0ef9260e454a3",
-      "ref": "stokesay-castle-walking-route"
+    "created_at": "2025-01-06T10:23:11.792763+00:00",
+    "objectID": "c2688761818da5c0690858557f78957f",
+    "ref": "heart-of-wales-line-trail-walking-route",
+    "title": "Heart of Wales Line Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heart_of_Wales_Line.jpg/500px-Heart_of_Wales_Line.jpg",
+    "nearby": [
+        {
+            "description": "Stokesay Castle",
+            "objectID": "978c41ad6ca487c7afd0ef9260e454a3",
+            "ref": "stokesay-castle-walking-route"
+        },
+        {
+            "description": "Millennium Coastal Park Llanelli",
+            "objectID": "2f300ce81b853d6000c4a11ad0dbadfe",
+            "ref": "millennium-coastal-park-llanelli-walking-and-cycle-route"
+        },
+        {
+            "description": "Hopton Castle",
+            "objectID": "d3d69ed7fe962dc4c5dab4a446a1f844",
+            "ref": "hopton-castle-walking-route"
+        },
+        {
+            "description": "Knighton",
+            "objectID": "0a99012b873d88c0d5d0a3d17af78b38",
+            "ref": "knighton-walking-route"
+        },
+        {
+            "description": "Llandrindod Wells",
+            "objectID": "b2dbb7d26cfcceb406498c7e8ef13eaa",
+            "ref": "llandrindod-wells-walking-route"
+        },
+        {
+            "description": "Builth Wells",
+            "objectID": "b45e35871e82e8edd93625919f17337e",
+            "ref": "builth-wells-walking-route"
+        },
+        {
+            "description": "LLanwrtyd Wells",
+            "objectID": "bbe6ac5cf4fb9b9a87680d6605e645d6",
+            "ref": "llanwrtyd-wells-walking-route"
+        },
+        {
+            "description": "Llandovery",
+            "objectID": "e5df8561fc93e8d51c3449d46770f0bf",
+            "ref": "llandovery-walking-route"
+        },
+        {
+            "description": "Llandeilo",
+            "objectID": "b0717f3be00132f3498f648deaa4665e",
+            "ref": "llandeilo-walking-route"
+        },
+        {
+            "description": "Pontarddulais",
+            "objectID": "88070ba9baa43b21a2eda6b61e798b8d",
+            "ref": "pontarddulais-walking-route"
+        },
+        {
+            "description": "Cynghordy Viaduct",
+            "objectID": "4a7ca34c767eb71907b977443a4f3b7f",
+            "ref": "cynghordy-viaduct-walking-route"
+        },
+        {
+            "description": "Knucklas Viaduct",
+            "objectID": "facf166cf4ebaab64ef5d7b0e650c15f",
+            "ref": "knucklas-viaduct-walking-route"
+        },
+        {
+            "description": "Garn Goch",
+            "objectID": "c551e3005c143f7ca7ba00491c2ce37a",
+            "ref": "garn-goch-walking-route"
+        },
+        {
+            "description": "Carreg Cennen Castle",
+            "objectID": "d08ed831640b255ad7cabcd8b2d5439e",
+            "ref": "carreg-cennen-castle-walking-route"
+        },
+        {
+            "description": "Ammanford",
+            "objectID": "1e7dac34e106065a03b7700407d6fa8c",
+            "ref": "ammanford-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c2688761818da5c0690858557f78957f.gpx",
+    "_geoloc": {
+        "lat": 52.4376337357,
+        "lng": -2.8337073187
     },
-    {
-      "description": "Millennium Coastal Park Llanelli",
-      "objectID": "2f300ce81b853d6000c4a11ad0dbadfe",
-      "ref": "millennium-coastal-park-llanelli-walking-and-cycle-route"
-    },
-    {
-      "description": "Hopton Castle",
-      "objectID": "d3d69ed7fe962dc4c5dab4a446a1f844",
-      "ref": "hopton-castle-walking-route"
-    },
-    {
-      "description": "Knighton",
-      "objectID": "0a99012b873d88c0d5d0a3d17af78b38",
-      "ref": "knighton-walking-route"
-    },
-    {
-      "description": "Llandrindod Wells",
-      "objectID": "b2dbb7d26cfcceb406498c7e8ef13eaa",
-      "ref": "llandrindod-wells-walking-route"
-    },
-    {
-      "description": "Builth Wells",
-      "objectID": "b45e35871e82e8edd93625919f17337e",
-      "ref": "builth-wells-walking-route"
-    },
-    {
-      "description": "LLanwrtyd Wells",
-      "objectID": "bbe6ac5cf4fb9b9a87680d6605e645d6",
-      "ref": "llanwrtyd-wells-walking-route"
-    },
-    {
-      "description": "Llandovery",
-      "objectID": "e5df8561fc93e8d51c3449d46770f0bf",
-      "ref": "llandovery-walking-route"
-    },
-    {
-      "description": "Llandeilo",
-      "objectID": "b0717f3be00132f3498f648deaa4665e",
-      "ref": "llandeilo-walking-route"
-    },
-    {
-      "description": "Pontarddulais",
-      "objectID": "88070ba9baa43b21a2eda6b61e798b8d",
-      "ref": "pontarddulais-walking-route"
-    },
-    {
-      "description": "Cynghordy Viaduct",
-      "objectID": "4a7ca34c767eb71907b977443a4f3b7f",
-      "ref": "cynghordy-viaduct-walking-route"
-    },
-    {
-      "description": "Knucklas Viaduct",
-      "objectID": "facf166cf4ebaab64ef5d7b0e650c15f",
-      "ref": "knucklas-viaduct-walking-route"
-    },
-    {
-      "description": "Garn Goch",
-      "objectID": "c551e3005c143f7ca7ba00491c2ce37a",
-      "ref": "garn-goch-walking-route"
-    },
-    {
-      "description": "Carreg Cennen Castle",
-      "objectID": "d08ed831640b255ad7cabcd8b2d5439e",
-      "ref": "carreg-cennen-castle-walking-route"
-    },
-    {
-      "description": "Ammanford",
-      "objectID": "1e7dac34e106065a03b7700407d6fa8c",
-      "ref": "ammanford-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c2688761818da5c0690858557f78957f.gpx",
-  "_geoloc": {
-    "lat": 52.4376337357,
-    "lng": -2.8337073187
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heart_of_Wales_Line.jpg/500px-Heart_of_Wales_Line.jpg",
-      "title": "Flying Stag, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Heart of Wales line near Sugar Loaf looking towards Shrewsbury"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Knighton_railway_station%2C_Shropshire._Heart_of_Wales_Line._The_view_towards_Shrewsbury.jpg/500px-Knighton_railway_station%2C_Shropshire._Heart_of_Wales_Line._The_view_towards_Shrewsbury.jpg",
-      "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Knighton railway station, Shropshire. Heart of Wales Line. The view towards Shrewsbury"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llandrindod_railway_station%2C_Heart_of_Wales_line%2C_Powys._Signal_box_and_view_south.jpg/500px-Llandrindod_railway_station%2C_Heart_of_Wales_line%2C_Powys._Signal_box_and_view_south.jpg",
-      "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Llandrindod railway station, Heart of Wales line, Powys. Signal box and view south"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Train_on_Cynghordy_Viaduct%2C_Heart_of_Wales_line_-_geograph.org.uk_-_470902.jpg",
-      "title": "Wim Kegel / Train on Cynghordy Viaduct, Heart of Wales line",
-      "caption": "Train on Cynghordy Viaduct, Heart of Wales line"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Llanwrtyd_station_geograph-3368830-by-Ben-Brooksbank.jpg/500px-Llanwrtyd_station_geograph-3368830-by-Ben-Brooksbank.jpg",
-      "title": "Ben Brooksbank / Llanwrtyd station, with Up train",
-      "caption": "Llanwrtyd station. View eastward, towards Llandrindod, Craven Arms and Shrewsbury: ex-LNWR (Shrewsbury) - Craven Arms - Llandrindod Wells - Llandovery - Swansea Victoria, Central Wales line. Since 15/6/64, when Swansea Victoria and the line to it from Pontardulais were closed, the service has run via Llanelli. The station - 'Llanwrtyd Wells' until 12/5/80 - had been refurbished in connection with the upgrading of the route as the 'Heart of Wales' line. The Class 153 DMU is bound for Shrewsbury."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nant_y_Cae_%28stream%29_from_the_Heart_of_Wales_railway_line_-_geograph.org.uk_-_1749569.jpg/500px-Nant_y_Cae_%28stream%29_from_the_Heart_of_Wales_railway_line_-_geograph.org.uk_-_1749569.jpg",
-      "title": "Ruth Sharville / Nant y Cae (stream) from the Heart of Wales railway line",
-      "caption": "Nant y Cae (stream) from the Heart of Wales railway line"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_lake%2C_Llandrindod_Wells_-_geograph.org.uk_-_2527055.jpg/500px-The_lake%2C_Llandrindod_Wells_-_geograph.org.uk_-_2527055.jpg",
-      "title": "The lake, Llandrindod Wells by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The lake, Llandrindod Wells"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pavilion_Cafe_at_8km_on_the_Llanelli_Millennium_Coastal_Park_-_geograph.org.uk_-_853893.jpg",
-      "title": "Colin Bell / Pavilion Cafe at 8km on the Llanelli Millennium Coastal Park",
-      "caption": "Pavilion Cafe at 8km on the Llanelli Millennium Coastal Park"
-    }
-  ],
-  "distance_km": 230.0,
-  "description": "This long distance trail runs from Craven Arms in Shropshire to Llanelli in South Wales. The 143 mile trail explores the Heart of Wales Railway Line, a wonderful rural railway running between Swansea and Shrewsbury. On the walk you'll visit several train stations, old railway lines and photogenic railway viaducts. The trail heads includes sections through Shropshire, Powys, Carmarthenshire, the Brecon Beacons National Park, and the City & County of Swansea. Starting from Craven Arms you head to Hopton Castle, Knighton, Knucklas Viaduct, Llandrindod Wells, Builth Wells, LLanwrtyd Wells, Llandovery, Garn Goch Iron Age Hill Fort, Llandeilo, Carreg Cennen Castle, Ammanford and Gorseinon before finishing at the splendid Millennium Coastal Park in Llanelli. One nice idea is to catch the train to one of the stations and then walk part of the trail to the next station. You can see the route on OS maps on the link below. There is also a gpx download of the route at the bottom of the page.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/cDL5Y91W1L8",
-  "district": "Craven Arms",
-  "county": "Shropshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Ludlow Road, Stokesay, Craven Arms, Shropshire, England, SY7 9PD, United Kingdom",
-  "postcode": "SY7 9PD",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "multiple days",
-  "difficulty": "moderate",
-  "terrain": [
-    "rural"
-  ],
-  "points_of_interest": [
-    "train station",
-    "railway line",
-    "viaduct",
-    "hill fort",
-    "castle",
-    "coastal park"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heart_of_Wales_Line.jpg/500px-Heart_of_Wales_Line.jpg",
+            "title": "Flying Stag, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Heart of Wales line near Sugar Loaf looking towards Shrewsbury"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Knighton_railway_station%2C_Shropshire._Heart_of_Wales_Line._The_view_towards_Shrewsbury.jpg/500px-Knighton_railway_station%2C_Shropshire._Heart_of_Wales_Line._The_view_towards_Shrewsbury.jpg",
+            "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Knighton railway station, Shropshire. Heart of Wales Line. The view towards Shrewsbury"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Llandrindod_railway_station%2C_Heart_of_Wales_line%2C_Powys._Signal_box_and_view_south.jpg/500px-Llandrindod_railway_station%2C_Heart_of_Wales_line%2C_Powys._Signal_box_and_view_south.jpg",
+            "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Llandrindod railway station, Heart of Wales line, Powys. Signal box and view south"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Train_on_Cynghordy_Viaduct%2C_Heart_of_Wales_line_-_geograph.org.uk_-_470902.jpg",
+            "title": "Wim Kegel / Train on Cynghordy Viaduct, Heart of Wales line",
+            "caption": "Train on Cynghordy Viaduct, Heart of Wales line"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Llanwrtyd_station_geograph-3368830-by-Ben-Brooksbank.jpg/500px-Llanwrtyd_station_geograph-3368830-by-Ben-Brooksbank.jpg",
+            "title": "Ben Brooksbank / Llanwrtyd station, with Up train",
+            "caption": "Llanwrtyd station. View eastward, towards Llandrindod, Craven Arms and Shrewsbury: ex-LNWR (Shrewsbury) - Craven Arms - Llandrindod Wells - Llandovery - Swansea Victoria, Central Wales line. Since 15/6/64, when Swansea Victoria and the line to it from Pontardulais were closed, the service has run via Llanelli. The station - 'Llanwrtyd Wells' until 12/5/80 - had been refurbished in connection with the upgrading of the route as the 'Heart of Wales' line. The Class 153 DMU is bound for Shrewsbury."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nant_y_Cae_%28stream%29_from_the_Heart_of_Wales_railway_line_-_geograph.org.uk_-_1749569.jpg/500px-Nant_y_Cae_%28stream%29_from_the_Heart_of_Wales_railway_line_-_geograph.org.uk_-_1749569.jpg",
+            "title": "Ruth Sharville / Nant y Cae (stream) from the Heart of Wales railway line",
+            "caption": "Nant y Cae (stream) from the Heart of Wales railway line"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_lake%2C_Llandrindod_Wells_-_geograph.org.uk_-_2527055.jpg/500px-The_lake%2C_Llandrindod_Wells_-_geograph.org.uk_-_2527055.jpg",
+            "title": "The lake, Llandrindod Wells by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The lake, Llandrindod Wells"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pavilion_Cafe_at_8km_on_the_Llanelli_Millennium_Coastal_Park_-_geograph.org.uk_-_853893.jpg",
+            "title": "Colin Bell / Pavilion Cafe at 8km on the Llanelli Millennium Coastal Park",
+            "caption": "Pavilion Cafe at 8km on the Llanelli Millennium Coastal Park"
+        }
+    ],
+    "distance_km": 230.0,
+    "description": "This long distance trail runs from Craven Arms in Shropshire to Llanelli in South Wales. The 143 mile trail explores the Heart of Wales Railway Line, a wonderful rural railway running between Swansea and Shrewsbury. On the walk you'll visit several train stations, old railway lines and photogenic railway viaducts. The trail heads includes sections through Shropshire, Powys, Carmarthenshire, the Brecon Beacons National Park, and the City & County of Swansea. Starting from Craven Arms you head to Hopton Castle, Knighton, Knucklas Viaduct, Llandrindod Wells, Builth Wells, LLanwrtyd Wells, Llandovery, Garn Goch Iron Age Hill Fort, Llandeilo, Carreg Cennen Castle, Ammanford and Gorseinon before finishing at the splendid Millennium Coastal Park in Llanelli. One nice idea is to catch the train to one of the stations and then walk part of the trail to the next station. You can see the route on OS maps on the link below. There is also a gpx download of the route at the bottom of the page.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/cDL5Y91W1L8",
+    "district": "Craven Arms",
+    "county": "Shropshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Ludlow Road, Stokesay, Craven Arms, Shropshire, England, SY7 9PD, United Kingdom",
+    "postcode": "SY7 9PD",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "multiple days",
+    "difficulty": "moderate",
+    "terrain": ["rural"],
+    "points_of_interest": [
+        "train station",
+        "railway line",
+        "viaduct",
+        "hill fort",
+        "castle",
+        "coastal park"
+    ],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

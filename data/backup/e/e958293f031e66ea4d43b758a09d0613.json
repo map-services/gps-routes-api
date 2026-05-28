@@ -1,143 +1,132 @@
 {
-  "created_at": "2025-01-06T03:06:58.265790+00:00",
-  "objectID": "e958293f031e66ea4d43b758a09d0613",
-  "ref": "wicklow-way-walking-route",
-  "title": "Wicklow Way Walk Map Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wicklow_Way_Marlay_Park_Trailhead.jpg/500px-Wicklow_Way_Marlay_Park_Trailhead.jpg",
-  "nearby": [
-    {
-      "description": "Ballinastoe Forest",
-      "objectID": "57e5521d844967a9264fb3bdef5ca831",
-      "ref": "ballinastoe-forest-walking-route"
+    "created_at": "2025-01-06T03:06:58.265790+00:00",
+    "objectID": "e958293f031e66ea4d43b758a09d0613",
+    "ref": "wicklow-way-walking-route",
+    "title": "Wicklow Way Walk Map Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wicklow_Way_Marlay_Park_Trailhead.jpg/500px-Wicklow_Way_Marlay_Park_Trailhead.jpg",
+    "nearby": [
+        {
+            "description": "Ballinastoe Forest",
+            "objectID": "57e5521d844967a9264fb3bdef5ca831",
+            "ref": "ballinastoe-forest-walking-route"
+        },
+        {
+            "description": "Lough Dan",
+            "objectID": "8232e0efe9474e0dc28c67d564aebbf5",
+            "ref": "lough-dan-walking-route"
+        },
+        {
+            "description": "Powerscourt Waterfall",
+            "objectID": "1ac9e90068dfdfcdf19a68065209695c",
+            "ref": "powerscourt-waterfall-walking-route"
+        },
+        {
+            "description": "Djouce Mountain",
+            "objectID": "1c2610f610fdb0c23f09c052e47550e4",
+            "ref": "djouce-mountain-walking-route"
+        },
+        {
+            "description": "Glendalough Lake",
+            "objectID": "9298f601fc5176e6b6db00f5c2eb4222",
+            "ref": "glendalough-lake-walking-route"
+        },
+        {
+            "description": "Luggala",
+            "objectID": "15acbd715991bd00d1d2d14293e0f8a2",
+            "ref": "luggala-walking-route"
+        },
+        {
+            "description": "Dublin Mountains Way",
+            "objectID": "13522940808aebe1977fa18a3d576bb9",
+            "ref": "dublin-mountains-way-walking-route"
+        },
+        {
+            "description": "South Leinster Way",
+            "objectID": "84914fd23b624c4a9d1287db0ad14bac",
+            "ref": "south-leinster-way-walking-route"
+        },
+        {
+            "description": "Ticknock Forest",
+            "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
+            "ref": "ticknock-forest-walking-route"
+        },
+        {
+            "description": "Crone Woods",
+            "objectID": "c7127a322940f00c0783c17fe68a775b",
+            "ref": "crone-woods-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e958293f031e66ea4d43b758a09d0613.gpx",
+    "_geoloc": {
+        "lat": 53.27829,
+        "lng": -6.26964
     },
-    {
-      "description": "Lough Dan",
-      "objectID": "8232e0efe9474e0dc28c67d564aebbf5",
-      "ref": "lough-dan-walking-route"
-    },
-    {
-      "description": "Powerscourt Waterfall",
-      "objectID": "1ac9e90068dfdfcdf19a68065209695c",
-      "ref": "powerscourt-waterfall-walking-route"
-    },
-    {
-      "description": "Djouce Mountain",
-      "objectID": "1c2610f610fdb0c23f09c052e47550e4",
-      "ref": "djouce-mountain-walking-route"
-    },
-    {
-      "description": "Glendalough Lake",
-      "objectID": "9298f601fc5176e6b6db00f5c2eb4222",
-      "ref": "glendalough-lake-walking-route"
-    },
-    {
-      "description": "Luggala",
-      "objectID": "15acbd715991bd00d1d2d14293e0f8a2",
-      "ref": "luggala-walking-route"
-    },
-    {
-      "description": "Dublin Mountains Way",
-      "objectID": "13522940808aebe1977fa18a3d576bb9",
-      "ref": "dublin-mountains-way-walking-route"
-    },
-    {
-      "description": "South Leinster Way",
-      "objectID": "84914fd23b624c4a9d1287db0ad14bac",
-      "ref": "south-leinster-way-walking-route"
-    },
-    {
-      "description": "Ticknock Forest",
-      "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
-      "ref": "ticknock-forest-walking-route"
-    },
-    {
-      "description": "Crone Woods",
-      "objectID": "c7127a322940f00c0783c17fe68a775b",
-      "ref": "crone-woods-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e958293f031e66ea4d43b758a09d0613.gpx",
-  "_geoloc": {
-    "lat": 53.27829,
-    "lng": -6.26964
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wicklow_Way_Marlay_Park_Trailhead.jpg/500px-Wicklow_Way_Marlay_Park_Trailhead.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "The trailhead of the Wicklow Way in Marlay Park, Dublin. The trailhead is denoted by a map board (not shown) and a low stone wall with a stile through which walkers pass to make their first step on the Wicklow Way. The wall was erected in 2006 as part of a series of works to mark the 25th anniversary of the opening of the Way."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/J_B_Malone_Memorial.jpg/500px-J_B_Malone_Memorial.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "The J. B. Malone memorial overlooking Lough Tay in the Wicklow Mountains National Park on the Wicklow Way walking trail, County Wicklow"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wicklow_Way_near_Moyne.jpg/500px-Wicklow_Way_near_Moyne.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Near Moyne"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wicklow_Way_Glendalough.jpg/500px-Wicklow_Way_Glendalough.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Crossing the Glendasan River near the Monastic City of Glendalough, County Wicklow"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wicklow_Way_Lugnaquilla.jpg/500px-Wicklow_Way_Lugnaquilla.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Lugnaquilla, the highest mountain in County Wicklow, Ireland at 925 metres, as seen from the Wicklow Way hiking trail on the saddle between Lugduff and Mullacor mountains."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wicklow_Way_Halfway_Point.jpg/500px-Wicklow_Way_Halfway_Point.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Stone pillar at the entrance to Drumgoff Forest, County Wicklow, marking the halfway point of the Wicklow Way. The pillar shows the walker waymarker you will see on your walk."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wicklow_Way_Marker_Curtlestown.jpg/500px-Wicklow_Way_Marker_Curtlestown.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "A waymarker on the Wicklow Way National Waymarked Trail near Curtlestown Wood, County Wicklow overlooking the Glencree valley with the mountains Maulin, Djouce and War Hill in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wicklow_Way_Clonegal_Trailhead.jpg/500px-Wicklow_Way_Clonegal_Trailhead.jpg",
-      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "The trailhead of the Wicklow Way in Clonegal, County Carlow."
-    }
-  ],
-  "distance_km": 131.0,
-  "description": "This epic long distance walking trail runs from Dublin to Clonegal via the wonderful scenery of the Wicklow Mountains. The waymarked route runs for 131-kilometres (81 miles) and passes through some spectacular mountainous terrain with several beautiful loughs (lakes) to see on the way. The walk starts off in Marlay Park on the southern outskirts of the city of Dublin. You then head south into the Wicklow Mountains passing through Ticknock Forest where you can climb to the Two Rock and Three Rock Mountains and enjoy amazing views to Dublin. You continue through the woodland trails of Ballinastoe Forest. In this area you will pass the J B Malone Memorial, a significant milestone on the walk. Malone was a hill walking enthusiast who originally proposed the Wicklow Way in 1966. You continue south passing Djouce Mountain and the beautiful lakes of Lough Dan and Lough Tay where there are some splendid views over the water to the surrounding mountains. You continue past the picturesque Glendalough Lake to Drumgoff Forest and then into the into the Glenmalure Valley. The next stage runs to Moyne passing Carrickashane Mountain and Slieve Maan before coming to the flatter farmland of County Carlow. You continue to Shillelagh on an easier section, passing Ballycumber hill and Coolafunshoge with some lovely views of the green countryside and Muskeagh Hill. The final section takes you into Clonegal, passing Raheenakit Forest, Stokeen, Moylisha and the Urelands hills. There's also views of the Derry River Valley as you make your way to the finish point at Clonegal.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "At Tibradden Wood the rotue links up with the Dublin Mountains Way. This epic route explores different areas of the Wicklow Mountains running from Shankill in Dublin in the east to Tallaght in the west. At Kildavin, near the southern trailhead you can pick up the South Leinster Way. The National Waymarked Trail runs for 104km from Kildavin, County Carlow to Carrick-on-Suir in County Tipperary."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/M09-GOkW_0Y",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "C2016, Grange Road, Ballinteer-Marley ED, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, D16 KH51, \u00c9ire / Ireland",
-  "postcode": "D16 KH51",
-  "district": null,
-  "county": "County Dublin",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "several days",
-  "difficulty": "hard",
-  "terrain": [
-    "mountain",
-    "woodland",
-    "farmland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wicklow_Way_Marlay_Park_Trailhead.jpg/500px-Wicklow_Way_Marlay_Park_Trailhead.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "The trailhead of the Wicklow Way in Marlay Park, Dublin. The trailhead is denoted by a map board (not shown) and a low stone wall with a stile through which walkers pass to make their first step on the Wicklow Way. The wall was erected in 2006 as part of a series of works to mark the 25th anniversary of the opening of the Way."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/J_B_Malone_Memorial.jpg/500px-J_B_Malone_Memorial.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "The J. B. Malone memorial overlooking Lough Tay in the Wicklow Mountains National Park on the Wicklow Way walking trail, County Wicklow"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wicklow_Way_near_Moyne.jpg/500px-Wicklow_Way_near_Moyne.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Near Moyne"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wicklow_Way_Glendalough.jpg/500px-Wicklow_Way_Glendalough.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Crossing the Glendasan River near the Monastic City of Glendalough, County Wicklow"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wicklow_Way_Lugnaquilla.jpg/500px-Wicklow_Way_Lugnaquilla.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Lugnaquilla, the highest mountain in County Wicklow, Ireland at 925 metres, as seen from the Wicklow Way hiking trail on the saddle between Lugduff and Mullacor mountains."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wicklow_Way_Halfway_Point.jpg/500px-Wicklow_Way_Halfway_Point.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Stone pillar at the entrance to Drumgoff Forest, County Wicklow, marking the halfway point of the Wicklow Way. The pillar shows the walker waymarker you will see on your walk."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wicklow_Way_Marker_Curtlestown.jpg/500px-Wicklow_Way_Marker_Curtlestown.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "A waymarker on the Wicklow Way National Waymarked Trail near Curtlestown Wood, County Wicklow overlooking the Glencree valley with the mountains Maulin, Djouce and War Hill in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wicklow_Way_Clonegal_Trailhead.jpg/500px-Wicklow_Way_Clonegal_Trailhead.jpg",
+            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "The trailhead of the Wicklow Way in Clonegal, County Carlow."
+        }
+    ],
+    "distance_km": 131.0,
+    "description": "This epic long distance walking trail runs from Dublin to Clonegal via the wonderful scenery of the Wicklow Mountains. The waymarked route runs for 131-kilometres (81 miles) and passes through some spectacular mountainous terrain with several beautiful loughs (lakes) to see on the way. The walk starts off in Marlay Park on the southern outskirts of the city of Dublin. You then head south into the Wicklow Mountains passing through Ticknock Forest where you can climb to the Two Rock and Three Rock Mountains and enjoy amazing views to Dublin. You continue through the woodland trails of Ballinastoe Forest. In this area you will pass the J B Malone Memorial, a significant milestone on the walk. Malone was a hill walking enthusiast who originally proposed the Wicklow Way in 1966. You continue south passing Djouce Mountain and the beautiful lakes of Lough Dan and Lough Tay where there are some splendid views over the water to the surrounding mountains. You continue past the picturesque Glendalough Lake to Drumgoff Forest and then into the into the Glenmalure Valley. The next stage runs to Moyne passing Carrickashane Mountain and Slieve Maan before coming to the flatter farmland of County Carlow. You continue to Shillelagh on an easier section, passing Ballycumber hill and Coolafunshoge with some lovely views of the green countryside and Muskeagh Hill. The final section takes you into Clonegal, passing Raheenakit Forest, Stokeen, Moylisha and the Urelands hills. There's also views of the Derry River Valley as you make your way to the finish point at Clonegal.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "At Tibradden Wood the rotue links up with the Dublin Mountains Way. This epic route explores different areas of the Wicklow Mountains running from Shankill in Dublin in the east to Tallaght in the west. At Kildavin, near the southern trailhead you can pick up the South Leinster Way. The National Waymarked Trail runs for 104km from Kildavin, County Carlow to Carrick-on-Suir in County Tipperary."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/M09-GOkW_0Y",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "C2016, Grange Road, Ballinteer-Marley ED, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, D16 KH51, \u00c9ire / Ireland",
+    "postcode": "D16 KH51",
+    "district": null,
+    "county": "County Dublin",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "several days",
+    "difficulty": "hard",
+    "terrain": ["mountain", "woodland", "farmland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

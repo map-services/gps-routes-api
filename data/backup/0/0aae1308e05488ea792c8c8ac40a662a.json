@@ -1,127 +1,115 @@
 {
-  "created_at": "2025-01-06T00:28:00.996178+00:00",
-  "objectID": "0aae1308e05488ea792c8c8ac40a662a",
-  "ref": "severn-beach-walking-route",
-  "title": "Severn Beach Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Severn_Beach_-_geograph.org.uk_-_830011.jpg",
-  "nearby": [
-    {
-      "description": "Severn Way",
-      "objectID": "72be59b71bcbfee43d10b1521911293f",
-      "ref": "severn-way-walking-route"
+    "created_at": "2025-01-06T00:28:00.996178+00:00",
+    "objectID": "0aae1308e05488ea792c8c8ac40a662a",
+    "ref": "severn-beach-walking-route",
+    "title": "Severn Beach Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Severn_Beach_-_geograph.org.uk_-_830011.jpg",
+    "nearby": [
+        {
+            "description": "Severn Way",
+            "objectID": "72be59b71bcbfee43d10b1521911293f",
+            "ref": "severn-way-walking-route"
+        },
+        {
+            "description": "Severn Bridge",
+            "objectID": "5decf7d5d81ead0dbc60d1c0c49a781b",
+            "ref": "severn-bridge-walking-route"
+        },
+        {
+            "description": "Chepstow",
+            "objectID": "d283e95c86277a2267008b7081146c58",
+            "ref": "chepstow-walking-route"
+        },
+        {
+            "description": "Tintern Abbey",
+            "objectID": "cf211bde830017fdc4432815b9591546",
+            "ref": "tintern-abbey-walking-route"
+        },
+        {
+            "description": "Wye Valley Walk Chepstow to Tintern",
+            "objectID": "27fad31e1e23e976dfe149ce82c38712",
+            "ref": "wye-valley-walk-chepstow-to-tintern-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0aae1308e05488ea792c8c8ac40a662a.gpx",
+    "_geoloc": {
+        "lat": 51.5601392332,
+        "lng": -2.6645578587
     },
-    {
-      "description": "Severn Bridge",
-      "objectID": "5decf7d5d81ead0dbc60d1c0c49a781b",
-      "ref": "severn-bridge-walking-route"
-    },
-    {
-      "description": "Chepstow",
-      "objectID": "d283e95c86277a2267008b7081146c58",
-      "ref": "chepstow-walking-route"
-    },
-    {
-      "description": "Tintern Abbey",
-      "objectID": "cf211bde830017fdc4432815b9591546",
-      "ref": "tintern-abbey-walking-route"
-    },
-    {
-      "description": "Wye Valley Walk Chepstow to Tintern",
-      "objectID": "27fad31e1e23e976dfe149ce82c38712",
-      "ref": "wye-valley-walk-chepstow-to-tintern-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0aae1308e05488ea792c8c8ac40a662a.gpx",
-  "_geoloc": {
-    "lat": 51.5601392332,
-    "lng": -2.6645578587
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Severn_Beach_-_geograph.org.uk_-_830011.jpg",
-      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Severn Beach"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Severn_Estuary_and_mud_flats_near_Severn_Beach_-_geograph.org.uk_-_1602845.jpg",
-      "title": "Anthony O'Neil / Severn Estuary and mud flats near Severn Beach",
-      "caption": "Severn Estuary and mud flats near Severn Beach. An excellent perspective on the whole of the new Road Bridge is available from here."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Looking_along_the_Binn_Wall_-_geograph.org.uk_-_316958.jpg",
-      "title": "Linda Bailey / Looking along the Binn Wall",
-      "caption": "Looking along the Binn Wall. Looking towards the Severn Bridge, whilst standing on the lower levels of the Binn Wall defences. The original Binn Wall dates from 1815, although this version was completed in 1998."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Severn_Way_at_Northwick_Warth_-_geograph.org.uk_-_1483463.jpg",
-      "title": "Jonathan Billinger / The Severn Way at Northwick Warth",
-      "caption": "The Severn Way at Northwick Warth. Looking north-east with the old Severn Bridge in the distance. The LDF follows the sea wall with the estuary to the left and the hills of the Forest of Dean in the far distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Marsh_at_Old_Passage_on_the_Severn%2C_Aust_-_geograph.org.uk_-_1132329.jpg",
-      "title": "Dr Duncan Pepper / Marsh at Old Passage on the Severn, Aust",
-      "caption": "Marsh at Old Passage on the Severn, Aust. This is where the car ferry used to depart for Beachley before the Severn Bridge was built."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Severn_Bridge_%28M48%29_full_view_-_geograph.org.uk_-_1742850.jpg/500px-Severn_Bridge_%28M48%29_full_view_-_geograph.org.uk_-_1742850.jpg",
-      "title": "Nicholas Mutton / Severn Bridge (M48) full view",
-      "caption": "The iconic suspension bridge was opened on 8 September 1966, by Queen Elizabeth II, replacing the Aust Ferry which had previously transported cars across the river"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Severn_Beach_Looking_South_-_geograph.org.uk_-_187956.jpg",
-      "title": "Linda Bailey / Severn Beach Looking South",
-      "caption": "Looking along the edge of the estuary and salt marshes whilst standing on the sea defences at Severn Beach."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Severn_Lodge_farm_-_geograph.org.uk_-_1117773.jpg",
-      "title": "andy dolman / Severn Lodge farm",
-      "caption": "Severn Lodge farm"
-    }
-  ],
-  "distance_km": 12.0,
-  "description": "The village of Severn Beach is located in a lovely spot on the Severn Estuary. There is a popular walkway along the length of the sea defences where you can enjoy views across the estuary. It's also a fine spot for birdwatching with several species of wader to look out for on the way. This walk takes you north from the village on the Severn Way to the nearby Severn Bridge. The walk starts from the Severn Beach train station which is the terminus of the Severn Beach Line railway. You can catch trains here from Bristol Temple Meads railway station with a journey time of about 40 minutes. From the little station it's a short stroll to the beach where you can pick up the sea wall path and the Severn Way. Follow the waymarked trail north and it will take you past Redwick and New Passge to Northwick Warth and Northwick Oaze. The trail continues to Aust where you can enjoy fine views of the Severn Bridge. The suspension bridge is one of the landmarks of the area, spanning the rivers Severn and Wye. It provides access from England into Wales for walkers and cars. The bridge was opened on 8 September 1966, by Queen Elizabeth II and took over 3 years to construct. In Aust village there's an interesting old church dating from the 15th century and a local pub for refreshments. After exploring the village the route returns to Severn Beach on the same paths.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In the village the popular Shirley's Cafe is a nice place for some post walk refreshments. The friendly cafe does a good range of meals and snacks. You can find them at 37 Station Road with a postcode of BS35 4PL for your sat navs. Just up the road there's the Just as You are Tea Cottage which is in a lovely spot next to the sea wall. There's more delicious food here and some nice views as well. They are located at 99 Beach Rd with a postcode of BS35 4PQ. At the other end of the route in Aust there's The Boars Head. This 17th century country inn has a fine interior with cosy fires for colder days. Outside there's a lovely garden area if the weather is fine. You can find them at a postcode of BS35 4AX for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The path is a great place to bring your dog for a walk so you'll probably see other owners on your visit. Shirley's Cafe mentioned above is also dog friendly as is the Boars Head in Aust. They have water bowls and treats readily available for your canine friend."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The estuary is a significant area for wildlife with over 250 species of bird documented. On the walk look out for Balearic shearwaters, skua, peregrine falcons and seals. To extend your walking in the area you could cross the Severn Bridge at Aust and follow the shared cycling and walking trail over the river into Wales. Here you could pay a visit to Chepstow and then head to the historic Tintern Abbey. You could also continue north along the Severn Way. The path will take you to Littleon Warth, Oldbury Lake and the village of Oldbury on Severn. Here you can pick up the Oldbury on Severn Walk and head to the historic Berkeley castle which dates back to the 11th century. Near Oldbury it's also well worth paying a visit to the neighbouring town of Thornbury. It's another attractive local market town and a winner of the Britain in Bloom award. The town has an interesting history too, with a Tudor castle and a noteworthy Norman church to investigate. The circular Thornbury Walk starts from the town castle and visits Littleton-Upon-Severn and the estuary before passing through Oldbury. A few miles to the east you can visit the worthy village of Almondsbury. Here you can enjoy a climb to the excellent viewpoint at Almondsbury hill and visit the notable 12th century church and fine 16th century pub. For more walking ideas in the area see the Gloucestershire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/7Z_G0OS2ghU",
-  "district": "Severn Beach",
-  "county": "South Gloucestershire",
-  "region": "West of England",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "21, Station Road, Pilning and Severn Beach, Severn Beach, South Gloucestershire, West of England, England, BS35 4NS, United Kingdom",
-  "postcode": "BS35 4NS",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "4 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site",
-    "suspension bridge"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Severn_Beach_-_geograph.org.uk_-_830011.jpg",
+            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Severn Beach"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Severn_Estuary_and_mud_flats_near_Severn_Beach_-_geograph.org.uk_-_1602845.jpg",
+            "title": "Anthony O'Neil / Severn Estuary and mud flats near Severn Beach",
+            "caption": "Severn Estuary and mud flats near Severn Beach. An excellent perspective on the whole of the new Road Bridge is available from here."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Looking_along_the_Binn_Wall_-_geograph.org.uk_-_316958.jpg",
+            "title": "Linda Bailey / Looking along the Binn Wall",
+            "caption": "Looking along the Binn Wall. Looking towards the Severn Bridge, whilst standing on the lower levels of the Binn Wall defences. The original Binn Wall dates from 1815, although this version was completed in 1998."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Severn_Way_at_Northwick_Warth_-_geograph.org.uk_-_1483463.jpg",
+            "title": "Jonathan Billinger / The Severn Way at Northwick Warth",
+            "caption": "The Severn Way at Northwick Warth. Looking north-east with the old Severn Bridge in the distance. The LDF follows the sea wall with the estuary to the left and the hills of the Forest of Dean in the far distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Marsh_at_Old_Passage_on_the_Severn%2C_Aust_-_geograph.org.uk_-_1132329.jpg",
+            "title": "Dr Duncan Pepper / Marsh at Old Passage on the Severn, Aust",
+            "caption": "Marsh at Old Passage on the Severn, Aust. This is where the car ferry used to depart for Beachley before the Severn Bridge was built."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Severn_Bridge_%28M48%29_full_view_-_geograph.org.uk_-_1742850.jpg/500px-Severn_Bridge_%28M48%29_full_view_-_geograph.org.uk_-_1742850.jpg",
+            "title": "Nicholas Mutton / Severn Bridge (M48) full view",
+            "caption": "The iconic suspension bridge was opened on 8 September 1966, by Queen Elizabeth II, replacing the Aust Ferry which had previously transported cars across the river"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Severn_Beach_Looking_South_-_geograph.org.uk_-_187956.jpg",
+            "title": "Linda Bailey / Severn Beach Looking South",
+            "caption": "Looking along the edge of the estuary and salt marshes whilst standing on the sea defences at Severn Beach."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Severn_Lodge_farm_-_geograph.org.uk_-_1117773.jpg",
+            "title": "andy dolman / Severn Lodge farm",
+            "caption": "Severn Lodge farm"
+        }
+    ],
+    "distance_km": 12.0,
+    "description": "The village of Severn Beach is located in a lovely spot on the Severn Estuary. There is a popular walkway along the length of the sea defences where you can enjoy views across the estuary. It's also a fine spot for birdwatching with several species of wader to look out for on the way. This walk takes you north from the village on the Severn Way to the nearby Severn Bridge. The walk starts from the Severn Beach train station which is the terminus of the Severn Beach Line railway. You can catch trains here from Bristol Temple Meads railway station with a journey time of about 40 minutes. From the little station it's a short stroll to the beach where you can pick up the sea wall path and the Severn Way. Follow the waymarked trail north and it will take you past Redwick and New Passge to Northwick Warth and Northwick Oaze. The trail continues to Aust where you can enjoy fine views of the Severn Bridge. The suspension bridge is one of the landmarks of the area, spanning the rivers Severn and Wye. It provides access from England into Wales for walkers and cars. The bridge was opened on 8 September 1966, by Queen Elizabeth II and took over 3 years to construct. In Aust village there's an interesting old church dating from the 15th century and a local pub for refreshments. After exploring the village the route returns to Severn Beach on the same paths.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In the village the popular Shirley's Cafe is a nice place for some post walk refreshments. The friendly cafe does a good range of meals and snacks. You can find them at 37 Station Road with a postcode of BS35 4PL for your sat navs. Just up the road there's the Just as You are Tea Cottage which is in a lovely spot next to the sea wall. There's more delicious food here and some nice views as well. They are located at 99 Beach Rd with a postcode of BS35 4PQ. At the other end of the route in Aust there's The Boars Head. This 17th century country inn has a fine interior with cosy fires for colder days. Outside there's a lovely garden area if the weather is fine. You can find them at a postcode of BS35 4AX for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The path is a great place to bring your dog for a walk so you'll probably see other owners on your visit. Shirley's Cafe mentioned above is also dog friendly as is the Boars Head in Aust. They have water bowls and treats readily available for your canine friend."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The estuary is a significant area for wildlife with over 250 species of bird documented. On the walk look out for Balearic shearwaters, skua, peregrine falcons and seals. To extend your walking in the area you could cross the Severn Bridge at Aust and follow the shared cycling and walking trail over the river into Wales. Here you could pay a visit to Chepstow and then head to the historic Tintern Abbey. You could also continue north along the Severn Way. The path will take you to Littleon Warth, Oldbury Lake and the village of Oldbury on Severn. Here you can pick up the Oldbury on Severn Walk and head to the historic Berkeley castle which dates back to the 11th century. Near Oldbury it's also well worth paying a visit to the neighbouring town of Thornbury. It's another attractive local market town and a winner of the Britain in Bloom award. The town has an interesting history too, with a Tudor castle and a noteworthy Norman church to investigate. The circular Thornbury Walk starts from the town castle and visits Littleton-Upon-Severn and the estuary before passing through Oldbury. A few miles to the east you can visit the worthy village of Almondsbury. Here you can enjoy a climb to the excellent viewpoint at Almondsbury hill and visit the notable 12th century church and fine 16th century pub. For more walking ideas in the area see the Gloucestershire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/7Z_G0OS2ghU",
+    "district": "Severn Beach",
+    "county": "South Gloucestershire",
+    "region": "West of England",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "21, Station Road, Pilning and Severn Beach, Severn Beach, South Gloucestershire, West of England, England, BS35 4NS, United Kingdom",
+    "postcode": "BS35 4NS",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "4 hours",
+    "difficulty": "easy",
+    "terrain": ["coastal"],
+    "points_of_interest": ["viewpoint", "historical site", "suspension bridge"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

@@ -1,139 +1,126 @@
 {
-  "created_at": "2025-01-06T04:20:09.504758+00:00",
-  "objectID": "66900fbe2c1d3d043c92652e355c48fe",
-  "ref": "southport-walking-route",
-  "title": "Southport Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Marine_Lake_on_a_windy_day_-_geograph.org.uk_-_199790.jpg",
-  "nearby": [
-    {
-      "description": "Sefton Coastal Footpath",
-      "objectID": "247bc51cc0bfda36406b2932bc494da3",
-      "ref": "sefton-coastal-footpath-walking-route"
+    "created_at": "2025-01-06T04:20:09.504758+00:00",
+    "objectID": "66900fbe2c1d3d043c92652e355c48fe",
+    "ref": "southport-walking-route",
+    "title": "Southport Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Marine_Lake_on_a_windy_day_-_geograph.org.uk_-_199790.jpg",
+    "nearby": [
+        {
+            "description": "Sefton Coastal Footpath",
+            "objectID": "247bc51cc0bfda36406b2932bc494da3",
+            "ref": "sefton-coastal-footpath-walking-route"
+        },
+        {
+            "description": "Trans Pennine Trail",
+            "objectID": "92a97add7ee3d3d55980d4993637b5c5",
+            "ref": "trans-pennine-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Formby Beach",
+            "objectID": "9c8763cf2c195f9e8d3fb64aab6cb22c",
+            "ref": "formby-beach-walking-route"
+        },
+        {
+            "description": "Ribble Estuary",
+            "objectID": "4e501e54b0e6ba994eef0efda8665d36",
+            "ref": "ribble-estuary-walking-route"
+        },
+        {
+            "description": "Marton Mere",
+            "objectID": "b62bb004ed0dea930d49c217edd28d7a",
+            "ref": "marton-mere-walking-route"
+        },
+        {
+            "description": "Mere Sands Wood",
+            "objectID": "83010a3ca7960fd9111da3e1b3dfe4a6",
+            "ref": "mere-sands-wood-walking-route"
+        },
+        {
+            "description": "Ainsdale",
+            "objectID": "bdee0d534f7fa64bad1a1d63e8d6c8a8",
+            "ref": "ainsdale-walking-route"
+        },
+        {
+            "description": "Martin Mere",
+            "objectID": "3d2a660530188265e33e04c0d8f35c07",
+            "ref": "martin-mere-walking-route"
+        },
+        {
+            "description": "Hesketh Bank",
+            "objectID": "3a7d9b25d7e8b6d79ebdcf0fb0a0916b",
+            "ref": "hesketh-bank-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/66900fbe2c1d3d043c92652e355c48fe.gpx",
+    "_geoloc": {
+        "lat": 53.6592513613,
+        "lng": -3.0040505624
     },
-    {
-      "description": "Trans Pennine Trail",
-      "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-      "ref": "trans-pennine-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Formby Beach",
-      "objectID": "9c8763cf2c195f9e8d3fb64aab6cb22c",
-      "ref": "formby-beach-walking-route"
-    },
-    {
-      "description": "Ribble Estuary",
-      "objectID": "4e501e54b0e6ba994eef0efda8665d36",
-      "ref": "ribble-estuary-walking-route"
-    },
-    {
-      "description": "Marton Mere",
-      "objectID": "b62bb004ed0dea930d49c217edd28d7a",
-      "ref": "marton-mere-walking-route"
-    },
-    {
-      "description": "Mere Sands Wood",
-      "objectID": "83010a3ca7960fd9111da3e1b3dfe4a6",
-      "ref": "mere-sands-wood-walking-route"
-    },
-    {
-      "description": "Ainsdale",
-      "objectID": "bdee0d534f7fa64bad1a1d63e8d6c8a8",
-      "ref": "ainsdale-walking-route"
-    },
-    {
-      "description": "Martin Mere",
-      "objectID": "3d2a660530188265e33e04c0d8f35c07",
-      "ref": "martin-mere-walking-route"
-    },
-    {
-      "description": "Hesketh Bank",
-      "objectID": "3a7d9b25d7e8b6d79ebdcf0fb0a0916b",
-      "ref": "hesketh-bank-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/66900fbe2c1d3d043c92652e355c48fe.gpx",
-  "_geoloc": {
-    "lat": 53.6592513613,
-    "lng": -3.0040505624
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Marine_Lake_on_a_windy_day_-_geograph.org.uk_-_199790.jpg",
-      "title": "Nigel Williams / The Marine Lake on a windy day",
-      "caption": "The Marine Lake on a windy day"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ainsdale_dunes_and_the_velvet_trail_-_geograph.org.uk_-_874161.jpg",
-      "title": "Gary Rogers / Ainsdale dunes and the velvet trail",
-      "caption": "Ainsdale dunes and the velvet trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ainsdale_beach_car_park_entrance_-_geograph.org.uk_-_1464943.jpg",
-      "title": "Raymond Knapman / Ainsdale beach car park entrance",
-      "caption": "Ainsdale beach car park entrance"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nature_reserve%2C_Ainsdale_-_geograph.org.uk_-_331012.jpg",
-      "title": "Tom Pennington / Nature reserve, Ainsdale",
-      "caption": "Nature reserve, Ainsdale"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dune_Flora_and_Fauna_at_Ainsdale_-_geograph.org.uk_-_205082.jpg",
-      "title": "Gary Rogers / Dune Flora and Fauna at Ainsdale",
-      "caption": "Dune Flora and Fauna at Ainsdale"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dry_Dune_Slack_-_geograph.org.uk_-_205055.jpg",
-      "title": "Gary Rogers / Dry Dune Slack",
-      "caption": "Dry Dune Slack"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Foredunes_at_Formby_-_geograph.org.uk_-_205138.jpg",
-      "title": "Gary Rogers / Foredunes at Formby",
-      "caption": "Foredunes at Formby"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/The_Fisherman%27s_Path_-_geograph.org.uk_-_205026.jpg",
-      "title": "Gary Rogers / The Fisherman's Path",
-      "caption": "The Fisherman's Path"
-    }
-  ],
-  "distance_km": 17.0,
-  "description": "The seaside town of Southport has some lovely coastal trails to try. This walk uses the Sefton Coastal Footpath and the Trans Pennine Trail to take you to some of the beautiful local nature reserves. The walk starts on the promenade next to the large marine lake. Head south along the front, passing the noteworthy pier, which is the the second longest seaside pleasure pier in the British Isles. You continue past the famous Royal Birkdale golf club, which has hosted the Open Championship on numerous occasions. Shortly after you come to the Ainsdale Sands National Nature Reserve. There's a wonderful sand dune system here with Natterjack Toads to look out for on the way through. Look out for flora including Early-marsh Orchid, Marsh Helleborine and Grass of Parnassus. The route continues to Formby Beach where there are some huge dunes to climb. From the high points there's wonderful views towards Liverpool and the Welsh Mountains. There's also a woodland area where you can look out for red squirrels. After exploring the reserve the route turns inland to pass through the town of Formby and finish at the train station. Here you can catch a train directly back to Southport. The town is located on the Ribble Estuary which is a great place for birdwatching. Our Ribble Estuary Walk takes place in the town of Lytham on the other side of the water. There's nice views over the estuary back to Southport from here. The Marton Mere and Mere Sands Wood Nature Reserves are very near the town too. They both offer lovely nature trails with wonderful wildlife spotting opportunities.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head a few miles inland and you could visit nearby Ormskirk. The market town is well worthy of a visit with pleasant conservation areas, a regular market, three local parks and a church which dates back to the 15th century. To the north east is Hesketh Bank where you can explore the RSPB's Hesketh Out Marshes Nature Reserve. The reserve is a great place for bird spotting on the Ribble Estuary. For more walking ideas in the area see the Merseyside Walks page."
-    }
-  ],
-  "district": "Southport",
-  "region": "Liverpool City Region",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Saunders Street, Meols Cop, Southport, Sefton, Liverpool City Region, England, PR9 0NU, United Kingdom",
-  "postcode": "PR9 0NU",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "sand dune",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "pier",
-    "nature reserve",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Marine_Lake_on_a_windy_day_-_geograph.org.uk_-_199790.jpg",
+            "title": "Nigel Williams / The Marine Lake on a windy day",
+            "caption": "The Marine Lake on a windy day"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ainsdale_dunes_and_the_velvet_trail_-_geograph.org.uk_-_874161.jpg",
+            "title": "Gary Rogers / Ainsdale dunes and the velvet trail",
+            "caption": "Ainsdale dunes and the velvet trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ainsdale_beach_car_park_entrance_-_geograph.org.uk_-_1464943.jpg",
+            "title": "Raymond Knapman / Ainsdale beach car park entrance",
+            "caption": "Ainsdale beach car park entrance"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nature_reserve%2C_Ainsdale_-_geograph.org.uk_-_331012.jpg",
+            "title": "Tom Pennington / Nature reserve, Ainsdale",
+            "caption": "Nature reserve, Ainsdale"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dune_Flora_and_Fauna_at_Ainsdale_-_geograph.org.uk_-_205082.jpg",
+            "title": "Gary Rogers / Dune Flora and Fauna at Ainsdale",
+            "caption": "Dune Flora and Fauna at Ainsdale"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dry_Dune_Slack_-_geograph.org.uk_-_205055.jpg",
+            "title": "Gary Rogers / Dry Dune Slack",
+            "caption": "Dry Dune Slack"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Foredunes_at_Formby_-_geograph.org.uk_-_205138.jpg",
+            "title": "Gary Rogers / Foredunes at Formby",
+            "caption": "Foredunes at Formby"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/The_Fisherman%27s_Path_-_geograph.org.uk_-_205026.jpg",
+            "title": "Gary Rogers / The Fisherman's Path",
+            "caption": "The Fisherman's Path"
+        }
+    ],
+    "distance_km": 17.0,
+    "description": "The seaside town of Southport has some lovely coastal trails to try. This walk uses the Sefton Coastal Footpath and the Trans Pennine Trail to take you to some of the beautiful local nature reserves. The walk starts on the promenade next to the large marine lake. Head south along the front, passing the noteworthy pier, which is the the second longest seaside pleasure pier in the British Isles. You continue past the famous Royal Birkdale golf club, which has hosted the Open Championship on numerous occasions. Shortly after you come to the Ainsdale Sands National Nature Reserve. There's a wonderful sand dune system here with Natterjack Toads to look out for on the way through. Look out for flora including Early-marsh Orchid, Marsh Helleborine and Grass of Parnassus. The route continues to Formby Beach where there are some huge dunes to climb. From the high points there's wonderful views towards Liverpool and the Welsh Mountains. There's also a woodland area where you can look out for red squirrels. After exploring the reserve the route turns inland to pass through the town of Formby and finish at the train station. Here you can catch a train directly back to Southport. The town is located on the Ribble Estuary which is a great place for birdwatching. Our Ribble Estuary Walk takes place in the town of Lytham on the other side of the water. There's nice views over the estuary back to Southport from here. The Marton Mere and Mere Sands Wood Nature Reserves are very near the town too. They both offer lovely nature trails with wonderful wildlife spotting opportunities.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head a few miles inland and you could visit nearby Ormskirk. The market town is well worthy of a visit with pleasant conservation areas, a regular market, three local parks and a church which dates back to the 15th century. To the north east is Hesketh Bank where you can explore the RSPB's Hesketh Out Marshes Nature Reserve. The reserve is a great place for bird spotting on the Ribble Estuary. For more walking ideas in the area see the Merseyside Walks page."
+        }
+    ],
+    "district": "Southport",
+    "region": "Liverpool City Region",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Saunders Street, Meols Cop, Southport, Sefton, Liverpool City Region, England, PR9 0NU, United Kingdom",
+    "postcode": "PR9 0NU",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["coastal", "sand dune", "woodland"],
+    "points_of_interest": ["pier", "nature reserve", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching"]
 }

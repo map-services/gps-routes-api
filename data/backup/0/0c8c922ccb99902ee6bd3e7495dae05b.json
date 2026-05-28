@@ -1,108 +1,96 @@
 {
-  "created_at": "2025-01-06T04:47:12.233165+00:00",
-  "objectID": "0c8c922ccb99902ee6bd3e7495dae05b",
-  "ref": "wick-quarry-walking-route",
-  "title": "Wick Quarry Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wick_Quarry_-_panoramio.jpg/500px-Wick_Quarry_-_panoramio.jpg",
-  "nearby": [
-    {
-      "description": "Monarch's Way",
-      "objectID": "d93d80d113c805cab65643061a5416c2",
-      "ref": "monarchs-way-walking-route"
+    "created_at": "2025-01-06T04:47:12.233165+00:00",
+    "objectID": "0c8c922ccb99902ee6bd3e7495dae05b",
+    "ref": "wick-quarry-walking-route",
+    "title": "Wick Quarry Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wick_Quarry_-_panoramio.jpg/500px-Wick_Quarry_-_panoramio.jpg",
+    "nearby": [
+        {
+            "description": "Monarch's Way",
+            "objectID": "d93d80d113c805cab65643061a5416c2",
+            "ref": "monarchs-way-walking-route"
+        },
+        {
+            "description": "Dyrham Park",
+            "objectID": "584f085f3b1e12792be7266fa4f2aaff",
+            "ref": "dyrham-park-walking-route"
+        },
+        {
+            "description": "Pucklechurch",
+            "objectID": "3182e952406036eb06f0e1900dda561b",
+            "ref": "pucklechurch-walking-route"
+        },
+        {
+            "description": "Conham River Park",
+            "objectID": "d0baf4d9526ffa7a11be27d4fc183815",
+            "ref": "conham-river-park-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0c8c922ccb99902ee6bd3e7495dae05b.gpx",
+    "_geoloc": {
+        "lat": 51.4529306533,
+        "lng": -2.4257944876
     },
-    {
-      "description": "Dyrham Park",
-      "objectID": "584f085f3b1e12792be7266fa4f2aaff",
-      "ref": "dyrham-park-walking-route"
-    },
-    {
-      "description": "Pucklechurch",
-      "objectID": "3182e952406036eb06f0e1900dda561b",
-      "ref": "pucklechurch-walking-route"
-    },
-    {
-      "description": "Conham River Park",
-      "objectID": "d0baf4d9526ffa7a11be27d4fc183815",
-      "ref": "conham-river-park-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0c8c922ccb99902ee6bd3e7495dae05b.gpx",
-  "_geoloc": {
-    "lat": 51.4529306533,
-    "lng": -2.4257944876
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wick_Quarry_-_panoramio.jpg/500px-Wick_Quarry_-_panoramio.jpg",
-      "title": "Bob&Anne Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Wick Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Quarry_workings_at_Wick_-_geograph.org.uk_-_355820.jpg",
-      "title": "Phil Williams / Quarry workings at Wick",
-      "caption": "Quarry workings at Wick. A view looking to the south across the quarry workings at Wick. The quarry lies on the outskirts of the village on the edge of the Cotswold Hills. The quarry produces limestone aggregates. Over 450,000 tonnes of stone is crushed each year and used for road construction and concrete products like floor beams for house construction. The quarry is operated by CEMEX, formerly known as RMC Aggregates, and employs over 70 staff. The rim of the quarry shows an unconformity between the Carboniferous Limestone and the Triassic Cotham Beds."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Packhorse_Bridge%2C_Wick_Rocks._-_panoramio.jpg/500px-Packhorse_Bridge%2C_Wick_Rocks._-_panoramio.jpg",
-      "title": "Bob&Anne Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Packhorse Bridge, Wick Rocks."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wick%2C_Rose_%5E_Crown_-_geograph.org.uk_-_1809665.jpg/500px-Wick%2C_Rose_%5E_Crown_-_geograph.org.uk_-_1809665.jpg",
-      "title": "Wick, Rose & Crown by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Wick, Rose and Crown"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Carpenter%27s_Arms%2C_Wick_-_geograph.org.uk_-_959684.jpg",
-      "title": "Maurice Pullin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Carpenter's Arms, Wick"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cascada.001_-_Golden_Valley.jpg/500px-Cascada.001_-_Golden_Valley.jpg",
-      "title": "Drow male, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Cascade in the Golden Valley"
-    }
-  ],
-  "distance_km": 3.2,
-  "description": "This circular walk explores the Golden Valley and the old Wick Quarry near the village of Wick in the Bristol area of the Cotswolds. It's a picturesque area with the quarry surrounded by woodland and the pretty waters of the River Boyd. The quarry is no longer operational but has become a popular walking and birdwatching spot with many different species to be seen in the Golden Valley Nature Reserve. The walk starts in the village and heads north along public footpaths to Bury Manor, Naishcombe Hill and the quarry. You then head up Rock Road before turning south to cross Cleeve Bridge and the River Boyd which runs through the valley. The route then picks up a section of the Monarch's Way along Bury Lane before returning to the village.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Rose & Crown in Wick is a nice place for some post walk refreshment. The 17th century pub has a cosy interior with low-slung wooden beams and open fires. They have a good menu a decent sized car park if you'd like to start the walk from there. There's also a garden area to sit out in on warmer days. You can find them on the High Street at postcode BS30 5QH for your sat navs. The pub is also dog friendly if you have your canine friend with you."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you head north east of the site you could visit the village of Doynton and the splendid Dyrham Park. Here you'll find a 270 acre deer park surrounding a 17th-century mansion. The circular Pucklechurch Walk starts from the nearby village and visits the park before heading to the pretty village of Doynton and Wick. The epic Cotswold Way National Trail can also be picked up in this area. A few miles to the south west there's Willsbridge Mill to visit. The photogenic 18th century mill has an interesting history and nice trails along the Siston Brook. Near here there's also Hanham Woods and Conham River Park to explore. The two adjacent sites form part of the wider Avon Valley Woodlands Nature Reserve. For more walking ideas in the area see the Gloucestershire Walks and the Cotswolds Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/YVbq3wSIa8c",
-  "district": "Bristol",
-  "county": "South Gloucestershire",
-  "region": "West of England",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Rose and Crown, 44, High Street, Wick and Abson, Bristol, South Gloucestershire, West of England, England, BS30 5QH, United Kingdom",
-  "postcode": "BS30 5QH",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "quarry",
-    "nature reserve"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wick_Quarry_-_panoramio.jpg/500px-Wick_Quarry_-_panoramio.jpg",
+            "title": "Bob&Anne Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Wick Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Quarry_workings_at_Wick_-_geograph.org.uk_-_355820.jpg",
+            "title": "Phil Williams / Quarry workings at Wick",
+            "caption": "Quarry workings at Wick. A view looking to the south across the quarry workings at Wick. The quarry lies on the outskirts of the village on the edge of the Cotswold Hills. The quarry produces limestone aggregates. Over 450,000 tonnes of stone is crushed each year and used for road construction and concrete products like floor beams for house construction. The quarry is operated by CEMEX, formerly known as RMC Aggregates, and employs over 70 staff. The rim of the quarry shows an unconformity between the Carboniferous Limestone and the Triassic Cotham Beds."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Packhorse_Bridge%2C_Wick_Rocks._-_panoramio.jpg/500px-Packhorse_Bridge%2C_Wick_Rocks._-_panoramio.jpg",
+            "title": "Bob&Anne Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Packhorse Bridge, Wick Rocks."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wick%2C_Rose_%5E_Crown_-_geograph.org.uk_-_1809665.jpg/500px-Wick%2C_Rose_%5E_Crown_-_geograph.org.uk_-_1809665.jpg",
+            "title": "Wick, Rose & Crown by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Wick, Rose and Crown"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Carpenter%27s_Arms%2C_Wick_-_geograph.org.uk_-_959684.jpg",
+            "title": "Maurice Pullin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Carpenter's Arms, Wick"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cascada.001_-_Golden_Valley.jpg/500px-Cascada.001_-_Golden_Valley.jpg",
+            "title": "Drow male, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Cascade in the Golden Valley"
+        }
+    ],
+    "distance_km": 3.2,
+    "description": "This circular walk explores the Golden Valley and the old Wick Quarry near the village of Wick in the Bristol area of the Cotswolds. It's a picturesque area with the quarry surrounded by woodland and the pretty waters of the River Boyd. The quarry is no longer operational but has become a popular walking and birdwatching spot with many different species to be seen in the Golden Valley Nature Reserve. The walk starts in the village and heads north along public footpaths to Bury Manor, Naishcombe Hill and the quarry. You then head up Rock Road before turning south to cross Cleeve Bridge and the River Boyd which runs through the valley. The route then picks up a section of the Monarch's Way along Bury Lane before returning to the village.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Rose & Crown in Wick is a nice place for some post walk refreshment. The 17th century pub has a cosy interior with low-slung wooden beams and open fires. They have a good menu a decent sized car park if you'd like to start the walk from there. There's also a garden area to sit out in on warmer days. You can find them on the High Street at postcode BS30 5QH for your sat navs. The pub is also dog friendly if you have your canine friend with you."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you head north east of the site you could visit the village of Doynton and the splendid Dyrham Park. Here you'll find a 270 acre deer park surrounding a 17th-century mansion. The circular Pucklechurch Walk starts from the nearby village and visits the park before heading to the pretty village of Doynton and Wick. The epic Cotswold Way National Trail can also be picked up in this area. A few miles to the south west there's Willsbridge Mill to visit. The photogenic 18th century mill has an interesting history and nice trails along the Siston Brook. Near here there's also Hanham Woods and Conham River Park to explore. The two adjacent sites form part of the wider Avon Valley Woodlands Nature Reserve. For more walking ideas in the area see the Gloucestershire Walks and the Cotswolds Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/YVbq3wSIa8c",
+    "district": "Bristol",
+    "county": "South Gloucestershire",
+    "region": "West of England",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Rose and Crown, 44, High Street, Wick and Abson, Bristol, South Gloucestershire, West of England, England, BS30 5QH, United Kingdom",
+    "postcode": "BS30 5QH",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["quarry", "nature reserve"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

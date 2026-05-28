@@ -1,125 +1,111 @@
 {
-  "created_at": "2025-01-06T02:34:43.509946+00:00",
-  "objectID": "3a6a20df46d70e14a74074568aefa89f",
-  "ref": "farmoor-reservoir-walking-route",
-  "title": "Farmoor Reservoir Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farmoor_Reservoir_-_geograph.org.uk_-_28649.jpg",
-  "nearby": [
-    {
-      "description": "Port Meadow",
-      "objectID": "70196209afb54473f5c7af6a9efdfc7c",
-      "ref": "port-meadow-walking-route"
+    "created_at": "2025-01-06T02:34:43.509946+00:00",
+    "objectID": "3a6a20df46d70e14a74074568aefa89f",
+    "ref": "farmoor-reservoir-walking-route",
+    "title": "Farmoor Reservoir Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farmoor_Reservoir_-_geograph.org.uk_-_28649.jpg",
+    "nearby": [
+        {
+            "description": "Port Meadow",
+            "objectID": "70196209afb54473f5c7af6a9efdfc7c",
+            "ref": "port-meadow-walking-route"
+        },
+        {
+            "description": "Oxford Green Belt Way",
+            "objectID": "c8513f618bb0c34f4204aa8aceadec54",
+            "ref": "oxford-green-belt-way-walking-route"
+        },
+        {
+            "description": "Thames Path",
+            "objectID": "0e4392c91f56f17784efaee8a564e416",
+            "ref": "thames-path-walking-route"
+        },
+        {
+            "description": "Wytham Woods",
+            "objectID": "848c85b132f4bfdc0009abdd36922266",
+            "ref": "wytham-woods-walking-route"
+        },
+        {
+            "description": "Eynsham",
+            "objectID": "91c1c1c98d521184caba57b4db7628b8",
+            "ref": "eynsham-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3a6a20df46d70e14a74074568aefa89f.gpx",
+    "_geoloc": {
+        "lat": 51.7514111602,
+        "lng": -1.347459917
     },
-    {
-      "description": "Oxford Green Belt Way",
-      "objectID": "c8513f618bb0c34f4204aa8aceadec54",
-      "ref": "oxford-green-belt-way-walking-route"
-    },
-    {
-      "description": "Thames Path",
-      "objectID": "0e4392c91f56f17784efaee8a564e416",
-      "ref": "thames-path-walking-route"
-    },
-    {
-      "description": "Wytham Woods",
-      "objectID": "848c85b132f4bfdc0009abdd36922266",
-      "ref": "wytham-woods-walking-route"
-    },
-    {
-      "description": "Eynsham",
-      "objectID": "91c1c1c98d521184caba57b4db7628b8",
-      "ref": "eynsham-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3a6a20df46d70e14a74074568aefa89f.gpx",
-  "_geoloc": {
-    "lat": 51.7514111602,
-    "lng": -1.347459917
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farmoor_Reservoir_-_geograph.org.uk_-_28649.jpg",
-      "title": "Tom Pullman / Farmoor Reservoir, via Wikimedia Commons",
-      "caption": "This reservoir is used extensively for recreational sailing as it's the largest body of water near Oxford. It is divided in two by the \"wall\" on the left hand side of this image. I admit this picture's taken from the western edge of the neighbouring square."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Farmoor_Reservoir_-_geograph.org.uk_-_1129990.jpg",
-      "title": "Alan Ford / Farmoor Reservoir, via Wikimedia Commons",
-      "caption": "Viewed from near Upper Whiteley Farm on the Long Leys track, Cumnor, Oxfordshire (formerly Berkshire)"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Farmoor_Reservoir%2C_Farmoor%2C_Oxon_-_geograph.org.uk_-_442354.jpg",
-      "title": "Brian Robert Marshall / Farmoor Reservoir, Farmoor, Oxon, via Wikimedia Commons",
-      "caption": "This is the northern part of the reservoir. It is divided into two parts by a wall crossing east - west such that two thirds are south of the wall. This image shows part of the other third. The structure on the edge of the reservoir is shown on the 1:50K map as just inside this square but does not appear on the 1:25K edition. Fishing is not allowed in this part."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sailing_practice%2C_Farmoor_Reservoir%2C_Farmoor%2C_Oxon_-_geograph.org.uk_-_442382.jpg",
-      "title": "Brian Robert Marshall / Sailing practice, Farmoor Reservoir, Farmoor, Oxon, via Wikimedia Commons",
-      "caption": "Sailing practice on Farmoor Reservoir. These two dinghies were being used to practise recovering from capsize. The wall dividing the reservoir in two is just behind the dinghies."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Farmoor_-_geograph.org.uk_-_12982.jpg",
-      "title": "Tom Pullman / Farmoor",
-      "caption": "A view of the village of Farmoor which is located on the north eastern side of the lake. The small settlement consists mainly of houses situated on the western/southern side of the road from Cumnor to Eynsham. The hill on the right is Beacon Hill; the wood is Stroud Copse."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/River_Thames_below_Farmoor_Reservoir_-_geograph.org.uk_-_914217.jpg",
-      "title": "Pierre Terre / River Thames below Farmoor Reservoir",
-      "caption": "River Thames below Farmoor Reservoir. A view of the river on the western side of the lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bird_Hide_Farmoor_Reservoir_-_geograph.org.uk_-_5332728.jpg",
-      "title": "Bird Hide Farmoor Reservoir by Nigel Mykura, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bird Hide on the causeway."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Thames_Path_Footbridge%2C_Farmoor_-_geograph.org.uk_-_908696.jpg",
-      "title": "Pierre Terre / Thames Path Footbridge, Farmoor",
-      "caption": "Footbridge over the outlet channel on the northern side on the Thames path."
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "Enjoy an easy circular walk around this pretty reservoir near Oxford. The walk starts from the car park and visitor centre on the eastern side of the lake. You then pick up the path which takes you to attractive woodland, Thames riverside meadows and nature reserves. The reservoir is an excellent place for birdwatching. Look out for Ospreys, Red Throated Diver and a variety of other water loving wildlife in the wetland nature reserves situated at the northern end of the site. It's a nice varied walk which runs for nearly 4 miles with great views of the surrounding countryside and the River Thames. You can also see a variety of watersports taking place for most of the year. The Oxford Green Belt Way and the Thames Path both run past the reservoir so you could pick up one of these long distance routes to continue your walk. Just to the east is the delightful Port Meadow with walking trails by the Thames and Oxford Canal. Less than a mile to the north east you will find Wytham Woods. There's 1000 acres of mixed woodland to explore on a network of footpaths here.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "If you follow the river north it will take you towards Eynsham where there are some good options for post walk refreshment:- The Queens Head serves great food including excellent pizzas from their wood fired pizza oven. You can sit outside in their beautiful beer garden if the sun is shining. The pub is located on Queen Street at postcode OX29 4HH. The Talbot Inn dates from the 18th century and includes exposed beams & a riverside deck. You can find them on Oxford Road at postcode OX29 4BT. Both these inns are dog friendly. The historic market town of Eynsham is also well worth exploring with several 16th and 17th buildings, plus the site of a medieval abbey to see. A little further away there's the noteworthy Perch Inn in Binsey. The thatched 17th-century country inn is one of the oldest pubs in Oxford and sits next to the lovely Port Meadow. It has a great menu and a splendid, large garden to sit out and relax in during the warmer months. Notably, the pub was a frequent haunt of Inspector Morse from the famous ITV series of the 80s and 90s. You can find it on Binsey Lane at postcode OX2 0NG."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head a few miles south west of the lake and there's the pretty Cotswolds village of Standlake to explore. Here you can enjoy trails along the River Thames and the River Windrush to Newbridge and the picturesque Shifford Lock. There's also a fine 350 year old pub to visit in the village afterwards. For more walking ideas in the area see the Oxfordshire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/xE7JSqzd4kc?si=CrO8tkbL7bbtGGy5",
-  "district": "Vale of White Horse",
-  "county": "Oxfordshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Cumnor Road, Filchampstead, Cumnor, Farmoor, Vale of White Horse, Oxfordshire, England, OX2 9NT, United Kingdom",
-  "postcode": "OX2 9NT",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "meadow"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "historical site"
-  ],
-  "facilities": [
-    "car park",
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching",
-    "watersports"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farmoor_Reservoir_-_geograph.org.uk_-_28649.jpg",
+            "title": "Tom Pullman / Farmoor Reservoir, via Wikimedia Commons",
+            "caption": "This reservoir is used extensively for recreational sailing as it's the largest body of water near Oxford. It is divided in two by the \"wall\" on the left hand side of this image. I admit this picture's taken from the western edge of the neighbouring square."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Farmoor_Reservoir_-_geograph.org.uk_-_1129990.jpg",
+            "title": "Alan Ford / Farmoor Reservoir, via Wikimedia Commons",
+            "caption": "Viewed from near Upper Whiteley Farm on the Long Leys track, Cumnor, Oxfordshire (formerly Berkshire)"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Farmoor_Reservoir%2C_Farmoor%2C_Oxon_-_geograph.org.uk_-_442354.jpg",
+            "title": "Brian Robert Marshall / Farmoor Reservoir, Farmoor, Oxon, via Wikimedia Commons",
+            "caption": "This is the northern part of the reservoir. It is divided into two parts by a wall crossing east - west such that two thirds are south of the wall. This image shows part of the other third. The structure on the edge of the reservoir is shown on the 1:50K map as just inside this square but does not appear on the 1:25K edition. Fishing is not allowed in this part."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sailing_practice%2C_Farmoor_Reservoir%2C_Farmoor%2C_Oxon_-_geograph.org.uk_-_442382.jpg",
+            "title": "Brian Robert Marshall / Sailing practice, Farmoor Reservoir, Farmoor, Oxon, via Wikimedia Commons",
+            "caption": "Sailing practice on Farmoor Reservoir. These two dinghies were being used to practise recovering from capsize. The wall dividing the reservoir in two is just behind the dinghies."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Farmoor_-_geograph.org.uk_-_12982.jpg",
+            "title": "Tom Pullman / Farmoor",
+            "caption": "A view of the village of Farmoor which is located on the north eastern side of the lake. The small settlement consists mainly of houses situated on the western/southern side of the road from Cumnor to Eynsham. The hill on the right is Beacon Hill; the wood is Stroud Copse."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/River_Thames_below_Farmoor_Reservoir_-_geograph.org.uk_-_914217.jpg",
+            "title": "Pierre Terre / River Thames below Farmoor Reservoir",
+            "caption": "River Thames below Farmoor Reservoir. A view of the river on the western side of the lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bird_Hide_Farmoor_Reservoir_-_geograph.org.uk_-_5332728.jpg",
+            "title": "Bird Hide Farmoor Reservoir by Nigel Mykura, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bird Hide on the causeway."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Thames_Path_Footbridge%2C_Farmoor_-_geograph.org.uk_-_908696.jpg",
+            "title": "Pierre Terre / Thames Path Footbridge, Farmoor",
+            "caption": "Footbridge over the outlet channel on the northern side on the Thames path."
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "Enjoy an easy circular walk around this pretty reservoir near Oxford. The walk starts from the car park and visitor centre on the eastern side of the lake. You then pick up the path which takes you to attractive woodland, Thames riverside meadows and nature reserves. The reservoir is an excellent place for birdwatching. Look out for Ospreys, Red Throated Diver and a variety of other water loving wildlife in the wetland nature reserves situated at the northern end of the site. It's a nice varied walk which runs for nearly 4 miles with great views of the surrounding countryside and the River Thames. You can also see a variety of watersports taking place for most of the year. The Oxford Green Belt Way and the Thames Path both run past the reservoir so you could pick up one of these long distance routes to continue your walk. Just to the east is the delightful Port Meadow with walking trails by the Thames and Oxford Canal. Less than a mile to the north east you will find Wytham Woods. There's 1000 acres of mixed woodland to explore on a network of footpaths here.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "If you follow the river north it will take you towards Eynsham where there are some good options for post walk refreshment:- The Queens Head serves great food including excellent pizzas from their wood fired pizza oven. You can sit outside in their beautiful beer garden if the sun is shining. The pub is located on Queen Street at postcode OX29 4HH. The Talbot Inn dates from the 18th century and includes exposed beams & a riverside deck. You can find them on Oxford Road at postcode OX29 4BT. Both these inns are dog friendly. The historic market town of Eynsham is also well worth exploring with several 16th and 17th buildings, plus the site of a medieval abbey to see. A little further away there's the noteworthy Perch Inn in Binsey. The thatched 17th-century country inn is one of the oldest pubs in Oxford and sits next to the lovely Port Meadow. It has a great menu and a splendid, large garden to sit out and relax in during the warmer months. Notably, the pub was a frequent haunt of Inspector Morse from the famous ITV series of the 80s and 90s. You can find it on Binsey Lane at postcode OX2 0NG."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head a few miles south west of the lake and there's the pretty Cotswolds village of Standlake to explore. Here you can enjoy trails along the River Thames and the River Windrush to Newbridge and the picturesque Shifford Lock. There's also a fine 350 year old pub to visit in the village afterwards. For more walking ideas in the area see the Oxfordshire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/xE7JSqzd4kc?si=CrO8tkbL7bbtGGy5",
+    "district": "Vale of White Horse",
+    "county": "Oxfordshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Cumnor Road, Filchampstead, Cumnor, Farmoor, Vale of White Horse, Oxfordshire, England, OX2 9NT, United Kingdom",
+    "postcode": "OX2 9NT",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "meadow"],
+    "points_of_interest": ["nature reserve", "historical site"],
+    "facilities": ["car park", "pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching", "watersports"]
 }

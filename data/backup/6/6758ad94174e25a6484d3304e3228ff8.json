@@ -1,39 +1,31 @@
 {
-  "created_at": "2025-01-06T10:14:05.674991+00:00",
-  "objectID": "6758ad94174e25a6484d3304e3228ff8",
-  "ref": "sheperds-trail-walking-route",
-  "title": "Sheperds Trail Walking Route",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6758ad94174e25a6484d3304e3228ff8.gpx",
-  "_geoloc": {
-    "lat": 50.6167470459,
-    "lng": -1.3673107145
-  },
-  "distance_km": 13.0,
-  "description": "This walk starts at the beautiful Shepherd's Chine, on the south coast of the island, and heads to Newport via Whitcombe Cross, Gatcombe, Chillerton, Billingham and Kingston. There are splendid views of the island as you climb the chalk hills on the south west corner. The walk finishes at the splendid Carisbrooke Castle where Charles I was imprisoned. You can enjoy the new Princess Beatrice Garden and the tranquil chapel at this fine historical attraction. Use google street view below to explore the castle.",
-  "county": "Isle of Wight",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "details": [],
-  "nominatim_found": true,
-  "display_address": "Military Road, Thorncross, Shorwell, Isle of Wight, England, PO30 4PG, United Kingdom",
-  "postcode": "PO30 4PG",
-  "district": "Shorwell",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "4 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "chalk hill"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "created_at": "2025-01-06T10:14:05.674991+00:00",
+    "objectID": "6758ad94174e25a6484d3304e3228ff8",
+    "ref": "sheperds-trail-walking-route",
+    "title": "Sheperds Trail Walking Route",
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6758ad94174e25a6484d3304e3228ff8.gpx",
+    "_geoloc": {
+        "lat": 50.6167470459,
+        "lng": -1.3673107145
+    },
+    "distance_km": 13.0,
+    "description": "This walk starts at the beautiful Shepherd's Chine, on the south coast of the island, and heads to Newport via Whitcombe Cross, Gatcombe, Chillerton, Billingham and Kingston. There are splendid views of the island as you climb the chalk hills on the south west corner. The walk finishes at the splendid Carisbrooke Castle where Charles I was imprisoned. You can enjoy the new Princess Beatrice Garden and the tranquil chapel at this fine historical attraction. Use google street view below to explore the castle.",
+    "county": "Isle of Wight",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "details": [],
+    "nominatim_found": true,
+    "display_address": "Military Road, Thorncross, Shorwell, Isle of Wight, England, PO30 4PG, United Kingdom",
+    "postcode": "PO30 4PG",
+    "district": "Shorwell",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "4 hours",
+    "difficulty": "moderate",
+    "terrain": ["chalk hill"],
+    "points_of_interest": ["historical site"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

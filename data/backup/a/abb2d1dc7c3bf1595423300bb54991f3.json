@@ -1,143 +1,130 @@
 {
-  "created_at": "2025-01-06T01:35:54.146329+00:00",
-  "objectID": "abb2d1dc7c3bf1595423300bb54991f3",
-  "ref": "dinas-island-walking-route",
-  "title": "Dinas Head Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Above_Pwll_Glas_on_Dinas_Head_-_geograph.org.uk_-_326233.jpg",
-  "nearby": [
-    {
-      "description": "Pembrokeshire Coast Path",
-      "objectID": "ad6d6081a04362874fc894b50c9a12b7",
-      "ref": "pembrokeshire-coast-path-walking-route"
+    "created_at": "2025-01-06T01:35:54.146329+00:00",
+    "objectID": "abb2d1dc7c3bf1595423300bb54991f3",
+    "ref": "dinas-island-walking-route",
+    "title": "Dinas Head Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Above_Pwll_Glas_on_Dinas_Head_-_geograph.org.uk_-_326233.jpg",
+    "nearby": [
+        {
+            "description": "Pembrokeshire Coast Path",
+            "objectID": "ad6d6081a04362874fc894b50c9a12b7",
+            "ref": "pembrokeshire-coast-path-walking-route"
+        },
+        {
+            "description": "Gwaun Valley",
+            "objectID": "996c721f8ab34d28f15bdac6067f17a4",
+            "ref": "gwaun-valley-walking-route"
+        },
+        {
+            "description": "Strumble Head",
+            "objectID": "17ca340a814d9e51445adb0e6c4b0100",
+            "ref": "strumble-head-walking-route"
+        },
+        {
+            "description": "Fishguard",
+            "objectID": "e97f518ef59638485922f0bbb9113223",
+            "ref": "fishguard-walking-route"
+        },
+        {
+            "description": "Newport Pembrokeshire",
+            "objectID": "e02375935148d6e187a93ad8ae2d1d5f",
+            "ref": "newport-pembrokeshire-walking-route"
+        },
+        {
+            "description": "Preseli Hills Golden Road",
+            "objectID": "5e196dcea8877c3280ce4e837a046270",
+            "ref": "preseli-hills-golden-road-walking-route"
+        },
+        {
+            "description": "Constantine Bay to Harlyn Bay Walk",
+            "objectID": "9b5b2db6335105acdca89e5d3240a375",
+            "ref": "constantine-bay-to-harlyn-bay-walking-route"
+        },
+        {
+            "description": "Carn Ingli",
+            "objectID": "68fae655afb7734403ad971b1f7946f1",
+            "ref": "carn-ingli-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/abb2d1dc7c3bf1595423300bb54991f3.gpx",
+    "_geoloc": {
+        "lat": 52.0232359735,
+        "lng": -4.895920887
     },
-    {
-      "description": "Gwaun Valley",
-      "objectID": "996c721f8ab34d28f15bdac6067f17a4",
-      "ref": "gwaun-valley-walking-route"
-    },
-    {
-      "description": "Strumble Head",
-      "objectID": "17ca340a814d9e51445adb0e6c4b0100",
-      "ref": "strumble-head-walking-route"
-    },
-    {
-      "description": "Fishguard",
-      "objectID": "e97f518ef59638485922f0bbb9113223",
-      "ref": "fishguard-walking-route"
-    },
-    {
-      "description": "Newport Pembrokeshire",
-      "objectID": "e02375935148d6e187a93ad8ae2d1d5f",
-      "ref": "newport-pembrokeshire-walking-route"
-    },
-    {
-      "description": "Preseli Hills Golden Road",
-      "objectID": "5e196dcea8877c3280ce4e837a046270",
-      "ref": "preseli-hills-golden-road-walking-route"
-    },
-    {
-      "description": "Constantine Bay to Harlyn Bay Walk",
-      "objectID": "9b5b2db6335105acdca89e5d3240a375",
-      "ref": "constantine-bay-to-harlyn-bay-walking-route"
-    },
-    {
-      "description": "Carn Ingli",
-      "objectID": "68fae655afb7734403ad971b1f7946f1",
-      "ref": "carn-ingli-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/abb2d1dc7c3bf1595423300bb54991f3.gpx",
-  "_geoloc": {
-    "lat": 52.0232359735,
-    "lng": -4.895920887
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Above_Pwll_Glas_on_Dinas_Head_-_geograph.org.uk_-_326233.jpg",
-      "title": "ceridwen / Above Pwll Glas on Dinas Head",
-      "caption": "Above Pwll Glas on Dinas Head. Very little land in this gridsquare: the path between Pen Dinas and Cwm yr Eglwys just brushes the southwest corner. The deeply indented bay below is Pwll Glas/Blue Pool - or Green, as in Welsh one word covers a wider area of the spectrum. Needle Rock can be seen further east with Newport and Carn Ingli in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dinas_Head_-_geograph.org.uk_-_1537468.jpg/330px-Dinas_Head_-_geograph.org.uk_-_1537468.jpg",
-      "title": "Philip Halling / Dinas Head",
-      "caption": "The headland viewed from the coast path to the south of Trevose Head near Round Hole."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Leaving_Dinas_Head_-_geograph.org.uk_-_1800561.jpg",
-      "title": "Richard Law / Leaving Dinas Head",
-      "caption": "A walker heading south-eastwards from Dinas Head with their dog in early spring 2010"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dinas_Head_-_geograph.org.uk_-_83747.jpg",
-      "title": "Jim Mitchell / Dinas Head",
-      "caption": "Looking east from Dinas Head into Newport Bay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Trig_point_on_Dinas_Head_-_geograph.org.uk_-_301958.jpg",
-      "title": "ceridwen / Trig point on Dinas Head",
-      "caption": "A dog proudly perched on the trig point at the headland."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chough_at_Dinas_Head_-_geograph.org.uk_-_1514230.jpg",
-      "title": "Pauline Eccles [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Chough at Dinas Head. With distinctive red beak and legs"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Quies_rocks_from_Dinas_Head_-_geograph.org.uk_-_50605.jpg",
-      "title": "David Hawgood / Quies rocks from Dinas Head",
-      "caption": "Quies rocks from the headland. The Quies are prominent rocks a kilometre west of Dinas Head and Trevose Head. The biggest rock, furthest west, is at SW832762"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Landslips_on_the_cliff-face_between_Solva_and_Dinas_Head_-_geograph.org.uk_-_1534368.jpg",
-      "title": "Andy F / Landslips on the cliff-face between Solva and Dinas Head",
-      "caption": "Landslips on the cliff-face between Solva and Dinas Head"
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "Enjoy stunning coastal views on this circular walk on the Pembrokeshire Coast. Dinas Island is actually a peninsula with a wonderful 466ft (142m) viewpoint at the high point known as Pen-y-fan. It's a steep climb but you are rewarded with wonderful views of Cardigan Bay, Fishguard Bay, Snowdonia and the Llyn Peninsula. The headland itself is very attractive, covered with a variety of plants and flowers including gorse, bracken, hawthorn, blackthorn, heather, foxglove and orchids. There's also good birdwatching opportunities as you may see choughs, peregrine falcons and various other sea birds. The walk starts at the car park at Cwm Yr Eglwys at the south eastern end of Dinas Island. You then follow the Pembrokeshire Coast Path to Pen-y-fan passing the Old Sailor Pub on the way. You can also reach Dinas Island by following the Pembrokeshire Coast Path from nearby Fishguard. To extend your walking in the area head south and visit the delightful Gwaun Valley. The peaceful valley has lovely riverside footpaths and attractive woodland to enjoy.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Head into the 16th century Old Sailors for some well earned refreshments after your walk. The friendly pub is located on the western side of the headland at Pwllgwaelod Beach. It's a fabulous spot with a garden area with fine views of the boats leaving Fishguard Harbour. There's a good sized car park and direct access to the beach if you fancy a bit of sunbathing. You can find the pub at Dinas Cross with a postcode of SA42 0SE for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The bracing headland is a great place for a dog walk. The Old Sailors pub mentioned above is also dog friendly with dogs welcome in the garden area and on the beach."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head west of Fishguard and you can visit Strumble Head. There's a fine circular walk visiting the lighthouse with the prospect of seeing porpoises and seals in the seas below. To the east there's the delightful town of Newport. The picturesque settlement is well worth visiting with its sandy beach, excellent variety of shops and cafes, and some fine trails along the River Nevern Estuary. Head south east and you can try the climb to Carn Ingli in the Preseli Hills. It's a worthy climb with a number of fascinating ancient sites dating from the Iron Age and the Bronze Age. There's also some glorious views to the coast from the summit."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/KC6prHSatco",
-  "county": "Pembrokeshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Pembrokeshire Coast Path, Cwm-yr-Eglwys, Dinas Cross, Pembrokeshire, Cymru / Wales, SA42 0SN, United Kingdom",
-  "postcode": "SA42 0SN",
-  "district": "Dinas Cross",
-  "state": "Cymru / Wales",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 30 minutes",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Above_Pwll_Glas_on_Dinas_Head_-_geograph.org.uk_-_326233.jpg",
+            "title": "ceridwen / Above Pwll Glas on Dinas Head",
+            "caption": "Above Pwll Glas on Dinas Head. Very little land in this gridsquare: the path between Pen Dinas and Cwm yr Eglwys just brushes the southwest corner. The deeply indented bay below is Pwll Glas/Blue Pool - or Green, as in Welsh one word covers a wider area of the spectrum. Needle Rock can be seen further east with Newport and Carn Ingli in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dinas_Head_-_geograph.org.uk_-_1537468.jpg/330px-Dinas_Head_-_geograph.org.uk_-_1537468.jpg",
+            "title": "Philip Halling / Dinas Head",
+            "caption": "The headland viewed from the coast path to the south of Trevose Head near Round Hole."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Leaving_Dinas_Head_-_geograph.org.uk_-_1800561.jpg",
+            "title": "Richard Law / Leaving Dinas Head",
+            "caption": "A walker heading south-eastwards from Dinas Head with their dog in early spring 2010"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dinas_Head_-_geograph.org.uk_-_83747.jpg",
+            "title": "Jim Mitchell / Dinas Head",
+            "caption": "Looking east from Dinas Head into Newport Bay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Trig_point_on_Dinas_Head_-_geograph.org.uk_-_301958.jpg",
+            "title": "ceridwen / Trig point on Dinas Head",
+            "caption": "A dog proudly perched on the trig point at the headland."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chough_at_Dinas_Head_-_geograph.org.uk_-_1514230.jpg",
+            "title": "Pauline Eccles [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Chough at Dinas Head. With distinctive red beak and legs"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Quies_rocks_from_Dinas_Head_-_geograph.org.uk_-_50605.jpg",
+            "title": "David Hawgood / Quies rocks from Dinas Head",
+            "caption": "Quies rocks from the headland. The Quies are prominent rocks a kilometre west of Dinas Head and Trevose Head. The biggest rock, furthest west, is at SW832762"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Landslips_on_the_cliff-face_between_Solva_and_Dinas_Head_-_geograph.org.uk_-_1534368.jpg",
+            "title": "Andy F / Landslips on the cliff-face between Solva and Dinas Head",
+            "caption": "Landslips on the cliff-face between Solva and Dinas Head"
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "Enjoy stunning coastal views on this circular walk on the Pembrokeshire Coast. Dinas Island is actually a peninsula with a wonderful 466ft (142m) viewpoint at the high point known as Pen-y-fan. It's a steep climb but you are rewarded with wonderful views of Cardigan Bay, Fishguard Bay, Snowdonia and the Llyn Peninsula. The headland itself is very attractive, covered with a variety of plants and flowers including gorse, bracken, hawthorn, blackthorn, heather, foxglove and orchids. There's also good birdwatching opportunities as you may see choughs, peregrine falcons and various other sea birds. The walk starts at the car park at Cwm Yr Eglwys at the south eastern end of Dinas Island. You then follow the Pembrokeshire Coast Path to Pen-y-fan passing the Old Sailor Pub on the way. You can also reach Dinas Island by following the Pembrokeshire Coast Path from nearby Fishguard. To extend your walking in the area head south and visit the delightful Gwaun Valley. The peaceful valley has lovely riverside footpaths and attractive woodland to enjoy.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Head into the 16th century Old Sailors for some well earned refreshments after your walk. The friendly pub is located on the western side of the headland at Pwllgwaelod Beach. It's a fabulous spot with a garden area with fine views of the boats leaving Fishguard Harbour. There's a good sized car park and direct access to the beach if you fancy a bit of sunbathing. You can find the pub at Dinas Cross with a postcode of SA42 0SE for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The bracing headland is a great place for a dog walk. The Old Sailors pub mentioned above is also dog friendly with dogs welcome in the garden area and on the beach."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head west of Fishguard and you can visit Strumble Head. There's a fine circular walk visiting the lighthouse with the prospect of seeing porpoises and seals in the seas below. To the east there's the delightful town of Newport. The picturesque settlement is well worth visiting with its sandy beach, excellent variety of shops and cafes, and some fine trails along the River Nevern Estuary. Head south east and you can try the climb to Carn Ingli in the Preseli Hills. It's a worthy climb with a number of fascinating ancient sites dating from the Iron Age and the Bronze Age. There's also some glorious views to the coast from the summit."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/KC6prHSatco",
+    "county": "Pembrokeshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Pembrokeshire Coast Path, Cwm-yr-Eglwys, Dinas Cross, Pembrokeshire, Cymru / Wales, SA42 0SN, United Kingdom",
+    "postcode": "SA42 0SN",
+    "district": "Dinas Cross",
+    "state": "Cymru / Wales",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 30 minutes",
+    "difficulty": "moderate",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": ["viewpoint"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching", "dog walking"]
 }

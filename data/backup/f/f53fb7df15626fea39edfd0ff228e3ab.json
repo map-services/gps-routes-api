@@ -1,105 +1,96 @@
 {
-  "created_at": "2025-01-06T10:34:28.179885+00:00",
-  "objectID": "f53fb7df15626fea39edfd0ff228e3ab",
-  "ref": "weaver-hills-walking-route",
-  "title": "Weaver Hills Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stone_houses_in_Wootton_village_-_geograph.org.uk_-_366158.jpg",
-  "nearby": [
-    {
-      "description": "Dimmingsdale",
-      "objectID": "954a7eca45bad6e57391ff45eaf74e2a",
-      "ref": "dimmingsdale-walking-route"
+    "created_at": "2025-01-06T10:34:28.179885+00:00",
+    "objectID": "f53fb7df15626fea39edfd0ff228e3ab",
+    "ref": "weaver-hills-walking-route",
+    "title": "Weaver Hills Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stone_houses_in_Wootton_village_-_geograph.org.uk_-_366158.jpg",
+    "nearby": [
+        {
+            "description": "Dimmingsdale",
+            "objectID": "954a7eca45bad6e57391ff45eaf74e2a",
+            "ref": "dimmingsdale-walking-route"
+        },
+        {
+            "description": "Oakamoor",
+            "objectID": "be1bd217ea387448e29f3d6fb792d69c",
+            "ref": "oakamoor-walking-route"
+        },
+        {
+            "description": "Walk Around Alton",
+            "objectID": "b002ef2e368e2dfcc62466d5ce9da2f3",
+            "ref": "walk-around-alton-walking-route"
+        },
+        {
+            "description": "Cheddleton",
+            "objectID": "31a09369f61455be56997399d35410ca",
+            "ref": "cheddleton-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f53fb7df15626fea39edfd0ff228e3ab.gpx",
+    "_geoloc": {
+        "lat": 53.0040699439,
+        "lng": -1.8457970178
     },
-    {
-      "description": "Oakamoor",
-      "objectID": "be1bd217ea387448e29f3d6fb792d69c",
-      "ref": "oakamoor-walking-route"
-    },
-    {
-      "description": "Walk Around Alton",
-      "objectID": "b002ef2e368e2dfcc62466d5ce9da2f3",
-      "ref": "walk-around-alton-walking-route"
-    },
-    {
-      "description": "Cheddleton",
-      "objectID": "31a09369f61455be56997399d35410ca",
-      "ref": "cheddleton-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f53fb7df15626fea39edfd0ff228e3ab.gpx",
-  "_geoloc": {
-    "lat": 53.0040699439,
-    "lng": -1.8457970178
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stone_houses_in_Wootton_village_-_geograph.org.uk_-_366158.jpg",
-      "title": "Nikki Mahadevan / Stone houses in Wootton village, via Wikimedia Commons",
-      "caption": "Stone houses in Wootton village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gateway%2C_Gidacre_Lane_-_geograph.org.uk_-_1071787.jpg",
-      "title": "Dave Varo / Gateway, Gidacre Lane, via Wikimedia Commons",
-      "caption": "Gateway, Gidacre Lane"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Weaver_Hills_-_geograph.org.uk_-_1537228.jpg",
-      "title": "Paul Buckingham / Weaver Hills, via Wikimedia Commons",
-      "caption": "Weaver Hills"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Dew_pond_on_the_Weaver_Hills_-_geograph.org.uk_-_364961.jpg",
-      "title": "Nikki Mahadevan / Dew pond on the Weaver Hills, via Wikimedia Commons",
-      "caption": "Dew pond on the Weaver Hills"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Solitary_Hawthorn_Tree_on_the_Weaver_Hills_-_geograph.org.uk_-_779068.jpg",
-      "title": "Ian Calderwood / Solitary Hawthorn Tree on the Weaver Hills, via Wikimedia Commons",
-      "caption": "Solitary Hawthorn Tree on the Weaver Hills"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Southeastern_edge_of_Wardlow_Quarry_-_geograph.org.uk_-_366141.jpg",
-      "title": "Nikki Mahadevan / Southeastern edge of Wardlow Quarry, via Wikimedia Commons",
-      "caption": "Southeastern edge of Wardlow Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kevin_Quarry_-_geograph.org.uk_-_779073.jpg",
-      "title": "Ian Calderwood / Kevin Quarry, via Wikimedia Commons",
-      "caption": "Kevin Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Entrance_To_Kevin_Quarry_-_geograph.org.uk_-_437389.jpg",
-      "title": "Ian Calderwood / Entrance To Kevin Quarry, via Wikimedia Commons",
-      "caption": "Entrance To Kevin Quarry"
-    }
-  ],
-  "distance_km": 9.0,
-  "description": "This circular walk explores the Weaver Hills area of the White Peak. The small range of hills are located a few miles west of Ashbourne in north east Staffordshire. They climb to a height of over 1200ft offering fine views over the Peak District and the Churnet Valley. The Weaver Hills are thought to be the southernmost main hills and carboniferous limestone rock strata of the Pennines. Start the walk from the small village of Wootton where you can pick up footpaths heading north west onto the hills. You'll pass limestone quarries as you climb towards Hoften's Cross and Rue Hill. The route then turns round to return past Wardlow Quarry and 'The Walk' which is the high point of the hills at 371 metres (1,217 ft) above sea level. To continue your walking in the area you could explore the lovely Churnet Valley. The route runs from Froghall to Cheddleton where you will find the interesting Churnet Valley Railway centre. The hills are also located close to the villages of Oakamoor and Alton where you can easily reach the delightful Dimmingsdale .",
-  "details": [],
-  "district": "East Staffordshire",
-  "county": "Staffordshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Gidacre Lane, Wootton, East Staffordshire, Staffordshire, England, DE6 2GW, United Kingdom",
-  "postcode": "DE6 2GW",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "hill"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "null"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stone_houses_in_Wootton_village_-_geograph.org.uk_-_366158.jpg",
+            "title": "Nikki Mahadevan / Stone houses in Wootton village, via Wikimedia Commons",
+            "caption": "Stone houses in Wootton village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gateway%2C_Gidacre_Lane_-_geograph.org.uk_-_1071787.jpg",
+            "title": "Dave Varo / Gateway, Gidacre Lane, via Wikimedia Commons",
+            "caption": "Gateway, Gidacre Lane"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Weaver_Hills_-_geograph.org.uk_-_1537228.jpg",
+            "title": "Paul Buckingham / Weaver Hills, via Wikimedia Commons",
+            "caption": "Weaver Hills"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Dew_pond_on_the_Weaver_Hills_-_geograph.org.uk_-_364961.jpg",
+            "title": "Nikki Mahadevan / Dew pond on the Weaver Hills, via Wikimedia Commons",
+            "caption": "Dew pond on the Weaver Hills"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Solitary_Hawthorn_Tree_on_the_Weaver_Hills_-_geograph.org.uk_-_779068.jpg",
+            "title": "Ian Calderwood / Solitary Hawthorn Tree on the Weaver Hills, via Wikimedia Commons",
+            "caption": "Solitary Hawthorn Tree on the Weaver Hills"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Southeastern_edge_of_Wardlow_Quarry_-_geograph.org.uk_-_366141.jpg",
+            "title": "Nikki Mahadevan / Southeastern edge of Wardlow Quarry, via Wikimedia Commons",
+            "caption": "Southeastern edge of Wardlow Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kevin_Quarry_-_geograph.org.uk_-_779073.jpg",
+            "title": "Ian Calderwood / Kevin Quarry, via Wikimedia Commons",
+            "caption": "Kevin Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Entrance_To_Kevin_Quarry_-_geograph.org.uk_-_437389.jpg",
+            "title": "Ian Calderwood / Entrance To Kevin Quarry, via Wikimedia Commons",
+            "caption": "Entrance To Kevin Quarry"
+        }
+    ],
+    "distance_km": 9.0,
+    "description": "This circular walk explores the Weaver Hills area of the White Peak. The small range of hills are located a few miles west of Ashbourne in north east Staffordshire. They climb to a height of over 1200ft offering fine views over the Peak District and the Churnet Valley. The Weaver Hills are thought to be the southernmost main hills and carboniferous limestone rock strata of the Pennines. Start the walk from the small village of Wootton where you can pick up footpaths heading north west onto the hills. You'll pass limestone quarries as you climb towards Hoften's Cross and Rue Hill. The route then turns round to return past Wardlow Quarry and 'The Walk' which is the high point of the hills at 371 metres (1,217 ft) above sea level. To continue your walking in the area you could explore the lovely Churnet Valley. The route runs from Froghall to Cheddleton where you will find the interesting Churnet Valley Railway centre. The hills are also located close to the villages of Oakamoor and Alton where you can easily reach the delightful Dimmingsdale .",
+    "details": [],
+    "district": "East Staffordshire",
+    "county": "Staffordshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Gidacre Lane, Wootton, East Staffordshire, Staffordshire, England, DE6 2GW, United Kingdom",
+    "postcode": "DE6 2GW",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "moderate",
+    "terrain": ["hill"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }
