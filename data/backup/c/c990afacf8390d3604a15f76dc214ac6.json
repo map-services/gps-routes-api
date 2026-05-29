@@ -1,110 +1,120 @@
 {
-    "created_at": "2025-01-06T05:16:25.144086+00:00",
-    "objectID": "c990afacf8390d3604a15f76dc214ac6",
-    "ref": "milton-abbas-walking-route",
-    "title": "Milton Abbas Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Milton_Abbas%2C_the_abbey_and_school_-_geograph.org.uk_-_1878210.jpg",
-    "nearby": [
-        {
-            "description": "Jubilee Trail",
-            "objectID": "a10dd9b1273dd332de7ea385fa8d7f08",
-            "ref": "jubilee-trail-walking-route"
-        },
-        {
-            "description": "Blandford Forum",
-            "objectID": "8d7545b7b5624e04c20e9913e45a56b1",
-            "ref": "blandford-forum-walking-route"
-        },
-        {
-            "description": "Hod Hill",
-            "objectID": "fbe69c0bd2345ed5bff3209ab46f1bde",
-            "ref": "hod-hill-walking-route"
-        },
-        {
-            "description": "Bulbarrow Hill",
-            "objectID": "6c8542117a87948384460e2ebf82d1d4",
-            "ref": "bulbarrow-hill-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c990afacf8390d3604a15f76dc214ac6.gpx",
-    "_geoloc": {
-        "lat": 50.8145256368,
-        "lng": -2.2802818432
+  "created_at": "2025-01-06T05:16:25.144086+00:00",
+  "objectID": "c990afacf8390d3604a15f76dc214ac6",
+  "ref": "milton-abbas-walking-route",
+  "title": "Milton Abbas Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Milton_Abbas%2C_the_abbey_and_school_-_geograph.org.uk_-_1878210.jpg",
+  "nearby": [
+    {
+      "description": "Jubilee Trail",
+      "objectID": "a10dd9b1273dd332de7ea385fa8d7f08",
+      "ref": "jubilee-trail-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Milton_Abbas%2C_the_abbey_and_school_-_geograph.org.uk_-_1878210.jpg",
-            "title": "Milton Abbas: the abbey and school by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Milton Abbas, the abbey and school"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_sunny_afternoon_in_May_at_Milton_Abbas_-_geograph.org.uk_-_1887899.jpg",
-            "title": "A sunny afternoon in May at Milton Abbas by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A sunny afternoon in May at Milton Abbas. Thatched cottages in the village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Milton_Abbas%2C_cricket_at_Milton_Abbey_School_-_geograph.org.uk_-_1878217.jpg",
-            "title": "Milton Abbas: cricket at Milton Abbey School by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A glorious summer scene - cricket at Milton Abbey School"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Milton_Abbas%2C_the_Hambro_Arms_-_geograph.org.uk_-_1374620.jpg",
-            "title": "Chris Downer / Milton Abbas: the Hambro Arms",
-            "caption": "The Hambro Arms. A fine thatched pub at the top end of the village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milton_Abbey_School_-_geograph.org.uk_-_1937591.jpg/500px-Milton_Abbey_School_-_geograph.org.uk_-_1937591.jpg",
-            "title": "Milton Abbey School by Adrian King, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Milton Abbey School"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Thatched_cottages%2C_Hilton_-_geograph.org.uk_-_985837.jpg",
-            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Thatched cottages, Hilton. Old Post Office Cottage and Honeysuckle Cottage."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Approach_to_St_Andrew%27s_Church_Melcombe_Horsey_-_geograph.org.uk_-_365991.jpg/330px-Approach_to_St_Andrew%27s_Church_Melcombe_Horsey_-_geograph.org.uk_-_365991.jpg",
-            "title": "Mike Searle / Approach to St Andrew's Church Melcombe Horsey",
-            "caption": "Approach to St Andrew's Church Melcombe Horsey. Dating from the 14th century, the church is situated in the grounds of Bingham's Melcombe, the ancestral home of the Bingham family. Access from the main entrance is via a gravelled public footpath."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Monmouth_Hill_or_Melmoth%27s_Hill_-_geograph.org.uk_-_549934.jpg",
-            "title": "Mike Searle / Monmouth Hill or Melmoth's Hill",
-            "caption": "Monmouth Hill or Melmoth's Hill. Entrance to Forestry Commission woodland to the west of the village, which the Forestry Commission name as Monmouth Hill, and the Ordnance Survey Melmoth's Hill."
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This delightful picture postcard village is located in the Dorset AONB. The village was designed by the famous Capability Brown and includes several photogenic thatched cottages and an historic abbey school. This circular walk from the village visits Milton Abbey School, the remains of Milton Abbey, Hilton and Bingham's Melcombe. The walk starts in the village and follows a footpath north west along Milton Lake to the school. The site includes a 15th-century dining hall, an Abbey chapel that can be traced back to the 10th century and grounds designed by Lancelot \"Capability\" Brown. You then continue north east along a country lane to the village of Hilton where there's more thatched properties to see. The route then heads south west to visit Bingham's Melcombe, passing through pockets of woodland as you go. There's a fine 14th century church and nice trails along the Devil's Brook where there's a series of waterfalls. The route then heads east, passing Combe Hill and Melmoth's Hill forestry area before returning to Milton Lake at Luscombe Down.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Hambro Arms for some post walk refreshment. The inn is located in a fine thatched building and serves high quality food. There's also a nice outdoor area to relax in on sunny days. You can find them at postcode DT11 0BP for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The country and woodland trails make for a fine dog walk and the Hambro Arms mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Jubilee Trail passes through the area. You could pick up this waymarked footpath and follow it east visit Blandford Forest and Blandford Forum. Near here you can also enjoy a climb to the Roman Fort on Hod Hill and enjoy fine views over the surrounding countryside. A few miles to the north west there's the climb to Bulbarrow Hill to try. There's an Iron Age Hillfort here with views over Somerset, Wiltshire and Devon. For more walking ideas in the area see the Dorset Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/gaPIRU0Av2k",
-    "postcode": "DT11 0BS",
-    "district": "Milton Abbas",
-    "county": "Dorset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Milton Abbas, Dorset, England, DT11 0BS, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "pasture"],
-    "points_of_interest": ["historic abbey", "church", "waterfall"],
-    "facilities": ["car park", "pub/cafe"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Blandford Forum",
+      "objectID": "8d7545b7b5624e04c20e9913e45a56b1",
+      "ref": "blandford-forum-walking-route"
+    },
+    {
+      "description": "Hod Hill",
+      "objectID": "fbe69c0bd2345ed5bff3209ab46f1bde",
+      "ref": "hod-hill-walking-route"
+    },
+    {
+      "description": "Bulbarrow Hill",
+      "objectID": "6c8542117a87948384460e2ebf82d1d4",
+      "ref": "bulbarrow-hill-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c990afacf8390d3604a15f76dc214ac6.gpx",
+  "_geoloc": {
+    "lat": 50.8145256368,
+    "lng": -2.2802818432
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Milton_Abbas%2C_the_abbey_and_school_-_geograph.org.uk_-_1878210.jpg",
+      "title": "Milton Abbas: the abbey and school by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Milton Abbas, the abbey and school"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_sunny_afternoon_in_May_at_Milton_Abbas_-_geograph.org.uk_-_1887899.jpg",
+      "title": "A sunny afternoon in May at Milton Abbas by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A sunny afternoon in May at Milton Abbas. Thatched cottages in the village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Milton_Abbas%2C_cricket_at_Milton_Abbey_School_-_geograph.org.uk_-_1878217.jpg",
+      "title": "Milton Abbas: cricket at Milton Abbey School by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A glorious summer scene - cricket at Milton Abbey School"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Milton_Abbas%2C_the_Hambro_Arms_-_geograph.org.uk_-_1374620.jpg",
+      "title": "Chris Downer / Milton Abbas: the Hambro Arms",
+      "caption": "The Hambro Arms. A fine thatched pub at the top end of the village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milton_Abbey_School_-_geograph.org.uk_-_1937591.jpg/500px-Milton_Abbey_School_-_geograph.org.uk_-_1937591.jpg",
+      "title": "Milton Abbey School by Adrian King, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Milton Abbey School"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Thatched_cottages%2C_Hilton_-_geograph.org.uk_-_985837.jpg",
+      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Thatched cottages, Hilton. Old Post Office Cottage and Honeysuckle Cottage."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Approach_to_St_Andrew%27s_Church_Melcombe_Horsey_-_geograph.org.uk_-_365991.jpg/330px-Approach_to_St_Andrew%27s_Church_Melcombe_Horsey_-_geograph.org.uk_-_365991.jpg",
+      "title": "Mike Searle / Approach to St Andrew's Church Melcombe Horsey",
+      "caption": "Approach to St Andrew's Church Melcombe Horsey. Dating from the 14th century, the church is situated in the grounds of Bingham's Melcombe, the ancestral home of the Bingham family. Access from the main entrance is via a gravelled public footpath."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Monmouth_Hill_or_Melmoth%27s_Hill_-_geograph.org.uk_-_549934.jpg",
+      "title": "Mike Searle / Monmouth Hill or Melmoth's Hill",
+      "caption": "Monmouth Hill or Melmoth's Hill. Entrance to Forestry Commission woodland to the west of the village, which the Forestry Commission name as Monmouth Hill, and the Ordnance Survey Melmoth's Hill."
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This delightful picture postcard village is located in the Dorset AONB. The village was designed by the famous Capability Brown and includes several photogenic thatched cottages and an historic abbey school. This circular walk from the village visits Milton Abbey School, the remains of Milton Abbey, Hilton and Bingham's Melcombe. The walk starts in the village and follows a footpath north west along Milton Lake to the school. The site includes a 15th-century dining hall, an Abbey chapel that can be traced back to the 10th century and grounds designed by Lancelot \"Capability\" Brown. You then continue north east along a country lane to the village of Hilton where there's more thatched properties to see. The route then heads south west to visit Bingham's Melcombe, passing through pockets of woodland as you go. There's a fine 14th century church and nice trails along the Devil's Brook where there's a series of waterfalls. The route then heads east, passing Combe Hill and Melmoth's Hill forestry area before returning to Milton Lake at Luscombe Down.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Hambro Arms for some post walk refreshment. The inn is located in a fine thatched building and serves high quality food. There's also a nice outdoor area to relax in on sunny days. You can find them at postcode DT11 0BP for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk and the Hambro Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Jubilee Trail passes through the area. You could pick up this waymarked footpath and follow it east visit Blandford Forest and Blandford Forum. Near here you can also enjoy a climb to the Roman Fort on Hod Hill and enjoy fine views over the surrounding countryside. A few miles to the north west there's the climb to Bulbarrow Hill to try. There's an Iron Age Hillfort here with views over Somerset, Wiltshire and Devon. For more walking ideas in the area see the Dorset Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/gaPIRU0Av2k",
+  "postcode": "DT11 0BS",
+  "district": "Milton Abbas",
+  "county": "Dorset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Milton Abbas, Dorset, England, DT11 0BS, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -92,28 +92,23 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "woodland",
-    "woodland",
-    "woodside"
+    "coastal"
   ],
   "points_of_interest": [
     "statue",
+    "park",
     "nature reserve",
     "lake"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly",
-    "play area"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

@@ -1,79 +1,88 @@
 {
-    "created_at": "2025-01-06T03:43:43.380650+00:00",
-    "objectID": "a6f1da91a4b685b451b1f30811c48987",
-    "ref": "carlton-in-cleveland-walking-route",
-    "title": "Carlton in Cleveland Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlton-in-Cleveland.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a6f1da91a4b685b451b1f30811c48987.gpx",
-    "_geoloc": {
-        "lat": 54.4300456524,
-        "lng": -1.2149789657
+  "created_at": "2025-01-06T03:43:43.380650+00:00",
+  "objectID": "a6f1da91a4b685b451b1f30811c48987",
+  "ref": "carlton-in-cleveland-walking-route",
+  "title": "Carlton in Cleveland Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlton-in-Cleveland.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a6f1da91a4b685b451b1f30811c48987.gpx",
+  "_geoloc": {
+    "lat": 54.4300456524,
+    "lng": -1.2149789657
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlton-in-Cleveland.jpg",
+      "title": "Mick Garratt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Carlton-in-Cleveland"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlton-in-Cleveland.jpg",
-            "title": "Mick Garratt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Carlton-in-Cleveland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Blacksmith%2C_Carlton-in-Cleveland_-_geograph.org.uk_-_56188.jpg",
-            "title": "Mick Garratt / Blacksmith, Carlton-in-Cleveland",
-            "caption": "Blacksmith, Carlton-in-Cleveland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/On_Cringle_Moor_-_geograph.org.uk_-_2836195.jpg",
-            "title": "On Cringle Moor by David Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "On Cringle Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cleveland_Way%2C_Carlton_Moor_-_geograph.org.uk_-_2836175.jpg",
-            "title": "Cleveland Way, Carlton Moor by David Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cleveland Way, Carlton Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Starting_off_on_a_traverse_of_Cringle_Moor_-_geograph.org.uk_-_2392569.jpg/500px-Starting_off_on_a_traverse_of_Cringle_Moor_-_geograph.org.uk_-_2392569.jpg",
-            "title": "Starting off on a traverse of Cringle Moor by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Starting off on a traverse of Cringle Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lord_Stones_Cafe_-_geograph.org.uk_-_1411783.jpg",
-            "title": "Neville Davison / Lord Stones Cafe",
-            "caption": "Lord Stones Cafe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Whorl_Hill_-_geograph.org.uk_-_1718697.jpg/500px-Whorl_Hill_-_geograph.org.uk_-_1718697.jpg",
-            "title": "Paul Buckingham / Whorl Hill",
-            "caption": "Whorl Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sutton_Arms_-_geograph.org.uk_-_1703244.jpg",
-            "title": "Mick Garratt / Sutton Arms",
-            "caption": "Sutton Arms, Faceby"
-        }
-    ],
-    "distance_km": 14.5,
-    "description": "This village in North Yorkshire sits in a fine spot on the edge of the North York Moors National Park. This circular walk visits some of the local highlights including Lord Stones Country Park, Carlton Bank viewpoint, Whorl Hill Wood and the neighbouring village of Faceby. Much of the route uses a section of the Cleveland Way National Trail which runs through the area. The walk starts in the village and follows footpaths east to Cote House where you turn south to the Lord Stones Park. Here you can pick up the Clevaland Way and follow it up to the viewpoint on Cringle Moor. You then head west to explore Carlton Moor, climbing to the high point at Carlton Bank where there are some excellent views back to the village. You continue west to Faceby Bank, Gold Hill and Round Hill before turning north near Heathwaite. You then head north to visit Whorl Hill where there are some peaceful woodland trails. The route then heads through Faceby village before following public footpaths east to return to Carlton in Cleveland.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Back in the village you can enjoy some post walk refreshment at the Blackwell Ox. They serve some delicious Thai cuisine and also provide holiday lodges. You can find them at postcode TS9 7DJ for your sat navs."
-        }
-    ],
-    "district": "Carlton in Cleveland",
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Alum House Lane, Carlton Town Farm, Carlton, Carlton in Cleveland, North Yorkshire, York and North Yorkshire, England, TS9 7DD, United Kingdom",
-    "postcode": "TS9 7DD",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "moorland", "pasture"],
-    "points_of_interest": ["country park", "viewpoint", "village"],
-    "facilities": ["visitor center", "car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Blacksmith%2C_Carlton-in-Cleveland_-_geograph.org.uk_-_56188.jpg",
+      "title": "Mick Garratt / Blacksmith, Carlton-in-Cleveland",
+      "caption": "Blacksmith, Carlton-in-Cleveland"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/On_Cringle_Moor_-_geograph.org.uk_-_2836195.jpg",
+      "title": "On Cringle Moor by David Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "On Cringle Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cleveland_Way%2C_Carlton_Moor_-_geograph.org.uk_-_2836175.jpg",
+      "title": "Cleveland Way, Carlton Moor by David Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cleveland Way, Carlton Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Starting_off_on_a_traverse_of_Cringle_Moor_-_geograph.org.uk_-_2392569.jpg/500px-Starting_off_on_a_traverse_of_Cringle_Moor_-_geograph.org.uk_-_2392569.jpg",
+      "title": "Starting off on a traverse of Cringle Moor by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Starting off on a traverse of Cringle Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lord_Stones_Cafe_-_geograph.org.uk_-_1411783.jpg",
+      "title": "Neville Davison / Lord Stones Cafe",
+      "caption": "Lord Stones Cafe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Whorl_Hill_-_geograph.org.uk_-_1718697.jpg/500px-Whorl_Hill_-_geograph.org.uk_-_1718697.jpg",
+      "title": "Paul Buckingham / Whorl Hill",
+      "caption": "Whorl Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sutton_Arms_-_geograph.org.uk_-_1703244.jpg",
+      "title": "Mick Garratt / Sutton Arms",
+      "caption": "Sutton Arms, Faceby"
+    }
+  ],
+  "distance_km": 14.5,
+  "description": "This village in North Yorkshire sits in a fine spot on the edge of the North York Moors National Park. This circular walk visits some of the local highlights including Lord Stones Country Park, Carlton Bank viewpoint, Whorl Hill Wood and the neighbouring village of Faceby. Much of the route uses a section of the Cleveland Way National Trail which runs through the area. The walk starts in the village and follows footpaths east to Cote House where you turn south to the Lord Stones Park. Here you can pick up the Clevaland Way and follow it up to the viewpoint on Cringle Moor. You then head west to explore Carlton Moor, climbing to the high point at Carlton Bank where there are some excellent views back to the village. You continue west to Faceby Bank, Gold Hill and Round Hill before turning north near Heathwaite. You then head north to visit Whorl Hill where there are some peaceful woodland trails. The route then heads through Faceby village before following public footpaths east to return to Carlton in Cleveland.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some post walk refreshment at the Blackwell Ox. They serve some delicious Thai cuisine and also provide holiday lodges. You can find them at postcode TS9 7DJ for your sat navs."
+    }
+  ],
+  "district": "Carlton in Cleveland",
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Alum House Lane, Carlton Town Farm, Carlton, Carlton in Cleveland, North Yorkshire, York and North Yorkshire, England, TS9 7DD, United Kingdom",
+  "postcode": "TS9 7DD",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "country park",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

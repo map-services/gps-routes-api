@@ -1,135 +1,146 @@
 {
-    "created_at": "2025-01-06T02:42:03.044030+00:00",
-    "objectID": "28a74661710398948b0f9a3de660b5a2",
-    "ref": "askham-hall-walking-route",
-    "title": "Askham Hall Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Askham_Hall_and_gardens.jpg/500px-Askham_Hall_and_gardens.jpg",
-    "nearby": [
-        {
-            "description": "Lowther Castle",
-            "objectID": "252e7b2648b836288b9ae08ff9f413fb",
-            "ref": "lowther-castle-walking-route"
-        },
-        {
-            "description": "Ullswater Way",
-            "objectID": "a3712da828190a2af557d545f046c7e7",
-            "ref": "ullswater-way-walking-route"
-        },
-        {
-            "description": "Howtown to Glenridding",
-            "objectID": "608007b0dd65a569d9dbdd54a3616aa2",
-            "ref": "howtown-to-glenridding-walking-route"
-        },
-        {
-            "description": "Penrith",
-            "objectID": "79673cc2f246250b26747bb6721d5567",
-            "ref": "penrith-walking-route"
-        },
-        {
-            "description": "Askham Fell",
-            "objectID": "06d4aa78442aa77fc993081452441af1",
-            "ref": "askham-fell-walking-route"
-        },
-        {
-            "description": "Pooley Bridge to Glenridding",
-            "objectID": "1f02ae29b17eaae7a1de1d40960f6fa0",
-            "ref": "pooley-bridge-to-glenridding-walking-route"
-        },
-        {
-            "description": "Pooley Bridge to Howtown",
-            "objectID": "07682917240feb2e3dc2cfbae1bf88e1",
-            "ref": "pooley-bridge-to-howtown-walking-route"
-        },
-        {
-            "description": "Pooley Bridge to Aira Force Walk",
-            "objectID": "fa92acac94f20aec6e9a911433ed9f29",
-            "ref": "pooley-bridge-to-aira-force-walk-walking-route"
-        },
-        {
-            "description": "King's Meaburn",
-            "objectID": "ac185ad2fba31354a09ac2c6c76be1e4",
-            "ref": "kings-meaburn-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/28a74661710398948b0f9a3de660b5a2.gpx",
-    "_geoloc": {
-        "lat": 54.6071908183,
-        "lng": -2.7512094788
+  "created_at": "2025-01-06T02:42:03.044030+00:00",
+  "objectID": "28a74661710398948b0f9a3de660b5a2",
+  "ref": "askham-hall-walking-route",
+  "title": "Askham Hall Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Askham_Hall_and_gardens.jpg/500px-Askham_Hall_and_gardens.jpg",
+  "nearby": [
+    {
+      "description": "Lowther Castle",
+      "objectID": "252e7b2648b836288b9ae08ff9f413fb",
+      "ref": "lowther-castle-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Askham_Hall_and_gardens.jpg/500px-Askham_Hall_and_gardens.jpg",
-            "title": "LadyRaeburn / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
-            "caption": "Askham Hall and gardens"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topiary_gardens.jpg/500px-Topiary_gardens.jpg",
-            "title": "LadyRaeburn / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
-            "caption": "Topiary gardens"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Askham_Centre.jpg/500px-Askham_Centre.jpg",
-            "title": "M J Richardson / Askham Stores and The Queens Head",
-            "caption": "Askham village Centre. Showing Askham Stores and the Queen's Head Inn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Village_Green%2C_Askham_-_panoramio.jpg/500px-Village_Green%2C_Askham_-_panoramio.jpg",
-            "title": "flipflopnick, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Village Green"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/St_Peter%27s_Church_-_Askham_-_geograph.org.uk_-_509275.jpg",
-            "title": "mauldy / St Peter's Church - Askham",
-            "caption": "St Peter's Church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Askham_Bridge.jpg",
-            "title": "Ian Taylor / Askham Bridge",
-            "caption": "Askham Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Secret_Garden_Path_%2834264462073%29.jpg/500px-Secret_Garden_Path_%2834264462073%29.jpg",
-            "title": "Andrew, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Secret Garden Path signs"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Punchbowl_Inn_at_Askham_-_geograph.org.uk_-_512950.jpg",
-            "title": "Adie Jackson / Punchbowl Inn at Askham",
-            "caption": "Punchbowl Inn in the village."
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This walk takes you through Askham Hall and along the River Lowther in the northern area of the Lake District. You will also visit the Grade II listed Askham Hall gardens with colourful terraces, a 230ft long double herbaceous border, formal lawns, kitchen gardens, woodland, meadows and ponds. The hall includes animal trails where you can see shorthorn cattle, rare breed pigs, boer goats, ducks and chickens. To the west of the hall you will find Askham Fell. You can follow footpaths up to the fell on the western side of the village. From the summit there are fine views over the Lowther Valley and the nearby Ullswater Lake. If you would like to continue your walk you could head to the adjacent Lowther Castle where you will find 130 acres of gardens and castle terraces.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In the village there's the Punchbowl Inn for some post walk refreshment. The pub dates back to the 18th century and includes interesting old wooden beams with splits in which coins are once forced 'for luck'. Local tradition states that a wish will be granted for each of the coins pushed into the beams. Outside there's a nice beer garden and kitchen garden area too. They serve good quality food and can be found at postcode CA10 2PF for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "Both the hall and the Punchbowl Inn mentioned above are dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head west from the village and you can visit Ullswater Lake. Here you can try the popular Howtown to Glenridding Walk along the eastern lakeshore. Also to the west is the climb to Askham Fell which commands fine views over the lake and surrounding fells. A few miles to the north east of nearby Penrith you'll find one of the area's top attractions at Hutton in the Forest. The 17th century country house is surrounded by some beautiful landscaped gardens with herbaceous plants, ponds with cascades and some fine topiary. There's also a lovely woodland walk with some fine specimen trees and lots of wildlife. Just to the east is the small village of King's Meaburn where you can enjoy a walk along the River Lyvennet and visit Jackdaw's Scar, an impressive limestone outcrop popular with rock climbers. For more walking ideas in the area see the Lake District Walks and the Cumbria Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/aU2X8KaZBjk",
-    "postcode": "CA10 2PD",
-    "district": "Askham",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Askham, Westmorland and Furness, England, CA10 2PD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "grass"],
-    "points_of_interest": ["gardens", "animal trails", "viewpoint"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Ullswater Way",
+      "objectID": "a3712da828190a2af557d545f046c7e7",
+      "ref": "ullswater-way-walking-route"
+    },
+    {
+      "description": "Howtown to Glenridding",
+      "objectID": "608007b0dd65a569d9dbdd54a3616aa2",
+      "ref": "howtown-to-glenridding-walking-route"
+    },
+    {
+      "description": "Penrith",
+      "objectID": "79673cc2f246250b26747bb6721d5567",
+      "ref": "penrith-walking-route"
+    },
+    {
+      "description": "Askham Fell",
+      "objectID": "06d4aa78442aa77fc993081452441af1",
+      "ref": "askham-fell-walking-route"
+    },
+    {
+      "description": "Pooley Bridge to Glenridding",
+      "objectID": "1f02ae29b17eaae7a1de1d40960f6fa0",
+      "ref": "pooley-bridge-to-glenridding-walking-route"
+    },
+    {
+      "description": "Pooley Bridge to Howtown",
+      "objectID": "07682917240feb2e3dc2cfbae1bf88e1",
+      "ref": "pooley-bridge-to-howtown-walking-route"
+    },
+    {
+      "description": "Pooley Bridge to Aira Force Walk",
+      "objectID": "fa92acac94f20aec6e9a911433ed9f29",
+      "ref": "pooley-bridge-to-aira-force-walk-walking-route"
+    },
+    {
+      "description": "King's Meaburn",
+      "objectID": "ac185ad2fba31354a09ac2c6c76be1e4",
+      "ref": "kings-meaburn-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/28a74661710398948b0f9a3de660b5a2.gpx",
+  "_geoloc": {
+    "lat": 54.6071908183,
+    "lng": -2.7512094788
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Askham_Hall_and_gardens.jpg/500px-Askham_Hall_and_gardens.jpg",
+      "title": "LadyRaeburn / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+      "caption": "Askham Hall and gardens"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Topiary_gardens.jpg/500px-Topiary_gardens.jpg",
+      "title": "LadyRaeburn / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+      "caption": "Topiary gardens"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Askham_Centre.jpg/500px-Askham_Centre.jpg",
+      "title": "M J Richardson / Askham Stores and The Queens Head",
+      "caption": "Askham village Centre. Showing Askham Stores and the Queen's Head Inn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Village_Green%2C_Askham_-_panoramio.jpg/500px-Village_Green%2C_Askham_-_panoramio.jpg",
+      "title": "flipflopnick, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Village Green"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/St_Peter%27s_Church_-_Askham_-_geograph.org.uk_-_509275.jpg",
+      "title": "mauldy / St Peter's Church - Askham",
+      "caption": "St Peter's Church"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Askham_Bridge.jpg",
+      "title": "Ian Taylor / Askham Bridge",
+      "caption": "Askham Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Secret_Garden_Path_%2834264462073%29.jpg/500px-Secret_Garden_Path_%2834264462073%29.jpg",
+      "title": "Andrew, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Secret Garden Path signs"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Punchbowl_Inn_at_Askham_-_geograph.org.uk_-_512950.jpg",
+      "title": "Adie Jackson / Punchbowl Inn at Askham",
+      "caption": "Punchbowl Inn in the village."
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This walk takes you through Askham Hall and along the River Lowther in the northern area of the Lake District. You will also visit the Grade II listed Askham Hall gardens with colourful terraces, a 230ft long double herbaceous border, formal lawns, kitchen gardens, woodland, meadows and ponds. The hall includes animal trails where you can see shorthorn cattle, rare breed pigs, boer goats, ducks and chickens. To the west of the hall you will find Askham Fell. You can follow footpaths up to the fell on the western side of the village. From the summit there are fine views over the Lowther Valley and the nearby Ullswater Lake. If you would like to continue your walk you could head to the adjacent Lowther Castle where you will find 130 acres of gardens and castle terraces.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village there's the Punchbowl Inn for some post walk refreshment. The pub dates back to the 18th century and includes interesting old wooden beams with splits in which coins are once forced 'for luck'. Local tradition states that a wish will be granted for each of the coins pushed into the beams. Outside there's a nice beer garden and kitchen garden area too. They serve good quality food and can be found at postcode CA10 2PF for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Both the hall and the Punchbowl Inn mentioned above are dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west from the village and you can visit Ullswater Lake. Here you can try the popular Howtown to Glenridding Walk along the eastern lakeshore. Also to the west is the climb to Askham Fell which commands fine views over the lake and surrounding fells. A few miles to the north east of nearby Penrith you'll find one of the area's top attractions at Hutton in the Forest. The 17th century country house is surrounded by some beautiful landscaped gardens with herbaceous plants, ponds with cascades and some fine topiary. There's also a lovely woodland walk with some fine specimen trees and lots of wildlife. Just to the east is the small village of King's Meaburn where you can enjoy a walk along the River Lyvennet and visit Jackdaw's Scar, an impressive limestone outcrop popular with rock climbers. For more walking ideas in the area see the Lake District Walks and the Cumbria Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/aU2X8KaZBjk",
+  "postcode": "CA10 2PD",
+  "district": "Askham",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Askham, Westmorland and Furness, England, CA10 2PD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

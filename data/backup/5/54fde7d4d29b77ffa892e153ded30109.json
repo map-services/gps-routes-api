@@ -1,87 +1,93 @@
 {
-    "created_at": "2025-01-06T01:53:48.354382+00:00",
-    "objectID": "54fde7d4d29b77ffa892e153ded30109",
-    "ref": "elmley-national-nature-reserve-walking-route",
-    "title": "Elmley National Nature Reserve Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Entrance_to_Elmley_Marshes_Nature_Reserve_-_geograph.org.uk_-_1278885.jpg",
-    "nearby": [
-        {
-            "description": "Saxon Shore Way",
-            "objectID": "e50fab578e5425ee992debe450ead99a",
-            "ref": "saxon-shore-way-walking-route"
-        },
-        {
-            "description": "Isle of Sheppey",
-            "objectID": "48ba13232ab794f1e764320576dc8ba9",
-            "ref": "isle-of-sheppey-walking-route"
-        },
-        {
-            "description": "Sheerness Way",
-            "objectID": "91e616becee0ebbc651a946067dfae18",
-            "ref": "sheerness-way-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/54fde7d4d29b77ffa892e153ded30109.gpx",
-    "_geoloc": {
-        "lat": 51.3773982494,
-        "lng": 0.7839883525
+  "created_at": "2025-01-06T01:53:48.354382+00:00",
+  "objectID": "54fde7d4d29b77ffa892e153ded30109",
+  "ref": "elmley-national-nature-reserve-walking-route",
+  "title": "Elmley National Nature Reserve Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Entrance_to_Elmley_Marshes_Nature_Reserve_-_geograph.org.uk_-_1278885.jpg",
+  "nearby": [
+    {
+      "description": "Saxon Shore Way",
+      "objectID": "e50fab578e5425ee992debe450ead99a",
+      "ref": "saxon-shore-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Entrance_to_Elmley_Marshes_Nature_Reserve_-_geograph.org.uk_-_1278885.jpg",
-            "title": "David Anstiss / Entrance to Elmley Marshes Nature Reserve",
-            "caption": "Entrance to Elmley Marshes Nature Reserve. This lane leads from Sheppey Way, near Straymarsh Cottages, through the marshes to King's Hill Farm. A car park and toilet block are in the farm. The farm and marshes are part of the RSPB Nature Reserve. The lane is also a public footpath past the farm to the seawall path on the Swale Strait."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dyke_in_Elmley_Marshes_-_geograph.org.uk_-_1278835.jpg",
-            "title": "David Anstiss / Dyke in Elmley Marshes",
-            "caption": "Dyke in Elmley Marshes. This dyke is draining the marshes in King's Hill Farm. This is all part of the RSPB Nature Reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bench_in_the_Elmley_Marshes_-_geograph.org.uk_-_1652848.jpg",
-            "title": "David Anstiss / Bench in the Elmley Marshes",
-            "caption": "Bench in the Marshes. Beside a track from King's Hill Farm towards the RSPB Nature Reserve. The bench looks over the marshes North-easterly towards Minster. Has a small metal plaque which reads 'Donated in Memory of Andrew Richard Barnes 10 October 1964 26th June 2003. Rest awhile and reflect on life'."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rose_Cottage_-_geograph.org.uk_-_180134.jpg",
-            "title": "Glyn Baker / Rose Cottage",
-            "caption": "Rose Cottage is now a ruin, the area of the Nature Reserve beyond the gate is off limits to all but wildlife and those employed to preserve it."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Dray_in_Stray_Marshes_-_geograph.org.uk_-_1278850.jpg",
-            "title": "David Anstiss / The Dray in Stray Marshes",
-            "caption": "The Dray in Stray Marshes"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wasting_Wind_on_Elmley_island_-_geograph.org.uk_-_180127.jpg/330px-Wasting_Wind_on_Elmley_island_-_geograph.org.uk_-_180127.jpg",
-            "title": "Glyn Baker / Wasting Wind on Emley island",
-            "caption": "Wasting Wind on Elmley island"
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "Enjoy a tranquil walk around this beautiful Nature Reserve on the Isle of Sheppey. There are a number of bird hides in the reserve where you can look out for a hug variety of birdlife. Keep your eyes peeled for lapwing, redshank, whimbrel, green sandpiper and grebes. The reserve is located on the southern side of the Isle of Sheppey at postcode ME12 3RW.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Also on the island is the Leysdown Coastal Park and the Sheerness Way. See the Isle of Sheppey Walks page for more walks on the island."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/tLDp0x7MsBw",
-    "postcode": "ME9 9AX",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Road, Tonge Corner, Tonge, Swale, Kent, England, ME9 9AX, United Kingdom",
-    "district": "Swale",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland"],
-    "points_of_interest": ["bird hide"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Isle of Sheppey",
+      "objectID": "48ba13232ab794f1e764320576dc8ba9",
+      "ref": "isle-of-sheppey-walking-route"
+    },
+    {
+      "description": "Sheerness Way",
+      "objectID": "91e616becee0ebbc651a946067dfae18",
+      "ref": "sheerness-way-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/54fde7d4d29b77ffa892e153ded30109.gpx",
+  "_geoloc": {
+    "lat": 51.3773982494,
+    "lng": 0.7839883525
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Entrance_to_Elmley_Marshes_Nature_Reserve_-_geograph.org.uk_-_1278885.jpg",
+      "title": "David Anstiss / Entrance to Elmley Marshes Nature Reserve",
+      "caption": "Entrance to Elmley Marshes Nature Reserve. This lane leads from Sheppey Way, near Straymarsh Cottages, through the marshes to King's Hill Farm. A car park and toilet block are in the farm. The farm and marshes are part of the RSPB Nature Reserve. The lane is also a public footpath past the farm to the seawall path on the Swale Strait."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dyke_in_Elmley_Marshes_-_geograph.org.uk_-_1278835.jpg",
+      "title": "David Anstiss / Dyke in Elmley Marshes",
+      "caption": "Dyke in Elmley Marshes. This dyke is draining the marshes in King's Hill Farm. This is all part of the RSPB Nature Reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bench_in_the_Elmley_Marshes_-_geograph.org.uk_-_1652848.jpg",
+      "title": "David Anstiss / Bench in the Elmley Marshes",
+      "caption": "Bench in the Marshes. Beside a track from King's Hill Farm towards the RSPB Nature Reserve. The bench looks over the marshes North-easterly towards Minster. Has a small metal plaque which reads 'Donated in Memory of Andrew Richard Barnes 10 October 1964 26th June 2003. Rest awhile and reflect on life'."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rose_Cottage_-_geograph.org.uk_-_180134.jpg",
+      "title": "Glyn Baker / Rose Cottage",
+      "caption": "Rose Cottage is now a ruin, the area of the Nature Reserve beyond the gate is off limits to all but wildlife and those employed to preserve it."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Dray_in_Stray_Marshes_-_geograph.org.uk_-_1278850.jpg",
+      "title": "David Anstiss / The Dray in Stray Marshes",
+      "caption": "The Dray in Stray Marshes"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wasting_Wind_on_Elmley_island_-_geograph.org.uk_-_180127.jpg/330px-Wasting_Wind_on_Elmley_island_-_geograph.org.uk_-_180127.jpg",
+      "title": "Glyn Baker / Wasting Wind on Emley island",
+      "caption": "Wasting Wind on Elmley island"
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "Enjoy a tranquil walk around this beautiful Nature Reserve on the Isle of Sheppey. There are a number of bird hides in the reserve where you can look out for a hug variety of birdlife. Keep your eyes peeled for lapwing, redshank, whimbrel, green sandpiper and grebes. The reserve is located on the southern side of the Isle of Sheppey at postcode ME12 3RW.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Also on the island is the Leysdown Coastal Park and the Sheerness Way. See the Isle of Sheppey Walks page for more walks on the island."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/tLDp0x7MsBw",
+  "postcode": "ME9 9AX",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Road, Tonge Corner, Tonge, Swale, Kent, England, ME9 9AX, United Kingdom",
+  "district": "Swale",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "nature reserve"
+  ],
+  "points_of_interest": [
+    "bird hide"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

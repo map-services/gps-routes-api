@@ -1,87 +1,98 @@
 {
-    "created_at": "2025-01-06T10:35:51.560695+00:00",
-    "objectID": "4f0f104d717ee5e26f85fb635b45ea44",
-    "ref": "sirhowy-valley-country-park-walking-and-cycle-route",
-    "title": "Sirhowy Valley Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sirhowy_Valley_Country_Park%2C_Wyllie_-_geograph.org.uk_-_429487.jpg",
-    "nearby": [
-        {
-            "description": "Rhymney Valley Ridgeway Walk",
-            "objectID": "2b2ba05fe6353b9c589064142eedd58d",
-            "ref": "rhymney-valley-ridgeway-walk-walking-route"
-        },
-        {
-            "description": "Sirhowy Valley Ridgeway Walk",
-            "objectID": "7837d3a7f49ad79e2b5890bc3d5eec2f",
-            "ref": "sirhowy-valley-ridgeway-walk-walking-route"
-        },
-        {
-            "description": "Parc Penallta",
-            "objectID": "b3e2f856f54195b07e30f9e5d590e8bf",
-            "ref": "parc-penallta-walking-and-cycle-route"
-        },
-        {
-            "description": "Machen Mountain",
-            "objectID": "a06ce26ff7f20827476cf887f8a9453c",
-            "ref": "machen-mountain-walking-route"
-        },
-        {
-            "description": "National Cycle Route 47",
-            "objectID": "f42d5aee7aebd64f5c7ce1e644e4f20d",
-            "ref": "national-cycle-route-47"
-        },
-        {
-            "description": "Newbridge",
-            "objectID": "8db0074a010e6d88a4803aec9f033f17",
-            "ref": "newbridge-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f0f104d717ee5e26f85fb635b45ea44.gpx",
-    "_geoloc": {
-        "lat": 51.615860103,
-        "lng": -3.1391482856
+  "created_at": "2025-01-06T10:35:51.560695+00:00",
+  "objectID": "4f0f104d717ee5e26f85fb635b45ea44",
+  "ref": "sirhowy-valley-country-park-walking-and-cycle-route",
+  "title": "Sirhowy Valley Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sirhowy_Valley_Country_Park%2C_Wyllie_-_geograph.org.uk_-_429487.jpg",
+  "nearby": [
+    {
+      "description": "Rhymney Valley Ridgeway Walk",
+      "objectID": "2b2ba05fe6353b9c589064142eedd58d",
+      "ref": "rhymney-valley-ridgeway-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sirhowy_Valley_Country_Park%2C_Wyllie_-_geograph.org.uk_-_429487.jpg",
-            "title": "Roger Cornfoot / Sirhowy Valley Country Park, Wyllie",
-            "caption": "Sirhowy Valley Country Park, Wyllie"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Autumn_at_Sirhowy_Valley_Country_Park_1_-_geograph.org.uk_-_1041771.jpg",
-            "title": "Jonathan Billinger / Autumn at Sirhowy Valley Country Park 1",
-            "caption": "Autumn at Sirhowy Valley Country Park. A steep footpath rising from the car park in amongst beech woodland."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Waterfall_by_the_country_park_road_-_geograph.org.uk_-_1041839.jpg/330px-Waterfall_by_the_country_park_road_-_geograph.org.uk_-_1041839.jpg",
-            "title": "Jonathan Billinger / Waterfall by the country park road",
-            "caption": "Waterfall by the country park road. Several cascades like this liven up the drive into the park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_country_park_car_park_-_geograph.org.uk_-_1041831.jpg",
-            "title": "Jonathan Billinger / The country park car park",
-            "caption": "The country park car park"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Explore 1000 acres of woodland and meadows in this beautiful country park in Risca. You can follow the waterside path along the Sirhowy River and climb to Graig Goch Woods for wonderful views of the surrounding countryside. For cyclists National Cycle Route 47 runs through the park. You could pick this up and head west to Parc Penallta. If you're on foot you could extend your walk along the Rhymney Valley Ridgeway Walk or the Sirhowy Valley Ridgeway Walk which run past the park. The circular climb to Machen Mountain also starts from the car park at the park. It uses the waymarked footpaths to climb to the summit where there's a transmitter and excellent views to enjoy.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/eFkmoUq5_L4",
-    "postcode": "NP11 7BD",
-    "county": "Caerphilly",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Ynysddu, Pont-y-waun, Wattsville, Caerphilly, Cymru / Wales, NP11 7BD, United Kingdom",
-    "district": "Pont-y-waun",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow"],
-    "points_of_interest": ["views"],
-    "facilities": ["car park", "transmitter"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Sirhowy Valley Ridgeway Walk",
+      "objectID": "7837d3a7f49ad79e2b5890bc3d5eec2f",
+      "ref": "sirhowy-valley-ridgeway-walk-walking-route"
+    },
+    {
+      "description": "Parc Penallta",
+      "objectID": "b3e2f856f54195b07e30f9e5d590e8bf",
+      "ref": "parc-penallta-walking-and-cycle-route"
+    },
+    {
+      "description": "Machen Mountain",
+      "objectID": "a06ce26ff7f20827476cf887f8a9453c",
+      "ref": "machen-mountain-walking-route"
+    },
+    {
+      "description": "National Cycle Route 47",
+      "objectID": "f42d5aee7aebd64f5c7ce1e644e4f20d",
+      "ref": "national-cycle-route-47"
+    },
+    {
+      "description": "Newbridge",
+      "objectID": "8db0074a010e6d88a4803aec9f033f17",
+      "ref": "newbridge-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f0f104d717ee5e26f85fb635b45ea44.gpx",
+  "_geoloc": {
+    "lat": 51.615860103,
+    "lng": -3.1391482856
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sirhowy_Valley_Country_Park%2C_Wyllie_-_geograph.org.uk_-_429487.jpg",
+      "title": "Roger Cornfoot / Sirhowy Valley Country Park, Wyllie",
+      "caption": "Sirhowy Valley Country Park, Wyllie"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Autumn_at_Sirhowy_Valley_Country_Park_1_-_geograph.org.uk_-_1041771.jpg",
+      "title": "Jonathan Billinger / Autumn at Sirhowy Valley Country Park 1",
+      "caption": "Autumn at Sirhowy Valley Country Park. A steep footpath rising from the car park in amongst beech woodland."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Waterfall_by_the_country_park_road_-_geograph.org.uk_-_1041839.jpg/330px-Waterfall_by_the_country_park_road_-_geograph.org.uk_-_1041839.jpg",
+      "title": "Jonathan Billinger / Waterfall by the country park road",
+      "caption": "Waterfall by the country park road. Several cascades like this liven up the drive into the park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_country_park_car_park_-_geograph.org.uk_-_1041831.jpg",
+      "title": "Jonathan Billinger / The country park car park",
+      "caption": "The country park car park"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Explore 1000 acres of woodland and meadows in this beautiful country park in Risca. You can follow the waterside path along the Sirhowy River and climb to Graig Goch Woods for wonderful views of the surrounding countryside. For cyclists National Cycle Route 47 runs through the park. You could pick this up and head west to Parc Penallta. If you're on foot you could extend your walk along the Rhymney Valley Ridgeway Walk or the Sirhowy Valley Ridgeway Walk which run past the park. The circular climb to Machen Mountain also starts from the car park at the park. It uses the waymarked footpaths to climb to the summit where there's a transmitter and excellent views to enjoy.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/eFkmoUq5_L4",
+  "postcode": "NP11 7BD",
+  "county": "Caerphilly",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ynysddu, Pont-y-waun, Wattsville, Caerphilly, Cymru / Wales, NP11 7BD, United Kingdom",
+  "district": "Pont-y-waun",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "transmitter"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

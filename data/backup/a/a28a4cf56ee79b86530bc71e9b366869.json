@@ -1,82 +1,91 @@
 {
-    "created_at": "2025-01-06T03:00:14.960028+00:00",
-    "objectID": "a28a4cf56ee79b86530bc71e9b366869",
-    "ref": "croham-hurst-walking-route",
-    "title": "Croham Hurst Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Croham_Hurst_grassland.jpg/500px-Croham_Hurst_grassland.jpg",
-    "nearby": [
-        {
-            "description": "Selsdon Wood",
-            "objectID": "01ccbdb1232cbeda6c5c9a8881a4c81f",
-            "ref": "selsdon-wood-walking-route"
-        },
-        {
-            "description": "Vanguard Way",
-            "objectID": "d526829c942476c5ae331b2b89b7b812",
-            "ref": "vanguard-way-walking-route"
-        },
-        {
-            "description": "London Loop",
-            "objectID": "2b405d14b22f13eb43479ae8a57645c7",
-            "ref": "london-loop-walking-route"
-        },
-        {
-            "description": "Addington Hills",
-            "objectID": "188f92ffe1e90c096bbfef13efae864b",
-            "ref": "addington-hills-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a28a4cf56ee79b86530bc71e9b366869.gpx",
-    "_geoloc": {
-        "lat": 51.3556030128,
-        "lng": -0.0838148113
+  "created_at": "2025-01-06T03:00:14.960028+00:00",
+  "objectID": "a28a4cf56ee79b86530bc71e9b366869",
+  "ref": "croham-hurst-walking-route",
+  "title": "Croham Hurst Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Croham_Hurst_grassland.jpg/500px-Croham_Hurst_grassland.jpg",
+  "nearby": [
+    {
+      "description": "Selsdon Wood",
+      "objectID": "01ccbdb1232cbeda6c5c9a8881a4c81f",
+      "ref": "selsdon-wood-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Croham_Hurst_grassland.jpg/500px-Croham_Hurst_grassland.jpg",
-            "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Croham Hurst grassland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Croham_Hurst_view.jpg/500px-Croham_Hurst_view.jpg",
-            "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "View from one of the high points at the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Croham_Hurst_Round_Barrow_%28Marker_Stone%29.JPG/500px-Croham_Hurst_Round_Barrow_%28Marker_Stone%29.JPG",
-            "title": "Eagleash, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Croham Hurst Round Barrow (Marker Stone)"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Croham_Hurst_wood.jpg/500px-Croham_Hurst_wood.jpg",
-            "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "A woodland path at the site."
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "Explore these geologically significant ancient woods on this short walk in Croydon. There's a number of footpaths to follow around the 83 acre site including a climb to Breackneck Hill. At the high points you will find seats where you can relax and enjoy the views of the surrounding area. The woods consist of hazel, beech, oak, wood anemones, wavy hair-grass, heather and bilberry. The Vanguard Way and London Loop long distance paths both run close to the woods so you can pick these up to extend your walk. If you head north east you will soon come to Addington Hills where there is a great viewpoint and London's largest area of heathland. Head south east and you come to Littleheath Woods and Selsdon Wood. Here you'll find 200 acres of ponds, open meadows and ancient woodland.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The circular Croydon Walk starts at the train station in the nearby town. It follows the London Loop to the Addington Hills before heading to Selsdon Wood and Croham Hurst. For more walking ideas in the area see the London Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/0c8jewHTMkA",
-    "district": "London",
-    "county": null,
-    "region": "Greater London",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bankside, Selsdon, London Borough of Croydon, London, Greater London, England, CR2 7BP, United Kingdom",
-    "postcode": "CR2 7BP",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland"],
-    "points_of_interest": ["viewpoint", "meadow"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Vanguard Way",
+      "objectID": "d526829c942476c5ae331b2b89b7b812",
+      "ref": "vanguard-way-walking-route"
+    },
+    {
+      "description": "London Loop",
+      "objectID": "2b405d14b22f13eb43479ae8a57645c7",
+      "ref": "london-loop-walking-route"
+    },
+    {
+      "description": "Addington Hills",
+      "objectID": "188f92ffe1e90c096bbfef13efae864b",
+      "ref": "addington-hills-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a28a4cf56ee79b86530bc71e9b366869.gpx",
+  "_geoloc": {
+    "lat": 51.3556030128,
+    "lng": -0.0838148113
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Croham_Hurst_grassland.jpg/500px-Croham_Hurst_grassland.jpg",
+      "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Croham Hurst grassland"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Croham_Hurst_view.jpg/500px-Croham_Hurst_view.jpg",
+      "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "View from one of the high points at the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Croham_Hurst_Round_Barrow_%28Marker_Stone%29.JPG/500px-Croham_Hurst_Round_Barrow_%28Marker_Stone%29.JPG",
+      "title": "Eagleash, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Croham Hurst Round Barrow (Marker Stone)"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Croham_Hurst_wood.jpg/500px-Croham_Hurst_wood.jpg",
+      "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "A woodland path at the site."
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "Explore these geologically significant ancient woods on this short walk in Croydon. There's a number of footpaths to follow around the 83 acre site including a climb to Breackneck Hill. At the high points you will find seats where you can relax and enjoy the views of the surrounding area. The woods consist of hazel, beech, oak, wood anemones, wavy hair-grass, heather and bilberry. The Vanguard Way and London Loop long distance paths both run close to the woods so you can pick these up to extend your walk. If you head north east you will soon come to Addington Hills where there is a great viewpoint and London's largest area of heathland. Head south east and you come to Littleheath Woods and Selsdon Wood. Here you'll find 200 acres of ponds, open meadows and ancient woodland.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Croydon Walk starts at the train station in the nearby town. It follows the London Loop to the Addington Hills before heading to Selsdon Wood and Croham Hurst. For more walking ideas in the area see the London Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/0c8jewHTMkA",
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bankside, Selsdon, London Borough of Croydon, London, Greater London, England, CR2 7BP, United Kingdom",
+  "postcode": "CR2 7BP",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "seat"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -96,18 +96,19 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "field"
+    "open field",
+    "park"
   ],
   "points_of_interest": [
-    "historical architecture",
-    "castle"
+    "historical site",
+    "castle",
+    "gardens",
+    "village"
   ],
   "facilities": [
-    "pub",
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

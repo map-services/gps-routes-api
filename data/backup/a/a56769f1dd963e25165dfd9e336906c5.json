@@ -1,86 +1,99 @@
 {
-    "created_at": "2025-01-06T10:52:52.534142+00:00",
-    "objectID": "a56769f1dd963e25165dfd9e336906c5",
-    "ref": "neath-canal-walking-and-cycle-route",
-    "title": "Neath Canal Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Neath_Canal_-_geograph.org.uk_-_563763.jpg",
-    "nearby": [
-        {
-            "description": "Melincourt Falls",
-            "objectID": "9b494791498f7dc5372a601458ec1f59",
-            "ref": "melincourt-falls-walking-route"
-        },
-        {
-            "description": "St Illtyd's Walk",
-            "objectID": "4a4b91ac7ce3ca721bbfd025eb556451",
-            "ref": "st-illtyds-walk-walking-route"
-        },
-        {
-            "description": "Tennant Canal",
-            "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
-            "ref": "tennant-canal-walking-route"
-        },
-        {
-            "description": "Aberdulais Falls",
-            "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
-            "ref": "aberdulais-falls-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a56769f1dd963e25165dfd9e336906c5.gpx",
-    "_geoloc": {
-        "lat": 51.7142912761,
-        "lng": -3.6995633825
+  "created_at": "2025-01-06T10:52:52.534142+00:00",
+  "objectID": "a56769f1dd963e25165dfd9e336906c5",
+  "ref": "neath-canal-walking-and-cycle-route",
+  "title": "Neath Canal Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Neath_Canal_-_geograph.org.uk_-_563763.jpg",
+  "nearby": [
+    {
+      "description": "Melincourt Falls",
+      "objectID": "9b494791498f7dc5372a601458ec1f59",
+      "ref": "melincourt-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Neath_Canal_-_geograph.org.uk_-_563763.jpg",
-            "title": "Anthony Gostling / Neath Canal",
-            "caption": "Neath Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridge_on_Neath_Canal_-_geograph.org.uk_-_549579.jpg",
-            "title": "Dave Farmer / Bridge on Neath Canal",
-            "caption": "Bridge on Neath Canal. One of several bridges on the restored part of Neath canal, between Resolven and Blaengwrach."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lock_on_Neath_Canal_-_geograph.org.uk_-_549590.jpg",
-            "title": "Dave Farmer / Lock on Neath Canal",
-            "caption": "Lock on Neath Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/National_Cycle_Network_Sign_on_Neath_Canal_Towpath_-_geograph.org.uk_-_206794.jpg",
-            "title": "Cedwyn Davies / National Cycle Network Sign on Neath Canal Towpath",
-            "caption": "National Cycle Network Sign on Neath Canal Towpath. This sign is situated on the towpath of the Neath Canal at Giant's Grave, Briton Ferry. In the background is a disused quarry."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_Neath_Canal_and_the_River_Neath_-_geograph.org.uk_-_206800.jpg",
-            "title": "Cedwyn Davies / The Neath Canal and the River Neath",
-            "caption": "The Neath Canal and the River Neath. The Neath Canal near Giant's Grave with a tidal inlet of the River Neath to the right. The bridge in the background is the A48T Briton Ferry Bridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridge_over_Neath_canal_at_Giants_Grave_-_geograph.org.uk_-_657361.jpg",
-            "title": "mal reynolds / Bridge over Neath canal at Giants Grave",
-            "caption": "Bridge over Neath canal at Giants Grave. This bridge is near the Old Ship inn"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This section of the Neath Canal makes for a lovely waterside cycle or walk. It runs along the National Cycle Network route from the parking area at Craig Nedd, Resolven to Glynneath. You'll pass pretty locks and bridges with views of the River Neath along the way. St Illtyd's Walk runs through Resolven so you could pick this up and head to the nearby Melincourt Falls to extend your walk. At the western end of the route you can pick up the Tennant Canal and follow it west towards Swansea. This area also includes the lovely Aberdulais Falls, a popular beauty spot with rushing waterfalls and a woodland park.",
-    "details": [],
-    "district": "Resolven",
-    "county": "Neath Port Talbot",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "B4434, Resolven, Neath Port Talbot, Cymru / Wales, SA11 4BZ, United Kingdom",
-    "postcode": "SA11 4BZ",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "waterfront"],
-    "points_of_interest": ["waterfall", "park"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "St Illtyd's Walk",
+      "objectID": "4a4b91ac7ce3ca721bbfd025eb556451",
+      "ref": "st-illtyds-walk-walking-route"
+    },
+    {
+      "description": "Tennant Canal",
+      "objectID": "d80f3e48e4a19ab7d84c4baac37d845d",
+      "ref": "tennant-canal-walking-route"
+    },
+    {
+      "description": "Aberdulais Falls",
+      "objectID": "13f3f851c7a740b95e2b3eb2bba9fd0e",
+      "ref": "aberdulais-falls-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a56769f1dd963e25165dfd9e336906c5.gpx",
+  "_geoloc": {
+    "lat": 51.7142912761,
+    "lng": -3.6995633825
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Neath_Canal_-_geograph.org.uk_-_563763.jpg",
+      "title": "Anthony Gostling / Neath Canal",
+      "caption": "Neath Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridge_on_Neath_Canal_-_geograph.org.uk_-_549579.jpg",
+      "title": "Dave Farmer / Bridge on Neath Canal",
+      "caption": "Bridge on Neath Canal. One of several bridges on the restored part of Neath canal, between Resolven and Blaengwrach."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lock_on_Neath_Canal_-_geograph.org.uk_-_549590.jpg",
+      "title": "Dave Farmer / Lock on Neath Canal",
+      "caption": "Lock on Neath Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/National_Cycle_Network_Sign_on_Neath_Canal_Towpath_-_geograph.org.uk_-_206794.jpg",
+      "title": "Cedwyn Davies / National Cycle Network Sign on Neath Canal Towpath",
+      "caption": "National Cycle Network Sign on Neath Canal Towpath. This sign is situated on the towpath of the Neath Canal at Giant's Grave, Briton Ferry. In the background is a disused quarry."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_Neath_Canal_and_the_River_Neath_-_geograph.org.uk_-_206800.jpg",
+      "title": "Cedwyn Davies / The Neath Canal and the River Neath",
+      "caption": "The Neath Canal and the River Neath. The Neath Canal near Giant's Grave with a tidal inlet of the River Neath to the right. The bridge in the background is the A48T Briton Ferry Bridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bridge_over_Neath_canal_at_Giants_Grave_-_geograph.org.uk_-_657361.jpg",
+      "title": "mal reynolds / Bridge over Neath canal at Giants Grave",
+      "caption": "Bridge over Neath canal at Giants Grave. This bridge is near the Old Ship inn"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This section of the Neath Canal makes for a lovely waterside cycle or walk. It runs along the National Cycle Network route from the parking area at Craig Nedd, Resolven to Glynneath. You'll pass pretty locks and bridges with views of the River Neath along the way. St Illtyd's Walk runs through Resolven so you could pick this up and head to the nearby Melincourt Falls to extend your walk. At the western end of the route you can pick up the Tennant Canal and follow it west towards Swansea. This area also includes the lovely Aberdulais Falls, a popular beauty spot with rushing waterfalls and a woodland park.",
+  "details": [],
+  "district": "Resolven",
+  "county": "Neath Port Talbot",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B4434, Resolven, Neath Port Talbot, Cymru / Wales, SA11 4BZ, United Kingdom",
+  "postcode": "SA11 4BZ",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "lock",
+    "bridge",
+    "waterfall",
+    "beauty spot"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

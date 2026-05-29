@@ -1,97 +1,108 @@
 {
-    "created_at": "2025-01-06T10:24:58.583767+00:00",
-    "objectID": "9369f3f9ae7028e2012f239b2d4aeb8d",
-    "ref": "nant-ffrancon-walking-route",
-    "title": "Nant Ffrancon Valley Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen-y-nant_farm%2C_Nant_Ffrancon_valley_-_geograph.org.uk_-_2234720.jpg",
-    "nearby": [
-        {
-            "description": "Bethesda",
-            "objectID": "334da2148a2a32b6e8697c91698b21db",
-            "ref": "bethesda-walking-route"
-        },
-        {
-            "description": "Llyn Ogwen",
-            "objectID": "e89e9e48cad5ab2e3b69116be42b265e",
-            "ref": "llyn-ogwen-walking-route"
-        },
-        {
-            "description": "Lon Las Ogwen",
-            "objectID": "1328bbabbc13b98fdc25702f06299f1b",
-            "ref": "lon-las-ogwen-cycle-route"
-        },
-        {
-            "description": "Snowdonia Slate Trail",
-            "objectID": "11f87e2a3b44309978dabb386cd806e7",
-            "ref": "snowdonia-slate-trail-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9369f3f9ae7028e2012f239b2d4aeb8d.gpx",
-    "_geoloc": {
-        "lat": 53.179162338,
-        "lng": -4.0615288882
+  "created_at": "2025-01-06T10:24:58.583767+00:00",
+  "objectID": "9369f3f9ae7028e2012f239b2d4aeb8d",
+  "ref": "nant-ffrancon-walking-route",
+  "title": "Nant Ffrancon Valley Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen-y-nant_farm%2C_Nant_Ffrancon_valley_-_geograph.org.uk_-_2234720.jpg",
+  "nearby": [
+    {
+      "description": "Bethesda",
+      "objectID": "334da2148a2a32b6e8697c91698b21db",
+      "ref": "bethesda-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen-y-nant_farm%2C_Nant_Ffrancon_valley_-_geograph.org.uk_-_2234720.jpg",
-            "title": "Blaen-y-nant farm, Nant Ffrancon valley by John Brightley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Blaen-y-nant farm, Nant Ffrancon valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pentre_Farm_in_the_Nant_Ffrancon_-_geograph.org.uk_-_3015014.jpg/500px-Pentre_Farm_in_the_Nant_Ffrancon_-_geograph.org.uk_-_3015014.jpg",
-            "title": "Pentre Farm in the Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pentre Farm in the Nant Ffrancon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_A5_in_Nant_Ffrancon_-_geograph.org.uk_-_2678340.jpg/500px-The_A5_in_Nant_Ffrancon_-_geograph.org.uk_-_2678340.jpg",
-            "title": "The A5 in Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The A5 in Nant Ffrancon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_flat_valley_floor_of_Nant_Ffrancon_-_geograph.org.uk_-_2678360.jpg/500px-The_flat_valley_floor_of_Nant_Ffrancon_-_geograph.org.uk_-_2678360.jpg",
-            "title": "The flat valley floor of Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The flat valley floor of Nant Ffrancon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nant_Ffrancon_-_geograph.org.uk_-_2963918.jpg",
-            "title": "Nant Ffrancon by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Nant Ffrancon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nant_Ffrancon_from_the_head_of_Cwm_Bual_-_geograph.org.uk_-_1311149.jpg",
-            "title": "Kenneth Yarham / Nant Ffrancon from the head of Cwm Bual",
-            "caption": "Nant Ffrancon from the head of Cwm Bual Cwm Bual leads down from the slopes of Foel-goch and provides a steady if tedious descent to the side road which leads from Idwal Cottage down the west side of Nant Ffrancon. It is actually a lot further than it looks here."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_road_winds_ahead_-_geograph.org.uk_-_1475551.jpg",
-            "title": "Ian Greig / The road winds ahead",
-            "caption": "The road winds ahead"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Llyn_Ogwen_-_geograph.org.uk_-_2678376.jpg/500px-Llyn_Ogwen_-_geograph.org.uk_-_2678376.jpg",
-            "title": "Llyn Ogwen by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Llyn Ogwen"
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "A walk through the stunning Nant Ffrancon Valley from Bethesda to Llyn Ogwen. The steep-sided glacial valley runs through Snowdonia with wonderful views of the surrounding mountains and the River Ogwen. The route follows a section of Lon Las Ogwen along a quiet country lane suitable for walkers and cyclists. You finish at the beautiful Llyn Ogwen where there are waterfalls and a lovely lakeside path to enjoy. The route also follows a section of the Snowdonia Slate Trail, a long distance circular walk which explores the historical mining areas of the national park. The waymarked trail is a good way to extend the walk if you have time.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/eI2Cov7gdCc",
-    "postcode": "LL57 3AU",
-    "district": "Bethesda",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Pant, Bethesda, Gwynedd, Cymru / Wales, LL57 3AU, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["mountain"],
-    "points_of_interest": ["historical mining areas", "waterfall"],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Llyn Ogwen",
+      "objectID": "e89e9e48cad5ab2e3b69116be42b265e",
+      "ref": "llyn-ogwen-walking-route"
+    },
+    {
+      "description": "Lon Las Ogwen",
+      "objectID": "1328bbabbc13b98fdc25702f06299f1b",
+      "ref": "lon-las-ogwen-cycle-route"
+    },
+    {
+      "description": "Snowdonia Slate Trail",
+      "objectID": "11f87e2a3b44309978dabb386cd806e7",
+      "ref": "snowdonia-slate-trail-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9369f3f9ae7028e2012f239b2d4aeb8d.gpx",
+  "_geoloc": {
+    "lat": 53.179162338,
+    "lng": -4.0615288882
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blaen-y-nant_farm%2C_Nant_Ffrancon_valley_-_geograph.org.uk_-_2234720.jpg",
+      "title": "Blaen-y-nant farm, Nant Ffrancon valley by John Brightley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Blaen-y-nant farm, Nant Ffrancon valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pentre_Farm_in_the_Nant_Ffrancon_-_geograph.org.uk_-_3015014.jpg/500px-Pentre_Farm_in_the_Nant_Ffrancon_-_geograph.org.uk_-_3015014.jpg",
+      "title": "Pentre Farm in the Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pentre Farm in the Nant Ffrancon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_A5_in_Nant_Ffrancon_-_geograph.org.uk_-_2678340.jpg/500px-The_A5_in_Nant_Ffrancon_-_geograph.org.uk_-_2678340.jpg",
+      "title": "The A5 in Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The A5 in Nant Ffrancon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_flat_valley_floor_of_Nant_Ffrancon_-_geograph.org.uk_-_2678360.jpg/500px-The_flat_valley_floor_of_Nant_Ffrancon_-_geograph.org.uk_-_2678360.jpg",
+      "title": "The flat valley floor of Nant Ffrancon by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The flat valley floor of Nant Ffrancon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nant_Ffrancon_-_geograph.org.uk_-_2963918.jpg",
+      "title": "Nant Ffrancon by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Nant Ffrancon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nant_Ffrancon_from_the_head_of_Cwm_Bual_-_geograph.org.uk_-_1311149.jpg",
+      "title": "Kenneth Yarham / Nant Ffrancon from the head of Cwm Bual",
+      "caption": "Nant Ffrancon from the head of Cwm Bual Cwm Bual leads down from the slopes of Foel-goch and provides a steady if tedious descent to the side road which leads from Idwal Cottage down the west side of Nant Ffrancon. It is actually a lot further than it looks here."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_road_winds_ahead_-_geograph.org.uk_-_1475551.jpg",
+      "title": "Ian Greig / The road winds ahead",
+      "caption": "The road winds ahead"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Llyn_Ogwen_-_geograph.org.uk_-_2678376.jpg/500px-Llyn_Ogwen_-_geograph.org.uk_-_2678376.jpg",
+      "title": "Llyn Ogwen by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Llyn Ogwen"
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "A walk through the stunning Nant Ffrancon Valley from Bethesda to Llyn Ogwen. The steep-sided glacial valley runs through Snowdonia with wonderful views of the surrounding mountains and the River Ogwen. The route follows a section of Lon Las Ogwen along a quiet country lane suitable for walkers and cyclists. You finish at the beautiful Llyn Ogwen where there are waterfalls and a lovely lakeside path to enjoy. The route also follows a section of the Snowdonia Slate Trail, a long distance circular walk which explores the historical mining areas of the national park. The waymarked trail is a good way to extend the walk if you have time.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/eI2Cov7gdCc",
+  "postcode": "LL57 3AU",
+  "district": "Bethesda",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Pant, Bethesda, Gwynedd, Cymru / Wales, LL57 3AU, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 40 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "valley",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "lake"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

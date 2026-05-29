@@ -1,124 +1,115 @@
 {
-  "created_at": "2025-01-06T04:02:36.108084+00:00",
-  "objectID": "739b76d283016a4fd013ecf36f5f88bf",
-  "ref": "lyme-regis-to-seaton-undercliff-walk-walking-route",
-  "title": "Lyme Regis to Seaton Undercliff Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coast_Path_from_Ware_Cliffs_down_to_Lyme_Regis_-_geograph.org.uk_-_216481.jpg",
-  "nearby": [
-    {
-      "description": "Seaton Marshes",
-      "objectID": "3a1370854b11a912bf7da47cf50ff98b",
-      "ref": "seaton-marshes-walking-route"
+    "created_at": "2025-01-06T04:02:36.108084+00:00",
+    "objectID": "739b76d283016a4fd013ecf36f5f88bf",
+    "ref": "lyme-regis-to-seaton-undercliff-walk-walking-route",
+    "title": "Lyme Regis to Seaton Undercliff Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coast_Path_from_Ware_Cliffs_down_to_Lyme_Regis_-_geograph.org.uk_-_216481.jpg",
+    "nearby": [
+        {
+            "description": "Seaton Marshes",
+            "objectID": "3a1370854b11a912bf7da47cf50ff98b",
+            "ref": "seaton-marshes-walking-route"
+        },
+        {
+            "description": "South West Coast Path",
+            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+            "ref": "south-west-coast-path-walking-route"
+        },
+        {
+            "description": "Branscombe to Beer",
+            "objectID": "cdca9aea7e5cf4937525fdb2040b377c",
+            "ref": "branscombe-to-beer-walking-route"
+        },
+        {
+            "description": "Colyton",
+            "objectID": "5ff077312ba16c357a0f8453b96dcd7d",
+            "ref": "colyton-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/739b76d283016a4fd013ecf36f5f88bf.gpx",
+    "_geoloc": {
+        "lat": 50.7244884368,
+        "lng": -2.9326056676
     },
-    {
-      "description": "South West Coast Path",
-      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-      "ref": "south-west-coast-path-walking-route"
-    },
-    {
-      "description": "Branscombe to Beer",
-      "objectID": "cdca9aea7e5cf4937525fdb2040b377c",
-      "ref": "branscombe-to-beer-walking-route"
-    },
-    {
-      "description": "Colyton",
-      "objectID": "5ff077312ba16c357a0f8453b96dcd7d",
-      "ref": "colyton-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/739b76d283016a4fd013ecf36f5f88bf.gpx",
-  "_geoloc": {
-    "lat": 50.7244884368,
-    "lng": -2.9326056676
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coast_Path_from_Ware_Cliffs_down_to_Lyme_Regis_-_geograph.org.uk_-_216481.jpg",
-      "title": "Maurice D Budden [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Coast Path from Ware Cliffs down to Lyme Regis"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_coast_at_Pinhay_Bay_-_geograph.org.uk_-_217266.jpg",
-      "title": "Maurice D Budden [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "The coast at Pinhay Bay. This bay is located just to the south west of Lyme Regis near the Ware Cliffs."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Axe_estuary_-_geograph.org.uk_-_815857.jpg",
-      "title": "Katy Walters [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Axe estuary. The land slopes down from Hawksdown Hill on the right; further back is Boshill Wood and the furthest hill is the site of Musbury Castle."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Looking_toward_Seaton_from_the_mouth_of_the_river_Axe_-_geograph.org.uk_-_451533.jpg",
-      "title": "Pam Goodey [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Looking toward Seaton from the mouth of the river Axe. A pleasant walk past the Sealife Discovery Centre, along the river Axe to the Sea."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Whitlands_Cliff_-_geograph.org.uk_-_47302.jpg",
-      "title": "Tony Atkin / Whitlands Cliff",
-      "caption": "Whitlands Cliff. The vegetation is so dense that in places it almost completely covers the chalk cliff face behind the Undercliff."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Beach_at_Charton_Bay_-_geograph.org.uk_-_1355930.jpg",
-      "title": "Maurice D Budden / Beach at Charton Bay",
-      "caption": "The pebble beach at Charton Bay. The bay is located roughly half way along the route, below the Whitlands Cliff. Photo taken in the spring of 2009."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dowlands_Cliffs_and_Beach_-_geograph.org.uk_-_1355945.jpg",
-      "title": "Maurice D Budden / Dowlands Cliffs and Beach",
-      "caption": "Dowlands Cliffs and Beach. Located just to the east of Seaton."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Seaton_Bay_and_foreshore_-_geograph.org.uk_-_1625610.jpg",
-      "title": "Michael Jagger / Seaton Bay and foreshore",
-      "caption": "A dramatic photo of Seaton Bay. Taken in the summer of 1988."
-    }
-  ],
-  "distance_km": 11.5,
-  "description": "Travel from Dorset into Devon on this popular walk through the Undercliff National Nature Reserve. The reserve is one of the highlights on the Jurassic Coast with a wide variety of flora and fauna to look out for. It's a 7 mile walk with some challenging climbs and wonderful clifftop coastal scenery. The stretch of coast is of high geological significance containing rocks from the Triassic, Jurassic and Cretaceous periods of geological time. It's also botanically diverse with species rich chalk grassland, holm oak, rhododendron, orchids and laurel. Starting on the sea front in Lyme Regis you pick up the South West Coast Path and head west past the famous Cobb. The path then climbs to the Ware Cliffs via Chimney Rock. Ware Cliffs have nice lush green vegetation with a high point of 137 metres (449 ft) at Black Ven. The cliffs are thought to be around 199-189 million years old. You continue west to the lovely Pinhay Bay where there are more tall cliffs and some rugged terrain. The next stage takes you past Whitlands Cliff to Charton Bay, before coming to the splendid Axe Estuary Nature Reserve at Axmouth. It's a great place for birdwatching with many different types of wildfowl and wading birds to look out for. After crossing the Axe Estuary the walk finishes on the front at Seaton.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "At the Seaton end you could enjoy some refreshments at The Vault Bar. The pub is located in a lovely spot right on the sea front. You can enjoy a meal outside with coastal views on sunny summer days. The pub is located at East Walk with a postcode of EX12 2LN for your sat navs. At the other end of the route there's the Royal Standard in Lyme Regis. It's located right next to the famous Cobb with a harbour-deck area. You can sit outside here and enjoy the sea views. They do great seafood and also have live music during the holiday months. You can find it at 25 Marine Parade with a postcode of DT7 3JF."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The area is great for dog walking with beaches and woodland areas for them to enjoy. The Royal Standard pub mentioned above is also very dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "You can extend your walking in Seaton by heading north along the Seaton Tramway Walk through the Seaton Marshes towards Colyford and Colyton. The marshes are just north of the town and include ditches and ponds that attract a large variety of wildfowl, waders and butterflies.If you continue west along the South West Coast Path you will soon come to the villages of Beer and Branscombe. Here you can try the wonderful Branscombe to Beer Walk which takes you past the stunning Hooken Cliffs, Jurassic Coast UNESCO World Heritage Site. Head a few miles inland and you could try the National Trust's Lamberts Castle to Coneys Castle Walk. The walk visits historic old hill forts where you can enjoy some stunning views over the countryside of the Marshwood Vale. For more walking ideas in the area see the Dorset Walks and Devon Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/gmeIlUJkPQs",
-  "district": "Lyme Regis",
-  "county": "Dorset",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Bridge Street, Lyme Regis, Dorset, England, DT7 3QA, United Kingdom",
-  "postcode": "DT7 3QA",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "mountain"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "nature reserve",
-    "geological site"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coast_Path_from_Ware_Cliffs_down_to_Lyme_Regis_-_geograph.org.uk_-_216481.jpg",
+            "title": "Maurice D Budden [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Coast Path from Ware Cliffs down to Lyme Regis"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_coast_at_Pinhay_Bay_-_geograph.org.uk_-_217266.jpg",
+            "title": "Maurice D Budden [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "The coast at Pinhay Bay. This bay is located just to the south west of Lyme Regis near the Ware Cliffs."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Axe_estuary_-_geograph.org.uk_-_815857.jpg",
+            "title": "Katy Walters [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Axe estuary. The land slopes down from Hawksdown Hill on the right; further back is Boshill Wood and the furthest hill is the site of Musbury Castle."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Looking_toward_Seaton_from_the_mouth_of_the_river_Axe_-_geograph.org.uk_-_451533.jpg",
+            "title": "Pam Goodey [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Looking toward Seaton from the mouth of the river Axe. A pleasant walk past the Sealife Discovery Centre, along the river Axe to the Sea."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Whitlands_Cliff_-_geograph.org.uk_-_47302.jpg",
+            "title": "Tony Atkin / Whitlands Cliff",
+            "caption": "Whitlands Cliff. The vegetation is so dense that in places it almost completely covers the chalk cliff face behind the Undercliff."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Beach_at_Charton_Bay_-_geograph.org.uk_-_1355930.jpg",
+            "title": "Maurice D Budden / Beach at Charton Bay",
+            "caption": "The pebble beach at Charton Bay. The bay is located roughly half way along the route, below the Whitlands Cliff. Photo taken in the spring of 2009."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dowlands_Cliffs_and_Beach_-_geograph.org.uk_-_1355945.jpg",
+            "title": "Maurice D Budden / Dowlands Cliffs and Beach",
+            "caption": "Dowlands Cliffs and Beach. Located just to the east of Seaton."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Seaton_Bay_and_foreshore_-_geograph.org.uk_-_1625610.jpg",
+            "title": "Michael Jagger / Seaton Bay and foreshore",
+            "caption": "A dramatic photo of Seaton Bay. Taken in the summer of 1988."
+        }
+    ],
+    "distance_km": 11.5,
+    "description": "Travel from Dorset into Devon on this popular walk through the Undercliff National Nature Reserve. The reserve is one of the highlights on the Jurassic Coast with a wide variety of flora and fauna to look out for. It's a 7 mile walk with some challenging climbs and wonderful clifftop coastal scenery. The stretch of coast is of high geological significance containing rocks from the Triassic, Jurassic and Cretaceous periods of geological time. It's also botanically diverse with species rich chalk grassland, holm oak, rhododendron, orchids and laurel. Starting on the sea front in Lyme Regis you pick up the South West Coast Path and head west past the famous Cobb. The path then climbs to the Ware Cliffs via Chimney Rock. Ware Cliffs have nice lush green vegetation with a high point of 137 metres (449 ft) at Black Ven. The cliffs are thought to be around 199-189 million years old. You continue west to the lovely Pinhay Bay where there are more tall cliffs and some rugged terrain. The next stage takes you past Whitlands Cliff to Charton Bay, before coming to the splendid Axe Estuary Nature Reserve at Axmouth. It's a great place for birdwatching with many different types of wildfowl and wading birds to look out for. After crossing the Axe Estuary the walk finishes on the front at Seaton.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "At the Seaton end you could enjoy some refreshments at The Vault Bar. The pub is located in a lovely spot right on the sea front. You can enjoy a meal outside with coastal views on sunny summer days. The pub is located at East Walk with a postcode of EX12 2LN for your sat navs. At the other end of the route there's the Royal Standard in Lyme Regis. It's located right next to the famous Cobb with a harbour-deck area. You can sit outside here and enjoy the sea views. They do great seafood and also have live music during the holiday months. You can find it at 25 Marine Parade with a postcode of DT7 3JF."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The area is great for dog walking with beaches and woodland areas for them to enjoy. The Royal Standard pub mentioned above is also very dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "You can extend your walking in Seaton by heading north along the Seaton Tramway Walk through the Seaton Marshes towards Colyford and Colyton. The marshes are just north of the town and include ditches and ponds that attract a large variety of wildfowl, waders and butterflies.If you continue west along the South West Coast Path you will soon come to the villages of Beer and Branscombe. Here you can try the wonderful Branscombe to Beer Walk which takes you past the stunning Hooken Cliffs, Jurassic Coast UNESCO World Heritage Site. Head a few miles inland and you could try the National Trust's Lamberts Castle to Coneys Castle Walk. The walk visits historic old hill forts where you can enjoy some stunning views over the countryside of the Marshwood Vale. For more walking ideas in the area see the Dorset Walks and Devon Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/gmeIlUJkPQs",
+    "district": "Lyme Regis",
+    "county": "Dorset",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Bridge Street, Lyme Regis, Dorset, England, DT7 3QA, United Kingdom",
+    "postcode": "DT7 3QA",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "moderate",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": [
+        "national nature reserve",
+        "clifftop",
+        "bay",
+        "estuary"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching", "dog walking"]
 }

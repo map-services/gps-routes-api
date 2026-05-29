@@ -1,120 +1,131 @@
 {
-    "created_at": "2025-01-06T02:56:03.825269+00:00",
-    "objectID": "31a5171a29b85ba44d15aff291f6a768",
-    "ref": "milford-common-walking-route",
-    "title": "Milford Common Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Milford_Common_-_geograph.org.uk_-_172641.jpg",
-    "nearby": [
-        {
-            "description": "Heart of England Way",
-            "objectID": "9684dc380b519a397ae0770340d7f076",
-            "ref": "heart-of-england-way-walking-route"
-        },
-        {
-            "description": "Shugborough Park",
-            "objectID": "00838de229b5951c5883b2c03ba186d1",
-            "ref": "shugborough-park-walking-route"
-        },
-        {
-            "description": "Cannock Chase Country Park",
-            "objectID": "300d70cbea41ea6e4da6d7ebf0659088",
-            "ref": "cannock-chase-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Staffordshire and Worcestershire Canal",
-            "objectID": "7b73e095a9e82ad1e47bcabf38c25232",
-            "ref": "staffordshire-and-worcestershire-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Eccleshall",
-            "objectID": "84c4834a1de2a6e214418817cdd28849",
-            "ref": "eccleshall-walking-route"
-        },
-        {
-            "description": "Hednesford Hills",
-            "objectID": "41c56e994f4148270716e111bea52ea5",
-            "ref": "hednesford-hills-walking-route"
-        },
-        {
-            "description": "Cannock Chase Stepping Stones",
-            "objectID": "681340aa52c64629bd659064e724797e",
-            "ref": "cannock-chase-stepping-stones-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/31a5171a29b85ba44d15aff291f6a768.gpx",
-    "_geoloc": {
-        "lat": 52.7865542461,
-        "lng": -2.0391769241
+  "created_at": "2025-01-06T02:56:03.825269+00:00",
+  "objectID": "31a5171a29b85ba44d15aff291f6a768",
+  "ref": "milford-common-walking-route",
+  "title": "Milford Common Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Milford_Common_-_geograph.org.uk_-_172641.jpg",
+  "nearby": [
+    {
+      "description": "Heart of England Way",
+      "objectID": "9684dc380b519a397ae0770340d7f076",
+      "ref": "heart-of-england-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Milford_Common_-_geograph.org.uk_-_172641.jpg",
-            "title": "David Bagshaw / Milford Common, via Wikimedia Commons",
-            "caption": "Looking towards the south with the Barley Mow Public House behind the right shoulder"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Milford_Common%2C_Cannock_Chase_-_geograph.org.uk_-_959310.jpg",
-            "title": "Tim Marshall / Milford Common, Cannock Chase, via Wikimedia Commons",
-            "caption": "A general view of Milford Common and car park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Reed_filled_lake_-_geograph.org.uk_-_4984728.jpg",
-            "title": "Reed filled lake by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Reed filled lake on the northern side of the common."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Barley_Mow_at_Milford_-_geograph.org.uk_-_172638.jpg",
-            "title": "David Bagshaw / Barley Mow at Milford, via Wikimedia Commons",
-            "caption": "Barley Mow at Milford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Deer_at_Brocton_-_geograph.org.uk_-_1106828.jpg",
-            "title": "Tim Marshall / Deer at Brocton",
-            "caption": "Deer at Brocton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brocton_Camp_-_Hut_base_in_Hut_Lines_%27C%27_-_geograph.org.uk_-_5323249.jpg/500px-Brocton_Camp_-_Hut_base_in_Hut_Lines_%27C%27_-_geograph.org.uk_-_5323249.jpg",
-            "title": "Brocton Camp - Hut base in Hut Lines 'C' by John M, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Brocton Camp. In the autumn of 1914, only months after the start of the First World War, construction of two large camps began on Cannock Chase. The camps (known as Brocton Camp and Rugeley Camp) were constructed with the permission of Lord Lichfield, on whose estate they were being built. The infrastructure for the camps, including the water supply, sewage systems and the roads all had to be created from scratch before work could begin on the huts and other structures."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stepping_Stones_across_Sher_Brook_-_geograph.org.uk_-_4029872.jpg/500px-Stepping_Stones_across_Sher_Brook_-_geograph.org.uk_-_4029872.jpg",
-            "title": "Stepping Stones across Sher Brook by Anthony Parkes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Stepping Stones across Sher Brook"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_oaks_in_Brocton_Coppice_-_geograph.org.uk_-_3565239.jpg/500px-Old_oaks_in_Brocton_Coppice_-_geograph.org.uk_-_3565239.jpg",
-            "title": "Old oaks in Brocton Coppice by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Old oaks in Brocton Coppice"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This walk takes you around Milford Common near Stafford. The common has a series of nice trails with woodland, grassland and ponds to see. The walk starts from the car park located at the northern end of the common. It's located just a few miles south east of Stafford, near to the canal. From the car park you can pick up the trails heading south along the Heart of England Way which runs through the common. You'll pass through the Mere Valley toward Brocton before following peaceful woodland trails through the Brocton Coppice. Other highlights include the Stepping Stones over the Sher Brook. The beauty spot is a nice place for a picnic on the route. The common is nicely located in between to other popular sites so it's easy to extend your walk if you have time. To the north you will find the lovely Shugborough Park where there's attractive parkland to explore. The Staffordshire and Worcestershire Canal runs past the park so you could pick up the towpath for some nice easy waterside walking. To the south there's the delightful Cannock Chase Country Park with more nice footpaths and views from the high points.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Barley Mow pub is located right next to the common. It's ideally situated for some post walk refreshments. There's a good menu and an outdoor seating area for warmer days. You can find it at 28 Main Road with a postcode of ST17 0UW for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A few miles to the north west is the worthy town of Eccleshall. The town has a particularly interesting high street with a number of Georgian buildings to admire. There's also a noteworthy 12th century church and a 13th century castle. You can walk from the town to the nearby Cop Mere where there are some nice waterside paths to try. Just to the south west you'll find the Hednesford Hills. It's an interesting place for a walk with heathland trails, a popular stock car race track and the Museum of Cannock Chase where you can learn all about the mining history of the area. For more walking ideas in the area see the Staffordshire Walks page."
-        }
-    ],
-    "county": "Staffordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Main Road, Milford, Berkswich, Milford, Stafford, Staffordshire, England, ST17 0UP, United Kingdom",
-    "postcode": "ST17 0UP",
-    "district": "Stafford",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "grassland", "water"],
-    "points_of_interest": ["footpath", "parkland", "views"],
-    "facilities": ["car park", "picnic area", "towpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Shugborough Park",
+      "objectID": "00838de229b5951c5883b2c03ba186d1",
+      "ref": "shugborough-park-walking-route"
+    },
+    {
+      "description": "Cannock Chase Country Park",
+      "objectID": "300d70cbea41ea6e4da6d7ebf0659088",
+      "ref": "cannock-chase-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Staffordshire and Worcestershire Canal",
+      "objectID": "7b73e095a9e82ad1e47bcabf38c25232",
+      "ref": "staffordshire-and-worcestershire-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Eccleshall",
+      "objectID": "84c4834a1de2a6e214418817cdd28849",
+      "ref": "eccleshall-walking-route"
+    },
+    {
+      "description": "Hednesford Hills",
+      "objectID": "41c56e994f4148270716e111bea52ea5",
+      "ref": "hednesford-hills-walking-route"
+    },
+    {
+      "description": "Cannock Chase Stepping Stones",
+      "objectID": "681340aa52c64629bd659064e724797e",
+      "ref": "cannock-chase-stepping-stones-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/31a5171a29b85ba44d15aff291f6a768.gpx",
+  "_geoloc": {
+    "lat": 52.7865542461,
+    "lng": -2.0391769241
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Milford_Common_-_geograph.org.uk_-_172641.jpg",
+      "title": "David Bagshaw / Milford Common, via Wikimedia Commons",
+      "caption": "Looking towards the south with the Barley Mow Public House behind the right shoulder"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Milford_Common%2C_Cannock_Chase_-_geograph.org.uk_-_959310.jpg",
+      "title": "Tim Marshall / Milford Common, Cannock Chase, via Wikimedia Commons",
+      "caption": "A general view of Milford Common and car park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Reed_filled_lake_-_geograph.org.uk_-_4984728.jpg",
+      "title": "Reed filled lake by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Reed filled lake on the northern side of the common."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Barley_Mow_at_Milford_-_geograph.org.uk_-_172638.jpg",
+      "title": "David Bagshaw / Barley Mow at Milford, via Wikimedia Commons",
+      "caption": "Barley Mow at Milford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Deer_at_Brocton_-_geograph.org.uk_-_1106828.jpg",
+      "title": "Tim Marshall / Deer at Brocton",
+      "caption": "Deer at Brocton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brocton_Camp_-_Hut_base_in_Hut_Lines_%27C%27_-_geograph.org.uk_-_5323249.jpg/500px-Brocton_Camp_-_Hut_base_in_Hut_Lines_%27C%27_-_geograph.org.uk_-_5323249.jpg",
+      "title": "Brocton Camp - Hut base in Hut Lines 'C' by John M, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Brocton Camp. In the autumn of 1914, only months after the start of the First World War, construction of two large camps began on Cannock Chase. The camps (known as Brocton Camp and Rugeley Camp) were constructed with the permission of Lord Lichfield, on whose estate they were being built. The infrastructure for the camps, including the water supply, sewage systems and the roads all had to be created from scratch before work could begin on the huts and other structures."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stepping_Stones_across_Sher_Brook_-_geograph.org.uk_-_4029872.jpg/500px-Stepping_Stones_across_Sher_Brook_-_geograph.org.uk_-_4029872.jpg",
+      "title": "Stepping Stones across Sher Brook by Anthony Parkes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Stepping Stones across Sher Brook"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Old_oaks_in_Brocton_Coppice_-_geograph.org.uk_-_3565239.jpg/500px-Old_oaks_in_Brocton_Coppice_-_geograph.org.uk_-_3565239.jpg",
+      "title": "Old oaks in Brocton Coppice by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Old oaks in Brocton Coppice"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This walk takes you around Milford Common near Stafford. The common has a series of nice trails with woodland, grassland and ponds to see. The walk starts from the car park located at the northern end of the common. It's located just a few miles south east of Stafford, near to the canal. From the car park you can pick up the trails heading south along the Heart of England Way which runs through the common. You'll pass through the Mere Valley toward Brocton before following peaceful woodland trails through the Brocton Coppice. Other highlights include the Stepping Stones over the Sher Brook. The beauty spot is a nice place for a picnic on the route. The common is nicely located in between to other popular sites so it's easy to extend your walk if you have time. To the north you will find the lovely Shugborough Park where there's attractive parkland to explore. The Staffordshire and Worcestershire Canal runs past the park so you could pick up the towpath for some nice easy waterside walking. To the south there's the delightful Cannock Chase Country Park with more nice footpaths and views from the high points.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Barley Mow pub is located right next to the common. It's ideally situated for some post walk refreshments. There's a good menu and an outdoor seating area for warmer days. You can find it at 28 Main Road with a postcode of ST17 0UW for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the north west is the worthy town of Eccleshall. The town has a particularly interesting high street with a number of Georgian buildings to admire. There's also a noteworthy 12th century church and a 13th century castle. You can walk from the town to the nearby Cop Mere where there are some nice waterside paths to try. Just to the south west you'll find the Hednesford Hills. It's an interesting place for a walk with heathland trails, a popular stock car race track and the Museum of Cannock Chase where you can learn all about the mining history of the area. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
+  "county": "Staffordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Main Road, Milford, Berkswich, Milford, Stafford, Staffordshire, England, ST17 0UP, United Kingdom",
+  "postcode": "ST17 0UP",
+  "district": "Stafford",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "pond",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,86 +1,96 @@
 {
-    "created_at": "2025-01-06T08:07:31.277290+00:00",
-    "objectID": "feb626c0608925f78136b6d9bceeb3b0",
-    "ref": "hawkridge-reservoir-walking-route",
-    "title": "Hawkridge Reservoir Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hawkridge_Reservoir_-_geograph.org.uk_-_1006623.jpg",
-    "nearby": [
-        {
-            "description": "Great Wood Quantocks",
-            "objectID": "9392084a0ecdb1a5e376c415b2c7a3aa",
-            "ref": "great-wood-quantocks-walking-and-cycle-route"
-        },
-        {
-            "description": "Crowcombe",
-            "objectID": "a3dce8b707437bebecd1ae36caad0fe1",
-            "ref": "crowcombe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/feb626c0608925f78136b6d9bceeb3b0.gpx",
-    "_geoloc": {
-        "lat": 51.1182419125,
-        "lng": -3.1344318351
+  "created_at": "2025-01-06T08:07:31.277290+00:00",
+  "objectID": "feb626c0608925f78136b6d9bceeb3b0",
+  "ref": "hawkridge-reservoir-walking-route",
+  "title": "Hawkridge Reservoir Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hawkridge_Reservoir_-_geograph.org.uk_-_1006623.jpg",
+  "nearby": [
+    {
+      "description": "Great Wood Quantocks",
+      "objectID": "9392084a0ecdb1a5e376c415b2c7a3aa",
+      "ref": "great-wood-quantocks-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hawkridge_Reservoir_-_geograph.org.uk_-_1006623.jpg",
-            "title": "Ken Grainger [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Hawkridge Reservoir in autumn."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Countryside_east_of_Hawkridge_Reservoir_%28geograph_3955873%29.jpg/500px-Countryside_east_of_Hawkridge_Reservoir_%28geograph_3955873%29.jpg",
-            "title": "Derek Harper [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Countryside east of Hawkridge Reservoir. Looking down the Peart Water valley. In the distance is Bridgwater Bay. The reservoir was built in the early 1960's to provide drinking water for Bridgwater which is located about 7 miles to the east."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hawkridge_Reservoir_and_dam.jpg",
-            "title": "Bob Jones [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "A winter view across the dam. The site is used for angling with catches including Rainbow Trout. It is also good for wildlife spotting with various wildfowl to see on the water."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hawkridge_Reservoir_-_geograph.org.uk_-_648371.jpg",
-            "title": "Bob Jones [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Looking east from Coleshill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hawkridge_Reservoir_dam_-_geograph.org.uk_-_648373.jpg",
-            "title": "Bob Jones / Hawkridge Reservoir dam",
-            "caption": "A close up of the dam, viewed from the eastern end of the reservoir."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Woodland_walk_above_Hawkridge_Reservoir_-_geograph.org.uk_-_648340.jpg/330px-Woodland_walk_above_Hawkridge_Reservoir_-_geograph.org.uk_-_648340.jpg",
-            "title": "Bob Jones / Woodland walk above Hawkridge Reservoir",
-            "caption": "Steps on the woodland walk above the lake."
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "Enjoy a circular walk around this pretty reservoir in the Quantock Hills area of Somerset. There's nice footpaths climbing above the reservoir, with lovely views across the water to the surrounding countryside and woodland. You can start your walk from the roadside parking area on Lawyer's Hill. Then follow the road and public footpaths towards Ebsley Cottage at the eastern end of the water. The path then climbs towards Littledown with nice views back down to the reservoir. To extend your walking in the area, head west to the Great Wood where you will find miles of waymarked cycling and walking trails. On the south western fringe of Great Wood you will find Wills Neck, the highest point in the Quantock Hills.",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "The reservoir and surrounding woodland make for a pleasant dog walk."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Near the site you'll find the worthy village of Crowcombe where you can enjoy the circular walk to Black Hill, Bicknoller Hill and the 15th century Halsway Manor. The village additionally includes a fine 17th century pub with a lovely large garden and views to the Brendon Hills. Just to the west is Aisholt where there's an old church and some woodland trails around Aisholt Wood. To the east Peart Water leads into the small village of Spaxton and then on to Ashford Reservoir."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/WfYlyfH8dQY?start=53",
-    "county": "Somerset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lawyer's Hill, Spaxton, Somerset, England, TA5 1AL, United Kingdom",
-    "postcode": "TA5 1AL",
-    "district": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "rural"],
-    "points_of_interest": ["viewpoint", "countryside"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Crowcombe",
+      "objectID": "a3dce8b707437bebecd1ae36caad0fe1",
+      "ref": "crowcombe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/feb626c0608925f78136b6d9bceeb3b0.gpx",
+  "_geoloc": {
+    "lat": 51.1182419125,
+    "lng": -3.1344318351
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hawkridge_Reservoir_-_geograph.org.uk_-_1006623.jpg",
+      "title": "Ken Grainger [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Hawkridge Reservoir in autumn."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Countryside_east_of_Hawkridge_Reservoir_%28geograph_3955873%29.jpg/500px-Countryside_east_of_Hawkridge_Reservoir_%28geograph_3955873%29.jpg",
+      "title": "Derek Harper [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Countryside east of Hawkridge Reservoir. Looking down the Peart Water valley. In the distance is Bridgwater Bay. The reservoir was built in the early 1960's to provide drinking water for Bridgwater which is located about 7 miles to the east."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hawkridge_Reservoir_and_dam.jpg",
+      "title": "Bob Jones [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "A winter view across the dam. The site is used for angling with catches including Rainbow Trout. It is also good for wildlife spotting with various wildfowl to see on the water."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hawkridge_Reservoir_-_geograph.org.uk_-_648371.jpg",
+      "title": "Bob Jones [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Looking east from Coleshill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hawkridge_Reservoir_dam_-_geograph.org.uk_-_648373.jpg",
+      "title": "Bob Jones / Hawkridge Reservoir dam",
+      "caption": "A close up of the dam, viewed from the eastern end of the reservoir."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Woodland_walk_above_Hawkridge_Reservoir_-_geograph.org.uk_-_648340.jpg/330px-Woodland_walk_above_Hawkridge_Reservoir_-_geograph.org.uk_-_648340.jpg",
+      "title": "Bob Jones / Woodland walk above Hawkridge Reservoir",
+      "caption": "Steps on the woodland walk above the lake."
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "Enjoy a circular walk around this pretty reservoir in the Quantock Hills area of Somerset. There's nice footpaths climbing above the reservoir, with lovely views across the water to the surrounding countryside and woodland. You can start your walk from the roadside parking area on Lawyer's Hill. Then follow the road and public footpaths towards Ebsley Cottage at the eastern end of the water. The path then climbs towards Littledown with nice views back down to the reservoir. To extend your walking in the area, head west to the Great Wood where you will find miles of waymarked cycling and walking trails. On the south western fringe of Great Wood you will find Wills Neck, the highest point in the Quantock Hills.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reservoir and surrounding woodland make for a pleasant dog walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near the site you'll find the worthy village of Crowcombe where you can enjoy the circular walk to Black Hill, Bicknoller Hill and the 15th century Halsway Manor. The village additionally includes a fine 17th century pub with a lovely large garden and views to the Brendon Hills. Just to the west is Aisholt where there's an old church and some woodland trails around Aisholt Wood. To the east Peart Water leads into the small village of Spaxton and then on to Ashford Reservoir."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/WfYlyfH8dQY?start=53",
+  "county": "Somerset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lawyer's Hill, Spaxton, Somerset, England, TA5 1AL, United Kingdom",
+  "postcode": "TA5 1AL",
+  "district": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,77 +1,82 @@
 {
-    "created_at": "2025-01-06T08:37:47.933485+00:00",
-    "objectID": "e9c3b42450a49bb04646d2902f9087b7",
-    "ref": "sefton-park-liverpool-walking-route",
-    "title": "Sefton Park Liverpool Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sefton_Park_4.jpg/330px-Sefton_Park_4.jpg",
-    "nearby": [
-        {
-            "description": "Calderstones Park",
-            "objectID": "e8f54b5483bb4ac21409772de9817b12",
-            "ref": "calderstones-park-walking-route"
-        },
-        {
-            "description": "Liverpool City Walk",
-            "objectID": "1488d0d69198c17c2813182819360bd4",
-            "ref": "liverpool-city-walk-walking-route"
-        },
-        {
-            "description": "Trans Pennine Trail",
-            "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-            "ref": "trans-pennine-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Knowsley Hall Park",
-            "objectID": "797e7c5cf472c0bd4da75e53657e4761",
-            "ref": "knowsley-hall-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e9c3b42450a49bb04646d2902f9087b7.gpx",
-    "_geoloc": {
-        "lat": 53.3811487524,
-        "lng": -2.9404815037
+  "created_at": "2025-01-06T08:37:47.933485+00:00",
+  "objectID": "e9c3b42450a49bb04646d2902f9087b7",
+  "ref": "sefton-park-liverpool-walking-route",
+  "title": "Sefton Park Liverpool Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sefton_Park_4.jpg/330px-Sefton_Park_4.jpg",
+  "nearby": [
+    {
+      "description": "Calderstones Park",
+      "objectID": "e8f54b5483bb4ac21409772de9817b12",
+      "ref": "calderstones-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sefton_Park_4.jpg/330px-Sefton_Park_4.jpg",
-            "title": "By No machine-readable author provided. Irate assumed (based on copyright claims). [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons",
-            "caption": "Sefton Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palm_House_Sefton_Park.jpg/330px-Palm_House_Sefton_Park.jpg",
-            "title": "By Imcall (Own work) [Public domain], via Wikimedia Commons",
-            "caption": "Palm House Sefton Park"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Enjoy a cycle or walk around this popular park in Liverpool. There's 235 acres to explore with a series of lakes, a splendid palm house, attractive gardens and a number of sculptures of well known historical figures. Other highlights in the park include the fairy glen with caves, pretty waterfalls and an Aviary viewing point. There's also the Grade I listed Shaftesbury Memorial and Eros Fountain and a nice lakeside cafe. The Palm House is partiuclarly impressive, housing the Liverpool Botanical Collection with a variety of palm trees, orchids and a glasshouse. The Trans Pennine Trail runs right through the park. Cyclists are permitted on this section. You can pick up the trail and follow it west to visit the nearby Princes Park. Continuing west take you into Liverpool where you can try our long circular walk which visits Albert Dock and the Liverpool Festival Gardens. If you follow the Trans Pennine Trail east it will take you to Calderstones Park. It's only about a mile away and includes nearly 100 acres of parkland with woodland, lake and beautiful Japanese and old English gardens. Using the google street view below you can virtually explore the park!",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head north and you could visit the splendid Croxteth Country Park. There's a fine old hall surrounded by 500 acres of woodland and parkland here. Knowsley Hall Park with its 15th century hall and safari park attraction can also be found in this area. Just to the east of the park there's some nice woodland trails around Childwall Woods. The adjacent village of Childwall is also well worth a visit with its historic Abbey Inn, thought to date back to the 11th century. For more walking ideas in the area see the Merseyside Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/8V0u56B06Yc",
-    "district": "Liverpool",
-    "region": "Liverpool City Region",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Aigburth Drive, Aigburth, Liverpool, Liverpool City Region, England, L17 4JA, United Kingdom",
-    "postcode": "L17 4JA",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "lake"],
-    "points_of_interest": [
-        "historical figures",
-        "caves",
-        "waterfall",
-        "viewpoint"
-    ],
-    "facilities": ["cafe", "visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Liverpool City Walk",
+      "objectID": "1488d0d69198c17c2813182819360bd4",
+      "ref": "liverpool-city-walk-walking-route"
+    },
+    {
+      "description": "Trans Pennine Trail",
+      "objectID": "92a97add7ee3d3d55980d4993637b5c5",
+      "ref": "trans-pennine-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Knowsley Hall Park",
+      "objectID": "797e7c5cf472c0bd4da75e53657e4761",
+      "ref": "knowsley-hall-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e9c3b42450a49bb04646d2902f9087b7.gpx",
+  "_geoloc": {
+    "lat": 53.3811487524,
+    "lng": -2.9404815037
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sefton_Park_4.jpg/330px-Sefton_Park_4.jpg",
+      "title": "By No machine-readable author provided. Irate assumed (based on copyright claims). [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons",
+      "caption": "Sefton Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palm_House_Sefton_Park.jpg/330px-Palm_House_Sefton_Park.jpg",
+      "title": "By Imcall (Own work) [Public domain], via Wikimedia Commons",
+      "caption": "Palm House Sefton Park"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Enjoy a cycle or walk around this popular park in Liverpool. There's 235 acres to explore with a series of lakes, a splendid palm house, attractive gardens and a number of sculptures of well known historical figures. Other highlights in the park include the fairy glen with caves, pretty waterfalls and an Aviary viewing point. There's also the Grade I listed Shaftesbury Memorial and Eros Fountain and a nice lakeside cafe. The Palm House is partiuclarly impressive, housing the Liverpool Botanical Collection with a variety of palm trees, orchids and a glasshouse. The Trans Pennine Trail runs right through the park. Cyclists are permitted on this section. You can pick up the trail and follow it west to visit the nearby Princes Park. Continuing west take you into Liverpool where you can try our long circular walk which visits Albert Dock and the Liverpool Festival Gardens. If you follow the Trans Pennine Trail east it will take you to Calderstones Park. It's only about a mile away and includes nearly 100 acres of parkland with woodland, lake and beautiful Japanese and old English gardens. Using the google street view below you can virtually explore the park!",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north and you could visit the splendid Croxteth Country Park. There's a fine old hall surrounded by 500 acres of woodland and parkland here. Knowsley Hall Park with its 15th century hall and safari park attraction can also be found in this area. Just to the east of the park there's some nice woodland trails around Childwall Woods. The adjacent village of Childwall is also well worth a visit with its historic Abbey Inn, thought to date back to the 11th century. For more walking ideas in the area see the Merseyside Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/8V0u56B06Yc",
+  "district": "Liverpool",
+  "region": "Liverpool City Region",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Aigburth Drive, Aigburth, Liverpool, Liverpool City Region, England, L17 4JA, United Kingdom",
+  "postcode": "L17 4JA",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,135 +1,147 @@
 {
-    "created_at": "2025-01-06T00:57:22.202565+00:00",
-    "objectID": "ad58fd4c1791562d9e5f7ea9852fd889",
-    "ref": "axe-edge-moor-walking-route",
-    "title": "Axe Edge Moor Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Axe_Edge_Moor_-_geograph.org.uk_-_98606.jpg",
-    "nearby": [
-        {
-            "description": "Buxton",
-            "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
-            "ref": "buxton-walking-route"
-        },
-        {
-            "description": "Poole's Cavern and Buxton Country Park",
-            "objectID": "ebf0685cb2220d0779925bc2eb5b034a",
-            "ref": "pooles-cavern-and-buxton-country-park-walking-route"
-        },
-        {
-            "description": "Three Shires Head",
-            "objectID": "8af34abb4d9976c4dfecd1ff72288ae7",
-            "ref": "three-shires-head-walking-route"
-        },
-        {
-            "description": "Shining Tor and Cats Tor",
-            "objectID": "c48873bb2cdf8510bf5b66effb7c04ad",
-            "ref": "shining-tor-and-cats-tor-walking-route"
-        },
-        {
-            "description": "Errwood Reservoir and Fernilee Reservoir",
-            "objectID": "8d52124fa3a73bd3cadab817daf7aefe",
-            "ref": "errwood-reservoir-and-fernilee-reservoir-walking-route"
-        },
-        {
-            "description": "Lamaload Reservoir",
-            "objectID": "9c7085b27f65b3b0216477bd3fe56d18",
-            "ref": "lamaload-reservoir-walk"
-        },
-        {
-            "description": "Hollinsclough Walk",
-            "objectID": "5f0bb1a1106c8bbaeda995efd867ae81",
-            "ref": "hollinsclough-walking-route"
-        },
-        {
-            "description": "Cheeks Hill",
-            "objectID": "f1f903797c38ad0e6a0ba894b8c749a3",
-            "ref": "cheeks-hill-walking-route"
-        },
-        {
-            "description": "Wildboarclough",
-            "objectID": "11390c32ce6b633610681b7bee49530a",
-            "ref": "wildboarclough-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad58fd4c1791562d9e5f7ea9852fd889.gpx",
-    "_geoloc": {
-        "lat": 53.2441976197,
-        "lng": -1.9275055267
+  "created_at": "2025-01-06T00:57:22.202565+00:00",
+  "objectID": "ad58fd4c1791562d9e5f7ea9852fd889",
+  "ref": "axe-edge-moor-walking-route",
+  "title": "Axe Edge Moor Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Axe_Edge_Moor_-_geograph.org.uk_-_98606.jpg",
+  "nearby": [
+    {
+      "description": "Buxton",
+      "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
+      "ref": "buxton-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Axe_Edge_Moor_-_geograph.org.uk_-_98606.jpg",
-            "title": "Dave Dunford / Axe Edge Moor",
-            "caption": "On the moor. The minor road to Dane Head, near Tinkers Pits SK021709, looking southeast."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Capped_mine_on_Axe_Edge_Moor_-_geograph.org.uk_-_600460.jpg",
-            "title": "Eirian Evans / Capped mine on Axe Edge Moor",
-            "caption": "Capped mine on Axe Edge Moor. The moorland around this area is riddled with old mines."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Orchard_Farm%2C_Axe_Edge_Moor_-_geograph.org.uk_-_600558.jpg",
-            "title": "Eirian Evans / Orchard Farm, Axe Edge Moor",
-            "caption": "Orchard Farm, Axe Edge Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axe_Edge_hillside_towards_Stanley_Moor_-_geograph.org.uk_-_1571789.jpg",
-            "title": "Chris Wimbush / Axe Edge hillside towards Stanley Moor",
-            "caption": "Axe Edge hillside towards Stanley Moor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dane_Head_-_geograph.org.uk_-_1521048.jpg",
-            "title": "ron layters / Dane Head",
-            "caption": "Dane Head"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dane_Valley_Way_-_north_-_geograph.org.uk_-_977376.jpg",
-            "title": "Jonathan Billinger / Dane Valley Way - north",
-            "caption": "Dane Valley Way - north. Looking north across Axe Edge Moor which is the highest stretch of this Long Distance Footpath from Middlewich to Buxton."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Three_Shires_Head_-_geograph.org.uk_-_491.jpg",
-            "title": "Deego / Three Shires Head",
-            "caption": "Three Shires Head"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Grinlow_Tower_aka_Solomon%27s_Temple_in_Buxton_Country_Park.jpg/330px-Grinlow_Tower_aka_Solomon%27s_Temple_in_Buxton_Country_Park.jpg",
-            "title": "Stevekraken / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
-            "caption": "Grinlow Tower at the start/end of the walk in Buxton Country Park. Also known as Solomon's Temple this Grade II listed Victorian folly sits on the summit of Grin Low hill within the park. The structure is a 20-foot-high (6.1 m), two-storey tower built on top of a Bronze Age barrow, sitting on top of a ridge at a height of 440 metres (1,440 ft) above sea level. From the open top of the tower there are good 360-degree views over the town and the surrounding countryside and parts of the Peak District."
-        }
-    ],
-    "distance_km": 16.5,
-    "description": "This expansive area of moorland near Buxton has some fine walking trails to try. The moor sits in an elevated position some (551 metres (1,808 ft) above sea level. It is notable as the source of the River Dove, River Manifold, River Dane, River Wye and River Goyt. This walk takes you from Poole's Cavern and Buxton Country Park to the old pack horse bridge at Three Shires Head. It uses a section of the Dane Valley Way to explore the area. Start the walk at the car park at Poole's Cavern and Buxton Country Park, located on the eastern side of the moor. From here you can pick up the Dane Valley Way and follow it south west on to the moor. It will take you to Orchard Common before coming to Three Shires Head. It's a very picturesque spot where the counties of Cheshire, Derbyshire and Staffordshire meet. There's a fine Grade II-listed packhorse bridge over the River Dane and lots of pretty waterfalls to see here too. The route then heads north from the bridge past Cut-thorn Hill towards Danebower Hollow and Cheshire Knowl. Here the trail passes the old Danebower quarries and Reeve- Edge quarries before returning to Orchard Common. You then retrace your steps, passing Cheeks Hill and Dane Head before returning to the car park in the park.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The country park has a nice cafe for refreshments after your walk. On the western side of the moor there's the noteworthy Cat and Fiddle Inn. It is the second-highest pub in Britain at a height of 1,689 feet (515 m). If you take a detour from the route around Danebower Hollow you can visit the pub. It's located at a postcode of SK11 0AR for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The expansive moorland makes for a fine walk with your dog."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "At the north western edge of the moor there's a popular climb at Shining Tor and Cats Tor. There's fine views across the moor from this viewpoint. In this area you'll also find some easy waterside walking around Lamaload Reservoir, Errwood Reservoir and Fernilee Reservoir. A few miles to the east there's another excellent climb to Chrome Hill. There's fine views over the Dove Valley from this viewpoint. For more walking ideas in the area see the Peak District Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/rtw4oAWskRk",
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Grin Low Car Park, Grin Low Road, Harpur Hill, High Peak, Derbyshire, East Midlands, England, SK17 9US, United Kingdom",
-    "postcode": "SK17 9US",
-    "district": "High Peak",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["moorland", "hill"],
-    "points_of_interest": ["historical bridge", "waterfall", "hill"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Poole's Cavern and Buxton Country Park",
+      "objectID": "ebf0685cb2220d0779925bc2eb5b034a",
+      "ref": "pooles-cavern-and-buxton-country-park-walking-route"
+    },
+    {
+      "description": "Three Shires Head",
+      "objectID": "8af34abb4d9976c4dfecd1ff72288ae7",
+      "ref": "three-shires-head-walking-route"
+    },
+    {
+      "description": "Shining Tor and Cats Tor",
+      "objectID": "c48873bb2cdf8510bf5b66effb7c04ad",
+      "ref": "shining-tor-and-cats-tor-walking-route"
+    },
+    {
+      "description": "Errwood Reservoir and Fernilee Reservoir",
+      "objectID": "8d52124fa3a73bd3cadab817daf7aefe",
+      "ref": "errwood-reservoir-and-fernilee-reservoir-walking-route"
+    },
+    {
+      "description": "Lamaload Reservoir",
+      "objectID": "9c7085b27f65b3b0216477bd3fe56d18",
+      "ref": "lamaload-reservoir-walk"
+    },
+    {
+      "description": "Hollinsclough Walk",
+      "objectID": "5f0bb1a1106c8bbaeda995efd867ae81",
+      "ref": "hollinsclough-walking-route"
+    },
+    {
+      "description": "Cheeks Hill",
+      "objectID": "f1f903797c38ad0e6a0ba894b8c749a3",
+      "ref": "cheeks-hill-walking-route"
+    },
+    {
+      "description": "Wildboarclough",
+      "objectID": "11390c32ce6b633610681b7bee49530a",
+      "ref": "wildboarclough-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad58fd4c1791562d9e5f7ea9852fd889.gpx",
+  "_geoloc": {
+    "lat": 53.2441976197,
+    "lng": -1.9275055267
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Axe_Edge_Moor_-_geograph.org.uk_-_98606.jpg",
+      "title": "Dave Dunford / Axe Edge Moor",
+      "caption": "On the moor. The minor road to Dane Head, near Tinkers Pits SK021709, looking southeast."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Capped_mine_on_Axe_Edge_Moor_-_geograph.org.uk_-_600460.jpg",
+      "title": "Eirian Evans / Capped mine on Axe Edge Moor",
+      "caption": "Capped mine on Axe Edge Moor. The moorland around this area is riddled with old mines."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Orchard_Farm%2C_Axe_Edge_Moor_-_geograph.org.uk_-_600558.jpg",
+      "title": "Eirian Evans / Orchard Farm, Axe Edge Moor",
+      "caption": "Orchard Farm, Axe Edge Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axe_Edge_hillside_towards_Stanley_Moor_-_geograph.org.uk_-_1571789.jpg",
+      "title": "Chris Wimbush / Axe Edge hillside towards Stanley Moor",
+      "caption": "Axe Edge hillside towards Stanley Moor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dane_Head_-_geograph.org.uk_-_1521048.jpg",
+      "title": "ron layters / Dane Head",
+      "caption": "Dane Head"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dane_Valley_Way_-_north_-_geograph.org.uk_-_977376.jpg",
+      "title": "Jonathan Billinger / Dane Valley Way - north",
+      "caption": "Dane Valley Way - north. Looking north across Axe Edge Moor which is the highest stretch of this Long Distance Footpath from Middlewich to Buxton."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Three_Shires_Head_-_geograph.org.uk_-_491.jpg",
+      "title": "Deego / Three Shires Head",
+      "caption": "Three Shires Head"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Grinlow_Tower_aka_Solomon%27s_Temple_in_Buxton_Country_Park.jpg/330px-Grinlow_Tower_aka_Solomon%27s_Temple_in_Buxton_Country_Park.jpg",
+      "title": "Stevekraken / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+      "caption": "Grinlow Tower at the start/end of the walk in Buxton Country Park. Also known as Solomon's Temple this Grade II listed Victorian folly sits on the summit of Grin Low hill within the park. The structure is a 20-foot-high (6.1 m), two-storey tower built on top of a Bronze Age barrow, sitting on top of a ridge at a height of 440 metres (1,440 ft) above sea level. From the open top of the tower there are good 360-degree views over the town and the surrounding countryside and parts of the Peak District."
+    }
+  ],
+  "distance_km": 16.5,
+  "description": "This expansive area of moorland near Buxton has some fine walking trails to try. The moor sits in an elevated position some (551 metres (1,808 ft) above sea level. It is notable as the source of the River Dove, River Manifold, River Dane, River Wye and River Goyt. This walk takes you from Poole's Cavern and Buxton Country Park to the old pack horse bridge at Three Shires Head. It uses a section of the Dane Valley Way to explore the area. Start the walk at the car park at Poole's Cavern and Buxton Country Park, located on the eastern side of the moor. From here you can pick up the Dane Valley Way and follow it south west on to the moor. It will take you to Orchard Common before coming to Three Shires Head. It's a very picturesque spot where the counties of Cheshire, Derbyshire and Staffordshire meet. There's a fine Grade II-listed packhorse bridge over the River Dane and lots of pretty waterfalls to see here too. The route then heads north from the bridge past Cut-thorn Hill towards Danebower Hollow and Cheshire Knowl. Here the trail passes the old Danebower quarries and Reeve- Edge quarries before returning to Orchard Common. You then retrace your steps, passing Cheeks Hill and Dane Head before returning to the car park in the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The country park has a nice cafe for refreshments after your walk. On the western side of the moor there's the noteworthy Cat and Fiddle Inn. It is the second-highest pub in Britain at a height of 1,689 feet (515 m). If you take a detour from the route around Danebower Hollow you can visit the pub. It's located at a postcode of SK11 0AR for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive moorland makes for a fine walk with your dog."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the north western edge of the moor there's a popular climb at Shining Tor and Cats Tor. There's fine views across the moor from this viewpoint. In this area you'll also find some easy waterside walking around Lamaload Reservoir, Errwood Reservoir and Fernilee Reservoir. A few miles to the east there's another excellent climb to Chrome Hill. There's fine views over the Dove Valley from this viewpoint. For more walking ideas in the area see the Peak District Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/rtw4oAWskRk",
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Grin Low Car Park, Grin Low Road, Harpur Hill, High Peak, Derbyshire, East Midlands, England, SK17 9US, United Kingdom",
+  "postcode": "SK17 9US",
+  "district": "High Peak",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe",
+    "pub",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

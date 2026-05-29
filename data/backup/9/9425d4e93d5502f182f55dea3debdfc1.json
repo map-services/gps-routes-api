@@ -1,72 +1,85 @@
 {
-    "created_at": "2025-01-06T10:34:37.737935+00:00",
-    "objectID": "9425d4e93d5502f182f55dea3debdfc1",
-    "ref": "great-fen-walking-route",
-    "title": "Great Fen Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/New_Decoy_Farm_-_geograph.org.uk_-_612737.jpg",
-    "nearby": [
-        {
-            "description": "Woodwalton Fen",
-            "objectID": "26199be037dfafffe63f15f745b63b86",
-            "ref": "woodwalton-fen-walking-route"
-        },
-        {
-            "description": "Holme Fen",
-            "objectID": "846411aae6caa94e5e2579ef602709cf",
-            "ref": "holme-fen-walking-route"
-        },
-        {
-            "description": "National Cycle Route 12",
-            "objectID": "91d8dbe131b24ce4fd0c4da498e5c7d1",
-            "ref": "national-cycle-route-12-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9425d4e93d5502f182f55dea3debdfc1.gpx",
-    "_geoloc": {
-        "lat": 52.4729646937,
-        "lng": -0.2023514958
+  "created_at": "2025-01-06T10:34:37.737935+00:00",
+  "objectID": "9425d4e93d5502f182f55dea3debdfc1",
+  "ref": "great-fen-walking-route",
+  "title": "Great Fen Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/New_Decoy_Farm_-_geograph.org.uk_-_612737.jpg",
+  "nearby": [
+    {
+      "description": "Woodwalton Fen",
+      "objectID": "26199be037dfafffe63f15f745b63b86",
+      "ref": "woodwalton-fen-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/New_Decoy_Farm_-_geograph.org.uk_-_612737.jpg",
-            "title": "Shaun Ferguson / New Decoy Farm",
-            "caption": "New Decoy Farm"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/B660_towards_Holme_-_geograph.org.uk_-_380008.jpg",
-            "title": "Andrew Tatlow / B660 towards Holme",
-            "caption": "B660 towards Holme"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cattle_on_Great_Fen_-_geograph.org.uk_-_5020796.jpg/500px-Cattle_on_Great_Fen_-_geograph.org.uk_-_5020796.jpg",
-            "title": "Cattle on Great Fen by John Welford, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cattle on Great Fen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Expanded_ditch_across_New_Decoy_Farm_-_geograph.org.uk_-_4361072.jpg/500px-Expanded_ditch_across_New_Decoy_Farm_-_geograph.org.uk_-_4361072.jpg",
-            "title": "Expanded ditch across New Decoy Farm by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Expanded ditch across New Decoy Farm"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This short circular walk follows the Dragonfly Trail in the Great Fen wetland area in Cambridgeshire. The walk starts from the Great Fen Information Point on the Long Drove Road between the villages of Holme and Ramsey St Mary. There is a car park here with maps and information about the Great Fen project. You can pick up the 2 mile waymarked trail which takes you to Robinson's Ponds where dragonflies will be common in summer. It continues to an area of mature woodland with large Alder trees and then past a disused railway line before returning to the car park. Along the way there are picnic areas, information points and a bird hide where you can look out for a wide variety of birdlife. The Great Fen also consists of the splendid Woodwalton Fen and Holme Fen nature reserves. You can extend your walk by venturing in to these areas. In Woodwalton Fen you will find 500 acres of wildflower meadows, mixed fen, marsh, reedbed, scrub, open water and woodland. It is located just to the south of the start point for this walk. Holme Fen includes the largest Silver Birch woodland in lowland England and has more nice walking trails to try. It is located just to the north west of the Dragonfly Trail. If you are visiting the Great Fen by bike then National Cycle Route 12 runs through the village of Stilton on the western fringe of the area, near Holme.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/GyYVpqjiyp4",
-    "county": "Cambridgeshire",
-    "region": "Cambridgeshire and Peterborough",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Great Fen Dragonfly Trail, Holme, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE7 3PW, United Kingdom",
-    "postcode": "PE7 3PW",
-    "district": "Huntingdonshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland", "wetland"],
-    "points_of_interest": ["information point", "railway line", "bird hide"],
-    "facilities": ["car park", "picnic area", "information points"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Holme Fen",
+      "objectID": "846411aae6caa94e5e2579ef602709cf",
+      "ref": "holme-fen-walking-route"
+    },
+    {
+      "description": "National Cycle Route 12",
+      "objectID": "91d8dbe131b24ce4fd0c4da498e5c7d1",
+      "ref": "national-cycle-route-12-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9425d4e93d5502f182f55dea3debdfc1.gpx",
+  "_geoloc": {
+    "lat": 52.4729646937,
+    "lng": -0.2023514958
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/New_Decoy_Farm_-_geograph.org.uk_-_612737.jpg",
+      "title": "Shaun Ferguson / New Decoy Farm",
+      "caption": "New Decoy Farm"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/B660_towards_Holme_-_geograph.org.uk_-_380008.jpg",
+      "title": "Andrew Tatlow / B660 towards Holme",
+      "caption": "B660 towards Holme"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cattle_on_Great_Fen_-_geograph.org.uk_-_5020796.jpg/500px-Cattle_on_Great_Fen_-_geograph.org.uk_-_5020796.jpg",
+      "title": "Cattle on Great Fen by John Welford, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cattle on Great Fen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Expanded_ditch_across_New_Decoy_Farm_-_geograph.org.uk_-_4361072.jpg/500px-Expanded_ditch_across_New_Decoy_Farm_-_geograph.org.uk_-_4361072.jpg",
+      "title": "Expanded ditch across New Decoy Farm by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Expanded ditch across New Decoy Farm"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This short circular walk follows the Dragonfly Trail in the Great Fen wetland area in Cambridgeshire. The walk starts from the Great Fen Information Point on the Long Drove Road between the villages of Holme and Ramsey St Mary. There is a car park here with maps and information about the Great Fen project. You can pick up the 2 mile waymarked trail which takes you to Robinson's Ponds where dragonflies will be common in summer. It continues to an area of mature woodland with large Alder trees and then past a disused railway line before returning to the car park. Along the way there are picnic areas, information points and a bird hide where you can look out for a wide variety of birdlife. The Great Fen also consists of the splendid Woodwalton Fen and Holme Fen nature reserves. You can extend your walk by venturing in to these areas. In Woodwalton Fen you will find 500 acres of wildflower meadows, mixed fen, marsh, reedbed, scrub, open water and woodland. It is located just to the south of the start point for this walk. Holme Fen includes the largest Silver Birch woodland in lowland England and has more nice walking trails to try. It is located just to the north west of the Dragonfly Trail. If you are visiting the Great Fen by bike then National Cycle Route 12 runs through the village of Stilton on the western fringe of the area, near Holme.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/GyYVpqjiyp4",
+  "county": "Cambridgeshire",
+  "region": "Cambridgeshire and Peterborough",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Great Fen Dragonfly Trail, Holme, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE7 3PW, United Kingdom",
+  "postcode": "PE7 3PW",
+  "district": "Huntingdonshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "wetland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "wildflower meadow"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "information point"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

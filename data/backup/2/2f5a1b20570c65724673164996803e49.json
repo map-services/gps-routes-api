@@ -1,119 +1,131 @@
 {
-    "created_at": "2025-01-06T04:31:13.638929+00:00",
-    "objectID": "2f5a1b20570c65724673164996803e49",
-    "ref": "chicksands-wood-walking-route",
-    "title": "Chicksands Wood Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entering_Chicksands_Wood_From_Appley_Corner_-_geograph.org.uk_-_400472.jpg",
-    "nearby": [
-        {
-            "description": "Rowney Warren Wood",
-            "objectID": "4131ce5417ef7dbe8d366c8fb1cce163",
-            "ref": "rowney-warren-wood-walking-and-cycle-route"
-        },
-        {
-            "description": "John Bunyan Trail",
-            "objectID": "2c6219060d330beb650803a5941ebb8e",
-            "ref": "john-bunyan-trail-walking-route"
-        },
-        {
-            "description": "Maulden Woods",
-            "objectID": "e86a8699007a59bfaf8030c188fc7791",
-            "ref": "maulden-woods-walking-route"
-        },
-        {
-            "description": "Greensand Ridge Walk",
-            "objectID": "2ff60013a3fe963adfb865232091765c",
-            "ref": "greensand-ridge-walk-walking-route"
-        },
-        {
-            "description": "Clophill and Haynes Circular Walk",
-            "objectID": "028f24b2c8924d4c3758b7c6ef9205cf",
-            "ref": "clophill-and-haynes-circular-walk-walking-route"
-        },
-        {
-            "description": "Shefford",
-            "objectID": "a9f1c53a9882e3f23202895b8f9f4607",
-            "ref": "shefford-walking-route"
-        },
-        {
-            "description": "Wrest Park",
-            "objectID": "e05ec438e9670a7a8ca59085dda64a1f",
-            "ref": "wrest-park-walking-route"
-        },
-        {
-            "description": "Silsoe",
-            "objectID": "2f9fdc432e1f8bf00a5bb3bafd65870e",
-            "ref": "silsoe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2f5a1b20570c65724673164996803e49.gpx",
-    "_geoloc": {
-        "lat": 52.0570396,
-        "lng": -0.3883311136
+  "created_at": "2025-01-06T04:31:13.638929+00:00",
+  "objectID": "2f5a1b20570c65724673164996803e49",
+  "ref": "chicksands-wood-walking-route",
+  "title": "Chicksands Wood Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entering_Chicksands_Wood_From_Appley_Corner_-_geograph.org.uk_-_400472.jpg",
+  "nearby": [
+    {
+      "description": "Rowney Warren Wood",
+      "objectID": "4131ce5417ef7dbe8d366c8fb1cce163",
+      "ref": "rowney-warren-wood-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entering_Chicksands_Wood_From_Appley_Corner_-_geograph.org.uk_-_400472.jpg",
-            "title": "John Yaxley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Entering Chicksands Wood From Appley Corner"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Looking_SSW_in_Chicksands_Wood_-_geograph.org.uk_-_400465.jpg",
-            "title": "John Yaxley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Looking SSW in Chicksands Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Memorial_to_Henry_John_Robert_Osborn_-_geograph.org.uk_-_2148810.jpg/330px-Memorial_to_Henry_John_Robert_Osborn_-_geograph.org.uk_-_2148810.jpg",
-            "title": "Memorial to Henry John Robert Osborn by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Memorial to Henry John Robert Osborn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Remains_of_WWII_Railway_Workings_-_geograph.org.uk_-_2161201.jpg/500px-Remains_of_WWII_Railway_Workings_-_geograph.org.uk_-_2161201.jpg",
-            "title": "Remains of WWII Railway Workings by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Remains of WWII Railway Workings"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greensand_Ridge_Walk_by_Chicksands_Woods_-_geograph.org.uk_-_4162641.jpg/500px-Greensand_Ridge_Walk_by_Chicksands_Woods_-_geograph.org.uk_-_4162641.jpg",
-            "title": "Greensand Ridge Walk by Chicksands Woods by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Greensand Ridge Walk by Chicksands Woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/View_back_down_the_path_away_from_Monument_-_geograph.org.uk_-_2161295.jpg/500px-View_back_down_the_path_away_from_Monument_-_geograph.org.uk_-_2161295.jpg",
-            "title": "View back down the path away from Monument by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View back down the path away from Monument on a crisp autumn day."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "These woods in central Bedfordshire have some good walking trails to try. In the peaceful woods you will find lots of flora and fauna with pretty bluebells in the spring and a variety of woodland birds. You can start your walk from Appley Corner where there is some parking available. Then follow the Long Drive south west through the centre of the woods. This nice wide track includes a monument to Lord Halifax. At Pedley Wood you can pick up the Greensand Ridge Walk long distance trail to take you back to Appley Corner. It's easy to extend your walk if you have time. Just continue south west along the Greensand Ridge Walk to Clophill where you will find Maulden Woods. Here you will find more walking trails taking you through semi-natural broadleaf woodland, acidic grassland and conifer plantations. At the Appley Corner end of the woods you can pick up the John Bunyan Trail and follow it a short distance to Rowney Warren Wood near Shefford. The large coniferous woodland has lots of footpaths, a BMX trail and a mountain bike trail. It includes the excellent Chicksands Bike Park which has a range of courses for all abilities.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Stone Jug in the nearby village of Clophill is a fine place to go for some post walk refreshments. It's a place of some historic note having been converted to a pub from a 16th century building. It's name may have something to do with the local quarry stone which the building is mostly constructed from. The pub is nestled on a quiet rural lane has a rear decking area which in the summer months catches all the afternoon and early evening sun - perfect for a relaxing sit down. During the colder months you can sip a mulled wine and relax in the attractive interior beside one of the many fires. You can find the pub in the village at 10 Back St with a postcode of MK45 4BY for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woods are very popular with dog walkers and The Stone Jug pub mentioned above is also very dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Near to Clophill you will find the interesting Cainhoe Castle which is worth a visit if you have time. The hill is the site of the a former 11th-century Norman castle but today only the turf-covered mound remains, with earthwork banks outlining the bailey enclosure. It's a nice climb to the top though and there are good views of the surrounding countryside from the elevated position of the site. There is a public footpath from the High Street in Clophill, opposite Town Shott, heading east out to the castle. The field has permissive access, so visitors can explore freely. The Clophill and Haynes Circular Walk starts in the nearby village and explores the local countryside, with a visit to the woods on the way. Just to the south of Clophill there's Silsoe where you can enjoy easy trails around Wrest Park. There's 92 acres of landscaped early eighteenth-century gardens to explore here. You can also enjoy a pleasant stroll around Silsoe village where there are a number of historic properties associated with the park estate. For more walking ideas in the area see the Bedfordshire Walks page."
-        }
-    ],
-    "district": "Haynes",
-    "county": "Central Bedfordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Long Drive, Campton and Chicksands, Haynes, Central Bedfordshire, England, MK45 3QQ, United Kingdom",
-    "postcode": "MK45 3QQ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "grassland"],
-    "points_of_interest": ["monument", "trail", "wood"],
-    "facilities": ["car park", "bike trail", "footpath"],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "John Bunyan Trail",
+      "objectID": "2c6219060d330beb650803a5941ebb8e",
+      "ref": "john-bunyan-trail-walking-route"
+    },
+    {
+      "description": "Maulden Woods",
+      "objectID": "e86a8699007a59bfaf8030c188fc7791",
+      "ref": "maulden-woods-walking-route"
+    },
+    {
+      "description": "Greensand Ridge Walk",
+      "objectID": "2ff60013a3fe963adfb865232091765c",
+      "ref": "greensand-ridge-walk-walking-route"
+    },
+    {
+      "description": "Clophill and Haynes Circular Walk",
+      "objectID": "028f24b2c8924d4c3758b7c6ef9205cf",
+      "ref": "clophill-and-haynes-circular-walk-walking-route"
+    },
+    {
+      "description": "Shefford",
+      "objectID": "a9f1c53a9882e3f23202895b8f9f4607",
+      "ref": "shefford-walking-route"
+    },
+    {
+      "description": "Wrest Park",
+      "objectID": "e05ec438e9670a7a8ca59085dda64a1f",
+      "ref": "wrest-park-walking-route"
+    },
+    {
+      "description": "Silsoe",
+      "objectID": "2f9fdc432e1f8bf00a5bb3bafd65870e",
+      "ref": "silsoe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2f5a1b20570c65724673164996803e49.gpx",
+  "_geoloc": {
+    "lat": 52.0570396,
+    "lng": -0.3883311136
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entering_Chicksands_Wood_From_Appley_Corner_-_geograph.org.uk_-_400472.jpg",
+      "title": "John Yaxley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Entering Chicksands Wood From Appley Corner"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Looking_SSW_in_Chicksands_Wood_-_geograph.org.uk_-_400465.jpg",
+      "title": "John Yaxley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Looking SSW in Chicksands Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Memorial_to_Henry_John_Robert_Osborn_-_geograph.org.uk_-_2148810.jpg/330px-Memorial_to_Henry_John_Robert_Osborn_-_geograph.org.uk_-_2148810.jpg",
+      "title": "Memorial to Henry John Robert Osborn by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Memorial to Henry John Robert Osborn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Remains_of_WWII_Railway_Workings_-_geograph.org.uk_-_2161201.jpg/500px-Remains_of_WWII_Railway_Workings_-_geograph.org.uk_-_2161201.jpg",
+      "title": "Remains of WWII Railway Workings by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Remains of WWII Railway Workings"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Greensand_Ridge_Walk_by_Chicksands_Woods_-_geograph.org.uk_-_4162641.jpg/500px-Greensand_Ridge_Walk_by_Chicksands_Woods_-_geograph.org.uk_-_4162641.jpg",
+      "title": "Greensand Ridge Walk by Chicksands Woods by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Greensand Ridge Walk by Chicksands Woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/View_back_down_the_path_away_from_Monument_-_geograph.org.uk_-_2161295.jpg/500px-View_back_down_the_path_away_from_Monument_-_geograph.org.uk_-_2161295.jpg",
+      "title": "View back down the path away from Monument by Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View back down the path away from Monument on a crisp autumn day."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "These woods in central Bedfordshire have some good walking trails to try. In the peaceful woods you will find lots of flora and fauna with pretty bluebells in the spring and a variety of woodland birds. You can start your walk from Appley Corner where there is some parking available. Then follow the Long Drive south west through the centre of the woods. This nice wide track includes a monument to Lord Halifax. At Pedley Wood you can pick up the Greensand Ridge Walk long distance trail to take you back to Appley Corner. It's easy to extend your walk if you have time. Just continue south west along the Greensand Ridge Walk to Clophill where you will find Maulden Woods. Here you will find more walking trails taking you through semi-natural broadleaf woodland, acidic grassland and conifer plantations. At the Appley Corner end of the woods you can pick up the John Bunyan Trail and follow it a short distance to Rowney Warren Wood near Shefford. The large coniferous woodland has lots of footpaths, a BMX trail and a mountain bike trail. It includes the excellent Chicksands Bike Park which has a range of courses for all abilities.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Stone Jug in the nearby village of Clophill is a fine place to go for some post walk refreshments. It's a place of some historic note having been converted to a pub from a 16th century building. It's name may have something to do with the local quarry stone which the building is mostly constructed from. The pub is nestled on a quiet rural lane has a rear decking area which in the summer months catches all the afternoon and early evening sun - perfect for a relaxing sit down. During the colder months you can sip a mulled wine and relax in the attractive interior beside one of the many fires. You can find the pub in the village at 10 Back St with a postcode of MK45 4BY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are very popular with dog walkers and The Stone Jug pub mentioned above is also very dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near to Clophill you will find the interesting Cainhoe Castle which is worth a visit if you have time. The hill is the site of the a former 11th-century Norman castle but today only the turf-covered mound remains, with earthwork banks outlining the bailey enclosure. It's a nice climb to the top though and there are good views of the surrounding countryside from the elevated position of the site. There is a public footpath from the High Street in Clophill, opposite Town Shott, heading east out to the castle. The field has permissive access, so visitors can explore freely. The Clophill and Haynes Circular Walk starts in the nearby village and explores the local countryside, with a visit to the woods on the way. Just to the south of Clophill there's Silsoe where you can enjoy easy trails around Wrest Park. There's 92 acres of landscaped early eighteenth-century gardens to explore here. You can also enjoy a pleasant stroll around Silsoe village where there are a number of historic properties associated with the park estate. For more walking ideas in the area see the Bedfordshire Walks page."
+    }
+  ],
+  "district": "Haynes",
+  "county": "Central Bedfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Long Drive, Campton and Chicksands, Haynes, Central Bedfordshire, England, MK45 3QQ, United Kingdom",
+  "postcode": "MK45 3QQ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "acidic grassland"
+  ],
+  "points_of_interest": [
+    "monument"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

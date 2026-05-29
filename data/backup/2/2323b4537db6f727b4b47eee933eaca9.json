@@ -1,80 +1,92 @@
 {
-    "created_at": "2025-01-06T03:02:59.871607+00:00",
-    "objectID": "2323b4537db6f727b4b47eee933eaca9",
-    "ref": "crediton-walking-route",
-    "title": "Crediton Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A3072%2C_Crediton_-_geograph.org.uk_-_2140213.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2323b4537db6f727b4b47eee933eaca9.gpx",
-    "_geoloc": {
-        "lat": 50.7898700973,
-        "lng": -3.6554536636
+  "created_at": "2025-01-06T03:02:59.871607+00:00",
+  "objectID": "2323b4537db6f727b4b47eee933eaca9",
+  "ref": "crediton-walking-route",
+  "title": "Crediton Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A3072%2C_Crediton_-_geograph.org.uk_-_2140213.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2323b4537db6f727b4b47eee933eaca9.gpx",
+  "_geoloc": {
+    "lat": 50.7898700973,
+    "lng": -3.6554536636
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A3072%2C_Crediton_-_geograph.org.uk_-_2140213.jpg",
+      "title": "A3072, Crediton by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A3072, Crediton"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A3072%2C_Crediton_-_geograph.org.uk_-_2140213.jpg",
-            "title": "A3072, Crediton by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A3072, Crediton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Crediton_%2C_High_Street_-_geograph.org.uk_-_1234787.jpg",
-            "title": "Lewis Clarke / Crediton : High Street",
-            "caption": "Crediton, High Street"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Newcombe%27s_Meadow%2C_Crediton_-_geograph.org.uk_-_1933937.jpg/500px-Newcombe%27s_Meadow%2C_Crediton_-_geograph.org.uk_-_1933937.jpg",
-            "title": "Newcombe's Meadow, Crediton by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Newcombe's Meadow, Crediton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Crediton_%2C_Newcombe%27s_Meadow_-_geograph.org.uk_-_1234812.jpg",
-            "title": "Lewis Clarke / Crediton : Newcombe's Meadow",
-            "caption": "Crediton, Newcombe's Meadow"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Yeo_east_of_Salmonhutch_-_geograph.org.uk_-_5479055.jpg/500px-River_Yeo_east_of_Salmonhutch_-_geograph.org.uk_-_5479055.jpg",
-            "title": "River Yeo east of Salmonhutch by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Yeo east of Salmonhutch"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/River_Yeo_seen_from_Yeoton_Bridge_-_geograph.org.uk_-_5479060.jpg/330px-River_Yeo_seen_from_Yeoton_Bridge_-_geograph.org.uk_-_5479060.jpg",
-            "title": "River Yeo seen from Yeoton Bridge by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Yeo seen from Yeoton Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Great_Parks_Farm_-_geograph.org.uk_-_1748742.jpg",
-            "title": "Derek Harper / Great Parks Farm",
-            "caption": "Great Parks Farm. The farm is sited safely above the flood plain of the River Yeo. Seen from Crediton Footpath 19 and the Devonshire Heartland Way."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Yeo_Valley%2C_south_of_Crediton_-_geograph.org.uk_-_1934500.jpg/500px-The_Yeo_Valley%2C_south_of_Crediton_-_geograph.org.uk_-_1934500.jpg",
-            "title": "The Yeo Valley, south of Crediton by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Yeo Valley, south of Crediton"
-        }
-    ],
-    "distance_km": 5.2,
-    "description": "This Devon based town is located near Exeter in the vale of the River Creedy and River Yeo. This circular walk in the town visits Newcombe's Meadow park before heading down to the River Yeo which flows to the south of the town. The walk starts off at Newcombe's Meadow where there is a pleasant park with surfaced footpaths. There are wide lawns and pretty flower beds to enjoy in these public pleasure grounds. It is also home to the Town's St Boniface Statue and the Town Bandstand. The walk then takes you west along the High Street before turning south across the fields to visit the River Yeo. There's some nice riverside footpaths and great countryside views of the Yeo Valley here.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Three Little Pigs is situated in the heart of Crediton, on the Town Square. Inside there's an eclectic mix of memorabilia and nic nacs that hang from every available space. Home-cooked food is served in the bar and restaurant, using where possible locally sourced ingredients. You can find them at postcode EX17 2BP. The Crediton Inn is a genuine free house serving two to four real ales and a local cider.  You can find them at 28A Mill Street, EX17 1EZ. They are dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/_88ke7oLKWM?si=CsZuccTExcnnsovV",
-    "postcode": "EX17 3EE",
-    "district": "Mid Devon",
-    "county": "Devon",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Union Road, Crediton, Mid Devon, Devon, England, EX17 3EE, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "easy",
-    "terrain": ["park", "grassland", "river"],
-    "points_of_interest": ["statue", "bandstand", "park"],
-    "facilities": ["footpath", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Crediton_%2C_High_Street_-_geograph.org.uk_-_1234787.jpg",
+      "title": "Lewis Clarke / Crediton : High Street",
+      "caption": "Crediton, High Street"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Newcombe%27s_Meadow%2C_Crediton_-_geograph.org.uk_-_1933937.jpg/500px-Newcombe%27s_Meadow%2C_Crediton_-_geograph.org.uk_-_1933937.jpg",
+      "title": "Newcombe's Meadow, Crediton by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Newcombe's Meadow, Crediton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Crediton_%2C_Newcombe%27s_Meadow_-_geograph.org.uk_-_1234812.jpg",
+      "title": "Lewis Clarke / Crediton : Newcombe's Meadow",
+      "caption": "Crediton, Newcombe's Meadow"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Yeo_east_of_Salmonhutch_-_geograph.org.uk_-_5479055.jpg/500px-River_Yeo_east_of_Salmonhutch_-_geograph.org.uk_-_5479055.jpg",
+      "title": "River Yeo east of Salmonhutch by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Yeo east of Salmonhutch"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/River_Yeo_seen_from_Yeoton_Bridge_-_geograph.org.uk_-_5479060.jpg/330px-River_Yeo_seen_from_Yeoton_Bridge_-_geograph.org.uk_-_5479060.jpg",
+      "title": "River Yeo seen from Yeoton Bridge by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Yeo seen from Yeoton Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Great_Parks_Farm_-_geograph.org.uk_-_1748742.jpg",
+      "title": "Derek Harper / Great Parks Farm",
+      "caption": "Great Parks Farm. The farm is sited safely above the flood plain of the River Yeo. Seen from Crediton Footpath 19 and the Devonshire Heartland Way."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Yeo_Valley%2C_south_of_Crediton_-_geograph.org.uk_-_1934500.jpg/500px-The_Yeo_Valley%2C_south_of_Crediton_-_geograph.org.uk_-_1934500.jpg",
+      "title": "The Yeo Valley, south of Crediton by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Yeo Valley, south of Crediton"
+    }
+  ],
+  "distance_km": 5.2,
+  "description": "This Devon based town is located near Exeter in the vale of the River Creedy and River Yeo. This circular walk in the town visits Newcombe's Meadow park before heading down to the River Yeo which flows to the south of the town. The walk starts off at Newcombe's Meadow where there is a pleasant park with surfaced footpaths. There are wide lawns and pretty flower beds to enjoy in these public pleasure grounds. It is also home to the Town's St Boniface Statue and the Town Bandstand. The walk then takes you west along the High Street before turning south across the fields to visit the River Yeo. There's some nice riverside footpaths and great countryside views of the Yeo Valley here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Three Little Pigs is situated in the heart of Crediton, on the Town Square. Inside there's an eclectic mix of memorabilia and nic nacs that hang from every available space. Home-cooked food is served in the bar and restaurant, using where possible locally sourced ingredients. You can find them at postcode EX17 2BP. The Crediton Inn is a genuine free house serving two to four real ales and a local cider.  You can find them at 28A Mill Street, EX17 1EZ. They are dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/_88ke7oLKWM?si=CsZuccTExcnnsovV",
+  "postcode": "EX17 3EE",
+  "district": "Mid Devon",
+  "county": "Devon",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Union Road, Crediton, Mid Devon, Devon, England, EX17 3EE, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "park",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "statue",
+    "bandstand",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

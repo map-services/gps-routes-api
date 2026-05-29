@@ -72,24 +72,22 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "20 minutes",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "canal"
+    "waterside"
   ],
   "points_of_interest": [
-    "lake",
-    "reservoir"
+    "reservoir",
+    "canal"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "loop",
+  "route_type": "one-way",
   "activities": [
     "walking",
-    "swimming",
+    "wild swimming",
     "fishing"
   ]
 }

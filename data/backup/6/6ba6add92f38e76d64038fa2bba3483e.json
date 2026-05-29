@@ -1,110 +1,123 @@
 {
-    "created_at": "2025-01-05T23:49:49.242483+00:00",
-    "objectID": "6ba6add92f38e76d64038fa2bba3483e",
-    "ref": "broxbourne-woods-walking-and-cycle-route",
-    "title": "Broxbourne Woods Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Guide_to_Broxbourne_Woods_National_Nature_Reserve_-_geograph.org.uk_-_239135.jpg",
-    "nearby": [
-        {
-            "description": "Hertfordshire Chain Walk",
-            "objectID": "daa137623f40f524ab27253c4bd999ee",
-            "ref": "hertfordshire-chain-walk-walking-route"
-        },
-        {
-            "description": "Hertfordshire Way",
-            "objectID": "122beca6a3afb5c24d0ef76fc7326e27",
-            "ref": "hertfordshire-way-walking-route"
-        },
-        {
-            "description": "Northaw Great Wood",
-            "objectID": "c2c062ef39c1b546298a136a5c46065b",
-            "ref": "northaw-great-wood-walking-route"
-        },
-        {
-            "description": "Whitewebbs Park",
-            "objectID": "d9d4b0334c0db4ec7e125d7d19788b7e",
-            "ref": "whitewebbs-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6ba6add92f38e76d64038fa2bba3483e.gpx",
-    "_geoloc": {
-        "lat": 51.749659,
-        "lng": -0.069847
+  "created_at": "2025-01-05T23:49:49.242483+00:00",
+  "objectID": "6ba6add92f38e76d64038fa2bba3483e",
+  "ref": "broxbourne-woods-walking-and-cycle-route",
+  "title": "Broxbourne Woods Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Guide_to_Broxbourne_Woods_National_Nature_Reserve_-_geograph.org.uk_-_239135.jpg",
+  "nearby": [
+    {
+      "description": "Hertfordshire Chain Walk",
+      "objectID": "daa137623f40f524ab27253c4bd999ee",
+      "ref": "hertfordshire-chain-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Guide_to_Broxbourne_Woods_National_Nature_Reserve_-_geograph.org.uk_-_239135.jpg",
-            "title": "Martin Addison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Guide to Broxbourne Woods National Nature Reserve. Information board giving footpath and natural history information at the entrance to the woods."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Open_Ride_in_Broxbourne_Woods_-_geograph.org.uk_-_239228.jpg",
-            "title": "Martin Addison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Open Ride in Broxbourne Woods. View from the National Nature Reserve trail in the woods. A mixture of Silver Birch, Beech and Oak trees are present in this part of the wood. There are coniferous plantations in other parts of the woods."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Footpath_through_Broxbourne_Woods_-_geograph.org.uk_-_239238.jpg/330px-Footpath_through_Broxbourne_Woods_-_geograph.org.uk_-_239238.jpg",
-            "title": "Martin Addison / Footpath through Broxbourne Woods",
-            "caption": "Footpath marker and footpath, surfaced with broken pieces of tarmac beside Claypits Wood."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sculpture_in_Broxbourne_Woods._-_geograph.org.uk_-_77916.jpg/330px-Sculpture_in_Broxbourne_Woods._-_geograph.org.uk_-_77916.jpg",
-            "title": "Robin Hall / Sculpture in Broxbourne Woods.",
-            "caption": "Sculpture in the woods. This is one of about a dozen sculptures scattered around these woods by artist Dan Cordell. Each appears to be carved from a solid chunk of wood, some, as in this case, appear to be carved from a stump, where it grew. The woods themselves contain a mix of Broadleaf and Coniferous trees."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_Legionnaire_-_geograph.org.uk_-_239134.jpg/330px-Lost_Legionnaire_-_geograph.org.uk_-_239134.jpg",
-            "title": "Martin Addison / Lost Legionnaire",
-            "caption": "Lost Legionnaire. Wood sculpture of Roman Legionnaire at the beginning of the Sculpture Trail."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Clearing_in_Danemead_Nature_Reserve_-_geograph.org.uk_-_273581.jpg",
-            "title": "Steve Bayley / Clearing in Danemead Nature Reserve",
-            "caption": "Clearing in Danemead Nature Reserve. The is located within Danemead Wood and is owned by the Herts and Middlesex Wildlife Trust. It forms part of the wider Broxbourne Woods complex. The site borders Ermine Street, the Roman road which ran from London to York. It is also in Wormley/Hoddesdonpark Wood North, a Site of Special Scientific Interest."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emanuel_Pollards_-_geograph.org.uk_-_347896.jpg",
-            "title": "Chris Pepper / Emanuel Pollards",
-            "caption": "This is a view from the car park in Emanuel Pollards."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fire_break_track_-_geograph.org.uk_-_825839.jpg",
-            "title": "Talisman / Fire break track",
-            "caption": "Fire break track. Looking east from the Cock Lane to Monk's Green Bridleway towards Ermine Street. This track runs through the middle of Broxbourne, Cowheath, Highfield and Hoddesdon Park Woods. Because of erosion and thoughtless motorcyclists parts of the track to the west of this point are impassible except on foot, or unless you deviate off the track into the woods. This is not designated a right of way."
-        }
-    ],
-    "distance_km": 14.5,
-    "description": "Follow the Broxbourne Woods Nature Trail on this splendid walk in Hertfordshire. The site is Hertfordshire's only National Nature Reserve and includes Wormley Woods, Cowheath Wood and Hoddesdonpark Wood. You'll pass attractive Hornbeam coppice, tranquil ponds, pretty meadows and field edges as you make your way along the figure of eight trail. The woods have car parks on White Stubbs Lane where you can pick up the waymarked trails. This 9 mile walk takes you around most of the site but there are shorter walks and mountain bike trails for cyclists too. In the heart of the forest there is a 1km sculpture trail with several beautifully carved wooden pieces. These include a life size Roman soldier and a magnificent stag. Each sculpture illustrates something interesting about the forest, highlighting the historical importance of the woods and taking a close up look at the nature and wildlife that lives there. The video below gives and example of what you can expect to see on the trail. For cyclists there are some fun single-track rides to enjoy too. If you'd like to extend your walking in the area then there are several good options. You could head west and visit Northaw Great Wood. This country park has 300 acres of woodland to explore. The Hertfordshire Chain Walk and the Hertfordshire Way also pass the site. The Hertfordshire Chain Walk actually passes through the western end of the woods. You could pick this up and head south towards Cuffley and Enfield where you will pass Whitewebbs Park .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Woodman and Olive is conveniently located just to the east of the woods. They do excellent Greek/Mediterranean-inspired food if you are feelling peckish. There's also a large garden area to relax in on warmer days. You can find them 20 West End Rd, Wormley West End with a postcode of EN10 7QN for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woods are ideal for dog walking so you'll probably bump into other owners on your walk. The Woodman and Olive pub mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the west you can pick up the waymarked Hertfordshire Chain Walk which can be used to explore the Hertfordshire countryside. If you follow it south west it will take you to the pretty village of Little Berkhamsted where you can visit the Grade II listed Stratton's Tower, an excellently preserved five-storey observatory dating to 1789. For more walking ideas in the area see the Hertfordshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/gTq5JBb_KYM",
-    "county": "Hertfordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Pembridge Lane, Brickendon Liberty, Brickendon, East Hertfordshire, Hertfordshire, England, EN10 7QR, United Kingdom",
-    "postcode": "EN10 7QR",
-    "district": "East Hertfordshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "9 miles",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "field edges"],
-    "points_of_interest": ["sculpture trail", "historical site", "nature"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Hertfordshire Way",
+      "objectID": "122beca6a3afb5c24d0ef76fc7326e27",
+      "ref": "hertfordshire-way-walking-route"
+    },
+    {
+      "description": "Northaw Great Wood",
+      "objectID": "c2c062ef39c1b546298a136a5c46065b",
+      "ref": "northaw-great-wood-walking-route"
+    },
+    {
+      "description": "Whitewebbs Park",
+      "objectID": "d9d4b0334c0db4ec7e125d7d19788b7e",
+      "ref": "whitewebbs-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6ba6add92f38e76d64038fa2bba3483e.gpx",
+  "_geoloc": {
+    "lat": 51.749659,
+    "lng": -0.069847
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Guide_to_Broxbourne_Woods_National_Nature_Reserve_-_geograph.org.uk_-_239135.jpg",
+      "title": "Martin Addison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Guide to Broxbourne Woods National Nature Reserve. Information board giving footpath and natural history information at the entrance to the woods."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Open_Ride_in_Broxbourne_Woods_-_geograph.org.uk_-_239228.jpg",
+      "title": "Martin Addison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Open Ride in Broxbourne Woods. View from the National Nature Reserve trail in the woods. A mixture of Silver Birch, Beech and Oak trees are present in this part of the wood. There are coniferous plantations in other parts of the woods."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Footpath_through_Broxbourne_Woods_-_geograph.org.uk_-_239238.jpg/330px-Footpath_through_Broxbourne_Woods_-_geograph.org.uk_-_239238.jpg",
+      "title": "Martin Addison / Footpath through Broxbourne Woods",
+      "caption": "Footpath marker and footpath, surfaced with broken pieces of tarmac beside Claypits Wood."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sculpture_in_Broxbourne_Woods._-_geograph.org.uk_-_77916.jpg/330px-Sculpture_in_Broxbourne_Woods._-_geograph.org.uk_-_77916.jpg",
+      "title": "Robin Hall / Sculpture in Broxbourne Woods.",
+      "caption": "Sculpture in the woods. This is one of about a dozen sculptures scattered around these woods by artist Dan Cordell. Each appears to be carved from a solid chunk of wood, some, as in this case, appear to be carved from a stump, where it grew. The woods themselves contain a mix of Broadleaf and Coniferous trees."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_Legionnaire_-_geograph.org.uk_-_239134.jpg/330px-Lost_Legionnaire_-_geograph.org.uk_-_239134.jpg",
+      "title": "Martin Addison / Lost Legionnaire",
+      "caption": "Lost Legionnaire. Wood sculpture of Roman Legionnaire at the beginning of the Sculpture Trail."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Clearing_in_Danemead_Nature_Reserve_-_geograph.org.uk_-_273581.jpg",
+      "title": "Steve Bayley / Clearing in Danemead Nature Reserve",
+      "caption": "Clearing in Danemead Nature Reserve. The is located within Danemead Wood and is owned by the Herts and Middlesex Wildlife Trust. It forms part of the wider Broxbourne Woods complex. The site borders Ermine Street, the Roman road which ran from London to York. It is also in Wormley/Hoddesdonpark Wood North, a Site of Special Scientific Interest."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emanuel_Pollards_-_geograph.org.uk_-_347896.jpg",
+      "title": "Chris Pepper / Emanuel Pollards",
+      "caption": "This is a view from the car park in Emanuel Pollards."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fire_break_track_-_geograph.org.uk_-_825839.jpg",
+      "title": "Talisman / Fire break track",
+      "caption": "Fire break track. Looking east from the Cock Lane to Monk's Green Bridleway towards Ermine Street. This track runs through the middle of Broxbourne, Cowheath, Highfield and Hoddesdon Park Woods. Because of erosion and thoughtless motorcyclists parts of the track to the west of this point are impassible except on foot, or unless you deviate off the track into the woods. This is not designated a right of way."
+    }
+  ],
+  "distance_km": 14.5,
+  "description": "Follow the Broxbourne Woods Nature Trail on this splendid walk in Hertfordshire. The site is Hertfordshire's only National Nature Reserve and includes Wormley Woods, Cowheath Wood and Hoddesdonpark Wood. You'll pass attractive Hornbeam coppice, tranquil ponds, pretty meadows and field edges as you make your way along the figure of eight trail. The woods have car parks on White Stubbs Lane where you can pick up the waymarked trails. This 9 mile walk takes you around most of the site but there are shorter walks and mountain bike trails for cyclists too. In the heart of the forest there is a 1km sculpture trail with several beautifully carved wooden pieces. These include a life size Roman soldier and a magnificent stag. Each sculpture illustrates something interesting about the forest, highlighting the historical importance of the woods and taking a close up look at the nature and wildlife that lives there. The video below gives and example of what you can expect to see on the trail. For cyclists there are some fun single-track rides to enjoy too. If you'd like to extend your walking in the area then there are several good options. You could head west and visit Northaw Great Wood. This country park has 300 acres of woodland to explore. The Hertfordshire Chain Walk and the Hertfordshire Way also pass the site. The Hertfordshire Chain Walk actually passes through the western end of the woods. You could pick this up and head south towards Cuffley and Enfield where you will pass Whitewebbs Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Woodman and Olive is conveniently located just to the east of the woods. They do excellent Greek/Mediterranean-inspired food if you are feelling peckish. There's also a large garden area to relax in on warmer days. You can find them 20 West End Rd, Wormley West End with a postcode of EN10 7QN for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are ideal for dog walking so you'll probably bump into other owners on your walk. The Woodman and Olive pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west you can pick up the waymarked Hertfordshire Chain Walk which can be used to explore the Hertfordshire countryside. If you follow it south west it will take you to the pretty village of Little Berkhamsted where you can visit the Grade II listed Stratton's Tower, an excellently preserved five-storey observatory dating to 1789. For more walking ideas in the area see the Hertfordshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/gTq5JBb_KYM",
+  "county": "Hertfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Pembridge Lane, Brickendon Liberty, Brickendon, East Hertfordshire, Hertfordshire, England, EN10 7QR, United Kingdom",
+  "postcode": "EN10 7QR",
+  "district": "East Hertfordshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "dog walking"
+  ]
 }

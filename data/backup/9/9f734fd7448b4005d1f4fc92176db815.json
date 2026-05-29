@@ -91,27 +91,25 @@
   "postcode": "CT5 1SD",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 to 3 hours",
   "difficulty": "easy",
   "terrain": [
+    "coastal",
     "woodland",
-    "woodland",
-    "heathland",
-    "meadow"
+    "heathland"
   ],
   "points_of_interest": [
     "harbour",
-    "nature reserve",
-    "university buildings"
+    "national nature reserve",
+    "cathedral",
+    "university"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "pub/cafe"
+    "train station"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

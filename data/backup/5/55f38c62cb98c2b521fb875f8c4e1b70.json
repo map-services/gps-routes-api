@@ -1,156 +1,168 @@
 {
-    "created_at": "2025-01-05T23:45:48.025375+00:00",
-    "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
-    "ref": "llyn-dinas-walking-route",
-    "title": "Llyn Dinas Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Llyn_Dinas_-_geograph.org.uk_-_8152.jpg",
-    "nearby": [
-        {
-            "description": "Mynydd Mawr",
-            "objectID": "d35bcfbb7a78443b186645a78dd217b6",
-            "ref": "mynydd-mawr-walking-route"
-        },
-        {
-            "description": "Nantlle Ridge",
-            "objectID": "0179c28fe9501d77bf1e0f061a58d2f1",
-            "ref": "nantlle-ridge-walking-route"
-        },
-        {
-            "description": "Moel Hebog",
-            "objectID": "5f85ca4f5fd7561bc65832e4aacf8364",
-            "ref": "moel-hebog-walking-route"
-        },
-        {
-            "description": "Beddgelert Forest",
-            "objectID": "79408560b5023c17d7833728dd8cfc14",
-            "ref": "beddgelert-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Aberglaslyn Pass Beddgelert",
-            "objectID": "cd7d971d1f2e3ae79f142743dec425ee",
-            "ref": "aberglaslyn-pass-beddgelert-walking-route"
-        },
-        {
-            "description": "Llyn Gwynant",
-            "objectID": "b67e64f2b29956504c8a3e11e232ec59",
-            "ref": "llyn-gwynant-walking-route"
-        },
-        {
-            "description": "Snowdon Watkin Path",
-            "objectID": "f8e578e3eb31a56d96a412be96d17d38",
-            "ref": "snowdon-watkin-path-walking-route"
-        },
-        {
-            "description": "Dinas Emrys",
-            "objectID": "03601cee750b4322c84c5099b8b6fd0f",
-            "ref": "dinas-emrys-walking-route"
-        },
-        {
-            "description": "Dorothea Quarry",
-            "objectID": "7a928128b4061c23123f66a9755f846a",
-            "ref": "dorothea-quarry-walking-route"
-        },
-        {
-            "description": "Llyn Nantlle Uchaf",
-            "objectID": "fe1cd93cc63f0e247ae430f5c0f533d5",
-            "ref": "llyn-nantlle-uchaf-walking-route"
-        },
-        {
-            "description": "Lon Gwyrfai",
-            "objectID": "f01c086ea7c11c18edd4f748c6e47fb8",
-            "ref": "lon-gwyrfai-walking-and-cycle-route"
-        },
-        {
-            "description": "Gelert's Grave",
-            "objectID": "c71f8ab5aa523cecdac01619c0e59a3a",
-            "ref": "gelerts-grave-walking-route"
-        },
-        {
-            "description": "Fishermans Walk",
-            "objectID": "5b1f0a70c57b44a56744ff7ff9ebbb73",
-            "ref": "beddgelert-fishermans-walk-walking-route"
-        },
-        {
-            "description": "Hafod Y Llan",
-            "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
-            "ref": "hafod-y-llan-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/55f38c62cb98c2b521fb875f8c4e1b70.gpx",
-    "_geoloc": {
-        "lat": 53.0228157364,
-        "lng": -4.073034853
+  "created_at": "2025-01-05T23:45:48.025375+00:00",
+  "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
+  "ref": "llyn-dinas-walking-route",
+  "title": "Llyn Dinas Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Llyn_Dinas_-_geograph.org.uk_-_8152.jpg",
+  "nearby": [
+    {
+      "description": "Mynydd Mawr",
+      "objectID": "d35bcfbb7a78443b186645a78dd217b6",
+      "ref": "mynydd-mawr-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Llyn_Dinas_-_geograph.org.uk_-_8152.jpg",
-            "title": "dave roberts / Llyn Dinas",
-            "caption": "Western shore view"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Llyn_Dinas_-_geograph.org.uk_-_1308904.jpg",
-            "title": "Tony Edwards / Llyn Dinas",
-            "caption": "Llyn Dinas with Y Lliwedd left distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Marshland_at_Llyn_Dinas_-_geograph.org.uk_-_463436.jpg",
-            "title": "Trevor Rickard / Marshland at Llyn Dinas",
-            "caption": "Marshland at the eastern end. The footpath runs on rubber mats in places to help walkers negotiate the dampest parts."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gwynant_near_Llyn_Dinas_-_geograph.org.uk_-_1045537.jpg",
-            "title": "Eirian Evans / Gwynant near Llyn Dinas",
-            "caption": "Gwynant. This river runs between Llyn Glaslyn and Llyn Dinas."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Looking_towards_the_Eastern_end_of_Llyn_Dinas_from_the_A498_-_geograph.org.uk_-_2016915.jpg",
-            "title": "Looking towards the Eastern end of Llyn Dinas from the A498 by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking towards the Eastern end of Llyn Dinas from the A498"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rocky_shoreline_of_Llyn_Dinas_-_geograph.org.uk_-_464485.jpg",
-            "title": "Tom Pennington / Rocky shoreline of Llyn Dinas",
-            "caption": "Rocky shoreline of the lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ruined_cottage_at_Llyn_Dinas_-_geograph.org.uk_-_476776.jpg",
-            "title": "Trevor Rickard / Ruined cottage at Llyn Dinas",
-            "caption": "Ruined cottage. From the footpath south of the lake looking north-east."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Southern_Shore_of_Llyn_Dinas_-_geograph.org.uk_-_463413.jpg",
-            "title": "Trevor Rickard / Southern Shore of Llyn Dinas",
-            "caption": "Southern Shore of the lake."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Enjoy a nice circular walk around this beautiful lake in the Snowdonia National Park. You can start the walk from the Llyn Dinas car park at the western end of the lake, off the A498. It's about 1.5 miles east of Beddgelert. From the car park pick up the public footpaths heading above the south eastern side of the water. There's some moderate climbing as you head through the woodland above the reservoir. The path eventually takes you to the end of the reservoir where you can cross the Afon Glaslyn and return along the road to the car park. Alternatively you can return the same way through the woods and avoid the road. To continue your walking in the area you could visit the beautiful Aberglaslyn Pass on the circular Fishermans Walk which passes the lake. Also nearby are miles of cycling and walking trails in Beddgelert Forest. Along the Afon Glaslyn you will find Llyn Gwynant which has some nice footpaths along the water and through the surrounding woodland. The Snowdon Watkin Path also starts from the nearby Nant Gwynant car park. You could try this challenging climb to extend your walk. The start of the path is particularly plesant. It takes you through woodland to the Afon Cwm Llan where there are some lovely waterfalls.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Close to the lake is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west you can visit the site of the legend of the Red Dragon at the fascinating Dinas Emrys. There's a lovely trail with river views, waterfalls, attractive woodland and a small hill climb to the ancient ramparts of the ancient fort where there are fine views back down to the lake. The waymarked Hafod Y Llan Walk passes above the lake. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/cKflmylKZZs",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "A498, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NE, United Kingdom",
-    "postcode": "LL55 4NE",
-    "district": "Beddgelert",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "waterfront"],
-    "points_of_interest": ["waterfall", "pass"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Nantlle Ridge",
+      "objectID": "0179c28fe9501d77bf1e0f061a58d2f1",
+      "ref": "nantlle-ridge-walking-route"
+    },
+    {
+      "description": "Moel Hebog",
+      "objectID": "5f85ca4f5fd7561bc65832e4aacf8364",
+      "ref": "moel-hebog-walking-route"
+    },
+    {
+      "description": "Beddgelert Forest",
+      "objectID": "79408560b5023c17d7833728dd8cfc14",
+      "ref": "beddgelert-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Aberglaslyn Pass Beddgelert",
+      "objectID": "cd7d971d1f2e3ae79f142743dec425ee",
+      "ref": "aberglaslyn-pass-beddgelert-walking-route"
+    },
+    {
+      "description": "Llyn Gwynant",
+      "objectID": "b67e64f2b29956504c8a3e11e232ec59",
+      "ref": "llyn-gwynant-walking-route"
+    },
+    {
+      "description": "Snowdon Watkin Path",
+      "objectID": "f8e578e3eb31a56d96a412be96d17d38",
+      "ref": "snowdon-watkin-path-walking-route"
+    },
+    {
+      "description": "Dinas Emrys",
+      "objectID": "03601cee750b4322c84c5099b8b6fd0f",
+      "ref": "dinas-emrys-walking-route"
+    },
+    {
+      "description": "Dorothea Quarry",
+      "objectID": "7a928128b4061c23123f66a9755f846a",
+      "ref": "dorothea-quarry-walking-route"
+    },
+    {
+      "description": "Llyn Nantlle Uchaf",
+      "objectID": "fe1cd93cc63f0e247ae430f5c0f533d5",
+      "ref": "llyn-nantlle-uchaf-walking-route"
+    },
+    {
+      "description": "Lon Gwyrfai",
+      "objectID": "f01c086ea7c11c18edd4f748c6e47fb8",
+      "ref": "lon-gwyrfai-walking-and-cycle-route"
+    },
+    {
+      "description": "Gelert's Grave",
+      "objectID": "c71f8ab5aa523cecdac01619c0e59a3a",
+      "ref": "gelerts-grave-walking-route"
+    },
+    {
+      "description": "Fishermans Walk",
+      "objectID": "5b1f0a70c57b44a56744ff7ff9ebbb73",
+      "ref": "beddgelert-fishermans-walk-walking-route"
+    },
+    {
+      "description": "Hafod Y Llan",
+      "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
+      "ref": "hafod-y-llan-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/55f38c62cb98c2b521fb875f8c4e1b70.gpx",
+  "_geoloc": {
+    "lat": 53.0228157364,
+    "lng": -4.073034853
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Llyn_Dinas_-_geograph.org.uk_-_8152.jpg",
+      "title": "dave roberts / Llyn Dinas",
+      "caption": "Western shore view"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Llyn_Dinas_-_geograph.org.uk_-_1308904.jpg",
+      "title": "Tony Edwards / Llyn Dinas",
+      "caption": "Llyn Dinas with Y Lliwedd left distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Marshland_at_Llyn_Dinas_-_geograph.org.uk_-_463436.jpg",
+      "title": "Trevor Rickard / Marshland at Llyn Dinas",
+      "caption": "Marshland at the eastern end. The footpath runs on rubber mats in places to help walkers negotiate the dampest parts."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gwynant_near_Llyn_Dinas_-_geograph.org.uk_-_1045537.jpg",
+      "title": "Eirian Evans / Gwynant near Llyn Dinas",
+      "caption": "Gwynant. This river runs between Llyn Glaslyn and Llyn Dinas."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Looking_towards_the_Eastern_end_of_Llyn_Dinas_from_the_A498_-_geograph.org.uk_-_2016915.jpg",
+      "title": "Looking towards the Eastern end of Llyn Dinas from the A498 by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking towards the Eastern end of Llyn Dinas from the A498"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rocky_shoreline_of_Llyn_Dinas_-_geograph.org.uk_-_464485.jpg",
+      "title": "Tom Pennington / Rocky shoreline of Llyn Dinas",
+      "caption": "Rocky shoreline of the lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ruined_cottage_at_Llyn_Dinas_-_geograph.org.uk_-_476776.jpg",
+      "title": "Trevor Rickard / Ruined cottage at Llyn Dinas",
+      "caption": "Ruined cottage. From the footpath south of the lake looking north-east."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Southern_Shore_of_Llyn_Dinas_-_geograph.org.uk_-_463413.jpg",
+      "title": "Trevor Rickard / Southern Shore of Llyn Dinas",
+      "caption": "Southern Shore of the lake."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Enjoy a nice circular walk around this beautiful lake in the Snowdonia National Park. You can start the walk from the Llyn Dinas car park at the western end of the lake, off the A498. It's about 1.5 miles east of Beddgelert. From the car park pick up the public footpaths heading above the south eastern side of the water. There's some moderate climbing as you head through the woodland above the reservoir. The path eventually takes you to the end of the reservoir where you can cross the Afon Glaslyn and return along the road to the car park. Alternatively you can return the same way through the woods and avoid the road. To continue your walking in the area you could visit the beautiful Aberglaslyn Pass on the circular Fishermans Walk which passes the lake. Also nearby are miles of cycling and walking trails in Beddgelert Forest. Along the Afon Glaslyn you will find Llyn Gwynant which has some nice footpaths along the water and through the surrounding woodland. The Snowdon Watkin Path also starts from the nearby Nant Gwynant car park. You could try this challenging climb to extend your walk. The start of the path is particularly plesant. It takes you through woodland to the Afon Cwm Llan where there are some lovely waterfalls.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Close to the lake is the excellent Caffi Gwynant. The cafe offers a wide range of foods prepared using local produce, daily specials, homemade cakes and desserts, local ales and free wi-fi. There's also an impressive outdoor glass canopy which is dog friendly. You can find the cafe at postcode LL55 4NH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you can visit the site of the legend of the Red Dragon at the fascinating Dinas Emrys. There's a lovely trail with river views, waterfalls, attractive woodland and a small hill climb to the ancient ramparts of the ancient fort where there are fine views back down to the lake. The waymarked Hafod Y Llan Walk passes above the lake. The trail will take you through the National Trust's historically important hill farm with lots of wildlife and wonderful views from the high points."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/cKflmylKZZs",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A498, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NE, United Kingdom",
+  "postcode": "LL55 4NE",
+  "district": "Beddgelert",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

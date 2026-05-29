@@ -1,91 +1,103 @@
 {
-    "created_at": "2025-01-05T23:28:04.748178+00:00",
-    "objectID": "0179a8ff553d6706610eb078b1432a98",
-    "ref": "fletcher-moss-park-walking-route",
-    "title": "Fletcher Moss Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fletcher_Moss_Gardens_-_geograph.org.uk_-_253355.jpg",
-    "nearby": [
-        {
-            "description": "Trans Pennine Trail",
-            "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-            "ref": "trans-pennine-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Stockport",
-            "objectID": "88c4ff9b091096382136f8b4a32877b3",
-            "ref": "stockport-walking-route"
-        },
-        {
-            "description": "Didsbury",
-            "objectID": "ed042bab5882f177a285eb0d06289e81",
-            "ref": "didsbury-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0179a8ff553d6706610eb078b1432a98.gpx",
-    "_geoloc": {
-        "lat": 53.408332265,
-        "lng": -2.2292108956
+  "created_at": "2025-01-05T23:28:04.748178+00:00",
+  "objectID": "0179a8ff553d6706610eb078b1432a98",
+  "ref": "fletcher-moss-park-walking-route",
+  "title": "Fletcher Moss Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fletcher_Moss_Gardens_-_geograph.org.uk_-_253355.jpg",
+  "nearby": [
+    {
+      "description": "Trans Pennine Trail",
+      "objectID": "92a97add7ee3d3d55980d4993637b5c5",
+      "ref": "trans-pennine-trail-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fletcher_Moss_Gardens_-_geograph.org.uk_-_253355.jpg",
-            "title": "Keith Williamson / Fletcher Moss Gardens",
-            "caption": "Fletcher Moss Gardens"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Croft%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_128816.jpg",
-            "title": "Keith Williamson / The Croft, Fletcher Moss Gardens",
-            "caption": "The Croft, Fletcher Moss Gardens. In 1878 one Emily Williamson organised a meeting here to discuss the exploitation of birds in the manufacture of hats. This led, in 1890, to the formation of the Plumage League which later became the Royal Society for the Protection of Birds (RSPB)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Didsbury%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_4612733.jpg/500px-Didsbury%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_4612733.jpg",
-            "title": "Didsbury, Fletcher Moss Gardens by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": ""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fletcher_Moss21_10_57_075000.jpeg/500px-Fletcher_Moss21_10_57_075000.jpeg",
-            "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": ""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fletcher_Moss_Gardens%2C_Didsbury_00_23_05_225000.jpeg/500px-Fletcher_Moss_Gardens%2C_Didsbury_00_23_05_225000.jpeg",
-            "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": ""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Parsonage_Gardens%2C_Didsbury_00_12_46_963000.jpeg/500px-Parsonage_Gardens%2C_Didsbury_00_12_46_963000.jpeg",
-            "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Parsonage Gardens. These gardens are just around the corner from Fletcher Moss."
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "Fletcher Moss is a beautiful botanical garden located in Didsbury, Manchester. The gardens contain a wide range of ornamental trees and shrubs, including Chusan palms, tulip trees, mulberry, dawn redwood and various dwarf conifers. There are also pretty rock gardens, little waterfalls and ponds. The gardens attract a wide variety of birdlife so you can sit enjoy the birdsong for a while. A short walk from Fletcher Moss takes you to the adjacent Parsonage gardens where you will find several large yew trees and pretty flower beds. The Trans Pennine Trail runs past the park so you could pick this up and enjoy a walk along the River Mersey. Stenner Woods nature reserve is also right next to the park so this is another good option if you'd like to extend your walk.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Ye Olde Cock Inn and the Didsbury pub are located next to the park. They both have a good menu and outdoor seating for finer weather."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Stockport Walk visits the park from the town centre of Stockport by following the River Mersey for just over 4 miles. For more walking ideas in the area see the Greater Manchester Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/TJVqA3vjPFI",
-    "postcode": "M20 2SP",
-    "district": "Manchester",
-    "region": "Greater Manchester",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Millgate Lane, Parrs Wood, Didsbury, Manchester, Greater Manchester, England, M20 2SP, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "garden"],
-    "points_of_interest": ["bird watching", "waterfall", "ponds"],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Stockport",
+      "objectID": "88c4ff9b091096382136f8b4a32877b3",
+      "ref": "stockport-walking-route"
+    },
+    {
+      "description": "Didsbury",
+      "objectID": "ed042bab5882f177a285eb0d06289e81",
+      "ref": "didsbury-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0179a8ff553d6706610eb078b1432a98.gpx",
+  "_geoloc": {
+    "lat": 53.408332265,
+    "lng": -2.2292108956
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fletcher_Moss_Gardens_-_geograph.org.uk_-_253355.jpg",
+      "title": "Keith Williamson / Fletcher Moss Gardens",
+      "caption": "Fletcher Moss Gardens"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Croft%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_128816.jpg",
+      "title": "Keith Williamson / The Croft, Fletcher Moss Gardens",
+      "caption": "The Croft, Fletcher Moss Gardens. In 1878 one Emily Williamson organised a meeting here to discuss the exploitation of birds in the manufacture of hats. This led, in 1890, to the formation of the Plumage League which later became the Royal Society for the Protection of Birds (RSPB)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Didsbury%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_4612733.jpg/500px-Didsbury%2C_Fletcher_Moss_Gardens_-_geograph.org.uk_-_4612733.jpg",
+      "title": "Didsbury, Fletcher Moss Gardens by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fletcher_Moss21_10_57_075000.jpeg/500px-Fletcher_Moss21_10_57_075000.jpeg",
+      "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fletcher_Moss_Gardens%2C_Didsbury_00_23_05_225000.jpeg/500px-Fletcher_Moss_Gardens%2C_Didsbury_00_23_05_225000.jpeg",
+      "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Parsonage_Gardens%2C_Didsbury_00_12_46_963000.jpeg/500px-Parsonage_Gardens%2C_Didsbury_00_12_46_963000.jpeg",
+      "title": "Cnbrb, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Parsonage Gardens. These gardens are just around the corner from Fletcher Moss."
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "Fletcher Moss is a beautiful botanical garden located in Didsbury, Manchester. The gardens contain a wide range of ornamental trees and shrubs, including Chusan palms, tulip trees, mulberry, dawn redwood and various dwarf conifers. There are also pretty rock gardens, little waterfalls and ponds. The gardens attract a wide variety of birdlife so you can sit enjoy the birdsong for a while. A short walk from Fletcher Moss takes you to the adjacent Parsonage gardens where you will find several large yew trees and pretty flower beds. The Trans Pennine Trail runs past the park so you could pick this up and enjoy a walk along the River Mersey. Stenner Woods nature reserve is also right next to the park so this is another good option if you'd like to extend your walk.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Ye Olde Cock Inn and the Didsbury pub are located next to the park. They both have a good menu and outdoor seating for finer weather."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Stockport Walk visits the park from the town centre of Stockport by following the River Mersey for just over 4 miles. For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/TJVqA3vjPFI",
+  "postcode": "M20 2SP",
+  "district": "Manchester",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Millgate Lane, Parrs Wood, Didsbury, Manchester, Greater Manchester, England, M20 2SP, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "garden"
+  ],
+  "points_of_interest": [
+    "botanical garden",
+    "rock garden",
+    "waterfall",
+    "pond",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

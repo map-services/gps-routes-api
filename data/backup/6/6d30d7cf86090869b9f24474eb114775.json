@@ -1,103 +1,108 @@
 {
-    "created_at": "2025-01-06T11:04:57.457170+00:00",
-    "objectID": "6d30d7cf86090869b9f24474eb114775",
-    "ref": "lower-leas-coastal-park-walking-and-cycle-route",
-    "title": "Lower Leas Coastal Park Folkestone Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Amphitheatre%2C_Lower_Leas_Coastal_Park%2C_Folkestone-geograph-3091739.jpg",
-    "nearby": [
-        {
-            "description": "Rye to Dover",
-            "objectID": "d205260f6d48de8802da33aa2a5bb58c",
-            "ref": "rye-to-dover-cycle-route"
-        },
-        {
-            "description": "North Downs Way",
-            "objectID": "158891488846dc8d1f43a5eb9e491778",
-            "ref": "north-downs-way-walking-route"
-        },
-        {
-            "description": "Lympne",
-            "objectID": "9b6df21d2faae74fccbc2ad5d2767c27",
-            "ref": "lympne-walking-route"
-        },
-        {
-            "description": "Brockhill Country Park",
-            "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
-            "ref": "brockhill-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Royal Military Canal Path",
-            "objectID": "23ec92ee4698b0dd917d6b4b50ec3444",
-            "ref": "royal-military-canal-path-walking-route"
-        },
-        {
-            "description": "Hythe",
-            "objectID": "a1c7b48264ed82e3b4edf1d4ed4ef806",
-            "ref": "hythe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d30d7cf86090869b9f24474eb114775.gpx",
-    "_geoloc": {
-        "lat": 51.0733153297,
-        "lng": 1.1477750693
+  "created_at": "2025-01-06T11:04:57.457170+00:00",
+  "objectID": "6d30d7cf86090869b9f24474eb114775",
+  "ref": "lower-leas-coastal-park-walking-and-cycle-route",
+  "title": "Lower Leas Coastal Park Folkestone Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Amphitheatre%2C_Lower_Leas_Coastal_Park%2C_Folkestone-geograph-3091739.jpg",
+  "nearby": [
+    {
+      "description": "Rye to Dover",
+      "objectID": "d205260f6d48de8802da33aa2a5bb58c",
+      "ref": "rye-to-dover-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Amphitheatre%2C_Lower_Leas_Coastal_Park%2C_Folkestone-geograph-3091739.jpg",
-            "title": "pam fray [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The Amphitheatre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Labyrinth_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355495.jpg",
-            "title": "David Anstiss / Labyrinth in Lower Leas Country Park",
-            "caption": "Labyrinth in the park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Footbridge_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355479.jpg",
-            "title": "David Anstiss / Footbridge in Lower Leas Country Park",
-            "caption": "Footbridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flower_Borders_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355471.jpg",
-            "title": "David Anstiss / Flower Borders in Lower Leas Country Park",
-            "caption": "Flower Borders"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Wildflower_Meadow_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355483.jpg",
-            "title": "David Anstiss / Wildflower Meadow in Lower Leas Country Park",
-            "caption": "Wildflower Meadow in Lower Leas Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Leas_Cliff%2C_Folkestone_-_geograph.org.uk_-_1657.jpg",
-            "title": "Penny Mayes / Leas Cliff, Folkestone",
-            "caption": "Leas Cliff, Folkestone"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This coastal country park is located in Folkestone and has fabulous views over the Kent coastline. National Cycle Route 2 also runs through the park. The park is divided into three zones. These include a formal zone with lovely gardens and pine avenues. The fun zone includes a free adventure play area and an amphitheatre. Finally, there's the wild zone with lots of interesting flora and fauna to look out for. It's a delightful place with imposing cliffs, interesting rock formations, wildflower meadows and lots in intersting plants and flowers. You can extend your walking in the area by try our Dover to Folkestone Walk. It will take you east to the Folkestone Roman Villa and the nearby East Cliff and Warren Country Park. There's great views to be had from the elevated position of the park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/ddGrBxZodDk",
-    "postcode": "CT20 3AQ",
-    "district": "Folkestone and Hythe",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "9, Martello Terrace, Golden Valley, Sandgate, Folkestone and Hythe, Kent, England, CT20 3AQ, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "coastal"],
-    "points_of_interest": [
-        "garden",
-        "play area",
-        "amphitheatre",
-        "rock formations",
-        "meadow"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "North Downs Way",
+      "objectID": "158891488846dc8d1f43a5eb9e491778",
+      "ref": "north-downs-way-walking-route"
+    },
+    {
+      "description": "Lympne",
+      "objectID": "9b6df21d2faae74fccbc2ad5d2767c27",
+      "ref": "lympne-walking-route"
+    },
+    {
+      "description": "Brockhill Country Park",
+      "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
+      "ref": "brockhill-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Royal Military Canal Path",
+      "objectID": "23ec92ee4698b0dd917d6b4b50ec3444",
+      "ref": "royal-military-canal-path-walking-route"
+    },
+    {
+      "description": "Hythe",
+      "objectID": "a1c7b48264ed82e3b4edf1d4ed4ef806",
+      "ref": "hythe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d30d7cf86090869b9f24474eb114775.gpx",
+  "_geoloc": {
+    "lat": 51.0733153297,
+    "lng": 1.1477750693
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Amphitheatre%2C_Lower_Leas_Coastal_Park%2C_Folkestone-geograph-3091739.jpg",
+      "title": "pam fray [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The Amphitheatre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Labyrinth_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355495.jpg",
+      "title": "David Anstiss / Labyrinth in Lower Leas Country Park",
+      "caption": "Labyrinth in the park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Footbridge_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355479.jpg",
+      "title": "David Anstiss / Footbridge in Lower Leas Country Park",
+      "caption": "Footbridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flower_Borders_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355471.jpg",
+      "title": "David Anstiss / Flower Borders in Lower Leas Country Park",
+      "caption": "Flower Borders"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Wildflower_Meadow_in_Lower_Leas_Country_Park_-_geograph.org.uk_-_1355483.jpg",
+      "title": "David Anstiss / Wildflower Meadow in Lower Leas Country Park",
+      "caption": "Wildflower Meadow in Lower Leas Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Leas_Cliff%2C_Folkestone_-_geograph.org.uk_-_1657.jpg",
+      "title": "Penny Mayes / Leas Cliff, Folkestone",
+      "caption": "Leas Cliff, Folkestone"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This coastal country park is located in Folkestone and has fabulous views over the Kent coastline. National Cycle Route 2 also runs through the park. The park is divided into three zones. These include a formal zone with lovely gardens and pine avenues. The fun zone includes a free adventure play area and an amphitheatre. Finally, there's the wild zone with lots of interesting flora and fauna to look out for. It's a delightful place with imposing cliffs, interesting rock formations, wildflower meadows and lots in intersting plants and flowers. You can extend your walking in the area by try our Dover to Folkestone Walk. It will take you east to the Folkestone Roman Villa and the nearby East Cliff and Warren Country Park. There's great views to be had from the elevated position of the park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/ddGrBxZodDk",
+  "postcode": "CT20 3AQ",
+  "district": "Folkestone and Hythe",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "9, Martello Terrace, Golden Valley, Sandgate, Folkestone and Hythe, Kent, England, CT20 3AQ, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "clifftop"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "play area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,80 +1,88 @@
 {
-    "created_at": "2025-01-06T07:46:52.069525+00:00",
-    "objectID": "c777dfe5c8bf33e6682bd9daf911c591",
-    "ref": "lyng-walking-route",
-    "title": "Lyng Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c777dfe5c8bf33e6682bd9daf911c591.gpx",
-    "_geoloc": {
-        "lat": 52.7174905142,
-        "lng": 1.0629742938
+  "created_at": "2025-01-06T07:46:52.069525+00:00",
+  "objectID": "c777dfe5c8bf33e6682bd9daf911c591",
+  "ref": "lyng-walking-route",
+  "title": "Lyng Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c777dfe5c8bf33e6682bd9daf911c591.gpx",
+  "_geoloc": {
+    "lat": 52.7174905142,
+    "lng": 1.0629742938
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
+      "title": "Evelyn Simak / Mill Bridge",
+      "caption": "Mill Bridge. The bridge used to lead to Lyng Mill, now closed. The view was taken looking upstream, from Lyng bridge. The roof of Mill House can be seen at left."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
-            "title": "Evelyn Simak / Mill Bridge",
-            "caption": "Mill Bridge. The bridge used to lead to Lyng Mill, now closed. The view was taken looking upstream, from Lyng bridge. The roof of Mill House can be seen at left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lyng_Bridge_-_geograph.org.uk_-_899120.jpg",
-            "title": "Evelyn Simak / Lyng Bridge",
-            "caption": "Lyng Bridge takes The Street over the River Wensum; the roof of Mill House can be seen in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/St_Margaret%27s_church_-_geograph.org.uk_-_899029.jpg",
-            "title": "Evelyn Simak / St Margaret's church",
-            "caption": "St Margaret's church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_southeast_along_The_Common_-_geograph.org.uk_-_898961.jpg",
-            "title": "Evelyn Simak / View southeast along The Common",
-            "caption": "View southeast along The Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sparham_Pools_2.jpg",
-            "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Sparham Pools"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pockthorpe%2C_near_Lyng.JPG/500px-Pockthorpe%2C_near_Lyng.JPG",
-            "title": "Timber Woods, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Pockthorpe, near Lyng"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sparham_Pools_4.jpg",
-            "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Sparham Pools"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/River_Wensum_below_Lyng_-_geograph.org.uk_-_3623017.jpg",
-            "title": "River Wensum below Lyng by David Leeming, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Wensum below Lyng"
-        }
-    ],
-    "distance_km": 1.7,
-    "description": "This pretty Norfolk village is located in a pleasant spot on the River Wensum, near Swanton Morley and Dereham. This walk from the village takes you to the Sparham Pools Nature Reserve which lies just to the north east of the village. The reserve is run by Norfolk Wildlife Trusts and includes some pleasant footpaths along the River Wensum and around a series of pretty lakes. The site is great for bird watching with goosander, shoveler, gadwall, mallard, pochard and tufted duck to look out for. You can follow a section of the Wensum Way to the reserve. The long distance trail runs through the village and can be followed to Lenwade to extend the walk. The Walsingham Way also passes through the village. You could use both these trails to create a longer circular walk through the area.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to The Fox for some rest and refreshment after your exercise. The classic country pub is over 300 years old and retains traditional elements such as the beamed ceiling, open fire and tiled floor. For brighter days, The Fox has an enclosed garden with lovely views of the church. You can find them at postcode NR9 5AL for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/5dZ2vqgFawE",
-    "district": "Breckland",
-    "county": "Norfolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lyng, Breckland, Norfolk, England, NR9 5RZ, United Kingdom",
-    "postcode": "NR9 5RZ",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["river", "lake"],
-    "points_of_interest": ["nature reserve", "footpath"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lyng_Bridge_-_geograph.org.uk_-_899120.jpg",
+      "title": "Evelyn Simak / Lyng Bridge",
+      "caption": "Lyng Bridge takes The Street over the River Wensum; the roof of Mill House can be seen in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/St_Margaret%27s_church_-_geograph.org.uk_-_899029.jpg",
+      "title": "Evelyn Simak / St Margaret's church",
+      "caption": "St Margaret's church"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_southeast_along_The_Common_-_geograph.org.uk_-_898961.jpg",
+      "title": "Evelyn Simak / View southeast along The Common",
+      "caption": "View southeast along The Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sparham_Pools_2.jpg",
+      "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Sparham Pools"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pockthorpe%2C_near_Lyng.JPG/500px-Pockthorpe%2C_near_Lyng.JPG",
+      "title": "Timber Woods, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Pockthorpe, near Lyng"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sparham_Pools_4.jpg",
+      "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Sparham Pools"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/River_Wensum_below_Lyng_-_geograph.org.uk_-_3623017.jpg",
+      "title": "River Wensum below Lyng by David Leeming, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Wensum below Lyng"
+    }
+  ],
+  "distance_km": 1.7,
+  "description": "This pretty Norfolk village is located in a pleasant spot on the River Wensum, near Swanton Morley and Dereham. This walk from the village takes you to the Sparham Pools Nature Reserve which lies just to the north east of the village. The reserve is run by Norfolk Wildlife Trusts and includes some pleasant footpaths along the River Wensum and around a series of pretty lakes. The site is great for bird watching with goosander, shoveler, gadwall, mallard, pochard and tufted duck to look out for. You can follow a section of the Wensum Way to the reserve. The long distance trail runs through the village and can be followed to Lenwade to extend the walk. The Walsingham Way also passes through the village. You could use both these trails to create a longer circular walk through the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to The Fox for some rest and refreshment after your exercise. The classic country pub is over 300 years old and retains traditional elements such as the beamed ceiling, open fire and tiled floor. For brighter days, The Fox has an enclosed garden with lovely views of the church. You can find them at postcode NR9 5AL for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/5dZ2vqgFawE",
+  "district": "Breckland",
+  "county": "Norfolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lyng, Breckland, Norfolk, England, NR9 5RZ, United Kingdom",
+  "postcode": "NR9 5RZ",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

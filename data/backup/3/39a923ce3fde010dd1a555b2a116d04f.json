@@ -58,23 +58,22 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
     "mountain",
     "lake"
   ],
-  "points_of_interest": [
-    "mountain views",
-    "lake views"
-  ],
   "facilities": [
-    "visitor center",
+    "pub/cafe",
     "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -90,23 +90,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "towpath"
+    "flat"
   ],
   "points_of_interest": [
-    "locks",
-    "canal barges",
-    "historic mills",
-    "weirs",
-    "canalside pubs"
+    "historic mill",
+    "weir",
+    "canal"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

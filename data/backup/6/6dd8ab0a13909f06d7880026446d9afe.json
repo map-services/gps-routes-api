@@ -74,27 +74,26 @@
   "district": "Charnwood",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 day",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
-    "canal",
+    "waterside",
     "woodland",
-    "grassland",
-    "water"
+    "grassland"
   ],
   "points_of_interest": [
-    "village",
     "country park",
-    "park"
-  ],
-  "facilities": [
-    "car park",
+    "formal garden",
+    "sensory garden",
     "boating lake",
     "model boat lake",
-    "miniature railway",
-    "visitor center"
+    "miniature railway"
   ],
-  "route_type": "out and back",
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

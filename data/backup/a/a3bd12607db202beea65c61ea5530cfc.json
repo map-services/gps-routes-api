@@ -76,11 +76,11 @@
   "district": null,
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
+    "riverside",
     "woodland",
-    "river",
     "gorge"
   ],
   "points_of_interest": [
@@ -89,11 +89,9 @@
     "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

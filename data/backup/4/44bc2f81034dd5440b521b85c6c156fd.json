@@ -1,120 +1,108 @@
 {
-  "created_at": "2025-01-06T01:10:33.876084+00:00",
-  "objectID": "44bc2f81034dd5440b521b85c6c156fd",
-  "ref": "rushden-lakes-walking-route",
-  "title": "Rushden Lakes Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg/500px-The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg",
-  "nearby": [
-    {
-      "description": "Stanwick Lakes",
-      "objectID": "f9e110757579a1deb8828fdc69ed12c3",
-      "ref": "stanwick-lakes-walking-and-cycle-route"
+    "created_at": "2025-01-06T01:10:33.876084+00:00",
+    "objectID": "44bc2f81034dd5440b521b85c6c156fd",
+    "ref": "rushden-lakes-walking-route",
+    "title": "Rushden Lakes Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg/500px-The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg",
+    "nearby": [
+        {
+            "description": "Stanwick Lakes",
+            "objectID": "f9e110757579a1deb8828fdc69ed12c3",
+            "ref": "stanwick-lakes-walking-and-cycle-route"
+        },
+        {
+            "description": "Nene Way",
+            "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
+            "ref": "nene-way-walking-route"
+        },
+        {
+            "description": "Irchester Country Park",
+            "objectID": "c51624b1591978ceff74727e980d23a1",
+            "ref": "irchester-country-park-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/44bc2f81034dd5440b521b85c6c156fd.gpx",
+    "_geoloc": {
+        "lat": 52.32511094,
+        "lng": -0.59761762
     },
-    {
-      "description": "Nene Way",
-      "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
-      "ref": "nene-way-walking-route"
-    },
-    {
-      "description": "Irchester Country Park",
-      "objectID": "c51624b1591978ceff74727e980d23a1",
-      "ref": "irchester-country-park-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/44bc2f81034dd5440b521b85c6c156fd.gpx",
-  "_geoloc": {
-    "lat": 52.32511094,
-    "lng": -0.59761762
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg/500px-The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg",
-      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "The River Nene at Ditchford Lakes"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
-      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "At Ditchford Lakes Nature Reserve"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Close-up_of_a_Practice_Ski_Slope_-_geograph.org.uk_-_268213.jpg",
-      "title": "Kokai / Close-up of a Practice Ski Slope, via Wikimedia Commons",
-      "caption": "Close-up of a Practice Ski Slope. A feature of a Ski Club which provides facilities for water skiing on one of the Ditchford lakes."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Crossing_the_Meadows_at_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-Crossing_the_Meadows_at_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
-      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "Crossing the Meadows at Ditchford Lakes Nature Reserve"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lake_Higham_Ferrers_-_geograph.org.uk_-_1577230.jpg",
-      "title": "Paul Mills / Lake Higham Ferrers, via Wikimedia Commons",
-      "caption": "Lake Higham Ferrers"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/500px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
-      "title": "Christopher French [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "View looking North across Corner Lake in December 2015. The top of the lantern tower of St. Peter's Church can be seen behind the trees."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Irthlingborough_Lakes_7_-_panoramio.jpg/500px-Irthlingborough_Lakes_7_-_panoramio.jpg",
-      "title": "Andrew Roberts [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "Irthlingborough Lakes and bridge in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/500px-Irthlingborough_Lakes_1_-_panoramio.jpg",
-      "title": "Andrew Roberts [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "View of the nice surfaced footpath at Irthlingborough Lakes"
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This walk visits Rushden Lakes in the Nene Valley area of Northamptonshire. The area includes a series of pretty lakes, wetland nature reserves, nature trails and nice footpaths along the River Nene. It's an excellent area for birdwatchers with the Nene Valley now one of the most important wetlands in England gaining international recognition for its significance as a stop-over for thousands of wildfowl and waders that visit during the winter. Start the walk at the entrance point at the eastern end of the lakes between Irthlingborough and Higham Ferrers. You can then follow the trails south west along the river to the lakes. The first section takes you through the Irthlingborough Lakes and Meadows Nature Reserve where you can look out for Golden Plover and Gadwall. At the western end you'll pass the Wildlife Discovery Centre where you can find out all about the variety of wildlife which visits the area. You'll also pass Higham Ferrers Riverside Park and Ditchford Lakes Nature Reserve where there's a water skiing lake. This reserve also has lakes in old gravel pits which are used by otters and wintering and breeding birds such as Cetti's warblers, coots, oystercatchers and grey herons. There are also areas of grassland and willow scrub to explore. To continue your walking in the area simply head east and visit the adjacent Stanwick Lakes where there's more nice waterside trails. Part of this walk uses a section of the Nene Way. The waymarked long distance trail runs through the Nene Valley for over 100 miles. You could follow the trail west and visit Irchester Country Park near Wellinborough.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There's lots of good options for refreshments on the walk. Bill's Rushden Lakes has a splendid outdoor seating area overlooking the water. They have a great menu and the views are superb."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The lakes are dog friendly but please keep them on leads at all times. You may see dog bowls dotted around the complex as well."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head a few miles to the south west and you can visit the lovely Summer Leys Nature Reserve and the village of Great Doddington. There's some pretty lakes and lots of birds to see in this wildlife rich reserve."
-    }
-  ],
-  "county": "North Northamptonshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Station Road, Irthlingborough, North Northamptonshire, England, NN9 5QF, United Kingdom",
-  "postcode": "NN9 5QF",
-  "district": "Irthlingborough",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "river",
-    "lake",
-    "grassland"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "wildlife center",
-    "park",
-    "lake"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg/500px-The_River_Nene_at_Ditchford_Lakes_-_June_2009_-_panoramio.jpg",
+            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "The River Nene at Ditchford Lakes"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
+            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "At Ditchford Lakes Nature Reserve"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Close-up_of_a_Practice_Ski_Slope_-_geograph.org.uk_-_268213.jpg",
+            "title": "Kokai / Close-up of a Practice Ski Slope, via Wikimedia Commons",
+            "caption": "Close-up of a Practice Ski Slope. A feature of a Ski Club which provides facilities for water skiing on one of the Ditchford lakes."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Crossing_the_Meadows_at_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-Crossing_the_Meadows_at_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
+            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "Crossing the Meadows at Ditchford Lakes Nature Reserve"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lake_Higham_Ferrers_-_geograph.org.uk_-_1577230.jpg",
+            "title": "Paul Mills / Lake Higham Ferrers, via Wikimedia Commons",
+            "caption": "Lake Higham Ferrers"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/500px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
+            "title": "Christopher French [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "View looking North across Corner Lake in December 2015. The top of the lantern tower of St. Peter's Church can be seen behind the trees."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Irthlingborough_Lakes_7_-_panoramio.jpg/500px-Irthlingborough_Lakes_7_-_panoramio.jpg",
+            "title": "Andrew Roberts [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "Irthlingborough Lakes and bridge in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/500px-Irthlingborough_Lakes_1_-_panoramio.jpg",
+            "title": "Andrew Roberts [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "View of the nice surfaced footpath at Irthlingborough Lakes"
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This walk visits Rushden Lakes in the Nene Valley area of Northamptonshire. The area includes a series of pretty lakes, wetland nature reserves, nature trails and nice footpaths along the River Nene. It's an excellent area for birdwatchers with the Nene Valley now one of the most important wetlands in England gaining international recognition for its significance as a stop-over for thousands of wildfowl and waders that visit during the winter. Start the walk at the entrance point at the eastern end of the lakes between Irthlingborough and Higham Ferrers. You can then follow the trails south west along the river to the lakes. The first section takes you through the Irthlingborough Lakes and Meadows Nature Reserve where you can look out for Golden Plover and Gadwall. At the western end you'll pass the Wildlife Discovery Centre where you can find out all about the variety of wildlife which visits the area. You'll also pass Higham Ferrers Riverside Park and Ditchford Lakes Nature Reserve where there's a water skiing lake. This reserve also has lakes in old gravel pits which are used by otters and wintering and breeding birds such as Cetti's warblers, coots, oystercatchers and grey herons. There are also areas of grassland and willow scrub to explore. To continue your walking in the area simply head east and visit the adjacent Stanwick Lakes where there's more nice waterside trails. Part of this walk uses a section of the Nene Way. The waymarked long distance trail runs through the Nene Valley for over 100 miles. You could follow the trail west and visit Irchester Country Park near Wellinborough.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There's lots of good options for refreshments on the walk. Bill's Rushden Lakes has a splendid outdoor seating area overlooking the water. They have a great menu and the views are superb."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The lakes are dog friendly but please keep them on leads at all times. You may see dog bowls dotted around the complex as well."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head a few miles to the south west and you can visit the lovely Summer Leys Nature Reserve and the village of Great Doddington. There's some pretty lakes and lots of birds to see in this wildlife rich reserve."
+        }
+    ],
+    "county": "North Northamptonshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Station Road, Irthlingborough, North Northamptonshire, England, NN9 5QF, United Kingdom",
+    "postcode": "NN9 5QF",
+    "district": "Irthlingborough",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours 40 minutes",
+    "difficulty": "easy",
+    "terrain": ["wetland", "grassland"],
+    "points_of_interest": [
+        "nature reserve",
+        "wildlife discovery centre",
+        "riverside park"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "bird watching"]
 }

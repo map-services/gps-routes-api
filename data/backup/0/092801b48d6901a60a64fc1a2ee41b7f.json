@@ -1,130 +1,142 @@
 {
-    "created_at": "2025-01-06T03:28:33.807938+00:00",
-    "objectID": "092801b48d6901a60a64fc1a2ee41b7f",
-    "ref": "baldock-walking-route",
-    "title": "Baldock Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sun_Street%2C_Baldock_-_geograph.org.uk_-_1168959.jpg",
-    "nearby": [
-        {
-            "description": "Hitchin",
-            "objectID": "5ca3b508e6a3512b04c71780d3fd92a9",
-            "ref": "hitchin-walking-route"
-        },
-        {
-            "description": "Biggleswade",
-            "objectID": "e345d2a6fc45772b359c5c7e0edac2c8",
-            "ref": "biggleswade-walking-and-cycle-route"
-        },
-        {
-            "description": "Stotfold",
-            "objectID": "c1c944fa5ecb5ac2fe4c20dcd7a72a28",
-            "ref": "stotfold-walking-route"
-        },
-        {
-            "description": "Arlesey",
-            "objectID": "b214ccde8a6ad3c0d9cb370546aa2b6f",
-            "ref": "arlesey-walking-route"
-        },
-        {
-            "description": "Ickleford",
-            "objectID": "b72139a03c4d062f936c155c036eb492",
-            "ref": "ickleford-river-and-nature-reserve-circular-walk-walking-route"
-        },
-        {
-            "description": "Henlow",
-            "objectID": "6e09c2e74beb16493a3f1891438dd4ed",
-            "ref": "henlow-walking-route"
-        },
-        {
-            "description": "Therfield",
-            "objectID": "e61a0ae486107cb4e920c7aea1bef9a5",
-            "ref": "therfield-walking-route"
-        },
-        {
-            "description": "Royston Heath",
-            "objectID": "7e8ba68945829e24f04d77f08b6b4852",
-            "ref": "royston-heath-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/092801b48d6901a60a64fc1a2ee41b7f.gpx",
-    "_geoloc": {
-        "lat": 51.9929007271,
-        "lng": -0.1883628882
+  "created_at": "2025-01-06T03:28:33.807938+00:00",
+  "objectID": "092801b48d6901a60a64fc1a2ee41b7f",
+  "ref": "baldock-walking-route",
+  "title": "Baldock Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sun_Street%2C_Baldock_-_geograph.org.uk_-_1168959.jpg",
+  "nearby": [
+    {
+      "description": "Hitchin",
+      "objectID": "5ca3b508e6a3512b04c71780d3fd92a9",
+      "ref": "hitchin-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sun_Street%2C_Baldock_-_geograph.org.uk_-_1168959.jpg",
-            "title": "Tim Marchant / Sun Street, Baldock",
-            "caption": "Sun Street, Baldock St Mary The Virgin Church in the distance and The Victoria public house to the right."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GOC_Radwell-Rivers_and_Meadows_004_Footbridge_%289815138636%29.jpg/500px-GOC_Radwell-Rivers_and_Meadows_004_Footbridge_%289815138636%29.jpg",
-            "title": "Peter O'Connor aka anemoneprojectors from Stevenage, United Kingdom / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-            "caption": "A small footbridge with long-horn cattle in Radwell Meadows."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Stotfold_Mill%2C_Mill_Lane_-_geograph.org.uk_-_159395.jpg",
-            "title": "Paul Redwood / Stotfold Mill, Mill Lane",
-            "caption": "Stotfold Mill, Mill Lane This watermill has been fully restored to working condition following a fire which almost destroyed the building in 1992. It has the UK's widest cornmill waterwheel and is a magnificent site to see."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Radwell_Lake%2C_River_Ivel%2C_Radwell.jpg/330px-Radwell_Lake%2C_River_Ivel%2C_Radwell.jpg",
-            "title": "AnemoneProjectors / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-            "caption": "Radwell Lake, River Ivel, Radwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Old_White_Horse_-_geograph.org.uk_-_1447918.jpg",
-            "title": "Mike W Hallett / The Old White Horse",
-            "caption": "The Old White Horse in Baldock. A public house at the junction of Station Road and White Horse Street, close to the railway station. Another public house, The Engine, is nearby."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Norton_Mill_-_geograph.org.uk_-_113851.jpg",
-            "title": "Robin Hall / Norton Mill",
-            "caption": "Norton Mill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GOC_Radwell-Rivers_and_Meadows_014_River_Ivel_%289855691043%29.jpg/500px-GOC_Radwell-Rivers_and_Meadows_014_River_Ivel_%289855691043%29.jpg",
-            "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Ivel, Radwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/River_Ivel_footbridge%2C_Radwell_%285603875151%29.jpg/500px-River_Ivel_footbridge%2C_Radwell_%285603875151%29.jpg",
-            "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Ivel footbridge, Radwell"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk from Baldock visits two pretty nature reserves along the River Ivel which flows through the area. The settlement is a historic market town with interesting architecture, including Georgian, Victorian and Edwardian buildings. There's also good transport links to London from the train station. For walkers there's a few decent waymarked trails and some nice riverside nature reserves to visit. The walk starts from Baldock train station where you can pick up the Kingfisher Way. Follow the waymarked footpath north and it will take you to the river at Norton Mill and Radwell Meadows Country Park. There's some interesting willow sculptures of the characters from the Wind in the Willows to be found here. It's a lovely spot with some nice footpaths, a picnic area and lots of birds and butterflies to look out for. After exploring the park the route continues north to Stotfold where you will pass a the lovely Stotfold Mill Nature Reserve. Here you'll find an old mill with plantings of native trees, hedges and a wildflower meadow. The site includes a one mile walk with a wide grass path which ambles through the meadows and along the riverside. There's also information panels which will tell you all about this pretty area. After exploring the reserve the route returns to Baldock train station on the same paths. You could extend the walk by continuing along the Kingfisher Way to Astwick and Church End.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Old White Horse for some refreshments after your walk. The pub does some fine artisan pizzas and also has a lovely beer garden to sit out in if the weather is good. You can find the pub at 1 Station Road, Baldock, with a postcode of SG7 5BS for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The area makes for a nice dog walk though you are asked to keep them on leads in the Stotfold Mill Nature Reserve. The Old White Horse mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Icknield Way Path and Hertfordshire Way pass close to the town and provide an opportunity for exploring the surrounding countryside on waymarked trails. You could follow the former for example west toward Letchworth and Hitchin where you can try the walk to the nearby Pegsdon Hills and visit the historic village of Ickleford. Just to the west of the Pegsdon Hills are two of the real highlights of the area at Barton Hills and Sharpenhoe Clappers. Barton Hills is a lovely nature reserve with downland, chalk grassland and beech woodland to explore.The popular chalk escarpment at Sharpenhoe Clappers includes and Iron Age Hillfort and views of the Smithcombe Hills. Head north and you could pick up the popular Biggleswade Green Wheel which explores the River Ivel and visits the Victorian Jordan's Mill and gardens. Just west of Stotfold you'll find the small town of Arlesey where you can explore the Arlesey Old Moat Nature Reserve on the River Hiz. Near here there's Henlow where there's a noteworthy 12th century church and the Champneys Health farm which is used by the rich and famous. Just to the east there's the pretty village of Therfield and the popular Royston Heath. The heath is well worth a vist with its fine viewpoint and interesting wildlife. The site also includes a decent on site cafe with outdoor seating overlooking the heath. For more walks in the county see the Hertfordshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Hm4uAAwtGMY?si=sQpwv5AfRIxqwPUf",
-    "postcode": "SG7 5BU",
-    "district": "North Hertfordshire",
-    "county": "Hertfordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Station Road, Clothall Common, Baldock, North Hertfordshire, Hertfordshire, England, SG7 5BU, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "grass"],
-    "points_of_interest": ["nature reserve", "historic town", "mill"],
-    "facilities": ["picnic area", "information panels", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Biggleswade",
+      "objectID": "e345d2a6fc45772b359c5c7e0edac2c8",
+      "ref": "biggleswade-walking-and-cycle-route"
+    },
+    {
+      "description": "Stotfold",
+      "objectID": "c1c944fa5ecb5ac2fe4c20dcd7a72a28",
+      "ref": "stotfold-walking-route"
+    },
+    {
+      "description": "Arlesey",
+      "objectID": "b214ccde8a6ad3c0d9cb370546aa2b6f",
+      "ref": "arlesey-walking-route"
+    },
+    {
+      "description": "Ickleford",
+      "objectID": "b72139a03c4d062f936c155c036eb492",
+      "ref": "ickleford-river-and-nature-reserve-circular-walk-walking-route"
+    },
+    {
+      "description": "Henlow",
+      "objectID": "6e09c2e74beb16493a3f1891438dd4ed",
+      "ref": "henlow-walking-route"
+    },
+    {
+      "description": "Therfield",
+      "objectID": "e61a0ae486107cb4e920c7aea1bef9a5",
+      "ref": "therfield-walking-route"
+    },
+    {
+      "description": "Royston Heath",
+      "objectID": "7e8ba68945829e24f04d77f08b6b4852",
+      "ref": "royston-heath-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/092801b48d6901a60a64fc1a2ee41b7f.gpx",
+  "_geoloc": {
+    "lat": 51.9929007271,
+    "lng": -0.1883628882
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sun_Street%2C_Baldock_-_geograph.org.uk_-_1168959.jpg",
+      "title": "Tim Marchant / Sun Street, Baldock",
+      "caption": "Sun Street, Baldock St Mary The Virgin Church in the distance and The Victoria public house to the right."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GOC_Radwell-Rivers_and_Meadows_004_Footbridge_%289815138636%29.jpg/500px-GOC_Radwell-Rivers_and_Meadows_004_Footbridge_%289815138636%29.jpg",
+      "title": "Peter O'Connor aka anemoneprojectors from Stevenage, United Kingdom / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+      "caption": "A small footbridge with long-horn cattle in Radwell Meadows."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Stotfold_Mill%2C_Mill_Lane_-_geograph.org.uk_-_159395.jpg",
+      "title": "Paul Redwood / Stotfold Mill, Mill Lane",
+      "caption": "Stotfold Mill, Mill Lane This watermill has been fully restored to working condition following a fire which almost destroyed the building in 1992. It has the UK's widest cornmill waterwheel and is a magnificent site to see."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Radwell_Lake%2C_River_Ivel%2C_Radwell.jpg/330px-Radwell_Lake%2C_River_Ivel%2C_Radwell.jpg",
+      "title": "AnemoneProjectors / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+      "caption": "Radwell Lake, River Ivel, Radwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Old_White_Horse_-_geograph.org.uk_-_1447918.jpg",
+      "title": "Mike W Hallett / The Old White Horse",
+      "caption": "The Old White Horse in Baldock. A public house at the junction of Station Road and White Horse Street, close to the railway station. Another public house, The Engine, is nearby."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Norton_Mill_-_geograph.org.uk_-_113851.jpg",
+      "title": "Robin Hall / Norton Mill",
+      "caption": "Norton Mill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GOC_Radwell-Rivers_and_Meadows_014_River_Ivel_%289855691043%29.jpg/500px-GOC_Radwell-Rivers_and_Meadows_014_River_Ivel_%289855691043%29.jpg",
+      "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Ivel, Radwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/River_Ivel_footbridge%2C_Radwell_%285603875151%29.jpg/500px-River_Ivel_footbridge%2C_Radwell_%285603875151%29.jpg",
+      "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Ivel footbridge, Radwell"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk from Baldock visits two pretty nature reserves along the River Ivel which flows through the area. The settlement is a historic market town with interesting architecture, including Georgian, Victorian and Edwardian buildings. There's also good transport links to London from the train station. For walkers there's a few decent waymarked trails and some nice riverside nature reserves to visit. The walk starts from Baldock train station where you can pick up the Kingfisher Way. Follow the waymarked footpath north and it will take you to the river at Norton Mill and Radwell Meadows Country Park. There's some interesting willow sculptures of the characters from the Wind in the Willows to be found here. It's a lovely spot with some nice footpaths, a picnic area and lots of birds and butterflies to look out for. After exploring the park the route continues north to Stotfold where you will pass a the lovely Stotfold Mill Nature Reserve. Here you'll find an old mill with plantings of native trees, hedges and a wildflower meadow. The site includes a one mile walk with a wide grass path which ambles through the meadows and along the riverside. There's also information panels which will tell you all about this pretty area. After exploring the reserve the route returns to Baldock train station on the same paths. You could extend the walk by continuing along the Kingfisher Way to Astwick and Church End.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Old White Horse for some refreshments after your walk. The pub does some fine artisan pizzas and also has a lovely beer garden to sit out in if the weather is good. You can find the pub at 1 Station Road, Baldock, with a postcode of SG7 5BS for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a nice dog walk though you are asked to keep them on leads in the Stotfold Mill Nature Reserve. The Old White Horse mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Icknield Way Path and Hertfordshire Way pass close to the town and provide an opportunity for exploring the surrounding countryside on waymarked trails. You could follow the former for example west toward Letchworth and Hitchin where you can try the walk to the nearby Pegsdon Hills and visit the historic village of Ickleford. Just to the west of the Pegsdon Hills are two of the real highlights of the area at Barton Hills and Sharpenhoe Clappers. Barton Hills is a lovely nature reserve with downland, chalk grassland and beech woodland to explore.The popular chalk escarpment at Sharpenhoe Clappers includes and Iron Age Hillfort and views of the Smithcombe Hills. Head north and you could pick up the popular Biggleswade Green Wheel which explores the River Ivel and visits the Victorian Jordan's Mill and gardens. Just west of Stotfold you'll find the small town of Arlesey where you can explore the Arlesey Old Moat Nature Reserve on the River Hiz. Near here there's Henlow where there's a noteworthy 12th century church and the Champneys Health farm which is used by the rich and famous. Just to the east there's the pretty village of Therfield and the popular Royston Heath. The heath is well worth a vist with its fine viewpoint and interesting wildlife. The site also includes a decent on site cafe with outdoor seating overlooking the heath. For more walks in the county see the Hertfordshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Hm4uAAwtGMY?si=sQpwv5AfRIxqwPUf",
+  "postcode": "SG7 5BU",
+  "district": "North Hertfordshire",
+  "county": "Hertfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Road, Clothall Common, Baldock, North Hertfordshire, Hertfordshire, England, SG7 5BU, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

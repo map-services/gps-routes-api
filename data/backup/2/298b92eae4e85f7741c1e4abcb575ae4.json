@@ -1,40 +1,53 @@
 {
-    "created_at": "2025-01-06T19:02:20.181305+00:00",
-    "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
-    "ref": "ballyalla-lake-walking-route",
-    "title": "Ballyalla Lake Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg/500px-Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg?20230426100729",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/298b92eae4e85f7741c1e4abcb575ae4.gpx",
-    "_geoloc": {
-        "lat": 52.87651,
-        "lng": -8.97028
-    },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg/500px-Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg?20230426100729",
-            "title": "Ballyallia Lough by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ballyallia Lough"
-        }
-    ],
-    "distance_km": 1.6,
-    "description": "This walk visits Ballyalla Lake, on the River Fergus, near the town of Ennis in County Clare. The lake includes a parking area on the south eastern side where you can pick up some pleasant walking trails along the lake. On the way you can enjoy some fine views across the water to the surrounding countryside. There are picnic areas and an information board where you can learn about the variety of birds that visit the site. You can also rent kayaks and go swimming in the warmer months. To continue your walking in the area you could try the Clareabbey River Walk. The trail takes you along the River Fergus with fine views of the ancient Augustinian monastery. There's also the Ennis River Fergus Walk in the nearby town of Ennis.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/jtXXd55ubmE?si=KepiiNPTQ7DyUoy6",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "L4162, Ennis Rural ED, Ennis Municipal District, County Clare, Munster, V95 H99H, \u00c9ire / Ireland",
-    "postcode": "V95 H99H",
-    "district": null,
-    "county": "County Clare",
-    "region": null,
-    "state": null,
-    "country": "\u00c9ire / Ireland",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["lake", "river"],
-    "points_of_interest": ["viewpoint", "monastery", "information board"],
-    "facilities": ["car park", "picnic area", "visitor center"],
-    "route_type": "out and back",
-    "activities": ["walking", "swimming", "kayaking"]
+  "created_at": "2025-01-06T19:02:20.181305+00:00",
+  "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
+  "ref": "ballyalla-lake-walking-route",
+  "title": "Ballyalla Lake Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg/500px-Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg?20230426100729",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/298b92eae4e85f7741c1e4abcb575ae4.gpx",
+  "_geoloc": {
+    "lat": 52.87651,
+    "lng": -8.97028
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg/500px-Ballyallia_Lough_-_geograph.org.uk_-_4677456.jpg?20230426100729",
+      "title": "Ballyallia Lough by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ballyallia Lough"
+    }
+  ],
+  "distance_km": 1.6,
+  "description": "This walk visits Ballyalla Lake, on the River Fergus, near the town of Ennis in County Clare. The lake includes a parking area on the south eastern side where you can pick up some pleasant walking trails along the lake. On the way you can enjoy some fine views across the water to the surrounding countryside. There are picnic areas and an information board where you can learn about the variety of birds that visit the site. You can also rent kayaks and go swimming in the warmer months. To continue your walking in the area you could try the Clareabbey River Walk. The trail takes you along the River Fergus with fine views of the ancient Augustinian monastery. There's also the Ennis River Fergus Walk in the nearby town of Ennis.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/jtXXd55ubmE?si=KepiiNPTQ7DyUoy6",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "L4162, Ennis Rural ED, Ennis Municipal District, County Clare, Munster, V95 H99H, \u00c9ire / Ireland",
+  "postcode": "V95 H99H",
+  "district": null,
+  "county": "County Clare",
+  "region": null,
+  "state": null,
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "lake",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "kayaking",
+    "swimming"
+  ]
 }

@@ -147,11 +147,16 @@
     "display_address": "50, South Street, Fairfield, Farnham, Waverley, Surrey, England, GU9 7RN, United Kingdom",
     "state": "England",
     "llama_cpp": true,
-    "estimated_duration": "half day",
+    "estimated_duration": null,
     "difficulty": "moderate",
-    "terrain": ["woodland", "rural"],
-    "points_of_interest": ["towns", "historic site"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
+    "terrain": ["countryside"],
+    "points_of_interest": [
+        "historic city",
+        "area of outstanding natural beauty",
+        "historic site",
+        "church"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
     "activities": ["walking"]
 }

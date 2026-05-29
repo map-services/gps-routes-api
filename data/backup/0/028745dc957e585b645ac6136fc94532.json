@@ -1,151 +1,137 @@
 {
-  "created_at": "2025-01-05T23:37:55.994643+00:00",
-  "objectID": "028745dc957e585b645ac6136fc94532",
-  "ref": "st-cuthberts-way-walking-route",
-  "title": "St Cuthbert's Way Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St_Cuthbert%27s_Way_looking_east_towards_Cessford_-_geograph.org.uk_-_65113.jpg",
-  "nearby": [
-    {
-      "description": "Lindisfarne Castle and Holy Island",
-      "objectID": "d9778a9c6d7b96c0f826bf92f668687b",
-      "ref": "lindisfarne-castle-and-holy-island-walking-route"
+    "created_at": "2025-01-05T23:37:55.994643+00:00",
+    "objectID": "028745dc957e585b645ac6136fc94532",
+    "ref": "st-cuthberts-way-walking-route",
+    "title": "St Cuthbert's Way Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St_Cuthbert%27s_Way_looking_east_towards_Cessford_-_geograph.org.uk_-_65113.jpg",
+    "nearby": [
+        {
+            "description": "Lindisfarne Castle and Holy Island",
+            "objectID": "d9778a9c6d7b96c0f826bf92f668687b",
+            "ref": "lindisfarne-castle-and-holy-island-walking-route"
+        },
+        {
+            "description": "Yeavering Bell",
+            "objectID": "b9d1e627fb8a175b69cb19063d3c7349",
+            "ref": "yeavering-bell-walking-route"
+        },
+        {
+            "description": "Humbleton Hill",
+            "objectID": "47a0cd4f40213d6a3c7166c15a44ada8",
+            "ref": "humbleton-hill-walking-route"
+        },
+        {
+            "description": "Wooler Common",
+            "objectID": "46c94bc7e88fd3c3e8a18ed615016024",
+            "ref": "wooler-common-walking-route"
+        },
+        {
+            "description": "St Cuthberts Cave",
+            "objectID": "8316de030453ffe26b8a7caee1cab219",
+            "ref": "st-cuthberts-cave-walking-route"
+        },
+        {
+            "description": "Hethpool Linn",
+            "objectID": "928338828604b6c2629fff21b702806b",
+            "ref": "hethpool-linn-walking-route"
+        },
+        {
+            "description": "Kyloe Woods",
+            "objectID": "b9919f5995b901b07339adaafcc402d6",
+            "ref": "kyloe-woods-walking-route"
+        },
+        {
+            "description": "Melrose",
+            "objectID": "e6d58ca277cf4b0a8fa7793b46255c0d",
+            "ref": "melrose-walking-route"
+        },
+        {
+            "description": "Jedburgh",
+            "objectID": "e2d64061a17dfc341418f86a38d7ec51",
+            "ref": "jedburgh-walking-route"
+        },
+        {
+            "description": "Northumberland Coast Path",
+            "objectID": "11f1b757a397cda8baec6f492999a366",
+            "ref": "northumberland-coast-path-walking-route"
+        },
+        {
+            "description": "Fatlips Castle",
+            "objectID": "5839f0c3ddd66214350334a3890616cf",
+            "ref": "fatlips-castle-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/028745dc957e585b645ac6136fc94532.gpx",
+    "_geoloc": {
+        "lat": 55.5988366293,
+        "lng": -2.7188670941
     },
-    {
-      "description": "Yeavering Bell",
-      "objectID": "b9d1e627fb8a175b69cb19063d3c7349",
-      "ref": "yeavering-bell-walking-route"
-    },
-    {
-      "description": "Humbleton Hill",
-      "objectID": "47a0cd4f40213d6a3c7166c15a44ada8",
-      "ref": "humbleton-hill-walking-route"
-    },
-    {
-      "description": "Wooler Common",
-      "objectID": "46c94bc7e88fd3c3e8a18ed615016024",
-      "ref": "wooler-common-walking-route"
-    },
-    {
-      "description": "St Cuthberts Cave",
-      "objectID": "8316de030453ffe26b8a7caee1cab219",
-      "ref": "st-cuthberts-cave-walking-route"
-    },
-    {
-      "description": "Hethpool Linn",
-      "objectID": "928338828604b6c2629fff21b702806b",
-      "ref": "hethpool-linn-walking-route"
-    },
-    {
-      "description": "Kyloe Woods",
-      "objectID": "b9919f5995b901b07339adaafcc402d6",
-      "ref": "kyloe-woods-walking-route"
-    },
-    {
-      "description": "Melrose",
-      "objectID": "e6d58ca277cf4b0a8fa7793b46255c0d",
-      "ref": "melrose-walking-route"
-    },
-    {
-      "description": "Jedburgh",
-      "objectID": "e2d64061a17dfc341418f86a38d7ec51",
-      "ref": "jedburgh-walking-route"
-    },
-    {
-      "description": "Northumberland Coast Path",
-      "objectID": "11f1b757a397cda8baec6f492999a366",
-      "ref": "northumberland-coast-path-walking-route"
-    },
-    {
-      "description": "Fatlips Castle",
-      "objectID": "5839f0c3ddd66214350334a3890616cf",
-      "ref": "fatlips-castle-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/028745dc957e585b645ac6136fc94532.gpx",
-  "_geoloc": {
-    "lat": 55.5988366293,
-    "lng": -2.7188670941
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St_Cuthbert%27s_Way_looking_east_towards_Cessford_-_geograph.org.uk_-_65113.jpg",
-      "title": "Pip Rolls / St Cuthbert's Way looking east towards Cessford",
-      "caption": "Looking east towards Cessford. Cessford is a small hamlet with an old castle that can be seen to the left of the end of the track."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/St_Cuthbert%27s_Way%2C_looking_up_Crookedshaws_Hill_-_geograph.org.uk_-_65119.jpg",
-      "title": "Pip Rolls / St Cuthbert's Way, looking up Crookedshaws Hill",
-      "caption": "St Cuthbert's Way, looking up Crookedshaws Hill. Located near Town Yetholm in the Scottish Borders in the valley of the Bowmont Water opposite Kirk Yetholm. This is a pleasant grassy climb but the top of Wideopen Hill, the highest point, hides behind a number of false tops."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/St_Cuthbert%27s_Way%2C_Wooler_-_geograph.org.uk_-_1078107.jpg",
-      "title": "michael ely / St Cuthbert's Way, Wooler",
-      "caption": "Wooler. The Terrace Cafe is well placed to serve pilgrims on St Cuthbert's Way long distance path. There are several other cafes in the town that look equally inviting. They do an excellent full English breakfast and are also dog friendly. It's located at 18 Market Place, Wooler, NE71 6LQ."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Cuthbert%27s_Way_near_Fawcet_Hill_-_geograph.org.uk_-_1750801.jpg/500px-St_Cuthbert%27s_Way_near_Fawcet_Hill_-_geograph.org.uk_-_1750801.jpg",
-      "title": "Dave Dunford / St Cuthbert's Way near Fawcet Hill",
-      "caption": "Near Fawcet Hill. Looking back west from junction of footpath to Virgin Hill, with Greensheen Hill in the background."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/St_Cuthbert%27s_Way._Bridge_across_Kale_Water_-_geograph.org.uk_-_65122.jpg",
-      "title": "Pip Rolls / St Cuthbert's Way. Bridge across Kale Water",
-      "caption": "St Cuthbert's Way. Bridge across Kale Water"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Weetwood_Bank_from_the_St_Cuthberts_Way_-_geograph.org.uk_-_828008.jpg",
-      "title": "Iain Lees / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-      "caption": "Weetwood Bank from the St Cuthberts Way"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/St_Cuthberts_Way_-_geograph.org.uk_-_1407846.jpg",
-      "title": "Iain Russell / St Cuthberts Way",
-      "caption": "Section of the St Cuthberts Way footpath as it leads up to the base of Eildon Hill North."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Scotland_England_Border_on_St_Cuthberts_Way_-_geograph.org.uk_-_138141.jpg",
-      "title": "Brian Turner / Scotland England Border on St Cuthberts Way",
-      "caption": "Scotland England Border on St Cuthberts Way"
-    }
-  ],
-  "distance_km": 101.0,
-  "description": "This walk runs from Melrose in the Scottish Borders to Lindisfarne Castle and Holy Island. The route is typically walked from west to east in four stages: Melrose to Harestanes - this section takes in Melrose Abbey, the River Tweed and the Eildon Hills before coming to the 18th century Monteviot House on the River Teviot at Harestanes. Harestanes to Yetholm - a challenging section taking you to the highest and midway point of the route at the summit of Wideopen Hill. The section also passes through Cessford Moor and past Cessford Castle before reaching Town Yetholm on Bowmont Water. Yetholm to Wooler - a wide open section which takes you into Northumberland National Park and has terrific views of the Cheviot Hills. You'll climb Yeavering Bell hill near Wooler where you can find the largest Iron Age hillfort in the region. There's also some attractive woodland at Wooler Common, the photogenic Hethpool Linn waterfall in the College Valley and views of Humbleton Hill where there is another hillfort to see. Wooler to Lindisfarne - the final section passing Doddington Moor and Buckton Moor before finishing on Holy Island. On the way you'll also pass St Cuthbert's Cave. The monks of Lindisfarne reputedly brought St. Cuthbert's body to the site in AD875 following Viking raids on the Island. Near the cave the trail also skirts the eastern edge of Kyloe Woods where there are peaceful woodland trails and some notable rock climbing cliffs with some of the toughest climbs in the UK. The walk is waymarked with a cross on a white disc.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Part of the route is coincident with the Northumberland Coast Path which takes you to Berwick, visiting several of the area's historic castles on the way. Near Jedburgh you will pass Harestanes where you can climb to the Waterloo Monument on Peniel Heugh hill and enjoy some fine views of the area. The Georgian Monteviot House and Gardens is also located in this area. Just to the south west of Harestanes there's Fatlips Castle where you can enjoy a climb to a splendid 16th century peel tower and enjoy wonderful views over Teviotdale."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/myq3mv_8wXo",
-  "district": "Melrose",
-  "county": "Scottish Borders",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Melrose Abbey, Buccleuch Street, Dingleton, Melrose, Scottish Borders, Alba / Scotland, TD6 9LB, United Kingdom",
-  "postcode": "TD6 9LB",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "moorland",
-    "hill"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "hillfort",
-    "waterfall",
-    "cave"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St_Cuthbert%27s_Way_looking_east_towards_Cessford_-_geograph.org.uk_-_65113.jpg",
+            "title": "Pip Rolls / St Cuthbert's Way looking east towards Cessford",
+            "caption": "Looking east towards Cessford. Cessford is a small hamlet with an old castle that can be seen to the left of the end of the track."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/St_Cuthbert%27s_Way%2C_looking_up_Crookedshaws_Hill_-_geograph.org.uk_-_65119.jpg",
+            "title": "Pip Rolls / St Cuthbert's Way, looking up Crookedshaws Hill",
+            "caption": "St Cuthbert's Way, looking up Crookedshaws Hill. Located near Town Yetholm in the Scottish Borders in the valley of the Bowmont Water opposite Kirk Yetholm. This is a pleasant grassy climb but the top of Wideopen Hill, the highest point, hides behind a number of false tops."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/St_Cuthbert%27s_Way%2C_Wooler_-_geograph.org.uk_-_1078107.jpg",
+            "title": "michael ely / St Cuthbert's Way, Wooler",
+            "caption": "Wooler. The Terrace Cafe is well placed to serve pilgrims on St Cuthbert's Way long distance path. There are several other cafes in the town that look equally inviting. They do an excellent full English breakfast and are also dog friendly. It's located at 18 Market Place, Wooler, NE71 6LQ."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Cuthbert%27s_Way_near_Fawcet_Hill_-_geograph.org.uk_-_1750801.jpg/500px-St_Cuthbert%27s_Way_near_Fawcet_Hill_-_geograph.org.uk_-_1750801.jpg",
+            "title": "Dave Dunford / St Cuthbert's Way near Fawcet Hill",
+            "caption": "Near Fawcet Hill. Looking back west from junction of footpath to Virgin Hill, with Greensheen Hill in the background."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/St_Cuthbert%27s_Way._Bridge_across_Kale_Water_-_geograph.org.uk_-_65122.jpg",
+            "title": "Pip Rolls / St Cuthbert's Way. Bridge across Kale Water",
+            "caption": "St Cuthbert's Way. Bridge across Kale Water"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Weetwood_Bank_from_the_St_Cuthberts_Way_-_geograph.org.uk_-_828008.jpg",
+            "title": "Iain Lees / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+            "caption": "Weetwood Bank from the St Cuthberts Way"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/St_Cuthberts_Way_-_geograph.org.uk_-_1407846.jpg",
+            "title": "Iain Russell / St Cuthberts Way",
+            "caption": "Section of the St Cuthberts Way footpath as it leads up to the base of Eildon Hill North."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Scotland_England_Border_on_St_Cuthberts_Way_-_geograph.org.uk_-_138141.jpg",
+            "title": "Brian Turner / Scotland England Border on St Cuthberts Way",
+            "caption": "Scotland England Border on St Cuthberts Way"
+        }
+    ],
+    "distance_km": 101.0,
+    "description": "This walk runs from Melrose in the Scottish Borders to Lindisfarne Castle and Holy Island. The route is typically walked from west to east in four stages: Melrose to Harestanes - this section takes in Melrose Abbey, the River Tweed and the Eildon Hills before coming to the 18th century Monteviot House on the River Teviot at Harestanes. Harestanes to Yetholm - a challenging section taking you to the highest and midway point of the route at the summit of Wideopen Hill. The section also passes through Cessford Moor and past Cessford Castle before reaching Town Yetholm on Bowmont Water. Yetholm to Wooler - a wide open section which takes you into Northumberland National Park and has terrific views of the Cheviot Hills. You'll climb Yeavering Bell hill near Wooler where you can find the largest Iron Age hillfort in the region. There's also some attractive woodland at Wooler Common, the photogenic Hethpool Linn waterfall in the College Valley and views of Humbleton Hill where there is another hillfort to see. Wooler to Lindisfarne - the final section passing Doddington Moor and Buckton Moor before finishing on Holy Island. On the way you'll also pass St Cuthbert's Cave. The monks of Lindisfarne reputedly brought St. Cuthbert's body to the site in AD875 following Viking raids on the Island. Near the cave the trail also skirts the eastern edge of Kyloe Woods where there are peaceful woodland trails and some notable rock climbing cliffs with some of the toughest climbs in the UK. The walk is waymarked with a cross on a white disc.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Part of the route is coincident with the Northumberland Coast Path which takes you to Berwick, visiting several of the area's historic castles on the way. Near Jedburgh you will pass Harestanes where you can climb to the Waterloo Monument on Peniel Heugh hill and enjoy some fine views of the area. The Georgian Monteviot House and Gardens is also located in this area. Just to the south west of Harestanes there's Fatlips Castle where you can enjoy a climb to a splendid 16th century peel tower and enjoy wonderful views over Teviotdale."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/myq3mv_8wXo",
+    "district": "Melrose",
+    "county": "Scottish Borders",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Melrose Abbey, Buccleuch Street, Dingleton, Melrose, Scottish Borders, Alba / Scotland, TD6 9LB, United Kingdom",
+    "postcode": "TD6 9LB",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "multiple days",
+    "difficulty": "moderate",
+    "terrain": ["woodland", "moorland"],
+    "points_of_interest": ["abbey", "castle", "hillfort", "cave", "waterfall"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking", "rock climbing"]
 }

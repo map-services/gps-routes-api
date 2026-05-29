@@ -1,130 +1,146 @@
 {
-    "created_at": "2025-01-06T02:29:28.945872+00:00",
-    "objectID": "a1d035ea0ae8398d3ece63772ef8ab52",
-    "ref": "druridge-bay-country-park-walking-and-cycle-route",
-    "title": "Druridge Bay Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sand%2C_Shingle_and_Dunes%2C_Druridge_Bay%2C_Northumberland_-_geograph.org.uk_-_358855.jpg",
-    "nearby": [
-        {
-            "description": "Warkworth River Walk",
-            "objectID": "efdc8dd8b2579b60b27936f5c0d140be",
-            "ref": "warkworth-river-walk-walking-route"
-        },
-        {
-            "description": "Warkworth to Alnmouth",
-            "objectID": "c0dd7d88f95af26b9e8e41a03354632d",
-            "ref": "warkworth-to-alnmouth-walking-route"
-        },
-        {
-            "description": "Amble to Warkworth Walk",
-            "objectID": "db303636f18e99f777857d1c98491ad4",
-            "ref": "amble-to-warkworth-walk-walking-route"
-        },
-        {
-            "description": "Newbiggin By the Sea",
-            "objectID": "2151ff21f44b5416192145304cdf62e4",
-            "ref": "newbiggin-by-the-sea-walking-route"
-        },
-        {
-            "description": "Druridge Bay to Amble Walk",
-            "objectID": "f3b7c6444426d59a66e052f72b704277",
-            "ref": "druridge-bay-to-amble-walk-walking-route"
-        },
-        {
-            "description": "Northumberland Coast Path",
-            "objectID": "11f1b757a397cda8baec6f492999a366",
-            "ref": "northumberland-coast-path-walking-route"
-        },
-        {
-            "description": "Cresswell to Druridge Bay Walk",
-            "objectID": "efd4db6c59aaaf6afb0246a7f12033f3",
-            "ref": "cresswell-to-druridge-bay-walk-walking-route"
-        },
-        {
-            "description": "Hauxley Nature Reserve",
-            "objectID": "119f9acc73d904ea4a2cb829293be491",
-            "ref": "hauxley-nature-reserve-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a1d035ea0ae8398d3ece63772ef8ab52.gpx",
-    "_geoloc": {
-        "lat": 55.2942806749,
-        "lng": -1.590490055
+  "created_at": "2025-01-06T02:29:28.945872+00:00",
+  "objectID": "a1d035ea0ae8398d3ece63772ef8ab52",
+  "ref": "druridge-bay-country-park-walking-and-cycle-route",
+  "title": "Druridge Bay Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sand%2C_Shingle_and_Dunes%2C_Druridge_Bay%2C_Northumberland_-_geograph.org.uk_-_358855.jpg",
+  "nearby": [
+    {
+      "description": "Warkworth River Walk",
+      "objectID": "efdc8dd8b2579b60b27936f5c0d140be",
+      "ref": "warkworth-river-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sand%2C_Shingle_and_Dunes%2C_Druridge_Bay%2C_Northumberland_-_geograph.org.uk_-_358855.jpg",
-            "title": "michael ely / Sand, Shingle and Dunes, Druridge Bay, Northumberland",
-            "caption": "Sand, Shingle and Dunes, Druridge Bay, Northumberland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Druridge_Bay%2C_Bondi_Carrs_-_geograph.org.uk_-_2580821.jpg/500px-Druridge_Bay%2C_Bondi_Carrs_-_geograph.org.uk_-_2580821.jpg",
-            "title": "Druridge Bay: Bondi Carrs by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Druridge Bay, Bondi Carrs"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Water_Outlet_on_Druridge_Bay_-_geograph.org.uk_-_1193587.jpg",
-            "title": "Chris Heaton / Water Outlet on Druridge Bay",
-            "caption": "Water Outlet. A stream runs out of a lagoon behind the dunes, across the beach out to the North Sea. The swathe of black deposits in the foreground appears to be coal dust."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Druridge_Bay_-_geograph.org.uk_-_24379.jpg",
-            "title": "Christine Westerback / Druridge Bay",
-            "caption": "A long expanse of golden sands."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Druridge_Bay_Country_Park_-_geograph.org.uk_-_358850.jpg",
-            "title": "michael ely / Druridge Bay Country Park",
-            "caption": "Here we are close to the Visitor Centre where there is a link path to the main Sustrans National Cycle Network Route 1 along the coast."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druridge_Bay_Nature_Reserve_-_geograph.org.uk_-_958476.jpg",
-            "title": "Antonia / Druridge Bay Nature Reserve",
-            "caption": "Looking towards Chibburn Chapel and surrounding countryside."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coast_and_Castles_route_at_Druridge_Bay_-_geograph.org.uk_-_2518679.jpg",
-            "title": "Coast and Castles route at Druridge Bay by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Coast and Castles route at Druridge Bay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Druridge_Links_-_geograph.org.uk_-_149561.jpg",
-            "title": "Mick Garratt / Druridge Links",
-            "caption": "Druridge Links. Taken from a small knoll behind the dunes moment before a hail storm hit"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This beautiful country park on the Northumberland coast consists of three miles of beach and sand dunes, a large freshwater lake, peaceful woodland and meadows. The coastline is simply stunning with a lovely cycling and walking path running alongside the beach. You could continue your outing by following the coast north towards Amble with views of Coquet Island, or head south to Newbiggin-By-The-Sea. There are several nature reserves in the area so there are plenty of opportunities for bird watching too. This includes the adjacent Hauxley Nature Reserve which is considered to be one of the best bird watching sites in the north east. The park is located near the popular village of Warkworth where you can enjoy a visit to the medieval castle and stroll along the River Coquet on our Warkworth River Walk. You could also pick up the coastal path on the Warkworth to Alnmouth Walk. In Amble you can try the Amble to Warkworth Walk which takes you around the harbour and marina in the town. The Druridge Bay to Amble Walk starts from the park and takes you to Amble on a popular 4 mile stretch of the Northumberland Coast Path .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a good on site cafe located in a lovely position at Ladyburn Lake."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The bay is a great place for dog walking so you'll probably see other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To extend your walking in the area head to the nearby town of Newbiggin By the Sea. There's some nice trails along the beach and bay with a noteworthy 13th century church and an interesting old 17th century pub to visit too. For more walking ideas in the area see the Northumberland Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/s8hv335W1U4",
-    "district": "Hadston",
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "East Chevington, Hadston, Northumberland, North East, England, NE61 5BX, United Kingdom",
-    "postcode": "NE61 5BX",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["beach", "sand dunes", "woodland", "meadow"],
-    "points_of_interest": ["nature reserves", "river", "castle"],
-    "facilities": ["visitor center", "car park", "pub/cafe", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling", "bird watching"]
+    {
+      "description": "Warkworth to Alnmouth",
+      "objectID": "c0dd7d88f95af26b9e8e41a03354632d",
+      "ref": "warkworth-to-alnmouth-walking-route"
+    },
+    {
+      "description": "Amble to Warkworth Walk",
+      "objectID": "db303636f18e99f777857d1c98491ad4",
+      "ref": "amble-to-warkworth-walk-walking-route"
+    },
+    {
+      "description": "Newbiggin By the Sea",
+      "objectID": "2151ff21f44b5416192145304cdf62e4",
+      "ref": "newbiggin-by-the-sea-walking-route"
+    },
+    {
+      "description": "Druridge Bay to Amble Walk",
+      "objectID": "f3b7c6444426d59a66e052f72b704277",
+      "ref": "druridge-bay-to-amble-walk-walking-route"
+    },
+    {
+      "description": "Northumberland Coast Path",
+      "objectID": "11f1b757a397cda8baec6f492999a366",
+      "ref": "northumberland-coast-path-walking-route"
+    },
+    {
+      "description": "Cresswell to Druridge Bay Walk",
+      "objectID": "efd4db6c59aaaf6afb0246a7f12033f3",
+      "ref": "cresswell-to-druridge-bay-walk-walking-route"
+    },
+    {
+      "description": "Hauxley Nature Reserve",
+      "objectID": "119f9acc73d904ea4a2cb829293be491",
+      "ref": "hauxley-nature-reserve-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a1d035ea0ae8398d3ece63772ef8ab52.gpx",
+  "_geoloc": {
+    "lat": 55.2942806749,
+    "lng": -1.590490055
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sand%2C_Shingle_and_Dunes%2C_Druridge_Bay%2C_Northumberland_-_geograph.org.uk_-_358855.jpg",
+      "title": "michael ely / Sand, Shingle and Dunes, Druridge Bay, Northumberland",
+      "caption": "Sand, Shingle and Dunes, Druridge Bay, Northumberland"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Druridge_Bay%2C_Bondi_Carrs_-_geograph.org.uk_-_2580821.jpg/500px-Druridge_Bay%2C_Bondi_Carrs_-_geograph.org.uk_-_2580821.jpg",
+      "title": "Druridge Bay: Bondi Carrs by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Druridge Bay, Bondi Carrs"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Water_Outlet_on_Druridge_Bay_-_geograph.org.uk_-_1193587.jpg",
+      "title": "Chris Heaton / Water Outlet on Druridge Bay",
+      "caption": "Water Outlet. A stream runs out of a lagoon behind the dunes, across the beach out to the North Sea. The swathe of black deposits in the foreground appears to be coal dust."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Druridge_Bay_-_geograph.org.uk_-_24379.jpg",
+      "title": "Christine Westerback / Druridge Bay",
+      "caption": "A long expanse of golden sands."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Druridge_Bay_Country_Park_-_geograph.org.uk_-_358850.jpg",
+      "title": "michael ely / Druridge Bay Country Park",
+      "caption": "Here we are close to the Visitor Centre where there is a link path to the main Sustrans National Cycle Network Route 1 along the coast."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druridge_Bay_Nature_Reserve_-_geograph.org.uk_-_958476.jpg",
+      "title": "Antonia / Druridge Bay Nature Reserve",
+      "caption": "Looking towards Chibburn Chapel and surrounding countryside."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coast_and_Castles_route_at_Druridge_Bay_-_geograph.org.uk_-_2518679.jpg",
+      "title": "Coast and Castles route at Druridge Bay by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Coast and Castles route at Druridge Bay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Druridge_Links_-_geograph.org.uk_-_149561.jpg",
+      "title": "Mick Garratt / Druridge Links",
+      "caption": "Druridge Links. Taken from a small knoll behind the dunes moment before a hail storm hit"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This beautiful country park on the Northumberland coast consists of three miles of beach and sand dunes, a large freshwater lake, peaceful woodland and meadows. The coastline is simply stunning with a lovely cycling and walking path running alongside the beach. You could continue your outing by following the coast north towards Amble with views of Coquet Island, or head south to Newbiggin-By-The-Sea. There are several nature reserves in the area so there are plenty of opportunities for bird watching too. This includes the adjacent Hauxley Nature Reserve which is considered to be one of the best bird watching sites in the north east. The park is located near the popular village of Warkworth where you can enjoy a visit to the medieval castle and stroll along the River Coquet on our Warkworth River Walk. You could also pick up the coastal path on the Warkworth to Alnmouth Walk. In Amble you can try the Amble to Warkworth Walk which takes you around the harbour and marina in the town. The Druridge Bay to Amble Walk starts from the park and takes you to Amble on a popular 4 mile stretch of the Northumberland Coast Path .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe located in a lovely position at Ladyburn Lake."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The bay is a great place for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To extend your walking in the area head to the nearby town of Newbiggin By the Sea. There's some nice trails along the beach and bay with a noteworthy 13th century church and an interesting old 17th century pub to visit too. For more walking ideas in the area see the Northumberland Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/s8hv335W1U4",
+  "district": "Hadston",
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "East Chevington, Hadston, Northumberland, North East, England, NE61 5BX, United Kingdom",
+  "postcode": "NE61 5BX",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "sand dune",
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling",
+    "bird watching",
+    "dog walking"
+  ]
 }

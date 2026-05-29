@@ -1,102 +1,110 @@
 {
-    "created_at": "2025-01-05T23:53:56.693195+00:00",
-    "objectID": "a9ec4384bf048948a7e7a22659aaafe6",
-    "ref": "aberfeldy-to-kenmore-riverside-walk",
-    "title": "Aberfeldy to Kenmore Riverside Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg/500px-Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg",
-    "nearby": [
-        {
-            "description": "Birks of Aberfeldy",
-            "objectID": "86f3996c3d0065676730f0efb21e52bd",
-            "ref": "birks-of-aberfeldy-walking-route"
-        },
-        {
-            "description": "Loch Tay",
-            "objectID": "8a6090959fc4a31c4e512a71e3148499",
-            "ref": "loch-tay-walking-route"
-        },
-        {
-            "description": "Falls Of Acharn",
-            "objectID": "f91f106dc87daf0c3200d71e31e177e4",
-            "ref": "falls-of-acharn-walking-route"
-        },
-        {
-            "description": "Deil's Cauldron",
-            "objectID": "0d9674570030ba2b66e7e0a6cf73faa3",
-            "ref": "deils-cauldron-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a9ec4384bf048948a7e7a22659aaafe6.gpx",
-    "_geoloc": {
-        "lat": 56.6211590047,
-        "lng": -3.8717987211
+  "created_at": "2025-01-05T23:53:56.693195+00:00",
+  "objectID": "a9ec4384bf048948a7e7a22659aaafe6",
+  "ref": "aberfeldy-to-kenmore-riverside-walk",
+  "title": "Aberfeldy to Kenmore Riverside Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg/500px-Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg",
+  "nearby": [
+    {
+      "description": "Birks of Aberfeldy",
+      "objectID": "86f3996c3d0065676730f0efb21e52bd",
+      "ref": "birks-of-aberfeldy-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg/500px-Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg",
-            "title": "Tay Bridge, Aberfeldy by Euan Nelson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Tay Bridge, Aberfeldy"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/View_across_the_River_Tay_-_geograph.org.uk_-_1956347.jpg",
-            "title": "View across the River Tay by C Michael Hogan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View across the River Tay west of Aberfeldy"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/River_Lyon_in_autumn_-_geograph.org.uk_-_1544360.jpg",
-            "title": "Lis Burke / River Lyon in autumn",
-            "caption": "River Lyon in autumn. Looking downstream from the road bridge towards its confluence with the Tay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Looking_across_Comrie_Bridge_-_geograph.org.uk_-_2672291.jpg/500px-Looking_across_Comrie_Bridge_-_geograph.org.uk_-_2672291.jpg",
-            "title": "Looking across Comrie Bridge by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking across Comrie Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Comrie_Castle_-_geograph.org.uk_-_1240851.jpg/330px-Comrie_Castle_-_geograph.org.uk_-_1240851.jpg",
-            "title": "Gordon Hatton / Comrie Castle",
-            "caption": "Comrie Castle. A 16th century tower house built for the Menzies family and last occupied in 1748."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Taymouth_Castle_-_geograph.org.uk_-_3144832.jpg/500px-Taymouth_Castle_-_geograph.org.uk_-_3144832.jpg",
-            "title": "Taymouth Castle by Jo Turner, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Taymouth Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenmore_Bridge_at_the_mouth_of_Loch_Tay_-_geograph.org.uk_-_2068365.jpg",
-            "title": "Kenmore Bridge at the mouth of Loch Tay by Matthew Bristow, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Kenmore Bridge at the mouth of Loch Tay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/River_Tay%2C_Kenmore_-_geograph.org.uk_-_2170708.jpg/500px-River_Tay%2C_Kenmore_-_geograph.org.uk_-_2170708.jpg",
-            "title": "River Tay, Kenmore by wfmillar, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Tay, Kenmore"
-        }
-    ],
-    "distance_km": 13.0,
-    "description": "This walk takes you from Aberfeldy to Kenmore along the River Tay and the River Lyon. The route runs for about 8 miles along a steadily rising path. Along the way there are some wonderful views of the surrounding hills and two historic castles to admire. Start the walk on the Tay Bridge in Aberfeldy where you can cross to the northern side of the Tay. You can then pick up the riverside footpath heading west to Callwood Cottage and the ruins of Comrie Castle. Here you cross to the south at point where the Tay meets with Lyon at the Strath of Appin. Follow paths south along the Tay and they will lead you to Kenmore, passing Taymouth Castle on the way. In Kenmore you can enjoy splendid views over Loch Tay at the point where the river enters the loch. To continue your walking in the area visit the Birks of Aberfeldy. It's a delightful place with a shady gorge and lots of pretty waterfalls to see.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Near Kenmore there's the delightful Falls Of Acharn to visit. The scenic spot includes a Victorian 'Hermit's Cave' and some great views back to Ben Lawers from Acharn village."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/eiCcUHeZBsM",
-    "postcode": "PH15 2BS",
-    "district": "Aberfeldy",
-    "county": "Perth and Kinross",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lawyers View, Tay Bridge Terrace, Moness Country Club, Aberfeldy, Perth and Kinross, Alba / Scotland, PH15 2BS, United Kingdom",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "hill"],
-    "points_of_interest": ["castles", "waterfall"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Loch Tay",
+      "objectID": "8a6090959fc4a31c4e512a71e3148499",
+      "ref": "loch-tay-walking-route"
+    },
+    {
+      "description": "Falls Of Acharn",
+      "objectID": "f91f106dc87daf0c3200d71e31e177e4",
+      "ref": "falls-of-acharn-walking-route"
+    },
+    {
+      "description": "Deil's Cauldron",
+      "objectID": "0d9674570030ba2b66e7e0a6cf73faa3",
+      "ref": "deils-cauldron-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a9ec4384bf048948a7e7a22659aaafe6.gpx",
+  "_geoloc": {
+    "lat": 56.6211590047,
+    "lng": -3.8717987211
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg/500px-Tay_Bridge%2C_Aberfeldy_-_geograph.org.uk_-_2532846.jpg",
+      "title": "Tay Bridge, Aberfeldy by Euan Nelson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tay Bridge, Aberfeldy"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/View_across_the_River_Tay_-_geograph.org.uk_-_1956347.jpg",
+      "title": "View across the River Tay by C Michael Hogan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View across the River Tay west of Aberfeldy"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/River_Lyon_in_autumn_-_geograph.org.uk_-_1544360.jpg",
+      "title": "Lis Burke / River Lyon in autumn",
+      "caption": "River Lyon in autumn. Looking downstream from the road bridge towards its confluence with the Tay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Looking_across_Comrie_Bridge_-_geograph.org.uk_-_2672291.jpg/500px-Looking_across_Comrie_Bridge_-_geograph.org.uk_-_2672291.jpg",
+      "title": "Looking across Comrie Bridge by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking across Comrie Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Comrie_Castle_-_geograph.org.uk_-_1240851.jpg/330px-Comrie_Castle_-_geograph.org.uk_-_1240851.jpg",
+      "title": "Gordon Hatton / Comrie Castle",
+      "caption": "Comrie Castle. A 16th century tower house built for the Menzies family and last occupied in 1748."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Taymouth_Castle_-_geograph.org.uk_-_3144832.jpg/500px-Taymouth_Castle_-_geograph.org.uk_-_3144832.jpg",
+      "title": "Taymouth Castle by Jo Turner, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Taymouth Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenmore_Bridge_at_the_mouth_of_Loch_Tay_-_geograph.org.uk_-_2068365.jpg",
+      "title": "Kenmore Bridge at the mouth of Loch Tay by Matthew Bristow, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Kenmore Bridge at the mouth of Loch Tay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/River_Tay%2C_Kenmore_-_geograph.org.uk_-_2170708.jpg/500px-River_Tay%2C_Kenmore_-_geograph.org.uk_-_2170708.jpg",
+      "title": "River Tay, Kenmore by wfmillar, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Tay, Kenmore"
+    }
+  ],
+  "distance_km": 13.0,
+  "description": "This walk takes you from Aberfeldy to Kenmore along the River Tay and the River Lyon. The route runs for about 8 miles along a steadily rising path. Along the way there are some wonderful views of the surrounding hills and two historic castles to admire. Start the walk on the Tay Bridge in Aberfeldy where you can cross to the northern side of the Tay. You can then pick up the riverside footpath heading west to Callwood Cottage and the ruins of Comrie Castle. Here you cross to the south at point where the Tay meets with Lyon at the Strath of Appin. Follow paths south along the Tay and they will lead you to Kenmore, passing Taymouth Castle on the way. In Kenmore you can enjoy splendid views over Loch Tay at the point where the river enters the loch. To continue your walking in the area visit the Birks of Aberfeldy. It's a delightful place with a shady gorge and lots of pretty waterfalls to see.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Kenmore there's the delightful Falls Of Acharn to visit. The scenic spot includes a Victorian 'Hermit's Cave' and some great views back to Ben Lawers from Acharn village."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/eiCcUHeZBsM",
+  "postcode": "PH15 2BS",
+  "district": "Aberfeldy",
+  "county": "Perth and Kinross",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lawyers View, Tay Bridge Terrace, Moness Country Club, Aberfeldy, Perth and Kinross, Alba / Scotland, PH15 2BS, United Kingdom",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "riverside",
+    "gorge"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

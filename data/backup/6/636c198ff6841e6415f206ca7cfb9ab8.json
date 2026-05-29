@@ -1,130 +1,111 @@
 {
-  "created_at": "2025-01-06T03:24:29.940946+00:00",
-  "objectID": "636c198ff6841e6415f206ca7cfb9ab8",
-  "ref": "fife-coastal-path-walking-route",
-  "title": "Fife Coastal Path Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ardross_Castle_-_geograph.org.uk_-_697649.jpg",
-  "nearby": [
-    {
-      "description": "Kilconquhar Loch",
-      "objectID": "3a46b1d312f3b5d96af98d694767d920",
-      "ref": "kilconquhar-loch-walking-route"
+    "created_at": "2025-01-06T03:24:29.940946+00:00",
+    "objectID": "636c198ff6841e6415f206ca7cfb9ab8",
+    "ref": "fife-coastal-path-walking-route",
+    "title": "Fife Coastal Path Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ardross_Castle_-_geograph.org.uk_-_697649.jpg",
+    "nearby": [
+        {
+            "description": "Kilconquhar Loch",
+            "objectID": "3a46b1d312f3b5d96af98d694767d920",
+            "ref": "kilconquhar-loch-walking-route"
+        },
+        {
+            "description": "Forth Road Bridge",
+            "objectID": "8e5c11f82412ae8868814f821cb668da",
+            "ref": "forth-road-bridge-walking-route"
+        },
+        {
+            "description": "Tentsmuir Forest",
+            "objectID": "860acf3b9c663f5db3ec7bd19564d2e9",
+            "ref": "tentsmuir-forest-walking-and-cycle-route"
+        },
+        {
+            "description": "St Andrews To Leuchars",
+            "objectID": "d2b38d9e79ce2b6c7c115b7140384404",
+            "ref": "st-andrews-to-leuchars-walking-route"
+        },
+        {
+            "description": "Morton Lochs",
+            "objectID": "5ed604b1ef2fa7625073cd2fcaab676d",
+            "ref": "morton-lochs-walking-route"
+        },
+        {
+            "description": "Elie and Earlsferry Chain Walk",
+            "objectID": "1e7deba0adf88e693257adb035e97934",
+            "ref": "elie-and-earlsferry-chain-walk"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ardross_Castle_-_geograph.org.uk_-_697649.jpg",
+            "title": "Paul Taylor / Ardross Castle",
+            "caption": "Ardross Castle. Fife Coastal Path passes through the ruins of this 14th century ruined castle."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Late_afternoon_on_the_Fife_coast_-_geograph.org.uk_-_988957.jpg",
+            "title": "Lis Burke / Late afternoon on the Fife coast",
+            "caption": "Late afternoon on the Fife coast. Looking along the Fife Coastal Path towards Babbet Ness. The smudge along the horizon is a distant view of the coast across the Tay estuary around Monifieth."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fife_Coastal_Path%2C_St_Monans_-_geograph.org.uk_-_789657.jpg",
+            "title": "Lis Burke / Fife Coastal Path, St Monans",
+            "caption": "St Monans. The path runs below the kirkyard wall to the west of St Monans, with an alternative inland route for use at high tide"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bathing_House_Wood_-_geograph.org.uk_-_431084.jpg",
+            "title": "Lis Burke / Bathing House Wood",
+            "caption": "Bathing House Wood. Looking along the Fife Coastal Path towards Donibristle Bay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/High_tide_west_of_Buddo_Ness_-_geograph.org.uk_-_989024.jpg",
+            "title": "Lis Burke / High tide west of Buddo Ness",
+            "caption": "High tide west of Buddo Ness. At high tide there is no beach exposed, but the coastal path winds up and down along the base of the low cliffs, only dropping to the shore where there is a burn to be crossed. The gulls flocking into this small bay were clamorous; presumably they had located a source of food."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Looking_back_to_Leven_-_geograph.org.uk_-_1386850.jpg",
+            "title": "Lis Burke / Looking back to Leven",
+            "caption": "Looking back to Leven. The Coastal Path rises above the beach into the shade of trees as it approaches Largo. Rose bay willow herb and ragwort grow in clumps, with wild roses on the slopes above the sandy path. Leven is on the horizon across the bay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/North_Queensferry_north-east_harbour_-_geograph.org.uk_-_431093.jpg",
+            "title": "Rob Burke / North Queensferry north-east harbour",
+            "caption": "North Queensferry north-east harbour. This small harbour is on the east side of North Queensferry. Around here you can enjoy views of the Forth Road Bridge which spans the Firth of Forth. There is a walkway/cycleway running across the bridge if you would like to take a detour from the route here."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Double_decker_bus_at_Lower_Largo_-_geograph.org.uk_-_1174848.jpg",
+            "title": "Lis Burke / Double decker bus at Lower Largo",
+            "caption": "Double decker bus at Lower Largo. A regular service calls at Lower Largo, running between Leven and St Andrews. This service is useful in planning walks along stretches of the Fife Coastal Path."
+        }
+    ],
+    "distance_km": 185.0,
+    "description": "This walk runs along the attractive Fife coast from Kincardine Bridge to Newburgh. You'll pass through a series of delightful coastal towns and villages with lovely beaches, pretty harbours and interesting history. Highlights on the route include the wonderful university town of St Andrews where you'll pass the famous links golf course. There's also the picturesque harbour at Crail and Anstruther where you can enjoy refreshments at the excellent Anstruther Fish Bar. The shop has won the 'Best Fish and Chip Shop' in Scotland accolade on four occasions in the last six years. The historic fishing village of Pittenweem is another gem on the trail. Highlights in the village include the artisan chocolatiers, 17th century buildings, fine shops, galleries and the ancient St Fillan's Cave. Between St Andrews and Tayport you'll pass the expansive Tentsmuir Forest. The forest has a number of walking and cycling trails with red squirrels and roe deer to look out for on the way. There's also the wildlife rich Morton Lochs here as well. See the list below for day walks along the more popular sections of the path.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "In Elie there's the exhilarating Elie and Earlsferry Chain Walk to try. This challenging scramble takes you along rocky path with fascinating geology and fine coastal views. It's located next to the trail just to the west of Elie and Earlsferry.In St Andrews there's the popular Craigtoun Country Park. Here you can visit the nature trail, Italian garden, greenhouses, formal gardens, miniature railway and the large pond."
+        }
+    ],
+    "gazetteer_found": false,
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/636c198ff6841e6415f206ca7cfb9ab8.gpx",
+    "_geoloc": {
+        "lat": 56.066222371,
+        "lng": -3.7225189674
     },
-    {
-      "description": "Forth Road Bridge",
-      "objectID": "8e5c11f82412ae8868814f821cb668da",
-      "ref": "forth-road-bridge-walking-route"
-    },
-    {
-      "description": "Tentsmuir Forest",
-      "objectID": "860acf3b9c663f5db3ec7bd19564d2e9",
-      "ref": "tentsmuir-forest-walking-and-cycle-route"
-    },
-    {
-      "description": "St Andrews To Leuchars",
-      "objectID": "d2b38d9e79ce2b6c7c115b7140384404",
-      "ref": "st-andrews-to-leuchars-walking-route"
-    },
-    {
-      "description": "Morton Lochs",
-      "objectID": "5ed604b1ef2fa7625073cd2fcaab676d",
-      "ref": "morton-lochs-walking-route"
-    },
-    {
-      "description": "Elie and Earlsferry Chain Walk",
-      "objectID": "1e7deba0adf88e693257adb035e97934",
-      "ref": "elie-and-earlsferry-chain-walk"
-    }
-  ],
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ardross_Castle_-_geograph.org.uk_-_697649.jpg",
-      "title": "Paul Taylor / Ardross Castle",
-      "caption": "Ardross Castle. Fife Coastal Path passes through the ruins of this 14th century ruined castle."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Late_afternoon_on_the_Fife_coast_-_geograph.org.uk_-_988957.jpg",
-      "title": "Lis Burke / Late afternoon on the Fife coast",
-      "caption": "Late afternoon on the Fife coast. Looking along the Fife Coastal Path towards Babbet Ness. The smudge along the horizon is a distant view of the coast across the Tay estuary around Monifieth."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fife_Coastal_Path%2C_St_Monans_-_geograph.org.uk_-_789657.jpg",
-      "title": "Lis Burke / Fife Coastal Path, St Monans",
-      "caption": "St Monans. The path runs below the kirkyard wall to the west of St Monans, with an alternative inland route for use at high tide"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bathing_House_Wood_-_geograph.org.uk_-_431084.jpg",
-      "title": "Lis Burke / Bathing House Wood",
-      "caption": "Bathing House Wood. Looking along the Fife Coastal Path towards Donibristle Bay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/High_tide_west_of_Buddo_Ness_-_geograph.org.uk_-_989024.jpg",
-      "title": "Lis Burke / High tide west of Buddo Ness",
-      "caption": "High tide west of Buddo Ness. At high tide there is no beach exposed, but the coastal path winds up and down along the base of the low cliffs, only dropping to the shore where there is a burn to be crossed. The gulls flocking into this small bay were clamorous; presumably they had located a source of food."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Looking_back_to_Leven_-_geograph.org.uk_-_1386850.jpg",
-      "title": "Lis Burke / Looking back to Leven",
-      "caption": "Looking back to Leven. The Coastal Path rises above the beach into the shade of trees as it approaches Largo. Rose bay willow herb and ragwort grow in clumps, with wild roses on the slopes above the sandy path. Leven is on the horizon across the bay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/North_Queensferry_north-east_harbour_-_geograph.org.uk_-_431093.jpg",
-      "title": "Rob Burke / North Queensferry north-east harbour",
-      "caption": "North Queensferry north-east harbour. This small harbour is on the east side of North Queensferry. Around here you can enjoy views of the Forth Road Bridge which spans the Firth of Forth. There is a walkway/cycleway running across the bridge if you would like to take a detour from the route here."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Double_decker_bus_at_Lower_Largo_-_geograph.org.uk_-_1174848.jpg",
-      "title": "Lis Burke / Double decker bus at Lower Largo",
-      "caption": "Double decker bus at Lower Largo. A regular service calls at Lower Largo, running between Leven and St Andrews. This service is useful in planning walks along stretches of the Fife Coastal Path."
-    }
-  ],
-  "distance_km": 185.0,
-  "description": "This walk runs along the attractive Fife coast from Kincardine Bridge to Newburgh. You'll pass through a series of delightful coastal towns and villages with lovely beaches, pretty harbours and interesting history. Highlights on the route include the wonderful university town of St Andrews where you'll pass the famous links golf course. There's also the picturesque harbour at Crail and Anstruther where you can enjoy refreshments at the excellent Anstruther Fish Bar. The shop has won the 'Best Fish and Chip Shop' in Scotland accolade on four occasions in the last six years. The historic fishing village of Pittenweem is another gem on the trail. Highlights in the village include the artisan chocolatiers, 17th century buildings, fine shops, galleries and the ancient St Fillan's Cave. Between St Andrews and Tayport you'll pass the expansive Tentsmuir Forest. The forest has a number of walking and cycling trails with red squirrels and roe deer to look out for on the way. There's also the wildlife rich Morton Lochs here as well. See the list below for day walks along the more popular sections of the path.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "In Elie there's the exhilarating Elie and Earlsferry Chain Walk to try. This challenging scramble takes you along rocky path with fascinating geology and fine coastal views. It's located next to the trail just to the west of Elie and Earlsferry.In St Andrews there's the popular Craigtoun Country Park. Here you can visit the nature trail, Italian garden, greenhouses, formal gardens, miniature railway and the large pond."
-    }
-  ],
-  "gazetteer_found": false,
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/636c198ff6841e6415f206ca7cfb9ab8.gpx",
-  "_geoloc": {
-    "lat": 56.066222371,
-    "lng": -3.7225189674
-  },
-  "nominatim_found": true,
-  "display_address": "Kincardine, Fife, Alba / Scotland, FK10 4LX, United Kingdom",
-  "postcode": "FK10 4LX",
-  "district": "Kincardine",
-  "county": "Fife",
-  "region": null,
-  "state": "Alba / Scotland",
-  "country": "United Kingdom",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "forest",
-    "rural"
-  ],
-  "points_of_interest": [
-    "golf course",
-    "harbour",
-    "village",
-    "cave",
-    "forest"
-  ],
-  "facilities": [
-    "fish bar",
-    "shops",
-    "galleries",
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "nominatim_found": true,
+    "display_address": "Kincardine, Fife, Alba / Scotland, FK10 4LX, United Kingdom",
+    "postcode": "FK10 4LX",
+    "district": "Kincardine",
+    "county": "Fife",
+    "region": null,
+    "state": "Alba / Scotland",
+    "country": "United Kingdom",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["coastal"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

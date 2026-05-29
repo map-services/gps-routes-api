@@ -1,130 +1,144 @@
 {
-    "created_at": "2025-01-06T04:41:07.638738+00:00",
-    "objectID": "140b60aed48127f4478d78869f12a18a",
-    "ref": "fairburn-ings-walking-route",
-    "title": "Fairburn Ings Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/On_the_boardwalk_-_geograph.org.uk_-_785959.jpg",
-    "nearby": [
-        {
-            "description": "Wakefield Canal",
-            "objectID": "2c842fc1a310ef45573cb18c3945e94c",
-            "ref": "wakefield-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Trans Pennine Trail",
-            "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-            "ref": "trans-pennine-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Pugneys Country Park",
-            "objectID": "9f75fc5c86440c0f383663091e197975",
-            "ref": "pugneys-country-park-walking-route"
-        },
-        {
-            "description": "Barnsley Canal",
-            "objectID": "bb0aed1edc31fff703289a79911dd6ec",
-            "ref": "barnsley-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Pontefract",
-            "objectID": "1ac62c959af9f0fdcbae011e237527e8",
-            "ref": "pontefract-walking-route"
-        },
-        {
-            "description": "Brockadale Nature Reserve",
-            "objectID": "9529cc2f65aaac7797e93591bdcd4dee",
-            "ref": "brockadale-nature-reserve-walking-route"
-        },
-        {
-            "description": "Castleford",
-            "objectID": "45d4fadc6175dc0ecca31b1139b2b3c0",
-            "ref": "castleford-walking-route"
-        },
-        {
-            "description": "Allerton Bywater",
-            "objectID": "3807717716724e820f556444e3fc30f2",
-            "ref": "allerton-bywater-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/140b60aed48127f4478d78869f12a18a.gpx",
-    "_geoloc": {
-        "lat": 53.7447044,
-        "lng": -1.31500124
+  "created_at": "2025-01-06T04:41:07.638738+00:00",
+  "objectID": "140b60aed48127f4478d78869f12a18a",
+  "ref": "fairburn-ings-walking-route",
+  "title": "Fairburn Ings Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/On_the_boardwalk_-_geograph.org.uk_-_785959.jpg",
+  "nearby": [
+    {
+      "description": "Wakefield Canal",
+      "objectID": "2c842fc1a310ef45573cb18c3945e94c",
+      "ref": "wakefield-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/On_the_boardwalk_-_geograph.org.uk_-_785959.jpg",
-            "title": "David Pickersgill / On the boardwalk, via Wikimedia Commons",
-            "caption": "On the boardwalk. A network of boardwalks, made from recycled plastic, allow visitors right into the marshy area to the west of the main lake at Fairburn Ings RSPB reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pyronia_tithonus_-_geograph.org.uk_-_890387.jpg",
-            "title": "bernard bradley / Gatekeeper Butterfly",
-            "caption": "Gatekeeper Butterfly"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Village_Bay_hide_at_Fairburn_Ings_RSPB_nature_reserve_-_geograph.org.uk_-_1256138.jpg",
-            "title": "Rod Allday / Village Bay hide at Fairburn Ings RSPB nature reserve, via Wikimedia Commons",
-            "caption": "Village Bay hide at Fairburn Ings RSPB nature reserve. Here you can look out for birds such as bittern, willow tit, kingfisher and grey heron."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Top_of_Fairburn_Cut_-_geograph.org.uk_-_776692.jpg",
-            "title": "David Pickersgill / Top of Fairburn Cut, via Wikimedia Commons",
-            "caption": "Top of Fairburn Cut. Cut Showing the remains of the wharf where boats were loaded with limestone from quarries near the village, part of which can be seen on the horizon."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/View_towards_Fairburn_Ings_-_geograph.org.uk_-_885294.jpg",
-            "title": "David Pickersgill / View towards Fairburn Ings",
-            "caption": "View towards the reserve. Looking from the top of the limestone escarpment over fields of barley towards the water of Fairburn Ings. The houses on the horizon are Ferry Fryston, an estate in the north-east of Castleford."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Newton_Ings_-_geograph.org.uk_-_547850.jpg",
-            "title": "bernard bradley / Newton Ings",
-            "caption": "Newton Ings - on the western side of the site. Southwesterly view from Newton Farm over the flooded ruins of Newton Priory. The chimneys and towers in the distance are the chemical plant in Castleford. The town of Castleford in the far distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Newton_Priory_ruins_-_geograph.org.uk_-_523356.jpg",
-            "title": "David Pickersgill / Newton Priory ruins",
-            "caption": "Newton Priory ruins. Despite its name, it was probably only ever a medieval manor house. This section of wall is all that remains. Note the cormorants."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/River_Aire_and_Three_Bridges_-_geograph.org.uk_-_776700.jpg",
-            "title": "David Pickersgill / River Aire and Three Bridges",
-            "caption": "River Aire and Three Bridges. Despite its common name, it's actually one bridge with three arches carrying the Castleford\u0096 York railway line over the River Aire. Note the swings! Fairburn Ings is behind the tree-covered bank in the right background."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This lovely nature reserve in the Aire Valley has some nice footpaths to follow around the substantial site. The reserve includes a number of pretty lakes and nice riverside paths along the River Aire. You can look out for hundreds of different species of birds from a number of bird hides. Habitats in the reserve include flood meadows, wet fenland, marsh and reed bed, woodland and scrub. To continue your walking you can pick up the Wakefield Canal in Castleford and enjoy a waterside walk along the towpath.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Just north of the reserve there's the little village of Ledston where you could enjoy some refreshments at The White Horse. The historic pub dates to the 15th century and serves great traditional British food. There's a cosy interior with roaring fires, and a pleasant outside seating area with views of the village. You can find them at postcode WF10 2AB for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The reserve is a nice place to walk the dog but please keep them on leads or under close control because of the wildlife. There's a dog parking area and a dog bowl. The White Horse mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A couple of miles south west of the reserve you'll find Pontefract Park. There's another nature reserve here with habitats including grassland, a lake, woodland, wetland and small areas of open water. Also nearby is Brockadale Nature Reserve. Our Castleford Walk also starts from the visitor centre at the reserve. It takes you along the river to Allerton Bywater and RSPB St Aidan's to the north west of the town. The reserve is another great place for bird watching with bittern, marsh harrier and skylark to look out for."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/fENil2TKvyA",
-    "region": "West Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Newton Lane, Ledsham, Castleford, Ledston, North Yorkshire, West Yorkshire, England, WF10 2BH, United Kingdom",
-    "postcode": "WF10 2BH",
-    "district": "Castleford",
-    "county": "North Yorkshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "marsh", "river"],
-    "points_of_interest": ["bird hide", "canal towpath"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Trans Pennine Trail",
+      "objectID": "92a97add7ee3d3d55980d4993637b5c5",
+      "ref": "trans-pennine-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Pugneys Country Park",
+      "objectID": "9f75fc5c86440c0f383663091e197975",
+      "ref": "pugneys-country-park-walking-route"
+    },
+    {
+      "description": "Barnsley Canal",
+      "objectID": "bb0aed1edc31fff703289a79911dd6ec",
+      "ref": "barnsley-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Pontefract",
+      "objectID": "1ac62c959af9f0fdcbae011e237527e8",
+      "ref": "pontefract-walking-route"
+    },
+    {
+      "description": "Brockadale Nature Reserve",
+      "objectID": "9529cc2f65aaac7797e93591bdcd4dee",
+      "ref": "brockadale-nature-reserve-walking-route"
+    },
+    {
+      "description": "Castleford",
+      "objectID": "45d4fadc6175dc0ecca31b1139b2b3c0",
+      "ref": "castleford-walking-route"
+    },
+    {
+      "description": "Allerton Bywater",
+      "objectID": "3807717716724e820f556444e3fc30f2",
+      "ref": "allerton-bywater-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/140b60aed48127f4478d78869f12a18a.gpx",
+  "_geoloc": {
+    "lat": 53.7447044,
+    "lng": -1.31500124
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/On_the_boardwalk_-_geograph.org.uk_-_785959.jpg",
+      "title": "David Pickersgill / On the boardwalk, via Wikimedia Commons",
+      "caption": "On the boardwalk. A network of boardwalks, made from recycled plastic, allow visitors right into the marshy area to the west of the main lake at Fairburn Ings RSPB reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pyronia_tithonus_-_geograph.org.uk_-_890387.jpg",
+      "title": "bernard bradley / Gatekeeper Butterfly",
+      "caption": "Gatekeeper Butterfly"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Village_Bay_hide_at_Fairburn_Ings_RSPB_nature_reserve_-_geograph.org.uk_-_1256138.jpg",
+      "title": "Rod Allday / Village Bay hide at Fairburn Ings RSPB nature reserve, via Wikimedia Commons",
+      "caption": "Village Bay hide at Fairburn Ings RSPB nature reserve. Here you can look out for birds such as bittern, willow tit, kingfisher and grey heron."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Top_of_Fairburn_Cut_-_geograph.org.uk_-_776692.jpg",
+      "title": "David Pickersgill / Top of Fairburn Cut, via Wikimedia Commons",
+      "caption": "Top of Fairburn Cut. Cut Showing the remains of the wharf where boats were loaded with limestone from quarries near the village, part of which can be seen on the horizon."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/View_towards_Fairburn_Ings_-_geograph.org.uk_-_885294.jpg",
+      "title": "David Pickersgill / View towards Fairburn Ings",
+      "caption": "View towards the reserve. Looking from the top of the limestone escarpment over fields of barley towards the water of Fairburn Ings. The houses on the horizon are Ferry Fryston, an estate in the north-east of Castleford."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Newton_Ings_-_geograph.org.uk_-_547850.jpg",
+      "title": "bernard bradley / Newton Ings",
+      "caption": "Newton Ings - on the western side of the site. Southwesterly view from Newton Farm over the flooded ruins of Newton Priory. The chimneys and towers in the distance are the chemical plant in Castleford. The town of Castleford in the far distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Newton_Priory_ruins_-_geograph.org.uk_-_523356.jpg",
+      "title": "David Pickersgill / Newton Priory ruins",
+      "caption": "Newton Priory ruins. Despite its name, it was probably only ever a medieval manor house. This section of wall is all that remains. Note the cormorants."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/River_Aire_and_Three_Bridges_-_geograph.org.uk_-_776700.jpg",
+      "title": "David Pickersgill / River Aire and Three Bridges",
+      "caption": "River Aire and Three Bridges. Despite its common name, it's actually one bridge with three arches carrying the Castleford\u0096 York railway line over the River Aire. Note the swings! Fairburn Ings is behind the tree-covered bank in the right background."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This lovely nature reserve in the Aire Valley has some nice footpaths to follow around the substantial site. The reserve includes a number of pretty lakes and nice riverside paths along the River Aire. You can look out for hundreds of different species of birds from a number of bird hides. Habitats in the reserve include flood meadows, wet fenland, marsh and reed bed, woodland and scrub. To continue your walking you can pick up the Wakefield Canal in Castleford and enjoy a waterside walk along the towpath.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just north of the reserve there's the little village of Ledston where you could enjoy some refreshments at The White Horse. The historic pub dates to the 15th century and serves great traditional British food. There's a cosy interior with roaring fires, and a pleasant outside seating area with views of the village. You can find them at postcode WF10 2AB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reserve is a nice place to walk the dog but please keep them on leads or under close control because of the wildlife. There's a dog parking area and a dog bowl. The White Horse mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A couple of miles south west of the reserve you'll find Pontefract Park. There's another nature reserve here with habitats including grassland, a lake, woodland, wetland and small areas of open water. Also nearby is Brockadale Nature Reserve. Our Castleford Walk also starts from the visitor centre at the reserve. It takes you along the river to Allerton Bywater and RSPB St Aidan's to the north west of the town. The reserve is another great place for bird watching with bittern, marsh harrier and skylark to look out for."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/fENil2TKvyA",
+  "region": "West Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Newton Lane, Ledsham, Castleford, Ledston, North Yorkshire, West Yorkshire, England, WF10 2BH, United Kingdom",
+  "postcode": "WF10 2BH",
+  "district": "Castleford",
+  "county": "North Yorkshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "marsh",
+    "wet fenland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "bird hide",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly",
+    "dog parking"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

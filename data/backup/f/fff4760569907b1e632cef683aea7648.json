@@ -1,92 +1,103 @@
 {
-    "created_at": "2025-01-06T10:54:08.848715+00:00",
-    "objectID": "fff4760569907b1e632cef683aea7648",
-    "ref": "torrent-walk-dolgellau",
-    "title": "Torrent Walk - Dolgellau Waterfalls Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Torrent_walk_-_geograph.org.uk_-_763711.jpg",
-    "nearby": [
-        {
-            "description": "Precipice Walk Dolgellau",
-            "objectID": "9ec2f2c977032eee1270654ff68770df",
-            "ref": "precipice-walk-dolgellau-walking-route"
-        },
-        {
-            "description": "Mawddach Trail",
-            "objectID": "e02916b5aa92bfacf3a1ccdc36a9baa0",
-            "ref": "mawddach-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Panorama Walk Barmouth",
-            "objectID": "60177b109537918a13d4646a00a56e2b",
-            "ref": "panorama-walk-barmouth-walking-route"
-        },
-        {
-            "description": "Coed Y Brenin Forest Park",
-            "objectID": "5bc4b009e5f55291cb1ecca1d63040a5",
-            "ref": "coed-y-brenin-forest-park-walking-and-cycle-route"
-        },
-        {
-            "description": "New Precipice Walk",
-            "objectID": "c0f5197b64291ab640c21e94409f357f",
-            "ref": "new-precipice-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fff4760569907b1e632cef683aea7648.gpx",
-    "_geoloc": {
-        "lat": 52.746399862,
-        "lng": -3.8367598442
+  "created_at": "2025-01-06T10:54:08.848715+00:00",
+  "objectID": "fff4760569907b1e632cef683aea7648",
+  "ref": "torrent-walk-dolgellau",
+  "title": "Torrent Walk - Dolgellau Waterfalls Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Torrent_walk_-_geograph.org.uk_-_763711.jpg",
+  "nearby": [
+    {
+      "description": "Precipice Walk Dolgellau",
+      "objectID": "9ec2f2c977032eee1270654ff68770df",
+      "ref": "precipice-walk-dolgellau-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Torrent_walk_-_geograph.org.uk_-_763711.jpg",
-            "title": "Peter Humphreys / Torrent walk",
-            "caption": "Torrent walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Beginning_of_Torrent_Walk_-_geograph.org.uk_-_511348.jpg",
-            "title": "liz dawson / Beginning of Torrent Walk",
-            "caption": "Beginning of Torrent Walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bridge_at_start_of_Torrent_Walk_-_geograph.org.uk_-_506470.jpg/330px-Bridge_at_start_of_Torrent_Walk_-_geograph.org.uk_-_506470.jpg",
-            "title": "liz dawson / Bridge at start of Torrent Walk",
-            "caption": "Bridge at start of Torrent Walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/An_aspect_of_Torrent_walk_-_geograph.org.uk_-_835508.jpg",
-            "title": "Row17 / An aspect of Torrent walk",
-            "caption": "An aspect of Torrent walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pont_Clywedog_bridge_-_geograph.org.uk_-_2279435.jpg",
-            "title": "Pont Clywedog bridge by liz dawson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pont Clywedog bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Torrent_Walk%2C_Coed_Dol-fawr_-_geograph.org.uk_-_512582.jpg",
-            "title": "liz dawson / Torrent Walk, Coed Dol-fawr",
-            "caption": "Coed Dol-fawr taken upstream from bridge"
-        }
-    ],
-    "distance_km": 2.7,
-    "description": "This circular walk explores the Afon Clywedog gorge near Dolgellau in Gwynedd. You can pick up the trail to the east of Dolgellau near the Torrent Walk campsite. The trail then runs along both sides of the rushing river through the attractive wooded gorge. On the way there's pretty waterfalls, weirs and some interesting rock formations to see. There's also the remains of old mills and a smithy, indicating the industrial past of the area. You can start the walk from the roadside parking area just off the B4416 to the east of the walk. Then pick up the trails heading west to Rose Cottage where there is a little stone bridge. Cross here and you can follow the footpath on the opposite side back to the car parking area. Along the way there's some interesting flora and fauna with otters, dormice, lichen and ferns to see. To continue your walking in the area you could try the popular Precipice Walk. The elevated path provides wonderful views over the Mawddach River and the surrounding mountains of Snowdonia. Near here there is also the New Precipice Walk which can be picked in the little village of Llanelltyd.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/5H4O5RjfF0U",
-    "postcode": "LL40 2RH",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "B4416, Brithdir and Llanfachreth, Brithdir, Gwynedd, Cymru / Wales, LL40 2RH, United Kingdom",
-    "district": "Brithdir",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["waterfall", "rock formations", "mills", "smithy"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Mawddach Trail",
+      "objectID": "e02916b5aa92bfacf3a1ccdc36a9baa0",
+      "ref": "mawddach-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Panorama Walk Barmouth",
+      "objectID": "60177b109537918a13d4646a00a56e2b",
+      "ref": "panorama-walk-barmouth-walking-route"
+    },
+    {
+      "description": "Coed Y Brenin Forest Park",
+      "objectID": "5bc4b009e5f55291cb1ecca1d63040a5",
+      "ref": "coed-y-brenin-forest-park-walking-and-cycle-route"
+    },
+    {
+      "description": "New Precipice Walk",
+      "objectID": "c0f5197b64291ab640c21e94409f357f",
+      "ref": "new-precipice-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fff4760569907b1e632cef683aea7648.gpx",
+  "_geoloc": {
+    "lat": 52.746399862,
+    "lng": -3.8367598442
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Torrent_walk_-_geograph.org.uk_-_763711.jpg",
+      "title": "Peter Humphreys / Torrent walk",
+      "caption": "Torrent walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Beginning_of_Torrent_Walk_-_geograph.org.uk_-_511348.jpg",
+      "title": "liz dawson / Beginning of Torrent Walk",
+      "caption": "Beginning of Torrent Walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bridge_at_start_of_Torrent_Walk_-_geograph.org.uk_-_506470.jpg/330px-Bridge_at_start_of_Torrent_Walk_-_geograph.org.uk_-_506470.jpg",
+      "title": "liz dawson / Bridge at start of Torrent Walk",
+      "caption": "Bridge at start of Torrent Walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/An_aspect_of_Torrent_walk_-_geograph.org.uk_-_835508.jpg",
+      "title": "Row17 / An aspect of Torrent walk",
+      "caption": "An aspect of Torrent walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pont_Clywedog_bridge_-_geograph.org.uk_-_2279435.jpg",
+      "title": "Pont Clywedog bridge by liz dawson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pont Clywedog bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Torrent_Walk%2C_Coed_Dol-fawr_-_geograph.org.uk_-_512582.jpg",
+      "title": "liz dawson / Torrent Walk, Coed Dol-fawr",
+      "caption": "Coed Dol-fawr taken upstream from bridge"
+    }
+  ],
+  "distance_km": 2.7,
+  "description": "This circular walk explores the Afon Clywedog gorge near Dolgellau in Gwynedd. You can pick up the trail to the east of Dolgellau near the Torrent Walk campsite. The trail then runs along both sides of the rushing river through the attractive wooded gorge. On the way there's pretty waterfalls, weirs and some interesting rock formations to see. There's also the remains of old mills and a smithy, indicating the industrial past of the area. You can start the walk from the roadside parking area just off the B4416 to the east of the walk. Then pick up the trails heading west to Rose Cottage where there is a little stone bridge. Cross here and you can follow the footpath on the opposite side back to the car parking area. Along the way there's some interesting flora and fauna with otters, dormice, lichen and ferns to see. To continue your walking in the area you could try the popular Precipice Walk. The elevated path provides wonderful views over the Mawddach River and the surrounding mountains of Snowdonia. Near here there is also the New Precipice Walk which can be picked in the little village of Llanelltyd.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/5H4O5RjfF0U",
+  "postcode": "LL40 2RH",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B4416, Brithdir and Llanfachreth, Brithdir, Gwynedd, Cymru / Wales, LL40 2RH, United Kingdom",
+  "district": "Brithdir",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "weir",
+    "rock formation",
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

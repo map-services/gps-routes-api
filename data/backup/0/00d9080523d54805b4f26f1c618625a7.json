@@ -127,24 +127,21 @@
   "postcode": "WV16 4BA",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "river",
+    "forest",
     "ridge",
-    "valley"
+    "valley floor"
   ],
   "points_of_interest": [
-    "village",
-    "town",
-    "deer park",
-    "castle"
+    "historical site",
+    "viewpoint",
+    "deer park"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

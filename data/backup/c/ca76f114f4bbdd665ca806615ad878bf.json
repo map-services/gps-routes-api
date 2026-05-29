@@ -1,81 +1,91 @@
 {
-    "created_at": "2025-01-06T04:11:03.114377+00:00",
-    "objectID": "ca76f114f4bbdd665ca806615ad878bf",
-    "ref": "darenth-country-park-walking-and-cycle-route",
-    "title": "Darenth Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg/500px-Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg",
-    "nearby": [
-        {
-            "description": "Beacon Wood Country Park",
-            "objectID": "fcf81af491ad8349318d692e78f4582e",
-            "ref": "beacon-wood-country-park-walking-route"
-        },
-        {
-            "description": "Darent Valley Path",
-            "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
-            "ref": "darent-valley-path-walking-route"
-        },
-        {
-            "description": "Dartford Heath",
-            "objectID": "c33e818afeceeee7abf8a552a415d852",
-            "ref": "dartford-heath-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ca76f114f4bbdd665ca806615ad878bf.gpx",
-    "_geoloc": {
-        "lat": 51.4305063572,
-        "lng": 0.2491542547
+  "created_at": "2025-01-06T04:11:03.114377+00:00",
+  "objectID": "ca76f114f4bbdd665ca806615ad878bf",
+  "ref": "darenth-country-park-walking-and-cycle-route",
+  "title": "Darenth Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg/500px-Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg",
+  "nearby": [
+    {
+      "description": "Beacon Wood Country Park",
+      "objectID": "fcf81af491ad8349318d692e78f4582e",
+      "ref": "beacon-wood-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg/500px-Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg",
-            "title": "Darenth Country Park Information Board by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Darenth Country Park Information Board. The image shows the various features in the park including the Mould sculpture, the Saxon burial ground and the Chapel Orchard."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Car_Park_in_Darenth_Country_Park_-_geograph.org.uk_-_2489824.jpg/500px-Car_Park_in_Darenth_Country_Park_-_geograph.org.uk_-_2489824.jpg",
-            "title": "Car Park in Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Car Park view."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entrance_to_Darenth_Country_Park_-_geograph.org.uk_-_2489668.jpg/500px-Entrance_to_Darenth_Country_Park_-_geograph.org.uk_-_2489668.jpg",
-            "title": "Entrance to Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entrance to Darenth Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Picnic_Area_in_Darenth_Country_Park_-_geograph.org.uk_-_2489850.jpg/500px-Picnic_Area_in_Darenth_Country_Park_-_geograph.org.uk_-_2489850.jpg",
-            "title": "Picnic Area in Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Picnic Area"
-        }
-    ],
-    "distance_km": 1.5,
-    "description": "This country park in Dartford has some nice cycling and walking trails to try. The park has a decent sized car park just off Gore Road, near Darent Valley Hospital. From here you can pick up the 1 mile circuit around the park. The park has nice wide lawns, picnic areas, meadows and pockets of woodland. The area is popular with dog walkers and joggers. You can extend your walk by heading east and exploring Darenth Wood. Eventually you will come to Bean and the pretty Beacon Wood Country Park. There's more nice woodland trails here. About 1 mile to the west of the park you can pick up the Darent Valley Path. This splendid long distance trail will take you along the River Darent to Farningham where you will find the pretty Farningham Woods Nature Reserve.",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "The parkland and woodland in Darent Wood are ideal for dog walking. You'll probably meet other friendly owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A few miles to the west there's some nice trails to try around Dartford Heath. Here you'll find ponds, peaceful woodland, pretty heather and lots of wildlife. To the north east there's Greenhithe where you can visit the historic Ingress Abbey heritage park. The park includes a photogenic Neo-gothic Jacobean-style country house surrounded by attractive parkland and a number of follies.  For more walking ideas in the area see the Kent Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/mZCOY44BE8U",
-    "postcode": "DA2 6JX",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Gore Road, Darenth, Dartford, Kent, England, DA2 6JX, United Kingdom",
-    "district": "Dartford",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow"],
-    "points_of_interest": ["picnic area"],
-    "facilities": ["car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Darent Valley Path",
+      "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
+      "ref": "darent-valley-path-walking-route"
+    },
+    {
+      "description": "Dartford Heath",
+      "objectID": "c33e818afeceeee7abf8a552a415d852",
+      "ref": "dartford-heath-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ca76f114f4bbdd665ca806615ad878bf.gpx",
+  "_geoloc": {
+    "lat": 51.4305063572,
+    "lng": 0.2491542547
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg/500px-Darenth_Country_Park_Information_Board_-_geograph.org.uk_-_2489673.jpg",
+      "title": "Darenth Country Park Information Board by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Darenth Country Park Information Board. The image shows the various features in the park including the Mould sculpture, the Saxon burial ground and the Chapel Orchard."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Car_Park_in_Darenth_Country_Park_-_geograph.org.uk_-_2489824.jpg/500px-Car_Park_in_Darenth_Country_Park_-_geograph.org.uk_-_2489824.jpg",
+      "title": "Car Park in Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Car Park view."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entrance_to_Darenth_Country_Park_-_geograph.org.uk_-_2489668.jpg/500px-Entrance_to_Darenth_Country_Park_-_geograph.org.uk_-_2489668.jpg",
+      "title": "Entrance to Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entrance to Darenth Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Picnic_Area_in_Darenth_Country_Park_-_geograph.org.uk_-_2489850.jpg/500px-Picnic_Area_in_Darenth_Country_Park_-_geograph.org.uk_-_2489850.jpg",
+      "title": "Picnic Area in Darenth Country Park by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Picnic Area"
+    }
+  ],
+  "distance_km": 1.5,
+  "description": "This country park in Dartford has some nice cycling and walking trails to try. The park has a decent sized car park just off Gore Road, near Darent Valley Hospital. From here you can pick up the 1 mile circuit around the park. The park has nice wide lawns, picnic areas, meadows and pockets of woodland. The area is popular with dog walkers and joggers. You can extend your walk by heading east and exploring Darenth Wood. Eventually you will come to Bean and the pretty Beacon Wood Country Park. There's more nice woodland trails here. About 1 mile to the west of the park you can pick up the Darent Valley Path. This splendid long distance trail will take you along the River Darent to Farningham where you will find the pretty Farningham Woods Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland in Darent Wood are ideal for dog walking. You'll probably meet other friendly owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the west there's some nice trails to try around Dartford Heath. Here you'll find ponds, peaceful woodland, pretty heather and lots of wildlife. To the north east there's Greenhithe where you can visit the historic Ingress Abbey heritage park. The park includes a photogenic Neo-gothic Jacobean-style country house surrounded by attractive parkland and a number of follies.  For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/mZCOY44BE8U",
+  "postcode": "DA2 6JX",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Gore Road, Darenth, Dartford, Kent, England, DA2 6JX, United Kingdom",
+  "district": "Dartford",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

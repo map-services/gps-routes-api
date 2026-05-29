@@ -1,65 +1,73 @@
 {
-    "created_at": "2025-01-06T10:20:30.622574+00:00",
-    "objectID": "64735e4f2d18216541dbfbb342dc5ff7",
-    "ref": "porthtowan-to-st-agnes-coastal-walk",
-    "title": "Porthtowan to St Agnes Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Above_Porthtowan_-_geograph.org.uk_-_2777635.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/64735e4f2d18216541dbfbb342dc5ff7.gpx",
-    "_geoloc": {
-        "lat": 50.2867859004,
-        "lng": -5.240279287
+  "created_at": "2025-01-06T10:20:30.622574+00:00",
+  "objectID": "64735e4f2d18216541dbfbb342dc5ff7",
+  "ref": "porthtowan-to-st-agnes-coastal-walk",
+  "title": "Porthtowan to St Agnes Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Above_Porthtowan_-_geograph.org.uk_-_2777635.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/64735e4f2d18216541dbfbb342dc5ff7.gpx",
+  "_geoloc": {
+    "lat": 50.2867859004,
+    "lng": -5.240279287
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Above_Porthtowan_-_geograph.org.uk_-_2777635.jpg",
+      "title": "Above Porthtowan by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Above Porthtowan"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Above_Porthtowan_-_geograph.org.uk_-_2777635.jpg",
-            "title": "Above Porthtowan by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Above Porthtowan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coastline_beyond_Chapel_Porth_-_geograph.org.uk_-_2569277.jpg",
-            "title": "Coastline beyond Chapel Porth by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Coastline beyond Chapel Porth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chapel_Porth_-_geograph.org.uk_-_471377.jpg",
-            "title": "Tony Atkin / Chapel Porth",
-            "caption": "Chapel Porth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wheal_Coates_-_St_Agnes_-_geograph.org.uk_-_3124929.jpg",
-            "title": "Wheal Coates - St Agnes by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wheal Coates"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wheal_Coates_-_St_Agnes_-_geograph.org.uk_-_3124929.jpg",
-            "title": "Wheal Coates - St Agnes by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wheal Coates"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trig_Point%2C_St_Agnes_Beacon_-_geograph.org.uk_-_2807506.jpg/500px-Trig_Point%2C_St_Agnes_Beacon_-_geograph.org.uk_-_2807506.jpg",
-            "title": "Trig Point, St Agnes Beacon by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Trig Point, St Agnes Beacon"
-        }
-    ],
-    "distance_km": 10.0,
-    "description": "This coastal walk takes you along a section of the South West Coast Path from Porthtowan to St Agnes Head. You then have the option of continuing inland to climb to the viewpoint at St Agnes Beacon. The route runs for just over 3 miles so around 6.5 miles there and back. On the way you will pass along a splendid cliff top path, passing a number of natural arches and secluded caves. There's some wonderful coastal views and wonderful geology on this popular section of the path. The area is known as Poldark country and additionally features a number of historic mines including the famous Wheal Coates. The old mine is one of the notable photogenic spots in this historic area.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/xr09i-w3zwo",
-    "postcode": "TR4 8AA",
-    "district": "Porthtowan",
-    "county": "Cornwall",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Beach Road, Porthtowan, St. Agnes, Porthtowan, Cornwall, England, TR4 8AA, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["coastal", "cliff"],
-    "points_of_interest": ["viewpoint", "mines", "historic site"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coastline_beyond_Chapel_Porth_-_geograph.org.uk_-_2569277.jpg",
+      "title": "Coastline beyond Chapel Porth by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Coastline beyond Chapel Porth"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chapel_Porth_-_geograph.org.uk_-_471377.jpg",
+      "title": "Tony Atkin / Chapel Porth",
+      "caption": "Chapel Porth"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wheal_Coates_-_St_Agnes_-_geograph.org.uk_-_3124929.jpg",
+      "title": "Wheal Coates - St Agnes by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wheal Coates"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wheal_Coates_-_St_Agnes_-_geograph.org.uk_-_3124929.jpg",
+      "title": "Wheal Coates - St Agnes by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wheal Coates"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trig_Point%2C_St_Agnes_Beacon_-_geograph.org.uk_-_2807506.jpg/500px-Trig_Point%2C_St_Agnes_Beacon_-_geograph.org.uk_-_2807506.jpg",
+      "title": "Trig Point, St Agnes Beacon by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Trig Point, St Agnes Beacon"
+    }
+  ],
+  "distance_km": 10.0,
+  "description": "This coastal walk takes you along a section of the South West Coast Path from Porthtowan to St Agnes Head. You then have the option of continuing inland to climb to the viewpoint at St Agnes Beacon. The route runs for just over 3 miles so around 6.5 miles there and back. On the way you will pass along a splendid cliff top path, passing a number of natural arches and secluded caves. There's some wonderful coastal views and wonderful geology on this popular section of the path. The area is known as Poldark country and additionally features a number of historic mines including the famous Wheal Coates. The old mine is one of the notable photogenic spots in this historic area.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/xr09i-w3zwo",
+  "postcode": "TR4 8AA",
+  "district": "Porthtowan",
+  "county": "Cornwall",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Beach Road, Porthtowan, St. Agnes, Porthtowan, Cornwall, England, TR4 8AA, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

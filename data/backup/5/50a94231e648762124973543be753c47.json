@@ -86,22 +86,19 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "castle",
-    "village",
-    "historical site"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "pub",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

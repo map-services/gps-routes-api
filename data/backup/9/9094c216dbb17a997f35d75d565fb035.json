@@ -1,149 +1,134 @@
 {
-  "created_at": "2025-01-06T04:01:08.587925+00:00",
-  "objectID": "9094c216dbb17a997f35d75d565fb035",
-  "ref": "oldbury-on-severn-walking-route",
-  "title": "Oldbury on Severn Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg/500px-Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg",
-  "nearby": [
-    {
-      "description": "Severn Bridge",
-      "objectID": "5decf7d5d81ead0dbc60d1c0c49a781b",
-      "ref": "severn-bridge-walking-route"
+    "created_at": "2025-01-06T04:01:08.587925+00:00",
+    "objectID": "9094c216dbb17a997f35d75d565fb035",
+    "ref": "oldbury-on-severn-walking-route",
+    "title": "Oldbury on Severn Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg/500px-Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg",
+    "nearby": [
+        {
+            "description": "Severn Bridge",
+            "objectID": "5decf7d5d81ead0dbc60d1c0c49a781b",
+            "ref": "severn-bridge-walking-route"
+        },
+        {
+            "description": "Severn Way",
+            "objectID": "72be59b71bcbfee43d10b1521911293f",
+            "ref": "severn-way-walking-route"
+        },
+        {
+            "description": "Severn Beach",
+            "objectID": "0aae1308e05488ea792c8c8ac40a662a",
+            "ref": "severn-beach-walking-route"
+        },
+        {
+            "description": "Chepstow",
+            "objectID": "d283e95c86277a2267008b7081146c58",
+            "ref": "chepstow-walking-route"
+        },
+        {
+            "description": "Tintern Abbey",
+            "objectID": "cf211bde830017fdc4432815b9591546",
+            "ref": "tintern-abbey-walking-route"
+        },
+        {
+            "description": "Wye Valley Walk Chepstow to Tintern",
+            "objectID": "27fad31e1e23e976dfe149ce82c38712",
+            "ref": "wye-valley-walk-chepstow-to-tintern-walking-route"
+        },
+        {
+            "description": "Purton Hulks",
+            "objectID": "053231166414d7a5823adc1e99a15f6d",
+            "ref": "purton-hulks-walking-route"
+        },
+        {
+            "description": "Thornbury",
+            "objectID": "53decb1793432529ad70187dac82e946",
+            "ref": "thornbury-walking-route"
+        },
+        {
+            "description": "Berkeley",
+            "objectID": "357fb967acc2a6719cda4dcd4d3d7348",
+            "ref": "berkeley-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9094c216dbb17a997f35d75d565fb035.gpx",
+    "_geoloc": {
+        "lat": 51.6291892444,
+        "lng": -2.5670721643
     },
-    {
-      "description": "Severn Way",
-      "objectID": "72be59b71bcbfee43d10b1521911293f",
-      "ref": "severn-way-walking-route"
-    },
-    {
-      "description": "Severn Beach",
-      "objectID": "0aae1308e05488ea792c8c8ac40a662a",
-      "ref": "severn-beach-walking-route"
-    },
-    {
-      "description": "Chepstow",
-      "objectID": "d283e95c86277a2267008b7081146c58",
-      "ref": "chepstow-walking-route"
-    },
-    {
-      "description": "Tintern Abbey",
-      "objectID": "cf211bde830017fdc4432815b9591546",
-      "ref": "tintern-abbey-walking-route"
-    },
-    {
-      "description": "Wye Valley Walk Chepstow to Tintern",
-      "objectID": "27fad31e1e23e976dfe149ce82c38712",
-      "ref": "wye-valley-walk-chepstow-to-tintern-walking-route"
-    },
-    {
-      "description": "Purton Hulks",
-      "objectID": "053231166414d7a5823adc1e99a15f6d",
-      "ref": "purton-hulks-walking-route"
-    },
-    {
-      "description": "Thornbury",
-      "objectID": "53decb1793432529ad70187dac82e946",
-      "ref": "thornbury-walking-route"
-    },
-    {
-      "description": "Berkeley",
-      "objectID": "357fb967acc2a6719cda4dcd4d3d7348",
-      "ref": "berkeley-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9094c216dbb17a997f35d75d565fb035.gpx",
-  "_geoloc": {
-    "lat": 51.6291892444,
-    "lng": -2.5670721643
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg/500px-Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg",
-      "title": "chris morton / Severn Way Footpath at Oldbury",
-      "caption": "Severn Way Footpath at Oldbury. Looking North - further on it curves round towards Oldbury nuclear power station"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oldbury_Pill_-_geograph.org.uk_-_575004.jpg",
-      "title": "Graham Horn / Oldbury Pill",
-      "caption": "Oldbury Pill. At low tide many boats are beached in this, and other pills along the banks of the Severn. The boat clubhouse is the white building to the right. Pill is the local name for a creek."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oldbury-on-Severn_Community_Shop_%28geograph_6164715%29.jpg/500px-Oldbury-on-Severn_Community_Shop_%28geograph_6164715%29.jpg",
-      "title": "Jaggery / Oldbury-on-Severn Community Shop",
-      "caption": "Oldbury-on-Severn Community Shop. Viewed across Church Road in May 2019. As well as selling local produce and day-to-day essentials, the Community Shop has a cafe popular with locals, cyclists and walkers. The Community Shop is run by volunteers."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Severn_Way_near_Oldbury_Power_Station._-_geograph.org.uk_-_681932.jpg",
-      "title": "Ken Wilkins / The Severn Way near Oldbury Power Station.",
-      "caption": "The Severn Way near Oldbury Power Station. Looking upstream with low tide on the River Severn. On the other side of the river,in the far distance, would be Lydney."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Anchor_Inn%2C_Oldbury-on-Severn_%28geograph_2368706%29.jpg/500px-The_Anchor_Inn%2C_Oldbury-on-Severn_%28geograph_2368706%29.jpg",
-      "title": "John Lord / The Anchor Inn, Oldbury-on-Severn",
-      "caption": "The Anchor Inn, Oldbury-on-Severn"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Severn_bank_looking_north_-_geograph.org.uk_-_314733.jpg",
-      "title": "Jonathan Billinger / Severn bank looking north",
-      "caption": "The Severn estuary begins to narrow here, with rocks off the southern bank. Chapel House with its lighthouse is just visible. The hills opposite are those rising north of Lydney in the Forest of Dean."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rhine_Mouth_-_geograph.org.uk_-_136278.jpg",
-      "title": "David Bowd-Exworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Rhine Mouth. Looking north-west from beside the sluice (see other photo for this square). The rhine (a local name for drainage streams; pronounced 'reen') enters the River Severn at low tide. The Severn fills 3/4 of this grid square."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Looking_West_toward_the_gardens_%28Berkeley_Castle%29_-_geograph.org.uk_-_1742267.jpg/500px-Looking_West_toward_the_gardens_%28Berkeley_Castle%29_-_geograph.org.uk_-_1742267.jpg",
-      "title": "Mark Holland / Looking West toward the gardens (Berkeley Castle)",
-      "caption": "Looking West toward the gardens at Berkeley Castle"
-    }
-  ],
-  "distance_km": 12.5,
-  "description": "This little village is located in a lovely spot, near the mouth of the River Severn in South Gloucestershire. There's good waterside footpaths, a fine local pub and a notable church. The historic old church is well worth a visit as it sits on a hill with fine views over the area. This walk from the Oldbury on Severn takes you along the Severn Estuary to the neighbouring town of Berkeley and its historic castle. The estuary is also a great place for birdwatching so keep your eyes peeled for a variety of waders. The walk starts in the village where you can pick up the Severn Way and follow the waymarked footpath west along Oldbury Pill. The little creek has lots of little boats leading down to the Severn. The route then turns north to head along the river where there are excellent views across the Welsh side. The route will take you past a Tidal Reservoir and Oldbury Power Station before coming to Berkeley Power Station. Here you leave the river and follow footpaths along Berkeley Pill before finishing at Berkeley Castle. The Grade I listed castle has a fascinating history dating back to the 11th century. There's also some beautiful grounds and gardens to stroll around before heading back to Oldbury on the same paths. In the town there's also the fascinating Edward Jenner Museum where you can learn all about the birthplace of vaccination.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Anchor Inn is a historical pub of some note, located in the village. The pub has a charming olde worlde interior with beams, stones, cushioned window seats, winged seats against the wall and a cosy fire for colder days. There's also some fine oil paintings by local artists to admire. Outside there's a lovely garden area for warmer weather. You can find them on Church Lane at a postcode of BS35 1QA for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The river paths are a nice one to do with your dog and the Anchor Inn mentioned above is also dog friendly. Dogs are not allowed inside Berkeley Castle though."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you continue north along the Severn Way you come to Newtown and the interesting Purton Hulks. This unusual site includes a number of abandoned boats and ships which were deliberately beached beside the river to reinforce the river banks between 1909 and 1965. You can also enjoy a stroll along the Gloucester and Sharpness Canal here. Head south from the village and you can visit the iconic Severn Bridge. Here you can also pick up the Severn Beach Walk. This is a popular route taking you along the sea wall to the village of Severn Beach. You could also cross the famous bridge into Wales and visit Chepstow and the historic Tintern Abbey. Just a couple of miles east of the village you'll find the neighbouring town of Thornbury. It's an attractive market town and a winner of the Britain in Bloom award. It has an interesting history too, with a Tudor castle and a noteworthy Norman church to investigate. The circular Thornbury Walk starts from the town castle and visits Littleton-Upon-Severn and the estuary before passing through Oldbury. For more walking ideas in the area see the Gloucestershire Walks page."
-    }
-  ],
-  "district": "Oldbury on Severn",
-  "county": "South Gloucestershire",
-  "region": "West of England",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Pill House, Church Road, Oldbury-upon-Severn, Oldbury on Severn, South Gloucestershire, West of England, England, BS35 1QF, United Kingdom",
-  "postcode": "BS35 1QF",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "river",
-    "footpath"
-  ],
-  "points_of_interest": [
-    "church",
-    "castle",
-    "museum"
-  ],
-  "facilities": [
-    "pub",
-    "visitor center",
-    "car park",
-    "garden"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg/500px-Severn_Way_Footpath_at_Oldbury_-_geograph.org.uk_-_1755339.jpg",
+            "title": "chris morton / Severn Way Footpath at Oldbury",
+            "caption": "Severn Way Footpath at Oldbury. Looking North - further on it curves round towards Oldbury nuclear power station"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oldbury_Pill_-_geograph.org.uk_-_575004.jpg",
+            "title": "Graham Horn / Oldbury Pill",
+            "caption": "Oldbury Pill. At low tide many boats are beached in this, and other pills along the banks of the Severn. The boat clubhouse is the white building to the right. Pill is the local name for a creek."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oldbury-on-Severn_Community_Shop_%28geograph_6164715%29.jpg/500px-Oldbury-on-Severn_Community_Shop_%28geograph_6164715%29.jpg",
+            "title": "Jaggery / Oldbury-on-Severn Community Shop",
+            "caption": "Oldbury-on-Severn Community Shop. Viewed across Church Road in May 2019. As well as selling local produce and day-to-day essentials, the Community Shop has a cafe popular with locals, cyclists and walkers. The Community Shop is run by volunteers."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Severn_Way_near_Oldbury_Power_Station._-_geograph.org.uk_-_681932.jpg",
+            "title": "Ken Wilkins / The Severn Way near Oldbury Power Station.",
+            "caption": "The Severn Way near Oldbury Power Station. Looking upstream with low tide on the River Severn. On the other side of the river,in the far distance, would be Lydney."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Anchor_Inn%2C_Oldbury-on-Severn_%28geograph_2368706%29.jpg/500px-The_Anchor_Inn%2C_Oldbury-on-Severn_%28geograph_2368706%29.jpg",
+            "title": "John Lord / The Anchor Inn, Oldbury-on-Severn",
+            "caption": "The Anchor Inn, Oldbury-on-Severn"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Severn_bank_looking_north_-_geograph.org.uk_-_314733.jpg",
+            "title": "Jonathan Billinger / Severn bank looking north",
+            "caption": "The Severn estuary begins to narrow here, with rocks off the southern bank. Chapel House with its lighthouse is just visible. The hills opposite are those rising north of Lydney in the Forest of Dean."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rhine_Mouth_-_geograph.org.uk_-_136278.jpg",
+            "title": "David Bowd-Exworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Rhine Mouth. Looking north-west from beside the sluice (see other photo for this square). The rhine (a local name for drainage streams; pronounced 'reen') enters the River Severn at low tide. The Severn fills 3/4 of this grid square."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Looking_West_toward_the_gardens_%28Berkeley_Castle%29_-_geograph.org.uk_-_1742267.jpg/500px-Looking_West_toward_the_gardens_%28Berkeley_Castle%29_-_geograph.org.uk_-_1742267.jpg",
+            "title": "Mark Holland / Looking West toward the gardens (Berkeley Castle)",
+            "caption": "Looking West toward the gardens at Berkeley Castle"
+        }
+    ],
+    "distance_km": 12.5,
+    "description": "This little village is located in a lovely spot, near the mouth of the River Severn in South Gloucestershire. There's good waterside footpaths, a fine local pub and a notable church. The historic old church is well worth a visit as it sits on a hill with fine views over the area. This walk from the Oldbury on Severn takes you along the Severn Estuary to the neighbouring town of Berkeley and its historic castle. The estuary is also a great place for birdwatching so keep your eyes peeled for a variety of waders. The walk starts in the village where you can pick up the Severn Way and follow the waymarked footpath west along Oldbury Pill. The little creek has lots of little boats leading down to the Severn. The route then turns north to head along the river where there are excellent views across the Welsh side. The route will take you past a Tidal Reservoir and Oldbury Power Station before coming to Berkeley Power Station. Here you leave the river and follow footpaths along Berkeley Pill before finishing at Berkeley Castle. The Grade I listed castle has a fascinating history dating back to the 11th century. There's also some beautiful grounds and gardens to stroll around before heading back to Oldbury on the same paths. In the town there's also the fascinating Edward Jenner Museum where you can learn all about the birthplace of vaccination.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Anchor Inn is a historical pub of some note, located in the village. The pub has a charming olde worlde interior with beams, stones, cushioned window seats, winged seats against the wall and a cosy fire for colder days. There's also some fine oil paintings by local artists to admire. Outside there's a lovely garden area for warmer weather. You can find them on Church Lane at a postcode of BS35 1QA for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The river paths are a nice one to do with your dog and the Anchor Inn mentioned above is also dog friendly. Dogs are not allowed inside Berkeley Castle though."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you continue north along the Severn Way you come to Newtown and the interesting Purton Hulks. This unusual site includes a number of abandoned boats and ships which were deliberately beached beside the river to reinforce the river banks between 1909 and 1965. You can also enjoy a stroll along the Gloucester and Sharpness Canal here. Head south from the village and you can visit the iconic Severn Bridge. Here you can also pick up the Severn Beach Walk. This is a popular route taking you along the sea wall to the village of Severn Beach. You could also cross the famous bridge into Wales and visit Chepstow and the historic Tintern Abbey. Just a couple of miles east of the village you'll find the neighbouring town of Thornbury. It's an attractive market town and a winner of the Britain in Bloom award. It has an interesting history too, with a Tudor castle and a noteworthy Norman church to investigate. The circular Thornbury Walk starts from the town castle and visits Littleton-Upon-Severn and the estuary before passing through Oldbury. For more walking ideas in the area see the Gloucestershire Walks page."
+        }
+    ],
+    "district": "Oldbury on Severn",
+    "county": "South Gloucestershire",
+    "region": "West of England",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Pill House, Church Road, Oldbury-upon-Severn, Oldbury on Severn, South Gloucestershire, West of England, England, BS35 1QF, United Kingdom",
+    "postcode": "BS35 1QF",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "easy",
+    "terrain": ["waterside"],
+    "points_of_interest": ["church", "castle", "museum"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

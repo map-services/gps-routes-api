@@ -1,128 +1,117 @@
 {
-  "created_at": "2025-01-06T02:01:13.965015+00:00",
-  "objectID": "d57e548b824e654a45dec77bcd71fc70",
-  "ref": "hogganfield-loch-walking-route",
-  "title": "Hogganfield\u00a0Loch Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Walkway_around_Hogganfield_Loch_-_geograph.org.uk_-_1225198.jpg",
-  "nearby": [
-    {
-      "description": "Clyde Walkway",
-      "objectID": "e62ba389bfbe5501584fa2fa905719ed",
-      "ref": "clyde-walkway-walking-and-cycle-route"
+    "created_at": "2025-01-06T02:01:13.965015+00:00",
+    "objectID": "d57e548b824e654a45dec77bcd71fc70",
+    "ref": "hogganfield-loch-walking-route",
+    "title": "Hogganfield\u00a0Loch Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Walkway_around_Hogganfield_Loch_-_geograph.org.uk_-_1225198.jpg",
+    "nearby": [
+        {
+            "description": "Clyde Walkway",
+            "objectID": "e62ba389bfbe5501584fa2fa905719ed",
+            "ref": "clyde-walkway-walking-and-cycle-route"
+        },
+        {
+            "description": "Kelvin Walkway",
+            "objectID": "c2ae751a35f7d8c74e3e1b0690be3acc",
+            "ref": "kelvin-walkway-walking-route"
+        },
+        {
+            "description": "Glasgow Canal Walk",
+            "objectID": "dafa788321c13a56932dd1aad1840304",
+            "ref": "glasgow-canal-walk-walking-route"
+        },
+        {
+            "description": "Glasgow Murals Trail",
+            "objectID": "b00761c9d102bff0cd8682f335d3a3b8",
+            "ref": "glasgow-murals-trail-walking-route"
+        },
+        {
+            "description": "Forth and Clyde Canal",
+            "objectID": "c8d5b3b26a6b05f4901cfed442d6b116",
+            "ref": "forth-and-clyde-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Drumpellier Country Park",
+            "objectID": "c057b70841cf430311acb3954099f248",
+            "ref": "drumpellier-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Bardowie Loch",
+            "objectID": "8c1395616bec055c28e0f7cd0d24cb9e",
+            "ref": "bardowie-loch-walking-route"
+        },
+        {
+            "description": "Strathclyde Country Park",
+            "objectID": "e13a4f29a9c7e547ee429fa372188be1",
+            "ref": "strathclyde-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Chatelherault Country Park",
+            "objectID": "99568919ae0c984d230509680d2ec9de",
+            "ref": "chatelherault-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Bothwell Castle",
+            "objectID": "8d456c0a25a640322323b779980d4251",
+            "ref": "bothwell-castle-walking-route"
+        },
+        {
+            "description": "Cathkin Braes Country Park",
+            "objectID": "cda233fbd2f440f22c7028a5f47a655c",
+            "ref": "cathkin-braes-country-park-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d57e548b824e654a45dec77bcd71fc70.gpx",
+    "_geoloc": {
+        "lat": 55.8787920607,
+        "lng": -4.1776332284
     },
-    {
-      "description": "Kelvin Walkway",
-      "objectID": "c2ae751a35f7d8c74e3e1b0690be3acc",
-      "ref": "kelvin-walkway-walking-route"
-    },
-    {
-      "description": "Glasgow Canal Walk",
-      "objectID": "dafa788321c13a56932dd1aad1840304",
-      "ref": "glasgow-canal-walk-walking-route"
-    },
-    {
-      "description": "Glasgow Murals Trail",
-      "objectID": "b00761c9d102bff0cd8682f335d3a3b8",
-      "ref": "glasgow-murals-trail-walking-route"
-    },
-    {
-      "description": "Forth and Clyde Canal",
-      "objectID": "c8d5b3b26a6b05f4901cfed442d6b116",
-      "ref": "forth-and-clyde-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Drumpellier Country Park",
-      "objectID": "c057b70841cf430311acb3954099f248",
-      "ref": "drumpellier-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Bardowie Loch",
-      "objectID": "8c1395616bec055c28e0f7cd0d24cb9e",
-      "ref": "bardowie-loch-walking-route"
-    },
-    {
-      "description": "Strathclyde Country Park",
-      "objectID": "e13a4f29a9c7e547ee429fa372188be1",
-      "ref": "strathclyde-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Chatelherault Country Park",
-      "objectID": "99568919ae0c984d230509680d2ec9de",
-      "ref": "chatelherault-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Bothwell Castle",
-      "objectID": "8d456c0a25a640322323b779980d4251",
-      "ref": "bothwell-castle-walking-route"
-    },
-    {
-      "description": "Cathkin Braes Country Park",
-      "objectID": "cda233fbd2f440f22c7028a5f47a655c",
-      "ref": "cathkin-braes-country-park-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d57e548b824e654a45dec77bcd71fc70.gpx",
-  "_geoloc": {
-    "lat": 55.8787920607,
-    "lng": -4.1776332284
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Walkway_around_Hogganfield_Loch_-_geograph.org.uk_-_1225198.jpg",
-      "title": "G Laird / Walkway around Hogganfield Loch",
-      "caption": "Walkway around Hogganfield Loch"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Swans_on_the_Shore_of_Hogganfield_Loch_-_geograph.org.uk_-_382166.jpg",
-      "title": "Darrin Antrobus / Swans on the Shore of Hogganfield Loch",
-      "caption": "Swans on the Shore of Hogganfield Loch"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pathway_around_Hogganfield_Loch_-_geograph.org.uk_-_382179.jpg",
-      "title": "Darrin Antrobus / Pathway around Hogganfield Loch",
-      "caption": "Pathway view"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mute_Swan%2C_Hogganfield_Park_Local_Nature_Reserve_%28geograph_4890840%29.jpg/500px-Mute_Swan%2C_Hogganfield_Park_Local_Nature_Reserve_%28geograph_4890840%29.jpg",
-      "title": "Richard Sutcliffe / Mute Swan, Hogganfield Park Local Nature Reserve",
-      "caption": "Mute Swan, Hogganfield Park Local Nature Reserve"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This walk follows the circular trail around Hogganfield Loch in Glasgow. The pretty loch and nature reserve is located just to the north east of the city centre. The loch is a great place for birdwatching with visitors including whooper swan, greylag geese, canada geese, teal, wigeon, gadwall and goosander. The circular footpath runs for just over a mile so should take around 30-40 minutes to complete. The loch is part of the wider Seven Lochs Wetland Park, Scotland's largest urban heritage and nature park. You could extend your outing by visiting Frankfield Loch and Bishop Loch to the east.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To continue your walking in the area you could head south to pick up the Clyde Walkway. This shared cycling and walking trail runs along the River Clyde through Glasgow. It will take you to Strathclyde Loch Country Park, Chatelherault Country Park and the photogenic ruins of the historic 13th century Bothwell Castle. To the east is Drumpellier Country Park where you'll find 500 acres of lowland heath, mixed woodlands, lochs, open grassland and waterside paths along the Monkland Canal. To the north east you can pick up the Strathkelvin Railway Path near Gartcosh. This shared cycling and walking route runs along a disused railway line to Strathblane, with lovely views of the Campsie Fells on the way. The Glasgow Canal Walk, the Glasgow Murals Trail, the Forth and Clyde Canal and the Kelvin Walkway can also be picked up in the city."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/2F4rIvsF56U",
-  "district": "Glasgow",
-  "county": "Glasgow City",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Cumbernauld Road, Hogganfield, Glasgow, Glasgow City, Alba / Scotland, G33 1QB, United Kingdom",
-  "postcode": "G33 1QB",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "30-40 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "loch",
-    "nature"
-  ],
-  "points_of_interest": [
-    "birdwatching"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Walkway_around_Hogganfield_Loch_-_geograph.org.uk_-_1225198.jpg",
+            "title": "G Laird / Walkway around Hogganfield Loch",
+            "caption": "Walkway around Hogganfield Loch"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Swans_on_the_Shore_of_Hogganfield_Loch_-_geograph.org.uk_-_382166.jpg",
+            "title": "Darrin Antrobus / Swans on the Shore of Hogganfield Loch",
+            "caption": "Swans on the Shore of Hogganfield Loch"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pathway_around_Hogganfield_Loch_-_geograph.org.uk_-_382179.jpg",
+            "title": "Darrin Antrobus / Pathway around Hogganfield Loch",
+            "caption": "Pathway view"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mute_Swan%2C_Hogganfield_Park_Local_Nature_Reserve_%28geograph_4890840%29.jpg/500px-Mute_Swan%2C_Hogganfield_Park_Local_Nature_Reserve_%28geograph_4890840%29.jpg",
+            "title": "Richard Sutcliffe / Mute Swan, Hogganfield Park Local Nature Reserve",
+            "caption": "Mute Swan, Hogganfield Park Local Nature Reserve"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This walk follows the circular trail around Hogganfield Loch in Glasgow. The pretty loch and nature reserve is located just to the north east of the city centre. The loch is a great place for birdwatching with visitors including whooper swan, greylag geese, canada geese, teal, wigeon, gadwall and goosander. The circular footpath runs for just over a mile so should take around 30-40 minutes to complete. The loch is part of the wider Seven Lochs Wetland Park, Scotland's largest urban heritage and nature park. You could extend your outing by visiting Frankfield Loch and Bishop Loch to the east.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To continue your walking in the area you could head south to pick up the Clyde Walkway. This shared cycling and walking trail runs along the River Clyde through Glasgow. It will take you to Strathclyde Loch Country Park, Chatelherault Country Park and the photogenic ruins of the historic 13th century Bothwell Castle. To the east is Drumpellier Country Park where you'll find 500 acres of lowland heath, mixed woodlands, lochs, open grassland and waterside paths along the Monkland Canal. To the north east you can pick up the Strathkelvin Railway Path near Gartcosh. This shared cycling and walking route runs along a disused railway line to Strathblane, with lovely views of the Campsie Fells on the way. The Glasgow Canal Walk, the Glasgow Murals Trail, the Forth and Clyde Canal and the Kelvin Walkway can also be picked up in the city."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/2F4rIvsF56U",
+    "district": "Glasgow",
+    "county": "Glasgow City",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Cumbernauld Road, Hogganfield, Glasgow, Glasgow City, Alba / Scotland, G33 1QB, United Kingdom",
+    "postcode": "G33 1QB",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "40 minutes",
+    "difficulty": "easy",
+    "terrain": ["nature reserve"],
+    "points_of_interest": ["loch", "bird watching"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

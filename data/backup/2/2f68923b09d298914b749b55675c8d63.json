@@ -120,23 +120,25 @@
   "district": "New Forest",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "less than 1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "woodland",
+    "heathland"
   ],
   "points_of_interest": [
-    "viewing platform",
-    "information cabin",
-    "historical tree"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "picnic tables",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly",
+    "picnic table"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

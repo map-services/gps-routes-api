@@ -1,92 +1,104 @@
 {
-    "created_at": "2025-01-06T18:42:00.249553+00:00",
-    "objectID": "e9c39dc45269f78377b044a7b887360e",
-    "ref": "swanwick-lakes-walking-route",
-    "title": "Swanwick Lakes Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Swanwick_Reserve_Centre_-_geograph.org.uk_-_225354.jpg",
-    "nearby": [
-        {
-            "description": "Manor Farm and Country Park",
-            "objectID": "c69d6cf0c35252f81e46eeca1786cf3b",
-            "ref": "manor-farm-and-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "River Hamble",
-            "objectID": "7cfee49650e317bcb9ae3188d36bd153",
-            "ref": "river-hamble-walking-route"
-        },
-        {
-            "description": "Hamble Common",
-            "objectID": "84c96a947b0ec9f8f373b7a6b32e7c77",
-            "ref": "hamble-common-walking-route"
-        },
-        {
-            "description": "Bursledon",
-            "objectID": "c8f23d0512600d01650d2850489b7123",
-            "ref": "bursledon-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e9c39dc45269f78377b044a7b887360e.gpx",
-    "_geoloc": {
-        "lat": 50.88607,
-        "lng": -1.28279
+  "created_at": "2025-01-06T18:42:00.249553+00:00",
+  "objectID": "e9c39dc45269f78377b044a7b887360e",
+  "ref": "swanwick-lakes-walking-route",
+  "title": "Swanwick Lakes Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Swanwick_Reserve_Centre_-_geograph.org.uk_-_225354.jpg",
+  "nearby": [
+    {
+      "description": "Manor Farm and Country Park",
+      "objectID": "c69d6cf0c35252f81e46eeca1786cf3b",
+      "ref": "manor-farm-and-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Swanwick_Reserve_Centre_-_geograph.org.uk_-_225354.jpg",
-            "title": "Hugh Venables / Swanwick Reserve Centre",
-            "caption": "Swanwick Reserve Centre. At this educational facility children can learn about the natural environment."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Clay_Pit_-_geograph.org.uk_-_225347.jpg",
-            "title": "Hugh Venables / Clay Pit",
-            "caption": "Clay Pit. Old clay pit associated with brick making."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Early_spring_at_Swanwick_Lakes_%281%29_-_geograph.org.uk_-_4061839.jpg",
-            "title": "Early spring at Swanwick Lakes (1) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Early spring at Swanwick Lakes"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_spring_at_Swanwick_Lakes_%285%29_-_geograph.org.uk_-_4061850.jpg",
-            "title": "Early spring at Swanwick Lakes (5) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Field and woodland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gate_offering_access_to_Bens_Lake%2C_Swanwick_-_geograph.org.uk_-_464653.jpg",
-            "title": "Peter Facey / Gate offering access to Bens Lake, Swanwick",
-            "caption": "Gate offering access to Bens Lake. A peculiar stile or gate design I haven't seen before. The counter-weight is sufficiently light so that the bars shut into their horizontal position under their own weight. To photograph this I had to hold the thing open and then snap it quickly as it fell shut. Of course, the design leaves a rather large, and certainly not stock-proof hole under the counter-weight."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Early_spring_at_Swanwick_Lakes_%282%29_-_geograph.org.uk_-_4061840.jpg",
-            "title": "Early spring at Swanwick Lakes (2) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ben's Lake"
-        }
-    ],
-    "distance_km": 1.6,
-    "description": "This walk visits the Swanwick Lakes Nature Reserve in the Hampshire village of Swanwick. Here you can enjoy a series of footpaths taking you around the site's woodland, meadows and lakes which are made from the former clay pits. There's lots of wildlife to see with birds including marsh tits and woodpeckers. Wildflowers in the summer include orchids and knapweed attracting lots of butterflies such as marbled white, meadow brown and gatekeeper. To continue your walking in the area head north over the River Hamble to visit Manor Farm and Country Park. There's some fine cycling and walking trails with 600 year old historic buildings including the 13th century St Bartholomew's church.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the west of the reserve you can pick up the River Hamble Walk which runs from the mouth of the River Hamble at Warsash to Bursledon. Hamble Common can also be accessed in this area."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/CzuqTDrjQMQ",
-    "county": "Hampshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Sopwith Way, Sarisbury Green, Fareham, Hampshire, England, SO31 7HA, United Kingdom",
-    "postcode": "SO31 7HA",
-    "district": "Fareham",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "lakes"],
-    "points_of_interest": ["historic buildings", "church"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "River Hamble",
+      "objectID": "7cfee49650e317bcb9ae3188d36bd153",
+      "ref": "river-hamble-walking-route"
+    },
+    {
+      "description": "Hamble Common",
+      "objectID": "84c96a947b0ec9f8f373b7a6b32e7c77",
+      "ref": "hamble-common-walking-route"
+    },
+    {
+      "description": "Bursledon",
+      "objectID": "c8f23d0512600d01650d2850489b7123",
+      "ref": "bursledon-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e9c39dc45269f78377b044a7b887360e.gpx",
+  "_geoloc": {
+    "lat": 50.88607,
+    "lng": -1.28279
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Swanwick_Reserve_Centre_-_geograph.org.uk_-_225354.jpg",
+      "title": "Hugh Venables / Swanwick Reserve Centre",
+      "caption": "Swanwick Reserve Centre. At this educational facility children can learn about the natural environment."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Clay_Pit_-_geograph.org.uk_-_225347.jpg",
+      "title": "Hugh Venables / Clay Pit",
+      "caption": "Clay Pit. Old clay pit associated with brick making."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Early_spring_at_Swanwick_Lakes_%281%29_-_geograph.org.uk_-_4061839.jpg",
+      "title": "Early spring at Swanwick Lakes (1) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Early spring at Swanwick Lakes"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_spring_at_Swanwick_Lakes_%285%29_-_geograph.org.uk_-_4061850.jpg",
+      "title": "Early spring at Swanwick Lakes (5) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Field and woodland"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gate_offering_access_to_Bens_Lake%2C_Swanwick_-_geograph.org.uk_-_464653.jpg",
+      "title": "Peter Facey / Gate offering access to Bens Lake, Swanwick",
+      "caption": "Gate offering access to Bens Lake. A peculiar stile or gate design I haven't seen before. The counter-weight is sufficiently light so that the bars shut into their horizontal position under their own weight. To photograph this I had to hold the thing open and then snap it quickly as it fell shut. Of course, the design leaves a rather large, and certainly not stock-proof hole under the counter-weight."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Early_spring_at_Swanwick_Lakes_%282%29_-_geograph.org.uk_-_4061840.jpg",
+      "title": "Early spring at Swanwick Lakes (2) by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ben's Lake"
+    }
+  ],
+  "distance_km": 1.6,
+  "description": "This walk visits the Swanwick Lakes Nature Reserve in the Hampshire village of Swanwick. Here you can enjoy a series of footpaths taking you around the site's woodland, meadows and lakes which are made from the former clay pits. There's lots of wildlife to see with birds including marsh tits and woodpeckers. Wildflowers in the summer include orchids and knapweed attracting lots of butterflies such as marbled white, meadow brown and gatekeeper. To continue your walking in the area head north over the River Hamble to visit Manor Farm and Country Park. There's some fine cycling and walking trails with 600 year old historic buildings including the 13th century St Bartholomew's church.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west of the reserve you can pick up the River Hamble Walk which runs from the mouth of the River Hamble at Warsash to Bursledon. Hamble Common can also be accessed in this area."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/CzuqTDrjQMQ",
+  "county": "Hampshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Sopwith Way, Sarisbury Green, Fareham, Hampshire, England, SO31 7HA, United Kingdom",
+  "postcode": "SO31 7HA",
+  "district": "Fareham",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic building",
+    "church"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,135 +1,145 @@
 {
-    "created_at": "2025-01-06T03:04:32.792490+00:00",
-    "objectID": "16cdf0fc2f3a8e9a62fc034b164818fd",
-    "ref": "crawley-walking-route",
-    "title": "Crawley Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg/500px-Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg",
-    "nearby": [
-        {
-            "description": "Buchan Country Park",
-            "objectID": "05f0df6c90bbc82792610cf9ecfbf565",
-            "ref": "buchan-country-park-walking-route"
-        },
-        {
-            "description": "Tilgate Country Park",
-            "objectID": "932784aa773770c9eb2712300180605a",
-            "ref": "tilgate-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Worth Way",
-            "objectID": "d71bdff5b4bc7511bbd8ce85fadd0d35",
-            "ref": "worth-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Brighton Way",
-            "objectID": "dfc58fa4d62d37cfbfd86e4b437ec6a6",
-            "ref": "brighton-way-walking-route"
-        },
-        {
-            "description": "Horsham Riverside Walk",
-            "objectID": "32793c1c04a9341f64af3bcf1d839cc7",
-            "ref": "horsham-riverside-walk-walking-route"
-        },
-        {
-            "description": "Horsham",
-            "objectID": "6276f61a7a1a1a12e059607426b6d713",
-            "ref": "horsham-walking-route"
-        },
-        {
-            "description": "St Leonard's Forest",
-            "objectID": "738fc2eb8a1a6f1ee75690b36c366267",
-            "ref": "st-leonards-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Crawley Down",
-            "objectID": "1a5877e6232fbecafc34248117dc2fbc",
-            "ref": "crawley-down-walking-route"
-        },
-        {
-            "description": "Crawley Greenway",
-            "objectID": "c38e905d70462e8f4b79017fa36d3032",
-            "ref": "crawley-greenway-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/16cdf0fc2f3a8e9a62fc034b164818fd.gpx",
-    "_geoloc": {
-        "lat": 51.1267930318,
-        "lng": -0.1490733743
+  "created_at": "2025-01-06T03:04:32.792490+00:00",
+  "objectID": "16cdf0fc2f3a8e9a62fc034b164818fd",
+  "ref": "crawley-walking-route",
+  "title": "Crawley Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg/500px-Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg",
+  "nearby": [
+    {
+      "description": "Buchan Country Park",
+      "objectID": "05f0df6c90bbc82792610cf9ecfbf565",
+      "ref": "buchan-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg/500px-Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg",
-            "title": "Robin Webster / Lake, Worth Park",
-            "caption": "Lake, Worth Park, Crawley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Grattons_Park_%2810%29.jpg",
-            "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Grattons Park pond. This local nature reserve is located to the north east of the town centre."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Milton_Mount_Lake%2C_Pound_Hill%2C_Crawley%2C_West_Sussex_-_geograph.org.uk_-_24845.jpg",
-            "title": "Pete Chapman / Milton Mount Lake, Pound Hill, Crawley, West Sussex",
-            "caption": "Milton Mount Lake, Pound Hill, Crawley, West Sussex. Milton Mount Lake was once in the grounds of the Worth Park country estate. The estate was absorbed into the residential neighbourhood of Pound Hill and built upon. In the background, it is just possible to see an aircraft that has just taken off from Gatwick airport. The E end of the runway is 2km north of here. Aircraft taking off would not normally be seen from here, as they usually take off into the West (against the prevailing wind). The wind on this day was from the east."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Worth_Park_Gardens-geograph-4634366-by-Robin-Webster.jpg/500px-Worth_Park_Gardens-geograph-4634366-by-Robin-Webster.jpg",
-            "title": "Robin Webster / Worth Park Gardens",
-            "caption": "Formal garden, Worth Park, Crawley."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grattons_Park_%287%29.jpg/500px-Grattons_Park_%287%29.jpg",
-            "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Grattons Park stream"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Dower_House%2C_Crawley_-_geograph.org.uk_-_1015264.jpg",
-            "title": "Pierre Terre / The Dower House, Crawley",
-            "caption": "The Dower House, Crawley Tower and cottages of the Dower House."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Goff%27s_Park%2C_Crawley_-_geograph.org.uk_-_371510.jpg",
-            "title": "Elliott Simpson / Goff's Park, Crawley",
-            "caption": "Goff's Park. There's 20 hectares of woodland, lawns and conservation habitats her. It is the oldest park in Crawley and another nice place for a stroll in the town. It is located on Horsham Road, Southgate."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/St_Mary%2C_Crawley_-_geograph.org.uk_-_1494990.jpg",
-            "title": "Michael FORD / St Mary, Crawley",
-            "caption": "St Mary church. Grade 2* listed building erected in the 12th century."
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "This Sussex based town has two lovely local country parks and miles of woodland trails in the forests to the south. There's also a fine local nature reserve and the nearby High Weald AONB to explore on foot. This short easy circular walk in the town visits Worth Park Gardens and Grattons Park, a local nature reserve. It's a very pretty area and has the bonus of a parkside pub to visit afterwards. The walk starts in Worth Park to the north east of the town. The attractive park covers eight hectares and includes formal gardens, a lake area and a series of nice surfaced footpaths. A short walk to the west will take you to Grattons Park. There's a series of pretty ponds, streams and lots of wildlife to see here. To continue your walking around Crawley head west to visit Buchan Country Park. There's 170 acres of woodland, heath, ponds and meadow to explore here. If you head south you can visit Tilgate Forest Park which is one of the walking highlights of the area.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Tavern On The Green is located near the gardens. They have a wonderful beer garden overlooking the green of Grattons Park. They have a good menu and selection of drinks too. You can find them Grattons Drive, Pound Hill with a postcode of RH10 3BA for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The area is a popular place for dog walking and the Tavern on the Green mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Worth Way also starts in the town. The shared cycling and walking trail will take you to Crawley Down and East Grinstead on a disused rail track. The long distance Brighton Way also starts in the town. The waymarked footpath runs all the way to Brighton on the coast, passing Haywards Heath and Burgess Hill on the way. If you follow it north it will take you to the neighbouring town of Horley. To the west you can visit Horsham and try the Horsham Riverside Walk to Leechpool Woods. There's also the expansive St Leonard's Forest to visit near the town. For more walking ideas in the area see the High Weald Walks and Sussex Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/YzeZiinIrbE",
-    "postcode": "RH10 3DX",
-    "district": "Crawley",
-    "county": "West Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Crawley Greenway, Pound Hill, Crawley, West Sussex, England, RH10 3DX, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "easy",
-    "terrain": ["woodland", "park"],
-    "points_of_interest": ["gardens", "park", "nature reserve"],
-    "facilities": ["pub/cafe", "parkside pub", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Tilgate Country Park",
+      "objectID": "932784aa773770c9eb2712300180605a",
+      "ref": "tilgate-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Worth Way",
+      "objectID": "d71bdff5b4bc7511bbd8ce85fadd0d35",
+      "ref": "worth-way-walking-and-cycle-route"
+    },
+    {
+      "description": "Brighton Way",
+      "objectID": "dfc58fa4d62d37cfbfd86e4b437ec6a6",
+      "ref": "brighton-way-walking-route"
+    },
+    {
+      "description": "Horsham Riverside Walk",
+      "objectID": "32793c1c04a9341f64af3bcf1d839cc7",
+      "ref": "horsham-riverside-walk-walking-route"
+    },
+    {
+      "description": "Horsham",
+      "objectID": "6276f61a7a1a1a12e059607426b6d713",
+      "ref": "horsham-walking-route"
+    },
+    {
+      "description": "St Leonard's Forest",
+      "objectID": "738fc2eb8a1a6f1ee75690b36c366267",
+      "ref": "st-leonards-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Crawley Down",
+      "objectID": "1a5877e6232fbecafc34248117dc2fbc",
+      "ref": "crawley-down-walking-route"
+    },
+    {
+      "description": "Crawley Greenway",
+      "objectID": "c38e905d70462e8f4b79017fa36d3032",
+      "ref": "crawley-greenway-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/16cdf0fc2f3a8e9a62fc034b164818fd.gpx",
+  "_geoloc": {
+    "lat": 51.1267930318,
+    "lng": -0.1490733743
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg/500px-Lake%2C_Worth_Park%2C_Crawley-geograph-4634381-by-Robin-Webster.jpg",
+      "title": "Robin Webster / Lake, Worth Park",
+      "caption": "Lake, Worth Park, Crawley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Grattons_Park_%2810%29.jpg",
+      "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Grattons Park pond. This local nature reserve is located to the north east of the town centre."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Milton_Mount_Lake%2C_Pound_Hill%2C_Crawley%2C_West_Sussex_-_geograph.org.uk_-_24845.jpg",
+      "title": "Pete Chapman / Milton Mount Lake, Pound Hill, Crawley, West Sussex",
+      "caption": "Milton Mount Lake, Pound Hill, Crawley, West Sussex. Milton Mount Lake was once in the grounds of the Worth Park country estate. The estate was absorbed into the residential neighbourhood of Pound Hill and built upon. In the background, it is just possible to see an aircraft that has just taken off from Gatwick airport. The E end of the runway is 2km north of here. Aircraft taking off would not normally be seen from here, as they usually take off into the West (against the prevailing wind). The wind on this day was from the east."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Worth_Park_Gardens-geograph-4634366-by-Robin-Webster.jpg/500px-Worth_Park_Gardens-geograph-4634366-by-Robin-Webster.jpg",
+      "title": "Robin Webster / Worth Park Gardens",
+      "caption": "Formal garden, Worth Park, Crawley."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grattons_Park_%287%29.jpg/500px-Grattons_Park_%287%29.jpg",
+      "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Grattons Park stream"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Dower_House%2C_Crawley_-_geograph.org.uk_-_1015264.jpg",
+      "title": "Pierre Terre / The Dower House, Crawley",
+      "caption": "The Dower House, Crawley Tower and cottages of the Dower House."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Goff%27s_Park%2C_Crawley_-_geograph.org.uk_-_371510.jpg",
+      "title": "Elliott Simpson / Goff's Park, Crawley",
+      "caption": "Goff's Park. There's 20 hectares of woodland, lawns and conservation habitats her. It is the oldest park in Crawley and another nice place for a stroll in the town. It is located on Horsham Road, Southgate."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/St_Mary%2C_Crawley_-_geograph.org.uk_-_1494990.jpg",
+      "title": "Michael FORD / St Mary, Crawley",
+      "caption": "St Mary church. Grade 2* listed building erected in the 12th century."
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "This Sussex based town has two lovely local country parks and miles of woodland trails in the forests to the south. There's also a fine local nature reserve and the nearby High Weald AONB to explore on foot. This short easy circular walk in the town visits Worth Park Gardens and Grattons Park, a local nature reserve. It's a very pretty area and has the bonus of a parkside pub to visit afterwards. The walk starts in Worth Park to the north east of the town. The attractive park covers eight hectares and includes formal gardens, a lake area and a series of nice surfaced footpaths. A short walk to the west will take you to Grattons Park. There's a series of pretty ponds, streams and lots of wildlife to see here. To continue your walking around Crawley head west to visit Buchan Country Park. There's 170 acres of woodland, heath, ponds and meadow to explore here. If you head south you can visit Tilgate Forest Park which is one of the walking highlights of the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Tavern On The Green is located near the gardens. They have a wonderful beer garden overlooking the green of Grattons Park. They have a good menu and selection of drinks too. You can find them Grattons Drive, Pound Hill with a postcode of RH10 3BA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is a popular place for dog walking and the Tavern on the Green mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Worth Way also starts in the town. The shared cycling and walking trail will take you to Crawley Down and East Grinstead on a disused rail track. The long distance Brighton Way also starts in the town. The waymarked footpath runs all the way to Brighton on the coast, passing Haywards Heath and Burgess Hill on the way. If you follow it north it will take you to the neighbouring town of Horley. To the west you can visit Horsham and try the Horsham Riverside Walk to Leechpool Woods. There's also the expansive St Leonard's Forest to visit near the town. For more walking ideas in the area see the High Weald Walks and Sussex Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/YzeZiinIrbE",
+  "postcode": "RH10 3DX",
+  "district": "Crawley",
+  "county": "West Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Crawley Greenway, Pound Hill, Crawley, West Sussex, England, RH10 3DX, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "gardens"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

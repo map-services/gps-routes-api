@@ -1,110 +1,123 @@
 {
-    "created_at": "2025-01-06T03:35:40.029311+00:00",
-    "objectID": "65f65f59161381200a3158269641d7b9",
-    "ref": "south-norwood-country-park-walking-and-cycle-route",
-    "title": "South Norwood Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/National_Cycle_Network_Milepost%2C_South_Norwood_Country_Park.jpg",
-    "nearby": [
-        {
-            "description": "Waterlink Way",
-            "objectID": "51a43c01c022b5bf2991dbe4370be276",
-            "ref": "waterlink-way-cycle-route"
-        },
-        {
-            "description": "Greenwich to Croydon",
-            "objectID": "3ffffa560791b6e17f01c08503d21ec6",
-            "ref": "greenwich-to-croydon-cycle-route"
-        },
-        {
-            "description": "London to Brighton",
-            "objectID": "638abc77a1e564a32e9ae799fb4b38d0",
-            "ref": "london-to-brighton-cycle-route"
-        },
-        {
-            "description": "London Loop",
-            "objectID": "2b405d14b22f13eb43479ae8a57645c7",
-            "ref": "london-loop-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/65f65f59161381200a3158269641d7b9.gpx",
-    "_geoloc": {
-        "lat": 51.3992791108,
-        "lng": -0.05075844
+  "created_at": "2025-01-06T03:35:40.029311+00:00",
+  "objectID": "65f65f59161381200a3158269641d7b9",
+  "ref": "south-norwood-country-park-walking-and-cycle-route",
+  "title": "South Norwood Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/National_Cycle_Network_Milepost%2C_South_Norwood_Country_Park.jpg",
+  "nearby": [
+    {
+      "description": "Waterlink Way",
+      "objectID": "51a43c01c022b5bf2991dbe4370be276",
+      "ref": "waterlink-way-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/National_Cycle_Network_Milepost%2C_South_Norwood_Country_Park.jpg",
-            "title": "N Chadwick / National Cycle Network Milepost, South Norwood Country Park",
-            "caption": "National Cycle Network Milepost, South Norwood Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tramlink_tram%2C_South_Norwood_Country_Park_%28geograph_2407270%29.jpg",
-            "title": "N Chadwick / Tramlink tram, South Norwood Country Park",
-            "caption": "Tramlink tram, South Norwood Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/South_Norwood_Country_Park_-_geograph.org.uk_-_2405400.jpg",
-            "title": "South Norwood Country Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Entrance_to_South_Norwood_Country_Park_-_geograph.org.uk_-_2405391.jpg",
-            "title": "Entrance to South Norwood Country Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entrance and National Cycle Network Route 21 sign."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/South_Norwood_Country_Park_%2811%29_-_geograph.org.uk_-_2338350.jpg",
-            "title": "South Norwood Country Park (11) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Green meadows in late spring"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_hill_at_South_Norwood_Country_Park_-_geograph.org.uk_-_2525505.jpg/500px-The_hill_at_South_Norwood_Country_Park_-_geograph.org.uk_-_2525505.jpg",
-            "title": "The hill at South Norwood Country Park by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A view of the footpath to the hill and viewpoint in the park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Path_in_South_Norwood_Country_Park_%283%29_-_geograph.org.uk_-_2337831.jpg",
-            "title": "Path in South Norwood Country Park (3) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Tree lined footpath"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kiosk%2C_South_Norwood_Lake_and_Grounds_-_geograph.org.uk_-_2472685.jpg",
-            "title": "Kiosk, South Norwood Lake and Grounds by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ice Cream Kiosk near the lake"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "A cycle or walk through this pleasant country park in Croydon. National Cycle Route 21 runs around the park on nice traffic free paths. The park includes wildlfower meadows and a pretty lake with lots of wildlife to look out for. There's good facilites too with a visitor centre and car park. To extend your exercise head north to Cator Park in New Beckenham. Here you can pick up the Waterlink Way which takes you to the River Thames on a series of traffic free paths.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a small cafe at the site where you can enjoy some post exercise refreshment."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The park is great for dog walking so you will probably see other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head south and you could pick up the Croydon Walk which follows the London Loop to Addington Hills, Selsdon Wood and Croham Hurst. For more walking ideas in the area see the London Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/IKq6nQdYztQ",
-    "postcode": "BR3 4XS",
-    "district": "London",
-    "county": null,
-    "region": "Greater London",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Goals, Elmers End Road, Elmers End, London Borough of Bromley, London, Greater London, England, BR3 4XS, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["meadow", "lake"],
-    "points_of_interest": ["wildlife"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["cycling", "walking"]
+    {
+      "description": "Greenwich to Croydon",
+      "objectID": "3ffffa560791b6e17f01c08503d21ec6",
+      "ref": "greenwich-to-croydon-cycle-route"
+    },
+    {
+      "description": "London to Brighton",
+      "objectID": "638abc77a1e564a32e9ae799fb4b38d0",
+      "ref": "london-to-brighton-cycle-route"
+    },
+    {
+      "description": "London Loop",
+      "objectID": "2b405d14b22f13eb43479ae8a57645c7",
+      "ref": "london-loop-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/65f65f59161381200a3158269641d7b9.gpx",
+  "_geoloc": {
+    "lat": 51.3992791108,
+    "lng": -0.05075844
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/National_Cycle_Network_Milepost%2C_South_Norwood_Country_Park.jpg",
+      "title": "N Chadwick / National Cycle Network Milepost, South Norwood Country Park",
+      "caption": "National Cycle Network Milepost, South Norwood Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tramlink_tram%2C_South_Norwood_Country_Park_%28geograph_2407270%29.jpg",
+      "title": "N Chadwick / Tramlink tram, South Norwood Country Park",
+      "caption": "Tramlink tram, South Norwood Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/South_Norwood_Country_Park_-_geograph.org.uk_-_2405400.jpg",
+      "title": "South Norwood Country Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Entrance_to_South_Norwood_Country_Park_-_geograph.org.uk_-_2405391.jpg",
+      "title": "Entrance to South Norwood Country Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entrance and National Cycle Network Route 21 sign."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/South_Norwood_Country_Park_%2811%29_-_geograph.org.uk_-_2338350.jpg",
+      "title": "South Norwood Country Park (11) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Green meadows in late spring"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_hill_at_South_Norwood_Country_Park_-_geograph.org.uk_-_2525505.jpg/500px-The_hill_at_South_Norwood_Country_Park_-_geograph.org.uk_-_2525505.jpg",
+      "title": "The hill at South Norwood Country Park by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A view of the footpath to the hill and viewpoint in the park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Path_in_South_Norwood_Country_Park_%283%29_-_geograph.org.uk_-_2337831.jpg",
+      "title": "Path in South Norwood Country Park (3) by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tree lined footpath"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kiosk%2C_South_Norwood_Lake_and_Grounds_-_geograph.org.uk_-_2472685.jpg",
+      "title": "Kiosk, South Norwood Lake and Grounds by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ice Cream Kiosk near the lake"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "A cycle or walk through this pleasant country park in Croydon. National Cycle Route 21 runs around the park on nice traffic free paths. The park includes wildlfower meadows and a pretty lake with lots of wildlife to look out for. There's good facilites too with a visitor centre and car park. To extend your exercise head north to Cator Park in New Beckenham. Here you can pick up the Waterlink Way which takes you to the River Thames on a series of traffic free paths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a small cafe at the site where you can enjoy some post exercise refreshment."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walking so you will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south and you could pick up the Croydon Walk which follows the London Loop to Addington Hills, Selsdon Wood and Croham Hurst. For more walking ideas in the area see the London Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/IKq6nQdYztQ",
+  "postcode": "BR3 4XS",
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Goals, Elmers End Road, Elmers End, London Borough of Bromley, London, Greater London, England, BR3 4XS, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "park"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "lake"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "dog friendly",
+    "visitor centre"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

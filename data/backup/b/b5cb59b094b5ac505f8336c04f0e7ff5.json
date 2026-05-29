@@ -1,121 +1,128 @@
 {
-    "created_at": "2025-01-06T04:00:50.482304+00:00",
-    "objectID": "b5cb59b094b5ac505f8336c04f0e7ff5",
-    "ref": "wirral-country-park-walking-and-cycle-route",
-    "title": "Wirral Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
-    "nearby": [
-        {
-            "description": "Wirral Way",
-            "objectID": "4d9982f3aa23c411c16d2bd280fddf0e",
-            "ref": "wirral-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Parkgate Circular Walk",
-            "objectID": "5fae6199f1bb4edcc83320a5b2690cba",
-            "ref": "parkgate-circular-walk-walking-route"
-        },
-        {
-            "description": "Thurstaston Common and Coast",
-            "objectID": "933f28e593b8f743ae9d5879990aa3e9",
-            "ref": "thurstaston-common-and-coast-walking-route"
-        },
-        {
-            "description": "Heswall Dales",
-            "objectID": "942defc3db4af0e503ca21f95fec443c",
-            "ref": "heswall-dales-walking-route"
-        },
-        {
-            "description": "West Kirby",
-            "objectID": "ee4f3b95aedcb0e7b48a595e270db887",
-            "ref": "west-kirby-walking-route"
-        },
-        {
-            "description": "Burton Marshes Greenway",
-            "objectID": "27fb0357511c36db9934d28a73e5edfd",
-            "ref": "burton-marshes-greenway-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b5cb59b094b5ac505f8336c04f0e7ff5.gpx",
-    "_geoloc": {
-        "lat": 53.3421277676,
-        "lng": -3.1437865875
+  "created_at": "2025-01-06T04:00:50.482304+00:00",
+  "objectID": "b5cb59b094b5ac505f8336c04f0e7ff5",
+  "ref": "wirral-country-park-walking-and-cycle-route",
+  "title": "Wirral Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
+  "nearby": [
+    {
+      "description": "Wirral Way",
+      "objectID": "4d9982f3aa23c411c16d2bd280fddf0e",
+      "ref": "wirral-way-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
-            "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Wirral Country Park, Lees Lane. Pond between the visitor area and the Wirral Way."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wirral_Country_Park%2C_Lees_Lane_2.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_2.jpg",
-            "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Picnic area near the entrance to the visitor area"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pond_at_Wirral_Country_Park%2C_Thurstaston_-_geograph.org.uk_-_1737017.jpg",
-            "title": "Jim Barton / Pond at Wirral Country Park, Thurstaston, via Wikimedia Commons",
-            "caption": "Pond at Wirral Country Park, Thurstaston"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Entrance_to_Wirral_Country_Park_at_Lees_Lane.jpg/500px-Entrance_to_Wirral_Country_Park_at_Lees_Lane.jpg",
-            "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Entrance to Wirral Country Park at Lees Lane"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wirral_Country_Park_Visitor_Centre_at_Thurstaston_-_geograph.org.uk_-_4115040.jpg/500px-Wirral_Country_Park_Visitor_Centre_at_Thurstaston_-_geograph.org.uk_-_4115040.jpg",
-            "title": "Wirral Country Park Visitor Centre at Thurstaston by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Visitor Centre at Thurstaston"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Pond_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577637.jpg/500px-The_Pond_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577637.jpg",
-            "title": "The Pond at Thurstaston Wirral Country Park Visitor Centre by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Pond at Thurstaston Wirral Country Park Visitor Centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Green_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577630.jpg/500px-The_Green_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577630.jpg",
-            "title": "The Green at Thurstaston Wirral Country Park Visitor Centre by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Green at the Visitor Centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footpath_on_Wirral_Way_-_geograph.org.uk_-_376096.jpg",
-            "title": "Michael Cannell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath on Wirral Way"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "Enjoy fabulous views of the Wirral Peninsula in this delightful coastal country park. The park is the first designated country park in Britain, opening in 1973. You can climb the 60 feet high, boulder-clay cliffs where there are splendid views of the Dee Estuary. There are excellent facilities with Picnic Areas, Visitor Centre, Shop, Information staff, Cafe, BBQ area and a Bird Hide. The Wirral Way walking and cycling trail also runs through the park. You can follow the trail to the lovely village of Parkgate where there are great views across the marshes of the Dee Estuary and large variety of wildfowl and waders to look out for. Neston with its splendid botanical gardens is also located in this area. Our Thurstaston Common and Coast Walk passes through the park. You can pick up the trail and head to the common where there's nice woodland trails, pretty heather and a fine viewpoint on Thurstaston Hill. Near here there's also the lovely Heswall Dales, a pretty area of heathland just west of the town of Heswall.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Burton Marshes Greenway starts just south of Neston train station. The shared cycling and walking trail will take you south through the RSPB's Burton Mere Wetlands where you can look out for a wide variety of birdlife on the River Dee Estuary."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/SjP_B8SFrXo",
-    "postcode": "CH61 0HN",
-    "region": "Liverpool City Region",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Wirral Way, Thurstaston, Wirral, Liverpool City Region, England, CH61 0HN, United Kingdom",
-    "district": "Thurstaston",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["coastal", "woodland", "heathland"],
-    "points_of_interest": ["viewpoint", "village", "gardens"],
-    "facilities": [
-        "picnic area",
-        "visitor center",
-        "shop",
-        "information staff",
-        "cafe",
-        "bbq area",
-        "bird hide",
-        "dog friendly"
-    ],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Parkgate Circular Walk",
+      "objectID": "5fae6199f1bb4edcc83320a5b2690cba",
+      "ref": "parkgate-circular-walk-walking-route"
+    },
+    {
+      "description": "Thurstaston Common and Coast",
+      "objectID": "933f28e593b8f743ae9d5879990aa3e9",
+      "ref": "thurstaston-common-and-coast-walking-route"
+    },
+    {
+      "description": "Heswall Dales",
+      "objectID": "942defc3db4af0e503ca21f95fec443c",
+      "ref": "heswall-dales-walking-route"
+    },
+    {
+      "description": "West Kirby",
+      "objectID": "ee4f3b95aedcb0e7b48a595e270db887",
+      "ref": "west-kirby-walking-route"
+    },
+    {
+      "description": "Burton Marshes Greenway",
+      "objectID": "27fb0357511c36db9934d28a73e5edfd",
+      "ref": "burton-marshes-greenway-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b5cb59b094b5ac505f8336c04f0e7ff5.gpx",
+  "_geoloc": {
+    "lat": 53.3421277676,
+    "lng": -3.1437865875
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
+      "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Wirral Country Park, Lees Lane. Pond between the visitor area and the Wirral Way."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wirral_Country_Park%2C_Lees_Lane_2.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_2.jpg",
+      "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Picnic area near the entrance to the visitor area"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pond_at_Wirral_Country_Park%2C_Thurstaston_-_geograph.org.uk_-_1737017.jpg",
+      "title": "Jim Barton / Pond at Wirral Country Park, Thurstaston, via Wikimedia Commons",
+      "caption": "Pond at Wirral Country Park, Thurstaston"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Entrance_to_Wirral_Country_Park_at_Lees_Lane.jpg/500px-Entrance_to_Wirral_Country_Park_at_Lees_Lane.jpg",
+      "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Entrance to Wirral Country Park at Lees Lane"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wirral_Country_Park_Visitor_Centre_at_Thurstaston_-_geograph.org.uk_-_4115040.jpg/500px-Wirral_Country_Park_Visitor_Centre_at_Thurstaston_-_geograph.org.uk_-_4115040.jpg",
+      "title": "Wirral Country Park Visitor Centre at Thurstaston by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Visitor Centre at Thurstaston"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Pond_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577637.jpg/500px-The_Pond_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577637.jpg",
+      "title": "The Pond at Thurstaston Wirral Country Park Visitor Centre by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Pond at Thurstaston Wirral Country Park Visitor Centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Green_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577630.jpg/500px-The_Green_at_Thurstaston_Wirral_Country_Park_Visitor_Centre_-_geograph.org.uk_-_3577630.jpg",
+      "title": "The Green at Thurstaston Wirral Country Park Visitor Centre by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Green at the Visitor Centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Footpath_on_Wirral_Way_-_geograph.org.uk_-_376096.jpg",
+      "title": "Michael Cannell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath on Wirral Way"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "Enjoy fabulous views of the Wirral Peninsula in this delightful coastal country park. The park is the first designated country park in Britain, opening in 1973. You can climb the 60 feet high, boulder-clay cliffs where there are splendid views of the Dee Estuary. There are excellent facilities with Picnic Areas, Visitor Centre, Shop, Information staff, Cafe, BBQ area and a Bird Hide. The Wirral Way walking and cycling trail also runs through the park. You can follow the trail to the lovely village of Parkgate where there are great views across the marshes of the Dee Estuary and large variety of wildfowl and waders to look out for. Neston with its splendid botanical gardens is also located in this area. Our Thurstaston Common and Coast Walk passes through the park. You can pick up the trail and head to the common where there's nice woodland trails, pretty heather and a fine viewpoint on Thurstaston Hill. Near here there's also the lovely Heswall Dales, a pretty area of heathland just west of the town of Heswall.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Burton Marshes Greenway starts just south of Neston train station. The shared cycling and walking trail will take you south through the RSPB's Burton Mere Wetlands where you can look out for a wide variety of birdlife on the River Dee Estuary."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/SjP_B8SFrXo",
+  "postcode": "CH61 0HN",
+  "region": "Liverpool City Region",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Wirral Way, Thurstaston, Wirral, Liverpool City Region, England, CH61 0HN, United Kingdom",
+  "district": "Thurstaston",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "picnic area",
+    "visitor centre",
+    "shop",
+    "cafe",
+    "bbq area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

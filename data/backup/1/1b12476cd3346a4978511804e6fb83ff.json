@@ -1,54 +1,59 @@
 {
-    "created_at": "2025-01-06T10:18:18.561214+00:00",
-    "objectID": "1b12476cd3346a4978511804e6fb83ff",
-    "ref": "elmswell-walking-route",
-    "title": "Elmswell Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/By_Elmswell_church_-_geograph.org.uk_-_1625588.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b12476cd3346a4978511804e6fb83ff.gpx",
-    "_geoloc": {
-        "lat": 52.237812906,
-        "lng": 0.9130278573
+  "created_at": "2025-01-06T10:18:18.561214+00:00",
+  "objectID": "1b12476cd3346a4978511804e6fb83ff",
+  "ref": "elmswell-walking-route",
+  "title": "Elmswell Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/By_Elmswell_church_-_geograph.org.uk_-_1625588.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b12476cd3346a4978511804e6fb83ff.gpx",
+  "_geoloc": {
+    "lat": 52.237812906,
+    "lng": 0.9130278573
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/By_Elmswell_church_-_geograph.org.uk_-_1625588.jpg",
+      "title": "Andrew Hill / By Elmswell church",
+      "caption": "By Elmswell church"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/By_Elmswell_church_-_geograph.org.uk_-_1625588.jpg",
-            "title": "Andrew Hill / By Elmswell church",
-            "caption": "By Elmswell church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stream_at_Elmswell_-_geograph.org.uk_-_245524.jpg",
-            "title": "Bob Jones / Stream at Elmswell",
-            "caption": "Stream at Elmswell. This stream divides the fields; in the distance is the railway line on an embankment and behind it, Elmswell Hall."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Willow_Farm_-_geograph.org.uk_-_2760783.jpg/500px-Willow_Farm_-_geograph.org.uk_-_2760783.jpg",
-            "title": "Willow Farm by John Myers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Willow Farm"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elmswell_Shops_-_geograph.org.uk_-_2802319.jpg/500px-Elmswell_Shops_-_geograph.org.uk_-_2802319.jpg",
-            "title": "Elmswell Shops by John Myers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Elmswell Shops"
-        }
-    ],
-    "distance_km": 1.2,
-    "description": "This Suffolk based village is located near to the towns of Bury St Edmunds and Stowmarket. Haughley Park and Woolpit are the nearest villages. Please scroll down for the full list of walks near and around Elmswell. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
-    "details": [],
-    "postcode": "IP30 9HD",
-    "district": "Mid Suffolk",
-    "county": "Suffolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "The Malting New House, Station Road, Mid Suffolk, Suffolk, England, IP30 9HD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "variable",
-    "difficulty": "moderate",
-    "terrain": ["grassland", "path"],
-    "points_of_interest": ["footpath", "bridleways"],
-    "facilities": [],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stream_at_Elmswell_-_geograph.org.uk_-_245524.jpg",
+      "title": "Bob Jones / Stream at Elmswell",
+      "caption": "Stream at Elmswell. This stream divides the fields; in the distance is the railway line on an embankment and behind it, Elmswell Hall."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Willow_Farm_-_geograph.org.uk_-_2760783.jpg/500px-Willow_Farm_-_geograph.org.uk_-_2760783.jpg",
+      "title": "Willow Farm by John Myers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Willow Farm"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elmswell_Shops_-_geograph.org.uk_-_2802319.jpg/500px-Elmswell_Shops_-_geograph.org.uk_-_2802319.jpg",
+      "title": "Elmswell Shops by John Myers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Elmswell Shops"
+    }
+  ],
+  "distance_km": 1.2,
+  "description": "This Suffolk based village is located near to the towns of Bury St Edmunds and Stowmarket. Haughley Park and Woolpit are the nearest villages. Please scroll down for the full list of walks near and around Elmswell. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [],
+  "postcode": "IP30 9HD",
+  "district": "Mid Suffolk",
+  "county": "Suffolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Malting New House, Station Road, Mid Suffolk, Suffolk, England, IP30 9HD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "footpath"
+  ],
+  "points_of_interest": [],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

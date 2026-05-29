@@ -1,112 +1,120 @@
 {
-    "created_at": "2025-01-06T00:55:15.716438+00:00",
-    "objectID": "a2c41ac78b5a5ad1107a3c8848aebf94",
-    "ref": "syon-park-walking-route",
-    "title": "Syon Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg/500px-View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg",
-    "nearby": [
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Kew Gardens",
-            "objectID": "b7330e22fe8a2bef187c9686f9a9070b",
-            "ref": "kew-gardens-walking-route"
-        },
-        {
-            "description": "Marble Hill Park",
-            "objectID": "6e1854ebdb72a15978cf13897452d917",
-            "ref": "marble-hill-park-walking-route"
-        },
-        {
-            "description": "Crane Park",
-            "objectID": "85912f23d80d3889bd46ea6e2eddeec4",
-            "ref": "crane-park-walking-route"
-        },
-        {
-            "description": "Richmond Park",
-            "objectID": "47915094402f026d119940fe0df24241",
-            "ref": "richmond-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Cranford Country Park",
-            "objectID": "c8dc00862dc6feeb50524bdf98d7a06e",
-            "ref": "cranford-country-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a2c41ac78b5a5ad1107a3c8848aebf94.gpx",
-    "_geoloc": {
-        "lat": 51.4774984168,
-        "lng": -0.3119652343
+  "created_at": "2025-01-06T00:55:15.716438+00:00",
+  "objectID": "a2c41ac78b5a5ad1107a3c8848aebf94",
+  "ref": "syon-park-walking-route",
+  "title": "Syon Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg/500px-View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg",
+  "nearby": [
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg/500px-View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg",
-            "title": "View of Syon House from Syon Park by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of Syon House from Syon Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Syon_Park_Spring_-_geograph.org.uk_-_689702.jpg",
-            "title": "Colin Smith / Syon Park Spring",
-            "caption": "The park in Spring. Cherry blossom brightens up a grey winter afternoon beside the classical column on Flora's Lawn."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Pavilion%2C_Syon_Park_-_geograph.org.uk_-_2119475.jpg",
-            "title": "The Pavilion, Syon Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Pavilion"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Syon_Park_lake_-_geograph.org.uk_-_1577854.jpg",
-            "title": "John Bussey / Syon Park lake",
-            "caption": "Syon Park lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Entrance_arch_%5E_screen%2C_Syon_Park_-_with_the_Northumberland_Lion_-_geograph.org.uk_-_2753665.jpg/500px-Entrance_arch_%5E_screen%2C_Syon_Park_-_with_the_Northumberland_Lion_-_geograph.org.uk_-_2753665.jpg",
-            "title": "Entrance arch & screen, Syon Park - with the Northumberland Lion by Stefan Czapski, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entrance arch & screen, Syon Park - with the Northumberland Lion"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Conservatory%2C_Syon_Park_-_geograph.org.uk_-_308331.jpg",
-            "title": "Christine Matthews / Conservatory, Syon Park",
-            "caption": "Magnificent conservatory at Syon Park with the fountain in the foreground."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Syon_House_battlement%2C_viewed_from_Syon_Park_-_geograph.org.uk_-_2495195.jpg/500px-Syon_House_battlement%2C_viewed_from_Syon_Park_-_geograph.org.uk_-_2495195.jpg",
-            "title": "Syon House battlement, viewed from Syon Park by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Syon House battlement"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/View_of_Syon_House_from_the_Thames_Path_-_geograph.org.uk_-_2494956.jpg/500px-View_of_Syon_House_from_the_Thames_Path_-_geograph.org.uk_-_2494956.jpg",
-            "title": "View of Syon House from the Thames Path by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of Syon House from the Thames Path"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "Enjoy a stroll around the 200-acre grounds of Syon House in Brentford. There are good footpaths taking you to lakes, woodland and the impressive Great Conservatory. There's 100 acres of Capability Brown inspired parkland, gardens, an arboretum and large areas of grassland and meadows. Kew Gardens and the Thames Path are close by so it's easy to extend your walk in this area.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The popular Crane Park is located nearby in Twickenham. The peaceful park includes an informative visitor centre, cafe, woodland trails along the River Crane, lots of wildlife and the interesting 18th century Shot Tower. Just north of here you can also reach the historic Cranford Country Park on the riverside trail."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/-Q2Z35gO568",
-    "postcode": "TW8 8JL",
-    "district": "London",
-    "county": null,
-    "region": "Greater London",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Syon Park, London Road, London Borough of Hounslow, London, Greater London, England, TW8 8JL, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "grassland", "meadow"],
-    "points_of_interest": ["gardens", "arboretum"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Kew Gardens",
+      "objectID": "b7330e22fe8a2bef187c9686f9a9070b",
+      "ref": "kew-gardens-walking-route"
+    },
+    {
+      "description": "Marble Hill Park",
+      "objectID": "6e1854ebdb72a15978cf13897452d917",
+      "ref": "marble-hill-park-walking-route"
+    },
+    {
+      "description": "Crane Park",
+      "objectID": "85912f23d80d3889bd46ea6e2eddeec4",
+      "ref": "crane-park-walking-route"
+    },
+    {
+      "description": "Richmond Park",
+      "objectID": "47915094402f026d119940fe0df24241",
+      "ref": "richmond-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Cranford Country Park",
+      "objectID": "c8dc00862dc6feeb50524bdf98d7a06e",
+      "ref": "cranford-country-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a2c41ac78b5a5ad1107a3c8848aebf94.gpx",
+  "_geoloc": {
+    "lat": 51.4774984168,
+    "lng": -0.3119652343
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg/500px-View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg",
+      "title": "View of Syon House from Syon Park by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of Syon House from Syon Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Syon_Park_Spring_-_geograph.org.uk_-_689702.jpg",
+      "title": "Colin Smith / Syon Park Spring",
+      "caption": "The park in Spring. Cherry blossom brightens up a grey winter afternoon beside the classical column on Flora's Lawn."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Pavilion%2C_Syon_Park_-_geograph.org.uk_-_2119475.jpg",
+      "title": "The Pavilion, Syon Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Pavilion"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Syon_Park_lake_-_geograph.org.uk_-_1577854.jpg",
+      "title": "John Bussey / Syon Park lake",
+      "caption": "Syon Park lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Entrance_arch_%5E_screen%2C_Syon_Park_-_with_the_Northumberland_Lion_-_geograph.org.uk_-_2753665.jpg/500px-Entrance_arch_%5E_screen%2C_Syon_Park_-_with_the_Northumberland_Lion_-_geograph.org.uk_-_2753665.jpg",
+      "title": "Entrance arch & screen, Syon Park - with the Northumberland Lion by Stefan Czapski, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entrance arch & screen, Syon Park - with the Northumberland Lion"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Conservatory%2C_Syon_Park_-_geograph.org.uk_-_308331.jpg",
+      "title": "Christine Matthews / Conservatory, Syon Park",
+      "caption": "Magnificent conservatory at Syon Park with the fountain in the foreground."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Syon_House_battlement%2C_viewed_from_Syon_Park_-_geograph.org.uk_-_2495195.jpg/500px-Syon_House_battlement%2C_viewed_from_Syon_Park_-_geograph.org.uk_-_2495195.jpg",
+      "title": "Syon House battlement, viewed from Syon Park by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Syon House battlement"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/View_of_Syon_House_from_the_Thames_Path_-_geograph.org.uk_-_2494956.jpg/500px-View_of_Syon_House_from_the_Thames_Path_-_geograph.org.uk_-_2494956.jpg",
+      "title": "View of Syon House from the Thames Path by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of Syon House from the Thames Path"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "Enjoy a stroll around the 200-acre grounds of Syon House in Brentford. There are good footpaths taking you to lakes, woodland and the impressive Great Conservatory. There's 100 acres of Capability Brown inspired parkland, gardens, an arboretum and large areas of grassland and meadows. Kew Gardens and the Thames Path are close by so it's easy to extend your walk in this area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Crane Park is located nearby in Twickenham. The peaceful park includes an informative visitor centre, cafe, woodland trails along the River Crane, lots of wildlife and the interesting 18th century Shot Tower. Just north of here you can also reach the historic Cranford Country Park on the riverside trail."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/-Q2Z35gO568",
+  "postcode": "TW8 8JL",
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Syon Park, London Road, London Borough of Hounslow, London, Greater London, England, TW8 8JL, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "conservatory"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

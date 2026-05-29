@@ -1,87 +1,95 @@
 {
-    "created_at": "2025-01-06T11:02:36.027992+00:00",
-    "objectID": "512a167f29aec70faa53e7656f2b1788",
-    "ref": "st-james-way-walking-route",
-    "title": "St James' Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg/500px-Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg",
-    "nearby": [
-        {
-            "description": "Winchester River Walk",
-            "objectID": "e135c29aae951c527107669b95a0e0c4",
-            "ref": "winchester-river-walk-walking-route"
-        },
-        {
-            "description": "Itchen Way",
-            "objectID": "536b9be9a0f34d2eef06d360207878af",
-            "ref": "itchen-way-walking-route"
-        },
-        {
-            "description": "Itchen Valley Country Park",
-            "objectID": "28a36c9731cc69909bca81589d9521cf",
-            "ref": "itchen-valley-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Theale",
-            "objectID": "e7ff50d9e5a0feefb2c54484ed369540",
-            "ref": "theale-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/512a167f29aec70faa53e7656f2b1788.gpx",
-    "_geoloc": {
-        "lat": 51.4571086157,
-        "lng": -0.9654119687
+  "created_at": "2025-01-06T11:02:36.027992+00:00",
+  "objectID": "512a167f29aec70faa53e7656f2b1788",
+  "ref": "st-james-way-walking-route",
+  "title": "St James' Way Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg/500px-Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg",
+  "nearby": [
+    {
+      "description": "Winchester River Walk",
+      "objectID": "e135c29aae951c527107669b95a0e0c4",
+      "ref": "winchester-river-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg/500px-Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg",
-            "title": "Reading Abbey ruins by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Reading Abbey ruins"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Town_Quay_at_Southampton_-_geograph.org.uk_-_3169159.jpg/500px-The_Town_Quay_at_Southampton_-_geograph.org.uk_-_3169159.jpg",
-            "title": "The Town Quay at Southampton by Roger Davies, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Town Quay at Southampton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pamber_Road%2C_Silchester_-_geograph.org.uk_-_942374.jpg",
-            "title": "Stephen McKay / Pamber Road, Silchester",
-            "caption": "Pamber Road, Silchester"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/River_Alre_Alresford%2C_Hampshire_-_geograph.org.uk_-_3114409.jpg/500px-River_Alre_Alresford%2C_Hampshire_-_geograph.org.uk_-_3114409.jpg",
-            "title": "River Alre Alresford, Hampshire by Christine Matthews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Alre Alresford, Hampshire"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Itchen_Way_%2837%29_-_geograph.org.uk_-_3357395.jpg",
-            "title": "Itchen Way (37) by Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Itchen Way 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Itchen_Way_%28115%29_-_geograph.org.uk_-_3386079.jpg",
-            "title": "Itchen Way (115) by Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Itchen Way 2"
-        }
-    ],
-    "distance_km": 106.0,
-    "description": "This long distance pilgrimage walk takes you from Reading Abbey to the port of Southampton. The waymarked trail runs for about 66 miles with pretty villages, historic sites, riverside trails and some lovely countryside to enjoy. The walk starts at the photogenic ruins of Reading Abbey which was the home of the 'Hand of St James' in the middle ages. The ancient holy relic now resides in St. Peter's Church in Great Marlow. From Reading the route heads south west to Theale, Burghfield and Silchester where you will find the fascinating Roman town. You continue south past Basingstoke and Alresford where you will cross the River Arle. The next stage takes you to the cathedral city of Winchester where you link up with the Itchen Way. You can then follow this lovely riverside trail south through Eastleigh before finishing at Southampton where historical pilgrims embarked for France and Spain. Here you can explore the Camino de Santiago (Way of St James) leading to the shrine of the apostle Saint James the Great in the cathedral of Santiago de Compostela in Galicia in northwestern Spain. Tradition holds that the remains of the apostle are buried here.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/xwJWFH3oNWs",
-    "postcode": "RG1 3FD",
-    "district": "Reading",
-    "county": null,
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "St James Catholic Church, Forbury Road, Caversham, Reading, England, RG1 3FD, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "multiple days",
-    "difficulty": "moderate",
-    "terrain": ["rural", "riverside"],
-    "points_of_interest": ["ruins", "historic site", "town"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Itchen Way",
+      "objectID": "536b9be9a0f34d2eef06d360207878af",
+      "ref": "itchen-way-walking-route"
+    },
+    {
+      "description": "Itchen Valley Country Park",
+      "objectID": "28a36c9731cc69909bca81589d9521cf",
+      "ref": "itchen-valley-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Theale",
+      "objectID": "e7ff50d9e5a0feefb2c54484ed369540",
+      "ref": "theale-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/512a167f29aec70faa53e7656f2b1788.gpx",
+  "_geoloc": {
+    "lat": 51.4571086157,
+    "lng": -0.9654119687
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg/500px-Reading_Abbey_ruins_-_geograph.org.uk_-_2863234.jpg",
+      "title": "Reading Abbey ruins by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Reading Abbey ruins"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Town_Quay_at_Southampton_-_geograph.org.uk_-_3169159.jpg/500px-The_Town_Quay_at_Southampton_-_geograph.org.uk_-_3169159.jpg",
+      "title": "The Town Quay at Southampton by Roger Davies, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Town Quay at Southampton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pamber_Road%2C_Silchester_-_geograph.org.uk_-_942374.jpg",
+      "title": "Stephen McKay / Pamber Road, Silchester",
+      "caption": "Pamber Road, Silchester"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/River_Alre_Alresford%2C_Hampshire_-_geograph.org.uk_-_3114409.jpg/500px-River_Alre_Alresford%2C_Hampshire_-_geograph.org.uk_-_3114409.jpg",
+      "title": "River Alre Alresford, Hampshire by Christine Matthews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Alre Alresford, Hampshire"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Itchen_Way_%2837%29_-_geograph.org.uk_-_3357395.jpg",
+      "title": "Itchen Way (37) by Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Itchen Way 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Itchen_Way_%28115%29_-_geograph.org.uk_-_3386079.jpg",
+      "title": "Itchen Way (115) by Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Itchen Way 2"
+    }
+  ],
+  "distance_km": 106.0,
+  "description": "This long distance pilgrimage walk takes you from Reading Abbey to the port of Southampton. The waymarked trail runs for about 66 miles with pretty villages, historic sites, riverside trails and some lovely countryside to enjoy. The walk starts at the photogenic ruins of Reading Abbey which was the home of the 'Hand of St James' in the middle ages. The ancient holy relic now resides in St. Peter's Church in Great Marlow. From Reading the route heads south west to Theale, Burghfield and Silchester where you will find the fascinating Roman town. You continue south past Basingstoke and Alresford where you will cross the River Arle. The next stage takes you to the cathedral city of Winchester where you link up with the Itchen Way. You can then follow this lovely riverside trail south through Eastleigh before finishing at Southampton where historical pilgrims embarked for France and Spain. Here you can explore the Camino de Santiago (Way of St James) leading to the shrine of the apostle Saint James the Great in the cathedral of Santiago de Compostela in Galicia in northwestern Spain. Tradition holds that the remains of the apostle are buried here.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/xwJWFH3oNWs",
+  "postcode": "RG1 3FD",
+  "district": "Reading",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "St James Catholic Church, Forbury Road, Caversham, Reading, England, RG1 3FD, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "ruin"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

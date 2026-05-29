@@ -1,146 +1,156 @@
 {
-    "created_at": "2025-01-06T09:54:43.985367+00:00",
-    "objectID": "50f52b4719a779b8f15bc6217aef0937",
-    "ref": "wellingborough-walking-route",
-    "title": "Wellingborough Rivers and Lakes Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irchester_Country_Park_-_geograph.org.uk_-_27406.jpg",
-    "nearby": [
-        {
-            "description": "Rushden Lakes",
-            "objectID": "44bc2f81034dd5440b521b85c6c156fd",
-            "ref": "rushden-lakes-walking-route"
-        },
-        {
-            "description": "Stanwick Lakes",
-            "objectID": "f9e110757579a1deb8828fdc69ed12c3",
-            "ref": "stanwick-lakes-walking-and-cycle-route"
-        },
-        {
-            "description": "Nene Way",
-            "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
-            "ref": "nene-way-walking-route"
-        },
-        {
-            "description": "Irchester Country Park",
-            "objectID": "c51624b1591978ceff74727e980d23a1",
-            "ref": "irchester-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Titchmarsh Nature Reserve",
-            "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
-            "ref": "titchmarsh-nature-reserve-walking-route"
-        },
-        {
-            "description": "Sywell Country Park",
-            "objectID": "894fa036b4c15bcc13e110070520242a",
-            "ref": "sywell-country-park-walking-route"
-        },
-        {
-            "description": "Northampton Canal Walk",
-            "objectID": "cc80d8223dc1ab491a43fb99446775b2",
-            "ref": "northampton-canal-walk-walking-route"
-        },
-        {
-            "description": "Grand Union Canal Walk",
-            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-            "ref": "grand-union-canal-walk-walking-route"
-        },
-        {
-            "description": "Ringstead Circular Walk",
-            "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
-            "ref": "ringstead-walking-route"
-        },
-        {
-            "description": "Summer Leys",
-            "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
-            "ref": "summer-leys-walking-route"
-        },
-        {
-            "description": "Orlingbury",
-            "objectID": "090f342cae2511881ec4e3800e8b342a",
-            "ref": "orlingbury-walking-route"
-        },
-        {
-            "description": "Grafton Underwood",
-            "objectID": "a95a8dcceffafac1986e75f8eddd0842",
-            "ref": "grafton-underwood-walking-route"
-        },
-        {
-            "description": "Finedon",
-            "objectID": "ae277d7ebe78a9d33fb8fc0246e8e13a",
-            "ref": "finedon-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/50f52b4719a779b8f15bc6217aef0937.gpx",
-    "_geoloc": {
-        "lat": 52.2892969864,
-        "lng": -0.6810053997
+  "created_at": "2025-01-06T09:54:43.985367+00:00",
+  "objectID": "50f52b4719a779b8f15bc6217aef0937",
+  "ref": "wellingborough-walking-route",
+  "title": "Wellingborough Rivers and Lakes Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irchester_Country_Park_-_geograph.org.uk_-_27406.jpg",
+  "nearby": [
+    {
+      "description": "Rushden Lakes",
+      "objectID": "44bc2f81034dd5440b521b85c6c156fd",
+      "ref": "rushden-lakes-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irchester_Country_Park_-_geograph.org.uk_-_27406.jpg",
-            "title": "Kokai / Irchester Country Park, via Wikimedia Commons",
-            "caption": "Irchester Country Park. This park was established on the site of a disused quarry. The Nene Way passes through it."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Mills%2C_Little_Irchester_-_geograph.org.uk_-_538338.jpg",
-            "title": "Alan Murray-Rust / Victoria Mills, Little Irchester, via Wikimedia Commons",
-            "caption": "Victoria Mills, Little Irchester. The mills were founded in 1886 by the Whitworth family and are still run by the firm. Principal products are fine flours for the bakery trade. The location was clearly originally chosen because of the available water power from the River Nene, as well as the fact that the river is navigable at this point."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
-            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "At Ditchford Lakes Nature Reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/One_of_many_lakes_at_Stanwick_Lakes_-_June_2009_-_panoramio.jpg/500px-One_of_many_lakes_at_Stanwick_Lakes_-_June_2009_-_panoramio.jpg",
-            "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "One of many lakes at Stanwick Lakes"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Higham_Ferrers_Thatched_Cottage.jpg/500px-Higham_Ferrers_Thatched_Cottage.jpg",
-            "title": "M15ste at English Wikipedia [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Higham Ferrers Thatched Cottage"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Old_Bridge%2C_Irthlingborough_-_geograph.org.uk_-_729836.jpg",
-            "title": "Michael Trolove / The Old Bridge, Irthlingborough, via Wikimedia Commons",
-            "caption": "The Old Bridge, Irthlingborough. Crossing the River Nene near the Rushden and Diamonds football ground. I believe the pronunciaton is \"Nen\" for the river above Thrapston and \"Neen\" below or nearer Oundle."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Croyland_Abbey%2C_Wellingborough_-_geograph.org.uk_-_182517.jpg",
-            "title": "Kokai / Croyland Abbey, Wellingborough, via Wikimedia Commons",
-            "caption": "Croyland Abbey, Wellingborough. The monks of Croyland Abbey in Lincolnshire were granted farmland here and built an abbey on the site in the C10th. The current building is mainly C17th and is used as office space by the Borough Council."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%C5%81ab%C4%99dzie3.jpg/500px-%C5%81ab%C4%99dzie3.jpg",
-            "title": "User:Gambitek [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "The Nene in Wellingborough"
-        }
-    ],
-    "distance_km": 27.0,
-    "description": "The Northamptonshire town of Wellingborough has some lovely walking trails to follow through the Nene Valley. This walk uses the waymarked Nene Way to visit Irchester Country Park and the nature reserves at Rushden Lakes and Stanwick Lakes. You'll also visit the nearby towns of Irthlingborough and Higham Ferrers. The route starts just to the south of the town centre on the River Nene at Victoria Mills. From here you can pick up the Nene Way and follow it a short distance south east to Irchester Park. The popular park has peaceuful woodland paths, open meadows and also includes the interesting Irchester Narrow Gauge Railway Museum. There is also plenty of wildlife with Muntjac Deer, hedgehogs, stoats and squirrels. After leaving the park you head toward Irchester before returning to the river and following it east to Rushden Lakes. Here you'll pass through the Ditchford Lakes Nature Reserve and the Irthlingborough Lakes and Meadows Nature Reserve. It's a great area for wildlife spotting with Cetti's warblers, coots, oystercatchers and grey herons. The trail then visits the small market towns of Higham Ferrers and Irthlingborough. The walk can be extended by heading south to visit the Summer Leys Nature Reserve and the village of Great Doddington.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the south west of the town there's Sywell Country Park to visit. Here you'll find a nice waterside trail around a pretty lake and good facilities with a cafe and visitor centre. A little further to the west there's Northampton where you can pick up the Northampton Canal Walk along the Grand Union Canal. Just to the north are the villages of Orlingbury and Little Harrowden where you will find a noteworthy church dating back to the 12th century. For more walking ideas in the area see the Northamptonshire Walks page."
-        }
-    ],
-    "district": "Wellingborough",
-    "county": "North Northamptonshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "London Road, Wellingborough, Little Irchester, Wellingborough, North Northamptonshire, England, NN8 2EA, United Kingdom",
-    "postcode": "NN8 2EA",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "river"],
-    "points_of_interest": ["nature reserve", "museum", "village"],
-    "facilities": ["car park", "visitor center", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "wildlife watching"]
+    {
+      "description": "Stanwick Lakes",
+      "objectID": "f9e110757579a1deb8828fdc69ed12c3",
+      "ref": "stanwick-lakes-walking-and-cycle-route"
+    },
+    {
+      "description": "Nene Way",
+      "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
+      "ref": "nene-way-walking-route"
+    },
+    {
+      "description": "Irchester Country Park",
+      "objectID": "c51624b1591978ceff74727e980d23a1",
+      "ref": "irchester-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Titchmarsh Nature Reserve",
+      "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
+      "ref": "titchmarsh-nature-reserve-walking-route"
+    },
+    {
+      "description": "Sywell Country Park",
+      "objectID": "894fa036b4c15bcc13e110070520242a",
+      "ref": "sywell-country-park-walking-route"
+    },
+    {
+      "description": "Northampton Canal Walk",
+      "objectID": "cc80d8223dc1ab491a43fb99446775b2",
+      "ref": "northampton-canal-walk-walking-route"
+    },
+    {
+      "description": "Grand Union Canal Walk",
+      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+      "ref": "grand-union-canal-walk-walking-route"
+    },
+    {
+      "description": "Ringstead Circular Walk",
+      "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
+      "ref": "ringstead-walking-route"
+    },
+    {
+      "description": "Summer Leys",
+      "objectID": "80fd8eb247875be8cabfd73f259dfd8e",
+      "ref": "summer-leys-walking-route"
+    },
+    {
+      "description": "Orlingbury",
+      "objectID": "090f342cae2511881ec4e3800e8b342a",
+      "ref": "orlingbury-walking-route"
+    },
+    {
+      "description": "Grafton Underwood",
+      "objectID": "a95a8dcceffafac1986e75f8eddd0842",
+      "ref": "grafton-underwood-walking-route"
+    },
+    {
+      "description": "Finedon",
+      "objectID": "ae277d7ebe78a9d33fb8fc0246e8e13a",
+      "ref": "finedon-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/50f52b4719a779b8f15bc6217aef0937.gpx",
+  "_geoloc": {
+    "lat": 52.2892969864,
+    "lng": -0.6810053997
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irchester_Country_Park_-_geograph.org.uk_-_27406.jpg",
+      "title": "Kokai / Irchester Country Park, via Wikimedia Commons",
+      "caption": "Irchester Country Park. This park was established on the site of a disused quarry. The Nene Way passes through it."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Mills%2C_Little_Irchester_-_geograph.org.uk_-_538338.jpg",
+      "title": "Alan Murray-Rust / Victoria Mills, Little Irchester, via Wikimedia Commons",
+      "caption": "Victoria Mills, Little Irchester. The mills were founded in 1886 by the Whitworth family and are still run by the firm. Principal products are fine flours for the bakery trade. The location was clearly originally chosen because of the available water power from the River Nene, as well as the fact that the river is navigable at this point."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg/500px-At_Ditchford_Lakes_Nature_Reserve_-_June_2009_-_panoramio.jpg",
+      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "At Ditchford Lakes Nature Reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/One_of_many_lakes_at_Stanwick_Lakes_-_June_2009_-_panoramio.jpg/500px-One_of_many_lakes_at_Stanwick_Lakes_-_June_2009_-_panoramio.jpg",
+      "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "One of many lakes at Stanwick Lakes"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Higham_Ferrers_Thatched_Cottage.jpg/500px-Higham_Ferrers_Thatched_Cottage.jpg",
+      "title": "M15ste at English Wikipedia [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Higham Ferrers Thatched Cottage"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Old_Bridge%2C_Irthlingborough_-_geograph.org.uk_-_729836.jpg",
+      "title": "Michael Trolove / The Old Bridge, Irthlingborough, via Wikimedia Commons",
+      "caption": "The Old Bridge, Irthlingborough. Crossing the River Nene near the Rushden and Diamonds football ground. I believe the pronunciaton is \"Nen\" for the river above Thrapston and \"Neen\" below or nearer Oundle."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Croyland_Abbey%2C_Wellingborough_-_geograph.org.uk_-_182517.jpg",
+      "title": "Kokai / Croyland Abbey, Wellingborough, via Wikimedia Commons",
+      "caption": "Croyland Abbey, Wellingborough. The monks of Croyland Abbey in Lincolnshire were granted farmland here and built an abbey on the site in the C10th. The current building is mainly C17th and is used as office space by the Borough Council."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%C5%81ab%C4%99dzie3.jpg/500px-%C5%81ab%C4%99dzie3.jpg",
+      "title": "User:Gambitek [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "The Nene in Wellingborough"
+    }
+  ],
+  "distance_km": 27.0,
+  "description": "The Northamptonshire town of Wellingborough has some lovely walking trails to follow through the Nene Valley. This walk uses the waymarked Nene Way to visit Irchester Country Park and the nature reserves at Rushden Lakes and Stanwick Lakes. You'll also visit the nearby towns of Irthlingborough and Higham Ferrers. The route starts just to the south of the town centre on the River Nene at Victoria Mills. From here you can pick up the Nene Way and follow it a short distance south east to Irchester Park. The popular park has peaceuful woodland paths, open meadows and also includes the interesting Irchester Narrow Gauge Railway Museum. There is also plenty of wildlife with Muntjac Deer, hedgehogs, stoats and squirrels. After leaving the park you head toward Irchester before returning to the river and following it east to Rushden Lakes. Here you'll pass through the Ditchford Lakes Nature Reserve and the Irthlingborough Lakes and Meadows Nature Reserve. It's a great area for wildlife spotting with Cetti's warblers, coots, oystercatchers and grey herons. The trail then visits the small market towns of Higham Ferrers and Irthlingborough. The walk can be extended by heading south to visit the Summer Leys Nature Reserve and the village of Great Doddington.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south west of the town there's Sywell Country Park to visit. Here you'll find a nice waterside trail around a pretty lake and good facilities with a cafe and visitor centre. A little further to the west there's Northampton where you can pick up the Northampton Canal Walk along the Grand Union Canal. Just to the north are the villages of Orlingbury and Little Harrowden where you will find a noteworthy church dating back to the 12th century. For more walking ideas in the area see the Northamptonshire Walks page."
+    }
+  ],
+  "district": "Wellingborough",
+  "county": "North Northamptonshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "London Road, Wellingborough, Little Irchester, Wellingborough, North Northamptonshire, England, NN8 2EA, United Kingdom",
+  "postcode": "NN8 2EA",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

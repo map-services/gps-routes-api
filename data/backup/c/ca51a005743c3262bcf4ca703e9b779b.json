@@ -1,135 +1,148 @@
 {
-    "created_at": "2025-01-06T02:42:42.091823+00:00",
-    "objectID": "ca51a005743c3262bcf4ca703e9b779b",
-    "ref": "lamberts-castle-to-coneys-castle-walking-route",
-    "title": "Lamberts Castle to Coneys Castle Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg/500px-Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg",
-    "nearby": [
-        {
-            "description": "Wessex Ridgeway",
-            "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
-            "ref": "wessex-ridgeway-walking-route"
-        },
-        {
-            "description": "Lyme Regis to Charmouth",
-            "objectID": "837a0f18e9dfe118f2c7c1c9beeaea4a",
-            "ref": "lyme-regis-to-charmouth-walking-route"
-        },
-        {
-            "description": "Lyme Regis to Golden Cap",
-            "objectID": "bd243ddabd44ddff7a452ea94937c699",
-            "ref": "lyme-regis-to-golden-cap-walking-route"
-        },
-        {
-            "description": "Lyme Regis to Seaton Undercliff Walk",
-            "objectID": "739b76d283016a4fd013ecf36f5f88bf",
-            "ref": "lyme-regis-to-seaton-undercliff-walk-walking-route"
-        },
-        {
-            "description": "Lyme Regis to West Bay Walk",
-            "objectID": "9f7e82d7643ab1c6489eee726790533b",
-            "ref": "lyme-regis-to-west-bay-walk-walking-route"
-        },
-        {
-            "description": "Axminster",
-            "objectID": "7340b9c0718b4b79026b10a846c5c1fd",
-            "ref": "axminster-walking-route"
-        },
-        {
-            "description": "Pilsdon Pen",
-            "objectID": "68b6540d8d3ac4be085c018b4474ab18",
-            "ref": "pilsdon-pen-walking-route"
-        },
-        {
-            "description": "Lewesdon Hill",
-            "objectID": "09e0dcc0017bd705b92bd95689d47d5c",
-            "ref": "lewesdon-hill-walking-route"
-        },
-        {
-            "description": "Shipton Gorge",
-            "objectID": "cdd424fed1ee309107ffda9f18035157",
-            "ref": "shipton-gorge-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ca51a005743c3262bcf4ca703e9b779b.gpx",
-    "_geoloc": {
-        "lat": 50.7851719148,
-        "lng": -2.9005478333
+  "created_at": "2025-01-06T02:42:42.091823+00:00",
+  "objectID": "ca51a005743c3262bcf4ca703e9b779b",
+  "ref": "lamberts-castle-to-coneys-castle-walking-route",
+  "title": "Lamberts Castle to Coneys Castle Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg/500px-Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg",
+  "nearby": [
+    {
+      "description": "Wessex Ridgeway",
+      "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
+      "ref": "wessex-ridgeway-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg/500px-Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg",
-            "title": "Lambert's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lambert's Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cattle_below_Lambert%27s_Castle_Hill_-_geograph.org.uk_-_472109.jpg",
-            "title": "Derek Harper / Cattle below Lambert's Castle Hill",
-            "caption": "Cattle below Lambert's Castle Hill. Hawkchurch Footpath 16 crosses this field just below the B3165. The view in the background includes Grighay Farm, on the border of SY3701 and SY3801, and Payne's Down to the right."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lambert%27s_Castle_-_geograph.org.uk_-_1716658.jpg",
-            "title": "Eugene Birchall / Lambert's Castle",
-            "caption": "Lovely view across the countryside"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ewe_on_the_edge_of_Marshwood_Vale_%28geograph_2830522%29.jpg",
-            "title": "Rupert Fleetingly / Don't Step Back!",
-            "caption": "Ewe on the edge of Marshwood Vale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/West_from_Coney%27s_Castle_-_geograph.org.uk_-_3179417.jpg/500px-West_from_Coney%27s_Castle_-_geograph.org.uk_-_3179417.jpg",
-            "title": "West from Coney's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "West from Coney's Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Within_Coney%27s_Castle_-_geograph.org.uk_-_3179158.jpg/500px-Within_Coney%27s_Castle_-_geograph.org.uk_-_3179158.jpg",
-            "title": "Within Coney's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Within Coney's Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Murky_day_at_Fishpond_Bottom_-_geograph.org.uk_-_3180866.jpg/500px-Murky_day_at_Fishpond_Bottom_-_geograph.org.uk_-_3180866.jpg",
-            "title": "Murky day at Fishpond Bottom by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fishpond Bottom"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Car_Park%2C_Lambert%27s_Castle_Hill_-_geograph.org.uk_-_472310.jpg",
-            "title": "Derek Harper / Car Park, Lambert's Castle Hill",
-            "caption": "Car Park, Lambert's Castle Hill. The track on the right leads from the B3165 to the National Trust car park by the trees. The grassy area in the foreground is doubtless used as an overflow."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "Enjoy wonderful views over Dorset's beautiful Marshwood Vale on this circular walk near Bridport. The walk visits the ancient hill forts of Lambert's Castle and Coney's Castle, making use of the Wessex Ridgeway and various other footpaths, bridleways and country lanes. It is an interesting and varied walk passing through heathland, acid grassland and woodland. The views across the Marshwood Vale to the coast are stunning on a clear day. The area is also rich in wildlife which includes meadow pipit, stonechat, green woodpecker, yellowhammer, willow warbler, redstart, tree creeper and nuthatch. The walk begins at the National Trust car park and heads to the 2500 year old Lambert's Castle. You then pick up the Wessex Ridgeway and head south to Coney's Castle. Public footpaths then take you to the pretty Fishpond Bottom with its lovely, tranquil pond. Shortly after you return to the finish point back at the car park.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Old Inn is located just north west of the car park in Hawkchurch village. The inn has a history stretching back to the 16th century. They serve good quality food and also provide rooms if you'd like to stay in the area. A stroll around the unspoilt village of Hawkchurch will also make a pleasant extension to your outing. You can find them at postcode EX13 5XD for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woodland trails on the route are ideal for dog walking so you'll probably meet other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the north east there's another interesting historical site at Pilsdon Pen. Here you'll find the second highest point in Dorest topped with an Iron Age hill fort where the remains of 14 roundhouses have been uncovered. Just east of here the highest point in the county can be reached at Lewesdon Hill.Just to the south is the popular coastal town of Lyme Regis where you can pick up the Lyme Regis to Charmouth Walk, Lyme Regis to Golden Cap Walk, Lyme Regis to Seaton Undercliff Walk and Lyme Regis to West Bay Walk. To the west is Axminster where you can enjoy a pleasant riverside stroll along the River Axe. Also nearby is the climb to the lovely viewpoint at Colmers Hill from the picturesque village of Symondsbury. The historic village includes an ancient church and a noteworthy 15th century, thatched pub. Just a couple of miles to the east of Bridport there's the worthy little village of Shipton Gorge where you can enjoy a climb to Shipton Hill and visit the splendid 15th century church of St Martin."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Dn34Ij31Cs4",
-    "county": "Dorset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "B3165, Marshwood, Dorset, England, EX13 5UW, United Kingdom",
-    "postcode": "EX13 5UW",
-    "district": "Marshwood",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["heathland", "woodland", "grassland"],
-    "points_of_interest": ["hill forts", "country lane", "pond"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Lyme Regis to Charmouth",
+      "objectID": "837a0f18e9dfe118f2c7c1c9beeaea4a",
+      "ref": "lyme-regis-to-charmouth-walking-route"
+    },
+    {
+      "description": "Lyme Regis to Golden Cap",
+      "objectID": "bd243ddabd44ddff7a452ea94937c699",
+      "ref": "lyme-regis-to-golden-cap-walking-route"
+    },
+    {
+      "description": "Lyme Regis to Seaton Undercliff Walk",
+      "objectID": "739b76d283016a4fd013ecf36f5f88bf",
+      "ref": "lyme-regis-to-seaton-undercliff-walk-walking-route"
+    },
+    {
+      "description": "Lyme Regis to West Bay Walk",
+      "objectID": "9f7e82d7643ab1c6489eee726790533b",
+      "ref": "lyme-regis-to-west-bay-walk-walking-route"
+    },
+    {
+      "description": "Axminster",
+      "objectID": "7340b9c0718b4b79026b10a846c5c1fd",
+      "ref": "axminster-walking-route"
+    },
+    {
+      "description": "Pilsdon Pen",
+      "objectID": "68b6540d8d3ac4be085c018b4474ab18",
+      "ref": "pilsdon-pen-walking-route"
+    },
+    {
+      "description": "Lewesdon Hill",
+      "objectID": "09e0dcc0017bd705b92bd95689d47d5c",
+      "ref": "lewesdon-hill-walking-route"
+    },
+    {
+      "description": "Shipton Gorge",
+      "objectID": "cdd424fed1ee309107ffda9f18035157",
+      "ref": "shipton-gorge-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ca51a005743c3262bcf4ca703e9b779b.gpx",
+  "_geoloc": {
+    "lat": 50.7851719148,
+    "lng": -2.9005478333
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg/500px-Lambert%27s_Castle_-_geograph.org.uk_-_3181078.jpg",
+      "title": "Lambert's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lambert's Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cattle_below_Lambert%27s_Castle_Hill_-_geograph.org.uk_-_472109.jpg",
+      "title": "Derek Harper / Cattle below Lambert's Castle Hill",
+      "caption": "Cattle below Lambert's Castle Hill. Hawkchurch Footpath 16 crosses this field just below the B3165. The view in the background includes Grighay Farm, on the border of SY3701 and SY3801, and Payne's Down to the right."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lambert%27s_Castle_-_geograph.org.uk_-_1716658.jpg",
+      "title": "Eugene Birchall / Lambert's Castle",
+      "caption": "Lovely view across the countryside"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ewe_on_the_edge_of_Marshwood_Vale_%28geograph_2830522%29.jpg",
+      "title": "Rupert Fleetingly / Don't Step Back!",
+      "caption": "Ewe on the edge of Marshwood Vale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/West_from_Coney%27s_Castle_-_geograph.org.uk_-_3179417.jpg/500px-West_from_Coney%27s_Castle_-_geograph.org.uk_-_3179417.jpg",
+      "title": "West from Coney's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "West from Coney's Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Within_Coney%27s_Castle_-_geograph.org.uk_-_3179158.jpg/500px-Within_Coney%27s_Castle_-_geograph.org.uk_-_3179158.jpg",
+      "title": "Within Coney's Castle by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Within Coney's Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Murky_day_at_Fishpond_Bottom_-_geograph.org.uk_-_3180866.jpg/500px-Murky_day_at_Fishpond_Bottom_-_geograph.org.uk_-_3180866.jpg",
+      "title": "Murky day at Fishpond Bottom by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fishpond Bottom"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Car_Park%2C_Lambert%27s_Castle_Hill_-_geograph.org.uk_-_472310.jpg",
+      "title": "Derek Harper / Car Park, Lambert's Castle Hill",
+      "caption": "Car Park, Lambert's Castle Hill. The track on the right leads from the B3165 to the National Trust car park by the trees. The grassy area in the foreground is doubtless used as an overflow."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "Enjoy wonderful views over Dorset's beautiful Marshwood Vale on this circular walk near Bridport. The walk visits the ancient hill forts of Lambert's Castle and Coney's Castle, making use of the Wessex Ridgeway and various other footpaths, bridleways and country lanes. It is an interesting and varied walk passing through heathland, acid grassland and woodland. The views across the Marshwood Vale to the coast are stunning on a clear day. The area is also rich in wildlife which includes meadow pipit, stonechat, green woodpecker, yellowhammer, willow warbler, redstart, tree creeper and nuthatch. The walk begins at the National Trust car park and heads to the 2500 year old Lambert's Castle. You then pick up the Wessex Ridgeway and head south to Coney's Castle. Public footpaths then take you to the pretty Fishpond Bottom with its lovely, tranquil pond. Shortly after you return to the finish point back at the car park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Old Inn is located just north west of the car park in Hawkchurch village. The inn has a history stretching back to the 16th century. They serve good quality food and also provide rooms if you'd like to stay in the area. A stroll around the unspoilt village of Hawkchurch will also make a pleasant extension to your outing. You can find them at postcode EX13 5XD for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails on the route are ideal for dog walking so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north east there's another interesting historical site at Pilsdon Pen. Here you'll find the second highest point in Dorest topped with an Iron Age hill fort where the remains of 14 roundhouses have been uncovered. Just east of here the highest point in the county can be reached at Lewesdon Hill.Just to the south is the popular coastal town of Lyme Regis where you can pick up the Lyme Regis to Charmouth Walk, Lyme Regis to Golden Cap Walk, Lyme Regis to Seaton Undercliff Walk and Lyme Regis to West Bay Walk. To the west is Axminster where you can enjoy a pleasant riverside stroll along the River Axe. Also nearby is the climb to the lovely viewpoint at Colmers Hill from the picturesque village of Symondsbury. The historic village includes an ancient church and a noteworthy 15th century, thatched pub. Just a couple of miles to the east of Bridport there's the worthy little village of Shipton Gorge where you can enjoy a climb to Shipton Hill and visit the splendid 15th century church of St Martin."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Dn34Ij31Cs4",
+  "county": "Dorset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B3165, Marshwood, Dorset, England, EX13 5UW, United Kingdom",
+  "postcode": "EX13 5UW",
+  "district": "Marshwood",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "acid grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

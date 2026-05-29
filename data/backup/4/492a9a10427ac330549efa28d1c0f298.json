@@ -1,132 +1,138 @@
 {
-    "created_at": "2025-01-06T00:31:32.300856+00:00",
-    "objectID": "492a9a10427ac330549efa28d1c0f298",
-    "ref": "ryton-pools-country-park-walking-and-cycle-route",
-    "title": "Ryton Pools Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Visitor_Centre_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_1204953.jpg",
-    "nearby": [
-        {
-            "description": "Coventry Way",
-            "objectID": "a750bd92b3f8f62b9b4c97b290c90b17",
-            "ref": "coventry-way-walking-route"
-        },
-        {
-            "description": "Warwickshire Centenary Way",
-            "objectID": "2d56795dfe8694c3f520e2951c450b0e",
-            "ref": "warwickshire-centenary-way-walking-route"
-        },
-        {
-            "description": "Brandon Marsh",
-            "objectID": "ac5cf49c643b3bb54b1f78aef10ecde6",
-            "ref": "brandon-marsh-walking-route"
-        },
-        {
-            "description": "Coventry",
-            "objectID": "37f16e66f56979d06be79d600d76c244",
-            "ref": "coventry-walking-route"
-        },
-        {
-            "description": "Hampton in Arden",
-            "objectID": "75b17a9dd432586a302e9fd7a2fbabc3",
-            "ref": "hampton-in-arden-walking-route"
-        },
-        {
-            "description": "Baddesley Clinton",
-            "objectID": "50800eca937fa1b2a7d13d9889b4eca3",
-            "ref": "baddesley-clinton-walking-route"
-        },
-        {
-            "description": "Leek Wootton",
-            "objectID": "c8613026a6fd69eeac3847d165b9ae3d",
-            "ref": "leek-wootton-walking-route"
-        },
-        {
-            "description": "Binley Woods",
-            "objectID": "6fdec7b8f01a09ee4fa0faf7422e9bd6",
-            "ref": "binley-woods-walking-route"
-        },
-        {
-            "description": "Brandon Woods",
-            "objectID": "eb357ee668c379b72a4d74ba383e4c1a",
-            "ref": "brandon-woods-walking-route"
-        },
-        {
-            "description": "Brandon Marsh",
-            "objectID": "ac5cf49c643b3bb54b1f78aef10ecde6",
-            "ref": "brandon-marsh-walking-route"
-        },
-        {
-            "description": "Hay Wood",
-            "objectID": "fa2ced7b7521e688a04567eac5b99745",
-            "ref": "hay-wood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/492a9a10427ac330549efa28d1c0f298.gpx",
-    "_geoloc": {
-        "lat": 52.3510239664,
-        "lng": -1.4535210102
+  "created_at": "2025-01-06T00:31:32.300856+00:00",
+  "objectID": "492a9a10427ac330549efa28d1c0f298",
+  "ref": "ryton-pools-country-park-walking-and-cycle-route",
+  "title": "Ryton Pools Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Visitor_Centre_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_1204953.jpg",
+  "nearby": [
+    {
+      "description": "Coventry Way",
+      "objectID": "a750bd92b3f8f62b9b4c97b290c90b17",
+      "ref": "coventry-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Visitor_Centre_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_1204953.jpg",
-            "title": "Keith Williams / Visitor Centre at Ryton Pools Country Park",
-            "caption": "Visitor Centre at Ryton Pools Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pond_used_for_pond_dipping_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_736233.jpg",
-            "title": "Keith Williams / Pond used for pond dipping at Ryton Pools Country Park",
-            "caption": "Pond used for pond dipping"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryton_Pools_Miniature_Railway_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_736268.jpg",
-            "title": "Keith Williams / Ryton Pools Miniature Railway at Ryton Pools Country Park",
-            "caption": "All aboard the Ryton Pools Miniature Railway. The railway is run by the Coventry Model Engineering"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sensory_Trail%2C_Ryton_Pools_Country_Park_-_geograph.org.uk_-_2478622.jpg/500px-Sensory_Trail%2C_Ryton_Pools_Country_Park_-_geograph.org.uk_-_2478622.jpg",
-            "title": "Sensory Trail, Ryton Pools Country Park by Michael Westley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sensory Trail"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryton_pools_-_geograph.org.uk_-_506273.jpg",
-            "title": "Anthony Warren / Ryton pools",
-            "caption": "Ryton pools"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_pools_at_Ryton_-_geograph.org.uk_-_172169.jpg",
-            "title": "E Gammie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A birds eye view of the park. The Sports Connexion is just above the top left pool. Dominating the centre of the photo is the Peugeot plant, with Ryton on Dunsmore between it and the top right pool. Middle distance, left, is Baginton airport."
-        }
-    ],
-    "distance_km": 8.7,
-    "description": "Enjoy a cycle or walk around this lovely park in Ryton, Warwickshire. The park covers 100 acres and includes a number of cycling and walking trails, a large area of peaceful woodland and the four tranquil pools after which the park is named. Ryton Pools also includes a visitor centre, bird hides and a miniature railway. The route below takes you through the park and then to some of the nearby woods. The park can be found just a few miles north east of Leamington Spa. If you would like to continue your walk the Coventry Way and the Warwickshire Centenary Way both pass near to the park. The delightful Brandon Marsh Nature Reserve is just to the north of the village of Ryton-on-Dunsmore. Here you'll find nice footpaths taking you around a series of lakes and lagoons.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the west of Coventry there's the villages of Berkswell, Hampton in Arden and Balsall Common to visit. The former is particularly noteworthy with its Norman church, Grade II listed 16th century inn and the Berkswell Windmill which dates back to 1826. The epic Heart of England Way can also be picked up in this area. Just to the north there's the suburban village of Binley Woods where you can enjoy some pleasant trails around Brandon Woods. For more walking ideas in the area see the Warwickshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Mm1R1tVBf-k",
-    "postcode": "CV8 3BG",
-    "county": "Warwickshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Ryton on Dunsmore CP, Rugby, Warwickshire, England, CV8 3BG, United Kingdom",
-    "district": "Rugby",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "lake"],
-    "points_of_interest": ["nature reserve", "footpath"],
-    "facilities": [
-        "visitor center",
-        "bird hide",
-        "miniature railway",
-        "dog friendly"
-    ],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Warwickshire Centenary Way",
+      "objectID": "2d56795dfe8694c3f520e2951c450b0e",
+      "ref": "warwickshire-centenary-way-walking-route"
+    },
+    {
+      "description": "Brandon Marsh",
+      "objectID": "ac5cf49c643b3bb54b1f78aef10ecde6",
+      "ref": "brandon-marsh-walking-route"
+    },
+    {
+      "description": "Coventry",
+      "objectID": "37f16e66f56979d06be79d600d76c244",
+      "ref": "coventry-walking-route"
+    },
+    {
+      "description": "Hampton in Arden",
+      "objectID": "75b17a9dd432586a302e9fd7a2fbabc3",
+      "ref": "hampton-in-arden-walking-route"
+    },
+    {
+      "description": "Baddesley Clinton",
+      "objectID": "50800eca937fa1b2a7d13d9889b4eca3",
+      "ref": "baddesley-clinton-walking-route"
+    },
+    {
+      "description": "Leek Wootton",
+      "objectID": "c8613026a6fd69eeac3847d165b9ae3d",
+      "ref": "leek-wootton-walking-route"
+    },
+    {
+      "description": "Binley Woods",
+      "objectID": "6fdec7b8f01a09ee4fa0faf7422e9bd6",
+      "ref": "binley-woods-walking-route"
+    },
+    {
+      "description": "Brandon Woods",
+      "objectID": "eb357ee668c379b72a4d74ba383e4c1a",
+      "ref": "brandon-woods-walking-route"
+    },
+    {
+      "description": "Brandon Marsh",
+      "objectID": "ac5cf49c643b3bb54b1f78aef10ecde6",
+      "ref": "brandon-marsh-walking-route"
+    },
+    {
+      "description": "Hay Wood",
+      "objectID": "fa2ced7b7521e688a04567eac5b99745",
+      "ref": "hay-wood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/492a9a10427ac330549efa28d1c0f298.gpx",
+  "_geoloc": {
+    "lat": 52.3510239664,
+    "lng": -1.4535210102
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Visitor_Centre_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_1204953.jpg",
+      "title": "Keith Williams / Visitor Centre at Ryton Pools Country Park",
+      "caption": "Visitor Centre at Ryton Pools Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pond_used_for_pond_dipping_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_736233.jpg",
+      "title": "Keith Williams / Pond used for pond dipping at Ryton Pools Country Park",
+      "caption": "Pond used for pond dipping"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryton_Pools_Miniature_Railway_at_Ryton_Pools_Country_Park_-_geograph.org.uk_-_736268.jpg",
+      "title": "Keith Williams / Ryton Pools Miniature Railway at Ryton Pools Country Park",
+      "caption": "All aboard the Ryton Pools Miniature Railway. The railway is run by the Coventry Model Engineering"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sensory_Trail%2C_Ryton_Pools_Country_Park_-_geograph.org.uk_-_2478622.jpg/500px-Sensory_Trail%2C_Ryton_Pools_Country_Park_-_geograph.org.uk_-_2478622.jpg",
+      "title": "Sensory Trail, Ryton Pools Country Park by Michael Westley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sensory Trail"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryton_pools_-_geograph.org.uk_-_506273.jpg",
+      "title": "Anthony Warren / Ryton pools",
+      "caption": "Ryton pools"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_pools_at_Ryton_-_geograph.org.uk_-_172169.jpg",
+      "title": "E Gammie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A birds eye view of the park. The Sports Connexion is just above the top left pool. Dominating the centre of the photo is the Peugeot plant, with Ryton on Dunsmore between it and the top right pool. Middle distance, left, is Baginton airport."
+    }
+  ],
+  "distance_km": 8.7,
+  "description": "Enjoy a cycle or walk around this lovely park in Ryton, Warwickshire. The park covers 100 acres and includes a number of cycling and walking trails, a large area of peaceful woodland and the four tranquil pools after which the park is named. Ryton Pools also includes a visitor centre, bird hides and a miniature railway. The route below takes you through the park and then to some of the nearby woods. The park can be found just a few miles north east of Leamington Spa. If you would like to continue your walk the Coventry Way and the Warwickshire Centenary Way both pass near to the park. The delightful Brandon Marsh Nature Reserve is just to the north of the village of Ryton-on-Dunsmore. Here you'll find nice footpaths taking you around a series of lakes and lagoons.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west of Coventry there's the villages of Berkswell, Hampton in Arden and Balsall Common to visit. The former is particularly noteworthy with its Norman church, Grade II listed 16th century inn and the Berkswell Windmill which dates back to 1826. The epic Heart of England Way can also be picked up in this area. Just to the north there's the suburban village of Binley Woods where you can enjoy some pleasant trails around Brandon Woods. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Mm1R1tVBf-k",
+  "postcode": "CV8 3BG",
+  "county": "Warwickshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ryton on Dunsmore CP, Rugby, Warwickshire, England, CV8 3BG, United Kingdom",
+  "district": "Rugby",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 to 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "visitor centre",
+    "bird hide",
+    "pool"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

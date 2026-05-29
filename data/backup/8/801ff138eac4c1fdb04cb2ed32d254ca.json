@@ -1,112 +1,122 @@
 {
-    "created_at": "2025-01-06T11:17:13.591893+00:00",
-    "objectID": "801ff138eac4c1fdb04cb2ed32d254ca",
-    "ref": "uldale-force-walking-route",
-    "title": "Uldale Force Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Uldale_Force_-_geograph.org.uk_-_1220925.jpg",
-    "nearby": [
-        {
-            "description": "Garsdale",
-            "objectID": "50a1a6e9001b806374ec39a48e94bf76",
-            "ref": "garsdale-walking-route"
-        },
-        {
-            "description": "Cotter Force",
-            "objectID": "a3e7cd87d0987eb86631377f96a8da6b",
-            "ref": "cotter-force-walking-route"
-        },
-        {
-            "description": "Hawes",
-            "objectID": "7fdb366ec641dc5bed455232e6398ede",
-            "ref": "hawes-walking-route"
-        },
-        {
-            "description": "Hardraw Force Walk",
-            "objectID": "af58e373850c70eac32a3a62a4053ed3",
-            "ref": "hardraw-force-walk-walking-route"
-        },
-        {
-            "description": "Pennine Way",
-            "objectID": "7e1568e78435cb4e0d45bf98831e2524",
-            "ref": "pennine-way-walking-route"
-        },
-        {
-            "description": "Great Shunner Fell",
-            "objectID": "66312ea1778e74ee242c2b39ff222088",
-            "ref": "great-shunner-fell-walking-route"
-        },
-        {
-            "description": "Appersett Viaduct and the River Ure Walk",
-            "objectID": "1b51ebd0333f8a9520e2d699b2658c1a",
-            "ref": "appersett-viaduct-and-the-river-ure-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/801ff138eac4c1fdb04cb2ed32d254ca.gpx",
-    "_geoloc": {
-        "lat": 54.3758914657,
-        "lng": -2.4460537382
+  "created_at": "2025-01-06T11:17:13.591893+00:00",
+  "objectID": "801ff138eac4c1fdb04cb2ed32d254ca",
+  "ref": "uldale-force-walking-route",
+  "title": "Uldale Force Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Uldale_Force_-_geograph.org.uk_-_1220925.jpg",
+  "nearby": [
+    {
+      "description": "Garsdale",
+      "objectID": "50a1a6e9001b806374ec39a48e94bf76",
+      "ref": "garsdale-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Uldale_Force_-_geograph.org.uk_-_1220925.jpg",
-            "title": "Andy Waddington / Uldale Force",
-            "caption": "Uldale Force"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Limestone_gorge%2C_River_Rawthey_-_geograph.org.uk_-_2217204.jpg",
-            "title": "Limestone gorge, River Rawthey by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Limestone gorge, River Rawthey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Uldale_ruin_-_geograph.org.uk_-_555030.jpg",
-            "title": "John Illingworth / Uldale ruin",
-            "caption": "Uldale ruin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Valley_of_the_River_Rawthey_with_the_Howgills_in_the_distance_-_geograph.org.uk_-_542821.jpg",
-            "title": "Mick Borroff / Valley of the River Rawthey with the Howgills in the distance",
-            "caption": "Valley of the River Rawthey with the Howgills in the distance"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rawthey_Bridge_-_geograph.org.uk_-_2186779.jpg",
-            "title": "Rawthey Bridge by Les Hull, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rawthey Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Waterfall_near_Uldale_House_-_geograph.org.uk_-_2185886.jpg",
-            "title": "Waterfall near Uldale House by Les Hull, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Waterfall near Uldale House"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rawthey_Gill_Quarry_-_geograph.org.uk_-_2217166.jpg",
-            "title": "Rawthey Gill Quarry by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rawthey Gill Quarry"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_River_Rawthey_plunging_over_Uldale_Force_-_geograph.org.uk_-_542832.jpg",
-            "title": "Mick Borroff / The River Rawthey plunging over Uldale Force",
-            "caption": "The River Rawthey plunging over Uldale Force"
-        }
-    ],
-    "distance_km": 9.6,
-    "description": "This walk visits the picturesque Uldale Force waterfall on the River Rawthey in Cumbria. The area also includes a series of other smaller waterfalls so is a bit of a hidden gem of this part of the Yorkshire Dales. You can start the walk from the public parking area near Rawthey bridge a couple of miles north west of the falls. From here you can pick up footpaths heading south east to Wraygreen, Uldale House and Blea Gill Bridge before coming to the falls near Whin Stone Gill Bridge. Along the way there's nice views of the River Rawthey which flows through a narrow limestone gorge to the secluded falls. You can extend the walk by continuing south east to visit Garsdale. It's a beautiful place with trails along the Grisedale Beck and more pretty waterfalls to see. You can also pick up the scenic Settle and Carlisle Line from Garsdale Railway station here. The station offers an alternative start point for the walk to Uldale Force by providing a public transport option.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/oOoRZlhqUPA",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "A683, Sedbergh, Westmorland and Furness, England, LA10 5NF, United Kingdom",
-    "postcode": "LA10 5NF",
-    "district": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "limestone gorge"],
-    "points_of_interest": ["waterfall", "river views"],
-    "facilities": ["car park", "railway station"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "description": "Cotter Force",
+      "objectID": "a3e7cd87d0987eb86631377f96a8da6b",
+      "ref": "cotter-force-walking-route"
+    },
+    {
+      "description": "Hawes",
+      "objectID": "7fdb366ec641dc5bed455232e6398ede",
+      "ref": "hawes-walking-route"
+    },
+    {
+      "description": "Hardraw Force Walk",
+      "objectID": "af58e373850c70eac32a3a62a4053ed3",
+      "ref": "hardraw-force-walk-walking-route"
+    },
+    {
+      "description": "Pennine Way",
+      "objectID": "7e1568e78435cb4e0d45bf98831e2524",
+      "ref": "pennine-way-walking-route"
+    },
+    {
+      "description": "Great Shunner Fell",
+      "objectID": "66312ea1778e74ee242c2b39ff222088",
+      "ref": "great-shunner-fell-walking-route"
+    },
+    {
+      "description": "Appersett Viaduct and the River Ure Walk",
+      "objectID": "1b51ebd0333f8a9520e2d699b2658c1a",
+      "ref": "appersett-viaduct-and-the-river-ure-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/801ff138eac4c1fdb04cb2ed32d254ca.gpx",
+  "_geoloc": {
+    "lat": 54.3758914657,
+    "lng": -2.4460537382
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Uldale_Force_-_geograph.org.uk_-_1220925.jpg",
+      "title": "Andy Waddington / Uldale Force",
+      "caption": "Uldale Force"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Limestone_gorge%2C_River_Rawthey_-_geograph.org.uk_-_2217204.jpg",
+      "title": "Limestone gorge, River Rawthey by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Limestone gorge, River Rawthey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Uldale_ruin_-_geograph.org.uk_-_555030.jpg",
+      "title": "John Illingworth / Uldale ruin",
+      "caption": "Uldale ruin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Valley_of_the_River_Rawthey_with_the_Howgills_in_the_distance_-_geograph.org.uk_-_542821.jpg",
+      "title": "Mick Borroff / Valley of the River Rawthey with the Howgills in the distance",
+      "caption": "Valley of the River Rawthey with the Howgills in the distance"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rawthey_Bridge_-_geograph.org.uk_-_2186779.jpg",
+      "title": "Rawthey Bridge by Les Hull, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rawthey Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Waterfall_near_Uldale_House_-_geograph.org.uk_-_2185886.jpg",
+      "title": "Waterfall near Uldale House by Les Hull, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Waterfall near Uldale House"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rawthey_Gill_Quarry_-_geograph.org.uk_-_2217166.jpg",
+      "title": "Rawthey Gill Quarry by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rawthey Gill Quarry"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_River_Rawthey_plunging_over_Uldale_Force_-_geograph.org.uk_-_542832.jpg",
+      "title": "Mick Borroff / The River Rawthey plunging over Uldale Force",
+      "caption": "The River Rawthey plunging over Uldale Force"
+    }
+  ],
+  "distance_km": 9.6,
+  "description": "This walk visits the picturesque Uldale Force waterfall on the River Rawthey in Cumbria. The area also includes a series of other smaller waterfalls so is a bit of a hidden gem of this part of the Yorkshire Dales. You can start the walk from the public parking area near Rawthey bridge a couple of miles north west of the falls. From here you can pick up footpaths heading south east to Wraygreen, Uldale House and Blea Gill Bridge before coming to the falls near Whin Stone Gill Bridge. Along the way there's nice views of the River Rawthey which flows through a narrow limestone gorge to the secluded falls. You can extend the walk by continuing south east to visit Garsdale. It's a beautiful place with trails along the Grisedale Beck and more pretty waterfalls to see. You can also pick up the scenic Settle and Carlisle Line from Garsdale Railway station here. The station offers an alternative start point for the walk to Uldale Force by providing a public transport option.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/oOoRZlhqUPA",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A683, Sedbergh, Westmorland and Furness, England, LA10 5NF, United Kingdom",
+  "postcode": "LA10 5NF",
+  "district": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "gorge"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

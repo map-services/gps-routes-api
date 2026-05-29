@@ -1,82 +1,91 @@
 {
-    "created_at": "2025-01-06T08:47:58.235240+00:00",
-    "objectID": "26199be037dfafffe63f15f745b63b86",
-    "ref": "woodwalton-fen-walking-route",
-    "title": "Woodwalton Fen Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Woodwalton_Fen_-_geograph.org.uk_-_389704.jpg",
-    "nearby": [
-        {
-            "description": "Holme Fen",
-            "objectID": "846411aae6caa94e5e2579ef602709cf",
-            "ref": "holme-fen-walking-route"
-        },
-        {
-            "description": "Godmanchester",
-            "objectID": "ade7bec0cf405d9596aa0aa863937038",
-            "ref": "godmanchester-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/26199be037dfafffe63f15f745b63b86.gpx",
-    "_geoloc": {
-        "lat": 52.4332859884,
-        "lng": -0.188703932
+  "created_at": "2025-01-06T08:47:58.235240+00:00",
+  "objectID": "26199be037dfafffe63f15f745b63b86",
+  "ref": "woodwalton-fen-walking-route",
+  "title": "Woodwalton Fen Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Woodwalton_Fen_-_geograph.org.uk_-_389704.jpg",
+  "nearby": [
+    {
+      "description": "Holme Fen",
+      "objectID": "846411aae6caa94e5e2579ef602709cf",
+      "ref": "holme-fen-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Woodwalton_Fen_-_geograph.org.uk_-_389704.jpg",
-            "title": "Tim Heaton / Woodwalton Fen",
-            "caption": "Woodwalton Fen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Bungalow%2C_Woodwalton_Fen_-_geograph.org.uk_-_112571.jpg",
-            "title": "George Mahoney / The Bungalow, Woodwalton Fen",
-            "caption": "The Bungalow, Woodwalton Fen. The Rothschild Bungalow was built at Woodwalton Fen by the Hon. Charles Rothschild in 1911"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Woodwalton_Fen_-_geograph.org.uk_-_844765.jpg",
-            "title": "Simon Huguet / Woodwalton Fen",
-            "caption": "Looking along the track next to Wheatley Drain. The poles rather neatly demonstrate the problems of erecting anything on peat!"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Reed_beds%2C_Woodwalton_Fen_NNR_-_geograph.org.uk_-_678535.jpg",
-            "title": "Keith Edkins / Reed beds, Woodwalton Fen NNR",
-            "caption": "Reed beds, Woodwalton Fen NNR. View from the North Hide"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Middle_Farm%2C_Woodwalton_Fen_-_geograph.org.uk_-_678532.jpg",
-            "title": "Keith Edkins / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-            "caption": "Middle Farm, Woodwalton Fen Middle Farm was purchased by the Great Fen Project in 2007, and it is hoped to restore it to Fen habitat over the next 3 years"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Windpump%2C_Woodwalton_Fen_-_geograph.org.uk_-_678512.jpg/330px-Windpump%2C_Woodwalton_Fen_-_geograph.org.uk_-_678512.jpg",
-            "title": "Keith Edkins / Windpump, Woodwalton Fen",
-            "caption": "Windpump. The pump is used to adjust the level of water in the reed beds, and can be used either to raise it or lower it as required. It bears the mark of Graham Burgess Windpumps."
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "Enjoy a short walk around this beautiful national nature reserve in Cambridgeshire. There are 500 acres to explore with habitats including wildflower meadows, mixed fen, marsh, reedbed, scrub, open water and woodland. There are several waymarked walking trails taking you around the reserve on wide grassy paths. You can stop at the bird hides and look out for a wide variety of wildlife before heading to Rothschild Bungalow - Charles Rothschild, a successful banker and wildlife enthusiast bought Woodwalton Fen in 1910 to preserve this lovely area. If you would like to continue your walk you could head to the nearby Holme Fen National Nature Reserve. Woodwalton Fen is located between Peterborough and Huntingdon. The reserve is part of the larger Great Fen Wetland Project. You can visit the nearby Great Fen information point and try the lovely Dragonfly Trail. The 2 mile circular footpath is waymarked and includes ponds, woodland and lots of information points explaining the Great Fen project.",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "Unfortunately there is a no dogs policy at Woodwalton Fen. This is because the fen has such sensitive flora and fauna which requires as much minimum ground disturbance as possible."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/4A3meo1rZAY",
-    "county": "Cambridgeshire",
-    "region": "Cambridgeshire and Peterborough",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Wood Walton, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
-    "postcode": null,
-    "district": "Huntingdonshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland", "grassland", "ponds"],
-    "points_of_interest": ["information points", "bird hide"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Godmanchester",
+      "objectID": "ade7bec0cf405d9596aa0aa863937038",
+      "ref": "godmanchester-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/26199be037dfafffe63f15f745b63b86.gpx",
+  "_geoloc": {
+    "lat": 52.4332859884,
+    "lng": -0.188703932
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Woodwalton_Fen_-_geograph.org.uk_-_389704.jpg",
+      "title": "Tim Heaton / Woodwalton Fen",
+      "caption": "Woodwalton Fen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Bungalow%2C_Woodwalton_Fen_-_geograph.org.uk_-_112571.jpg",
+      "title": "George Mahoney / The Bungalow, Woodwalton Fen",
+      "caption": "The Bungalow, Woodwalton Fen. The Rothschild Bungalow was built at Woodwalton Fen by the Hon. Charles Rothschild in 1911"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Woodwalton_Fen_-_geograph.org.uk_-_844765.jpg",
+      "title": "Simon Huguet / Woodwalton Fen",
+      "caption": "Looking along the track next to Wheatley Drain. The poles rather neatly demonstrate the problems of erecting anything on peat!"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Reed_beds%2C_Woodwalton_Fen_NNR_-_geograph.org.uk_-_678535.jpg",
+      "title": "Keith Edkins / Reed beds, Woodwalton Fen NNR",
+      "caption": "Reed beds, Woodwalton Fen NNR. View from the North Hide"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Middle_Farm%2C_Woodwalton_Fen_-_geograph.org.uk_-_678532.jpg",
+      "title": "Keith Edkins / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+      "caption": "Middle Farm, Woodwalton Fen Middle Farm was purchased by the Great Fen Project in 2007, and it is hoped to restore it to Fen habitat over the next 3 years"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Windpump%2C_Woodwalton_Fen_-_geograph.org.uk_-_678512.jpg/330px-Windpump%2C_Woodwalton_Fen_-_geograph.org.uk_-_678512.jpg",
+      "title": "Keith Edkins / Windpump, Woodwalton Fen",
+      "caption": "Windpump. The pump is used to adjust the level of water in the reed beds, and can be used either to raise it or lower it as required. It bears the mark of Graham Burgess Windpumps."
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "Enjoy a short walk around this beautiful national nature reserve in Cambridgeshire. There are 500 acres to explore with habitats including wildflower meadows, mixed fen, marsh, reedbed, scrub, open water and woodland. There are several waymarked walking trails taking you around the reserve on wide grassy paths. You can stop at the bird hides and look out for a wide variety of wildlife before heading to Rothschild Bungalow - Charles Rothschild, a successful banker and wildlife enthusiast bought Woodwalton Fen in 1910 to preserve this lovely area. If you would like to continue your walk you could head to the nearby Holme Fen National Nature Reserve. Woodwalton Fen is located between Peterborough and Huntingdon. The reserve is part of the larger Great Fen Wetland Project. You can visit the nearby Great Fen information point and try the lovely Dragonfly Trail. The 2 mile circular footpath is waymarked and includes ponds, woodland and lots of information points explaining the Great Fen project.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Unfortunately there is a no dogs policy at Woodwalton Fen. This is because the fen has such sensitive flora and fauna which requires as much minimum ground disturbance as possible."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/4A3meo1rZAY",
+  "county": "Cambridgeshire",
+  "region": "Cambridgeshire and Peterborough",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Wood Walton, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+  "postcode": null,
+  "district": "Huntingdonshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "fen",
+    "marsh",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

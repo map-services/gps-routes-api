@@ -1,140 +1,154 @@
 {
-    "created_at": "2025-01-06T02:29:05.308589+00:00",
-    "objectID": "b610843af1ee02b0784585bb3177646f",
-    "ref": "west-stow-country-park-walking-route",
-    "title": "West Stow Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/West_Stow_Lake_-_geograph.org.uk_-_639767.jpg",
-    "nearby": [
-        {
-            "description": "King's Forest",
-            "objectID": "05bed2468a232912bc25c61a77d2089d",
-            "ref": "kings-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Cavenham Heath",
-            "objectID": "1a75e1c3fbb2f594ef7f15328d9bea02",
-            "ref": "cavenham-heath-walking-route"
-        },
-        {
-            "description": "St Edmund Way",
-            "objectID": "40befcc98f0036085f815e38b0a9bdec",
-            "ref": "st-edmund-way-walking-route"
-        },
-        {
-            "description": "Lark Valley Path",
-            "objectID": "ce6cddaee6a9a32c8957273e037591e1",
-            "ref": "lark-valley-path-walking-route"
-        },
-        {
-            "description": "Bury St Edmunds",
-            "objectID": "7c182c67561de8a03c542a5c8b840812",
-            "ref": "bury-st-edmunds-walking-route"
-        },
-        {
-            "description": "Thetford Forest",
-            "objectID": "c754503315c7047bb884243a9b4b3ec5",
-            "ref": "thetford-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Mildenhall",
-            "objectID": "09195ab127a721262e0ce158aca719ca",
-            "ref": "mildenhall-walking-route"
-        },
-        {
-            "description": "Lackford Lakes",
-            "objectID": "f66c7997acf264dd6bd9fa2d6e3ddfe0",
-            "ref": "lackford-lakes-walking-route"
-        },
-        {
-            "description": "Tuddenham",
-            "objectID": "290b90ecebda4bea88df6964b5693a75",
-            "ref": "tuddenham-walking-route"
-        },
-        {
-            "description": "Elveden Estate",
-            "objectID": "a076bb8596e92d450d9a04486ff61d9b",
-            "ref": "elveden-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b610843af1ee02b0784585bb3177646f.gpx",
-    "_geoloc": {
-        "lat": 52.3102635032,
-        "lng": 0.6413839082
+  "created_at": "2025-01-06T02:29:05.308589+00:00",
+  "objectID": "b610843af1ee02b0784585bb3177646f",
+  "ref": "west-stow-country-park-walking-route",
+  "title": "West Stow Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/West_Stow_Lake_-_geograph.org.uk_-_639767.jpg",
+  "nearby": [
+    {
+      "description": "King's Forest",
+      "objectID": "05bed2468a232912bc25c61a77d2089d",
+      "ref": "kings-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/West_Stow_Lake_-_geograph.org.uk_-_639767.jpg",
-            "title": "Bob Jones / West Stow Lake",
-            "caption": "West Stow Lake. This 8-acre lake, a former gravel pit, is part of the Country Park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lackford_Lakes_Nature_Reserve_-_geograph.org.uk_-_589194.jpg",
-            "title": "Bob Jones / Lackford Lakes Nature Reserve",
-            "caption": "Lackford Lakes Nature Reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anglo_Saxon_Village_West_Stow_-_geograph.org.uk_-_509180.jpg/500px-Anglo_Saxon_Village_West_Stow_-_geograph.org.uk_-_509180.jpg",
-            "title": "Jo Turner / Anglo Saxon Village West Stow",
-            "caption": "Anglo Saxon Village West Stow"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/West_Stow_Heath_SSSI_-_geograph.org.uk_-_2283678.jpg/500px-West_Stow_Heath_SSSI_-_geograph.org.uk_-_2283678.jpg",
-            "title": "West Stow Heath SSSI by Stuart Shepherd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "West Stow Heath SSSI"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Anglo-Saxon_Pigsty_-_geograph.org.uk_-_5617539.jpg",
-            "title": "Anglo-Saxon Pigsty by Gordon Griffiths, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Anglo-Saxon Pigsty"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anglo-Saxon_Hall_-_geograph.org.uk_-_5617550.jpg",
-            "title": "Anglo-Saxon Hall by Gordon Griffiths, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Anglo-Saxon Hall. During the Anglo-Saxon period, around 70 sunken-featured buildings were constructed on the site, along with 8 halls and a number of other features. Subsequently, abandoned, the area became farmland in the Late Medieval period."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thatched_cottage%2C_West_Stow_-_geograph.org.uk_-_2940637.jpg",
-            "title": "Thatched cottage, West Stow by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Thatched cottage, West Stow. View of the village which lies just to the east of the park. Its name may come from Anglo-Saxon w\u0113ste st\u014dw = \"deserted place\", rather than \"western place\"."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Clough_Staunch%2C_River_Lark_-_geograph.org.uk_-_639747.jpg",
-            "title": "Bob Jones / Clough Staunch, River Lark",
-            "caption": "Clough Staunch, River Lark. The site of one of the locks on the formerly navigable River Lark, near West Stow."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "Enjoy waterside walks alongside a number of pretty lakes and the River Lark in this splendid country park near Bury St Edmunds. The park contains a number of nature trails through heathland and woodland and the fascinating West Stow Anglo-Saxon Village. There is also a wildfowl reserve with a number of bird hides. The park is located a few miles north west of Bury St Edmunds. It is situated on the Lark Valley Path so you could continue your walk along the river if you have time. Following it north west will take you to Icklingham where you will find the pretty Cavenham Heath Nature Reserve. Right next to the park you will find the King's Forest. This large area of woodland has miles of cycling and walking trails with Fallow, Red, Roe and Muntjac deer to look out for. It's located just to the north of the park. On the southern side there's Lackford Lakes where there's a free car park, cafe and visitor centre. Birds visiting the lakes include kingfisher, great crested grebe and tufted duck.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There is an on site cafe selling a good range of meals and snacks. The cafe also boasts a fresh coffee machine installed by Combat2Coffee - this local business supports Armed Forces veterans who may be struggling with life outside of service."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The park is a fine place for a dog walk. They are welcome both in the caf\u00e9 and country park but please keep them on leads. Assistance dogs only are allowed into the visitor centre, museum and Village."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "From the park you could pick up the St Edmund Way and follow the waymarked path north through the King's Forest towards Thetford. Here you could visit the historic priory and pay a visit to the expansive Thetford Forest. Head west and there's the villages of Lackford, Icklingham and Mildenhall to visit. Also nearby is the worthy village of Tuddenham. In the village you can visit the historic Tuddenham Mill - an ancient watermill surrounded by 12 acres of gardens and Suffolk countryside. There is a high quality restaurant at the mill where you can sit outside by the river in a very picturesque location. Follow the Icknield Way Path north and it will take you towards the Elveden Estate where there's miles of walking trails surrounding an historic Georgian mansion. The estate also includes a number of fine shops selling quality produce, the excellent Elveden Courtyard restaurant and the Elveden Inn. The inn is considered to be the 'home of Guinness' in England as the estate is the seat of a direct descendant of the Guinness family. You can find them just a few miles north east of the walk in the village of Elveden at postcode IP24 3TJ."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Czj54OYl2Ow?si=xEduelRRCWbzX1ro",
-    "postcode": "IP28 6HE",
-    "county": "Suffolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Icklingham Road, Wideham Farm, West Suffolk, Suffolk, England, IP28 6HE, United Kingdom",
-    "district": "West Suffolk",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["heathland", "woodland"],
-    "points_of_interest": ["nature trails", "village", "nature reserve"],
-    "facilities": ["car park", "cafe", "visitor center", "bird hide"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Cavenham Heath",
+      "objectID": "1a75e1c3fbb2f594ef7f15328d9bea02",
+      "ref": "cavenham-heath-walking-route"
+    },
+    {
+      "description": "St Edmund Way",
+      "objectID": "40befcc98f0036085f815e38b0a9bdec",
+      "ref": "st-edmund-way-walking-route"
+    },
+    {
+      "description": "Lark Valley Path",
+      "objectID": "ce6cddaee6a9a32c8957273e037591e1",
+      "ref": "lark-valley-path-walking-route"
+    },
+    {
+      "description": "Bury St Edmunds",
+      "objectID": "7c182c67561de8a03c542a5c8b840812",
+      "ref": "bury-st-edmunds-walking-route"
+    },
+    {
+      "description": "Thetford Forest",
+      "objectID": "c754503315c7047bb884243a9b4b3ec5",
+      "ref": "thetford-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Mildenhall",
+      "objectID": "09195ab127a721262e0ce158aca719ca",
+      "ref": "mildenhall-walking-route"
+    },
+    {
+      "description": "Lackford Lakes",
+      "objectID": "f66c7997acf264dd6bd9fa2d6e3ddfe0",
+      "ref": "lackford-lakes-walking-route"
+    },
+    {
+      "description": "Tuddenham",
+      "objectID": "290b90ecebda4bea88df6964b5693a75",
+      "ref": "tuddenham-walking-route"
+    },
+    {
+      "description": "Elveden Estate",
+      "objectID": "a076bb8596e92d450d9a04486ff61d9b",
+      "ref": "elveden-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b610843af1ee02b0784585bb3177646f.gpx",
+  "_geoloc": {
+    "lat": 52.3102635032,
+    "lng": 0.6413839082
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/West_Stow_Lake_-_geograph.org.uk_-_639767.jpg",
+      "title": "Bob Jones / West Stow Lake",
+      "caption": "West Stow Lake. This 8-acre lake, a former gravel pit, is part of the Country Park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lackford_Lakes_Nature_Reserve_-_geograph.org.uk_-_589194.jpg",
+      "title": "Bob Jones / Lackford Lakes Nature Reserve",
+      "caption": "Lackford Lakes Nature Reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anglo_Saxon_Village_West_Stow_-_geograph.org.uk_-_509180.jpg/500px-Anglo_Saxon_Village_West_Stow_-_geograph.org.uk_-_509180.jpg",
+      "title": "Jo Turner / Anglo Saxon Village West Stow",
+      "caption": "Anglo Saxon Village West Stow"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/West_Stow_Heath_SSSI_-_geograph.org.uk_-_2283678.jpg/500px-West_Stow_Heath_SSSI_-_geograph.org.uk_-_2283678.jpg",
+      "title": "West Stow Heath SSSI by Stuart Shepherd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "West Stow Heath SSSI"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Anglo-Saxon_Pigsty_-_geograph.org.uk_-_5617539.jpg",
+      "title": "Anglo-Saxon Pigsty by Gordon Griffiths, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Anglo-Saxon Pigsty"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anglo-Saxon_Hall_-_geograph.org.uk_-_5617550.jpg",
+      "title": "Anglo-Saxon Hall by Gordon Griffiths, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Anglo-Saxon Hall. During the Anglo-Saxon period, around 70 sunken-featured buildings were constructed on the site, along with 8 halls and a number of other features. Subsequently, abandoned, the area became farmland in the Late Medieval period."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thatched_cottage%2C_West_Stow_-_geograph.org.uk_-_2940637.jpg",
+      "title": "Thatched cottage, West Stow by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Thatched cottage, West Stow. View of the village which lies just to the east of the park. Its name may come from Anglo-Saxon w\u0113ste st\u014dw = \"deserted place\", rather than \"western place\"."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Clough_Staunch%2C_River_Lark_-_geograph.org.uk_-_639747.jpg",
+      "title": "Bob Jones / Clough Staunch, River Lark",
+      "caption": "Clough Staunch, River Lark. The site of one of the locks on the formerly navigable River Lark, near West Stow."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "Enjoy waterside walks alongside a number of pretty lakes and the River Lark in this splendid country park near Bury St Edmunds. The park contains a number of nature trails through heathland and woodland and the fascinating West Stow Anglo-Saxon Village. There is also a wildfowl reserve with a number of bird hides. The park is located a few miles north west of Bury St Edmunds. It is situated on the Lark Valley Path so you could continue your walk along the river if you have time. Following it north west will take you to Icklingham where you will find the pretty Cavenham Heath Nature Reserve. Right next to the park you will find the King's Forest. This large area of woodland has miles of cycling and walking trails with Fallow, Red, Roe and Muntjac deer to look out for. It's located just to the north of the park. On the southern side there's Lackford Lakes where there's a free car park, cafe and visitor centre. Birds visiting the lakes include kingfisher, great crested grebe and tufted duck.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is an on site cafe selling a good range of meals and snacks. The cafe also boasts a fresh coffee machine installed by Combat2Coffee - this local business supports Armed Forces veterans who may be struggling with life outside of service."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a fine place for a dog walk. They are welcome both in the caf\u00e9 and country park but please keep them on leads. Assistance dogs only are allowed into the visitor centre, museum and Village."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "From the park you could pick up the St Edmund Way and follow the waymarked path north through the King's Forest towards Thetford. Here you could visit the historic priory and pay a visit to the expansive Thetford Forest. Head west and there's the villages of Lackford, Icklingham and Mildenhall to visit. Also nearby is the worthy village of Tuddenham. In the village you can visit the historic Tuddenham Mill - an ancient watermill surrounded by 12 acres of gardens and Suffolk countryside. There is a high quality restaurant at the mill where you can sit outside by the river in a very picturesque location. Follow the Icknield Way Path north and it will take you towards the Elveden Estate where there's miles of walking trails surrounding an historic Georgian mansion. The estate also includes a number of fine shops selling quality produce, the excellent Elveden Courtyard restaurant and the Elveden Inn. The inn is considered to be the 'home of Guinness' in England as the estate is the seat of a direct descendant of the Guinness family. You can find them just a few miles north east of the walk in the village of Elveden at postcode IP24 3TJ."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Czj54OYl2Ow?si=xEduelRRCWbzX1ro",
+  "postcode": "IP28 6HE",
+  "county": "Suffolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Icklingham Road, Wideham Farm, West Suffolk, Suffolk, England, IP28 6HE, United Kingdom",
+  "district": "West Suffolk",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 15 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "wildfowl reserve"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "dog friendly",
+    "visitor centre"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

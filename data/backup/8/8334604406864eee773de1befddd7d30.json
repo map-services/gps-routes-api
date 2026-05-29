@@ -1,100 +1,110 @@
 {
-    "created_at": "2025-01-06T08:02:09.121139+00:00",
-    "objectID": "8334604406864eee773de1befddd7d30",
-    "ref": "farningham-woods-walking-route",
-    "title": "Farningham Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Entrance_to_Farningham_Woods_Nature_Reserve_-_geograph.org.uk_-_1302795.jpg",
-    "nearby": [
-        {
-            "description": "Darenth Country Park",
-            "objectID": "ca76f114f4bbdd665ca806615ad878bf",
-            "ref": "darenth-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Darent Valley Path",
-            "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
-            "ref": "darent-valley-path-walking-route"
-        },
-        {
-            "description": "Lullingstone Country Park",
-            "objectID": "e6b6a8d13f2e950a0c32b21fba6e720c",
-            "ref": "lullingstone-country-park-walking-route"
-        },
-        {
-            "description": "Eynsford Circular Walk",
-            "objectID": "4f653741948827d8c80ebe8a1a99b1a5",
-            "ref": "eynsford-circular-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8334604406864eee773de1befddd7d30.gpx",
-    "_geoloc": {
-        "lat": 51.3931041423,
-        "lng": 0.2156187774
+  "created_at": "2025-01-06T08:02:09.121139+00:00",
+  "objectID": "8334604406864eee773de1befddd7d30",
+  "ref": "farningham-woods-walking-route",
+  "title": "Farningham Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Entrance_to_Farningham_Woods_Nature_Reserve_-_geograph.org.uk_-_1302795.jpg",
+  "nearby": [
+    {
+      "description": "Darenth Country Park",
+      "objectID": "ca76f114f4bbdd665ca806615ad878bf",
+      "ref": "darenth-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Entrance_to_Farningham_Woods_Nature_Reserve_-_geograph.org.uk_-_1302795.jpg",
-            "title": "David Anstiss / Entrance to Farningham Woods Nature Reserve",
-            "caption": "Entrance to Farningham Woods Nature Reserve. This is on byway from Button Street it leads to Calfstock Lane through the woods. This byway is the only horse permitted route in the woods."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pond_in_Farningham_Woods_-_geograph.org.uk_-_1302785.jpg",
-            "title": "David Anstiss / Pond in Farningham Woods",
-            "caption": "Pond in the Woods. This natural pond is a large Nature Reserve. It is close to footpath No.SD77 leading from A225 Dartford Road to Ship Lane"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Farningham_Coppice_-_geograph.org.uk_-_191170.jpg",
-            "title": "Glyn Baker / Farningham Coppice",
-            "caption": "Farningham Coppice. This coppiced area in the Nature Reserve is just off a footpath that leads from Button Street to Farningham."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Track_in_Farningham_Wood_-_geograph.org.uk_-_1852150.jpg/500px-Track_in_Farningham_Wood_-_geograph.org.uk_-_1852150.jpg",
-            "title": "Track in Farningham Wood by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track in Farningham Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Farningham_Woods_Information_Sign_-_geograph.org.uk_-_1302762.jpg",
-            "title": "David Anstiss / Farningham Woods Information Sign",
-            "caption": "Sign and map. Located at entrance to Woods on Footpath No.SD77 near A225 Dartford Road. The sign tells you all about the flora and fauna you can see at the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farningham_Wood_Nature_Reserve_-_geograph.org.uk_-_1302799.jpg",
-            "title": "David Anstiss / Farningham Wood Nature Reserve",
-            "caption": "As seen from Button Street. There was a car park on Button Street, but this is now no longer used. The car park on Calfstock Lane is still open and can be found on the eastern side of the woods."
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "This 168 acre nature reserve has some nice woodland trails including a waymarked 1.6 mile walk. Interesting flora includes the rare Small-Leaved Lime and the pretty Deptford Pink wildflower. It's a lovely peaceful place for a stroll with the addition of some moderate hill climbs with great views over the area. Interestingly, the reserve was opened by Sir David Attenborough in 1986. The woods are located just to the north of Farningham and Eynsford. You can park at the car park at the end of Calfstock Lane, just off the A225. Please note cycling is not permitted in the woods. The Darent Valley Path runs close to the woods and through Farningham. You could follow it south and visit Eynsford Castle and Lullington Castle. Here you will find more nice footpaths in Lullingstone Country Park. If you follow it north then it will take you into Dartford, passing Darenth Country Park on the way. The park has nice wide lawns, picnic areas, meadows and pockets of woodland.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a few good options for refreshments in nearby Eynsford, just south of the woods. The Riverside Tea Room is in a great location for some afternoon tea. There's a good menu and outdoor seating for warmer days. You can find it at postcode DA4 0AE.The Malt Shovel is another nice choice. The friendly pub does great food and also has a nice beer garden to relax in. You can find it at postcode DA4 0EP your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "As you'd imagine the woods are ideal for dog walking so you'll probably see other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Eynsford Circular Walk starts at the 11th century Eynsford Castle near to the woods. It will take you along the river to two of the local country parks. For more walking ideas in the area see the Kent Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/2wGIhwQ2Iok",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Calfstock Lane, Farningham, Sevenoaks, Kent, England, DA4 9JH, United Kingdom",
-    "postcode": "DA4 9JH",
-    "district": "Sevenoaks",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "hill"],
-    "points_of_interest": ["historical site", "viewpoint", "park"],
-    "facilities": ["car park", "picnic area", "meadow"],
-    "route_type": "out and back",
-    "activities": ["walking", "hiking"]
+    {
+      "description": "Darent Valley Path",
+      "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
+      "ref": "darent-valley-path-walking-route"
+    },
+    {
+      "description": "Lullingstone Country Park",
+      "objectID": "e6b6a8d13f2e950a0c32b21fba6e720c",
+      "ref": "lullingstone-country-park-walking-route"
+    },
+    {
+      "description": "Eynsford Circular Walk",
+      "objectID": "4f653741948827d8c80ebe8a1a99b1a5",
+      "ref": "eynsford-circular-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8334604406864eee773de1befddd7d30.gpx",
+  "_geoloc": {
+    "lat": 51.3931041423,
+    "lng": 0.2156187774
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Entrance_to_Farningham_Woods_Nature_Reserve_-_geograph.org.uk_-_1302795.jpg",
+      "title": "David Anstiss / Entrance to Farningham Woods Nature Reserve",
+      "caption": "Entrance to Farningham Woods Nature Reserve. This is on byway from Button Street it leads to Calfstock Lane through the woods. This byway is the only horse permitted route in the woods."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pond_in_Farningham_Woods_-_geograph.org.uk_-_1302785.jpg",
+      "title": "David Anstiss / Pond in Farningham Woods",
+      "caption": "Pond in the Woods. This natural pond is a large Nature Reserve. It is close to footpath No.SD77 leading from A225 Dartford Road to Ship Lane"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Farningham_Coppice_-_geograph.org.uk_-_191170.jpg",
+      "title": "Glyn Baker / Farningham Coppice",
+      "caption": "Farningham Coppice. This coppiced area in the Nature Reserve is just off a footpath that leads from Button Street to Farningham."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Track_in_Farningham_Wood_-_geograph.org.uk_-_1852150.jpg/500px-Track_in_Farningham_Wood_-_geograph.org.uk_-_1852150.jpg",
+      "title": "Track in Farningham Wood by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track in Farningham Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Farningham_Woods_Information_Sign_-_geograph.org.uk_-_1302762.jpg",
+      "title": "David Anstiss / Farningham Woods Information Sign",
+      "caption": "Sign and map. Located at entrance to Woods on Footpath No.SD77 near A225 Dartford Road. The sign tells you all about the flora and fauna you can see at the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Farningham_Wood_Nature_Reserve_-_geograph.org.uk_-_1302799.jpg",
+      "title": "David Anstiss / Farningham Wood Nature Reserve",
+      "caption": "As seen from Button Street. There was a car park on Button Street, but this is now no longer used. The car park on Calfstock Lane is still open and can be found on the eastern side of the woods."
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "This 168 acre nature reserve has some nice woodland trails including a waymarked 1.6 mile walk. Interesting flora includes the rare Small-Leaved Lime and the pretty Deptford Pink wildflower. It's a lovely peaceful place for a stroll with the addition of some moderate hill climbs with great views over the area. Interestingly, the reserve was opened by Sir David Attenborough in 1986. The woods are located just to the north of Farningham and Eynsford. You can park at the car park at the end of Calfstock Lane, just off the A225. Please note cycling is not permitted in the woods. The Darent Valley Path runs close to the woods and through Farningham. You could follow it south and visit Eynsford Castle and Lullington Castle. Here you will find more nice footpaths in Lullingstone Country Park. If you follow it north then it will take you into Dartford, passing Darenth Country Park on the way. The park has nice wide lawns, picnic areas, meadows and pockets of woodland.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a few good options for refreshments in nearby Eynsford, just south of the woods. The Riverside Tea Room is in a great location for some afternoon tea. There's a good menu and outdoor seating for warmer days. You can find it at postcode DA4 0AE.The Malt Shovel is another nice choice. The friendly pub does great food and also has a nice beer garden to relax in. You can find it at postcode DA4 0EP your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woods are ideal for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Eynsford Circular Walk starts at the 11th century Eynsford Castle near to the woods. It will take you along the river to two of the local country parks. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/2wGIhwQ2Iok",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Calfstock Lane, Farningham, Sevenoaks, Kent, England, DA4 9JH, United Kingdom",
+  "postcode": "DA4 9JH",
+  "district": "Sevenoaks",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

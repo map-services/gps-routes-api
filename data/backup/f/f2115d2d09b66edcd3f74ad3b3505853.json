@@ -1,117 +1,127 @@
 {
-    "created_at": "2025-01-06T02:33:53.592352+00:00",
-    "objectID": "f2115d2d09b66edcd3f74ad3b3505853",
-    "ref": "stoke-on-trent-canal-walk-walking-route",
-    "title": "Stoke on Trent Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Trent_and_Mersey_Canal_in_Stoke_on_Trent_-_geograph.org.uk_-_1479040.jpg",
-    "nearby": [
-        {
-            "description": "Newcastle Under Lyme",
-            "objectID": "93090c63f677a76d3542e08fd8b161bb",
-            "ref": "newcastle-under-lyme-walking-route"
-        },
-        {
-            "description": "Apedale Country Park",
-            "objectID": "22545983cbb451e8bda9890cb938422a",
-            "ref": "apedale-country-park-walking-route"
-        },
-        {
-            "description": "Trent and Mersey Canal",
-            "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
-            "ref": "trent-and-mersey-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Keele",
-            "objectID": "c760804168f31a33be8a8c16813db687",
-            "ref": "keele-walking-route"
-        },
-        {
-            "description": "Maer Hills",
-            "objectID": "be288ddf68bda49a3e8909052cdde117",
-            "ref": "maer-hills-walking-route"
-        },
-        {
-            "description": "Bathpool Park",
-            "objectID": "0bcb8b0080a391ef2dedae9eeb0658d1",
-            "ref": "bathpool-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Park Hall Country Park",
-            "objectID": "e8c383b3ad17a8352ca296fe6e9ecedf",
-            "ref": "park-hall-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2115d2d09b66edcd3f74ad3b3505853.gpx",
-    "_geoloc": {
-        "lat": 53.006730168,
-        "lng": -2.1790537787
+  "created_at": "2025-01-06T02:33:53.592352+00:00",
+  "objectID": "f2115d2d09b66edcd3f74ad3b3505853",
+  "ref": "stoke-on-trent-canal-walk-walking-route",
+  "title": "Stoke on Trent Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Trent_and_Mersey_Canal_in_Stoke_on_Trent_-_geograph.org.uk_-_1479040.jpg",
+  "nearby": [
+    {
+      "description": "Newcastle Under Lyme",
+      "objectID": "93090c63f677a76d3542e08fd8b161bb",
+      "ref": "newcastle-under-lyme-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Trent_and_Mersey_Canal_in_Stoke_on_Trent_-_geograph.org.uk_-_1479040.jpg",
-            "title": "Roger Kidd [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Trent and Mersey Canal in Stoke on Trent"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stoke_Bottom_Lock%2C_Stoke-on-Trent%2C_Staffordshire_-_geograph.org.uk_-_1599050.jpg",
-            "title": "Roger Kidd [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Stoke Bottom Lock, Stoke-on-Trent, Staffordshire"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Upper_Park_Bridge_-_geograph.org.uk_-_1415672.jpg",
-            "title": "Ian Calderwood [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Upper Park Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hanley_Park_Lake_-_geograph.org.uk_-_129296.jpg",
-            "title": "Phil Eptlett [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Hanley Park Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Caldon_Canal_near_Shelton%2C_Stoke-on-Trent_-_geograph.org.uk_-_2476206.jpg",
-            "title": "Caldon Canal near Shelton, Stoke-on-Trent by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Caldon Canal near Shelton, Stoke-on-Trent"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_view_from_Stoke_Top_Lock_-_geograph.org.uk_-_315840.jpg",
-            "title": "Andy Beecroft / The view from Stoke Top Lock",
-            "caption": "The view from Stoke Top Lock. This is the view looking southwards from Stoke Top Lock (the fifth one) down to the fourth one below it."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Caldon_Canal_and_College%2C_Hanley%2C_Staffordshire_-_geograph.org.uk_-_1479620.jpg",
-            "title": "Roger Kidd / Caldon Canal and College, Hanley, Staffordshire",
-            "caption": "Caldon Canal and College, Hanley. The canal passes by the Cauldon Campus of the Stoke-on-Trent College. The wharf at Planet Lock is just out of sight round the canal bend."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caldon_Canal%2C_Hanley_Park-geograph-1682606-by-Stephen-McKay.jpg/500px-Caldon_Canal%2C_Hanley_Park-geograph-1682606-by-Stephen-McKay.jpg",
-            "title": "Stephen McKay / Caldon Canal, Hanley Park",
-            "caption": "Caldon Canal, Hanley Park. Seen from bridge 5A, looking towards bridge 5B, the canal winds attractively through this city park."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This waterside walk takes you along the Trent and Mersey Canal and the Caldon Canal to Hanley Park in Stoke on Trent. The walk starts at the train station which is right next to the Trent and Mersey Canal. Follow the canal north through Cliffe Vale to the point where it meets with the Caldon Canal. Here you will find the Etruria Industrial Museum, in a well-preserved example of a nineteenth century British steam-powered potter's mill. Follow the canal east and you will soon come to Hanley Park. The canal runs through the park which includes a lake and series of nice footpaths. You can extend the walk by continuing along the towpath through the countryside towards Cheddleton where there's the fine old Flint Mill museum to see.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area head to the neighbouring town of Newcastle Under Lyme and enjoy stroll along the pretty Lyme Brook to the excellent Apedale Country Park. The worthy village of Keele is also located in this area. Here you can explore the lovely campus of Keele University which includes an arboretum, lakes and gardens. It's well laid out with several colour coded footpaths to try. Just to the north there's the lovely Bathpool Park where you'll find more waterside trails around a pretty reservoir. Just to the east of the city there's some nice trails around Park Hall Country Park. The former quarry site is now notable as Stoke on Trent's only National Nature Reserve comprising woodland, heathland and ponds. For more walking ideas in the area see the Staffordshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/yLpsaz_tJ9s",
-    "postcode": "ST4 1ET",
-    "district": "Stoke-on-Trent",
-    "county": null,
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Glebe Street, Shelton, Stoke, Stoke-on-Trent, England, ST4 1ET, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["canal", "rural"],
-    "points_of_interest": ["museum", "park", "mill"],
-    "facilities": ["visitor center", "car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Apedale Country Park",
+      "objectID": "22545983cbb451e8bda9890cb938422a",
+      "ref": "apedale-country-park-walking-route"
+    },
+    {
+      "description": "Trent and Mersey Canal",
+      "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
+      "ref": "trent-and-mersey-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Keele",
+      "objectID": "c760804168f31a33be8a8c16813db687",
+      "ref": "keele-walking-route"
+    },
+    {
+      "description": "Maer Hills",
+      "objectID": "be288ddf68bda49a3e8909052cdde117",
+      "ref": "maer-hills-walking-route"
+    },
+    {
+      "description": "Bathpool Park",
+      "objectID": "0bcb8b0080a391ef2dedae9eeb0658d1",
+      "ref": "bathpool-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Park Hall Country Park",
+      "objectID": "e8c383b3ad17a8352ca296fe6e9ecedf",
+      "ref": "park-hall-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2115d2d09b66edcd3f74ad3b3505853.gpx",
+  "_geoloc": {
+    "lat": 53.006730168,
+    "lng": -2.1790537787
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Trent_and_Mersey_Canal_in_Stoke_on_Trent_-_geograph.org.uk_-_1479040.jpg",
+      "title": "Roger Kidd [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Trent and Mersey Canal in Stoke on Trent"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stoke_Bottom_Lock%2C_Stoke-on-Trent%2C_Staffordshire_-_geograph.org.uk_-_1599050.jpg",
+      "title": "Roger Kidd [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Stoke Bottom Lock, Stoke-on-Trent, Staffordshire"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Upper_Park_Bridge_-_geograph.org.uk_-_1415672.jpg",
+      "title": "Ian Calderwood [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Upper Park Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hanley_Park_Lake_-_geograph.org.uk_-_129296.jpg",
+      "title": "Phil Eptlett [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Hanley Park Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Caldon_Canal_near_Shelton%2C_Stoke-on-Trent_-_geograph.org.uk_-_2476206.jpg",
+      "title": "Caldon Canal near Shelton, Stoke-on-Trent by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Caldon Canal near Shelton, Stoke-on-Trent"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_view_from_Stoke_Top_Lock_-_geograph.org.uk_-_315840.jpg",
+      "title": "Andy Beecroft / The view from Stoke Top Lock",
+      "caption": "The view from Stoke Top Lock. This is the view looking southwards from Stoke Top Lock (the fifth one) down to the fourth one below it."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Caldon_Canal_and_College%2C_Hanley%2C_Staffordshire_-_geograph.org.uk_-_1479620.jpg",
+      "title": "Roger Kidd / Caldon Canal and College, Hanley, Staffordshire",
+      "caption": "Caldon Canal and College, Hanley. The canal passes by the Cauldon Campus of the Stoke-on-Trent College. The wharf at Planet Lock is just out of sight round the canal bend."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caldon_Canal%2C_Hanley_Park-geograph-1682606-by-Stephen-McKay.jpg/500px-Caldon_Canal%2C_Hanley_Park-geograph-1682606-by-Stephen-McKay.jpg",
+      "title": "Stephen McKay / Caldon Canal, Hanley Park",
+      "caption": "Caldon Canal, Hanley Park. Seen from bridge 5A, looking towards bridge 5B, the canal winds attractively through this city park."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This waterside walk takes you along the Trent and Mersey Canal and the Caldon Canal to Hanley Park in Stoke on Trent. The walk starts at the train station which is right next to the Trent and Mersey Canal. Follow the canal north through Cliffe Vale to the point where it meets with the Caldon Canal. Here you will find the Etruria Industrial Museum, in a well-preserved example of a nineteenth century British steam-powered potter's mill. Follow the canal east and you will soon come to Hanley Park. The canal runs through the park which includes a lake and series of nice footpaths. You can extend the walk by continuing along the towpath through the countryside towards Cheddleton where there's the fine old Flint Mill museum to see.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head to the neighbouring town of Newcastle Under Lyme and enjoy stroll along the pretty Lyme Brook to the excellent Apedale Country Park. The worthy village of Keele is also located in this area. Here you can explore the lovely campus of Keele University which includes an arboretum, lakes and gardens. It's well laid out with several colour coded footpaths to try. Just to the north there's the lovely Bathpool Park where you'll find more waterside trails around a pretty reservoir. Just to the east of the city there's some nice trails around Park Hall Country Park. The former quarry site is now notable as Stoke on Trent's only National Nature Reserve comprising woodland, heathland and ponds. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/yLpsaz_tJ9s",
+  "postcode": "ST4 1ET",
+  "district": "Stoke-on-Trent",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Glebe Street, Shelton, Stoke, Stoke-on-Trent, England, ST4 1ET, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "museum",
+    "park",
+    "lake"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

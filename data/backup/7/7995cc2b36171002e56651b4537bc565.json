@@ -1,86 +1,97 @@
 {
-    "created_at": "2025-01-05T23:48:26.439238+00:00",
-    "objectID": "7995cc2b36171002e56651b4537bc565",
-    "ref": "locko-park-walking-route",
-    "title": "Locko Park Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Locko_Park_-_geograph.org.uk_-_955221.jpg",
-    "nearby": [
-        {
-            "description": "Midshires Way",
-            "objectID": "4efa64d62ebcd5313a1463ad7df62014",
-            "ref": "midshires-way-walking-route"
-        },
-        {
-            "description": "Dale Abbey",
-            "objectID": "063225bcbfff0e27084b0ce0853dab91",
-            "ref": "dale-abbey-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7995cc2b36171002e56651b4537bc565.gpx",
-    "_geoloc": {
-        "lat": 52.9585712844,
-        "lng": -1.3796126679
+  "created_at": "2025-01-05T23:48:26.439238+00:00",
+  "objectID": "7995cc2b36171002e56651b4537bc565",
+  "ref": "locko-park-walking-route",
+  "title": "Locko Park Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Locko_Park_-_geograph.org.uk_-_955221.jpg",
+  "nearby": [
+    {
+      "description": "Midshires Way",
+      "objectID": "4efa64d62ebcd5313a1463ad7df62014",
+      "ref": "midshires-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Locko_Park_-_geograph.org.uk_-_955221.jpg",
-            "title": "Alan Murray-Rust / Locko Park",
-            "caption": "The house viewed across the lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Archway_with_sculptures_in_Locko_Park%2C_Derbyshire.jpg/500px-Archway_with_sculptures_in_Locko_Park%2C_Derbyshire.jpg",
-            "title": "Greg Bowler, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Ha Ha, Walls, Gates, Clock Tower, Sculptures And Terracing At Locko Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Locko_Park_-_geograph.org.uk_-_16571.jpg",
-            "title": "Garth Newton / Locko Park",
-            "caption": "A leper hospital stood in Locko Park in mediaeval times. Although there are many footpaths in the park, access to Locko Hall which is to the right of this picture is not permitted to the general public."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_White_Hart_pub%2C_Stanley_-_geograph.org.uk_-_721739.jpg",
-            "title": "Jerry Evans / The White Hart pub, Stanley",
-            "caption": "The White Hart pub, Stanley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_drive_to_Locko_Park_house_-_geograph.org.uk_-_955223.jpg",
-            "title": "Alan Murray-Rust / The drive to Locko Park house",
-            "caption": "The drive to Locko Park house"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/All_Is_Safely_Gathered_In_-_geograph.org.uk_-_16564.jpg",
-            "title": "Garth Newton / All Is Safely Gathered In",
-            "caption": "All Is Safely Gathered In. Looking towards Home Farm Stanley from a footpath between Locko Park and the Midshires Way."
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "This circular walk visits the Locko Park Estate in Derbyshire. The 18th century house is privately owned but there are some public footpaths running around the attractive parkland. The walk starts from Stanley village which lies just to the north of the park. From here you can pick up country footpaths heading south to the estate where you'll find woodland paths, a pretty lake and views to the historic Grade II listed house. Part of the walk uses the long distance Midshires Way. You could extend the walk by following the trail east to visit the ruins of the 12th century Dale Abbey and the ancient Hermit's cave.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The White Hart is located at the start of the walk in Stanley. There's a great menu and a lovely garden here with views of the surrounding countryside. You can find them at postcode DE7 6EX for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "It's a fine place for a dog walk though you are requested to keep them on leads on the estate bridleways. The White Hart mentioned above is also dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/QEQfNF9tAHA",
-    "district": "Erewash",
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Derby Road, Stanley and Stanley Common, Stanley, Erewash, Derbyshire, East Midlands, England, DE7 6EX, United Kingdom",
-    "postcode": "DE7 6EX",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "parkland"],
-    "points_of_interest": ["historic house", "lake", "footpath"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Dale Abbey",
+      "objectID": "063225bcbfff0e27084b0ce0853dab91",
+      "ref": "dale-abbey-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7995cc2b36171002e56651b4537bc565.gpx",
+  "_geoloc": {
+    "lat": 52.9585712844,
+    "lng": -1.3796126679
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Locko_Park_-_geograph.org.uk_-_955221.jpg",
+      "title": "Alan Murray-Rust / Locko Park",
+      "caption": "The house viewed across the lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Archway_with_sculptures_in_Locko_Park%2C_Derbyshire.jpg/500px-Archway_with_sculptures_in_Locko_Park%2C_Derbyshire.jpg",
+      "title": "Greg Bowler, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Ha Ha, Walls, Gates, Clock Tower, Sculptures And Terracing At Locko Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Locko_Park_-_geograph.org.uk_-_16571.jpg",
+      "title": "Garth Newton / Locko Park",
+      "caption": "A leper hospital stood in Locko Park in mediaeval times. Although there are many footpaths in the park, access to Locko Hall which is to the right of this picture is not permitted to the general public."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_White_Hart_pub%2C_Stanley_-_geograph.org.uk_-_721739.jpg",
+      "title": "Jerry Evans / The White Hart pub, Stanley",
+      "caption": "The White Hart pub, Stanley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_drive_to_Locko_Park_house_-_geograph.org.uk_-_955223.jpg",
+      "title": "Alan Murray-Rust / The drive to Locko Park house",
+      "caption": "The drive to Locko Park house"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/All_Is_Safely_Gathered_In_-_geograph.org.uk_-_16564.jpg",
+      "title": "Garth Newton / All Is Safely Gathered In",
+      "caption": "All Is Safely Gathered In. Looking towards Home Farm Stanley from a footpath between Locko Park and the Midshires Way."
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "This circular walk visits the Locko Park Estate in Derbyshire. The 18th century house is privately owned but there are some public footpaths running around the attractive parkland. The walk starts from Stanley village which lies just to the north of the park. From here you can pick up country footpaths heading south to the estate where you'll find woodland paths, a pretty lake and views to the historic Grade II listed house. Part of the walk uses the long distance Midshires Way. You could extend the walk by following the trail east to visit the ruins of the 12th century Dale Abbey and the ancient Hermit's cave.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The White Hart is located at the start of the walk in Stanley. There's a great menu and a lovely garden here with views of the surrounding countryside. You can find them at postcode DE7 6EX for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "It's a fine place for a dog walk though you are requested to keep them on leads on the estate bridleways. The White Hart mentioned above is also dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/QEQfNF9tAHA",
+  "district": "Erewash",
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Derby Road, Stanley and Stanley Common, Stanley, Erewash, Derbyshire, East Midlands, England, DE7 6EX, United Kingdom",
+  "postcode": "DE7 6EX",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historic house",
+    "ruin",
+    "cave"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

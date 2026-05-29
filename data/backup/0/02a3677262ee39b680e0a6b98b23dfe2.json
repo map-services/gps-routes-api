@@ -112,24 +112,21 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
+    "coastal",
     "woodland",
-    "beach",
     "marshland"
   ],
   "points_of_interest": [
+    "nature reserve",
     "arts complex",
-    "concert hall",
-    "nature reserve"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "shops",
-    "restaurants",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

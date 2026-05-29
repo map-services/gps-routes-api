@@ -1,94 +1,98 @@
 {
-    "created_at": "2025-01-06T10:36:00.511336+00:00",
-    "objectID": "1e19c53d5f4ee8b8a03d92ae9be2d4c7",
-    "ref": "preston-canal-walk-walking-route",
-    "title": "Preston Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Preston_Lancaster_Canal_by_the_Hand_and_dagger_Public_House_-_geograph.org.uk_-_93260.jpg",
-    "nearby": [
-        {
-            "description": "Lancaster Canal",
-            "objectID": "08cea8b165fd73b4fce338356f70285a",
-            "ref": "lancaster-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Preston",
-            "objectID": "b09cb17e0e18b852caa2c88a0b162d77",
-            "ref": "preston-walking-route"
-        },
-        {
-            "description": "Avenham Park",
-            "objectID": "e282721106b452d2865c23be25770ccc",
-            "ref": "avenham-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Ribble Way",
-            "objectID": "e8a3af45a7fceebb722f20bce85618c1",
-            "ref": "ribble-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1e19c53d5f4ee8b8a03d92ae9be2d4c7.gpx",
-    "_geoloc": {
-        "lat": 53.7655440788,
-        "lng": -2.7188391474
+  "created_at": "2025-01-06T10:36:00.511336+00:00",
+  "objectID": "1e19c53d5f4ee8b8a03d92ae9be2d4c7",
+  "ref": "preston-canal-walk-walking-route",
+  "title": "Preston Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Preston_Lancaster_Canal_by_the_Hand_and_dagger_Public_House_-_geograph.org.uk_-_93260.jpg",
+  "nearby": [
+    {
+      "description": "Lancaster Canal",
+      "objectID": "08cea8b165fd73b4fce338356f70285a",
+      "ref": "lancaster-canal-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Preston_Lancaster_Canal_by_the_Hand_and_dagger_Public_House_-_geograph.org.uk_-_93260.jpg",
-            "title": "Keith Wright / Preston Lancaster Canal by the Hand & dagger Public House, via Wikimedia Commons",
-            "caption": "Preston Lancaster Canal by the Hand & dagger Public House."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Preston_-_Lancaster_Canal_-_geograph.org.uk_-_530446.jpg",
-            "title": "Alan Longbottom / Preston - Lancaster Canal, via Wikimedia Commons",
-            "caption": "Lancaster Canal. A small marina"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tulketh_Mill%2C_Ashton%2C_Preston_-_geograph.org.uk_-_23282_cropped.jpg",
-            "title": "Dave Brown / Tulketh Mill, Ashton, Preston, via Wikimedia Commons",
-            "caption": "Tulketh Mill, Ashton, Preston. Taken from the canal bridge on Woodplumpton Road. Tulketh Mill is now a mail-order catalogue distribution and call centre. Lancaster Canal is in the foreground."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Preston_-_Lancaster_Canal_Bridge_No._11a_-_geograph.org.uk_-_530442.jpg",
-            "title": "Alan Longbottom / Preston - Lancaster Canal Bridge No. 11a, via Wikimedia Commons",
-            "caption": "Preston - Lancaster Canal Bridge No. 11a"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Haslam_Park_and_Tulketh_Mill_-_geograph.org.uk_-_307055.jpg",
-            "title": "Snidge / Haslam Park and Tulketh Mill, via Wikimedia Commons",
-            "caption": "Haslam Park and Tulketh Mill Haslam Park with Tulketh Mill in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Haslam_Park_Lake-geograph-3026862-by-K--A.jpg/500px-Haslam_Park_Lake-geograph-3026862-by-K--A.jpg",
-            "title": "K A / Haslam Park Lake, via Wikimedia Commons",
-            "caption": "Haslam Park Lake. Some people are taking the opportunity to enjoy a day in the park on a rare fine day in a very wet summer."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk takes you along the Lancaster Canal from Preston city centre to Haslam Park. The begins at the start of the canal at Maudlands in Preston, just to the north west of the city centre and train station. From here you can pick up the towpath heading north west to Haslam Park. You can leave the canal here and explore the good sized park which includes nice footpaths taking you to a lime tree avenue, lake, ponds, waterfalls and the rose and sensory gardens. It's also a designated nature reserve with wildflower meadows, open grassland and wetland. Look out for a variety of flora and fauna as you make your way through the park. After exploring Haslam Park you can pick up the canal and follow it back to Preston where the route finishes. To extend the walk continue west along the canal to Salwick and Swillbrook where there are nice views of the Lancashire countryside. To continue your walking in Preston city centre head to the lovely Avenham Park where you can pick up the Ribble Way and enjoy a nice riverside walk.",
-    "details": [],
-    "postcode": "PR2 2NJ",
-    "district": "Preston",
-    "county": "Lancashire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Aqueduct Street, Aqueduct Street Estate, Plungington, Preston, Lancashire, England, PR2 2NJ, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["canal towpath", "grassland", "woodland"],
-    "points_of_interest": [
-        "park",
-        "nature reserve",
-        "avenue",
-        "lake",
-        "ponds",
-        "waterfall",
-        "gardens"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly", "play area"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Preston",
+      "objectID": "b09cb17e0e18b852caa2c88a0b162d77",
+      "ref": "preston-walking-route"
+    },
+    {
+      "description": "Avenham Park",
+      "objectID": "e282721106b452d2865c23be25770ccc",
+      "ref": "avenham-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Ribble Way",
+      "objectID": "e8a3af45a7fceebb722f20bce85618c1",
+      "ref": "ribble-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1e19c53d5f4ee8b8a03d92ae9be2d4c7.gpx",
+  "_geoloc": {
+    "lat": 53.7655440788,
+    "lng": -2.7188391474
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Preston_Lancaster_Canal_by_the_Hand_and_dagger_Public_House_-_geograph.org.uk_-_93260.jpg",
+      "title": "Keith Wright / Preston Lancaster Canal by the Hand & dagger Public House, via Wikimedia Commons",
+      "caption": "Preston Lancaster Canal by the Hand & dagger Public House."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Preston_-_Lancaster_Canal_-_geograph.org.uk_-_530446.jpg",
+      "title": "Alan Longbottom / Preston - Lancaster Canal, via Wikimedia Commons",
+      "caption": "Lancaster Canal. A small marina"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tulketh_Mill%2C_Ashton%2C_Preston_-_geograph.org.uk_-_23282_cropped.jpg",
+      "title": "Dave Brown / Tulketh Mill, Ashton, Preston, via Wikimedia Commons",
+      "caption": "Tulketh Mill, Ashton, Preston. Taken from the canal bridge on Woodplumpton Road. Tulketh Mill is now a mail-order catalogue distribution and call centre. Lancaster Canal is in the foreground."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Preston_-_Lancaster_Canal_Bridge_No._11a_-_geograph.org.uk_-_530442.jpg",
+      "title": "Alan Longbottom / Preston - Lancaster Canal Bridge No. 11a, via Wikimedia Commons",
+      "caption": "Preston - Lancaster Canal Bridge No. 11a"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Haslam_Park_and_Tulketh_Mill_-_geograph.org.uk_-_307055.jpg",
+      "title": "Snidge / Haslam Park and Tulketh Mill, via Wikimedia Commons",
+      "caption": "Haslam Park and Tulketh Mill Haslam Park with Tulketh Mill in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Haslam_Park_Lake-geograph-3026862-by-K--A.jpg/500px-Haslam_Park_Lake-geograph-3026862-by-K--A.jpg",
+      "title": "K A / Haslam Park Lake, via Wikimedia Commons",
+      "caption": "Haslam Park Lake. Some people are taking the opportunity to enjoy a day in the park on a rare fine day in a very wet summer."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk takes you along the Lancaster Canal from Preston city centre to Haslam Park. The begins at the start of the canal at Maudlands in Preston, just to the north west of the city centre and train station. From here you can pick up the towpath heading north west to Haslam Park. You can leave the canal here and explore the good sized park which includes nice footpaths taking you to a lime tree avenue, lake, ponds, waterfalls and the rose and sensory gardens. It's also a designated nature reserve with wildflower meadows, open grassland and wetland. Look out for a variety of flora and fauna as you make your way through the park. After exploring Haslam Park you can pick up the canal and follow it back to Preston where the route finishes. To extend the walk continue west along the canal to Salwick and Swillbrook where there are nice views of the Lancashire countryside. To continue your walking in Preston city centre head to the lovely Avenham Park where you can pick up the Ribble Way and enjoy a nice riverside walk.",
+  "details": [],
+  "postcode": "PR2 2NJ",
+  "district": "Preston",
+  "county": "Lancashire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Aqueduct Street, Aqueduct Street Estate, Plungington, Preston, Lancashire, England, PR2 2NJ, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "park"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "lake",
+    "waterfall",
+    "garden"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

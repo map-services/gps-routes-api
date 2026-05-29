@@ -1,145 +1,156 @@
 {
-    "created_at": "2025-01-06T03:55:34.549075+00:00",
-    "objectID": "f776b1b1db7f8f50149b60b48d50beaf",
-    "ref": "marlborough-walking-route",
-    "title": "Marlborough Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/River_Kennet_near_Mildenhall_-_geograph.org.uk_-_1591990.jpg",
-    "nearby": [
-        {
-            "description": "Savernake Forest",
-            "objectID": "6eb3e897642ac65deffecfa87457cbc3",
-            "ref": "savernake-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Chiseldon and Marlborough Railway Path",
-            "objectID": "a4fedd73896379e2635f48ea07d7aed1",
-            "ref": "chiseldon-and-marlborough-railway-path-walking-and-cycle-route"
-        },
-        {
-            "description": "West Woods",
-            "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
-            "ref": "west-woods-walking-and-cycle-route"
-        },
-        {
-            "description": "Wansdyke Path",
-            "objectID": "ac6dd2658519f5e7fc14e4ab0edc68ef",
-            "ref": "wansdyke-path-walking-route"
-        },
-        {
-            "description": "Three Downs Link",
-            "objectID": "bed52d63e34debd87bd64862d2221ccc",
-            "ref": "three-downs-link-walking-and-cycle-route"
-        },
-        {
-            "description": "Avebury Stones",
-            "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
-            "ref": "avebury-stones-walking-route"
-        },
-        {
-            "description": "White Horse Trail",
-            "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
-            "ref": "white-horse-trail-walking-route"
-        },
-        {
-            "description": "Ramsbury",
-            "objectID": "b089e7e1b33ef8657902e86926b9248d",
-            "ref": "ramsbury-walking-route"
-        },
-        {
-            "description": "Ridgeway Circular Walk - Aldbourne",
-            "objectID": "a168a53382fc1557c9e016ebbfe77e7a",
-            "ref": "ridgeway-circular-walk---aldbourne-walking-and-cycle-route"
-        },
-        {
-            "description": "Chilton Foliat",
-            "objectID": "0377ef841c92fe277ca2c6ab911080f1",
-            "ref": "chilton-foliat-walking-route"
-        },
-        {
-            "description": "Littlecote House",
-            "objectID": "fa330496729f5552772dfb35c8f531ed",
-            "ref": "littlecote-house-walking-route"
-        },
-        {
-            "description": "Fyfield Down",
-            "objectID": "4c5385f61aec3c360159cff8407f6d35",
-            "ref": "fyfield-down-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f776b1b1db7f8f50149b60b48d50beaf.gpx",
-    "_geoloc": {
-        "lat": 51.4216759709,
-        "lng": -1.7220986624
+  "created_at": "2025-01-06T03:55:34.549075+00:00",
+  "objectID": "f776b1b1db7f8f50149b60b48d50beaf",
+  "ref": "marlborough-walking-route",
+  "title": "Marlborough Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/River_Kennet_near_Mildenhall_-_geograph.org.uk_-_1591990.jpg",
+  "nearby": [
+    {
+      "description": "Savernake Forest",
+      "objectID": "6eb3e897642ac65deffecfa87457cbc3",
+      "ref": "savernake-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/River_Kennet_near_Mildenhall_-_geograph.org.uk_-_1591990.jpg",
-            "title": "Trish Steel [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "River Kennet near Mildenhall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/St._Johns_Church%2C_Mildenhall_-_geograph.org.uk_-_104075.jpg",
-            "title": "Colin Bates [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "St. Johns Church, Mildenhall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/River_Kennet_at_Stitchcombe_%281%29_-_geograph.org.uk_-_1407938.jpg",
-            "title": "Nigel Cox / River Kennet at Stitchcombe (1), via Wikimedia Commons",
-            "caption": "River Kennet at Stitchcombe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bridge_at_Mildenhall_-_geograph.org.uk_-_511891.jpg",
-            "title": "Herry Lawford [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Bridge at Mildenhall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/River_Kennet_valley_at_Stitchcombe_%281%29_-_geograph.org.uk_-_1407787.jpg",
-            "title": "Nigel Cox / River Kennet valley at Stitchcombe (1), via Wikimedia Commons",
-            "caption": "River Kennet valley at Stitchcombe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/River_Kennet_at_Stitchcombe_%282%29_-_geograph.org.uk_-_1407957.jpg",
-            "title": "Nigel Cox / River Kennet at Stitchcombe (2), via Wikimedia Commons",
-            "caption": "River Kennet at Stitchcombe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Old_Sluice_on_River_Kennet_at_Axford_-_geograph.org.uk_-_1359062.jpg",
-            "title": "Graham Allard / The Old Sluice on River Kennet at Axford, via Wikimedia Commons",
-            "caption": "The Old Sluice on River Kennet at Axford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Swans_on_the_Kennet%2C_Axford_-_geograph.org.uk_-_1225814.jpg",
-            "title": "Brian Robert Marshall [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Swans on the Kennet, Axford"
-        }
-    ],
-    "distance_km": 9.6,
-    "description": "The town of Marlborough lies in the heart of the North Wessex Downs AONB, making it a great base for exploring this naturally beautiful part of England. There's a number of fine waymarked trails passing through the town and the surrounding area. There's also a number of hill climbs, waterside paths along the River Kennet and miles of woodland trails in the nearby Savernake Forest. This short riverside walk takes you along the Kennet to the nearby villages of Mildenhall, Stitchcombe, Axford and Ramsbury. It's a lovely section of the river with old bridges, pretty villages and lovely views of the Kennet Valley. The walk starts in the Stonebridge Meadow Nature Reserve just to the east of the town centre. The delightful wild river reserve is a great place to see Watervole, Heron, Little Egrets and Kingfishers. Follow the path east and you will soon come to Mildenhall. The village has a nice pub, village shop and a noteable Grade I listed church, with a Saxon tower. You continue through Stitchcombe and Axford with its 17th-century pub and Grade I listed farmhouse. The final section takes you into Ramsbury with more lovely river views next to a pretty lake. From here you can catch the bus back to Marlborough. The town sits right next to the expansive Savernake Forest. It's a great place for walkers with thousands of acres of ancient woodland to explore on numerous trails. Also nearby are West Woods which you can easily reach by following the Wansdyke Path long distance trail to the site. Chiseldon and Marlborough Railway Path is a great shared walking and cycling trail which you can pick up on the eastern side of the town. It will take you through the countryside to the village of Chiseldon, via Ogbourne St George and Ogbourne St Andrew. The Wessex Ridgeway also starts from the town. It runs all the way to the coast at Lyme Regis through the North Wessex Downs and Cranborne Chase AONB's. You could pick up the trail and head west to visit the famous Avebury Stones. The wonderful White Horse Trail also passes through the town. The circular long distance, waymarked trail visits a number of white horse hill figures and historical sites.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's lots of good options for post exercise refreshments in the town. The Roebuck is a very good choice with great food and a nice beer garden for warmer days. You can find it on London Road at postcode SN8 2AJ."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just a few miles to the east there's the worthy village of Chilton Foliat near Hungerford. It's a lovely place for a stroll with several pretty thatched cottages, wildlife rich marshland and nice views of the River Kennet which runs through the settlement. Near here you can also visit Littlecote House, another of the area's highlights. The house dates from the mid 16th century and is surrounded by beautiful parkland and gardens. There's also a wonderful ancient Roman mosaic and the opportunity to enjoy afternoon tea at the historic house which is now run as an hotel. Head west from the town on the Wessex Ridgeway and you will soon come to Fyfield Down National Nature Reserve and the Grey Wethers. These ancient stones are considered the best assemblage of sarsen stones in England. For more walking ideas in the area see the Wiltshire Walks and the North Wessex Downs Walks pages."
-        }
-    ],
-    "district": "Marlborough",
-    "county": "Wiltshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Stonebridge Lane, St Margarets, Marlborough, Wiltshire, England, SN8 2RN, United Kingdom",
-    "postcode": "SN8 2RN",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 - 2.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river", "pasture"],
-    "points_of_interest": ["historical site", "villages", "river valley"],
-    "facilities": ["pub", "village shop", "church", "car park", "lake"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Chiseldon and Marlborough Railway Path",
+      "objectID": "a4fedd73896379e2635f48ea07d7aed1",
+      "ref": "chiseldon-and-marlborough-railway-path-walking-and-cycle-route"
+    },
+    {
+      "description": "West Woods",
+      "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
+      "ref": "west-woods-walking-and-cycle-route"
+    },
+    {
+      "description": "Wansdyke Path",
+      "objectID": "ac6dd2658519f5e7fc14e4ab0edc68ef",
+      "ref": "wansdyke-path-walking-route"
+    },
+    {
+      "description": "Three Downs Link",
+      "objectID": "bed52d63e34debd87bd64862d2221ccc",
+      "ref": "three-downs-link-walking-and-cycle-route"
+    },
+    {
+      "description": "Avebury Stones",
+      "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
+      "ref": "avebury-stones-walking-route"
+    },
+    {
+      "description": "White Horse Trail",
+      "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
+      "ref": "white-horse-trail-walking-route"
+    },
+    {
+      "description": "Ramsbury",
+      "objectID": "b089e7e1b33ef8657902e86926b9248d",
+      "ref": "ramsbury-walking-route"
+    },
+    {
+      "description": "Ridgeway Circular Walk - Aldbourne",
+      "objectID": "a168a53382fc1557c9e016ebbfe77e7a",
+      "ref": "ridgeway-circular-walk---aldbourne-walking-and-cycle-route"
+    },
+    {
+      "description": "Chilton Foliat",
+      "objectID": "0377ef841c92fe277ca2c6ab911080f1",
+      "ref": "chilton-foliat-walking-route"
+    },
+    {
+      "description": "Littlecote House",
+      "objectID": "fa330496729f5552772dfb35c8f531ed",
+      "ref": "littlecote-house-walking-route"
+    },
+    {
+      "description": "Fyfield Down",
+      "objectID": "4c5385f61aec3c360159cff8407f6d35",
+      "ref": "fyfield-down-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f776b1b1db7f8f50149b60b48d50beaf.gpx",
+  "_geoloc": {
+    "lat": 51.4216759709,
+    "lng": -1.7220986624
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/River_Kennet_near_Mildenhall_-_geograph.org.uk_-_1591990.jpg",
+      "title": "Trish Steel [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "River Kennet near Mildenhall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/St._Johns_Church%2C_Mildenhall_-_geograph.org.uk_-_104075.jpg",
+      "title": "Colin Bates [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "St. Johns Church, Mildenhall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/River_Kennet_at_Stitchcombe_%281%29_-_geograph.org.uk_-_1407938.jpg",
+      "title": "Nigel Cox / River Kennet at Stitchcombe (1), via Wikimedia Commons",
+      "caption": "River Kennet at Stitchcombe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bridge_at_Mildenhall_-_geograph.org.uk_-_511891.jpg",
+      "title": "Herry Lawford [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Bridge at Mildenhall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/River_Kennet_valley_at_Stitchcombe_%281%29_-_geograph.org.uk_-_1407787.jpg",
+      "title": "Nigel Cox / River Kennet valley at Stitchcombe (1), via Wikimedia Commons",
+      "caption": "River Kennet valley at Stitchcombe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/River_Kennet_at_Stitchcombe_%282%29_-_geograph.org.uk_-_1407957.jpg",
+      "title": "Nigel Cox / River Kennet at Stitchcombe (2), via Wikimedia Commons",
+      "caption": "River Kennet at Stitchcombe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Old_Sluice_on_River_Kennet_at_Axford_-_geograph.org.uk_-_1359062.jpg",
+      "title": "Graham Allard / The Old Sluice on River Kennet at Axford, via Wikimedia Commons",
+      "caption": "The Old Sluice on River Kennet at Axford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Swans_on_the_Kennet%2C_Axford_-_geograph.org.uk_-_1225814.jpg",
+      "title": "Brian Robert Marshall [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Swans on the Kennet, Axford"
+    }
+  ],
+  "distance_km": 9.6,
+  "description": "The town of Marlborough lies in the heart of the North Wessex Downs AONB, making it a great base for exploring this naturally beautiful part of England. There's a number of fine waymarked trails passing through the town and the surrounding area. There's also a number of hill climbs, waterside paths along the River Kennet and miles of woodland trails in the nearby Savernake Forest. This short riverside walk takes you along the Kennet to the nearby villages of Mildenhall, Stitchcombe, Axford and Ramsbury. It's a lovely section of the river with old bridges, pretty villages and lovely views of the Kennet Valley. The walk starts in the Stonebridge Meadow Nature Reserve just to the east of the town centre. The delightful wild river reserve is a great place to see Watervole, Heron, Little Egrets and Kingfishers. Follow the path east and you will soon come to Mildenhall. The village has a nice pub, village shop and a noteable Grade I listed church, with a Saxon tower. You continue through Stitchcombe and Axford with its 17th-century pub and Grade I listed farmhouse. The final section takes you into Ramsbury with more lovely river views next to a pretty lake. From here you can catch the bus back to Marlborough. The town sits right next to the expansive Savernake Forest. It's a great place for walkers with thousands of acres of ancient woodland to explore on numerous trails. Also nearby are West Woods which you can easily reach by following the Wansdyke Path long distance trail to the site. Chiseldon and Marlborough Railway Path is a great shared walking and cycling trail which you can pick up on the eastern side of the town. It will take you through the countryside to the village of Chiseldon, via Ogbourne St George and Ogbourne St Andrew. The Wessex Ridgeway also starts from the town. It runs all the way to the coast at Lyme Regis through the North Wessex Downs and Cranborne Chase AONB's. You could pick up the trail and head west to visit the famous Avebury Stones. The wonderful White Horse Trail also passes through the town. The circular long distance, waymarked trail visits a number of white horse hill figures and historical sites.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's lots of good options for post exercise refreshments in the town. The Roebuck is a very good choice with great food and a nice beer garden for warmer days. You can find it on London Road at postcode SN8 2AJ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a few miles to the east there's the worthy village of Chilton Foliat near Hungerford. It's a lovely place for a stroll with several pretty thatched cottages, wildlife rich marshland and nice views of the River Kennet which runs through the settlement. Near here you can also visit Littlecote House, another of the area's highlights. The house dates from the mid 16th century and is surrounded by beautiful parkland and gardens. There's also a wonderful ancient Roman mosaic and the opportunity to enjoy afternoon tea at the historic house which is now run as an hotel. Head west from the town on the Wessex Ridgeway and you will soon come to Fyfield Down National Nature Reserve and the Grey Wethers. These ancient stones are considered the best assemblage of sarsen stones in England. For more walking ideas in the area see the Wiltshire Walks and the North Wessex Downs Walks pages."
+    }
+  ],
+  "district": "Marlborough",
+  "county": "Wiltshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Stonebridge Lane, St Margarets, Marlborough, Wiltshire, England, SN8 2RN, United Kingdom",
+  "postcode": "SN8 2RN",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

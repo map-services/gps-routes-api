@@ -1,67 +1,76 @@
 {
-    "created_at": "2025-01-05T23:40:01.939062+00:00",
-    "objectID": "c5f3290e7b70b5597e38eb9ea0e1c469",
-    "ref": "chipstead-lake-walking-route",
-    "title": "Chipstead Lake Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_of_Chipstead_Lake_-_geograph.org.uk_-_1450242.jpg",
-    "nearby": [
-        {
-            "description": "Sevenoaks Wildlife Reserve",
-            "objectID": "ad46f5b33b3a6572cf2399e95099653a",
-            "ref": "sevenoaks-wildlife-reserve-walking-route"
-        },
-        {
-            "description": "Darent Valley Path",
-            "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
-            "ref": "darent-valley-path-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c5f3290e7b70b5597e38eb9ea0e1c469.gpx",
-    "_geoloc": {
-        "lat": 51.2845666069,
-        "lng": 0.1500273728
+  "created_at": "2025-01-05T23:40:01.939062+00:00",
+  "objectID": "c5f3290e7b70b5597e38eb9ea0e1c469",
+  "ref": "chipstead-lake-walking-route",
+  "title": "Chipstead Lake Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_of_Chipstead_Lake_-_geograph.org.uk_-_1450242.jpg",
+  "nearby": [
+    {
+      "description": "Sevenoaks Wildlife Reserve",
+      "objectID": "ad46f5b33b3a6572cf2399e95099653a",
+      "ref": "sevenoaks-wildlife-reserve-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_of_Chipstead_Lake_-_geograph.org.uk_-_1450242.jpg",
-            "title": "David Anstiss / View of Chipstead Lake, via Wikimedia Commons",
-            "caption": "View of Chipstead Lake. This large lake is used by a Sailing Club (on right). Seen from the Darenth Valley Walk (long distance path) near Chevening Road."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Chipstead_Sailing_Club_-_geograph.org.uk_-_25233.jpg",
-            "title": "Nigel Freeman / Chipstead Sailing Club, via Wikimedia Commons",
-            "caption": "Chipstead Sailing Club. A thriving and popular sailing club for dinghies on this former quarry lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chipstead_Lake_and_Saling_Club_-_geograph.org.uk_-_1450234.jpg",
-            "title": "David Anstiss / Chipstead Lake and Sailing Club",
-            "caption": "Chipstead Lake and Saling Club"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "Enjoy a walk along this pretty lake in Sevenoaks. The walk takes you along the eastern and northern side of the water using part of the Darent Valley Path. Parking is available at the south eastern corner of the lake. The Sevenoaks Wildlife Reserve is just to the east and has more nice footpaths along several lakes.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "After your exercise head to the splendid Bricklayers Arms for some post walk refreshments. The lakeside public house, includes three terraced cottages and has a fine menu. There's also a nice outdoor seating area with views overlooking the pretty Chipstead village green and the lake. The pub's sign represents Sir Winston Churchill, an expert bricklayer and whose home was at nearby Chartwell. You can find it in the village at postcode TN132RZ for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/FkXrvap2tNo",
-    "postcode": "TN13 2RX",
-    "district": "Sevenoaks",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Old Forge, Chipstead, Chevening, Dunton Green, Sevenoaks, Kent, England, TN13 2RX, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "easy",
-    "terrain": ["lake", "path"],
-    "points_of_interest": ["footpath"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "loop",
-    "activities": ["walking"]
+    {
+      "description": "Darent Valley Path",
+      "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
+      "ref": "darent-valley-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c5f3290e7b70b5597e38eb9ea0e1c469.gpx",
+  "_geoloc": {
+    "lat": 51.2845666069,
+    "lng": 0.1500273728
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_of_Chipstead_Lake_-_geograph.org.uk_-_1450242.jpg",
+      "title": "David Anstiss / View of Chipstead Lake, via Wikimedia Commons",
+      "caption": "View of Chipstead Lake. This large lake is used by a Sailing Club (on right). Seen from the Darenth Valley Walk (long distance path) near Chevening Road."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Chipstead_Sailing_Club_-_geograph.org.uk_-_25233.jpg",
+      "title": "Nigel Freeman / Chipstead Sailing Club, via Wikimedia Commons",
+      "caption": "Chipstead Sailing Club. A thriving and popular sailing club for dinghies on this former quarry lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chipstead_Lake_and_Saling_Club_-_geograph.org.uk_-_1450234.jpg",
+      "title": "David Anstiss / Chipstead Lake and Sailing Club",
+      "caption": "Chipstead Lake and Saling Club"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "Enjoy a walk along this pretty lake in Sevenoaks. The walk takes you along the eastern and northern side of the water using part of the Darent Valley Path. Parking is available at the south eastern corner of the lake. The Sevenoaks Wildlife Reserve is just to the east and has more nice footpaths along several lakes.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise head to the splendid Bricklayers Arms for some post walk refreshments. The lakeside public house, includes three terraced cottages and has a fine menu. There's also a nice outdoor seating area with views overlooking the pretty Chipstead village green and the lake. The pub's sign represents Sir Winston Churchill, an expert bricklayer and whose home was at nearby Chartwell. You can find it in the village at postcode TN132RZ for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/FkXrvap2tNo",
+  "postcode": "TN13 2RX",
+  "district": "Sevenoaks",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Old Forge, Chipstead, Chevening, Dunton Green, Sevenoaks, Kent, England, TN13 2RX, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife reserve"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

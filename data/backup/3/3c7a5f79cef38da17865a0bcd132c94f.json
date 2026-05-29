@@ -1,65 +1,75 @@
 {
-    "created_at": "2025-01-06T18:45:19.357884+00:00",
-    "objectID": "3c7a5f79cef38da17865a0bcd132c94f",
-    "ref": "argyll-forest-park-walking-route",
-    "title": "Argyll Forest Park Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/500px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3c7a5f79cef38da17865a0bcd132c94f.gpx",
-    "_geoloc": {
-        "lat": 56.01225,
-        "lng": -4.97381
+  "created_at": "2025-01-06T18:45:19.357884+00:00",
+  "objectID": "3c7a5f79cef38da17865a0bcd132c94f",
+  "ref": "argyll-forest-park-walking-route",
+  "title": "Argyll Forest Park Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/500px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3c7a5f79cef38da17865a0bcd132c94f.gpx",
+  "_geoloc": {
+    "lat": 56.01225,
+    "lng": -4.97381
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/500px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
+      "title": "dave souza, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Puck's Glen"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/500px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
-            "title": "dave souza, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Puck's Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rhododendron_benmore_2005.jpg/500px-Rhododendron_benmore_2005.jpg?20100220234538",
-            "title": "E96an at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Rhododendrons at Benmore"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pond%2C_Benmore_Gardens_-_geograph.org.uk_-_1028221.jpg?20110223150308",
-            "title": "Richard Webb / Pond, Benmore Gardens",
-            "caption": "Pond, Benmore Gardens"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/River_Eachaig_from_the_footbridge_at_Uig_hall_-_geograph.org.uk_-_3451792.jpg/500px-River_Eachaig_from_the_footbridge_at_Uig_hall_-_geograph.org.uk_-_3451792.jpg?20220429012525",
-            "title": "River Eachaig from the footbridge at Uig hall by Alan Reid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Eachaig from the footbridge at Uig hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Argyll_Forest_Park_001.jpg/500px-Argyll_Forest_Park_001.jpg?20101105154409",
-            "title": "Postdlf, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-            "caption": ""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Argyll_Forest_Park_004.jpg/500px-Argyll_Forest_Park_004.jpg?20101105160239",
-            "title": "Postdlf, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-            "caption": ""
-        }
-    ],
-    "distance_km": 5.8,
-    "description": "This expansive forest park is located on the Cowal Peninsula in Argyll and Bute, Scottish Highlands. This circular walk in the park visits Pucks Glen and Benmore Botanical Gardens before a walk along the River Eachaig. The walk starts at the car park in Puck's Glen. From here you can pick up tracks through the delightful glen with its pretty burn and waterfalls. The walk then heads north to visit the beautiful Benmore Botanical Gardens, one of the real highlights of the area. After exploring the gardens the walk then heads along the River Eachaig with some fine views over the water to the surrounding hills. You can continue your walking through the nearby Glen Massan. Please scroll down for the full list of walks near and around Argyll Forest Park. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/8uTpFqW8gQY?si=aYKFKlJYvo2eM9C1&start=134",
-    "county": "Argyll and Bute",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "A815, Ardbeg, Sandhaven, Argyll and Bute, Alba / Scotland, PA23 8QT, United Kingdom",
-    "postcode": "PA23 8QT",
-    "district": "Sandhaven",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["gardens", "waterfall", "hills"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rhododendron_benmore_2005.jpg/500px-Rhododendron_benmore_2005.jpg?20100220234538",
+      "title": "E96an at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Rhododendrons at Benmore"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pond%2C_Benmore_Gardens_-_geograph.org.uk_-_1028221.jpg?20110223150308",
+      "title": "Richard Webb / Pond, Benmore Gardens",
+      "caption": "Pond, Benmore Gardens"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/River_Eachaig_from_the_footbridge_at_Uig_hall_-_geograph.org.uk_-_3451792.jpg/500px-River_Eachaig_from_the_footbridge_at_Uig_hall_-_geograph.org.uk_-_3451792.jpg?20220429012525",
+      "title": "River Eachaig from the footbridge at Uig hall by Alan Reid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Eachaig from the footbridge at Uig hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Argyll_Forest_Park_001.jpg/500px-Argyll_Forest_Park_001.jpg?20101105154409",
+      "title": "Postdlf, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Argyll_Forest_Park_004.jpg/500px-Argyll_Forest_Park_004.jpg?20101105160239",
+      "title": "Postdlf, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "caption": ""
+    }
+  ],
+  "distance_km": 5.8,
+  "description": "This expansive forest park is located on the Cowal Peninsula in Argyll and Bute, Scottish Highlands. This circular walk in the park visits Pucks Glen and Benmore Botanical Gardens before a walk along the River Eachaig. The walk starts at the car park in Puck's Glen. From here you can pick up tracks through the delightful glen with its pretty burn and waterfalls. The walk then heads north to visit the beautiful Benmore Botanical Gardens, one of the real highlights of the area. After exploring the gardens the walk then heads along the River Eachaig with some fine views over the water to the surrounding hills. You can continue your walking through the nearby Glen Massan. Please scroll down for the full list of walks near and around Argyll Forest Park. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/8uTpFqW8gQY?si=aYKFKlJYvo2eM9C1&start=134",
+  "county": "Argyll and Bute",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A815, Ardbeg, Sandhaven, Argyll and Bute, Alba / Scotland, PA23 8QT, United Kingdom",
+  "postcode": "PA23 8QT",
+  "district": "Sandhaven",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "botanical garden",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,87 +1,96 @@
 {
-    "created_at": "2025-01-06T18:48:58.766073+00:00",
-    "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
-    "ref": "hafod-y-llan-walking-route",
-    "title": "Hafod Y Llan - Craflwyn and Beddgelert Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg/500px-Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg?20210615072654",
-    "nearby": [
-        {
-            "description": "Llyn Dinas",
-            "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
-            "ref": "llyn-dinas-walking-route"
-        },
-        {
-            "description": "Llyn Gwynant",
-            "objectID": "b67e64f2b29956504c8a3e11e232ec59",
-            "ref": "llyn-gwynant-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ec3f52cf2551fb7bcb071adafffd1feb.gpx",
-    "_geoloc": {
-        "lat": 53.0348821,
-        "lng": -4.0487884
+  "created_at": "2025-01-06T18:48:58.766073+00:00",
+  "objectID": "ec3f52cf2551fb7bcb071adafffd1feb",
+  "ref": "hafod-y-llan-walking-route",
+  "title": "Hafod Y Llan - Craflwyn and Beddgelert Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg/500px-Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg?20210615072654",
+  "nearby": [
+    {
+      "description": "Llyn Dinas",
+      "objectID": "55f38c62cb98c2b521fb875f8c4e1b70",
+      "ref": "llyn-dinas-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg/500px-Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg?20210615072654",
-            "title": "Hafod-y-llan by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hafod-y-llan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disused_Quarry%2C_Hafod_Y_Llan_-_geograph.org.uk_-_4087043.jpg/500px-Disused_Quarry%2C_Hafod_Y_Llan_-_geograph.org.uk_-_4087043.jpg?20221204144814",
-            "title": "Disused Quarry, Hafod Y Llan by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Disused Quarry, Hafod Y Llan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ruin_Below_Hafod_Y_Llan_Mine_-_geograph.org.uk_-_3089717.jpg/330px-Ruin_Below_Hafod_Y_Llan_Mine_-_geograph.org.uk_-_3089717.jpg?20220119211839",
-            "title": "Ruin Below Hafod Y Llan Mine by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ruin Below Hafod Y Llan Mine"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_path_connecting_Hafod_y_Porth_Farm_and_Craflwyn_Hall.jpg?20080418233102",
-            "title": "Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The path connecting Hafod y Porth Farm and Craflwyn Hall.  The path can be seen on the right of the photograph. The knoll on the left is Dinas Emrys. Craflwyn Hall is on the edge of the flood plain of the Afon Glaslyn surrounded by conifer trees. The mountain in the background is Moel Hebog."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hafod-y-llan_from_the_Watkin_Path_-_geograph.org.uk_-_4014703.jpg/500px-Hafod-y-llan_from_the_Watkin_Path_-_geograph.org.uk_-_4014703.jpg?20221118161657",
-            "title": "Hafod-y-llan from the Watkin Path by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hafod-y-llan from the Watkin Path"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hafod_Y_Llan_Quarry_from_Snowdon_South_Ridge_-_geograph.org.uk_-_535808.jpg?20110205200144",
-            "title": "John Dyason / Hafod Y Llan Quarry from Snowdon South Ridge",
-            "caption": "Hafod Y Llan Quarry from Snowdon South Ridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Craflwyn_Hall_-_geograph.org.uk_-_276712.jpg?20101212192343",
-            "title": "Eric Jones / Craflwyn Hall",
-            "caption": "Craflwyn Hall. The hall was built in the 1870s by the quaintly named Welshman Llywelyn England Sydney Parry who inherited the estate in 1873. There had previously been a large farmhouse on the site dating from the 16th Century, and which, in the 17th century, was the home of Humphrey Jones, the Receiver General for North Wales. The property was acquired by the National Trust in 1994 and almost \u00a31 million pounds has been spent on restoring the house and outbuildings to create a residential and activity centre."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bovine_horseplay_above_Craflwyn_Hall_-_geograph.org.uk_-_276634.jpg?20101212191350",
-            "title": "Eric Jones / Bovine horseplay above Craflwyn Hall",
-            "caption": "Bovine horseplay above Craflwyn Hall"
-        }
-    ],
-    "distance_km": 5.9,
-    "description": "This waymarked walk runs through the National Trust's Craflwyn in Beddgelert, Snowdonia. Hafod Y Llan is the National Trust's historically important hill farm on the south flanks of Yr Wyddfa (Snowdon). The area is designated as a National Nature Reserve with choughs, peregrines and cuckoos to see. Also look out for the Welsh Black Cattle, Welsh mountain sheep and feral goats. The stunning walk will take you through the Nant Gwynant valley with fabulous views of the surrounding mountains. You'll also enjoy fine views of the area's two lakes - Llyn Dinas and Llyn Gwynant. The walk can be started from the public car park next to the Afon Glaslyn at the north eastern side of the route. Other features include some lovely river views and pretty waterfalls.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/AwIZdto8G3w?si=Dpk52fkEef4PzMKA",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "A498, Nantgwynant, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NH, United Kingdom",
-    "postcode": "LL55 4NH",
-    "district": "Beddgelert",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["mountain", "valley"],
-    "points_of_interest": ["historical farm", "nature reserve", "lakes"],
-    "facilities": ["car park", "river views", "waterfall"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Llyn Gwynant",
+      "objectID": "b67e64f2b29956504c8a3e11e232ec59",
+      "ref": "llyn-gwynant-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ec3f52cf2551fb7bcb071adafffd1feb.gpx",
+  "_geoloc": {
+    "lat": 53.0348821,
+    "lng": -4.0487884
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg/500px-Hafod-y-llan_-_geograph.org.uk_-_2170778.jpg?20210615072654",
+      "title": "Hafod-y-llan by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hafod-y-llan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disused_Quarry%2C_Hafod_Y_Llan_-_geograph.org.uk_-_4087043.jpg/500px-Disused_Quarry%2C_Hafod_Y_Llan_-_geograph.org.uk_-_4087043.jpg?20221204144814",
+      "title": "Disused Quarry, Hafod Y Llan by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Disused Quarry, Hafod Y Llan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ruin_Below_Hafod_Y_Llan_Mine_-_geograph.org.uk_-_3089717.jpg/330px-Ruin_Below_Hafod_Y_Llan_Mine_-_geograph.org.uk_-_3089717.jpg?20220119211839",
+      "title": "Ruin Below Hafod Y Llan Mine by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ruin Below Hafod Y Llan Mine"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_path_connecting_Hafod_y_Porth_Farm_and_Craflwyn_Hall.jpg?20080418233102",
+      "title": "Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The path connecting Hafod y Porth Farm and Craflwyn Hall.  The path can be seen on the right of the photograph. The knoll on the left is Dinas Emrys. Craflwyn Hall is on the edge of the flood plain of the Afon Glaslyn surrounded by conifer trees. The mountain in the background is Moel Hebog."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hafod-y-llan_from_the_Watkin_Path_-_geograph.org.uk_-_4014703.jpg/500px-Hafod-y-llan_from_the_Watkin_Path_-_geograph.org.uk_-_4014703.jpg?20221118161657",
+      "title": "Hafod-y-llan from the Watkin Path by Peter Bond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hafod-y-llan from the Watkin Path"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hafod_Y_Llan_Quarry_from_Snowdon_South_Ridge_-_geograph.org.uk_-_535808.jpg?20110205200144",
+      "title": "John Dyason / Hafod Y Llan Quarry from Snowdon South Ridge",
+      "caption": "Hafod Y Llan Quarry from Snowdon South Ridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Craflwyn_Hall_-_geograph.org.uk_-_276712.jpg?20101212192343",
+      "title": "Eric Jones / Craflwyn Hall",
+      "caption": "Craflwyn Hall. The hall was built in the 1870s by the quaintly named Welshman Llywelyn England Sydney Parry who inherited the estate in 1873. There had previously been a large farmhouse on the site dating from the 16th Century, and which, in the 17th century, was the home of Humphrey Jones, the Receiver General for North Wales. The property was acquired by the National Trust in 1994 and almost \u00a31 million pounds has been spent on restoring the house and outbuildings to create a residential and activity centre."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bovine_horseplay_above_Craflwyn_Hall_-_geograph.org.uk_-_276634.jpg?20101212191350",
+      "title": "Eric Jones / Bovine horseplay above Craflwyn Hall",
+      "caption": "Bovine horseplay above Craflwyn Hall"
+    }
+  ],
+  "distance_km": 5.9,
+  "description": "This waymarked walk runs through the National Trust's Craflwyn in Beddgelert, Snowdonia. Hafod Y Llan is the National Trust's historically important hill farm on the south flanks of Yr Wyddfa (Snowdon). The area is designated as a National Nature Reserve with choughs, peregrines and cuckoos to see. Also look out for the Welsh Black Cattle, Welsh mountain sheep and feral goats. The stunning walk will take you through the Nant Gwynant valley with fabulous views of the surrounding mountains. You'll also enjoy fine views of the area's two lakes - Llyn Dinas and Llyn Gwynant. The walk can be started from the public car park next to the Afon Glaslyn at the north eastern side of the route. Other features include some lovely river views and pretty waterfalls.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/AwIZdto8G3w?si=Dpk52fkEef4PzMKA",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A498, Nantgwynant, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NH, United Kingdom",
+  "postcode": "LL55 4NH",
+  "district": "Beddgelert",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

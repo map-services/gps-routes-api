@@ -1,102 +1,112 @@
 {
-    "created_at": "2025-01-06T10:21:35.917233+00:00",
-    "objectID": "9cd9dd3b7ecfe332939346de434003f2",
-    "ref": "york-walls-walk-walking-route",
-    "title": "York Walls Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg/500px-York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg",
-    "nearby": [
-        {
-            "description": "York River Walk",
-            "objectID": "daef58fa08cb8236e61843838be785f5",
-            "ref": "york-river-walk-walking-route"
-        },
-        {
-            "description": "Foss Walk",
-            "objectID": "be083885197fc245ad5628e5643ef5fc",
-            "ref": "foss-walk-walking-route"
-        },
-        {
-            "description": "Stockton on the Forest",
-            "objectID": "3e7526382c1d793053e92e900cf2d2fa",
-            "ref": "stockton-on-the-forest-walking-route"
-        },
-        {
-            "description": "Stamford Bridge",
-            "objectID": "57936c3f6afc3a6cf113c8a7949b42fe",
-            "ref": "stamford-bridge-walking-route"
-        },
-        {
-            "description": "Haxby",
-            "objectID": "5761a0f88166b3443b8fa908f4590ccb",
-            "ref": "haxby-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9cd9dd3b7ecfe332939346de434003f2.gpx",
-    "_geoloc": {
-        "lat": 53.9597233979,
-        "lng": -1.0875824749
+  "created_at": "2025-01-06T10:21:35.917233+00:00",
+  "objectID": "9cd9dd3b7ecfe332939346de434003f2",
+  "ref": "york-walls-walk-walking-route",
+  "title": "York Walls Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg/500px-York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg",
+  "nearby": [
+    {
+      "description": "York River Walk",
+      "objectID": "daef58fa08cb8236e61843838be785f5",
+      "ref": "york-river-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg/500px-York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg",
-            "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
-            "caption": "York Minster as seen from the City Wall 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/York_City_Wall_%282012%29_-_panoramio.jpg/500px-York_City_Wall_%282012%29_-_panoramio.jpg",
-            "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
-            "caption": "On the walls 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/City_walls_-_geograph.org.uk_-_764863.jpg",
-            "title": "Richard Croft / City walls",
-            "caption": "On the walls 2"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Walmgate_Bar_-_geograph.org.uk_-_766067.jpg",
-            "title": "Richard Croft / Walmgate Bar",
-            "caption": "Walmgate Bar"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Goodramgate_-_geograph.org.uk_-_766337.jpg",
-            "title": "Richard Croft / Goodramgate",
-            "caption": "Goodramgate"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Monk_Bar_at_dusk_-_geograph.org.uk_-_1083165.jpg",
-            "title": "Lis Burke / Monk Bar at dusk",
-            "caption": "Monk Bar at dusk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/York_Minster_from_the_city_walls_%284365868306%29.jpg/500px-York_Minster_from_the_city_walls_%284365868306%29.jpg",
-            "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-            "caption": "York Minster from the city walls 2"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/River_Ouse_as_seen_from_Bishopgate_Street_Bridge_%282012%29_-_panoramio.jpg/500px-River_Ouse_as_seen_from_Bishopgate_Street_Bridge_%282012%29_-_panoramio.jpg",
-            "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
-            "caption": "River Ouse as seen from Bishopgate Street Bridge (2012)"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This walk takes you around the city walls in the historic city of York. Much of the Roman walls are still intact, making for an excellent, elevated walk around the city. The route runs for just under 3 miles, visiting some of the city highlights including York Minster, York Castle, the River Ouse and the River Foss. Along the way there are several interesting features to look out for. These include several towers, fortified gateways and a postern. Highlights include the Multangular Tower in the Museum Gardens which is the most noticeable and intact structure remaining from the Roman walls. The four main gatehouses, or 'bars' you will pass are Bootham Bar, Walmgate Bar, Micklegate Bar and Monk Bar. The latter is the most elaborate of the four, and was built in the early 14th century. Walmgate Bar also dates from the 14th century and retains its portcullis and 15th century oak doors. Keep your eyes peeled for the information boards dotted along the route. These will give you a detailed description of many of the structures you will see on the walk. Other highlights on the route include the bridge crossings over the River Ouse and River Foss. There's also fine views of the iconic York Minster from several locations on the wall. The extraordinary cathedral is one of the largest of its kind in Northern Europe. Notable features include the West Window in the nave, which was constructed in 1338. Over the Lady Chapel in the east end is the 15th century Great East Window, the largest expanse of medieval stained glass in the world. To continue your walking in this fine city you could try the York River Walk. The waterside walk follows the River Ouse to Rowntree Park, York Millennium Bridge, Tower Gardens and York Castle. It also includes good views back to the Roman walls. Near the castle you can pick up the Foss Walk and enjoy another riverside walk. The long distance trail runs north from the city to Haxby and Huntington.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/nfOHL0yshVY",
-    "postcode": "YO1 6HU",
-    "district": "York",
-    "county": "York",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lendal Bridge, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 6HU, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["urban", "historical"],
-    "points_of_interest": ["historical site", "towers", "gateways"],
-    "facilities": ["visitor center", "information boards"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Foss Walk",
+      "objectID": "be083885197fc245ad5628e5643ef5fc",
+      "ref": "foss-walk-walking-route"
+    },
+    {
+      "description": "Stockton on the Forest",
+      "objectID": "3e7526382c1d793053e92e900cf2d2fa",
+      "ref": "stockton-on-the-forest-walking-route"
+    },
+    {
+      "description": "Stamford Bridge",
+      "objectID": "57936c3f6afc3a6cf113c8a7949b42fe",
+      "ref": "stamford-bridge-walking-route"
+    },
+    {
+      "description": "Haxby",
+      "objectID": "5761a0f88166b3443b8fa908f4590ccb",
+      "ref": "haxby-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9cd9dd3b7ecfe332939346de434003f2.gpx",
+  "_geoloc": {
+    "lat": 53.9597233979,
+    "lng": -1.0875824749
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg/500px-York_Minster_as_seen_from_the_City_Wall_%282012%29_-_panoramio.jpg",
+      "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
+      "caption": "York Minster as seen from the City Wall 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/York_City_Wall_%282012%29_-_panoramio.jpg/500px-York_City_Wall_%282012%29_-_panoramio.jpg",
+      "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
+      "caption": "On the walls 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/City_walls_-_geograph.org.uk_-_764863.jpg",
+      "title": "Richard Croft / City walls",
+      "caption": "On the walls 2"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Walmgate_Bar_-_geograph.org.uk_-_766067.jpg",
+      "title": "Richard Croft / Walmgate Bar",
+      "caption": "Walmgate Bar"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Goodramgate_-_geograph.org.uk_-_766337.jpg",
+      "title": "Richard Croft / Goodramgate",
+      "caption": "Goodramgate"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Monk_Bar_at_dusk_-_geograph.org.uk_-_1083165.jpg",
+      "title": "Lis Burke / Monk Bar at dusk",
+      "caption": "Monk Bar at dusk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/York_Minster_from_the_city_walls_%284365868306%29.jpg/500px-York_Minster_from_the_city_walls_%284365868306%29.jpg",
+      "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "caption": "York Minster from the city walls 2"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/River_Ouse_as_seen_from_Bishopgate_Street_Bridge_%282012%29_-_panoramio.jpg/500px-River_Ouse_as_seen_from_Bishopgate_Street_Bridge_%282012%29_-_panoramio.jpg",
+      "title": "Alexander Kachkaev [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)]",
+      "caption": "River Ouse as seen from Bishopgate Street Bridge (2012)"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This walk takes you around the city walls in the historic city of York. Much of the Roman walls are still intact, making for an excellent, elevated walk around the city. The route runs for just under 3 miles, visiting some of the city highlights including York Minster, York Castle, the River Ouse and the River Foss. Along the way there are several interesting features to look out for. These include several towers, fortified gateways and a postern. Highlights include the Multangular Tower in the Museum Gardens which is the most noticeable and intact structure remaining from the Roman walls. The four main gatehouses, or 'bars' you will pass are Bootham Bar, Walmgate Bar, Micklegate Bar and Monk Bar. The latter is the most elaborate of the four, and was built in the early 14th century. Walmgate Bar also dates from the 14th century and retains its portcullis and 15th century oak doors. Keep your eyes peeled for the information boards dotted along the route. These will give you a detailed description of many of the structures you will see on the walk. Other highlights on the route include the bridge crossings over the River Ouse and River Foss. There's also fine views of the iconic York Minster from several locations on the wall. The extraordinary cathedral is one of the largest of its kind in Northern Europe. Notable features include the West Window in the nave, which was constructed in 1338. Over the Lady Chapel in the east end is the 15th century Great East Window, the largest expanse of medieval stained glass in the world. To continue your walking in this fine city you could try the York River Walk. The waterside walk follows the River Ouse to Rowntree Park, York Millennium Bridge, Tower Gardens and York Castle. It also includes good views back to the Roman walls. Near the castle you can pick up the Foss Walk and enjoy another riverside walk. The long distance trail runs north from the city to Haxby and Huntington.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/nfOHL0yshVY",
+  "postcode": "YO1 6HU",
+  "district": "York",
+  "county": "York",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lendal Bridge, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 6HU, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "cathedral"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

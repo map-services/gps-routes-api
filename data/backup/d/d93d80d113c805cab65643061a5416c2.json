@@ -131,11 +131,15 @@
     "state": "England",
     "country": "United Kingdom",
     "llama_cpp": true,
-    "estimated_duration": "multiple days",
+    "estimated_duration": null,
     "difficulty": "moderate",
-    "terrain": ["coastal", "hill", "rural"],
-    "points_of_interest": ["historical site", "museums"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": [
+        "historical site",
+        "national park",
+        "world heritage site"
+    ],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "one-way",
     "activities": ["walking"]
 }

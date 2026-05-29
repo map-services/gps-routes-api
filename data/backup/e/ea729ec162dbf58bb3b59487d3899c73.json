@@ -1,87 +1,98 @@
 {
-    "created_at": "2025-01-06T03:39:10.985429+00:00",
-    "objectID": "ea729ec162dbf58bb3b59487d3899c73",
-    "ref": "ham-wall-walking-route",
-    "title": "Ham Wall Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ham_Wall_Viewpoint_%28geograph_5839906%29.jpg",
-    "nearby": [
-        {
-            "description": "Shapwick Heath",
-            "objectID": "00dcec466fb12d8eede01f0856ed383a",
-            "ref": "shapwick-heath-walking-route"
-        },
-        {
-            "description": "Glastonbury Tor",
-            "objectID": "806f45c20865df8f31e23f192bf3aa76",
-            "ref": "glastonbury-tor-walking-route"
-        },
-        {
-            "description": "Street",
-            "objectID": "56f1e9bbb3c83db4cba52da6a6281b08",
-            "ref": "street-somerset-walking-route"
-        },
-        {
-            "description": "Westhay Moor",
-            "objectID": "d1ec40f32a98940fbfdf9884f1b86daf",
-            "ref": "westhay-moor-walking-route"
-        },
-        {
-            "description": "Avalon Marshes",
-            "objectID": "4c172c57be6fba3877eeb7641b98cb9f",
-            "ref": "avalon-marshes-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea729ec162dbf58bb3b59487d3899c73.gpx",
-    "_geoloc": {
-        "lat": 51.1534566971,
-        "lng": -2.7888121792
+  "created_at": "2025-01-06T03:39:10.985429+00:00",
+  "objectID": "ea729ec162dbf58bb3b59487d3899c73",
+  "ref": "ham-wall-walking-route",
+  "title": "Ham Wall Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ham_Wall_Viewpoint_%28geograph_5839906%29.jpg",
+  "nearby": [
+    {
+      "description": "Shapwick Heath",
+      "objectID": "00dcec466fb12d8eede01f0856ed383a",
+      "ref": "shapwick-heath-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ham_Wall_Viewpoint_%28geograph_5839906%29.jpg",
-            "title": "Mary and Angus Hogg / Ham Wall Viewpoint, via Wikimedia Commons",
-            "caption": "Ham Wall Viewpoint. The RSPB's Ham Wall reserve has lots of good vantage points overlooking the marsh."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ham_Wall_RSPB_%28geograph_5986081%29.jpg/500px-Ham_Wall_RSPB_%28geograph_5986081%29.jpg",
-            "title": "Hugh Venables / Ham Wall RSPB, via Wikimedia Commons",
-            "caption": "Ham Wall RSPB. As with several sites in the Somerset levels, reedbeds have been created from former peat extraction sites, with excellent results for wetland species, especially Bitterns. Glastonbury Tor in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Outfall_into_South_Drain_-_geograph.org.uk_-_1268174.jpg",
-            "title": "Simon Huguet / Outfall into South Drain",
-            "caption": "Outfall into South Drain Water level management near Ashcott Corner."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ham_Wall_-_geograph.org.uk_-_1268205.jpg",
-            "title": "Simon Huguet / Ham Wall",
-            "caption": "Looking across the Ham wall National Nature Reserve towards Glastonbury Tor."
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "Ham Wall Nature Reserve is part of the Avalon Marshes in the beautiful Somerset Levels. There are several easy walking trails in the reserve. The Ham Wall walk runs along the Glastonbury Canal on a nice grassy path from the car park on Ashcott Road. From here you pick up the trail and head east along the water. Look out for lots of wildlife including otters, dragonflies, butterflies, marsh harriers, water voles, bitterns and roe deer. Ham Wall consists of a variety of habitats including reedbeds, wetland, grassland and woodland. There's four short walking trails in all. They are nicely laid out and include a number of bird hides and seating areas dotted along the way. Just to the west of the reserve you will find Shapwick Heath Nature Reserve which has more great trails to try. The reserve is located just a few miles west of Glastonbury. You could visit by bike by following National Cycle Route 3 from Glastonbury. If you'd like to extend your walking in the area you could climb to the famous Glastonbury Tor. The tor is actually visible in the distance from the reserve and makes a worthy extension to your outing. Just to the north there's Westhay Moor another of the reserves on the marshes.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the east you'll find the nearby village of Street. Here you can enjoy a lovely climb along the Polden Way to the National Trust's Walton Hill in the Polden Hills. Just to the south of Street you'll also find the neighbouring village of Compton Dundon where you can try the Compton Dundon and Combe Hill Wood Walk. The circular walk includes a climb to Iron Age Hillfort on Dundon Beacon and a visit to the Hood Monument, which is something of a historic local landmark. For more walking ideas in the area see the Somerset Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/jWkKg9NDVXw",
-    "county": "Somerset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Station Road, Buscott, Ashcott, Somerset, England, TA7 9FA, United Kingdom",
-    "postcode": "TA7 9FA",
-    "district": "Ashcott",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["grassland", "woodland"],
-    "points_of_interest": ["bird hide", "seating areas", "viewpoint"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Glastonbury Tor",
+      "objectID": "806f45c20865df8f31e23f192bf3aa76",
+      "ref": "glastonbury-tor-walking-route"
+    },
+    {
+      "description": "Street",
+      "objectID": "56f1e9bbb3c83db4cba52da6a6281b08",
+      "ref": "street-somerset-walking-route"
+    },
+    {
+      "description": "Westhay Moor",
+      "objectID": "d1ec40f32a98940fbfdf9884f1b86daf",
+      "ref": "westhay-moor-walking-route"
+    },
+    {
+      "description": "Avalon Marshes",
+      "objectID": "4c172c57be6fba3877eeb7641b98cb9f",
+      "ref": "avalon-marshes-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea729ec162dbf58bb3b59487d3899c73.gpx",
+  "_geoloc": {
+    "lat": 51.1534566971,
+    "lng": -2.7888121792
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ham_Wall_Viewpoint_%28geograph_5839906%29.jpg",
+      "title": "Mary and Angus Hogg / Ham Wall Viewpoint, via Wikimedia Commons",
+      "caption": "Ham Wall Viewpoint. The RSPB's Ham Wall reserve has lots of good vantage points overlooking the marsh."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ham_Wall_RSPB_%28geograph_5986081%29.jpg/500px-Ham_Wall_RSPB_%28geograph_5986081%29.jpg",
+      "title": "Hugh Venables / Ham Wall RSPB, via Wikimedia Commons",
+      "caption": "Ham Wall RSPB. As with several sites in the Somerset levels, reedbeds have been created from former peat extraction sites, with excellent results for wetland species, especially Bitterns. Glastonbury Tor in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Outfall_into_South_Drain_-_geograph.org.uk_-_1268174.jpg",
+      "title": "Simon Huguet / Outfall into South Drain",
+      "caption": "Outfall into South Drain Water level management near Ashcott Corner."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ham_Wall_-_geograph.org.uk_-_1268205.jpg",
+      "title": "Simon Huguet / Ham Wall",
+      "caption": "Looking across the Ham wall National Nature Reserve towards Glastonbury Tor."
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "Ham Wall Nature Reserve is part of the Avalon Marshes in the beautiful Somerset Levels. There are several easy walking trails in the reserve. The Ham Wall walk runs along the Glastonbury Canal on a nice grassy path from the car park on Ashcott Road. From here you pick up the trail and head east along the water. Look out for lots of wildlife including otters, dragonflies, butterflies, marsh harriers, water voles, bitterns and roe deer. Ham Wall consists of a variety of habitats including reedbeds, wetland, grassland and woodland. There's four short walking trails in all. They are nicely laid out and include a number of bird hides and seating areas dotted along the way. Just to the west of the reserve you will find Shapwick Heath Nature Reserve which has more great trails to try. The reserve is located just a few miles west of Glastonbury. You could visit by bike by following National Cycle Route 3 from Glastonbury. If you'd like to extend your walking in the area you could climb to the famous Glastonbury Tor. The tor is actually visible in the distance from the reserve and makes a worthy extension to your outing. Just to the north there's Westhay Moor another of the reserves on the marshes.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east you'll find the nearby village of Street. Here you can enjoy a lovely climb along the Polden Way to the National Trust's Walton Hill in the Polden Hills. Just to the south of Street you'll also find the neighbouring village of Compton Dundon where you can try the Compton Dundon and Combe Hill Wood Walk. The circular walk includes a climb to Iron Age Hillfort on Dundon Beacon and a visit to the Hood Monument, which is something of a historic local landmark. For more walking ideas in the area see the Somerset Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/jWkKg9NDVXw",
+  "county": "Somerset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Road, Buscott, Ashcott, Somerset, England, TA7 9FA, United Kingdom",
+  "postcode": "TA7 9FA",
+  "district": "Ashcott",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

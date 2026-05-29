@@ -1,111 +1,120 @@
 {
-    "created_at": "2025-01-06T03:06:18.560094+00:00",
-    "objectID": "247bc51cc0bfda36406b2932bc494da3",
-    "ref": "sefton-coastal-footpath-walking-route",
-    "title": "Sefton Coastal Path Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crosby_Channel_from_Sefton_Coast_Path_-_geograph.org.uk_-_747892.jpg",
-    "nearby": [
-        {
-            "description": "Crosby",
-            "objectID": "5ac38963c43142e5feb4c1da85e6b323",
-            "ref": "crosby-walking-route"
-        },
-        {
-            "description": "Formby Beach",
-            "objectID": "9c8763cf2c195f9e8d3fb64aab6cb22c",
-            "ref": "formby-beach-walking-route"
-        },
-        {
-            "description": "Southport",
-            "objectID": "66900fbe2c1d3d043c92652e355c48fe",
-            "ref": "southport-walking-route"
-        },
-        {
-            "description": "Leeds and Liverpool Canal",
-            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/247bc51cc0bfda36406b2932bc494da3.gpx",
-    "_geoloc": {
-        "lat": 53.4752554747,
-        "lng": -3.0258235509
+  "created_at": "2025-01-06T03:06:18.560094+00:00",
+  "objectID": "247bc51cc0bfda36406b2932bc494da3",
+  "ref": "sefton-coastal-footpath-walking-route",
+  "title": "Sefton Coastal Path Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crosby_Channel_from_Sefton_Coast_Path_-_geograph.org.uk_-_747892.jpg",
+  "nearby": [
+    {
+      "description": "Crosby",
+      "objectID": "5ac38963c43142e5feb4c1da85e6b323",
+      "ref": "crosby-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crosby_Channel_from_Sefton_Coast_Path_-_geograph.org.uk_-_747892.jpg",
-            "title": "Raymond Knapman [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Crosby Channel from Sefton Coast Path. View of Spit leading into Channel and Marker Post"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Crosby_Beach_%285482%29.jpg/330px-Crosby_Beach_%285482%29.jpg",
-            "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Crosby Beach - 'Another Place'. Here you will pass 100 male statues by Antony Gormley made from cast iron, stretching for 1.5 mi. along the estuary."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sefton_coastal_path_-_geograph.org.uk_-_873663.jpg",
-            "title": "Bryan Pready / Sefton coastal path",
-            "caption": "Ainsdale. Looking north, across one of the damp depressions in the dunes. The Sefton coast is noted for its biological and geological features. Flora and fauna includes grass of Parnassus, wild orchids, rare butterflies, sand lizards, natterjack toads and waders."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Walking_to_the_beach%2C_Formby_-_geograph.org.uk_-_420392.jpg",
-            "title": "David Hawgood / Walking to the beach, Formby",
-            "caption": "Walking to the beach. The walkers are near the edge of the dunes, which here is at the high tide mark. This photo is taken at low tide with the sea 400 metres down the beach. The track leads from the large National Trust car park to the beach."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ainsdale_dunes_and_the_velvet_trail_-_geograph.org.uk_-_874161.jpg",
-            "title": "Gary Rogers / Ainsdale dunes and the velvet trail",
-            "caption": "Ainsdale dunes and the velvet trail. The 'green beach' is visible in front of the dunes. up until a few years ago cars were allowed to drive along the beach. Since this has been stopped a 'green beach has formed as vegetation has started to form embryo dunes and brackish pools at the front of the dunes."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Southport_Pier_-_geograph.org.uk_-_63701.jpg",
-            "title": "Alan Kenwright / Southport Pier",
-            "caption": "Southport Pier. Opened in August 1860, it is the oldest iron pier in the country. Its length of 1,108 m makes it the second-longest in Great Britain, after Southend Pier."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sefton_Coastal_Path_passing_Rimmer%27s_Marsh%2C_Marshside_-_geograph.org.uk_-_4707057.jpg/500px-Sefton_Coastal_Path_passing_Rimmer%27s_Marsh%2C_Marshside_-_geograph.org.uk_-_4707057.jpg",
-            "title": "Sefton Coastal Path passing Rimmer's Marsh, Marshside by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Passing Rimmer's Marsh in RSPB Marshside. This wetland site is located north of Southport town centre. It's a fantastic place for wildlife with nesting birds like avocets and lapwings in the summer and pink-footed geese and wigeons in the winter months."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sefton_Coastal_Path_at_Formby_-_geograph.org.uk_-_2586013.jpg",
-            "title": "Sefton Coastal Path at Formby by Rob Noble, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sefton Coastal Path at Formby. Path signs near the car park. In this area look out for the Natterjack toad. Formby is one of a few sites in England where they will breed. If you are here on a spring evening listen for the male's distinctive song known locally as the 'Bootle Organ'. At these times the males gather at the edge of shallow pools in the dune slacks and sing to attract a mate."
-        }
-    ],
-    "distance_km": 34.0,
-    "description": "This wonderful walk takes you from Crosby to Southport along the beautiful Sefton coastline. The walk starts at Waterloo station in Crosby and heads to the coast via Crosby Marine Lake. You then head north to Hightown through the Dunes, passing the fascinating Another Place Sculptures on Crosby Beach. The Anthony Gormley piece was created in 1997, consisting of 100 cast iron figures facing towards the sea. The figures are modelled on the artist's own naked body which has caused some controversy. As the tides ebb and flow, the figures are revealed and submerged by the sea. The next section takes you to Formby where you will enter the captivating Ainsdale National Nature Reserve and Formby Beach. This is a well known spot for spotting the Natterjack Toad in the fabulous scenery of dunes, pinewoods and golden sand. Also look out for Red Squirrels, sand lizards and great-crested newts on this fantastic section of the walk. The final section of the walk takes you past Royal Birkdale Golf course (home of the Open) and onto the lovely seaside town of Southport with its magnificent pier. The path comes to end shortly after at Crossens. Here you can visit RSPB Marshside, a wildlife rich wetland nature reserve located on the southern side of the Ribble estuary. There's bird hides here and an informative visitor centre.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Pinewoods pub is located just to the east of the woods at the National Trust's Formby. They do good food and have a decent selection of ales. You can find them at Wicks Green with a postcode of L37 1PR for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "At the end of the route near Southport you can visit the Marton Mere and Mere Sands Wood Nature Reserves. They both have nice surfaced footpaths with lots of wildlife to see. You can link up with the epic Trans Pennine Trail here as well. The RSPB  At the other end of the route in Crosby you can visit the lovely Rimrose Valley Country Park. The park sits by the side of the Leeds and Liverpool Canal and includes the delightful Brookvale Local Nature Reserve.  For more walking ideas in the area see the Merseyside Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/WlteRR6bm8Y",
-    "postcode": "L22 0NH",
-    "district": "Liverpool",
-    "region": "Liverpool City Region",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "RockinRolls, 1A, Lorne Road, Waterloo, Crosby, Liverpool, Liverpool City Region, England, L22 0NH, United Kingdom",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["coastal", "dunes", "beach", "woodland"],
-    "points_of_interest": [
-        "sculptures",
-        "nature reserve",
-        "golf course",
-        "wetland"
-    ],
-    "facilities": ["visitor center", "bird hide", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Formby Beach",
+      "objectID": "9c8763cf2c195f9e8d3fb64aab6cb22c",
+      "ref": "formby-beach-walking-route"
+    },
+    {
+      "description": "Southport",
+      "objectID": "66900fbe2c1d3d043c92652e355c48fe",
+      "ref": "southport-walking-route"
+    },
+    {
+      "description": "Leeds and Liverpool Canal",
+      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/247bc51cc0bfda36406b2932bc494da3.gpx",
+  "_geoloc": {
+    "lat": 53.4752554747,
+    "lng": -3.0258235509
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crosby_Channel_from_Sefton_Coast_Path_-_geograph.org.uk_-_747892.jpg",
+      "title": "Raymond Knapman [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Crosby Channel from Sefton Coast Path. View of Spit leading into Channel and Marker Post"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Crosby_Beach_%285482%29.jpg/330px-Crosby_Beach_%285482%29.jpg",
+      "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Crosby Beach - 'Another Place'. Here you will pass 100 male statues by Antony Gormley made from cast iron, stretching for 1.5 mi. along the estuary."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sefton_coastal_path_-_geograph.org.uk_-_873663.jpg",
+      "title": "Bryan Pready / Sefton coastal path",
+      "caption": "Ainsdale. Looking north, across one of the damp depressions in the dunes. The Sefton coast is noted for its biological and geological features. Flora and fauna includes grass of Parnassus, wild orchids, rare butterflies, sand lizards, natterjack toads and waders."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Walking_to_the_beach%2C_Formby_-_geograph.org.uk_-_420392.jpg",
+      "title": "David Hawgood / Walking to the beach, Formby",
+      "caption": "Walking to the beach. The walkers are near the edge of the dunes, which here is at the high tide mark. This photo is taken at low tide with the sea 400 metres down the beach. The track leads from the large National Trust car park to the beach."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ainsdale_dunes_and_the_velvet_trail_-_geograph.org.uk_-_874161.jpg",
+      "title": "Gary Rogers / Ainsdale dunes and the velvet trail",
+      "caption": "Ainsdale dunes and the velvet trail. The 'green beach' is visible in front of the dunes. up until a few years ago cars were allowed to drive along the beach. Since this has been stopped a 'green beach has formed as vegetation has started to form embryo dunes and brackish pools at the front of the dunes."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Southport_Pier_-_geograph.org.uk_-_63701.jpg",
+      "title": "Alan Kenwright / Southport Pier",
+      "caption": "Southport Pier. Opened in August 1860, it is the oldest iron pier in the country. Its length of 1,108 m makes it the second-longest in Great Britain, after Southend Pier."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sefton_Coastal_Path_passing_Rimmer%27s_Marsh%2C_Marshside_-_geograph.org.uk_-_4707057.jpg/500px-Sefton_Coastal_Path_passing_Rimmer%27s_Marsh%2C_Marshside_-_geograph.org.uk_-_4707057.jpg",
+      "title": "Sefton Coastal Path passing Rimmer's Marsh, Marshside by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Passing Rimmer's Marsh in RSPB Marshside. This wetland site is located north of Southport town centre. It's a fantastic place for wildlife with nesting birds like avocets and lapwings in the summer and pink-footed geese and wigeons in the winter months."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sefton_Coastal_Path_at_Formby_-_geograph.org.uk_-_2586013.jpg",
+      "title": "Sefton Coastal Path at Formby by Rob Noble, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sefton Coastal Path at Formby. Path signs near the car park. In this area look out for the Natterjack toad. Formby is one of a few sites in England where they will breed. If you are here on a spring evening listen for the male's distinctive song known locally as the 'Bootle Organ'. At these times the males gather at the edge of shallow pools in the dune slacks and sing to attract a mate."
+    }
+  ],
+  "distance_km": 34.0,
+  "description": "This wonderful walk takes you from Crosby to Southport along the beautiful Sefton coastline. The walk starts at Waterloo station in Crosby and heads to the coast via Crosby Marine Lake. You then head north to Hightown through the Dunes, passing the fascinating Another Place Sculptures on Crosby Beach. The Anthony Gormley piece was created in 1997, consisting of 100 cast iron figures facing towards the sea. The figures are modelled on the artist's own naked body which has caused some controversy. As the tides ebb and flow, the figures are revealed and submerged by the sea. The next section takes you to Formby where you will enter the captivating Ainsdale National Nature Reserve and Formby Beach. This is a well known spot for spotting the Natterjack Toad in the fabulous scenery of dunes, pinewoods and golden sand. Also look out for Red Squirrels, sand lizards and great-crested newts on this fantastic section of the walk. The final section of the walk takes you past Royal Birkdale Golf course (home of the Open) and onto the lovely seaside town of Southport with its magnificent pier. The path comes to end shortly after at Crossens. Here you can visit RSPB Marshside, a wildlife rich wetland nature reserve located on the southern side of the Ribble estuary. There's bird hides here and an informative visitor centre.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Pinewoods pub is located just to the east of the woods at the National Trust's Formby. They do good food and have a decent selection of ales. You can find them at Wicks Green with a postcode of L37 1PR for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the end of the route near Southport you can visit the Marton Mere and Mere Sands Wood Nature Reserves. They both have nice surfaced footpaths with lots of wildlife to see. You can link up with the epic Trans Pennine Trail here as well. The RSPB  At the other end of the route in Crosby you can visit the lovely Rimrose Valley Country Park. The park sits by the side of the Leeds and Liverpool Canal and includes the delightful Brookvale Local Nature Reserve.  For more walking ideas in the area see the Merseyside Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/WlteRR6bm8Y",
+  "postcode": "L22 0NH",
+  "district": "Liverpool",
+  "region": "Liverpool City Region",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "RockinRolls, 1A, Lorne Road, Waterloo, Crosby, Liverpool, Liverpool City Region, England, L22 0NH, United Kingdom",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 to 3 days",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "dune",
+    "pinewood"
+  ],
+  "points_of_interest": [
+    "sculpture",
+    "national nature reserve",
+    "golf course",
+    "pier",
+    "wildlife reserve"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

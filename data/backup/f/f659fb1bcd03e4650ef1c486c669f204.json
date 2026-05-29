@@ -1,110 +1,122 @@
 {
-    "created_at": "2025-01-06T05:07:21.852367+00:00",
-    "objectID": "f659fb1bcd03e4650ef1c486c669f204",
-    "ref": "trull-waterfall-walking-route",
-    "title": "Trull Waterfall Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg/500px-New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg",
-    "nearby": [
-        {
-            "description": "Channel to Channel",
-            "objectID": "1b77e498340cd766398e40aee3105021",
-            "ref": "channel-to-channel-walking-route"
-        },
-        {
-            "description": "West Deane Way",
-            "objectID": "3db14b768e9d01c63e18ddeb67beedb3",
-            "ref": "west-deane-way-walking-route"
-        },
-        {
-            "description": "Bridgwater and Taunton Canal",
-            "objectID": "e571e18a0e6613925af42440a1d55968",
-            "ref": "bridgwater-and-taunton-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Taunton",
-            "objectID": "e0ed76152ce029bd84f413930b813f70",
-            "ref": "taunton-walking-route"
-        },
-        {
-            "description": "Hestercombe House",
-            "objectID": "2f0b3b2ffb5465391f10e35a92b1d07a",
-            "ref": "hestercombe-house-walking-route"
-        },
-        {
-            "description": "Thurlbear Wood",
-            "objectID": "57b7abda75998447cc46021aec138dcf",
-            "ref": "thurlbear-wood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f659fb1bcd03e4650ef1c486c669f204.gpx",
-    "_geoloc": {
-        "lat": 50.9935986444,
-        "lng": -3.1189194627
+  "created_at": "2025-01-06T05:07:21.852367+00:00",
+  "objectID": "f659fb1bcd03e4650ef1c486c669f204",
+  "ref": "trull-waterfall-walking-route",
+  "title": "Trull Waterfall Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg/500px-New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg",
+  "nearby": [
+    {
+      "description": "Channel to Channel",
+      "objectID": "1b77e498340cd766398e40aee3105021",
+      "ref": "channel-to-channel-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg/500px-New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg",
-            "title": "New bridge at Trull waterfall by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "New bridge at Trull waterfall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298225.jpg/330px-Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298225.jpg",
-            "title": "Nick Chipchase / Waterfall and stream - Trull",
-            "caption": "The waterfall was originally constructed to make a mill stream to the mill. Today it makes a pleasant beauty spot."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298229.jpg/330px-Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298229.jpg",
-            "title": "Nick Chipchase / Waterfall and stream - Trull",
-            "caption": "Waterfall and stream"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Winchester_Arms_-_Trull_-_geograph.org.uk_-_1298214.jpg",
-            "title": "Nick Chipchase / Winchester Arms - Trull",
-            "caption": "Winchester Arms. The pub is located very close to the falls."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Waterfall_at_Three_Bridges%2C_Pitminster_-_geograph.org.uk_-_1207926.jpg",
-            "title": "Nick Chipchase / Waterfall at Three Bridges, Pitminster",
-            "caption": "Waterfall at Three Bridges, Pitminster Waterfall on the Trull to Pitminster footpath."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sherford_Stream_bridge_at_Trull_-_geograph.org.uk_-_2610956.jpg/500px-Sherford_Stream_bridge_at_Trull_-_geograph.org.uk_-_2610956.jpg",
-            "title": "Sherford Stream bridge at Trull by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sherford Stream bridge at Trull"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This walk visits the picturesque Trull Waterfall near Taunton in Somerset. The falls are something of a hidden gem with pleasant trails and a viewing bridge at the site. You can find the waterfall on the eastern side of the village of Trull. Here there are some nice footpaths along the Sherford Brook leading to the pretty falls and bridge. After admiring the falls you can continue south along the East Deane Way to visit Poundisford Park and neighbouring Pitminster. There is an old stone bridge and another waterfall to see on this section of the path.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Winchester Arms is located very close to the falls. They serve good quality food and have a pleasant garden area next to the stream. You can find them on Church Road at postcode TA3 7LG for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The shady trails make for a pleasant dog walk and the Winchester Arms mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your waterside walking in the area head into Taunton where you can pick up the towpath of the Bridgwater and Taunton Canal. For more walking ideas in the area see the Blackdown Hills Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/hZ-HWGmZPHM",
-    "county": "Somerset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Trull Church of England VA Primary School, Church Road, Staplehay, Taunton, Somerset, England, TA3 7JZ, United Kingdom",
-    "postcode": "TA3 7JZ",
-    "district": "Taunton",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "stream"],
-    "points_of_interest": ["waterfall", "bridge", "park"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "West Deane Way",
+      "objectID": "3db14b768e9d01c63e18ddeb67beedb3",
+      "ref": "west-deane-way-walking-route"
+    },
+    {
+      "description": "Bridgwater and Taunton Canal",
+      "objectID": "e571e18a0e6613925af42440a1d55968",
+      "ref": "bridgwater-and-taunton-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Taunton",
+      "objectID": "e0ed76152ce029bd84f413930b813f70",
+      "ref": "taunton-walking-route"
+    },
+    {
+      "description": "Hestercombe House",
+      "objectID": "2f0b3b2ffb5465391f10e35a92b1d07a",
+      "ref": "hestercombe-house-walking-route"
+    },
+    {
+      "description": "Thurlbear Wood",
+      "objectID": "57b7abda75998447cc46021aec138dcf",
+      "ref": "thurlbear-wood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f659fb1bcd03e4650ef1c486c669f204.gpx",
+  "_geoloc": {
+    "lat": 50.9935986444,
+    "lng": -3.1189194627
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg/500px-New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg",
+      "title": "New bridge at Trull waterfall by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "New bridge at Trull waterfall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298225.jpg/330px-Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298225.jpg",
+      "title": "Nick Chipchase / Waterfall and stream - Trull",
+      "caption": "The waterfall was originally constructed to make a mill stream to the mill. Today it makes a pleasant beauty spot."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298229.jpg/330px-Waterfall_and_stream_-_Trull_-_geograph.org.uk_-_1298229.jpg",
+      "title": "Nick Chipchase / Waterfall and stream - Trull",
+      "caption": "Waterfall and stream"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Winchester_Arms_-_Trull_-_geograph.org.uk_-_1298214.jpg",
+      "title": "Nick Chipchase / Winchester Arms - Trull",
+      "caption": "Winchester Arms. The pub is located very close to the falls."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Waterfall_at_Three_Bridges%2C_Pitminster_-_geograph.org.uk_-_1207926.jpg",
+      "title": "Nick Chipchase / Waterfall at Three Bridges, Pitminster",
+      "caption": "Waterfall at Three Bridges, Pitminster Waterfall on the Trull to Pitminster footpath."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sherford_Stream_bridge_at_Trull_-_geograph.org.uk_-_2610956.jpg/500px-Sherford_Stream_bridge_at_Trull_-_geograph.org.uk_-_2610956.jpg",
+      "title": "Sherford Stream bridge at Trull by Nick Chipchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sherford Stream bridge at Trull"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This walk visits the picturesque Trull Waterfall near Taunton in Somerset. The falls are something of a hidden gem with pleasant trails and a viewing bridge at the site. You can find the waterfall on the eastern side of the village of Trull. Here there are some nice footpaths along the Sherford Brook leading to the pretty falls and bridge. After admiring the falls you can continue south along the East Deane Way to visit Poundisford Park and neighbouring Pitminster. There is an old stone bridge and another waterfall to see on this section of the path.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Winchester Arms is located very close to the falls. They serve good quality food and have a pleasant garden area next to the stream. You can find them on Church Road at postcode TA3 7LG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The shady trails make for a pleasant dog walk and the Winchester Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your waterside walking in the area head into Taunton where you can pick up the towpath of the Bridgwater and Taunton Canal. For more walking ideas in the area see the Blackdown Hills Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/hZ-HWGmZPHM",
+  "county": "Somerset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Trull Church of England VA Primary School, Church Road, Staplehay, Taunton, Somerset, England, TA3 7JZ, United Kingdom",
+  "postcode": "TA3 7JZ",
+  "district": "Taunton",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

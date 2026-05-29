@@ -1,92 +1,101 @@
 {
-    "created_at": "2025-01-06T11:06:10.651637+00:00",
-    "objectID": "240d6ed7b109c21ed6c59089c8c2e604",
-    "ref": "connaught-water-walking-route",
-    "title": "Connaught Water Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Connaught_Water_-_geograph.org.uk_-_1523825.jpg",
-    "nearby": [
-        {
-            "description": "Knighton Wood",
-            "objectID": "a8f4704a80b4f806e87b015091693413",
-            "ref": "knighton-wood-walking-route"
-        },
-        {
-            "description": "Epping Forest Centenary Walk",
-            "objectID": "32036a824f363c63a506db41e73c5715",
-            "ref": "epping-forest-centenary-walk-walking-route"
-        },
-        {
-            "description": "London Loop",
-            "objectID": "2b405d14b22f13eb43479ae8a57645c7",
-            "ref": "london-loop-walking-route"
-        },
-        {
-            "description": "Wanstead Flats",
-            "objectID": "eb855cbf85bf6ff3b2b19f0f7eb33ef0",
-            "ref": "wanstead-flats-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/240d6ed7b109c21ed6c59089c8c2e604.gpx",
-    "_geoloc": {
-        "lat": 51.6370560364,
-        "lng": 0.0281039839
+  "created_at": "2025-01-06T11:06:10.651637+00:00",
+  "objectID": "240d6ed7b109c21ed6c59089c8c2e604",
+  "ref": "connaught-water-walking-route",
+  "title": "Connaught Water Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Connaught_Water_-_geograph.org.uk_-_1523825.jpg",
+  "nearby": [
+    {
+      "description": "Knighton Wood",
+      "objectID": "a8f4704a80b4f806e87b015091693413",
+      "ref": "knighton-wood-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Connaught_Water_-_geograph.org.uk_-_1523825.jpg",
-            "title": "Stephen McKay [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Connaught Water. A set of signs gives some basic information, and prohibits various activities, close to the Connaught Water car park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Waterlilies_and_Coots_on_Connaught_Water_-_geograph.org.uk_-_921372.jpg",
-            "title": "Sarah Charlesworth [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Waterlilies and Coots on Connaught Water. Named after the first Ranger of Epping Forest, Queen Victoria's son Arthur, Duke of Connaught, this pond was first created in 1880 to drain a marshy area of the forest. It was used as a paddling pool and later as a boating lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forest_Boardwalk_-_geograph.org.uk_-_3448246.jpg/500px-Forest_Boardwalk_-_geograph.org.uk_-_3448246.jpg",
-            "title": "Forest Boardwalk by Tony Peacock, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forest Boardwalk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ducks_on_a_log%2C_Connaught_Water_-_geograph.org.uk_-_4036890.jpg/500px-Ducks_on_a_log%2C_Connaught_Water_-_geograph.org.uk_-_4036890.jpg",
-            "title": "Ducks on a log, Connaught Water by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ducks on a log, Connaught Water. A mid summer view of the site and woodland."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Grimston%27s_Oak%2C_Epping_Forest_-_geograph.org.uk_-_2422391.jpg/500px-Grimston%27s_Oak%2C_Epping_Forest_-_geograph.org.uk_-_2422391.jpg",
-            "title": "Grimston's Oak, Epping Forest by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Grimston's Oak, Epping Forest. This impressive 350 year old oak tree lies just to the north of the lake and is worth a visit."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Epping_Forest_-_geograph.org.uk_-_3446090.jpg/500px-Epping_Forest_-_geograph.org.uk_-_3446090.jpg",
-            "title": "Epping Forest by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "An open area in the forest, just to the south west of the site."
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "This pretty lake in Epping Forest has a nice circular walking trail around its perimeter. It's a nice easy stroll with the option of extending your walk into the surrounding woodland. The path is surfaced and fully accessible having recently been landscaped as part of the Heritage Lottery Funded Branching Out Project. A splendid boardwalk has also been created so you can enjoy a stroll above the water. As you walk around the site look out for wildlife including coots, swans, geese and great crested grebes on the lake. The area has good facilities with a car park just off Rangers Road. You can see this on the google street view link below. If you feel like stretching your legs further, you can pick up the Epping Forest Centenary Walk which runs past the lake. Follow it north to further explore the forest on waymarked footpaths. Head south and you can visit the Highams Park and Knighton Wood .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A short stroll south west from the lake will take you to the noteworthy Queen Elizabeth's Hunting Lodge. This Grade II listed former hunting lodge, is now a museum, on the edge of Epping Forest. It was built in 1543 for King Henry VIII and now provides an insight into the Tudor history of the forest. It's well worth exploring with the additonal bonus of some lovely views over the forest from the top floor of the building. You can find it next to the Chingford Visitor centre at a postcode of E4 7QH. The Chingford Walk starts at the nearby train station and visits the lodge before heading to Connaught Water, Higham Park and the lovely Wanstead Flats. It's a nice way of visiting the site and some of the area's other highlights. The circular Theydon Bois Oak Trail can be picked up on the eastern side of the forest at Theydon Bois underground station. The challenging trail visits Ambresbury Banks Iron Age Fort and a Deer Sanctuary near the village. The circular walk from Loughton visits the lake from the nearby town's London Underground station. It's an attractive place worthy of exploration with dozens of historic listed buildings and three conservation areas. The route also visits the Roding Valley Meadows nature reserve on the River Roding."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/lgBEKGTUDn4",
-    "county": "Essex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Main footpath, Loughton, Sewardstonebury, Epping Forest, Essex, England, IG9 5UA, United Kingdom",
-    "postcode": "IG9 5UA",
-    "district": "Epping Forest",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1-2 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland", "waterfront"],
-    "points_of_interest": ["footpath"],
-    "facilities": ["car park", "boardwalk"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Epping Forest Centenary Walk",
+      "objectID": "32036a824f363c63a506db41e73c5715",
+      "ref": "epping-forest-centenary-walk-walking-route"
+    },
+    {
+      "description": "London Loop",
+      "objectID": "2b405d14b22f13eb43479ae8a57645c7",
+      "ref": "london-loop-walking-route"
+    },
+    {
+      "description": "Wanstead Flats",
+      "objectID": "eb855cbf85bf6ff3b2b19f0f7eb33ef0",
+      "ref": "wanstead-flats-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/240d6ed7b109c21ed6c59089c8c2e604.gpx",
+  "_geoloc": {
+    "lat": 51.6370560364,
+    "lng": 0.0281039839
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Connaught_Water_-_geograph.org.uk_-_1523825.jpg",
+      "title": "Stephen McKay [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Connaught Water. A set of signs gives some basic information, and prohibits various activities, close to the Connaught Water car park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Waterlilies_and_Coots_on_Connaught_Water_-_geograph.org.uk_-_921372.jpg",
+      "title": "Sarah Charlesworth [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Waterlilies and Coots on Connaught Water. Named after the first Ranger of Epping Forest, Queen Victoria's son Arthur, Duke of Connaught, this pond was first created in 1880 to drain a marshy area of the forest. It was used as a paddling pool and later as a boating lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forest_Boardwalk_-_geograph.org.uk_-_3448246.jpg/500px-Forest_Boardwalk_-_geograph.org.uk_-_3448246.jpg",
+      "title": "Forest Boardwalk by Tony Peacock, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forest Boardwalk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ducks_on_a_log%2C_Connaught_Water_-_geograph.org.uk_-_4036890.jpg/500px-Ducks_on_a_log%2C_Connaught_Water_-_geograph.org.uk_-_4036890.jpg",
+      "title": "Ducks on a log, Connaught Water by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ducks on a log, Connaught Water. A mid summer view of the site and woodland."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Grimston%27s_Oak%2C_Epping_Forest_-_geograph.org.uk_-_2422391.jpg/500px-Grimston%27s_Oak%2C_Epping_Forest_-_geograph.org.uk_-_2422391.jpg",
+      "title": "Grimston's Oak, Epping Forest by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Grimston's Oak, Epping Forest. This impressive 350 year old oak tree lies just to the north of the lake and is worth a visit."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Epping_Forest_-_geograph.org.uk_-_3446090.jpg/500px-Epping_Forest_-_geograph.org.uk_-_3446090.jpg",
+      "title": "Epping Forest by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "An open area in the forest, just to the south west of the site."
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "This pretty lake in Epping Forest has a nice circular walking trail around its perimeter. It's a nice easy stroll with the option of extending your walk into the surrounding woodland. The path is surfaced and fully accessible having recently been landscaped as part of the Heritage Lottery Funded Branching Out Project. A splendid boardwalk has also been created so you can enjoy a stroll above the water. As you walk around the site look out for wildlife including coots, swans, geese and great crested grebes on the lake. The area has good facilities with a car park just off Rangers Road. You can see this on the google street view link below. If you feel like stretching your legs further, you can pick up the Epping Forest Centenary Walk which runs past the lake. Follow it north to further explore the forest on waymarked footpaths. Head south and you can visit the Highams Park and Knighton Wood .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A short stroll south west from the lake will take you to the noteworthy Queen Elizabeth's Hunting Lodge. This Grade II listed former hunting lodge, is now a museum, on the edge of Epping Forest. It was built in 1543 for King Henry VIII and now provides an insight into the Tudor history of the forest. It's well worth exploring with the additonal bonus of some lovely views over the forest from the top floor of the building. You can find it next to the Chingford Visitor centre at a postcode of E4 7QH. The Chingford Walk starts at the nearby train station and visits the lodge before heading to Connaught Water, Higham Park and the lovely Wanstead Flats. It's a nice way of visiting the site and some of the area's other highlights. The circular Theydon Bois Oak Trail can be picked up on the eastern side of the forest at Theydon Bois underground station. The challenging trail visits Ambresbury Banks Iron Age Fort and a Deer Sanctuary near the village. The circular walk from Loughton visits the lake from the nearby town's London Underground station. It's an attractive place worthy of exploration with dozens of historic listed buildings and three conservation areas. The route also visits the Roding Valley Meadows nature reserve on the River Roding."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/lgBEKGTUDn4",
+  "county": "Essex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Main footpath, Loughton, Sewardstonebury, Epping Forest, Essex, England, IG9 5UA, United Kingdom",
+  "postcode": "IG9 5UA",
+  "district": "Epping Forest",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

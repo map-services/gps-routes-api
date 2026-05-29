@@ -1,127 +1,115 @@
 {
-  "created_at": "2025-01-06T02:33:29.737163+00:00",
-  "objectID": "7c0e4abdb6dc69167a54c62405735332",
-  "ref": "ulley-country-park-walking-and-cycle-route",
-  "title": "Ulley Reservoir Country Park Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulley_Reservoir_-_geograph.org.uk_-_540904.jpg",
-  "nearby": [
-    {
-      "description": "Rotherham to Worksop",
-      "objectID": "ca22b390520c9f90eabeb4d387f60266",
-      "ref": "rotherham-to-worksop-cycle-route"
+    "created_at": "2025-01-06T02:33:29.737163+00:00",
+    "objectID": "7c0e4abdb6dc69167a54c62405735332",
+    "ref": "ulley-country-park-walking-and-cycle-route",
+    "title": "Ulley Reservoir Country Park Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulley_Reservoir_-_geograph.org.uk_-_540904.jpg",
+    "nearby": [
+        {
+            "description": "Rotherham to Worksop",
+            "objectID": "ca22b390520c9f90eabeb4d387f60266",
+            "ref": "rotherham-to-worksop-cycle-route"
+        },
+        {
+            "description": "Rotherham Round Walk",
+            "objectID": "7fdc6fb2f7fea331856378985222adb9",
+            "ref": "rotherham-round-walk-walking-route"
+        },
+        {
+            "description": "Treeton Dyke",
+            "objectID": "765810f47fc9f5d8c01694d596a1380b",
+            "ref": "treeton-dyke-walking-route"
+        },
+        {
+            "description": "Thrybergh Country Park",
+            "objectID": "5af15a0df48fd4a15278185c598e95b3",
+            "ref": "thrybergh-country-park-walking-route"
+        },
+        {
+            "description": "Wickersley Woods",
+            "objectID": "c54e6b264745ad62de282db9c90ebc2d",
+            "ref": "wickersley-woods-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7c0e4abdb6dc69167a54c62405735332.gpx",
+    "_geoloc": {
+        "lat": 53.3827159492,
+        "lng": -1.3210756578
     },
-    {
-      "description": "Rotherham Round Walk",
-      "objectID": "7fdc6fb2f7fea331856378985222adb9",
-      "ref": "rotherham-round-walk-walking-route"
-    },
-    {
-      "description": "Treeton Dyke",
-      "objectID": "765810f47fc9f5d8c01694d596a1380b",
-      "ref": "treeton-dyke-walking-route"
-    },
-    {
-      "description": "Thrybergh Country Park",
-      "objectID": "5af15a0df48fd4a15278185c598e95b3",
-      "ref": "thrybergh-country-park-walking-route"
-    },
-    {
-      "description": "Wickersley Woods",
-      "objectID": "c54e6b264745ad62de282db9c90ebc2d",
-      "ref": "wickersley-woods-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7c0e4abdb6dc69167a54c62405735332.gpx",
-  "_geoloc": {
-    "lat": 53.3827159492,
-    "lng": -1.3210756578
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulley_Reservoir_-_geograph.org.uk_-_540904.jpg",
-      "title": "Stephen McKay / Ulley Reservoir",
-      "caption": "Ulley Reservoir. Looking towards the top end of one fork of the reservoir in the valley of a stream that originates near Thurcroft."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ulley_Reservoir_-_geograph.org.uk_-_540908.jpg",
-      "title": "Stephen McKay / Ulley Reservoir",
-      "caption": "Ulley Reservoir became the subject of a major national news story in June 2007 when, following exceptionally heavy rain, engineers warned that there was a serious risk of the dam bursting, with potentially catastrophic results for places further down the valley. People were evacuated from Catcliffe and the M1 was closed for a period. Water was pumped out and fortunately the dam held; work is now taking place to strengthen the structure. Note that despite the wet summer, water levels are low."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ulley_Reservoir_-_geograph.org.uk_-_956779.jpg",
-      "title": "Alan Heardman / Ulley Reservoir",
-      "caption": "This wooded footpath is closed at this point where it approaches the dam wall, as reinforcment work appears to be still taking place following the floods of June 2007."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Entrance_to_Ulley_Country_Park_-_geograph.org.uk_-_1323542.jpg",
-      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Entrance to Ulley Country Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ulley_Reservoir_-_Overflow_-_geograph.org.uk_-_4006627.jpg",
-      "title": "Ulley Reservoir - Overflow by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The overflow at the northern end of the lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ulley_Reservoir_-_Footpath_rounding_the_end_section_-_geograph.org.uk_-_4006644.jpg",
-      "title": "Ulley Reservoir - Footpath rounding the end section by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footpath rounding the end section next to the Ulley Brook."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ulley_and_village_sign_-_geograph.org.uk_-_3228447.jpg/500px-Ulley_and_village_sign_-_geograph.org.uk_-_3228447.jpg",
-      "title": "Ulley and village sign by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "A view of the main street in Ulley village which lies just to the east."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/South_end_of_Ulley_Reservoir_-_geograph.org.uk_-_3228589.jpg/500px-South_end_of_Ulley_Reservoir_-_geograph.org.uk_-_3228589.jpg",
-      "title": "South end of Ulley Reservoir by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "South end of the lake in autumn"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "Enjoy a short walk or cycle around the beautiful Ulley Reservoir near Rotherham. There are lovely paved paths around the reservoir and fanatastic views of the surrounding Yorkshire countryside. It's also great for birdwatching with a number of water loving birds to see on the water. You can start your exercise from the car park on the north western side of the site. National Cycle Route 6 runs past the park so you could continue your ride along the Rotherham to Worksop cycle route. If you're on foot then head north to Guilthwaite and you could pick up the Rotherham Round Walk. The waymarked trail explores the area around the town. If you follow it north west there's a nice section along the River Rother into the town centre.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There's a small on site cafe which opens intermittently. Just to the south of the park there's the Robin Hood Inn in the village of Aughton as a back up. The country pub does good quality home cooked food with a decent selection of ales. It has some history too with parts dating from the 1600s. You can find them at 64 Main St with a postcode of S26 3XJ for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The lakeside trail is a lovely one to do with your dog. The Robin Hood Inn mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the west of the park there's the Treeton Wood, Treeton Dyke and Hail Mary Hill Wood Nature Reserve to visit. The splendid Wentworth Woodhouse is another good option in the Rotherham area. The Grade I listed house is surrounded by some lovely parkland walks. Head south and there's more pleasant waterside walking around Harthill Reservoir and Pebley Reservoir near Barlborough. A few miles to the north there's a lovely lakeside trail and lots of wildlife to see in the popular Thrybergh Country Park. The peaceful woodland trails in Wickersley Woods are also located near here."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/P5G4wzLTtL4",
-  "region": "South Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Ulley Country Park Sailing Club, Pleasley Road, Aston cum Aughton, Aughton, Rotherham, South Yorkshire, England, S26 3XL, United Kingdom",
-  "postcode": "S26 3XL",
-  "district": "Rotherham",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1-2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "paved path",
-    "river"
-  ],
-  "points_of_interest": [
-    "countryside views",
-    "town centre"
-  ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ulley_Reservoir_-_geograph.org.uk_-_540904.jpg",
+            "title": "Stephen McKay / Ulley Reservoir",
+            "caption": "Ulley Reservoir. Looking towards the top end of one fork of the reservoir in the valley of a stream that originates near Thurcroft."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ulley_Reservoir_-_geograph.org.uk_-_540908.jpg",
+            "title": "Stephen McKay / Ulley Reservoir",
+            "caption": "Ulley Reservoir became the subject of a major national news story in June 2007 when, following exceptionally heavy rain, engineers warned that there was a serious risk of the dam bursting, with potentially catastrophic results for places further down the valley. People were evacuated from Catcliffe and the M1 was closed for a period. Water was pumped out and fortunately the dam held; work is now taking place to strengthen the structure. Note that despite the wet summer, water levels are low."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ulley_Reservoir_-_geograph.org.uk_-_956779.jpg",
+            "title": "Alan Heardman / Ulley Reservoir",
+            "caption": "This wooded footpath is closed at this point where it approaches the dam wall, as reinforcment work appears to be still taking place following the floods of June 2007."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Entrance_to_Ulley_Country_Park_-_geograph.org.uk_-_1323542.jpg",
+            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Entrance to Ulley Country Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ulley_Reservoir_-_Overflow_-_geograph.org.uk_-_4006627.jpg",
+            "title": "Ulley Reservoir - Overflow by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The overflow at the northern end of the lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ulley_Reservoir_-_Footpath_rounding_the_end_section_-_geograph.org.uk_-_4006644.jpg",
+            "title": "Ulley Reservoir - Footpath rounding the end section by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footpath rounding the end section next to the Ulley Brook."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ulley_and_village_sign_-_geograph.org.uk_-_3228447.jpg/500px-Ulley_and_village_sign_-_geograph.org.uk_-_3228447.jpg",
+            "title": "Ulley and village sign by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "A view of the main street in Ulley village which lies just to the east."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/South_end_of_Ulley_Reservoir_-_geograph.org.uk_-_3228589.jpg/500px-South_end_of_Ulley_Reservoir_-_geograph.org.uk_-_3228589.jpg",
+            "title": "South end of Ulley Reservoir by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "South end of the lake in autumn"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "Enjoy a short walk or cycle around the beautiful Ulley Reservoir near Rotherham. There are lovely paved paths around the reservoir and fanatastic views of the surrounding Yorkshire countryside. It's also great for birdwatching with a number of water loving birds to see on the water. You can start your exercise from the car park on the north western side of the site. National Cycle Route 6 runs past the park so you could continue your ride along the Rotherham to Worksop cycle route. If you're on foot then head north to Guilthwaite and you could pick up the Rotherham Round Walk. The waymarked trail explores the area around the town. If you follow it north west there's a nice section along the River Rother into the town centre.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There's a small on site cafe which opens intermittently. Just to the south of the park there's the Robin Hood Inn in the village of Aughton as a back up. The country pub does good quality home cooked food with a decent selection of ales. It has some history too with parts dating from the 1600s. You can find them at 64 Main St with a postcode of S26 3XJ for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The lakeside trail is a lovely one to do with your dog. The Robin Hood Inn mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the west of the park there's the Treeton Wood, Treeton Dyke and Hail Mary Hill Wood Nature Reserve to visit. The splendid Wentworth Woodhouse is another good option in the Rotherham area. The Grade I listed house is surrounded by some lovely parkland walks. Head south and there's more pleasant waterside walking around Harthill Reservoir and Pebley Reservoir near Barlborough. A few miles to the north there's a lovely lakeside trail and lots of wildlife to see in the popular Thrybergh Country Park. The peaceful woodland trails in Wickersley Woods are also located near here."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/P5G4wzLTtL4",
+    "region": "South Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Ulley Country Park Sailing Club, Pleasley Road, Aston cum Aughton, Aughton, Rotherham, South Yorkshire, England, S26 3XL, United Kingdom",
+    "postcode": "S26 3XL",
+    "district": "Rotherham",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["paved path"],
+    "points_of_interest": ["viewpoint"],
+    "facilities": ["cafe", "car park", "pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling", "bird watching"]
 }

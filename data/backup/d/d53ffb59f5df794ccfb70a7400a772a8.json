@@ -110,20 +110,23 @@
   "display_address": "Middlewood Way, Tytherington, Macclesfield, Cheshire East, England, SK10 2EE, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "paved"
+    "off road"
   ],
   "points_of_interest": [
-    "canal"
+    "canal",
+    "marina"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

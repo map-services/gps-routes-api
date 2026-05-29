@@ -1,135 +1,150 @@
 {
-    "created_at": "2025-01-06T04:37:34.838646+00:00",
-    "objectID": "18d04e2f7f77fa56b81dd4290e00247c",
-    "ref": "seven-sisters-country-park-walking-and-cycle-route",
-    "title": "Seven Sisters Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Seven_Sisters_Country_Park_Sign_-_geograph.org.uk_-_1282013.jpg",
-    "nearby": [
-        {
-            "description": "Friston Forest",
-            "objectID": "9ead072fe8787863a85a9616a87c98e8",
-            "ref": "friston-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Long Man of Wilmington",
-            "objectID": "fea9e1017ec89affc98fc775a60ac81e",
-            "ref": "long-man-of-wilmington-walking-route"
-        },
-        {
-            "description": "Cuckmere River and Cuckmere Haven",
-            "objectID": "0031e72eff78feeb55c5999ef91a5511",
-            "ref": "cuckmere-river-and-cuckmere-haven-walking-route"
-        },
-        {
-            "description": "The South Downs Way",
-            "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
-            "ref": "the-south-downs-way-walking-route"
-        },
-        {
-            "description": "South Downs Circular Walk",
-            "objectID": "d349f66997f6207ca59257c96b3c1c79",
-            "ref": "south-downs-circular-walk-walking-route"
-        },
-        {
-            "description": "Seaford to Eastbourne",
-            "objectID": "11b3cd68add3a7e458f139523d9a3fc9",
-            "ref": "seaford-to-eastbourne-walking-route"
-        },
-        {
-            "description": "Beachy Head",
-            "objectID": "bb7945ac0629e5882929a64e8f9be3ad",
-            "ref": "beachy-head-walking-route"
-        },
-        {
-            "description": "Exceat to Eastbourne Walk",
-            "objectID": "43db26c83fc899613cea8aa5d90d3107",
-            "ref": "exceat-to-eastbourne-walk-walking-route"
-        },
-        {
-            "description": "Seaford",
-            "objectID": "89116560f817741153e1999bc1f153d7",
-            "ref": "seaford-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/18d04e2f7f77fa56b81dd4290e00247c.gpx",
-    "_geoloc": {
-        "lat": 50.743002296,
-        "lng": 0.2016928934
+  "created_at": "2025-01-06T04:37:34.838646+00:00",
+  "objectID": "18d04e2f7f77fa56b81dd4290e00247c",
+  "ref": "seven-sisters-country-park-walking-and-cycle-route",
+  "title": "Seven Sisters Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Seven_Sisters_Country_Park_Sign_-_geograph.org.uk_-_1282013.jpg",
+  "nearby": [
+    {
+      "description": "Friston Forest",
+      "objectID": "9ead072fe8787863a85a9616a87c98e8",
+      "ref": "friston-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Seven_Sisters_Country_Park_Sign_-_geograph.org.uk_-_1282013.jpg",
-            "title": "Nigel Chadwick [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Seven Sisters Country Park Sign"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cuckmere_River_at_Seven_Sisters_Country_Park.JPG/500px-Cuckmere_River_at_Seven_Sisters_Country_Park.JPG",
-            "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-            "caption": "Cuckmere River in the park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bike_Hire_Centre%2C_Seven_Sisters_Country_Park_-_geograph.org.uk_-_1281124.jpg",
-            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
-            "caption": "Bike Hire Centre, Seven Sisters Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Seven_Sisters_Country_Park_Visitors_Centre_-_geograph.org.uk_-_784078.jpg",
-            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
-            "caption": "Seven Sisters Country Park Visitors Centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seven_Sisters_cliffs_and_the_coastguard_cottages%2C_from_Seaford_Head_showing_Cuckmere_Haven_%28looking_east_-_2003-05-26%29.jpg",
-            "title": "The original uploader was StephenDawson at English Wikipedia. [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Seven Sisters cliffs and the coastguard cottages, from Seaford Head showing Cuckmere Haven (looking east"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Meanders_near_the_mouth_of_the_Cuckmere_-_geograph.org.uk_-_30825.jpg",
-            "title": "Val Vannet / Meanders near the mouth of the Cuckmere",
-            "caption": "Meanders near the mouth of the Cuckmere"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Birling_Gap_-_geograph.org.uk_-_1272592.jpg",
-            "title": "Simon Carey / Birling Gap, via Wikimedia Commons",
-            "caption": "Birling Gap. The few houses in the small hamlet are actually located on either side of this private road which also carries the bridleway from East Dean and footpath from the cliff tops of the Seven Sisters. The rooftops in the distance mark the site of the hotel, bar and tea rooms whilst beyond are the fishermans cottages which are now uninhabited."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Friston_Forest_-_geograph.org.uk_-_1272307.jpg",
-            "title": "Simon Carey / Friston Forest, via Wikimedia Commons",
-            "caption": "Friston Forest. Viewed from the northern side of Charleston Bottom. The forest is an early 20th century plantation on former open downland currently owned by Southern Water who lease it to the Forestry Commission. All tracks within the forest are open access for walkers though cyclists and horse riders have to stick to specifically marked ones."
-        }
-    ],
-    "distance_km": 5.5,
-    "description": "Explore nearly 700 acres of parkland and coast on this delightful circular walk through the South Downs. The Country Park is named after the famous Seven Sisters chalk cliffs on the Sussex Heritage Coast. On the route you will enjoy fabulous views of the Cuckmere river before heading towards the beautiful coastline. The walk starts from the country park visitor centre next to Exceat Bridge at a postcode of BN25 4AB for your sat navs. From here you can pick up the South Downs Way National Trail and follow the waymarked path south along the Cuckmere River to the Seven Sisters cliffs. The path then heads east along the wonderful coast path to a significant landmark at Birling Gap. This special area is run by the National Trust and includes the famous Belle Tout lighthouse. There's also fabulous views along to the nearby Beachy Head and 500 acres of open chalk grassland with a wide variety of butterflies and wildflowers to look out for. The route then leaves the coast and heads north towards Friston Forest where you can enjoy some nice woodland trails and look out for rare butterflies and deer. These trails will lead you west back to the visitor centre where the route finishes. There are a number of other footpaths and trails in the Park - further information and trail maps can be found in the Visitor Centre. Cycling is permitted on the valley floor and there is a concrete track which offers access to the beach. Mountain biking is also popular in Friston Forest so much of this area is great for cyclists as well as walkers.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Saltmarsh Cafe & Rooms is located in the park and a good choice for some post walk refreshments. The delightful cafe is set in a 16th Century farmhouse and includes a pretty courtyard where you can relax on warmer days. The rustic caf\u00e9, kitchen and bar serves a delicious menu with a focus on fresh Sussex produce. Dishes make good use of foraged and seasonal ingredients for a rich and distinctive flavour. Saltmarsh also does high quality accommodation if you'd like to stay in the area. You can find the cafe near the start of the walk in Exceat, on the East Dean Road at postcode BN25 4AD. On the route there's also the option of stopping off at the Tiger Inn in the village of Friston. It's a quintessentially English pub, with its open fire, low-slung oak beams, real ales and hearty food. Dating from the 16th century the pub has been serving surrounding residents, farmers, soldiers, walkers, and smugglers for hundreds of years. There's a nice large outdoor area looking onto the pretty village green. It's a great spot to rest your legs and enjoy a drink before continuing the walk. You can find the pub in the centre of the village at a postcode of BN20 0BY."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The area is a popular place for dog walking and you will probably see plenty of other owners on your exercise. The paths do often run very close to the cliffs so please take care in these areas. Dogs are also welcome in the outdoor courtyard of the Saltmarsh cafe and in the bar area of the Tiger Inn mentioned above."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "If you would like to do the Seven Sisters walk from London then you can catch a train to nearby Seaford from London Victoria station. You can then follow the coast path past Cuckmere Haven to the park. Alternatively you can catch the train to Eastbourne and visit the cliffs by walking along the South Downs Way via Beachy Head which lies just to the east of the cliffs. If you'd like to continue your walking in the area then you could pick up the Cuckmere River footpath and head towards Alfriston and climb up to the Long Man of Wilmington. The Exceat to Eastbourne Walk starts from the Exceat visitor centre in the park and takes you all the way to the coastal town. It's about a 10 mile walk and a popular one to do in the summer months."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/XB0ykhV3IOg",
-    "district": "Wealden",
-    "county": "East Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Birling Gap Road, East Dean and Friston, Birling Gap, Wealden, East Sussex, England, BN20 0AB, United Kingdom",
-    "postcode": "BN20 0AB",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["coastal", "woodland", "grassland"],
-    "points_of_interest": ["landmark", "lighthouse", "trail"],
-    "facilities": ["visitor center", "car park", "footpath", "beach access"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Long Man of Wilmington",
+      "objectID": "fea9e1017ec89affc98fc775a60ac81e",
+      "ref": "long-man-of-wilmington-walking-route"
+    },
+    {
+      "description": "Cuckmere River and Cuckmere Haven",
+      "objectID": "0031e72eff78feeb55c5999ef91a5511",
+      "ref": "cuckmere-river-and-cuckmere-haven-walking-route"
+    },
+    {
+      "description": "The South Downs Way",
+      "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
+      "ref": "the-south-downs-way-walking-route"
+    },
+    {
+      "description": "South Downs Circular Walk",
+      "objectID": "d349f66997f6207ca59257c96b3c1c79",
+      "ref": "south-downs-circular-walk-walking-route"
+    },
+    {
+      "description": "Seaford to Eastbourne",
+      "objectID": "11b3cd68add3a7e458f139523d9a3fc9",
+      "ref": "seaford-to-eastbourne-walking-route"
+    },
+    {
+      "description": "Beachy Head",
+      "objectID": "bb7945ac0629e5882929a64e8f9be3ad",
+      "ref": "beachy-head-walking-route"
+    },
+    {
+      "description": "Exceat to Eastbourne Walk",
+      "objectID": "43db26c83fc899613cea8aa5d90d3107",
+      "ref": "exceat-to-eastbourne-walk-walking-route"
+    },
+    {
+      "description": "Seaford",
+      "objectID": "89116560f817741153e1999bc1f153d7",
+      "ref": "seaford-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/18d04e2f7f77fa56b81dd4290e00247c.gpx",
+  "_geoloc": {
+    "lat": 50.743002296,
+    "lng": 0.2016928934
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Seven_Sisters_Country_Park_Sign_-_geograph.org.uk_-_1282013.jpg",
+      "title": "Nigel Chadwick [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Seven Sisters Country Park Sign"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cuckmere_River_at_Seven_Sisters_Country_Park.JPG/500px-Cuckmere_River_at_Seven_Sisters_Country_Park.JPG",
+      "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+      "caption": "Cuckmere River in the park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bike_Hire_Centre%2C_Seven_Sisters_Country_Park_-_geograph.org.uk_-_1281124.jpg",
+      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
+      "caption": "Bike Hire Centre, Seven Sisters Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Seven_Sisters_Country_Park_Visitors_Centre_-_geograph.org.uk_-_784078.jpg",
+      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
+      "caption": "Seven Sisters Country Park Visitors Centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seven_Sisters_cliffs_and_the_coastguard_cottages%2C_from_Seaford_Head_showing_Cuckmere_Haven_%28looking_east_-_2003-05-26%29.jpg",
+      "title": "The original uploader was StephenDawson at English Wikipedia. [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Seven Sisters cliffs and the coastguard cottages, from Seaford Head showing Cuckmere Haven (looking east"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Meanders_near_the_mouth_of_the_Cuckmere_-_geograph.org.uk_-_30825.jpg",
+      "title": "Val Vannet / Meanders near the mouth of the Cuckmere",
+      "caption": "Meanders near the mouth of the Cuckmere"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Birling_Gap_-_geograph.org.uk_-_1272592.jpg",
+      "title": "Simon Carey / Birling Gap, via Wikimedia Commons",
+      "caption": "Birling Gap. The few houses in the small hamlet are actually located on either side of this private road which also carries the bridleway from East Dean and footpath from the cliff tops of the Seven Sisters. The rooftops in the distance mark the site of the hotel, bar and tea rooms whilst beyond are the fishermans cottages which are now uninhabited."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Friston_Forest_-_geograph.org.uk_-_1272307.jpg",
+      "title": "Simon Carey / Friston Forest, via Wikimedia Commons",
+      "caption": "Friston Forest. Viewed from the northern side of Charleston Bottom. The forest is an early 20th century plantation on former open downland currently owned by Southern Water who lease it to the Forestry Commission. All tracks within the forest are open access for walkers though cyclists and horse riders have to stick to specifically marked ones."
+    }
+  ],
+  "distance_km": 5.5,
+  "description": "Explore nearly 700 acres of parkland and coast on this delightful circular walk through the South Downs. The Country Park is named after the famous Seven Sisters chalk cliffs on the Sussex Heritage Coast. On the route you will enjoy fabulous views of the Cuckmere river before heading towards the beautiful coastline. The walk starts from the country park visitor centre next to Exceat Bridge at a postcode of BN25 4AB for your sat navs. From here you can pick up the South Downs Way National Trail and follow the waymarked path south along the Cuckmere River to the Seven Sisters cliffs. The path then heads east along the wonderful coast path to a significant landmark at Birling Gap. This special area is run by the National Trust and includes the famous Belle Tout lighthouse. There's also fabulous views along to the nearby Beachy Head and 500 acres of open chalk grassland with a wide variety of butterflies and wildflowers to look out for. The route then leaves the coast and heads north towards Friston Forest where you can enjoy some nice woodland trails and look out for rare butterflies and deer. These trails will lead you west back to the visitor centre where the route finishes. There are a number of other footpaths and trails in the Park - further information and trail maps can be found in the Visitor Centre. Cycling is permitted on the valley floor and there is a concrete track which offers access to the beach. Mountain biking is also popular in Friston Forest so much of this area is great for cyclists as well as walkers.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Saltmarsh Cafe & Rooms is located in the park and a good choice for some post walk refreshments. The delightful cafe is set in a 16th Century farmhouse and includes a pretty courtyard where you can relax on warmer days. The rustic caf\u00e9, kitchen and bar serves a delicious menu with a focus on fresh Sussex produce. Dishes make good use of foraged and seasonal ingredients for a rich and distinctive flavour. Saltmarsh also does high quality accommodation if you'd like to stay in the area. You can find the cafe near the start of the walk in Exceat, on the East Dean Road at postcode BN25 4AD. On the route there's also the option of stopping off at the Tiger Inn in the village of Friston. It's a quintessentially English pub, with its open fire, low-slung oak beams, real ales and hearty food. Dating from the 16th century the pub has been serving surrounding residents, farmers, soldiers, walkers, and smugglers for hundreds of years. There's a nice large outdoor area looking onto the pretty village green. It's a great spot to rest your legs and enjoy a drink before continuing the walk. You can find the pub in the centre of the village at a postcode of BN20 0BY."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is a popular place for dog walking and you will probably see plenty of other owners on your exercise. The paths do often run very close to the cliffs so please take care in these areas. Dogs are also welcome in the outdoor courtyard of the Saltmarsh cafe and in the bar area of the Tiger Inn mentioned above."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you would like to do the Seven Sisters walk from London then you can catch a train to nearby Seaford from London Victoria station. You can then follow the coast path past Cuckmere Haven to the park. Alternatively you can catch the train to Eastbourne and visit the cliffs by walking along the South Downs Way via Beachy Head which lies just to the east of the cliffs. If you'd like to continue your walking in the area then you could pick up the Cuckmere River footpath and head towards Alfriston and climb up to the Long Man of Wilmington. The Exceat to Eastbourne Walk starts from the Exceat visitor centre in the park and takes you all the way to the coastal town. It's about a 10 mile walk and a popular one to do in the summer months."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/XB0ykhV3IOg",
+  "district": "Wealden",
+  "county": "East Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Birling Gap Road, East Dean and Friston, Birling Gap, Wealden, East Sussex, England, BN20 0AB, United Kingdom",
+  "postcode": "BN20 0AB",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "chalk grassland"
+  ],
+  "points_of_interest": [
+    "chalk cliff",
+    "lighthouse",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

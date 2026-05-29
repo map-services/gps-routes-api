@@ -1,112 +1,121 @@
 {
-    "created_at": "2025-01-06T04:29:10.913617+00:00",
-    "objectID": "0daf7061dfa18ed1978337a51067433a",
-    "ref": "usway-burn-walking-route",
-    "title": "Usway Burn - River Coquet - Upper Coquetdale Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg/500px-Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg",
-    "nearby": [
-        {
-            "description": "Alwinton",
-            "objectID": "aeeddfb62aebf5aa3d2140fa2fd90fd2",
-            "ref": "alwinton-walking-route"
-        },
-        {
-            "description": "Kidland Forest",
-            "objectID": "2af0fe2d9b2df40a2a9b08ce43aca243",
-            "ref": "kidland-forest-cycle-route"
-        },
-        {
-            "description": "Harbottle",
-            "objectID": "78044d2725cc73985214462786f169ea",
-            "ref": "harbottle-walking-route"
-        },
-        {
-            "description": "Border County Ride",
-            "objectID": "7c73099d69edec6248153d73b1c0279c",
-            "ref": "border-county-ride-walking-and-cycle-route"
-        },
-        {
-            "description": "Shepherds Cairn",
-            "objectID": "ff339b8c6c991b0f90d72123354b8676",
-            "ref": "shepherds-cairn-walking-route"
-        },
-        {
-            "description": "Davidson's Linn",
-            "objectID": "24a8549ac348223a4a83a4f1de764e94",
-            "ref": "davidsons-linn-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0daf7061dfa18ed1978337a51067433a.gpx",
-    "_geoloc": {
-        "lat": 55.3507467649,
-        "lng": -2.1285351456
+  "created_at": "2025-01-06T04:29:10.913617+00:00",
+  "objectID": "0daf7061dfa18ed1978337a51067433a",
+  "ref": "usway-burn-walking-route",
+  "title": "Usway Burn - River Coquet - Upper Coquetdale Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg/500px-Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg",
+  "nearby": [
+    {
+      "description": "Alwinton",
+      "objectID": "aeeddfb62aebf5aa3d2140fa2fd90fd2",
+      "ref": "alwinton-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg/500px-Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg",
-            "title": "Alwinton from the south by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Alwinton from the south"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/View_north_over_Coquet_valley_from_Barrow_Scar_-_geograph.org.uk_-_2540030.jpg/500px-View_north_over_Coquet_valley_from_Barrow_Scar_-_geograph.org.uk_-_2540030.jpg",
-            "title": "View north over Coquet valley from Barrow Scar by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View north over Coquet valley from Barrow Scar"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Footpath_above_the_River_Coquet_-_geograph.org.uk_-_2540444.jpg/500px-Footpath_above_the_River_Coquet_-_geograph.org.uk_-_2540444.jpg",
-            "title": "Footpath above the River Coquet by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath above the River Coquet"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sheepfold_and_Usway_Burn_-_geograph.org.uk_-_1561797.jpg",
-            "title": "Les Hull / Sheepfold and Usway Burn",
-            "caption": "Sheepfold and Usway Burn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/River_Coquet_-_geograph.org.uk_-_789185.jpg",
-            "title": "Peter McDermott / River Coquet",
-            "caption": "Waterfalls on the River Coquet near Shillmoor."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/On_Inner_Hill_looking_into_the_Usway_Valley_-_geograph.org.uk_-_463764.jpg",
-            "title": "Kenneth  Ross / On Inner Hill looking into the Usway Valley",
-            "caption": "On Inner Hill looking into the Usway Valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Usway_Burn_Valley_-_geograph.org.uk_-_1561758.jpg",
-            "title": "Les Hull / Usway Burn Valley",
-            "caption": "Usway Burn Valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_River_Coquet_under_Shillhope_Law_-_geograph.org.uk_-_2845307.jpg/500px-The_River_Coquet_under_Shillhope_Law_-_geograph.org.uk_-_2845307.jpg",
-            "title": "The River Coquet under Shillhope Law by Russel Wills, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The River Coquet under Shillhope Law"
-        }
-    ],
-    "distance_km": 22.0,
-    "description": "Enjoy some lovely waterside walking along the Usway Burn and the River Coquet on this route in the Upper Coquetdale area of the Northumberland National Park. The walk begins next to the parking area at Alwinton and follows a footpath to the Usway Burn. You follow the path north along the burn with waterfalls, woodland paths and wonderful views of the Cheviots. Just after entering the edge of Kidland Forest you turn south and head towards Barrowburn. Here you pick up a country lane which runs along the River Coquet through the beautiful Upper Coquetdale. This lane takes you to the finish point back at Alwinton .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The circular Alwinton Walk visits the River Alwin, River Coquet, the ruins of Harbottle Castle, West Wood and the excellent viewpoint at the Drake Stone. There's also a 12th century Norman church and a couple of classic old village pubs to visit in the area. To the north east there's the circular Shepherds Cairn Walk which visits a memorial to two shepherds who lost their lives in the exceptionally cold winter of 1962. The walk starts from Alnham where there's a noteworthy Grade I listed 12th century church. To the north of the route there's Davidson's Linn to visit. The picturesque and remote waterfall is situated on the Usway Burn and a lovely spot for a picnic and a paddle."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/rj7IX0YqFwY",
-    "postcode": "NE65 7BH",
-    "district": null,
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Alwinton, Northumberland, North East, England, NE65 7BH, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["waterfall", "views"],
-    "facilities": ["car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Kidland Forest",
+      "objectID": "2af0fe2d9b2df40a2a9b08ce43aca243",
+      "ref": "kidland-forest-cycle-route"
+    },
+    {
+      "description": "Harbottle",
+      "objectID": "78044d2725cc73985214462786f169ea",
+      "ref": "harbottle-walking-route"
+    },
+    {
+      "description": "Border County Ride",
+      "objectID": "7c73099d69edec6248153d73b1c0279c",
+      "ref": "border-county-ride-walking-and-cycle-route"
+    },
+    {
+      "description": "Shepherds Cairn",
+      "objectID": "ff339b8c6c991b0f90d72123354b8676",
+      "ref": "shepherds-cairn-walking-route"
+    },
+    {
+      "description": "Davidson's Linn",
+      "objectID": "24a8549ac348223a4a83a4f1de764e94",
+      "ref": "davidsons-linn-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0daf7061dfa18ed1978337a51067433a.gpx",
+  "_geoloc": {
+    "lat": 55.3507467649,
+    "lng": -2.1285351456
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg/500px-Alwinton_from_the_south_-_geograph.org.uk_-_1810426.jpg",
+      "title": "Alwinton from the south by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Alwinton from the south"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/View_north_over_Coquet_valley_from_Barrow_Scar_-_geograph.org.uk_-_2540030.jpg/500px-View_north_over_Coquet_valley_from_Barrow_Scar_-_geograph.org.uk_-_2540030.jpg",
+      "title": "View north over Coquet valley from Barrow Scar by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View north over Coquet valley from Barrow Scar"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Footpath_above_the_River_Coquet_-_geograph.org.uk_-_2540444.jpg/500px-Footpath_above_the_River_Coquet_-_geograph.org.uk_-_2540444.jpg",
+      "title": "Footpath above the River Coquet by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath above the River Coquet"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sheepfold_and_Usway_Burn_-_geograph.org.uk_-_1561797.jpg",
+      "title": "Les Hull / Sheepfold and Usway Burn",
+      "caption": "Sheepfold and Usway Burn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/River_Coquet_-_geograph.org.uk_-_789185.jpg",
+      "title": "Peter McDermott / River Coquet",
+      "caption": "Waterfalls on the River Coquet near Shillmoor."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/On_Inner_Hill_looking_into_the_Usway_Valley_-_geograph.org.uk_-_463764.jpg",
+      "title": "Kenneth  Ross / On Inner Hill looking into the Usway Valley",
+      "caption": "On Inner Hill looking into the Usway Valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Usway_Burn_Valley_-_geograph.org.uk_-_1561758.jpg",
+      "title": "Les Hull / Usway Burn Valley",
+      "caption": "Usway Burn Valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_River_Coquet_under_Shillhope_Law_-_geograph.org.uk_-_2845307.jpg/500px-The_River_Coquet_under_Shillhope_Law_-_geograph.org.uk_-_2845307.jpg",
+      "title": "The River Coquet under Shillhope Law by Russel Wills, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The River Coquet under Shillhope Law"
+    }
+  ],
+  "distance_km": 22.0,
+  "description": "Enjoy some lovely waterside walking along the Usway Burn and the River Coquet on this route in the Upper Coquetdale area of the Northumberland National Park. The walk begins next to the parking area at Alwinton and follows a footpath to the Usway Burn. You follow the path north along the burn with waterfalls, woodland paths and wonderful views of the Cheviots. Just after entering the edge of Kidland Forest you turn south and head towards Barrowburn. Here you pick up a country lane which runs along the River Coquet through the beautiful Upper Coquetdale. This lane takes you to the finish point back at Alwinton .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Alwinton Walk visits the River Alwin, River Coquet, the ruins of Harbottle Castle, West Wood and the excellent viewpoint at the Drake Stone. There's also a 12th century Norman church and a couple of classic old village pubs to visit in the area. To the north east there's the circular Shepherds Cairn Walk which visits a memorial to two shepherds who lost their lives in the exceptionally cold winter of 1962. The walk starts from Alnham where there's a noteworthy Grade I listed 12th century church. To the north of the route there's Davidson's Linn to visit. The picturesque and remote waterfall is situated on the Usway Burn and a lovely spot for a picnic and a paddle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/rj7IX0YqFwY",
+  "postcode": "NE65 7BH",
+  "district": null,
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Alwinton, Northumberland, North East, England, NE65 7BH, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 to 2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

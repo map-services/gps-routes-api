@@ -1,116 +1,126 @@
 {
-    "created_at": "2025-01-06T03:54:38.715618+00:00",
-    "objectID": "a41a4f07c0e3e0ab6661161546ce00bf",
-    "ref": "corfe-castle-walking-route",
-    "title": "Corfe Castle Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Corfe_Common_-_geograph.org.uk_-_1337862.jpg",
-    "nearby": [
-        {
-            "description": "Swanage to Corfe Castle via Ballard Down and Nine Barrow Down",
-            "objectID": "e701e5d89353e8dab541f75d358709bb",
-            "ref": "swanage-to-corfe-castle-via-ballard-down-and-nine-barrow-down-walking-route"
-        },
-        {
-            "description": "Blue Pool Dorset",
-            "objectID": "02d397ad19dd922f80b044187aa536a6",
-            "ref": "blue-pool-dorset-walking-route"
-        },
-        {
-            "description": "Purbeck Way",
-            "objectID": "4312a61b00a458a6bbd069015ef3baff",
-            "ref": "purbeck-way-walking-route"
-        },
-        {
-            "description": "The Hardy Way - Wareham-Corfe Castle-Kimmeridge",
-            "objectID": "9d9eaedb227c3b03971547f8e0d2aff1",
-            "ref": "the-hardy-way---wareham-corfe-castle-kimmeridge-walking-route"
-        },
-        {
-            "description": "Langton Matravers",
-            "objectID": "335ec509a17de0358fdcb93f87220bc4",
-            "ref": "langton-matravers-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a41a4f07c0e3e0ab6661161546ce00bf.gpx",
-    "_geoloc": {
-        "lat": 50.635467421,
-        "lng": -2.0607100789
+  "created_at": "2025-01-06T03:54:38.715618+00:00",
+  "objectID": "a41a4f07c0e3e0ab6661161546ce00bf",
+  "ref": "corfe-castle-walking-route",
+  "title": "Corfe Castle Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Corfe_Common_-_geograph.org.uk_-_1337862.jpg",
+  "nearby": [
+    {
+      "description": "Swanage to Corfe Castle via Ballard Down and Nine Barrow Down",
+      "objectID": "e701e5d89353e8dab541f75d358709bb",
+      "ref": "swanage-to-corfe-castle-via-ballard-down-and-nine-barrow-down-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Corfe_Common_-_geograph.org.uk_-_1337862.jpg",
-            "title": "Mike Faherty [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Corfe Common. Common land, still with grazing rights for villagers, and SSSI; particularly rich in plant life; mauve patches are hybrid marsh & spotted orchids. The Purbeck Ridge can be seen in the distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Corfe_Castle_and_Greyhound_Inn_Dorset_England.jpg/500px-Corfe_Castle_and_Greyhound_Inn_Dorset_England.jpg",
-            "title": "By JimChampion (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "Corfe Castle and Greyhound Inn Dorset England"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Corfe_Common_-_geograph.org.uk_-_1337845.jpg",
-            "title": "Mike Faherty [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Corfe Common in the summer."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Corfe_Common_from_Challow_Hill_-_geograph.org.uk_-_1025768.jpg",
-            "title": "Jim Champion [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The common from Challow Hill. The raised ground in the middle of the photo is Corfe Common, and the shadows from the low morning sunlight pick out the various hollow ways across the common. These are the focus of old routes from the stone quarries of the Purbeck limestone plateau as they converged on the village at Corfe Castle. East Street is in the foreground."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BR_Class_108_Corfe_Castle_04-07-15_%2819278047039%29.jpg/500px-BR_Class_108_Corfe_Castle_04-07-15_%2819278047039%29.jpg",
-            "title": "Rob Hodgkins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Corfe Castle Train Station. Here you can catch the heritage Swanage Railway to the coast at Swanage. The station must have one of the best views in England with the castle in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/The_Fox_-_geograph.org.uk_-_2023958.jpg",
-            "title": "The Fox by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Fox freehouse and a row of pretty stone cottages on one of the lanes in the village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Castle_Walls_%28geograph_5458020%29.jpg",
-            "title": "Gordon Griffiths / Castle Walls",
-            "caption": "The castle walls. A view down to the village from the elevated position of the ancient castle."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/West_Street%2C_Corfe_Castle_-_geograph.org.uk_-_3110533.jpg",
-            "title": "West Street, Corfe Castle by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "West Street, Corfe Castle"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This circular walk takes you around the Dorset village of Corfe Castle, visiting Corfe Common and passing the fascinating ruins of the 11th century ruined castle. You can park at the car park off West Street before heading south to the common along public footpaths. Corfe Common is Dorset's largest area of common land and a lovely place for a walk. It's particularly lovely in the summer months when there are various wildflowers such as the rare wild chamomile. The bright yellow blossom of gorse is also a feature of this pretty area. Look out for wildlife including nightjar, Dartford warbler, butterflies and various reptiles. On the common you can also climb to an elevated ridge for fabulous views towards the castle. The ridge reaches a height of about 200ft so it's a great spot to take some photos of the castle and the surrounding Purbeck countryside. On the ridge you will also find a series of bumps which are in fact 4,000 year old Bronze Age burial mounds. After taking in the views you descend on the Purbeck Way back to the village. You'll pass the pretty Church of St. Edward which dates from the 12th century. It is well worth exploring with a 15th century font made of Purbeck marble, a fine Victorian interior and a fascinating 15th century reredos (a screen that would have been in front of the chancel) with carvings in white marble. After passing through the town the trail then passes below the castle before climbing the hills just to the west of the site. From here there are more splendid views of the area. You can also explore the castle ruins which are owned by the National Trust. The castle has a fascinating history being partially demolished in 1646 by the Parliamentarians during the English Civil War. There is a fee for this however. After your walk you can enjoy refreshments in the village with lots of tea rooms and pubs to choose from. To extend your walking in the area you can pick up the Purbeck Way long distance trail. If you head north west along the trail you will soon come to the wonderful Blue Pool. Here you will find a beautiful turquoise lake surrounded by peaceful woodland trails. Heading east along the trail will take you into the splendid seaside town of Swanage. If you are staying in Swanage you could walk to the castle from there. It's a great walk with wonderful views over Poole Harbour and Studland. If you head south along the Purbeck Way you can visit the wonderful coastal viewpoint at St Aldhelm's Head and the 13th century St Aldhelm's Chapel. This is located near the pretty village of Worth Matravers with its picture postcard village cottages and pretty village pond. Another option is to follow the The Hardy Way to the marine wildlife reserve at Kimmeridge Bay .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Fox Inn is housed in a delightful old stone building in the village. They have a lovely garden with a summer BBQ and views of the castle. There's historic interest too as the pub dates back to the 16th century and is thought to be the oldest in the village. There's a charming interior with a cosy fire and several original features. You can find them on West Street with a postcode of BH20 5HD for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The common is a great place for a dog walk with miles of wide trails and grassland for them to run about on. The Fox mentioned above is also dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/eIKSYU6y4Ik",
-    "postcode": "BH20 5HE",
-    "district": "Corfe Castle",
-    "county": "Dorset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Holland Close, Corfe Castle, Dorset, England, BH20 5HE, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["common land", "hill", "woodland"],
-    "points_of_interest": [
-        "castle ruins",
-        "burial mounds",
-        "church",
-        "viewpoint"
-    ],
-    "facilities": ["car park", "tea room", "pubs"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Blue Pool Dorset",
+      "objectID": "02d397ad19dd922f80b044187aa536a6",
+      "ref": "blue-pool-dorset-walking-route"
+    },
+    {
+      "description": "Purbeck Way",
+      "objectID": "4312a61b00a458a6bbd069015ef3baff",
+      "ref": "purbeck-way-walking-route"
+    },
+    {
+      "description": "The Hardy Way - Wareham-Corfe Castle-Kimmeridge",
+      "objectID": "9d9eaedb227c3b03971547f8e0d2aff1",
+      "ref": "the-hardy-way---wareham-corfe-castle-kimmeridge-walking-route"
+    },
+    {
+      "description": "Langton Matravers",
+      "objectID": "335ec509a17de0358fdcb93f87220bc4",
+      "ref": "langton-matravers-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a41a4f07c0e3e0ab6661161546ce00bf.gpx",
+  "_geoloc": {
+    "lat": 50.635467421,
+    "lng": -2.0607100789
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Corfe_Common_-_geograph.org.uk_-_1337862.jpg",
+      "title": "Mike Faherty [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Corfe Common. Common land, still with grazing rights for villagers, and SSSI; particularly rich in plant life; mauve patches are hybrid marsh & spotted orchids. The Purbeck Ridge can be seen in the distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Corfe_Castle_and_Greyhound_Inn_Dorset_England.jpg/500px-Corfe_Castle_and_Greyhound_Inn_Dorset_England.jpg",
+      "title": "By JimChampion (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "Corfe Castle and Greyhound Inn Dorset England"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Corfe_Common_-_geograph.org.uk_-_1337845.jpg",
+      "title": "Mike Faherty [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Corfe Common in the summer."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Corfe_Common_from_Challow_Hill_-_geograph.org.uk_-_1025768.jpg",
+      "title": "Jim Champion [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The common from Challow Hill. The raised ground in the middle of the photo is Corfe Common, and the shadows from the low morning sunlight pick out the various hollow ways across the common. These are the focus of old routes from the stone quarries of the Purbeck limestone plateau as they converged on the village at Corfe Castle. East Street is in the foreground."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BR_Class_108_Corfe_Castle_04-07-15_%2819278047039%29.jpg/500px-BR_Class_108_Corfe_Castle_04-07-15_%2819278047039%29.jpg",
+      "title": "Rob Hodgkins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Corfe Castle Train Station. Here you can catch the heritage Swanage Railway to the coast at Swanage. The station must have one of the best views in England with the castle in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/The_Fox_-_geograph.org.uk_-_2023958.jpg",
+      "title": "The Fox by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Fox freehouse and a row of pretty stone cottages on one of the lanes in the village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Castle_Walls_%28geograph_5458020%29.jpg",
+      "title": "Gordon Griffiths / Castle Walls",
+      "caption": "The castle walls. A view down to the village from the elevated position of the ancient castle."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/West_Street%2C_Corfe_Castle_-_geograph.org.uk_-_3110533.jpg",
+      "title": "West Street, Corfe Castle by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "West Street, Corfe Castle"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This circular walk takes you around the Dorset village of Corfe Castle, visiting Corfe Common and passing the fascinating ruins of the 11th century ruined castle. You can park at the car park off West Street before heading south to the common along public footpaths. Corfe Common is Dorset's largest area of common land and a lovely place for a walk. It's particularly lovely in the summer months when there are various wildflowers such as the rare wild chamomile. The bright yellow blossom of gorse is also a feature of this pretty area. Look out for wildlife including nightjar, Dartford warbler, butterflies and various reptiles. On the common you can also climb to an elevated ridge for fabulous views towards the castle. The ridge reaches a height of about 200ft so it's a great spot to take some photos of the castle and the surrounding Purbeck countryside. On the ridge you will also find a series of bumps which are in fact 4,000 year old Bronze Age burial mounds. After taking in the views you descend on the Purbeck Way back to the village. You'll pass the pretty Church of St. Edward which dates from the 12th century. It is well worth exploring with a 15th century font made of Purbeck marble, a fine Victorian interior and a fascinating 15th century reredos (a screen that would have been in front of the chancel) with carvings in white marble. After passing through the town the trail then passes below the castle before climbing the hills just to the west of the site. From here there are more splendid views of the area. You can also explore the castle ruins which are owned by the National Trust. The castle has a fascinating history being partially demolished in 1646 by the Parliamentarians during the English Civil War. There is a fee for this however. After your walk you can enjoy refreshments in the village with lots of tea rooms and pubs to choose from. To extend your walking in the area you can pick up the Purbeck Way long distance trail. If you head north west along the trail you will soon come to the wonderful Blue Pool. Here you will find a beautiful turquoise lake surrounded by peaceful woodland trails. Heading east along the trail will take you into the splendid seaside town of Swanage. If you are staying in Swanage you could walk to the castle from there. It's a great walk with wonderful views over Poole Harbour and Studland. If you head south along the Purbeck Way you can visit the wonderful coastal viewpoint at St Aldhelm's Head and the 13th century St Aldhelm's Chapel. This is located near the pretty village of Worth Matravers with its picture postcard village cottages and pretty village pond. Another option is to follow the The Hardy Way to the marine wildlife reserve at Kimmeridge Bay .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Fox Inn is housed in a delightful old stone building in the village. They have a lovely garden with a summer BBQ and views of the castle. There's historic interest too as the pub dates back to the 16th century and is thought to be the oldest in the village. There's a charming interior with a cosy fire and several original features. You can find them on West Street with a postcode of BH20 5HD for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a great place for a dog walk with miles of wide trails and grassland for them to run about on. The Fox mentioned above is also dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/eIKSYU6y4Ik",
+  "postcode": "BH20 5HE",
+  "district": "Corfe Castle",
+  "county": "Dorset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Holland Close, Corfe Castle, Dorset, England, BH20 5HE, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "common land",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "ruined castle",
+    "historical site",
+    "viewpoint",
+    "Bronze Age burial mound",
+    "church"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

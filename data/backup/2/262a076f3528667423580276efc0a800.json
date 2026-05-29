@@ -1,115 +1,126 @@
 {
-    "created_at": "2025-01-06T01:10:48.989181+00:00",
-    "objectID": "262a076f3528667423580276efc0a800",
-    "ref": "lumsdale-valley-walking-route",
-    "title": "Lumsdale Valley Falls Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
-    "nearby": [
-        {
-            "description": "Derwent Valley Heritage Way",
-            "objectID": "13871570524b1197efa9f0e608a7b222",
-            "ref": "derwent-valley-heritage-way-walking-route"
-        },
-        {
-            "description": "Heights of Abraham",
-            "objectID": "7a8d6e82a07892cc9cd110c887759427",
-            "ref": "heights-of-abraham-walking-route"
-        },
-        {
-            "description": "Cromford Canal",
-            "objectID": "f59ff75a086ed3ff970d6a7dc04e63a3",
-            "ref": "cromford-canal-walking-route"
-        },
-        {
-            "description": "Limestone Way",
-            "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
-            "ref": "limestone-way-walking-route"
-        },
-        {
-            "description": "Matlock",
-            "objectID": "dc3a16c29293ecbecb2300068010dd03",
-            "ref": "matlock-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/262a076f3528667423580276efc0a800.gpx",
-    "_geoloc": {
-        "lat": 53.1407476416,
-        "lng": -1.5343348146
+  "created_at": "2025-01-06T01:10:48.989181+00:00",
+  "objectID": "262a076f3528667423580276efc0a800",
+  "ref": "lumsdale-valley-walking-route",
+  "title": "Lumsdale Valley Falls Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
+  "nearby": [
+    {
+      "description": "Derwent Valley Heritage Way",
+      "objectID": "13871570524b1197efa9f0e608a7b222",
+      "ref": "derwent-valley-heritage-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
-            "title": "Alan Walker [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Lumsdale Valley Industrial Archaeological Site. Photo shows the Bently Brook running alongside part of a building that has been a Bleach Mill and a Paint Mill. The site is a protected Scheduled Monument, currently owned and preserved by the Arkwright Society. The society is dedicated to the conservation of industrial monuments in Derbyshire, focusing on the water mills of Lumsdale Valley, Ashford, Cromford and Slinter Wood. It's named after Richard Arkwright who founded the world's first successful water powered cotton spinning mill in Cromford in 1771. The society was founded after a festival in 1971 to commemorate the 200th anniversary of this feat."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lumsdale_pond.jpg/330px-Lumsdale_pond.jpg",
-            "title": "Rob Bendall [Attribution], via Wikimedia Commons",
-            "caption": "Lumsdale pond. The name Lumsdale is thought to mean either 'valley of chimneys' (from the Scottish word lum meaning chimney and reflecting the area's industrial heritage) or 'valley of water pools' (from the English name lumb meaning a place with a pool). The Upper Pond was constructed in the 1780s by Watts, Lowe and Co in order to supply water for their cotton mill. It has silted up since the dam wall broke in 1947 and is now a designated nature reserve. The Middle Pond was also from the 1780s and was restored in 2014 (funded by the Heritage Lottery) after being dry and overgrown. The Lower Pond was originally a quarry but was converted into a reservoir in 1850.[4] Lumsdale Falls is a scenic natural cascade below the Lower Pond. There is no longer public access to the falls in the central gorge area."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Waterfall_-_geograph.org.uk_-_583128.jpg/500px-Waterfall_-_geograph.org.uk_-_583128.jpg",
-            "title": "Alan Walker / Waterfall, via Wikimedia Commons",
-            "caption": "Waterfall on the Bentley Brook. Apart from its natural resources the brook was fed from three reservoirs, of which only one (the lower) now remains. The dam wall and outflow of this reservoir can just be seen through the foliage in this photograph."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pond_Cottages%2C_Lumsdale_-_geograph.org.uk_-_1522528.jpg",
-            "title": "Alan Murray-Rust / Pond Cottages, Lumsdale, via Wikimedia Commons",
-            "caption": "Pond Cottages, Lumsdale. These were originally industrial buildings, housing two lead-smelting cupolas. Although lead was mined on the opposite side of the Derwent Valley, in the limestone area, smelting was carried out here because of the availablity of timber for the furnaces. The plant was obsolete by the last quarter of the 19th century, so the buildings were converted for residential use by workers at the newly developed cotton mill at the foot of the valley."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522554.jpg",
-            "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
-            "caption": "The Lower Pond Dam and waterfall. When the site was in full flow, the waterfall would have been dry, with all the water being diverted to drive the wheels"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522545.jpg",
-            "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
-            "caption": "The Lower Pond seen from the dam. This provided the primary feed to the series of mills lower down."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522565.jpg",
-            "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
-            "caption": "Garton's Mill. This was the lowest mill of the sequence, and was built in the late 18th century as a cotton spinning mill, later becoming a bleaching works. It finally closed in 1929. The Lumsdale Mills are a collection of mill buildings from the lead, textile, paint and timber industries. This water-powered industrial landscape is a site of national archaeological and historical importance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg/500px-Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
-            "title": "Alan Walker / Lumsdale Valley",
-            "caption": "Bently Brook running alongside part of a building that has been a Bleach Mill and a Paint Mill. 'The Lumsdale Valley is one of the best examples of a water-powered industrial archaeological site in Great Britain. It is unusual to see such extensive use of water power in such a relatively small area. Since at least the 16th century, the Bentley brook has provided the power for a series of mills in the valley, some of which continued in industrial use until the 1930s.' - Quoted text from the Arkwright Society On the left is the entrance to a short tunnel that may have been part of the route whereby bleached items were taken across the brook to the fields opposite to dry."
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "This splendid walk takes you from Matlock to the beautiful wooded gorge of the Lumsdale Valley. The walk starts near the centre of Matlock at Matlock Green and follows the Bentley Brook through woodland to the beautiful Lumsdale Waterfalls. As you make your way through the gorge you'll pass several historical mill ruins, waterwheels, three mill ponds and a series of waterfalls. It's a beautiful area and one of the lesser known attractions of the Peak District area. Several of our other walks pass through Matlock so there are plenty of options for extending your exercise. The Derwent Valley Heritage Way, Heights of Abraham, Cromford Canal and the Limestone Way can all be picked up in Matlock.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Duke Of Wellington is located close to the falls at 115 Wellington St, DE4 3GX. The 19th-century country inn has a classic pub menu and 2 beer gardens to relax in if the weather is fine. With Derbyshire limestone slate roofs, roaring log fires and extensive gardens it's the ideal place to refresh yourself after your exercise."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The wooded gorge is an ideal place for dog walking and you are likely to see other dog walkers on the trail. The Duke of Wellington pub mentioned above is also dog friendly with doggie snacks available."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "At the northern end of the route there's a circular walk possible around the now disused Bentley Brook and Lumsdale Quarries. It runs just to the east of the brook. For more walking ideas in the area see the Peak District Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/fiyxFCGLEew",
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Garton's Mill, Lumsdale, Matlock Town, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 5EX, United Kingdom",
-    "postcode": "DE4 5EX",
-    "district": "Derbyshire Dales",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland"],
-    "points_of_interest": ["historical ruins", "waterfall"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Heights of Abraham",
+      "objectID": "7a8d6e82a07892cc9cd110c887759427",
+      "ref": "heights-of-abraham-walking-route"
+    },
+    {
+      "description": "Cromford Canal",
+      "objectID": "f59ff75a086ed3ff970d6a7dc04e63a3",
+      "ref": "cromford-canal-walking-route"
+    },
+    {
+      "description": "Limestone Way",
+      "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
+      "ref": "limestone-way-walking-route"
+    },
+    {
+      "description": "Matlock",
+      "objectID": "dc3a16c29293ecbecb2300068010dd03",
+      "ref": "matlock-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/262a076f3528667423580276efc0a800.gpx",
+  "_geoloc": {
+    "lat": 53.1407476416,
+    "lng": -1.5343348146
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
+      "title": "Alan Walker [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Lumsdale Valley Industrial Archaeological Site. Photo shows the Bently Brook running alongside part of a building that has been a Bleach Mill and a Paint Mill. The site is a protected Scheduled Monument, currently owned and preserved by the Arkwright Society. The society is dedicated to the conservation of industrial monuments in Derbyshire, focusing on the water mills of Lumsdale Valley, Ashford, Cromford and Slinter Wood. It's named after Richard Arkwright who founded the world's first successful water powered cotton spinning mill in Cromford in 1771. The society was founded after a festival in 1971 to commemorate the 200th anniversary of this feat."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lumsdale_pond.jpg/330px-Lumsdale_pond.jpg",
+      "title": "Rob Bendall [Attribution], via Wikimedia Commons",
+      "caption": "Lumsdale pond. The name Lumsdale is thought to mean either 'valley of chimneys' (from the Scottish word lum meaning chimney and reflecting the area's industrial heritage) or 'valley of water pools' (from the English name lumb meaning a place with a pool). The Upper Pond was constructed in the 1780s by Watts, Lowe and Co in order to supply water for their cotton mill. It has silted up since the dam wall broke in 1947 and is now a designated nature reserve. The Middle Pond was also from the 1780s and was restored in 2014 (funded by the Heritage Lottery) after being dry and overgrown. The Lower Pond was originally a quarry but was converted into a reservoir in 1850.[4] Lumsdale Falls is a scenic natural cascade below the Lower Pond. There is no longer public access to the falls in the central gorge area."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Waterfall_-_geograph.org.uk_-_583128.jpg/500px-Waterfall_-_geograph.org.uk_-_583128.jpg",
+      "title": "Alan Walker / Waterfall, via Wikimedia Commons",
+      "caption": "Waterfall on the Bentley Brook. Apart from its natural resources the brook was fed from three reservoirs, of which only one (the lower) now remains. The dam wall and outflow of this reservoir can just be seen through the foliage in this photograph."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pond_Cottages%2C_Lumsdale_-_geograph.org.uk_-_1522528.jpg",
+      "title": "Alan Murray-Rust / Pond Cottages, Lumsdale, via Wikimedia Commons",
+      "caption": "Pond Cottages, Lumsdale. These were originally industrial buildings, housing two lead-smelting cupolas. Although lead was mined on the opposite side of the Derwent Valley, in the limestone area, smelting was carried out here because of the availablity of timber for the furnaces. The plant was obsolete by the last quarter of the 19th century, so the buildings were converted for residential use by workers at the newly developed cotton mill at the foot of the valley."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522554.jpg",
+      "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
+      "caption": "The Lower Pond Dam and waterfall. When the site was in full flow, the waterfall would have been dry, with all the water being diverted to drive the wheels"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522545.jpg",
+      "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
+      "caption": "The Lower Pond seen from the dam. This provided the primary feed to the series of mills lower down."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_1522565.jpg",
+      "title": "Alan Murray-Rust / Lumsdale Valley Industrial Archaeological Site",
+      "caption": "Garton's Mill. This was the lowest mill of the sequence, and was built in the late 18th century as a cotton spinning mill, later becoming a bleaching works. It finally closed in 1929. The Lumsdale Mills are a collection of mill buildings from the lead, textile, paint and timber industries. This water-powered industrial landscape is a site of national archaeological and historical importance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg/500px-Lumsdale_Valley_Industrial_Archaeological_Site_-_geograph.org.uk_-_583054.jpg",
+      "title": "Alan Walker / Lumsdale Valley",
+      "caption": "Bently Brook running alongside part of a building that has been a Bleach Mill and a Paint Mill. 'The Lumsdale Valley is one of the best examples of a water-powered industrial archaeological site in Great Britain. It is unusual to see such extensive use of water power in such a relatively small area. Since at least the 16th century, the Bentley brook has provided the power for a series of mills in the valley, some of which continued in industrial use until the 1930s.' - Quoted text from the Arkwright Society On the left is the entrance to a short tunnel that may have been part of the route whereby bleached items were taken across the brook to the fields opposite to dry."
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "This splendid walk takes you from Matlock to the beautiful wooded gorge of the Lumsdale Valley. The walk starts near the centre of Matlock at Matlock Green and follows the Bentley Brook through woodland to the beautiful Lumsdale Waterfalls. As you make your way through the gorge you'll pass several historical mill ruins, waterwheels, three mill ponds and a series of waterfalls. It's a beautiful area and one of the lesser known attractions of the Peak District area. Several of our other walks pass through Matlock so there are plenty of options for extending your exercise. The Derwent Valley Heritage Way, Heights of Abraham, Cromford Canal and the Limestone Way can all be picked up in Matlock.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Duke Of Wellington is located close to the falls at 115 Wellington St, DE4 3GX. The 19th-century country inn has a classic pub menu and 2 beer gardens to relax in if the weather is fine. With Derbyshire limestone slate roofs, roaring log fires and extensive gardens it's the ideal place to refresh yourself after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The wooded gorge is an ideal place for dog walking and you are likely to see other dog walkers on the trail. The Duke of Wellington pub mentioned above is also dog friendly with doggie snacks available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the northern end of the route there's a circular walk possible around the now disused Bentley Brook and Lumsdale Quarries. It runs just to the east of the brook. For more walking ideas in the area see the Peak District Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/fiyxFCGLEew",
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Garton's Mill, Lumsdale, Matlock Town, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 5EX, United Kingdom",
+  "postcode": "DE4 5EX",
+  "district": "Derbyshire Dales",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "waterfall"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

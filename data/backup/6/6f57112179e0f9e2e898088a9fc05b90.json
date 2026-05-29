@@ -1,65 +1,77 @@
 {
-    "created_at": "2025-01-06T11:15:12.579375+00:00",
-    "objectID": "6f57112179e0f9e2e898088a9fc05b90",
-    "ref": "ebchester-walking-route",
-    "title": "Derwent Walk Ebchester Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg/500px-Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6f57112179e0f9e2e898088a9fc05b90.gpx",
-    "_geoloc": {
-        "lat": 54.8944024542,
-        "lng": -1.8409360101
+  "created_at": "2025-01-06T11:15:12.579375+00:00",
+  "objectID": "6f57112179e0f9e2e898088a9fc05b90",
+  "ref": "ebchester-walking-route",
+  "title": "Derwent Walk Ebchester Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg/500px-Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6f57112179e0f9e2e898088a9fc05b90.gpx",
+  "_geoloc": {
+    "lat": 54.8944024542,
+    "lng": -1.8409360101
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg/500px-Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg",
+      "title": "Farm buildings at Ebchester by Robert Graham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Farm buildings at Ebchester"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg/500px-Farm_buildings_at_Ebchester_-_geograph.org.uk_-_3901426.jpg",
-            "title": "Farm buildings at Ebchester by Robert Graham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Farm buildings at Ebchester"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/River_Derwent_-_geograph.org.uk_-_2859874.jpg",
-            "title": "River Derwent by brian clark, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Derwent"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bridge_over_River_Derwent_-_geograph.org.uk_-_1516114.jpg",
-            "title": "Roger Smith / Bridge over River Derwent",
-            "caption": "Bridge over River Derwent Blackhall Mill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Church_of_St_Ebba%2C_Ebchester_-_geograph.org.uk_-_3629410.jpg/500px-Church_of_St_Ebba%2C_Ebchester_-_geograph.org.uk_-_3629410.jpg",
-            "title": "Church of St Ebba, Ebchester by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Church of St Ebba, Ebchester"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Barrier_on_the_Derwent_Walk_above_Ebchester_-_geograph.org.uk_-_3871725.jpg",
-            "title": "Barrier on the Derwent Walk above Ebchester by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Barrier on the Derwent Walk above Ebchester"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Derwent_Walk_at_Ebchester_-_geograph.org.uk_-_3871684.jpg",
-            "title": "Derwent Walk at Ebchester by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Derwent Walk Bridge at Ebchester"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk visits the village of Ebchester on the River Derwent in County Durham. This circular walk from the village takes you north along the river to visit the neighboring village of Blackhall Mill and Hamsterley. You can the return to the village use the Derwent Walk, a shared cycling and walking trail running along an disused railway line. You could follow the trail north to visit Derwent Walk Country Park near Rowlands Gill. The popular park includes a mixture of woodland, meadows and wetlands. If you continue south along the trail it will take you to Consett where you can pick up the Consett and Sunderland Railway Path .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/9-iq42h4oXM",
-    "district": "Ebchester",
-    "county": "County Durham",
-    "region": "North East",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Vindomora Road, Ebchester, County Durham, North East, England, DH8 0PT, United Kingdom",
-    "postcode": "DH8 0PT",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "wetlands"],
-    "points_of_interest": ["country park", "village"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/River_Derwent_-_geograph.org.uk_-_2859874.jpg",
+      "title": "River Derwent by brian clark, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Derwent"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bridge_over_River_Derwent_-_geograph.org.uk_-_1516114.jpg",
+      "title": "Roger Smith / Bridge over River Derwent",
+      "caption": "Bridge over River Derwent Blackhall Mill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Church_of_St_Ebba%2C_Ebchester_-_geograph.org.uk_-_3629410.jpg/500px-Church_of_St_Ebba%2C_Ebchester_-_geograph.org.uk_-_3629410.jpg",
+      "title": "Church of St Ebba, Ebchester by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Church of St Ebba, Ebchester"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Barrier_on_the_Derwent_Walk_above_Ebchester_-_geograph.org.uk_-_3871725.jpg",
+      "title": "Barrier on the Derwent Walk above Ebchester by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Barrier on the Derwent Walk above Ebchester"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Derwent_Walk_at_Ebchester_-_geograph.org.uk_-_3871684.jpg",
+      "title": "Derwent Walk at Ebchester by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Derwent Walk Bridge at Ebchester"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk visits the village of Ebchester on the River Derwent in County Durham. This circular walk from the village takes you north along the river to visit the neighboring village of Blackhall Mill and Hamsterley. You can the return to the village use the Derwent Walk, a shared cycling and walking trail running along an disused railway line. You could follow the trail north to visit Derwent Walk Country Park near Rowlands Gill. The popular park includes a mixture of woodland, meadows and wetlands. If you continue south along the trail it will take you to Consett where you can pick up the Consett and Sunderland Railway Path .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/9-iq42h4oXM",
+  "district": "Ebchester",
+  "county": "County Durham",
+  "region": "North East",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Vindomora Road, Ebchester, County Durham, North East, England, DH8 0PT, United Kingdom",
+  "postcode": "DH8 0PT",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "village",
+    "country park"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

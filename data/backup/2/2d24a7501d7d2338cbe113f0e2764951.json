@@ -1,117 +1,100 @@
 {
-  "created_at": "2025-01-06T00:25:46.365705+00:00",
-  "objectID": "2d24a7501d7d2338cbe113f0e2764951",
-  "ref": "dunwich-heath-walking-route",
-  "title": "Dunwich Heath Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/On_Dunwich_Heath_-_geograph.org.uk_-_1596751.jpg",
-  "nearby": [
-    {
-      "description": "Dunwich Forest",
-      "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
-      "ref": "dunwich-forest-walking-route"
+    "created_at": "2025-01-06T00:25:46.365705+00:00",
+    "objectID": "2d24a7501d7d2338cbe113f0e2764951",
+    "ref": "dunwich-heath-walking-route",
+    "title": "Dunwich Heath Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/On_Dunwich_Heath_-_geograph.org.uk_-_1596751.jpg",
+    "nearby": [
+        {
+            "description": "Dunwich Forest",
+            "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
+            "ref": "dunwich-forest-walking-route"
+        },
+        {
+            "description": "Minsmere Nature Reserve",
+            "objectID": "c3ba9ede0d780da672e3e56f5a171339",
+            "ref": "minsmere-nature-reserve-walking-route"
+        },
+        {
+            "description": "Suffolk Coast Path",
+            "objectID": "0e29c3db92e53d17066c601df86904be",
+            "ref": "suffolk-coast-path-walking-route"
+        },
+        {
+            "description": "Southwold to Covehithe Walk",
+            "objectID": "d26cf1e9d4f7dd13973ec347197bd0e7",
+            "ref": "southwold-to-covehithe-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2d24a7501d7d2338cbe113f0e2764951.gpx",
+    "_geoloc": {
+        "lat": 52.251285112,
+        "lng": 1.6283660866
     },
-    {
-      "description": "Minsmere Nature Reserve",
-      "objectID": "c3ba9ede0d780da672e3e56f5a171339",
-      "ref": "minsmere-nature-reserve-walking-route"
-    },
-    {
-      "description": "Suffolk Coast Path",
-      "objectID": "0e29c3db92e53d17066c601df86904be",
-      "ref": "suffolk-coast-path-walking-route"
-    },
-    {
-      "description": "Southwold to Covehithe Walk",
-      "objectID": "d26cf1e9d4f7dd13973ec347197bd0e7",
-      "ref": "southwold-to-covehithe-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2d24a7501d7d2338cbe113f0e2764951.gpx",
-  "_geoloc": {
-    "lat": 52.251285112,
-    "lng": 1.6283660866
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/On_Dunwich_Heath_-_geograph.org.uk_-_1596751.jpg",
-      "title": "Bill Boaden / On Dunwich Heath, via Wikimedia Commons",
-      "caption": "Colourful scene on the heath with gorse, woodland and heather"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dunwich_Heath_-_geograph.org.uk_-_284710.jpg",
-      "title": "Helen Hanley / Dunwich Heath, via Wikimedia Commons",
-      "caption": "Spring view over the heath, from the coastguard cottages"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dunwich_Heath_-_geograph.org.uk_-_1733715.jpg/500px-Dunwich_Heath_-_geograph.org.uk_-_1733715.jpg",
-      "title": "Glen Denny / Dunwich Heath, via Wikimedia Commons",
-      "caption": "The footpath across Dunwich Heath heads towards Scottshall Coverts."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Coastguard_Cottages%2C_Dunwich_Heath_-_geograph.org.uk_-_6965.jpg",
-      "title": "Andrew Stacey / Coastguard Cottages, Dunwich Heath, via Wikimedia Commons",
-      "caption": "The Coastguard Cottages at Dunwich Heath overlook the National Trust's area of heathland conservation, and the eroding cliffs of Minsmere Beach."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Heatherscape_on_Dunwich_Heath_-_geograph.org.uk_-_932650.jpg",
-      "title": "Zorba the Geek / Heatherscape on Dunwich Heath, via Wikimedia Commons",
-      "caption": "Heatherscape on the heath. A mixture of ling and bell heather mixed with low gorse makes this colourful textured clifftop with the North Sea behind."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dunwich_Heath%2C_footpath_-_geograph.org.uk_-_1733710.jpg/500px-Dunwich_Heath%2C_footpath_-_geograph.org.uk_-_1733710.jpg",
-      "title": "Glen Denny / Dunwich Heath, footpath, via Wikimedia Commons",
-      "caption": "The footpath shown on the map heads out across Dunwich Heath."
-    }
-  ],
-  "distance_km": 2.5,
-  "description": "This beautiful coastal heathland is a wonderful place for a peaceful circular walk. The area is owned by the National Trust and is covered in miles of good footpaths taking you through the pretty purple heathland. It's great for birdwatching with Dartford warbler, nightjar and woodlark regular visitors to the area. Also look out for red deer and muntjac deer. After exploring the heathland you can enjoy a stroll along the lovely Dunwich beach and take in the coastal views. There are very good facilities with a National Trust tea room, shop and car park. It's easy to extend your walk in this lovely area. The Suffolk Coast Path runs through the heath so you can pick this up and head north to Dunwich Forest. Here you will find miles of peaceful woodland walking trails and lovely conservation areas of marshland and wetland. Look out for Dunwich ponies and a variety of other wildlife in the woods. Just to the south you will find Minsmere Nature Reserve. The reserve consists of woodland, reed bed, lowland heath, wet grassland and shingle vegetation. It attracts many different birds such as Avocet, Bittern and Marsh Harriers. You can virtually explore the heath using the google street view link below!",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Dunwich you could enjoy some post walk refreshments at the Ship Inn. Once a haunt of smugglers, The Ship at Dunwich, is nestled in between Southwold and Aldeburgh. On colder days there's a nice cosy fire indoors, while in the summer there's a nice outdoor area with fruit trees. The pub also does accommodation if you need to stay over. You can find it in the little village on St James's St, with a postoce of IP17 3DT for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The heath is great for dog walking as is the adjacent Dunwich Beach. The National Trust tea room and the Ship Inn mentioned above are also very dog friendly. They've even created a special package that incorporates some thoughtful gifts for their four-legged guests. This package includes a cosy blanket, water bowl and treats!"
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The circular Westleton Walk passes through an area of the heath. It visits the adjacent Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. For more walking ideas in the area see the Sussex Walks and the Suffolk Coast and Heaths Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/O2uvRuMt104?si=K68kTXrZgCUzkIwO",
-  "postcode": "IP17 3DQ",
-  "county": "Suffolk",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Minsmere Road, Dunwich, East Suffolk, Suffolk, England, IP17 3DQ, United Kingdom",
-  "district": "East Suffolk",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
-  "terrain": [
-    "heathland",
-    "woodland",
-    "marshland",
-    "wet grassland",
-    "shingle"
-  ],
-  "points_of_interest": [
-    "conservation areas",
-    "wildlife"
-  ],
-  "facilities": [
-    "tea room",
-    "shop",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/On_Dunwich_Heath_-_geograph.org.uk_-_1596751.jpg",
+            "title": "Bill Boaden / On Dunwich Heath, via Wikimedia Commons",
+            "caption": "Colourful scene on the heath with gorse, woodland and heather"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dunwich_Heath_-_geograph.org.uk_-_284710.jpg",
+            "title": "Helen Hanley / Dunwich Heath, via Wikimedia Commons",
+            "caption": "Spring view over the heath, from the coastguard cottages"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dunwich_Heath_-_geograph.org.uk_-_1733715.jpg/500px-Dunwich_Heath_-_geograph.org.uk_-_1733715.jpg",
+            "title": "Glen Denny / Dunwich Heath, via Wikimedia Commons",
+            "caption": "The footpath across Dunwich Heath heads towards Scottshall Coverts."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Coastguard_Cottages%2C_Dunwich_Heath_-_geograph.org.uk_-_6965.jpg",
+            "title": "Andrew Stacey / Coastguard Cottages, Dunwich Heath, via Wikimedia Commons",
+            "caption": "The Coastguard Cottages at Dunwich Heath overlook the National Trust's area of heathland conservation, and the eroding cliffs of Minsmere Beach."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Heatherscape_on_Dunwich_Heath_-_geograph.org.uk_-_932650.jpg",
+            "title": "Zorba the Geek / Heatherscape on Dunwich Heath, via Wikimedia Commons",
+            "caption": "Heatherscape on the heath. A mixture of ling and bell heather mixed with low gorse makes this colourful textured clifftop with the North Sea behind."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dunwich_Heath%2C_footpath_-_geograph.org.uk_-_1733710.jpg/500px-Dunwich_Heath%2C_footpath_-_geograph.org.uk_-_1733710.jpg",
+            "title": "Glen Denny / Dunwich Heath, footpath, via Wikimedia Commons",
+            "caption": "The footpath shown on the map heads out across Dunwich Heath."
+        }
+    ],
+    "distance_km": 2.5,
+    "description": "This beautiful coastal heathland is a wonderful place for a peaceful circular walk. The area is owned by the National Trust and is covered in miles of good footpaths taking you through the pretty purple heathland. It's great for birdwatching with Dartford warbler, nightjar and woodlark regular visitors to the area. Also look out for red deer and muntjac deer. After exploring the heathland you can enjoy a stroll along the lovely Dunwich beach and take in the coastal views. There are very good facilities with a National Trust tea room, shop and car park. It's easy to extend your walk in this lovely area. The Suffolk Coast Path runs through the heath so you can pick this up and head north to Dunwich Forest. Here you will find miles of peaceful woodland walking trails and lovely conservation areas of marshland and wetland. Look out for Dunwich ponies and a variety of other wildlife in the woods. Just to the south you will find Minsmere Nature Reserve. The reserve consists of woodland, reed bed, lowland heath, wet grassland and shingle vegetation. It attracts many different birds such as Avocet, Bittern and Marsh Harriers. You can virtually explore the heath using the google street view link below!",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Dunwich you could enjoy some post walk refreshments at the Ship Inn. Once a haunt of smugglers, The Ship at Dunwich, is nestled in between Southwold and Aldeburgh. On colder days there's a nice cosy fire indoors, while in the summer there's a nice outdoor area with fruit trees. The pub also does accommodation if you need to stay over. You can find it in the little village on St James's St, with a postoce of IP17 3DT for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The heath is great for dog walking as is the adjacent Dunwich Beach. The National Trust tea room and the Ship Inn mentioned above are also very dog friendly. They've even created a special package that incorporates some thoughtful gifts for their four-legged guests. This package includes a cosy blanket, water bowl and treats!"
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The circular Westleton Walk passes through an area of the heath. It visits the adjacent Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. For more walking ideas in the area see the Sussex Walks and the Suffolk Coast and Heaths Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/O2uvRuMt104?si=K68kTXrZgCUzkIwO",
+    "postcode": "IP17 3DQ",
+    "county": "Suffolk",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Minsmere Road, Dunwich, East Suffolk, Suffolk, England, IP17 3DQ, United Kingdom",
+    "district": "East Suffolk",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["coastal", "heathland", "woodland", "marshland", "wetland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching", "dog walking"]
 }

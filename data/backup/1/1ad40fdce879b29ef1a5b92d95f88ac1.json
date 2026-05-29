@@ -1,69 +1,77 @@
 {
-    "created_at": "2025-01-06T02:37:13.597755+00:00",
-    "objectID": "1ad40fdce879b29ef1a5b92d95f88ac1",
-    "ref": "penselwood-walking-route",
-    "title": "Penselwood Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg/500px-St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ad40fdce879b29ef1a5b92d95f88ac1.gpx",
-    "_geoloc": {
-        "lat": 51.0812321417,
-        "lng": -2.3494905523
+  "created_at": "2025-01-06T02:37:13.597755+00:00",
+  "objectID": "1ad40fdce879b29ef1a5b92d95f88ac1",
+  "ref": "penselwood-walking-route",
+  "title": "Penselwood Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg/500px-St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ad40fdce879b29ef1a5b92d95f88ac1.gpx",
+  "_geoloc": {
+    "lat": 51.0812321417,
+    "lng": -2.3494905523
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg/500px-St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg",
+      "title": "Peter Wood / St Michael's Church, Pen Selwood",
+      "caption": "St Michaels Church, Pen Selwood"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg/500px-St_Michaels_Church%2C_Pen_Selwood_%28geograph_3373825%29.jpg",
-            "title": "Peter Wood / St Michael's Church, Pen Selwood",
-            "caption": "St Michaels Church, Pen Selwood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Village_sign_erected_to_commemorate_1977_Silver_Jubilee_of_ER_II_-_geograph.org.uk_-_916153.jpg/330px-Village_sign_erected_to_commemorate_1977_Silver_Jubilee_of_ER_II_-_geograph.org.uk_-_916153.jpg",
-            "title": "justin sanford / Village sign erected to commemorate 1977 Silver Jubilee of ER II",
-            "caption": "Village sign erected to commemorate 1977 Silver Jubilee of ER II"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/The_White_Lion%2C_Bourton_-_geograph.org.uk_-_1145095.jpg",
-            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The White Lion, Bourton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flambert%27s_Farm_-_geograph.org.uk_-_462546.jpg",
-            "title": "Virginia Knight / Flambert's Farm",
-            "caption": "Flambert's Farm"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sheep_near_Penselwood_-_geograph.org.uk_-_1462572.jpg",
-            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sheep near Penselwood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/War_Memorial_at_Bourton_-_geograph.org.uk_-_187316.jpg",
-            "title": "Phil Williams / War Memorial at Bourton",
-            "caption": "War Memorial at Bourton"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This little village in Somerset has a noteworthy 15th century church and some nice country trails to try. It's also close to the Mendip Hills and the Cranborne Chase AONB where there are numerous footpaths to enjoy. This circular walk from the village explores the countryside to the south and also visits the neighbouring village of Bourton. The walk starts in the village where you can pick up the Monarch's Way and follow the waymarked footpath south east towards Bourton. Here you could pick up the Stour Valley Way and follow it north to visit one of the highlights of the area at the wonderful Stourhead. This route follows country lanes and public footpaths north west to return to Penselwood.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For more walking ideas in the area see the Mendip Hills Walks and the Cranborne Chase Walks pages."
-        }
-    ],
-    "postcode": "BA9 8LT",
-    "district": "Penselwood",
-    "county": "Somerset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Field Lane, Pen Selwood, Penselwood, Somerset, England, BA9 8LT, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["countryside", "rural"],
-    "points_of_interest": ["church", "footpath"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Village_sign_erected_to_commemorate_1977_Silver_Jubilee_of_ER_II_-_geograph.org.uk_-_916153.jpg/330px-Village_sign_erected_to_commemorate_1977_Silver_Jubilee_of_ER_II_-_geograph.org.uk_-_916153.jpg",
+      "title": "justin sanford / Village sign erected to commemorate 1977 Silver Jubilee of ER II",
+      "caption": "Village sign erected to commemorate 1977 Silver Jubilee of ER II"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/The_White_Lion%2C_Bourton_-_geograph.org.uk_-_1145095.jpg",
+      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The White Lion, Bourton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flambert%27s_Farm_-_geograph.org.uk_-_462546.jpg",
+      "title": "Virginia Knight / Flambert's Farm",
+      "caption": "Flambert's Farm"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sheep_near_Penselwood_-_geograph.org.uk_-_1462572.jpg",
+      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sheep near Penselwood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/War_Memorial_at_Bourton_-_geograph.org.uk_-_187316.jpg",
+      "title": "Phil Williams / War Memorial at Bourton",
+      "caption": "War Memorial at Bourton"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This little village in Somerset has a noteworthy 15th century church and some nice country trails to try. It's also close to the Mendip Hills and the Cranborne Chase AONB where there are numerous footpaths to enjoy. This circular walk from the village explores the countryside to the south and also visits the neighbouring village of Bourton. The walk starts in the village where you can pick up the Monarch's Way and follow the waymarked footpath south east towards Bourton. Here you could pick up the Stour Valley Way and follow it north to visit one of the highlights of the area at the wonderful Stourhead. This route follows country lanes and public footpaths north west to return to Penselwood.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Mendip Hills Walks and the Cranborne Chase Walks pages."
+    }
+  ],
+  "postcode": "BA9 8LT",
+  "district": "Penselwood",
+  "county": "Somerset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Field Lane, Pen Selwood, Penselwood, Somerset, England, BA9 8LT, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

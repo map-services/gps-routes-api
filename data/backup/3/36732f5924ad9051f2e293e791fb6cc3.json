@@ -1,119 +1,124 @@
 {
-    "created_at": "2025-01-06T01:31:56.226656+00:00",
-    "objectID": "36732f5924ad9051f2e293e791fb6cc3",
-    "ref": "becky-falls-walking-route",
-    "title": "Becky Falls Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dartmoor%2C_Becky_Falls_-_geograph.org.uk_-_438831.jpg",
-    "nearby": [
-        {
-            "description": "Dartmoor Way",
-            "objectID": "517935ba149ba09e2129f15985e29886",
-            "ref": "dartmoor-way-walking-route"
-        },
-        {
-            "description": "Hound Tor",
-            "objectID": "f4711aec0d4a10d375eef5cf9110cdd5",
-            "ref": "hound-tor-walking-route"
-        },
-        {
-            "description": "Lustleigh Cleave",
-            "objectID": "dc9854fb9514199e8bdfdd36bc82da42",
-            "ref": "lustleigh-cleave-walking-route"
-        },
-        {
-            "description": "Moretonhampstead",
-            "objectID": "cedf66f196ad63bb77ad479cde21c934",
-            "ref": "moretonhampstead-walking-route"
-        },
-        {
-            "description": "Bowerman's Nose",
-            "objectID": "568172958fce282d8a7e24f3bf14b7ac",
-            "ref": "bowermans-nose-walking-route"
-        },
-        {
-            "description": "Manaton",
-            "objectID": "8d095eb189a9262697f042284bf9a193",
-            "ref": "manaton-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/36732f5924ad9051f2e293e791fb6cc3.gpx",
-    "_geoloc": {
-        "lat": 50.6183816585,
-        "lng": -3.7676029237
+  "created_at": "2025-01-06T01:31:56.226656+00:00",
+  "objectID": "36732f5924ad9051f2e293e791fb6cc3",
+  "ref": "becky-falls-walking-route",
+  "title": "Becky Falls Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dartmoor%2C_Becky_Falls_-_geograph.org.uk_-_438831.jpg",
+  "nearby": [
+    {
+      "description": "Dartmoor Way",
+      "objectID": "517935ba149ba09e2129f15985e29886",
+      "ref": "dartmoor-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dartmoor%2C_Becky_Falls_-_geograph.org.uk_-_438831.jpg",
-            "title": "Nigel Cox / Dartmoor: Becky Falls",
-            "caption": "Becky Falls. From a strictly physical geographical point of view this is the Becka Falls waterfall on the Becka Brook, which is a tributary of the River Bovey. The water cascades here over a boulder-strewn bed with a fall of about 70 feet or about 20 metres. However the land in which they occur is privately owned, and the owners have unsurprisingly turned the site into a tourist attraction in which the falls are the centrepiece of a woodland park containing a variety of different features such as a children's zoo, pony paddocks, and a gift shop. In the course of this commercialization the name of the falls has metamorphosed from Becka, as shown on the OS 1940s map, into Becky, as shown on the current OS map. The falls were first made accessible to the public in 1903."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dartmoor%2C_Becka_Brook_-_geograph.org.uk_-_438841.jpg",
-            "title": "Nigel Cox / Dartmoor: Becka Brook",
-            "caption": "Becka Brook Viewed approximately 200 metres upstream of Becky Falls."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/View_across_the_Becka_Brook_Valley_-_geograph.org.uk_-_2012918.jpg/500px-View_across_the_Becka_Brook_Valley_-_geograph.org.uk_-_2012918.jpg",
-            "title": "View across the Becka Brook Valley by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View across the Becka Brook Valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Path%2C_through_Houndtor_Wood_-_geograph.org.uk_-_2012861.jpg/500px-Path%2C_through_Houndtor_Wood_-_geograph.org.uk_-_2012861.jpg",
-            "title": "Path, through Houndtor Wood by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Path, through Houndtor Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Path_and_stream%2C_Lower_Combe_-_geograph.org.uk_-_1763365.jpg/330px-Path_and_stream%2C_Lower_Combe_-_geograph.org.uk_-_1763365.jpg",
-            "title": "Derek Harper / Path and stream, Lower Combe",
-            "caption": "Path and stream, Lower Combe. Lustleigh Footpath 5 runs beside an arm of the stream (flowing towards the camera) down the Combe valley. There have been occasions in the past when the path could scarcely be distinguished from the stream, but it is currently just a little damp."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bridleway%2C_Lustleigh_Cleave_-_geograph.org.uk_-_3247071.jpg",
-            "title": "Bridleway, Lustleigh Cleave by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bridleway, Lustleigh Cleave"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Boulders%2C_Town_Orchard%2C_Lustleigh_-_geograph.org.uk_-_1084284.jpg",
-            "title": "Derek Harper / Boulders, Town Orchard, Lustleigh",
-            "caption": "Boulders, Town Orchard, Lustleigh"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Foxworthy_and_the_River_Bovey_-_geograph.org.uk_-_2110450.jpg/500px-Foxworthy_and_the_River_Bovey_-_geograph.org.uk_-_2110450.jpg",
-            "title": "Foxworthy and the River Bovey by Adrian King, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Foxworthy and the River Bovey. Foxworthy is a hamlet at the top of the Bovey Valley. There's a good, stone bridge spanning the River Bovey here."
-        }
-    ],
-    "distance_km": 10.0,
-    "description": "This is a circular walk in the Dartmoor's Bovey Valley visiting the beautiful Becky Falls and other local landmarks, beauty spots and villages. The falls are one of Dartmoor's premier beauty spots. It's a great area for walkers with 4 colour coded trails taking you through woodland to the Main Falls and the Lower Falls. The walk begins in the village of Manaton which is about a mile from the falls. You can park in the village and pick up a footpath through woodland to the falls. The walk then continues through woodland towards the nearby village of Lustleigh. It's worth having a stroll around Lustleigh as it's one of the most picturesque villages in England. You'll see delightful thatched cottages, a 13th-century church, the lovely Primrose Tea Rooms, a cricket field, a communal apple orchard and a splendid village pub. From Lustleigh you head back into the woodland towards Lustleigh Cleave, passing Sharpitor, Raven's Tor and Hunter's Tor. The Cleave (or 'cliff') is a great place for walkers with lots of footpaths and interesting flora and fauna. Look out for wildlife including deer, butterflies and the dipper bird by the river. In the spring you can also see lots of bluebells and foxgloves. After passing the Cleave you then cross the River Bovey at Foxworthy Bridge before passing Manaton Rocks and returning to Manaton. If you'd like to continue your walking in the area then you could climb the nearby Hound Tor for wonderful views over Dartmoor. Becky Falls are located near Bovey Tracey and Moretonhampstead .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Bell Inn in Bovey Tracey is a great option for some refreshments. The friendly, cosy pub has a good menu and a very fine garden area to relax in on warmer days. You can find it at Town Hall Place with postcode TQ13 9AA for your sat navs. Back in Manaton you could try the Kestor Inn. They serve good quality dishes and have a nice garden to sit out in. The pub is dog friendly and located at postcode TQ13 9UF."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/X5ZUdfx2G5M",
-    "postcode": "TQ13 9UJ",
-    "district": "Teignbridge",
-    "county": "Devon",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Langstone, Manaton, Water, Teignbridge, Devon, England, TQ13 9UJ, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["villages", "landmarks", "beauty spots"],
-    "facilities": [
-        "visitor center",
-        "pub/cafe",
-        "church",
-        "tea room",
-        "car park",
-        "orchard"
-    ],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Hound Tor",
+      "objectID": "f4711aec0d4a10d375eef5cf9110cdd5",
+      "ref": "hound-tor-walking-route"
+    },
+    {
+      "description": "Lustleigh Cleave",
+      "objectID": "dc9854fb9514199e8bdfdd36bc82da42",
+      "ref": "lustleigh-cleave-walking-route"
+    },
+    {
+      "description": "Moretonhampstead",
+      "objectID": "cedf66f196ad63bb77ad479cde21c934",
+      "ref": "moretonhampstead-walking-route"
+    },
+    {
+      "description": "Bowerman's Nose",
+      "objectID": "568172958fce282d8a7e24f3bf14b7ac",
+      "ref": "bowermans-nose-walking-route"
+    },
+    {
+      "description": "Manaton",
+      "objectID": "8d095eb189a9262697f042284bf9a193",
+      "ref": "manaton-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/36732f5924ad9051f2e293e791fb6cc3.gpx",
+  "_geoloc": {
+    "lat": 50.6183816585,
+    "lng": -3.7676029237
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dartmoor%2C_Becky_Falls_-_geograph.org.uk_-_438831.jpg",
+      "title": "Nigel Cox / Dartmoor: Becky Falls",
+      "caption": "Becky Falls. From a strictly physical geographical point of view this is the Becka Falls waterfall on the Becka Brook, which is a tributary of the River Bovey. The water cascades here over a boulder-strewn bed with a fall of about 70 feet or about 20 metres. However the land in which they occur is privately owned, and the owners have unsurprisingly turned the site into a tourist attraction in which the falls are the centrepiece of a woodland park containing a variety of different features such as a children's zoo, pony paddocks, and a gift shop. In the course of this commercialization the name of the falls has metamorphosed from Becka, as shown on the OS 1940s map, into Becky, as shown on the current OS map. The falls were first made accessible to the public in 1903."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dartmoor%2C_Becka_Brook_-_geograph.org.uk_-_438841.jpg",
+      "title": "Nigel Cox / Dartmoor: Becka Brook",
+      "caption": "Becka Brook Viewed approximately 200 metres upstream of Becky Falls."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/View_across_the_Becka_Brook_Valley_-_geograph.org.uk_-_2012918.jpg/500px-View_across_the_Becka_Brook_Valley_-_geograph.org.uk_-_2012918.jpg",
+      "title": "View across the Becka Brook Valley by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View across the Becka Brook Valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Path%2C_through_Houndtor_Wood_-_geograph.org.uk_-_2012861.jpg/500px-Path%2C_through_Houndtor_Wood_-_geograph.org.uk_-_2012861.jpg",
+      "title": "Path, through Houndtor Wood by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Path, through Houndtor Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Path_and_stream%2C_Lower_Combe_-_geograph.org.uk_-_1763365.jpg/330px-Path_and_stream%2C_Lower_Combe_-_geograph.org.uk_-_1763365.jpg",
+      "title": "Derek Harper / Path and stream, Lower Combe",
+      "caption": "Path and stream, Lower Combe. Lustleigh Footpath 5 runs beside an arm of the stream (flowing towards the camera) down the Combe valley. There have been occasions in the past when the path could scarcely be distinguished from the stream, but it is currently just a little damp."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bridleway%2C_Lustleigh_Cleave_-_geograph.org.uk_-_3247071.jpg",
+      "title": "Bridleway, Lustleigh Cleave by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bridleway, Lustleigh Cleave"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Boulders%2C_Town_Orchard%2C_Lustleigh_-_geograph.org.uk_-_1084284.jpg",
+      "title": "Derek Harper / Boulders, Town Orchard, Lustleigh",
+      "caption": "Boulders, Town Orchard, Lustleigh"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Foxworthy_and_the_River_Bovey_-_geograph.org.uk_-_2110450.jpg/500px-Foxworthy_and_the_River_Bovey_-_geograph.org.uk_-_2110450.jpg",
+      "title": "Foxworthy and the River Bovey by Adrian King, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Foxworthy and the River Bovey. Foxworthy is a hamlet at the top of the Bovey Valley. There's a good, stone bridge spanning the River Bovey here."
+    }
+  ],
+  "distance_km": 10.0,
+  "description": "This is a circular walk in the Dartmoor's Bovey Valley visiting the beautiful Becky Falls and other local landmarks, beauty spots and villages. The falls are one of Dartmoor's premier beauty spots. It's a great area for walkers with 4 colour coded trails taking you through woodland to the Main Falls and the Lower Falls. The walk begins in the village of Manaton which is about a mile from the falls. You can park in the village and pick up a footpath through woodland to the falls. The walk then continues through woodland towards the nearby village of Lustleigh. It's worth having a stroll around Lustleigh as it's one of the most picturesque villages in England. You'll see delightful thatched cottages, a 13th-century church, the lovely Primrose Tea Rooms, a cricket field, a communal apple orchard and a splendid village pub. From Lustleigh you head back into the woodland towards Lustleigh Cleave, passing Sharpitor, Raven's Tor and Hunter's Tor. The Cleave (or 'cliff') is a great place for walkers with lots of footpaths and interesting flora and fauna. Look out for wildlife including deer, butterflies and the dipper bird by the river. In the spring you can also see lots of bluebells and foxgloves. After passing the Cleave you then cross the River Bovey at Foxworthy Bridge before passing Manaton Rocks and returning to Manaton. If you'd like to continue your walking in the area then you could climb the nearby Hound Tor for wonderful views over Dartmoor. Becky Falls are located near Bovey Tracey and Moretonhampstead .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bell Inn in Bovey Tracey is a great option for some refreshments. The friendly, cosy pub has a good menu and a very fine garden area to relax in on warmer days. You can find it at Town Hall Place with postcode TQ13 9AA for your sat navs. Back in Manaton you could try the Kestor Inn. They serve good quality dishes and have a nice garden to sit out in. The pub is dog friendly and located at postcode TQ13 9UF."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/X5ZUdfx2G5M",
+  "postcode": "TQ13 9UJ",
+  "district": "Teignbridge",
+  "county": "Devon",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Langstone, Manaton, Water, Teignbridge, Devon, England, TQ13 9UJ, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "beauty spot",
+    "village",
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

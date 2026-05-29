@@ -1,131 +1,140 @@
 {
-    "created_at": "2025-01-06T01:37:58.748007+00:00",
-    "objectID": "30e51cb2690e80ea946d3b969e61fdb3",
-    "ref": "walsingham-way-walking-route",
-    "title": "Walsingham Way Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg/500px-Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg",
-    "nearby": [
-        {
-            "description": "Marriot's Way",
-            "objectID": "ac67b521462a354e31726a78bd96d2bc",
-            "ref": "marriots-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Pensthorpe",
-            "objectID": "e970087586aa6306c534de8392af1050",
-            "ref": "pensthorpe-walking-route"
-        },
-        {
-            "description": "Norwich Riverside Walk",
-            "objectID": "384fcd894f6a38346574000e43d48f68",
-            "ref": "norwich-riverside-walk-walking-route"
-        },
-        {
-            "description": "Wells-Next-the-Sea to Blakeney",
-            "objectID": "9b13761cbba0085066edb65843a2ef63",
-            "ref": "wells-next-the-sea-to-blakeney-walking-route"
-        },
-        {
-            "description": "Wells to Holkham Walk",
-            "objectID": "284c7d8d005b153fa61ba972162bec22",
-            "ref": "wells-to-holkham-walk-walking-route"
-        },
-        {
-            "description": "Holkham National Nature Reserve",
-            "objectID": "8c91c1b2d984a54cc2904bf82168bb95",
-            "ref": "holkham-national-nature-reserve-walking-route"
-        },
-        {
-            "description": "Holkham Park",
-            "objectID": "37ea007c40230fe734a6dafc8a188749",
-            "ref": "holkham-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Swanton Morley",
-            "objectID": "2510ab2ef0f253f44f1de6629e049580",
-            "ref": "swanton-morley-walking-route"
-        },
-        {
-            "description": "North Elmham",
-            "objectID": "799a5cfa941aff20cca587150011d6ef",
-            "ref": "north-elmham-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/30e51cb2690e80ea946d3b969e61fdb3.gpx",
-    "_geoloc": {
-        "lat": 52.89427,
-        "lng": 0.87381
+  "created_at": "2025-01-06T01:37:58.748007+00:00",
+  "objectID": "30e51cb2690e80ea946d3b969e61fdb3",
+  "ref": "walsingham-way-walking-route",
+  "title": "Walsingham Way Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg/500px-Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg",
+  "nearby": [
+    {
+      "description": "Marriot's Way",
+      "objectID": "ac67b521462a354e31726a78bd96d2bc",
+      "ref": "marriots-way-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg/500px-Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg",
-            "title": "Walsingham Abbey by Len Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Walsingham Abbey. Historically, Walsingham, was one of the the four great shrines of medieval Christendom, ranking beside Jerusalem, Rome and Santiago da Compostella and was visited by thousands of pilgrims from all over Europe, including nearly all the kings and queens of England from Henry III to Henry VIII."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_packhorse_bridge%2C_Walsingham_Abbey_-_geograph.org.uk_-_2289472.jpg/500px-The_packhorse_bridge%2C_Walsingham_Abbey_-_geograph.org.uk_-_2289472.jpg",
-            "title": "The packhorse bridge, Walsingham Abbey by Richard Humphrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The packhorse bridge, Walsingham Abbey. With snowdrops."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/St_John_the_Baptist%27s_Chapel_-_geograph.org.uk_-_571096.jpg/330px-St_John_the_Baptist%27s_Chapel_-_geograph.org.uk_-_571096.jpg",
-            "title": "Evelyn Simak / St John the Baptist's Chapel",
-            "caption": "St John the Baptist's Chapel, Croxton. View east through east window. The chapel was abandoned during the 1880s and since then the small church and its graveyard have been left to go back to nature. Surrounded by a woodland, the ruin is covered in ivy, and the headstones, some fallen over, are hidden in the dense undergrowth. Trees are growing inside the roofless building and its walls have started to crack and crumble."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Landing_Stage_-_geograph.org.uk_-_511040.jpg",
-            "title": "David Williams / Landing Stage",
-            "caption": "Landing Stage. The River Wensum glides through the heart of North Norfolk - and here it passes the gardens of cottages on the edge of Great Ryburgh village. So what better place to have a landing stage or fishing platform."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/North_Elmham_Castle.jpg",
-            "title": "Evelyn Simak / Ruins of the Bishop's Chapel",
-            "caption": "Ruins of 11th-century bishop's chapel and 14th-century fortified manor house at North Elmham"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
-            "title": "Evelyn Simak / Mill Bridge",
-            "caption": "Mill Bridge. The bridge used to lead to Lyng Mill, now closed. The view was taken looking upstream, from Lyng bridge. The roof of Mill House can be seen at left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Street_-_geograph.org.uk_-_667300.jpg",
-            "title": "Evelyn Simak / The Street",
-            "caption": "Ringland"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/River_Wensum_-_geograph.org.uk_-_1973943.jpg",
-            "title": "River Wensum by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Wensum, Norwich."
-        }
-    ],
-    "distance_km": 60.5,
-    "description": "This walk takes you from the historic abbey in Great Walsingham to the city of Norwich. On the way you'll pass several ancient religious sites and enjoy some splendid Norfolk countryside views. The route runs for just under 40 miles on a series of fairly flat footpaths. The walk starts off in the village of Great Walsingham at Walsingham Abbey. Here you'll find the spectacular ruins of the mediaeval Priory of our Lady of Walsingham. The grounds are also a lovely place for a walk with carpets of snowdrops in January/February. From here the trail heads south through the countryside to Great Snoring, Little Snoring and Croxton. Here you can see the ancient remains of St Johns Chapel, a Domesday church with standing remains possibly dating back to the 11th or 12th century. The route continues to Stibbard and Great Ryburgh where you will cross the River Wensum. Near here you'll pass Pensthorpe Park in Fakenham, where you will find a series of pretty lakes and lots of wildlife. You continue south to North Elmham where you'll pass the North Elmham Chapel, another historic route highlight. The English Heritage site includes the fascinating ruins of a small Norman chapel of unique design, which was converted into a small castle whose defensive banks and moats still surround the site. The route continues south east past Swanton Morley, Elsing and Lyng where you will pass close to the wildlife rich Sparham Pools nature reserve. Around here the route also links up with the Wensum Way, a riverside trail taking you through the valley of the River Wensum. You continue east past Lenwade to Ringland, passing close to the Marriot's Way, shared cycling and walking route running through the area. The final section takes you past the wildlife rich Taverham Mill Nature Reserve and Drayton, before a stretch along the River Wensum takes you into the Norwich City Centre.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There are a couple of good options in the pretty village of Swanton Morley if you are in need of some rest and refreshment. Darby's is a Rustic country pub with a characterful interior including tractor seats as bar stools. They have an extensive menu including a fine Sunday roast. You can find them on Elsing Road with a postcode of NR20 4NY for your sat navs. There's also the Angel which dates back to 1610 and is Grade II listed. Inside there's roaring fire and a low ceiling with original beams which have English hops hanging from them. The pub also has connections with the ancestors of American president Abraham Lincoln. You can find them at 66 Greengate, NR20 4LX. In North Elmham there's The King's Head Hotel. The inn includes an unusual collection of hats in the lounge bar and a large garden for warmer days. You can find them on Holt Road with a postcode of NR20 5JB for your sat navs. In Lyng there's The Fox to investigate. The classic country pub is over 300 years old and retains traditional elements such as the beamed ceiling, open fire and tiled floor. For brighter days, The Fox has an enclosed garden with lovely views of the church. You can find them at postcode NR9 5AL for your sat navs."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/1c5U_GugtmQ",
-    "county": "Norfolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Swan Entry, Walsingham, Great Walsingham, North Norfolk, Norfolk, England, NR22 6EE, United Kingdom",
-    "postcode": "NR22 6EE",
-    "district": "North Norfolk",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["footpath", "rural"],
-    "points_of_interest": [
-        "religious site",
-        "historic chapel",
-        "nature reserve"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Pensthorpe",
+      "objectID": "e970087586aa6306c534de8392af1050",
+      "ref": "pensthorpe-walking-route"
+    },
+    {
+      "description": "Norwich Riverside Walk",
+      "objectID": "384fcd894f6a38346574000e43d48f68",
+      "ref": "norwich-riverside-walk-walking-route"
+    },
+    {
+      "description": "Wells-Next-the-Sea to Blakeney",
+      "objectID": "9b13761cbba0085066edb65843a2ef63",
+      "ref": "wells-next-the-sea-to-blakeney-walking-route"
+    },
+    {
+      "description": "Wells to Holkham Walk",
+      "objectID": "284c7d8d005b153fa61ba972162bec22",
+      "ref": "wells-to-holkham-walk-walking-route"
+    },
+    {
+      "description": "Holkham National Nature Reserve",
+      "objectID": "8c91c1b2d984a54cc2904bf82168bb95",
+      "ref": "holkham-national-nature-reserve-walking-route"
+    },
+    {
+      "description": "Holkham Park",
+      "objectID": "37ea007c40230fe734a6dafc8a188749",
+      "ref": "holkham-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Swanton Morley",
+      "objectID": "2510ab2ef0f253f44f1de6629e049580",
+      "ref": "swanton-morley-walking-route"
+    },
+    {
+      "description": "North Elmham",
+      "objectID": "799a5cfa941aff20cca587150011d6ef",
+      "ref": "north-elmham-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/30e51cb2690e80ea946d3b969e61fdb3.gpx",
+  "_geoloc": {
+    "lat": 52.89427,
+    "lng": 0.87381
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg/500px-Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg",
+      "title": "Walsingham Abbey by Len Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Walsingham Abbey. Historically, Walsingham, was one of the the four great shrines of medieval Christendom, ranking beside Jerusalem, Rome and Santiago da Compostella and was visited by thousands of pilgrims from all over Europe, including nearly all the kings and queens of England from Henry III to Henry VIII."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_packhorse_bridge%2C_Walsingham_Abbey_-_geograph.org.uk_-_2289472.jpg/500px-The_packhorse_bridge%2C_Walsingham_Abbey_-_geograph.org.uk_-_2289472.jpg",
+      "title": "The packhorse bridge, Walsingham Abbey by Richard Humphrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The packhorse bridge, Walsingham Abbey. With snowdrops."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/St_John_the_Baptist%27s_Chapel_-_geograph.org.uk_-_571096.jpg/330px-St_John_the_Baptist%27s_Chapel_-_geograph.org.uk_-_571096.jpg",
+      "title": "Evelyn Simak / St John the Baptist's Chapel",
+      "caption": "St John the Baptist's Chapel, Croxton. View east through east window. The chapel was abandoned during the 1880s and since then the small church and its graveyard have been left to go back to nature. Surrounded by a woodland, the ruin is covered in ivy, and the headstones, some fallen over, are hidden in the dense undergrowth. Trees are growing inside the roofless building and its walls have started to crack and crumble."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Landing_Stage_-_geograph.org.uk_-_511040.jpg",
+      "title": "David Williams / Landing Stage",
+      "caption": "Landing Stage. The River Wensum glides through the heart of North Norfolk - and here it passes the gardens of cottages on the edge of Great Ryburgh village. So what better place to have a landing stage or fishing platform."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/North_Elmham_Castle.jpg",
+      "title": "Evelyn Simak / Ruins of the Bishop's Chapel",
+      "caption": "Ruins of 11th-century bishop's chapel and 14th-century fortified manor house at North Elmham"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mill_Bridge_-_geograph.org.uk_-_899159.jpg",
+      "title": "Evelyn Simak / Mill Bridge",
+      "caption": "Mill Bridge. The bridge used to lead to Lyng Mill, now closed. The view was taken looking upstream, from Lyng bridge. The roof of Mill House can be seen at left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Street_-_geograph.org.uk_-_667300.jpg",
+      "title": "Evelyn Simak / The Street",
+      "caption": "Ringland"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/River_Wensum_-_geograph.org.uk_-_1973943.jpg",
+      "title": "River Wensum by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Wensum, Norwich."
+    }
+  ],
+  "distance_km": 60.5,
+  "description": "This walk takes you from the historic abbey in Great Walsingham to the city of Norwich. On the way you'll pass several ancient religious sites and enjoy some splendid Norfolk countryside views. The route runs for just under 40 miles on a series of fairly flat footpaths. The walk starts off in the village of Great Walsingham at Walsingham Abbey. Here you'll find the spectacular ruins of the mediaeval Priory of our Lady of Walsingham. The grounds are also a lovely place for a walk with carpets of snowdrops in January/February. From here the trail heads south through the countryside to Great Snoring, Little Snoring and Croxton. Here you can see the ancient remains of St Johns Chapel, a Domesday church with standing remains possibly dating back to the 11th or 12th century. The route continues to Stibbard and Great Ryburgh where you will cross the River Wensum. Near here you'll pass Pensthorpe Park in Fakenham, where you will find a series of pretty lakes and lots of wildlife. You continue south to North Elmham where you'll pass the North Elmham Chapel, another historic route highlight. The English Heritage site includes the fascinating ruins of a small Norman chapel of unique design, which was converted into a small castle whose defensive banks and moats still surround the site. The route continues south east past Swanton Morley, Elsing and Lyng where you will pass close to the wildlife rich Sparham Pools nature reserve. Around here the route also links up with the Wensum Way, a riverside trail taking you through the valley of the River Wensum. You continue east past Lenwade to Ringland, passing close to the Marriot's Way, shared cycling and walking route running through the area. The final section takes you past the wildlife rich Taverham Mill Nature Reserve and Drayton, before a stretch along the River Wensum takes you into the Norwich City Centre.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There are a couple of good options in the pretty village of Swanton Morley if you are in need of some rest and refreshment. Darby's is a Rustic country pub with a characterful interior including tractor seats as bar stools. They have an extensive menu including a fine Sunday roast. You can find them on Elsing Road with a postcode of NR20 4NY for your sat navs. There's also the Angel which dates back to 1610 and is Grade II listed. Inside there's roaring fire and a low ceiling with original beams which have English hops hanging from them. The pub also has connections with the ancestors of American president Abraham Lincoln. You can find them at 66 Greengate, NR20 4LX. In North Elmham there's The King's Head Hotel. The inn includes an unusual collection of hats in the lounge bar and a large garden for warmer days. You can find them on Holt Road with a postcode of NR20 5JB for your sat navs. In Lyng there's The Fox to investigate. The classic country pub is over 300 years old and retains traditional elements such as the beamed ceiling, open fire and tiled floor. For brighter days, The Fox has an enclosed garden with lovely views of the church. You can find them at postcode NR9 5AL for your sat navs."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/1c5U_GugtmQ",
+  "county": "Norfolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Swan Entry, Walsingham, Great Walsingham, North Norfolk, Norfolk, England, NR22 6EE, United Kingdom",
+  "postcode": "NR22 6EE",
+  "district": "North Norfolk",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "20-25 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "ancient religious site",
+    "viewpoint",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

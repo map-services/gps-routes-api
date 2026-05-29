@@ -1,122 +1,112 @@
 {
-  "created_at": "2025-01-05T23:33:46.260136+00:00",
-  "objectID": "4e358890f1c641370cd442450ff77e93",
-  "ref": "peddars-way-and-norfolk-coast-path-walking-route",
-  "title": "Peddars Way and Norfolk Coast Path National Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Approaching_Cley_on_the_Peddars_Way-Norfolk_Coast_Path_-_geograph.org.uk_-_980683.jpg",
-  "nearby": [
-    {
-      "description": "Knettishall Heath Country Park",
-      "objectID": "01d94c388253431d9f7218f7f2a88216",
-      "ref": "knettishall-heath-country-park-walking-route"
+    "created_at": "2025-01-05T23:33:46.260136+00:00",
+    "objectID": "4e358890f1c641370cd442450ff77e93",
+    "ref": "peddars-way-and-norfolk-coast-path-walking-route",
+    "title": "Peddars Way and Norfolk Coast Path National Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Approaching_Cley_on_the_Peddars_Way-Norfolk_Coast_Path_-_geograph.org.uk_-_980683.jpg",
+    "nearby": [
+        {
+            "description": "Knettishall Heath Country Park",
+            "objectID": "01d94c388253431d9f7218f7f2a88216",
+            "ref": "knettishall-heath-country-park-walking-route"
+        },
+        {
+            "description": "Castle Acre",
+            "objectID": "991e111ff7aed6a1c76d339c12e1ed7b",
+            "ref": "castle-acre-walking-route"
+        },
+        {
+            "description": "Thornham",
+            "objectID": "51c8aa3b475e954f6c4a981f210124a9",
+            "ref": "thornham-walking-route"
+        },
+        {
+            "description": "Cockthorpe Circular Walk",
+            "objectID": "de83ef42c503468b5ffe695ece3ec742",
+            "ref": "cockthorpe-circular-walk-walking-route"
+        },
+        {
+            "description": "Blakeney Point Nature Reserve",
+            "objectID": "2522c877fea31a0d119931d386891c5b",
+            "ref": "blakeney-point-nature-reserve-walking-route"
+        },
+        {
+            "description": "Great Massingham",
+            "objectID": "69cecf30872eea75e93e9df4cbb428ea",
+            "ref": "great-massingham-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4e358890f1c641370cd442450ff77e93.gpx",
+    "_geoloc": {
+        "lat": 52.3907155305,
+        "lng": 0.8550179144
     },
-    {
-      "description": "Castle Acre",
-      "objectID": "991e111ff7aed6a1c76d339c12e1ed7b",
-      "ref": "castle-acre-walking-route"
-    },
-    {
-      "description": "Thornham",
-      "objectID": "51c8aa3b475e954f6c4a981f210124a9",
-      "ref": "thornham-walking-route"
-    },
-    {
-      "description": "Cockthorpe Circular Walk",
-      "objectID": "de83ef42c503468b5ffe695ece3ec742",
-      "ref": "cockthorpe-circular-walk-walking-route"
-    },
-    {
-      "description": "Blakeney Point Nature Reserve",
-      "objectID": "2522c877fea31a0d119931d386891c5b",
-      "ref": "blakeney-point-nature-reserve-walking-route"
-    },
-    {
-      "description": "Great Massingham",
-      "objectID": "69cecf30872eea75e93e9df4cbb428ea",
-      "ref": "great-massingham-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4e358890f1c641370cd442450ff77e93.gpx",
-  "_geoloc": {
-    "lat": 52.3907155305,
-    "lng": 0.8550179144
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Approaching_Cley_on_the_Peddars_Way-Norfolk_Coast_Path_-_geograph.org.uk_-_980683.jpg",
-      "title": "Evelyn Simak / Approaching Cley on the Peddars Way/Norfolk Coast Path",
-      "caption": "Approaching Cley on the Peddars Way/Norfolk Coast Path. Houses and Cley windmill can be seen across reed beds. The path starts just west of the bridge over the River Glaven on approaching the village of Cley. It runs north through Blakeney Freshes before turning in westerly direction at Blakeney Eye, from where it at first follows the Cley channel and then turns south towards Blakeney."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Peddars_Way-Norfolk_Coast_Path_through_Fresh_Marshes_-_geograph.org.uk_-_980713.jpg",
-      "title": "Evelyn Simak / Peddars Way/Norfolk Coast Path through Fresh Marshes",
-      "caption": "Through Fresh Marshes. The view is in southerly direction; the woodland seen in the background surrounds Wiveton Hall. The tower of St Mary's church, Wiveton can be glimpsed above the trees. The path starts just west of the bridge over the River Glaven on approaching the village of Cley. It runs north through Blakeney Freshes before turning in westerly direction at Blakeney Eye, from where it at first follows the Cley channel and then turns south towards Blakeney."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/St_Mary%27s_church_-_geograph.org.uk_-_840845.jpg",
-      "title": "Evelyn Simak / St Mary's church",
-      "caption": "St Mary's church, Wiveton. St Mary's church faces the village green with what remains of a village pump in its centre. This view was taken from the single track road that connects Wiveton with Cley, a short distance further to the northeast. Dating from the 14th and 15th centuries, the church was extensively restored but a late 14th century font remains and the tower screen has presumably been fashioned from parts of the 15th century rood screen. The unusual stained glass in the aisle windows and the west window date from 1874. There are also a few interesting brasses, one a very rare so-called cadaver brass - a shrouded skeleton - to Thomas Brigge (d. 1470). The church is open every day. Just south of the village there's the Wiveton Downs to explore. The nature reserve is a delightful place for a peaceful stroll in the area. From the elevated position of the Downs there's fine views towards the coast and countryside."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/View_west_along_the_Norfolk_Coast_Path_-_geograph.org.uk_-_749744.jpg/330px-View_west_along_the_Norfolk_Coast_Path_-_geograph.org.uk_-_749744.jpg",
-      "title": "Evelyn Simak / View west along the Norfolk Coast Path",
-      "caption": "View west along the Norfolk Coast Path. Erosion is evident all along the coastline, here the track denoting the path is slowly falling into the sea; the waves of the North Sea undermine the cliffs and cause large sections to tumble onto the beaches. About 2.5 metres (in some sections up to 5 metres) of headland is lost every year."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Marram_grass_-_geograph.org.uk_-_749752.jpg",
-      "title": "Evelyn Simak / Marram grass",
-      "caption": "Wroxham. Marram grass has established itself here on the cliff edge, its roots stabilising the soil, but with whole chunks of cliff tumbling into the sea it will be short-lived. The stretch of headland beyond the dip seen in mid-distance belongs to the National Trust."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/West_on_the_Norfolk_Coast_Path_-_geograph.org.uk_-_747724.jpg",
-      "title": "Evelyn Simak / West on the Norfolk Coast Path",
-      "caption": "West on the Norfolk Coast Path near Sheringham. New erosion is visible everywhere, with chunks of the Norfolk Coast Path/Peddars Way missing, having tumbled down onto the beach. The North Norfolk cliffs are basically comprised of soft glacial sediments, made up of layers of silts, sands, clays that were deposited during the glacial and interglacial phases of the last 2 million years. They provide little resistance to the aggressive action of North Sea waves, which erode the base. Hence cliff erosion is a major problem here and many sections have become unstable. Roughly 2.5 metres (in some areas up to 5 metres) of headland are lost per year."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/View_from_the_clifftops_-_geograph.org.uk_-_968071.jpg",
-      "title": "Evelyn Simak / View from the clifftops",
-      "caption": "View from the clifftops. Towards the village of Mundesley, with holiday chalets seen in mid-distance. When the railway opened in 1889 - bringing visitors wishing to sample the fresh sea air - the village of Mundesley grew rapidly. The railway is now long gone but Mundesley is still considered to be one of the best a holiday resorts in Norfolk, offering a sandy beach with safe swimming for children when the tide is out; the East Norfolk Coast Path/Peddars Way follows the coastline and offers splendid views across the North Sea. Properties date mainly from Victorian times and many houses are constructed from traditional Norfolk materials such as flint and brick, with thatch or pantile roofs. The village contains a small number of shops, eating places, pubs, tea rooms and possibly the smallest museum in the country, the Maritime Museum. Several holiday parks are in the vicinity of the village, the largest one being Mundesley Holiday Village, located a short distance to the southeast."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horses_grazing_in_pasture_-_geograph.org.uk_-_1085582.jpg/330px-Horses_grazing_in_pasture_-_geograph.org.uk_-_1085582.jpg",
-      "title": "Evelyn Simak / Horses grazing in pasture",
-      "caption": "Horses grazing in pasture. The blue tubs are feed buckets. The hill seen in the background is Beeston Bump, the most prominent feature along this stretch of coastline. The houses surrounding it are located in Beeston Regis. This view was taken from the path which leads from Sandy Lane via the Roman Camp to the coastal village of Beeston Regis. Beeston Regis is located in an \"Area of Outstanding Natural Beauty\" which was formed by the retreating ice at the end of the ice age and sits within an area known as the \"Cromer Ridge\", consisting of wooded heath land to the south (owned by the National Trust) and cliffs and beaches facing the North Sea. Part of these cliffs is a hill called \"Beeston Bump\". Surrounded by the oaks and heather growing on Beeston Heath there is an enclosure named Roman Camp. It is adjoined by deep circular dips, called Hills and Holes, which are believed to date from prehistoric times. During Saxon-Norman and Roman times iron ore was dug here. Evidence of Roman habitation was found in 1859 when a complete set of quern stones (used for grinding grain) were discovered. The heath and woods are a favourite site for bird watchers and many paths and bridleways, including the Norfolk Coastal Path, are leading through it. There are also several caravan and camping parks nearby."
-    }
-  ],
-  "distance_km": 150.0,
-  "description": "The Peddars Way & Norfolk Coast Path begins at Knettishall Heath Country Park in Suffolk and takes you to Holme next the sea on the Norfolk coast along designated footpaths. Some wonderful coastal scenery then follows as you head east along the Norfolk coast path from Hunstanton to Cromer.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Blakeney you could enjoy a pit stop at the 18th century Kings Arms. The Georgian Inn has an interior with bags of character including cosy little alcoves and interesting pictures, photos and posters on the walls. Outside there's a nice garden area where you can enjoy your meal on a fine day. The pub is located in a wonderful spot just yards from Blakeney Quay. You can find the pub on Westgate Street at a postcode of NR25 7NQ for your sat navs. The pub is also dog friendly if you have your canine friend with you. The Dun Cow in Salthouse is another great choice. They do good food and have an interesting interior with wood beams and an exposed brick fireplace. Outside there's a lovely garden area with fine views over the Salthouse Marshes. You can find the inn on Purdy Street at a postcode of NR25 7XA. The pub is also dog friendly. In the attractive village of Great Massingham there's the Dabbling Duck for to consider. The fine country pub serves good quality food and also provides accommodation if you'd like to stay over. Inside there's roaring fires in the winter and a garden to enjoy in the summer. You can find them in a lovely spot between the two ponds at 11 Abbey Road, with postcode PE32 2HN for your sat navs. The pub has been included in The Sunday Times list of the best 80 places to stay in Britain in 2020."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/GCvjkFMvLbI",
-  "county": "Suffolk",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Welcome to Knettishall Heath Nature Reserve, Spalding's Chair Hill, West Suffolk, Suffolk, England, IP24 2SH, United Kingdom",
-  "postcode": "IP24 2SH",
-  "district": "West Suffolk",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "scenery"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Approaching_Cley_on_the_Peddars_Way-Norfolk_Coast_Path_-_geograph.org.uk_-_980683.jpg",
+            "title": "Evelyn Simak / Approaching Cley on the Peddars Way/Norfolk Coast Path",
+            "caption": "Approaching Cley on the Peddars Way/Norfolk Coast Path. Houses and Cley windmill can be seen across reed beds. The path starts just west of the bridge over the River Glaven on approaching the village of Cley. It runs north through Blakeney Freshes before turning in westerly direction at Blakeney Eye, from where it at first follows the Cley channel and then turns south towards Blakeney."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Peddars_Way-Norfolk_Coast_Path_through_Fresh_Marshes_-_geograph.org.uk_-_980713.jpg",
+            "title": "Evelyn Simak / Peddars Way/Norfolk Coast Path through Fresh Marshes",
+            "caption": "Through Fresh Marshes. The view is in southerly direction; the woodland seen in the background surrounds Wiveton Hall. The tower of St Mary's church, Wiveton can be glimpsed above the trees. The path starts just west of the bridge over the River Glaven on approaching the village of Cley. It runs north through Blakeney Freshes before turning in westerly direction at Blakeney Eye, from where it at first follows the Cley channel and then turns south towards Blakeney."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/St_Mary%27s_church_-_geograph.org.uk_-_840845.jpg",
+            "title": "Evelyn Simak / St Mary's church",
+            "caption": "St Mary's church, Wiveton. St Mary's church faces the village green with what remains of a village pump in its centre. This view was taken from the single track road that connects Wiveton with Cley, a short distance further to the northeast. Dating from the 14th and 15th centuries, the church was extensively restored but a late 14th century font remains and the tower screen has presumably been fashioned from parts of the 15th century rood screen. The unusual stained glass in the aisle windows and the west window date from 1874. There are also a few interesting brasses, one a very rare so-called cadaver brass - a shrouded skeleton - to Thomas Brigge (d. 1470). The church is open every day. Just south of the village there's the Wiveton Downs to explore. The nature reserve is a delightful place for a peaceful stroll in the area. From the elevated position of the Downs there's fine views towards the coast and countryside."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/View_west_along_the_Norfolk_Coast_Path_-_geograph.org.uk_-_749744.jpg/330px-View_west_along_the_Norfolk_Coast_Path_-_geograph.org.uk_-_749744.jpg",
+            "title": "Evelyn Simak / View west along the Norfolk Coast Path",
+            "caption": "View west along the Norfolk Coast Path. Erosion is evident all along the coastline, here the track denoting the path is slowly falling into the sea; the waves of the North Sea undermine the cliffs and cause large sections to tumble onto the beaches. About 2.5 metres (in some sections up to 5 metres) of headland is lost every year."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Marram_grass_-_geograph.org.uk_-_749752.jpg",
+            "title": "Evelyn Simak / Marram grass",
+            "caption": "Wroxham. Marram grass has established itself here on the cliff edge, its roots stabilising the soil, but with whole chunks of cliff tumbling into the sea it will be short-lived. The stretch of headland beyond the dip seen in mid-distance belongs to the National Trust."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/West_on_the_Norfolk_Coast_Path_-_geograph.org.uk_-_747724.jpg",
+            "title": "Evelyn Simak / West on the Norfolk Coast Path",
+            "caption": "West on the Norfolk Coast Path near Sheringham. New erosion is visible everywhere, with chunks of the Norfolk Coast Path/Peddars Way missing, having tumbled down onto the beach. The North Norfolk cliffs are basically comprised of soft glacial sediments, made up of layers of silts, sands, clays that were deposited during the glacial and interglacial phases of the last 2 million years. They provide little resistance to the aggressive action of North Sea waves, which erode the base. Hence cliff erosion is a major problem here and many sections have become unstable. Roughly 2.5 metres (in some areas up to 5 metres) of headland are lost per year."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/View_from_the_clifftops_-_geograph.org.uk_-_968071.jpg",
+            "title": "Evelyn Simak / View from the clifftops",
+            "caption": "View from the clifftops. Towards the village of Mundesley, with holiday chalets seen in mid-distance. When the railway opened in 1889 - bringing visitors wishing to sample the fresh sea air - the village of Mundesley grew rapidly. The railway is now long gone but Mundesley is still considered to be one of the best a holiday resorts in Norfolk, offering a sandy beach with safe swimming for children when the tide is out; the East Norfolk Coast Path/Peddars Way follows the coastline and offers splendid views across the North Sea. Properties date mainly from Victorian times and many houses are constructed from traditional Norfolk materials such as flint and brick, with thatch or pantile roofs. The village contains a small number of shops, eating places, pubs, tea rooms and possibly the smallest museum in the country, the Maritime Museum. Several holiday parks are in the vicinity of the village, the largest one being Mundesley Holiday Village, located a short distance to the southeast."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horses_grazing_in_pasture_-_geograph.org.uk_-_1085582.jpg/330px-Horses_grazing_in_pasture_-_geograph.org.uk_-_1085582.jpg",
+            "title": "Evelyn Simak / Horses grazing in pasture",
+            "caption": "Horses grazing in pasture. The blue tubs are feed buckets. The hill seen in the background is Beeston Bump, the most prominent feature along this stretch of coastline. The houses surrounding it are located in Beeston Regis. This view was taken from the path which leads from Sandy Lane via the Roman Camp to the coastal village of Beeston Regis. Beeston Regis is located in an \"Area of Outstanding Natural Beauty\" which was formed by the retreating ice at the end of the ice age and sits within an area known as the \"Cromer Ridge\", consisting of wooded heath land to the south (owned by the National Trust) and cliffs and beaches facing the North Sea. Part of these cliffs is a hill called \"Beeston Bump\". Surrounded by the oaks and heather growing on Beeston Heath there is an enclosure named Roman Camp. It is adjoined by deep circular dips, called Hills and Holes, which are believed to date from prehistoric times. During Saxon-Norman and Roman times iron ore was dug here. Evidence of Roman habitation was found in 1859 when a complete set of quern stones (used for grinding grain) were discovered. The heath and woods are a favourite site for bird watchers and many paths and bridleways, including the Norfolk Coastal Path, are leading through it. There are also several caravan and camping parks nearby."
+        }
+    ],
+    "distance_km": 150.0,
+    "description": "The Peddars Way & Norfolk Coast Path begins at Knettishall Heath Country Park in Suffolk and takes you to Holme next the sea on the Norfolk coast along designated footpaths. Some wonderful coastal scenery then follows as you head east along the Norfolk coast path from Hunstanton to Cromer.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Blakeney you could enjoy a pit stop at the 18th century Kings Arms. The Georgian Inn has an interior with bags of character including cosy little alcoves and interesting pictures, photos and posters on the walls. Outside there's a nice garden area where you can enjoy your meal on a fine day. The pub is located in a wonderful spot just yards from Blakeney Quay. You can find the pub on Westgate Street at a postcode of NR25 7NQ for your sat navs. The pub is also dog friendly if you have your canine friend with you. The Dun Cow in Salthouse is another great choice. They do good food and have an interesting interior with wood beams and an exposed brick fireplace. Outside there's a lovely garden area with fine views over the Salthouse Marshes. You can find the inn on Purdy Street at a postcode of NR25 7XA. The pub is also dog friendly. In the attractive village of Great Massingham there's the Dabbling Duck for to consider. The fine country pub serves good quality food and also provides accommodation if you'd like to stay over. Inside there's roaring fires in the winter and a garden to enjoy in the summer. You can find them in a lovely spot between the two ponds at 11 Abbey Road, with postcode PE32 2HN for your sat navs. The pub has been included in The Sunday Times list of the best 80 places to stay in Britain in 2020."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/GCvjkFMvLbI",
+    "county": "Suffolk",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Welcome to Knettishall Heath Nature Reserve, Spalding's Chair Hill, West Suffolk, Suffolk, England, IP24 2SH, United Kingdom",
+    "postcode": "IP24 2SH",
+    "district": "West Suffolk",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "easy",
+    "terrain": ["coastal"],
+    "points_of_interest": ["nature reserve"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

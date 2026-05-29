@@ -1,130 +1,139 @@
 {
-    "created_at": "2025-01-06T02:05:33.429694+00:00",
-    "objectID": "42788000f6b9a7b0a58ccc6986d78bbe",
-    "ref": "westleton-walking-route",
-    "title": "Westleton Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Westleton_village_centre_-_geograph.org.uk_-_2027914.jpg",
-    "nearby": [
-        {
-            "description": "Minsmere Nature Reserve",
-            "objectID": "c3ba9ede0d780da672e3e56f5a171339",
-            "ref": "minsmere-nature-reserve-walking-route"
-        },
-        {
-            "description": "Dunwich Heath",
-            "objectID": "2d24a7501d7d2338cbe113f0e2764951",
-            "ref": "dunwich-heath-walking-route"
-        },
-        {
-            "description": "Suffolk Coast National Nature Reserve",
-            "objectID": "6cd7b4fca5d3d64c4a65ae4213663640",
-            "ref": "suffolk-coast-national-nature-reserve-walking-route"
-        },
-        {
-            "description": "Suffolk Coast Path",
-            "objectID": "0e29c3db92e53d17066c601df86904be",
-            "ref": "suffolk-coast-path-walking-route"
-        },
-        {
-            "description": "Dunwich Forest",
-            "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
-            "ref": "dunwich-forest-walking-route"
-        },
-        {
-            "description": "Dunwich to Walberswick Walk",
-            "objectID": "21298f9b673330217ca5ef8ccfc8a9ac",
-            "ref": "dunwich-to-walberswick-walk-walking-route"
-        },
-        {
-            "description": "Yoxford",
-            "objectID": "3020012ddff70d5e8685124289ca8034",
-            "ref": "yoxford-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/42788000f6b9a7b0a58ccc6986d78bbe.gpx",
-    "_geoloc": {
-        "lat": 52.2639357483,
-        "lng": 1.5752588081
+  "created_at": "2025-01-06T02:05:33.429694+00:00",
+  "objectID": "42788000f6b9a7b0a58ccc6986d78bbe",
+  "ref": "westleton-walking-route",
+  "title": "Westleton Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Westleton_village_centre_-_geograph.org.uk_-_2027914.jpg",
+  "nearby": [
+    {
+      "description": "Minsmere Nature Reserve",
+      "objectID": "c3ba9ede0d780da672e3e56f5a171339",
+      "ref": "minsmere-nature-reserve-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Westleton_village_centre_-_geograph.org.uk_-_2027914.jpg",
-            "title": "Westleton village centre by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Westleton village centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Westleton_Common_-_geograph.org.uk_-_362518.jpg",
-            "title": "Andrew Farrow / Westleton Common",
-            "caption": "Westleton Common. Looking towards the junction of the road to Minsmere (Mill Road) and Hardpiece lane"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Track_through_Westleton_Heath_-_geograph.org.uk_-_2067996.jpg",
-            "title": "Track through Westleton Heath by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track through Westleton Heath"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Westleton_Walks_-_geograph.org.uk_-_1733814.jpg/500px-Westleton_Walks_-_geograph.org.uk_-_1733814.jpg",
-            "title": "Glen Denny / Westleton Walks",
-            "caption": "The view across to Westleton Walks from the footpath up to Vault Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068218.jpg",
-            "title": "Dartmoor pony in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Dartmoor pony in Dunwich Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Woodland_near_Theberton_-_geograph.org.uk_-_284674.jpg",
-            "title": "Helen Hanley / Woodland near Theberton",
-            "caption": "Woodland near Theberton. Spring sunshine and glorious walking. Silver birch predominates."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Engine_Houses_at_Dunwich_Beach_-_geograph.org.uk_-_1461201.jpg",
-            "title": "Stuart Shepherd / Engine Houses at Dunwich Beach",
-            "caption": "Engine Houses at Dunwich Beach"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/New_Dunwich_Heathland_-_geograph.org.uk_-_484167.jpg",
-            "title": "Graham Burnett / New Dunwich Heathland",
-            "caption": "New Dunwich Heathland. Looking West along the hedged field boundary towards the edge of Potbriggs wood. This is the recently acquired land formerly of Mount Pleasant Farm that the National Trust are now returning to Heath. The Dunwich Deer, fox and rabbit feature strongly."
-        }
-    ],
-    "distance_km": 12.0,
-    "description": "This Suffolk village is a fine place to start a walk. There's miles of trails heading into the surrounding heathland and woodland with the coast not too far away. There's also a pretty village green, a notable 14th century church and a couple of fine old pubs for refreshments afterwards. This circular walk from the village visits Minsmere Nature Reserve, Westleton Heath and Dunwich Heath. The area is great for wildlife with Dartmoor Ponies and red deer to look out for on the way. The walk starts in the village and heads south past Westleton Common towards Hangmans New Wood. You can then follow bridleways heading north east across an area known as the Westleon Walks. This will take you past Saunders Hill to Dunwich Heath where you can pick up a section of the Suffolk Coast Path and head past Greyfriars Wood to the beach at Dunwich. You then head west along Dunwich Forest before exploring Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. You'll pass Broom Hill and Cutten's Hill before returning to the village.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the historic Westleton Crown for some post walk refreshment. The pub is located in a fine spot on the village green and dates back to the 12th century. They serve fine food and also have a nice terraced garden area to relax in on warmer days. You can find them at postcode IP17 3AD."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woods, heath and coast are ideal for dog walking so you'll probably see plenty of other owners as you make your way through the area. The Westleton Crown pub mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area you could visit the nearby Suffolk Coast National Nature Reserve at Walberswick. It's located just north of Minsmere and includes waymarked trails taking you to heathland, reed beds, grassland, woodlands, shingle, lagoons, mudflats and the salt marshes of the Blyth estuary. For more walking ideas in the area see the Sussex Walks and the Suffolk Coast and Heaths Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/-xJFRrdixBY",
-    "district": "East Suffolk",
-    "county": "Suffolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Mill Street, Westleton, East Suffolk, Suffolk, England, IP17 3BD, United Kingdom",
-    "postcode": "IP17 3BD",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "heathland", "coastal"],
-    "points_of_interest": [
-        "village green",
-        "church",
-        "nature reserve",
-        "beach"
-    ],
-    "facilities": ["pub/cafe", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Dunwich Heath",
+      "objectID": "2d24a7501d7d2338cbe113f0e2764951",
+      "ref": "dunwich-heath-walking-route"
+    },
+    {
+      "description": "Suffolk Coast National Nature Reserve",
+      "objectID": "6cd7b4fca5d3d64c4a65ae4213663640",
+      "ref": "suffolk-coast-national-nature-reserve-walking-route"
+    },
+    {
+      "description": "Suffolk Coast Path",
+      "objectID": "0e29c3db92e53d17066c601df86904be",
+      "ref": "suffolk-coast-path-walking-route"
+    },
+    {
+      "description": "Dunwich Forest",
+      "objectID": "17b6b858fa8a4dbcd5035f6daa311286",
+      "ref": "dunwich-forest-walking-route"
+    },
+    {
+      "description": "Dunwich to Walberswick Walk",
+      "objectID": "21298f9b673330217ca5ef8ccfc8a9ac",
+      "ref": "dunwich-to-walberswick-walk-walking-route"
+    },
+    {
+      "description": "Yoxford",
+      "objectID": "3020012ddff70d5e8685124289ca8034",
+      "ref": "yoxford-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/42788000f6b9a7b0a58ccc6986d78bbe.gpx",
+  "_geoloc": {
+    "lat": 52.2639357483,
+    "lng": 1.5752588081
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Westleton_village_centre_-_geograph.org.uk_-_2027914.jpg",
+      "title": "Westleton village centre by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Westleton village centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Westleton_Common_-_geograph.org.uk_-_362518.jpg",
+      "title": "Andrew Farrow / Westleton Common",
+      "caption": "Westleton Common. Looking towards the junction of the road to Minsmere (Mill Road) and Hardpiece lane"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Track_through_Westleton_Heath_-_geograph.org.uk_-_2067996.jpg",
+      "title": "Track through Westleton Heath by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track through Westleton Heath"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Westleton_Walks_-_geograph.org.uk_-_1733814.jpg/500px-Westleton_Walks_-_geograph.org.uk_-_1733814.jpg",
+      "title": "Glen Denny / Westleton Walks",
+      "caption": "The view across to Westleton Walks from the footpath up to Vault Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Dartmoor_pony_in_Dunwich_Forest_-_geograph.org.uk_-_2068218.jpg",
+      "title": "Dartmoor pony in Dunwich Forest by Evelyn Simak, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Dartmoor pony in Dunwich Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Woodland_near_Theberton_-_geograph.org.uk_-_284674.jpg",
+      "title": "Helen Hanley / Woodland near Theberton",
+      "caption": "Woodland near Theberton. Spring sunshine and glorious walking. Silver birch predominates."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Engine_Houses_at_Dunwich_Beach_-_geograph.org.uk_-_1461201.jpg",
+      "title": "Stuart Shepherd / Engine Houses at Dunwich Beach",
+      "caption": "Engine Houses at Dunwich Beach"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/New_Dunwich_Heathland_-_geograph.org.uk_-_484167.jpg",
+      "title": "Graham Burnett / New Dunwich Heathland",
+      "caption": "New Dunwich Heathland. Looking West along the hedged field boundary towards the edge of Potbriggs wood. This is the recently acquired land formerly of Mount Pleasant Farm that the National Trust are now returning to Heath. The Dunwich Deer, fox and rabbit feature strongly."
+    }
+  ],
+  "distance_km": 12.0,
+  "description": "This Suffolk village is a fine place to start a walk. There's miles of trails heading into the surrounding heathland and woodland with the coast not too far away. There's also a pretty village green, a notable 14th century church and a couple of fine old pubs for refreshments afterwards. This circular walk from the village visits Minsmere Nature Reserve, Westleton Heath and Dunwich Heath. The area is great for wildlife with Dartmoor Ponies and red deer to look out for on the way. The walk starts in the village and heads south past Westleton Common towards Hangmans New Wood. You can then follow bridleways heading north east across an area known as the Westleon Walks. This will take you past Saunders Hill to Dunwich Heath where you can pick up a section of the Suffolk Coast Path and head past Greyfriars Wood to the beach at Dunwich. You then head west along Dunwich Forest before exploring Westleton Heath where there's a number of different footpaths and lots of pretty heather in the late summer. You'll pass Broom Hill and Cutten's Hill before returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the historic Westleton Crown for some post walk refreshment. The pub is located in a fine spot on the village green and dates back to the 12th century. They serve fine food and also have a nice terraced garden area to relax in on warmer days. You can find them at postcode IP17 3AD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods, heath and coast are ideal for dog walking so you'll probably see plenty of other owners as you make your way through the area. The Westleton Crown pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could visit the nearby Suffolk Coast National Nature Reserve at Walberswick. It's located just north of Minsmere and includes waymarked trails taking you to heathland, reed beds, grassland, woodlands, shingle, lagoons, mudflats and the salt marshes of the Blyth estuary. For more walking ideas in the area see the Sussex Walks and the Suffolk Coast and Heaths Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/-xJFRrdixBY",
+  "district": "East Suffolk",
+  "county": "Suffolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Mill Street, Westleton, East Suffolk, Suffolk, England, IP17 3BD, United Kingdom",
+  "postcode": "IP17 3BD",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "coast"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

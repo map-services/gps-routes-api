@@ -1,95 +1,82 @@
 {
-  "created_at": "2025-01-06T18:53:35.636401+00:00",
-  "objectID": "160b75a175b0bf5ef71adc42b201c2ea",
-  "ref": "inishbofin-walking-route",
-  "title": "Inishbofin\u00a0Walks Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Inishbofin_%282410147710%29.jpg/500px-Inishbofin_%282410147710%29.jpg?20130129004145",
-  "nearby": [
-    {
-      "description": "Sky Road",
-      "objectID": "e4ebebe9a87b4b691ede4386c708f58f",
-      "ref": "sky-road-walking-route"
+    "created_at": "2025-01-06T18:53:35.636401+00:00",
+    "objectID": "160b75a175b0bf5ef71adc42b201c2ea",
+    "ref": "inishbofin-walking-route",
+    "title": "Inishbofin\u00a0Walks Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Inishbofin_%282410147710%29.jpg/500px-Inishbofin_%282410147710%29.jpg?20130129004145",
+    "nearby": [
+        {
+            "description": "Sky Road",
+            "objectID": "e4ebebe9a87b4b691ede4386c708f58f",
+            "ref": "sky-road-walking-route"
+        },
+        {
+            "description": "Clare Island",
+            "objectID": "e857fa479c59956ac99d87eb84771710",
+            "ref": "clare-island-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/160b75a175b0bf5ef71adc42b201c2ea.gpx",
+    "_geoloc": {
+        "lat": 53.6134184,
+        "lng": -10.2135434
     },
-    {
-      "description": "Clare Island",
-      "objectID": "e857fa479c59956ac99d87eb84771710",
-      "ref": "clare-island-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/160b75a175b0bf5ef71adc42b201c2ea.gpx",
-  "_geoloc": {
-    "lat": 53.6134184,
-    "lng": -10.2135434
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Inishbofin_%282410147710%29.jpg/500px-Inishbofin_%282410147710%29.jpg?20130129004145",
-      "title": "Bert Kaufmann from Roermond, Netherlands, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-      "caption": "Inishbofin (derived from the Irish Inis B\u00f3 Finne meaning 'Island of the White Cow'). On the island birdwatchers can look out for species such as Common Tern, Arctic Tern, Fulmers, Shags, Guillemots, Common Gulls, greater and lesser Black Backed Gulls, Manx Shearwaters, Herring Gulls and Choughs. Much of the island is a Special Area of Conservation (due to the presence of corn crakes and seals)."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inishbofin_Harbour.jpg/500px-Inishbofin_Harbour.jpg?20130129232506",
-      "title": "Drow69, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Inishbofin Harbour"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Inishbofin_Old_Pier_2018_09_03.jpg/500px-Inishbofin_Old_Pier_2018_09_03.jpg?20190105223627",
-      "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
-      "caption": "Inishbofin Old Pier"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg/500px-Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg?20181225150227",
-      "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
-      "caption": "Cromwell's Barrack on Port Island at Inishbofin. According to legend, the fort stands on the very spot where a Spanish pirate once built a castle, marking the beginning of centuries of historical significance. Its enduring fame was sealed during a crucial moment in Irish history over three hundred years ago when it became the scene of the final stand of Irish royalist forces against Cromwellian troops in 1652. With its unique star-shaped design from the 17th century, the fort not only reflects the challenges of the past but also stands as a symbol of Inishbofin's resilience."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Inishbofin_East_End_Bay_Cleggan_Disaster_Memorial_2018_09_03.jpg/500px-Inishbofin_East_End_Bay_Cleggan_Disaster_Memorial_2018_09_03.jpg?20181226102309",
-      "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
-      "caption": "Memorial at East End Bay: \u201cIn memory of the fishermen who set out from this beach on the 28th October 1927 nine of whom lost their lives in the Inishbofin/Cleggan disaster.\u201d"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Inishbofin_Lighthouse_II_2018_09_03.jpg/500px-Inishbofin_Lighthouse_II_2018_09_03.jpg?20181225134801",
-      "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
-      "caption": "Inishbofin Lighthouse"
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This waymarked circular walk follows the Westquarter Loop around the island of Inishbofin off the coast of Connemara, County Galway. The trail runs for about 8km passing rugged cliffs, a photogenic ruined fort, pretty lakes and stone beaches with fabulous coastal views to enjoy. The island is also great for birdwatching with a wide variety of sea birds to look out for. You can reach the island by catching the ferry from Cleggan with more details on this link .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For more island walking you could visit Clare Island which you can reach from Roonagh Pier near the small town of Louisburgh. The island has strong associations with the notorious Grace O'Malley, the 'pirate queen' of the 16th century."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/c6hSlB5d-mE?si=fe_6pxV7_TVf-kb6",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Low Road, Inishbofin ED, Conamara Municipal District, County Galway, Connacht, H91 NV06, \u00c9ire / Ireland",
-  "postcode": "H91 NV06",
-  "district": null,
-  "county": "County Galway",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "mountain"
-  ],
-  "points_of_interest": [
-    "fort",
-    "lakes",
-    "beaches"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Inishbofin_%282410147710%29.jpg/500px-Inishbofin_%282410147710%29.jpg?20130129004145",
+            "title": "Bert Kaufmann from Roermond, Netherlands, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+            "caption": "Inishbofin (derived from the Irish Inis B\u00f3 Finne meaning 'Island of the White Cow'). On the island birdwatchers can look out for species such as Common Tern, Arctic Tern, Fulmers, Shags, Guillemots, Common Gulls, greater and lesser Black Backed Gulls, Manx Shearwaters, Herring Gulls and Choughs. Much of the island is a Special Area of Conservation (due to the presence of corn crakes and seals)."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inishbofin_Harbour.jpg/500px-Inishbofin_Harbour.jpg?20130129232506",
+            "title": "Drow69, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Inishbofin Harbour"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Inishbofin_Old_Pier_2018_09_03.jpg/500px-Inishbofin_Old_Pier_2018_09_03.jpg?20190105223627",
+            "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
+            "caption": "Inishbofin Old Pier"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg/500px-Inishbofin_Cromwell%27s_Barrack_II_2018_09_03.jpg?20181225150227",
+            "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
+            "caption": "Cromwell's Barrack on Port Island at Inishbofin. According to legend, the fort stands on the very spot where a Spanish pirate once built a castle, marking the beginning of centuries of historical significance. Its enduring fame was sealed during a crucial moment in Irish history over three hundred years ago when it became the scene of the final stand of Irish royalist forces against Cromwellian troops in 1652. With its unique star-shaped design from the 17th century, the fort not only reflects the challenges of the past but also stands as a symbol of Inishbofin's resilience."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Inishbofin_East_End_Bay_Cleggan_Disaster_Memorial_2018_09_03.jpg/500px-Inishbofin_East_End_Bay_Cleggan_Disaster_Memorial_2018_09_03.jpg?20181226102309",
+            "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
+            "caption": "Memorial at East End Bay: \u201cIn memory of the fishermen who set out from this beach on the 28th October 1927 nine of whom lost their lives in the Inishbofin/Cleggan disaster.\u201d"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Inishbofin_Lighthouse_II_2018_09_03.jpg/500px-Inishbofin_Lighthouse_II_2018_09_03.jpg?20181225134801",
+            "title": "Andreas F. Borchert, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons",
+            "caption": "Inishbofin Lighthouse"
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This waymarked circular walk follows the Westquarter Loop around the island of Inishbofin off the coast of Connemara, County Galway. The trail runs for about 8km passing rugged cliffs, a photogenic ruined fort, pretty lakes and stone beaches with fabulous coastal views to enjoy. The island is also great for birdwatching with a wide variety of sea birds to look out for. You can reach the island by catching the ferry from Cleggan with more details on this link .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For more island walking you could visit Clare Island which you can reach from Roonagh Pier near the small town of Louisburgh. The island has strong associations with the notorious Grace O'Malley, the 'pirate queen' of the 16th century."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/c6hSlB5d-mE?si=fe_6pxV7_TVf-kb6",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Low Road, Inishbofin ED, Conamara Municipal District, County Galway, Connacht, H91 NV06, \u00c9ire / Ireland",
+    "postcode": "H91 NV06",
+    "district": null,
+    "county": "County Galway",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "moderate",
+    "terrain": ["coastal"],
+    "points_of_interest": ["ruined fort", "lake"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

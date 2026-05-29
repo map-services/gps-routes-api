@@ -1,113 +1,100 @@
 {
-  "created_at": "2025-01-06T09:44:53.601326+00:00",
-  "objectID": "97f4441b891fe797a517f0dec8f2245f",
-  "ref": "the-downs-bristol-walking-route",
-  "title": "The Downs Bristol Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Durdham_Downs_-_geograph.org.uk_-_212478.jpg",
-  "nearby": [
-    {
-      "description": "Bristol Triangular City Walk",
-      "objectID": "9fc0f902a0077df115cd9553d21fde5d",
-      "ref": "bristol-triangular-city-walk-walking-route"
+    "created_at": "2025-01-06T09:44:53.601326+00:00",
+    "objectID": "97f4441b891fe797a517f0dec8f2245f",
+    "ref": "the-downs-bristol-walking-route",
+    "title": "The Downs Bristol Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Durdham_Downs_-_geograph.org.uk_-_212478.jpg",
+    "nearby": [
+        {
+            "description": "Bristol Triangular City Walk",
+            "objectID": "9fc0f902a0077df115cd9553d21fde5d",
+            "ref": "bristol-triangular-city-walk-walking-route"
+        },
+        {
+            "description": "Leigh Woods",
+            "objectID": "23faf7577899761ce254624f49b379c6",
+            "ref": "leigh-woods-walking-and-cycle-route"
+        },
+        {
+            "description": "River Avon Trail",
+            "objectID": "ef878e5487aa84f4d4f22e086085f36b",
+            "ref": "river-avon-trail-walking-route"
+        },
+        {
+            "description": "Blaise Castle",
+            "objectID": "d381bb5146b4ff64137a1e41f29ca380",
+            "ref": "blaise-castle-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/97f4441b891fe797a517f0dec8f2245f.gpx",
+    "_geoloc": {
+        "lat": 51.4719385007,
+        "lng": -2.6184647893
     },
-    {
-      "description": "Leigh Woods",
-      "objectID": "23faf7577899761ce254624f49b379c6",
-      "ref": "leigh-woods-walking-and-cycle-route"
-    },
-    {
-      "description": "River Avon Trail",
-      "objectID": "ef878e5487aa84f4d4f22e086085f36b",
-      "ref": "river-avon-trail-walking-route"
-    },
-    {
-      "description": "Blaise Castle",
-      "objectID": "d381bb5146b4ff64137a1e41f29ca380",
-      "ref": "blaise-castle-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/97f4441b891fe797a517f0dec8f2245f.gpx",
-  "_geoloc": {
-    "lat": 51.4719385007,
-    "lng": -2.6184647893
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Durdham_Downs_-_geograph.org.uk_-_212478.jpg",
-      "title": "Linda Bailey / Durdham Downs",
-      "caption": "Durdham Downs. The Downs in the late evening sunshine."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Westbury_Parish_Boundary_Stone_-_geograph.org.uk_-_302943.jpg/330px-Westbury_Parish_Boundary_Stone_-_geograph.org.uk_-_302943.jpg",
-      "title": "Linda Bailey / Westbury Parish Boundary Stone",
-      "caption": "Westbury Parish Boundary Stone. This stone is marked WP on this face and on the other side CP although partially obscured by a another stone close to the face. The stone marks the boundary between Westbury Parish and Clifton Parish."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ladies_Mile_-_geograph.org.uk_-_252836.jpg",
-      "title": "Linda Bailey / Ladies Mile",
-      "caption": "Ladies Mile. The trees along Ladies Mile are now mostly Lime trees planted after the Elms were destroyed by Dutch Elm disease."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Boundary_stone_and_footpath_crossing_The_Downs_-_geograph.org.uk_-_384982.jpg/330px-Boundary_stone_and_footpath_crossing_The_Downs_-_geograph.org.uk_-_384982.jpg",
-      "title": "Linda Bailey / Boundary stone and footpath crossing The Downs",
-      "caption": "Boundary stone and footpath crossing The Downs. There are a series of boundary stones on The Downs. The footpath crosses The Downs finishing by the top of Blackboy Hill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/New_Seven_Sisters_on_the_Downs_-_geograph.org.uk_-_249001.jpg",
-      "title": "Linda Bailey / New Seven Sisters on the Downs",
-      "caption": "New Seven Sisters on the Downs. The new group of fir trees planted to replace the original group of which only 3 remain (seen in the background)."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seven_Sisters_on_Durdham_Down_-_geograph.org.uk_-_248999.jpg/330px-Seven_Sisters_on_Durdham_Down_-_geograph.org.uk_-_248999.jpg",
-      "title": "Linda Bailey / Seven Sisters on Durdham Down",
-      "caption": "Seven Sisters on Durdham Down. Only 3 of the 7 pine trees remain of the Seven Sisters on Durdham Downs. Two were lost in the storm in 1990. The original trees were planted about 1871. A new group of trees has been planted nearby."
-    }
-  ],
-  "distance_km": 4.5,
-  "description": "This walk explores Clifton Down and Durdham Down next to the Avon Gorge in Bristol. The Bristol Downs are a popular place for walkers and runners with nice footpaths, woodland trails and panoramic views of the Avon Gorge and the Clifton Suspension Bridge. It's a great area for birdwatching with 65 species to look out for. Keep your eyes peeled for jays, great tits, song thrush and bullfinch. In the summer months the meadows and grassland are covered in pretty wildflowers which attract butterflies including small skipper, comma, orange-tip and gatekeeper. There's also a nice tree trail with hornbeam, lime, monkey puzzle and sycamore trees. The trees are numbered with discs so you can easily identify them. The downs are on the opposite side of the river to Leigh Woods where you will find miles of cycling and walking trails through the attractive woodland. The Bristol Triangular City Walk passes over the downs, so you could pick this up to extend your walk. The River Avon Trail also passes the downs. Pick up this long distance trail to explore the course of the river.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "After your walk we recommend heading south from the Downs towards the Clifton Suspenion Bridge where you will find the fascinating Clifton Observatory. Here you can enjoy refreshments in the 360 cafe which offers fine views over the Avon Gorge and the city of Bristol. There's also an interesting museum and one of only three of the UK's working camera obscuras. Caf\u00e9 Retreat is also nicely located on Durdham Down. They do a good range of meals and snacks and can be found at postcode BS9 1FG for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The Downs are a popular place for a dog walk so you'll probably see plenty of other dogs on a fine day. Caf\u00e9 Retreat mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "On the western side of the river you'll find the little village of Abbots Leigh and the lovely Abbots Pool. This hidden gem includes a nature reserve with a medieval pool and woodland trails. There's also lots of flora and fauna with wild flowers, ferns and rhododendrons to see on your visit. For more walking ideas in the area see the Somerset Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/0Pt2SxUIBbc",
-  "postcode": "BS9 1FG",
-  "district": "Bristol",
-  "county": "City of Bristol",
-  "region": "West of England",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Downs Dressing Rooms, Stoke Road, Westbury Park, Bristol, City of Bristol, West of England, England, BS9 1FG, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "grassland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "tree trail"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "bird watching",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Durdham_Downs_-_geograph.org.uk_-_212478.jpg",
+            "title": "Linda Bailey / Durdham Downs",
+            "caption": "Durdham Downs. The Downs in the late evening sunshine."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Westbury_Parish_Boundary_Stone_-_geograph.org.uk_-_302943.jpg/330px-Westbury_Parish_Boundary_Stone_-_geograph.org.uk_-_302943.jpg",
+            "title": "Linda Bailey / Westbury Parish Boundary Stone",
+            "caption": "Westbury Parish Boundary Stone. This stone is marked WP on this face and on the other side CP although partially obscured by a another stone close to the face. The stone marks the boundary between Westbury Parish and Clifton Parish."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ladies_Mile_-_geograph.org.uk_-_252836.jpg",
+            "title": "Linda Bailey / Ladies Mile",
+            "caption": "Ladies Mile. The trees along Ladies Mile are now mostly Lime trees planted after the Elms were destroyed by Dutch Elm disease."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Boundary_stone_and_footpath_crossing_The_Downs_-_geograph.org.uk_-_384982.jpg/330px-Boundary_stone_and_footpath_crossing_The_Downs_-_geograph.org.uk_-_384982.jpg",
+            "title": "Linda Bailey / Boundary stone and footpath crossing The Downs",
+            "caption": "Boundary stone and footpath crossing The Downs. There are a series of boundary stones on The Downs. The footpath crosses The Downs finishing by the top of Blackboy Hill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/New_Seven_Sisters_on_the_Downs_-_geograph.org.uk_-_249001.jpg",
+            "title": "Linda Bailey / New Seven Sisters on the Downs",
+            "caption": "New Seven Sisters on the Downs. The new group of fir trees planted to replace the original group of which only 3 remain (seen in the background)."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seven_Sisters_on_Durdham_Down_-_geograph.org.uk_-_248999.jpg/330px-Seven_Sisters_on_Durdham_Down_-_geograph.org.uk_-_248999.jpg",
+            "title": "Linda Bailey / Seven Sisters on Durdham Down",
+            "caption": "Seven Sisters on Durdham Down. Only 3 of the 7 pine trees remain of the Seven Sisters on Durdham Downs. Two were lost in the storm in 1990. The original trees were planted about 1871. A new group of trees has been planted nearby."
+        }
+    ],
+    "distance_km": 4.5,
+    "description": "This walk explores Clifton Down and Durdham Down next to the Avon Gorge in Bristol. The Bristol Downs are a popular place for walkers and runners with nice footpaths, woodland trails and panoramic views of the Avon Gorge and the Clifton Suspension Bridge. It's a great area for birdwatching with 65 species to look out for. Keep your eyes peeled for jays, great tits, song thrush and bullfinch. In the summer months the meadows and grassland are covered in pretty wildflowers which attract butterflies including small skipper, comma, orange-tip and gatekeeper. There's also a nice tree trail with hornbeam, lime, monkey puzzle and sycamore trees. The trees are numbered with discs so you can easily identify them. The downs are on the opposite side of the river to Leigh Woods where you will find miles of cycling and walking trails through the attractive woodland. The Bristol Triangular City Walk passes over the downs, so you could pick this up to extend your walk. The River Avon Trail also passes the downs. Pick up this long distance trail to explore the course of the river.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "After your walk we recommend heading south from the Downs towards the Clifton Suspenion Bridge where you will find the fascinating Clifton Observatory. Here you can enjoy refreshments in the 360 cafe which offers fine views over the Avon Gorge and the city of Bristol. There's also an interesting museum and one of only three of the UK's working camera obscuras. Caf\u00e9 Retreat is also nicely located on Durdham Down. They do a good range of meals and snacks and can be found at postcode BS9 1FG for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The Downs are a popular place for a dog walk so you'll probably see plenty of other dogs on a fine day. Caf\u00e9 Retreat mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "On the western side of the river you'll find the little village of Abbots Leigh and the lovely Abbots Pool. This hidden gem includes a nature reserve with a medieval pool and woodland trails. There's also lots of flora and fauna with wild flowers, ferns and rhododendrons to see on your visit. For more walking ideas in the area see the Somerset Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/0Pt2SxUIBbc",
+    "postcode": "BS9 1FG",
+    "district": "Bristol",
+    "county": "City of Bristol",
+    "region": "West of England",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Downs Dressing Rooms, Stoke Road, Westbury Park, Bristol, City of Bristol, West of England, England, BS9 1FG, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "grassland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking", "bird watching"]
 }

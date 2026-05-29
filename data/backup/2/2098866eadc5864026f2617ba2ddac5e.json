@@ -1,135 +1,148 @@
 {
-    "created_at": "2025-01-05T23:40:24.622169+00:00",
-    "objectID": "2098866eadc5864026f2617ba2ddac5e",
-    "ref": "alva-glen-walking-route",
-    "title": "Alva Glen Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_32398.jpg",
-    "nearby": [
-        {
-            "description": "Gartmorn Dam Country Park",
-            "objectID": "018a0b62b6e056abdd072d92340ca14c",
-            "ref": "gartmorn-dam-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Dunfermline to Alloa",
-            "objectID": "612ed928b8b9877772b0ca3deea16074",
-            "ref": "dunfermline-to-alloa-cycle-route"
-        },
-        {
-            "description": "Lochore Meadows Country Park",
-            "objectID": "ec1bc491aaf42468aa3dd548f813bfcc",
-            "ref": "lochore-meadows-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Loch Leven",
-            "objectID": "877b30eab114ba7b463b305f0260d376",
-            "ref": "loch-leven-walking-route"
-        },
-        {
-            "description": "Townhill Country Park",
-            "objectID": "f66d7b2a8e36497ca8c976d9d60ee77e",
-            "ref": "townhill-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Dollar Glen",
-            "objectID": "5d49cbeeb1ff829eccb2e7c943ac7b8a",
-            "ref": "dollar-glen-walking-route"
-        },
-        {
-            "description": "Ochil Hills",
-            "objectID": "3024163882ff91e86d7d3c1461986e92",
-            "ref": "ochil-hills-walking-route"
-        },
-        {
-            "description": "Menstrie Glen",
-            "objectID": "c31ac489197f56118bab56796509c29d",
-            "ref": "menstrie-glen-walking-route"
-        },
-        {
-            "description": "Tillicoultry Glen",
-            "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
-            "ref": "tillicoultry-glen-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2098866eadc5864026f2617ba2ddac5e.gpx",
-    "_geoloc": {
-        "lat": 56.1572418605,
-        "lng": -3.7972826791
+  "created_at": "2025-01-05T23:40:24.622169+00:00",
+  "objectID": "2098866eadc5864026f2617ba2ddac5e",
+  "ref": "alva-glen-walking-route",
+  "title": "Alva Glen Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_32398.jpg",
+  "nearby": [
+    {
+      "description": "Gartmorn Dam Country Park",
+      "objectID": "018a0b62b6e056abdd072d92340ca14c",
+      "ref": "gartmorn-dam-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_32398.jpg",
-            "title": "Ian Mitchell / Alva Burn in Alva Glen",
-            "caption": "Alva Burn in Alva Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/View_along_Alva_Burn_into_Alva_Glen_-_geograph.org.uk_-_3788502.jpg/500px-View_along_Alva_Burn_into_Alva_Glen_-_geograph.org.uk_-_3788502.jpg",
-            "title": "View along Alva Burn into Alva Glen by Doug Lee, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View along Alva Burn into Alva Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Small_outcrops_on_Wee_Torry_-_geograph.org.uk_-_3236669.jpg/500px-Small_outcrops_on_Wee_Torry_-_geograph.org.uk_-_3236669.jpg",
-            "title": "Small outcrops on Wee Torry by Alan O'Dowd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Small outcrops on Wee Torry"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Nebit_-_geograph.org.uk_-_1577270.jpg",
-            "title": "Richard Webb / The Nebit",
-            "caption": "The Nebit. Located on the eastern side of the glen. A glance at the map suggests that the Nebit belongs to the ridge that runs down off Craighorn, but it is actually connected to Ben Ever as the Glenwinnel Burn has crossed the ridge through capturing the burn that once flowed down the Silver Glen. The Silver Glen now has a misfit stream with its headwaters cut off. Silver was mined at one time in this area."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_3788454.jpg/500px-Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_3788454.jpg",
-            "title": "Alva Burn in Alva Glen by Doug Lee, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Alva Burn in Alva Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alva_Glen_-_geograph.org.uk_-_141497.jpg",
-            "title": "Chris Wimbush / Alva Glen",
-            "caption": "Waterfall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Across_Alva_Park_to_the_Ochils_-_geograph.org.uk_-_687775.jpg",
-            "title": "Gordon Brown / Across Alva Park to the Ochils",
-            "caption": "Across Alva Park to the Ochils. You can find this park to the west of the town."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Glenwinnel_Burn_-_geograph.org.uk_-_1577264.jpg/330px-Glenwinnel_Burn_-_geograph.org.uk_-_1577264.jpg",
-            "title": "Richard Webb / Glenwinnel Burn",
-            "caption": "Glenwinnel Burn. The Glenwinnel Burn falls steeply into the Alva Glen."
-        }
-    ],
-    "distance_km": 3.2,
-    "description": "This walk visits the beautiful Alva Glen in the Clackmannanshire town of Alva, in the Central Lowlands of Scotland. The route follows the Alva burn north from the town, taking you past pretty waterfalls with fine views of the surrounding Ochil Hills. You can start from the Alva Glen car park and then pick up the steadily rising footpath through the scenic gorge. Towards the end there are some splendid views back down the glen as you rise to over 200 metres. On the way you can also enjoy some lovely flora and fauna with pretty widflowers and a variety of tree species. Wildlife includes kestrel, the long tailed wagtail and various other woodland birds. There's also the Alva Glen illuminations when the trail and the waterfalls are beautifully lit up with different coloured lights. To continue your walking in the area head south east to visit Gartmorn Dam Country Park. There's a fine waterside path around the Gartmorn Dam reservoir to enjoy here.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The No 5 Inn is located very close to the car park at the start of the walk. The inn has some interesting history dating back to 1776. In 1787 it was visited by poet Robert Burns and there is a plaque commemorating the event on the side of the pub. It is thought that it was the 5th pub Burns stoped at on his way from Stirling to the north. Hence the name, No 5 Inn.There's a pleasant interior with a historic bar serving good quality whiskies and a selection of guest beers from the many micro breweries in the area. There's also a fine restaurant with many Scottish favourites on the menu. You can find them at 38 Brook St, Alva FK12 5JL."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The glen is a fine place for a dog walk. It's best to keep them on leads as there are some steep drops. The No 5 Inn mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the east is the Ochil Hills Woodland Park where there's some pleasant woodland trails. The park also has good facilities with a car park, a children's play area, picnic sites and display boards. A few miles to the east there's also Dollar Glen. The National Trust owned area includes more picturesque waterfalls and the medieval Castle Campbell which dates from the 16th century. To the west there's Menstrie Glen and the walk to Lossburn Reservoir. To the east there's Tillicoultry Glen and Mill Glen where you can learn about the interesting industrial past of the area."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/80Unbmr7XvY?si=7xeDiqK5KiPWMUbK",
-    "postcode": "FK12 5JR",
-    "district": "Alva",
-    "county": "Clackmannanshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Braehead, Alva, Clackmannanshire, Alba / Scotland, FK12 5JR, United Kingdom",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "1.5 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "gorge"],
-    "points_of_interest": ["viewpoint", "waterfall"],
-    "facilities": ["car park", "visitor center", "dog friendly"],
-    "route_type": "out and back",
-    "activities": ["walking", "bird watching"]
+    {
+      "description": "Dunfermline to Alloa",
+      "objectID": "612ed928b8b9877772b0ca3deea16074",
+      "ref": "dunfermline-to-alloa-cycle-route"
+    },
+    {
+      "description": "Lochore Meadows Country Park",
+      "objectID": "ec1bc491aaf42468aa3dd548f813bfcc",
+      "ref": "lochore-meadows-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Loch Leven",
+      "objectID": "877b30eab114ba7b463b305f0260d376",
+      "ref": "loch-leven-walking-route"
+    },
+    {
+      "description": "Townhill Country Park",
+      "objectID": "f66d7b2a8e36497ca8c976d9d60ee77e",
+      "ref": "townhill-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Dollar Glen",
+      "objectID": "5d49cbeeb1ff829eccb2e7c943ac7b8a",
+      "ref": "dollar-glen-walking-route"
+    },
+    {
+      "description": "Ochil Hills",
+      "objectID": "3024163882ff91e86d7d3c1461986e92",
+      "ref": "ochil-hills-walking-route"
+    },
+    {
+      "description": "Menstrie Glen",
+      "objectID": "c31ac489197f56118bab56796509c29d",
+      "ref": "menstrie-glen-walking-route"
+    },
+    {
+      "description": "Tillicoultry Glen",
+      "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
+      "ref": "tillicoultry-glen-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2098866eadc5864026f2617ba2ddac5e.gpx",
+  "_geoloc": {
+    "lat": 56.1572418605,
+    "lng": -3.7972826791
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_32398.jpg",
+      "title": "Ian Mitchell / Alva Burn in Alva Glen",
+      "caption": "Alva Burn in Alva Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/View_along_Alva_Burn_into_Alva_Glen_-_geograph.org.uk_-_3788502.jpg/500px-View_along_Alva_Burn_into_Alva_Glen_-_geograph.org.uk_-_3788502.jpg",
+      "title": "View along Alva Burn into Alva Glen by Doug Lee, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View along Alva Burn into Alva Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Small_outcrops_on_Wee_Torry_-_geograph.org.uk_-_3236669.jpg/500px-Small_outcrops_on_Wee_Torry_-_geograph.org.uk_-_3236669.jpg",
+      "title": "Small outcrops on Wee Torry by Alan O'Dowd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Small outcrops on Wee Torry"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Nebit_-_geograph.org.uk_-_1577270.jpg",
+      "title": "Richard Webb / The Nebit",
+      "caption": "The Nebit. Located on the eastern side of the glen. A glance at the map suggests that the Nebit belongs to the ridge that runs down off Craighorn, but it is actually connected to Ben Ever as the Glenwinnel Burn has crossed the ridge through capturing the burn that once flowed down the Silver Glen. The Silver Glen now has a misfit stream with its headwaters cut off. Silver was mined at one time in this area."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_3788454.jpg/500px-Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_3788454.jpg",
+      "title": "Alva Burn in Alva Glen by Doug Lee, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Alva Burn in Alva Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alva_Glen_-_geograph.org.uk_-_141497.jpg",
+      "title": "Chris Wimbush / Alva Glen",
+      "caption": "Waterfall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Across_Alva_Park_to_the_Ochils_-_geograph.org.uk_-_687775.jpg",
+      "title": "Gordon Brown / Across Alva Park to the Ochils",
+      "caption": "Across Alva Park to the Ochils. You can find this park to the west of the town."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Glenwinnel_Burn_-_geograph.org.uk_-_1577264.jpg/330px-Glenwinnel_Burn_-_geograph.org.uk_-_1577264.jpg",
+      "title": "Richard Webb / Glenwinnel Burn",
+      "caption": "Glenwinnel Burn. The Glenwinnel Burn falls steeply into the Alva Glen."
+    }
+  ],
+  "distance_km": 3.2,
+  "description": "This walk visits the beautiful Alva Glen in the Clackmannanshire town of Alva, in the Central Lowlands of Scotland. The route follows the Alva burn north from the town, taking you past pretty waterfalls with fine views of the surrounding Ochil Hills. You can start from the Alva Glen car park and then pick up the steadily rising footpath through the scenic gorge. Towards the end there are some splendid views back down the glen as you rise to over 200 metres. On the way you can also enjoy some lovely flora and fauna with pretty widflowers and a variety of tree species. Wildlife includes kestrel, the long tailed wagtail and various other woodland birds. There's also the Alva Glen illuminations when the trail and the waterfalls are beautifully lit up with different coloured lights. To continue your walking in the area head south east to visit Gartmorn Dam Country Park. There's a fine waterside path around the Gartmorn Dam reservoir to enjoy here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The No 5 Inn is located very close to the car park at the start of the walk. The inn has some interesting history dating back to 1776. In 1787 it was visited by poet Robert Burns and there is a plaque commemorating the event on the side of the pub. It is thought that it was the 5th pub Burns stoped at on his way from Stirling to the north. Hence the name, No 5 Inn.There's a pleasant interior with a historic bar serving good quality whiskies and a selection of guest beers from the many micro breweries in the area. There's also a fine restaurant with many Scottish favourites on the menu. You can find them at 38 Brook St, Alva FK12 5JL."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The glen is a fine place for a dog walk. It's best to keep them on leads as there are some steep drops. The No 5 Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east is the Ochil Hills Woodland Park where there's some pleasant woodland trails. The park also has good facilities with a car park, a children's play area, picnic sites and display boards. A few miles to the east there's also Dollar Glen. The National Trust owned area includes more picturesque waterfalls and the medieval Castle Campbell which dates from the 16th century. To the west there's Menstrie Glen and the walk to Lossburn Reservoir. To the east there's Tillicoultry Glen and Mill Glen where you can learn about the interesting industrial past of the area."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/80Unbmr7XvY?si=7xeDiqK5KiPWMUbK",
+  "postcode": "FK12 5JR",
+  "district": "Alva",
+  "county": "Clackmannanshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Braehead, Alva, Clackmannanshire, Alba / Scotland, FK12 5JR, United Kingdom",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "gorge"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "dam"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

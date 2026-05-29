@@ -1,144 +1,151 @@
 {
-    "created_at": "2025-01-06T03:17:19.286872+00:00",
-    "objectID": "dd663db0e4c960f9992e38a21f8682a0",
-    "ref": "uppingham-walking-route",
-    "title": "Uppingham Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg/330px-High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg",
-    "nearby": [
-        {
-            "description": "Eyebrook Reservoir",
-            "objectID": "4ac1b3f36daa899cfdc61fd7f3fbcfaa",
-            "ref": "eyebrook-reservoir-walking-route"
-        },
-        {
-            "description": "Rutland Water",
-            "objectID": "1c2f74e94b86c62210d62ff867df82d7",
-            "ref": "rutland-water-walking-and-cycle-route"
-        },
-        {
-            "description": "Macmillan Way",
-            "objectID": "cf3f4a199da30cc9ae551d49d13ec8f4",
-            "ref": "macmillan-way-walking-route"
-        },
-        {
-            "description": "Wistow",
-            "objectID": "899e84f4b5c684fff2b137e50bf9111d",
-            "ref": "wistow-walking-route"
-        },
-        {
-            "description": "Around Corby",
-            "objectID": "4a398d104e67a104c8bf1d14d54a4a47",
-            "ref": "around-corby-walking-route"
-        },
-        {
-            "description": "Rockingham Castle",
-            "objectID": "da826f9698a839f9ba8504c17c5fe01d",
-            "ref": "rockingham-castle-walking-route"
-        },
-        {
-            "description": "Rockingham Forest",
-            "objectID": "3feb1bf26c06fad82f7e8972770ee3ce",
-            "ref": "rockingham-forest-walking-route"
-        },
-        {
-            "description": "Hallaton",
-            "objectID": "43f3bb3debc88df9222254181004ed6a",
-            "ref": "hallaton-walking-route"
-        },
-        {
-            "description": "Kibworth",
-            "objectID": "f469f279e601cb4aacdee79bc3975aa2",
-            "ref": "kibworth-walking-route"
-        },
-        {
-            "description": "Launde Abbey",
-            "objectID": "476e7fdfe8938d1b8a606effabc31c5d",
-            "ref": "launde-abbey-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dd663db0e4c960f9992e38a21f8682a0.gpx",
-    "_geoloc": {
-        "lat": 52.5881505814,
-        "lng": -0.7268144369
+  "created_at": "2025-01-06T03:17:19.286872+00:00",
+  "objectID": "dd663db0e4c960f9992e38a21f8682a0",
+  "ref": "uppingham-walking-route",
+  "title": "Uppingham Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg/330px-High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg",
+  "nearby": [
+    {
+      "description": "Eyebrook Reservoir",
+      "objectID": "4ac1b3f36daa899cfdc61fd7f3fbcfaa",
+      "ref": "eyebrook-reservoir-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg/330px-High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg",
-            "title": "John Sutton / Uppingham: High Street East",
-            "caption": "High Street East, Uppingham"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Market_Place%2C_Uppingham_-_geograph.org.uk_-_1594311.jpg",
-            "title": "Stephen McKay / Market Place, Uppingham",
-            "caption": "Market Place, Uppingham. The heart of this small Rutland town. Photo taken in 1999."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Eyebrook_Reservoir_-_geograph.org.uk_-_538058.jpg",
-            "title": "Mat Fascione / Eyebrook Reservoir",
-            "caption": "Straddling the border of Leicestershire and Rutland. This reservoir was used as a practice site for the dambusters raids."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Marquess_of_Exeter_Hotel%2C_Lyddington_-_geograph.org.uk_-_573608.jpg",
-            "title": "Wesley Trevor Johnston / The Marquess of Exeter Hotel, Lyddington",
-            "caption": "The Marquess of Exeter Hotel, Lyddington"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lyddington_Bede_House_Rutland_05.jpg/330px-Lyddington_Bede_House_Rutland_05.jpg",
-            "title": "Tyssil / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
-            "caption": "Lyddington Bede House is a historic house in Rutland, England, owned and opened to the public by English Heritage. The existing Grade I listed building is a part of a former palace of the Bishops of Lincoln, situated next to the church in the village of Lyddington."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Dry_-_geograph.org.uk_-_538037.jpg",
-            "title": "Mat Fascione / Stoke Dry",
-            "caption": "Stoke Dry. As seen from Harborough Hill Road on the far side of Eyebrook Reservoir. This lovely country scene was captured during the summer of 2007."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/View_to_corner_of_Stoke_Dry_Wood_-_geograph.org.uk_-_232425.jpg",
-            "title": "Tim Heaton / View to corner of Stoke Dry Wood",
-            "caption": "View to corner of Stoke Dry Wood. The Wood spills down the east side of the valley of the Eye Brook, just north of Eyebrook Reservoir."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Falcon_Hotel%2C_Market_Square%2C_Uppingham._-_geograph.org.uk_-_129380.jpg",
-            "title": "Colin Smith / Falcon Hotel, Market Square, Uppingham.",
-            "caption": "Falcon Hotel, Market Square, Uppingham. An old town of ironstone houses - but more famous for its public school."
-        }
-    ],
-    "distance_km": 14.8,
-    "description": "The town of Uppingham is located in a pleasant position in Rutland. The town includes an attractive market place and many interesting buildings which include a notable public school, founded in 1584. This circular walk from the town takes you through the local countryside and woodland to the nearby Eyebrook Reservoir before a visit to the neighbouring villages of Stoke Dry and Lyddington. The walk starts in the town and follows country lanes and footpaths west past the Meteorological Station to King's Hill Lodge. You then head south west to Stockerston before turning south east to reach the reservoir. There's some nice paths to follow along the water with patches of woodland too. After exploring the reservoir area you head north east before heading east to visit Lyddington. Here you'll find Lyddington Bede House, owned by English Heritage. This Grade I listed building incorporates parts of a medieval bishop's palace. The remains of the fishponds of the bishop's palace are nearby. After exploring Lyddington you retrace your steps before turning north east towards Stoke Dry Wood. You head north along the edge of the wood before turning east to return to Uppingham.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the Falcon Hotel for some refreshments after your walk. The 16th Century coaching inn is located in a fine position on the market place in Uppingham. Inside there's wood-burning fires while outside there's a delightful patio garden to relax in if the weather is fine. You can find the hotel at postcode LE15 9PY for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The country and woodland trails on the route make for a nice dog walk. The Falcon Hotel mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Rutland Round is a fine circular walk which passes through the town. You could pick up the waymarked trail to further explore the surrounding countryside. Following it north will take you up to one of the highlights of the area at Rutland Water, one of the largest artificial lakes in Europe. The long distance Macmillan Way also runs through the area. You can pick it up west of the town in Belton or Allexton. A few miles to the west you'll find the noteworthy hamlet of Wistow. There's much to see here with a popular maze, a Rural Centre with a large garden centre, a model village, a cafe/bistro, a Mediterranean deli, an art gallery and a notable 12th century church. There's also nice paths along the Grand Union Canal and the River Sence to enjoy. A few miles to the south there's Rockingham Castle near Corby. Here you'll find some interesting history and beautiful gardens to explore.  To the south east there's the noteworthy Harringworth Welland Viaduct to visit. The Grade II listed viaduct is about a kilometre long, and was completed in 1878. It contains 82 arches and is notable as the longest masonry viaduct across a valley in Britain. For more walking ideas around Uppingham see the Rutland Walks page."
-        }
-    ],
-    "postcode": "LE15 9QE",
-    "district": "Oakham",
-    "county": "Rutland",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Uppingham School, High Street West, Oakham, Rutland, England, LE15 9QE, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "country lane"],
-    "points_of_interest": [
-        "market place",
-        "public school",
-        "village",
-        "bishop's palace"
-    ],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Rutland Water",
+      "objectID": "1c2f74e94b86c62210d62ff867df82d7",
+      "ref": "rutland-water-walking-and-cycle-route"
+    },
+    {
+      "description": "Macmillan Way",
+      "objectID": "cf3f4a199da30cc9ae551d49d13ec8f4",
+      "ref": "macmillan-way-walking-route"
+    },
+    {
+      "description": "Wistow",
+      "objectID": "899e84f4b5c684fff2b137e50bf9111d",
+      "ref": "wistow-walking-route"
+    },
+    {
+      "description": "Around Corby",
+      "objectID": "4a398d104e67a104c8bf1d14d54a4a47",
+      "ref": "around-corby-walking-route"
+    },
+    {
+      "description": "Rockingham Castle",
+      "objectID": "da826f9698a839f9ba8504c17c5fe01d",
+      "ref": "rockingham-castle-walking-route"
+    },
+    {
+      "description": "Rockingham Forest",
+      "objectID": "3feb1bf26c06fad82f7e8972770ee3ce",
+      "ref": "rockingham-forest-walking-route"
+    },
+    {
+      "description": "Hallaton",
+      "objectID": "43f3bb3debc88df9222254181004ed6a",
+      "ref": "hallaton-walking-route"
+    },
+    {
+      "description": "Kibworth",
+      "objectID": "f469f279e601cb4aacdee79bc3975aa2",
+      "ref": "kibworth-walking-route"
+    },
+    {
+      "description": "Launde Abbey",
+      "objectID": "476e7fdfe8938d1b8a606effabc31c5d",
+      "ref": "launde-abbey-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dd663db0e4c960f9992e38a21f8682a0.gpx",
+  "_geoloc": {
+    "lat": 52.5881505814,
+    "lng": -0.7268144369
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg/330px-High_Street_East%2C_Uppingham_%28geograph_3341980%29.jpg",
+      "title": "John Sutton / Uppingham: High Street East",
+      "caption": "High Street East, Uppingham"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Market_Place%2C_Uppingham_-_geograph.org.uk_-_1594311.jpg",
+      "title": "Stephen McKay / Market Place, Uppingham",
+      "caption": "Market Place, Uppingham. The heart of this small Rutland town. Photo taken in 1999."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Eyebrook_Reservoir_-_geograph.org.uk_-_538058.jpg",
+      "title": "Mat Fascione / Eyebrook Reservoir",
+      "caption": "Straddling the border of Leicestershire and Rutland. This reservoir was used as a practice site for the dambusters raids."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Marquess_of_Exeter_Hotel%2C_Lyddington_-_geograph.org.uk_-_573608.jpg",
+      "title": "Wesley Trevor Johnston / The Marquess of Exeter Hotel, Lyddington",
+      "caption": "The Marquess of Exeter Hotel, Lyddington"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lyddington_Bede_House_Rutland_05.jpg/330px-Lyddington_Bede_House_Rutland_05.jpg",
+      "title": "Tyssil / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+      "caption": "Lyddington Bede House is a historic house in Rutland, England, owned and opened to the public by English Heritage. The existing Grade I listed building is a part of a former palace of the Bishops of Lincoln, situated next to the church in the village of Lyddington."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stoke_Dry_-_geograph.org.uk_-_538037.jpg",
+      "title": "Mat Fascione / Stoke Dry",
+      "caption": "Stoke Dry. As seen from Harborough Hill Road on the far side of Eyebrook Reservoir. This lovely country scene was captured during the summer of 2007."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/View_to_corner_of_Stoke_Dry_Wood_-_geograph.org.uk_-_232425.jpg",
+      "title": "Tim Heaton / View to corner of Stoke Dry Wood",
+      "caption": "View to corner of Stoke Dry Wood. The Wood spills down the east side of the valley of the Eye Brook, just north of Eyebrook Reservoir."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Falcon_Hotel%2C_Market_Square%2C_Uppingham._-_geograph.org.uk_-_129380.jpg",
+      "title": "Colin Smith / Falcon Hotel, Market Square, Uppingham.",
+      "caption": "Falcon Hotel, Market Square, Uppingham. An old town of ironstone houses - but more famous for its public school."
+    }
+  ],
+  "distance_km": 14.8,
+  "description": "The town of Uppingham is located in a pleasant position in Rutland. The town includes an attractive market place and many interesting buildings which include a notable public school, founded in 1584. This circular walk from the town takes you through the local countryside and woodland to the nearby Eyebrook Reservoir before a visit to the neighbouring villages of Stoke Dry and Lyddington. The walk starts in the town and follows country lanes and footpaths west past the Meteorological Station to King's Hill Lodge. You then head south west to Stockerston before turning south east to reach the reservoir. There's some nice paths to follow along the water with patches of woodland too. After exploring the reservoir area you head north east before heading east to visit Lyddington. Here you'll find Lyddington Bede House, owned by English Heritage. This Grade I listed building incorporates parts of a medieval bishop's palace. The remains of the fishponds of the bishop's palace are nearby. After exploring Lyddington you retrace your steps before turning north east towards Stoke Dry Wood. You head north along the edge of the wood before turning east to return to Uppingham.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Falcon Hotel for some refreshments after your walk. The 16th Century coaching inn is located in a fine position on the market place in Uppingham. Inside there's wood-burning fires while outside there's a delightful patio garden to relax in if the weather is fine. You can find the hotel at postcode LE15 9PY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails on the route make for a nice dog walk. The Falcon Hotel mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Rutland Round is a fine circular walk which passes through the town. You could pick up the waymarked trail to further explore the surrounding countryside. Following it north will take you up to one of the highlights of the area at Rutland Water, one of the largest artificial lakes in Europe. The long distance Macmillan Way also runs through the area. You can pick it up west of the town in Belton or Allexton. A few miles to the west you'll find the noteworthy hamlet of Wistow. There's much to see here with a popular maze, a Rural Centre with a large garden centre, a model village, a cafe/bistro, a Mediterranean deli, an art gallery and a notable 12th century church. There's also nice paths along the Grand Union Canal and the River Sence to enjoy. A few miles to the south there's Rockingham Castle near Corby. Here you'll find some interesting history and beautiful gardens to explore.  To the south east there's the noteworthy Harringworth Welland Viaduct to visit. The Grade II listed viaduct is about a kilometre long, and was completed in 1878. It contains 82 arches and is notable as the longest masonry viaduct across a valley in Britain. For more walking ideas around Uppingham see the Rutland Walks page."
+    }
+  ],
+  "postcode": "LE15 9QE",
+  "district": "Oakham",
+  "county": "Rutland",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Uppingham School, High Street West, Oakham, Rutland, England, LE15 9QE, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

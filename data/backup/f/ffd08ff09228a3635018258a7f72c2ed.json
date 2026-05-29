@@ -1,108 +1,97 @@
 {
-  "created_at": "2025-01-06T11:03:17.840521+00:00",
-  "objectID": "ffd08ff09228a3635018258a7f72c2ed",
-  "ref": "weetslade-country-park-walking-and-cycle-route",
-  "title": "Weetslade Country Park Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sculptures_in_Weetslade_Country_Park_-_geograph.org.uk_-_785599.jpg",
-  "nearby": [
-    {
-      "description": "Northumberlandia",
-      "objectID": "07d03f5d924e2ad91610e153d4a68b34",
-      "ref": "northumberlandia-walking-route"
+    "created_at": "2025-01-06T11:03:17.840521+00:00",
+    "objectID": "ffd08ff09228a3635018258a7f72c2ed",
+    "ref": "weetslade-country-park-walking-and-cycle-route",
+    "title": "Weetslade Country Park Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sculptures_in_Weetslade_Country_Park_-_geograph.org.uk_-_785599.jpg",
+    "nearby": [
+        {
+            "description": "Northumberlandia",
+            "objectID": "07d03f5d924e2ad91610e153d4a68b34",
+            "ref": "northumberlandia-walking-route"
+        },
+        {
+            "description": "Cramlington",
+            "objectID": "2fc6a04058f2bd479b43de1347eb546a",
+            "ref": "cramlington-walking-route"
+        },
+        {
+            "description": "Plessey Woods Country Park",
+            "objectID": "703a3b21ef480f6b46a51e5097dd5bae",
+            "ref": "plessey-woods-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Bedlington Country Park",
+            "objectID": "dea972f66bf0368cbd93536eede3ec27",
+            "ref": "bedlington-country-park-walking-route"
+        },
+        {
+            "description": "Humford Woods",
+            "objectID": "622c229670b04df03c4081cbd3313124",
+            "ref": "humford-woods-walking-route"
+        },
+        {
+            "description": "Blyth",
+            "objectID": "c240a48fb74d3f5f16a800cb6d54a77c",
+            "ref": "blyth-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/ffd08ff09228a3635018258a7f72c2ed.gpx",
+    "_geoloc": {
+        "lat": 55.0450284051,
+        "lng": -1.59557522
     },
-    {
-      "description": "Cramlington",
-      "objectID": "2fc6a04058f2bd479b43de1347eb546a",
-      "ref": "cramlington-walking-route"
-    },
-    {
-      "description": "Plessey Woods Country Park",
-      "objectID": "703a3b21ef480f6b46a51e5097dd5bae",
-      "ref": "plessey-woods-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Bedlington Country Park",
-      "objectID": "dea972f66bf0368cbd93536eede3ec27",
-      "ref": "bedlington-country-park-walking-route"
-    },
-    {
-      "description": "Humford Woods",
-      "objectID": "622c229670b04df03c4081cbd3313124",
-      "ref": "humford-woods-walking-route"
-    },
-    {
-      "description": "Blyth",
-      "objectID": "c240a48fb74d3f5f16a800cb6d54a77c",
-      "ref": "blyth-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/ffd08ff09228a3635018258a7f72c2ed.gpx",
-  "_geoloc": {
-    "lat": 55.0450284051,
-    "lng": -1.59557522
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sculptures_in_Weetslade_Country_Park_-_geograph.org.uk_-_785599.jpg",
-      "title": "Norman MacKillop / Sculptures in Weetslade Country Park",
-      "caption": "Sculptures in Weetslade Country Park Between Dudley and Wideopen. On top of the recently remodelled pitheap. The park is administered by The Northumberland Wildlife Trust."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Summit_of_Weetslade_Country_Park_-_geograph.org.uk_-_2817344.jpg",
-      "title": "Summit of Weetslade Country Park by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Summit of Weetslade Country Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Weetslade_hill_top_artwork_-_geograph.org.uk_-_1067226.jpg",
-      "title": "Pete Hawthorn / Weetslade hill top artwork",
-      "caption": "Weetslade hill top artwork"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg/500px-Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg",
-      "title": "Weetslade Colliery Country Park by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Western side of the park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Big_Waters_Nature_Reserve_-_geograph.org.uk_-_843703.jpg",
-      "title": "brian clark / Big Waters Nature Reserve",
-      "caption": "Big Waters Nature Reserve. The reserve is located just west of the park. It features a mix of habitats including the largest subsidence pond (one of the largest bodies of open water in the region), providing home to diverse wildlife."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg/500px-Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg",
-      "title": "Weetslade Colliery Country Park by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The park in early autumn"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "This former colliery site has been converted into a beautiful country park and a haven for wildlife. Weetslade hill rises to a height of 95m giving fabulous views of the surroundiing countryside, the North Sea, the Cheviots and Newcastle Upon Tyne city. You can cycle or walk along the tracks in the park towards the nearby Big Waters Nature Reserve where you can see a wide variety of birdlife. The park also contains three developing reed beds, which are now home to many common damselflies and dragonflies. Weetslade is located just a few miles north of Newcastle City centre near Gosforth Park and Cramlington. You could continue your walking from the park by heading a couple of miles north to visit Northumberlandia. Here you can enjoy a climb to the Lady of the North, a huge sculpture commanding fine views over the area.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/DIciJr5b72o",
-  "postcode": "NE23 7LZ",
-  "region": "North East",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Great Lime Road, Dudley, North Tyneside, North East, England, NE23 7LZ, United Kingdom",
-  "district": "North Tyneside",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "hill"
-  ],
-  "points_of_interest": [
-    "sculpture",
-    "nature reserve"
-  ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sculptures_in_Weetslade_Country_Park_-_geograph.org.uk_-_785599.jpg",
+            "title": "Norman MacKillop / Sculptures in Weetslade Country Park",
+            "caption": "Sculptures in Weetslade Country Park Between Dudley and Wideopen. On top of the recently remodelled pitheap. The park is administered by The Northumberland Wildlife Trust."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Summit_of_Weetslade_Country_Park_-_geograph.org.uk_-_2817344.jpg",
+            "title": "Summit of Weetslade Country Park by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Summit of Weetslade Country Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Weetslade_hill_top_artwork_-_geograph.org.uk_-_1067226.jpg",
+            "title": "Pete Hawthorn / Weetslade hill top artwork",
+            "caption": "Weetslade hill top artwork"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg/500px-Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg",
+            "title": "Weetslade Colliery Country Park by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Western side of the park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Big_Waters_Nature_Reserve_-_geograph.org.uk_-_843703.jpg",
+            "title": "brian clark / Big Waters Nature Reserve",
+            "caption": "Big Waters Nature Reserve. The reserve is located just west of the park. It features a mix of habitats including the largest subsidence pond (one of the largest bodies of open water in the region), providing home to diverse wildlife."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg/500px-Weetslade_Colliery_Country_Park_-_geograph.org.uk_-_2733564.jpg",
+            "title": "Weetslade Colliery Country Park by Anthony Foster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The park in early autumn"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "This former colliery site has been converted into a beautiful country park and a haven for wildlife. Weetslade hill rises to a height of 95m giving fabulous views of the surroundiing countryside, the North Sea, the Cheviots and Newcastle Upon Tyne city. You can cycle or walk along the tracks in the park towards the nearby Big Waters Nature Reserve where you can see a wide variety of birdlife. The park also contains three developing reed beds, which are now home to many common damselflies and dragonflies. Weetslade is located just a few miles north of Newcastle City centre near Gosforth Park and Cramlington. You could continue your walking from the park by heading a couple of miles north to visit Northumberlandia. Here you can enjoy a climb to the Lady of the North, a huge sculpture commanding fine views over the area.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/DIciJr5b72o",
+    "postcode": "NE23 7LZ",
+    "region": "North East",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Great Lime Road, Dudley, North Tyneside, North East, England, NE23 7LZ, United Kingdom",
+    "district": "North Tyneside",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["country park"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": [],
+    "route_type": "out and back",
+    "activities": ["walking", "cycling"]
 }

@@ -1,77 +1,87 @@
 {
-    "created_at": "2025-01-06T19:05:32.182379+00:00",
-    "objectID": "aff397ac09e7b14a7e9b3e1ed157632c",
-    "ref": "bedelands-nature-reserve-walking-route",
-    "title": "Bedelands Nature Reserve Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Overflow_from_Valebridge_Pond_-_geograph.org.uk_-_766804.jpg",
-    "nearby": [
-        {
-            "description": "Burgess Hill",
-            "objectID": "963111c99cfd5873a8df6d58f0418f6f",
-            "ref": "burgess-hill-walking-route"
-        },
-        {
-            "description": "Ditchling Common Country Park",
-            "objectID": "f8eb4cd99a3e589b7ded710fd456c07f",
-            "ref": "ditchling-common-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aff397ac09e7b14a7e9b3e1ed157632c.gpx",
-    "_geoloc": {
-        "lat": 50.96854,
-        "lng": -0.1271
+  "created_at": "2025-01-06T19:05:32.182379+00:00",
+  "objectID": "aff397ac09e7b14a7e9b3e1ed157632c",
+  "ref": "bedelands-nature-reserve-walking-route",
+  "title": "Bedelands Nature Reserve Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Overflow_from_Valebridge_Pond_-_geograph.org.uk_-_766804.jpg",
+  "nearby": [
+    {
+      "description": "Burgess Hill",
+      "objectID": "963111c99cfd5873a8df6d58f0418f6f",
+      "ref": "burgess-hill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Overflow_from_Valebridge_Pond_-_geograph.org.uk_-_766804.jpg",
-            "title": "Anna Rutherford / Overflow from Valebridge Pond",
-            "caption": "Overflow from Valebridge Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bedeland_Farm_Local_Nature_Reserve_-_geograph.org.uk_-_4098110.jpg/500px-Bedeland_Farm_Local_Nature_Reserve_-_geograph.org.uk_-_4098110.jpg",
-            "title": "Bedeland Farm Local Nature Reserve by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bedeland Farm Local Nature Reserve"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Valebridge_Pond_Bedelands_Farm_Nature_Reserve_-_geograph.org.uk_-_766041.jpg",
-            "title": "Anna Rutherford / Valebridge Pond Bedelands Farm Nature Reserve",
-            "caption": "Valebridge Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tree_Bridge_-_geograph.org.uk_-_766799.jpg",
-            "title": "Anna Rutherford / Tree Bridge",
-            "caption": "Fallen tree forming a bridge over the stream"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valebridge_Viaduct_-_geograph.org.uk_-_843900.jpg/330px-Valebridge_Viaduct_-_geograph.org.uk_-_843900.jpg",
-            "title": "Simon Carey / Valebridge Viaduct",
-            "caption": "Valebridge Viaduct. Taking the London-Brighton line over small valley formed by a tributary of the western Adur. Taken from Valebridge Road, an old route which now connects Burgess Hill to Haywards Heath. The gate to the left is an entrance to Bedelands Farm Nature Reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Field_at_Bedelands_Nature_Reserve_-_geograph.org.uk_-_1974272.jpg/500px-Field_at_Bedelands_Nature_Reserve_-_geograph.org.uk_-_1974272.jpg",
-            "title": "Field at Bedelands Nature Reserve by Curtis Bateman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Field at Bedelands Nature Reserve"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This walk visits the Bedelands Farm Nature Reserve in Burgess Hill, West Sussex. The reserve is located on the northern outskirts of the town. You can follow a series of pleasant footpaths around the site's bluebell woodland, wildflower meadows, grazed meadows, wetland and ancient hedgerows. There's also a pretty lake and a picturesque waterfall to see. The area is great for wildlife with birds suchs as Great Spotted Woodpecker, Lesser Spotted Woodpecker, Eurasian Green Woodpecker, Long-eared Owl, Sparrowhawk, Mistle Thrush, Common Raven, Eurasian Kestrel and Eurasian Treecreeper to look out for. To continue your walking in the area head south east to explore Ditchling Common Country Park. The common is a fine open space for walking with miles of trails and a wildlife pond.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/9dcqMx2XRpU",
-    "postcode": "RH15 8AP",
-    "district": "Mid Sussex",
-    "county": "West Sussex",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Maple Drive, World's End, Burgess Hill, Mid Sussex, West Sussex, England, RH15 8AP, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "wetland"],
-    "points_of_interest": ["wildlife pond"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Ditchling Common Country Park",
+      "objectID": "f8eb4cd99a3e589b7ded710fd456c07f",
+      "ref": "ditchling-common-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aff397ac09e7b14a7e9b3e1ed157632c.gpx",
+  "_geoloc": {
+    "lat": 50.96854,
+    "lng": -0.1271
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Overflow_from_Valebridge_Pond_-_geograph.org.uk_-_766804.jpg",
+      "title": "Anna Rutherford / Overflow from Valebridge Pond",
+      "caption": "Overflow from Valebridge Pond"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bedeland_Farm_Local_Nature_Reserve_-_geograph.org.uk_-_4098110.jpg/500px-Bedeland_Farm_Local_Nature_Reserve_-_geograph.org.uk_-_4098110.jpg",
+      "title": "Bedeland Farm Local Nature Reserve by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bedeland Farm Local Nature Reserve"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Valebridge_Pond_Bedelands_Farm_Nature_Reserve_-_geograph.org.uk_-_766041.jpg",
+      "title": "Anna Rutherford / Valebridge Pond Bedelands Farm Nature Reserve",
+      "caption": "Valebridge Pond"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tree_Bridge_-_geograph.org.uk_-_766799.jpg",
+      "title": "Anna Rutherford / Tree Bridge",
+      "caption": "Fallen tree forming a bridge over the stream"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valebridge_Viaduct_-_geograph.org.uk_-_843900.jpg/330px-Valebridge_Viaduct_-_geograph.org.uk_-_843900.jpg",
+      "title": "Simon Carey / Valebridge Viaduct",
+      "caption": "Valebridge Viaduct. Taking the London-Brighton line over small valley formed by a tributary of the western Adur. Taken from Valebridge Road, an old route which now connects Burgess Hill to Haywards Heath. The gate to the left is an entrance to Bedelands Farm Nature Reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Field_at_Bedelands_Nature_Reserve_-_geograph.org.uk_-_1974272.jpg/500px-Field_at_Bedelands_Nature_Reserve_-_geograph.org.uk_-_1974272.jpg",
+      "title": "Field at Bedelands Nature Reserve by Curtis Bateman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Field at Bedelands Nature Reserve"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This walk visits the Bedelands Farm Nature Reserve in Burgess Hill, West Sussex. The reserve is located on the northern outskirts of the town. You can follow a series of pleasant footpaths around the site's bluebell woodland, wildflower meadows, grazed meadows, wetland and ancient hedgerows. There's also a pretty lake and a picturesque waterfall to see. The area is great for wildlife with birds suchs as Great Spotted Woodpecker, Lesser Spotted Woodpecker, Eurasian Green Woodpecker, Long-eared Owl, Sparrowhawk, Mistle Thrush, Common Raven, Eurasian Kestrel and Eurasian Treecreeper to look out for. To continue your walking in the area head south east to explore Ditchling Common Country Park. The common is a fine open space for walking with miles of trails and a wildlife pond.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/9dcqMx2XRpU",
+  "postcode": "RH15 8AP",
+  "district": "Mid Sussex",
+  "county": "West Sussex",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Maple Drive, World's End, Burgess Hill, Mid Sussex, West Sussex, England, RH15 8AP, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall",
+    "wildlife pond"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

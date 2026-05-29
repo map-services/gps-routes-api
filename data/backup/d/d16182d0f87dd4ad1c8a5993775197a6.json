@@ -1,106 +1,114 @@
 {
-    "created_at": "2025-01-06T02:07:34.976044+00:00",
-    "objectID": "d16182d0f87dd4ad1c8a5993775197a6",
-    "ref": "colan-woods-walking-route",
-    "title": "Colan Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg/500px-Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg",
-    "nearby": [
-        {
-            "description": "Porth Reservoir",
-            "objectID": "cdb3efc1c313fcce40e450edf16184ff",
-            "ref": "porth-reservoir-walking-route"
-        },
-        {
-            "description": "Goss Moor Trail",
-            "objectID": "5cae2c97d995efef216227155e29aad5",
-            "ref": "goss-moor-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Perranporth to St Agnes Walk",
-            "objectID": "badf8364c166bab4e5c8896e734f6c5e",
-            "ref": "perranporth-to-st-agnes-walk-walking-route"
-        },
-        {
-            "description": "Tregargus Valley",
-            "objectID": "464a66a71305043b5090ae389d383bd0",
-            "ref": "tregargus-valley-walking-route"
-        },
-        {
-            "description": "Perranporth to Holywell Bay Coastal Walk",
-            "objectID": "cc8777d9e60c1e263dce27db6be38b64",
-            "ref": "perranporth-to-holywell-bay-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d16182d0f87dd4ad1c8a5993775197a6.gpx",
-    "_geoloc": {
-        "lat": 50.4139568693,
-        "lng": -5.0001589611
+  "created_at": "2025-01-06T02:07:34.976044+00:00",
+  "objectID": "d16182d0f87dd4ad1c8a5993775197a6",
+  "ref": "colan-woods-walking-route",
+  "title": "Colan Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg/500px-Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg",
+  "nearby": [
+    {
+      "description": "Porth Reservoir",
+      "objectID": "cdb3efc1c313fcce40e450edf16184ff",
+      "ref": "porth-reservoir-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg/500px-Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg",
-            "title": "Porth Reservoir Dam by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Porth Reservoir Dam"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Porth_Reservoir.jpg",
-            "title": "Jonathan Billinger [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "View down to Porth Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Diverging_Woodland_Paths_-_geograph.org.uk_-_2403119.jpg/500px-Diverging_Woodland_Paths_-_geograph.org.uk_-_2403119.jpg",
-            "title": "Diverging Woodland Paths by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Diverging Woodland Paths south of the reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St_Colan_Church_-_geograph.org.uk_-_2403133.jpg/500px-St_Colan_Church_-_geograph.org.uk_-_2403133.jpg",
-            "title": "St Colan Church by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "St Colan Church. This 13th century church is Grade I listed."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wheatfield_northwest_of_Colan_-_geograph.org.uk_-_1964832.jpg",
-            "title": "Wheatfield northwest of Colan by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wheatfield northwest of Colan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Derelict_house_in_the_woods_-_geograph.org.uk_-_2403113.jpg/330px-Derelict_house_in_the_woods_-_geograph.org.uk_-_2403113.jpg",
-            "title": "Derelict house in the woods by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Derelict house in the woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lane_at_Colan_-_geograph.org.uk_-_1971787.jpg",
-            "title": "Lane at Colan by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lane at Colan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Colan%2C_Melancoose_Mill_-_geograph.org.uk_-_94646.jpg",
-            "title": "Martin Bodman / Colan: Melancoose Mill",
-            "caption": "Melancoose Mill. Now a private house. Hard by the lane from Colan to Trebarber. By 1972 the mill appeared to be derelict*, but has since been converted and the waterwheel restored, although it will never fully operate again since the construction of Porth Reservoir upstream has deprived it of its leat."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "A circular walk around the village of Colan near Newquay. The walk takes you around the woodland and country lanes surrounding Porth Reservoir on the Colan Estate. The area is quite hilly so its an undulating walk with nice views across the reservoir from the high points. The parish also used to be a mining settlement so you may see several derelict buildings as you make your way through the area. The walk starts from Colan Church which dates from the thirteenth century. The trail then heads north east to Nanswhyden before turning east to Trebarer. Quiet country lanes then return you to the finish point at the church. To extend the walk you can pick up the circular trail around the pretty Porth Reservoir where there's an impressive dam and lots of wildlife to look out for.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "A few miles to the south east you can pick up the Goss Moor Trail. This shared cycling and walking trail explores the expansive Goss Moor National Nature Reserve where there's a number of rare plant and wildlife species to look out for. Just south of Newquay you can pick up the Holywell to Crantock Circular Walk to visit the lovely Holywell Bay and the secluded beach at Porth Joke. To the north of Newquay there's Watergate Bay where you will find a wonderful 2 mile long surfind beach and a footbridge over to the splendid Porth Island headland. For more walking ideas in the area see the Cornwall Walks page."
-        }
-    ],
-    "county": "Cornwall",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Colan, St. Columb Major, Cornwall, England, TR8 4ND, United Kingdom",
-    "postcode": "TR8 4ND",
-    "district": "St. Columb Major",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "country lane"],
-    "points_of_interest": ["historical buildings", "reservoir"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Goss Moor Trail",
+      "objectID": "5cae2c97d995efef216227155e29aad5",
+      "ref": "goss-moor-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Perranporth to St Agnes Walk",
+      "objectID": "badf8364c166bab4e5c8896e734f6c5e",
+      "ref": "perranporth-to-st-agnes-walk-walking-route"
+    },
+    {
+      "description": "Tregargus Valley",
+      "objectID": "464a66a71305043b5090ae389d383bd0",
+      "ref": "tregargus-valley-walking-route"
+    },
+    {
+      "description": "Perranporth to Holywell Bay Coastal Walk",
+      "objectID": "cc8777d9e60c1e263dce27db6be38b64",
+      "ref": "perranporth-to-holywell-bay-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d16182d0f87dd4ad1c8a5993775197a6.gpx",
+  "_geoloc": {
+    "lat": 50.4139568693,
+    "lng": -5.0001589611
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg/500px-Porth_Reservoir_Dam_-_geograph.org.uk_-_2403056.jpg",
+      "title": "Porth Reservoir Dam by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Porth Reservoir Dam"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Porth_Reservoir.jpg",
+      "title": "Jonathan Billinger [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "View down to Porth Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Diverging_Woodland_Paths_-_geograph.org.uk_-_2403119.jpg/500px-Diverging_Woodland_Paths_-_geograph.org.uk_-_2403119.jpg",
+      "title": "Diverging Woodland Paths by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Diverging Woodland Paths south of the reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St_Colan_Church_-_geograph.org.uk_-_2403133.jpg/500px-St_Colan_Church_-_geograph.org.uk_-_2403133.jpg",
+      "title": "St Colan Church by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "St Colan Church. This 13th century church is Grade I listed."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wheatfield_northwest_of_Colan_-_geograph.org.uk_-_1964832.jpg",
+      "title": "Wheatfield northwest of Colan by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wheatfield northwest of Colan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Derelict_house_in_the_woods_-_geograph.org.uk_-_2403113.jpg/330px-Derelict_house_in_the_woods_-_geograph.org.uk_-_2403113.jpg",
+      "title": "Derelict house in the woods by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Derelict house in the woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lane_at_Colan_-_geograph.org.uk_-_1971787.jpg",
+      "title": "Lane at Colan by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lane at Colan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Colan%2C_Melancoose_Mill_-_geograph.org.uk_-_94646.jpg",
+      "title": "Martin Bodman / Colan: Melancoose Mill",
+      "caption": "Melancoose Mill. Now a private house. Hard by the lane from Colan to Trebarber. By 1972 the mill appeared to be derelict*, but has since been converted and the waterwheel restored, although it will never fully operate again since the construction of Porth Reservoir upstream has deprived it of its leat."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "A circular walk around the village of Colan near Newquay. The walk takes you around the woodland and country lanes surrounding Porth Reservoir on the Colan Estate. The area is quite hilly so its an undulating walk with nice views across the reservoir from the high points. The parish also used to be a mining settlement so you may see several derelict buildings as you make your way through the area. The walk starts from Colan Church which dates from the thirteenth century. The trail then heads north east to Nanswhyden before turning east to Trebarer. Quiet country lanes then return you to the finish point at the church. To extend the walk you can pick up the circular trail around the pretty Porth Reservoir where there's an impressive dam and lots of wildlife to look out for.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south east you can pick up the Goss Moor Trail. This shared cycling and walking trail explores the expansive Goss Moor National Nature Reserve where there's a number of rare plant and wildlife species to look out for. Just south of Newquay you can pick up the Holywell to Crantock Circular Walk to visit the lovely Holywell Bay and the secluded beach at Porth Joke. To the north of Newquay there's Watergate Bay where you will find a wonderful 2 mile long surfind beach and a footbridge over to the splendid Porth Island headland. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
+  "county": "Cornwall",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Colan, St. Columb Major, Cornwall, England, TR8 4ND, United Kingdom",
+  "postcode": "TR8 4ND",
+  "district": "St. Columb Major",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

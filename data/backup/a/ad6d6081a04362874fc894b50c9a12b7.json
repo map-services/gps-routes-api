@@ -1,173 +1,161 @@
 {
-  "created_at": "2025-01-06T02:14:28.135255+00:00",
-  "objectID": "ad6d6081a04362874fc894b50c9a12b7",
-  "ref": "pembrokeshire-coast-path-walking-route",
-  "title": "Pembrokeshire Coast Path National Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wartime_observation_post_on_Pembrokeshire_coast_-_geograph.org.uk_-_212941.jpg",
-  "nearby": [
-    {
-      "description": "Strumble Head",
-      "objectID": "17ca340a814d9e51445adb0e6c4b0100",
-      "ref": "strumble-head-walking-route"
+    "created_at": "2025-01-06T02:14:28.135255+00:00",
+    "objectID": "ad6d6081a04362874fc894b50c9a12b7",
+    "ref": "pembrokeshire-coast-path-walking-route",
+    "title": "Pembrokeshire Coast Path National Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wartime_observation_post_on_Pembrokeshire_coast_-_geograph.org.uk_-_212941.jpg",
+    "nearby": [
+        {
+            "description": "Strumble Head",
+            "objectID": "17ca340a814d9e51445adb0e6c4b0100",
+            "ref": "strumble-head-walking-route"
+        },
+        {
+            "description": "Tenby to Saundersfoot Walk",
+            "objectID": "04742cd61283069f58998893a5e5c97a",
+            "ref": "tenby-to-saundersfoot-walk-walking-route"
+        },
+        {
+            "description": "Milford Haven",
+            "objectID": "13918039b9340a3fad78abf3fd9f69f9",
+            "ref": "milford-haven-walking-route"
+        },
+        {
+            "description": "Dale Peninsula",
+            "objectID": "9a89167dbb465a389cc2766f31e27937",
+            "ref": "dale-peninsula-walking-route"
+        },
+        {
+            "description": "Caldey Island",
+            "objectID": "2bac8153c43c1edf320d1592eef43950",
+            "ref": "caldey-island-walking-route"
+        },
+        {
+            "description": "Dinas Head",
+            "objectID": "abb2d1dc7c3bf1595423300bb54991f3",
+            "ref": "dinas-island-walking-route"
+        },
+        {
+            "description": "Stackpole Estate",
+            "objectID": "7eef735451490804669ebaaaf8442142",
+            "ref": "stackpole-estate-walking-route"
+        },
+        {
+            "description": "Porthgain",
+            "objectID": "ada093761dc0c2666f9efbe4b26c8d6d",
+            "ref": "porthgain-walking-route"
+        },
+        {
+            "description": "Broad Haven",
+            "objectID": "149f85b30b62b7a33d474e8ab4358a3f",
+            "ref": "broad-haven-walking-route"
+        },
+        {
+            "description": "Newport Pembrokeshire",
+            "objectID": "e02375935148d6e187a93ad8ae2d1d5f",
+            "ref": "newport-pembrokeshire-walking-route"
+        },
+        {
+            "description": "Saundersfoot",
+            "objectID": "f31b7eaf184081ba14f806c3fbffd046",
+            "ref": "saundersfoot-walking-route"
+        },
+        {
+            "description": "Little Haven",
+            "objectID": "0e94f7938bb6f314184cb389446aab1a",
+            "ref": "little-haven-walking-route"
+        },
+        {
+            "description": "Freshwater West",
+            "objectID": "41d68244ddc861dacf0570cd704aa129",
+            "ref": "freshwater-west-walking-route"
+        },
+        {
+            "description": "Ceibwr Bay",
+            "objectID": "4ab655744d550e508135aeaabd775a85",
+            "ref": "ceibwr-bay-walking-route"
+        },
+        {
+            "description": "St Dogmaels",
+            "objectID": "7fbe3558b4390a31668250063fd60491",
+            "ref": "st-dogmaels-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad6d6081a04362874fc894b50c9a12b7.gpx",
+    "_geoloc": {
+        "lat": 52.0886689356,
+        "lng": -4.6818697268
     },
-    {
-      "description": "Tenby to Saundersfoot Walk",
-      "objectID": "04742cd61283069f58998893a5e5c97a",
-      "ref": "tenby-to-saundersfoot-walk-walking-route"
-    },
-    {
-      "description": "Milford Haven",
-      "objectID": "13918039b9340a3fad78abf3fd9f69f9",
-      "ref": "milford-haven-walking-route"
-    },
-    {
-      "description": "Dale Peninsula",
-      "objectID": "9a89167dbb465a389cc2766f31e27937",
-      "ref": "dale-peninsula-walking-route"
-    },
-    {
-      "description": "Caldey Island",
-      "objectID": "2bac8153c43c1edf320d1592eef43950",
-      "ref": "caldey-island-walking-route"
-    },
-    {
-      "description": "Dinas Head",
-      "objectID": "abb2d1dc7c3bf1595423300bb54991f3",
-      "ref": "dinas-island-walking-route"
-    },
-    {
-      "description": "Stackpole Estate",
-      "objectID": "7eef735451490804669ebaaaf8442142",
-      "ref": "stackpole-estate-walking-route"
-    },
-    {
-      "description": "Porthgain",
-      "objectID": "ada093761dc0c2666f9efbe4b26c8d6d",
-      "ref": "porthgain-walking-route"
-    },
-    {
-      "description": "Broad Haven",
-      "objectID": "149f85b30b62b7a33d474e8ab4358a3f",
-      "ref": "broad-haven-walking-route"
-    },
-    {
-      "description": "Newport Pembrokeshire",
-      "objectID": "e02375935148d6e187a93ad8ae2d1d5f",
-      "ref": "newport-pembrokeshire-walking-route"
-    },
-    {
-      "description": "Saundersfoot",
-      "objectID": "f31b7eaf184081ba14f806c3fbffd046",
-      "ref": "saundersfoot-walking-route"
-    },
-    {
-      "description": "Little Haven",
-      "objectID": "0e94f7938bb6f314184cb389446aab1a",
-      "ref": "little-haven-walking-route"
-    },
-    {
-      "description": "Freshwater West",
-      "objectID": "41d68244ddc861dacf0570cd704aa129",
-      "ref": "freshwater-west-walking-route"
-    },
-    {
-      "description": "Ceibwr Bay",
-      "objectID": "4ab655744d550e508135aeaabd775a85",
-      "ref": "ceibwr-bay-walking-route"
-    },
-    {
-      "description": "St Dogmaels",
-      "objectID": "7fbe3558b4390a31668250063fd60491",
-      "ref": "st-dogmaels-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad6d6081a04362874fc894b50c9a12b7.gpx",
-  "_geoloc": {
-    "lat": 52.0886689356,
-    "lng": -4.6818697268
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wartime_observation_post_on_Pembrokeshire_coast_-_geograph.org.uk_-_212941.jpg",
-      "title": "ceridwen / Wartime observation post on Pembrokeshire coast",
-      "caption": "Wartime observation post on Pembrokeshire coast. This is one of three brick and concrete structures that remain on a cliff ledge below Fishguard Bay Caravan Site. Presumably they were part of the WW2 coastal defence network although no enemy has approached the mainland here since the French in 1797. Technical description is as follows: \"Complex consisting of two 6-inch BL Mk XII gun houses, two CASL emplacements, a battery observation post, an observation post, an engine room, three circular holdfasts, a store / workshop, the guard room and ten earth revetments.\" Defence of Britain Project,Record Number 12205."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Heather_on_the_coast_-_geograph.org.uk_-_1426096.jpg",
-      "title": "ceridwen / Heather on the coast",
-      "caption": "A tapestry of purple, green and gold with Carn Perfedd and Penberri beyond. This part of the coastline is owned by the National Trust."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coast_path_south_of_Ceibwr_-_geograph.org.uk_-_541966.jpg",
-      "title": "ceridwen / Coast path south of Ceibwr",
-      "caption": "Coast path south of Ceibwr Heading towards Pwll y Wrach (invisible from here) and the fortified promontory of Castell Treruffydd, straight ahead, with Carreg Ysbar to the right. The fluffy seed heads alongside the path echo the white foam below."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Newport-Trefdraeth_and_Carningli_from_the_coast_-_geograph.org.uk_-_434625.jpg",
-      "title": "ceridwen / Newport/Trefdraeth and Carningli from the coast",
-      "caption": "Newport/Trefdraeth and Carn Ingli from the coast. This late summer view across the ripe corn shows the western edge of the village below Carningli. The top of the mountain is covered with a number of Bronze Age and Iron Age sites."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Trehowel%2C_Pencaer_-_geograph.org.uk_-_241006.jpg",
-      "title": "ceridwen / Trehowel, Pencaer",
-      "caption": "Trehowel, Pencaer. This large farm has a history. It was ransacked and taken over as headquarters by the French invaders who landed on the coast below in February 1797, intending to spearhead a revolutionary force to bring down the British government. The expedition was a fiasco from the start.It may have been that a disaffected exservant from this farm who was among the rabble army led them to Trehowel. The farmer, John Mortimer, was about to be married and had laid in plentiful stocks of food and drink which detained the starving marauders and may have blunted their appetite for fighting. Rapidly mustered local troops forced them to surrender on Goodwick beach a few days later."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Foxgloves_above_Pwll_Deri_-_geograph.org.uk_-_841994.jpg",
-      "title": "ceridwen / Foxgloves above Pwll Deri",
-      "caption": "Foxgloves above Pwll Deri. View northeastwards from the coast path over Pwll Deri towards the lighthouse at Strumble Head, with the foxgloves at their height in early June. There are two wrecks in the bay, visitable by divers. In 1888 the Vendome, a Welsh coal steamer, struck the rocks and sank, and in 1944 the Dan Beard, a US Liberty Ship that had seen action during the D Day landings, was torpedoed here."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/View_from_Carn_Enoch%2C_looking_north_-_geograph.org.uk_-_200654.jpg",
-      "title": "ceridwen / View from Carn Enoch, looking north",
-      "caption": "View from Carn Enoch, looking north. The view from the rocky outcrop of Carn Enoch (290m.) shows, in the foreground, scattered stones used for prehistoric enclosures, then bracken covered hillside and rough grazing giving way to improved pasture around the village of Dinas on the A487. In the distance lies Dinas Island, which, despite its name is not separated from the mainland."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Clegyr_Boia%2C_view_south_-_geograph.org.uk_-_738584.jpg",
-      "title": "ceridwen / Clegyr Boia, view south",
-      "caption": "Clegyr Boia, view south. The notch in the coastline is Porth Clais to the south, with the narrow road winding up past the grey stone farmhouse of Rhos-y-Cribed. Fields here are small and windswept with hedgebanks for boundaries. Some on the coast have been ploughed for spring sowing."
-    }
-  ],
-  "distance_km": 299.0,
-  "description": "Brace yourself for some spectacular coastal scenery on this magnificent 186 mile trail that passes through the Pembrokeshire Coast National Park. The trail begins on the Teifi Estuary at St Dogmaels, following the Pembrokeshire coast to Amroth via some lovely coastal towns and villages including Fishguard, St David's, Milford Haven, Pembroke and Tenby. The wildlife along the route is plentiful and varied with Porpoises, Seals, Guillemots and Puffins just a few examples of what you can expect to see along the way. There are also great views of the beautiful islands off the Pembrokeshire coast, such as the popular Ramsey Island and Skomer Island which can both be visited by boat. Please see the videos below and the following link link to see the stunning scenery on the route.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Solva there's the Harbour Inn to try. The friendly pub is in a great position overlooking the picturesque harbour. The pub has a good menu and some tables outside. It is also dog friendly. You can find it at 31 Main Street with a postcode of SA62 6UT. The Cafe on the Quay is also beautifully located on Trinity Quay in Solva. You can sit outside on the balcony an enjoy wonderful views of the estuary with your lunch. You can find it at postcode SA62 6UQ. At Newgale you could head to the Duke Of Edinburgh Inn. The pub has a nice outdoor seating area with good views of the surrounding area. You can find the pub overlooking St. Brides Bay, about a 5 minute walk from the fantastic long beach at postcode SA62 6AS. At Dinas Head near Fishguard there's the noteworthy Old Sailors. The friendly pub is located on the western side of the headland at Pwllgwaelod Beach. It's a fabulous spot with a garden area with fine views of the boats leaving Fishguard Harbour. There's a good sized car park and direct access to the beach if you fancy a bit of sunbathing. You can find the pub at Dinas Cross with a postcode of SA42 0SE for your sat navs. At the start/end of the route there's a splendid pub to consider in the shape of the Ferry Inn. The pub is located in an excellent spot right next to the river. You can sit outside on the decking area and enjoy wonderful views with your meal. You can find them on Poppit Road with a postcode of SA43 3LF for your sat navs. The popular town of Cardigan is just up the road and also has plenty of good dining options. In little Porthgain historic Sloop Inn is a good choice. The inn is said to date back to the 18th century with the main bar part of the original building. You can sit outside and enjoy a fine meal with a view of Pothgain's picturesque harbour. You can find them at postcode SA62 5BN for your sat navs. Near here you'll also pass the picturesque Blue Lagoon at Abereiddy. Newport is a great place to stop off for refreshment and a stroll around the town. One option is the splendid Pwnc Cafe where you'll find a first class bacon butty and a quirky interior with bicylces hung on the walls. You can find them at Old Sessions House, East St, SA42 0SY. The Golden Lion is another good choice. It's a very large and historic inn, dating back over 300 years. They have a good bar and a restaurant serving fine dishes plus a marquee and garden outside if the sun is shining. You can find them on East St at postcode SA42 0SY for your sat navs. Thte town is also well worth exploring with its wonderful sandy beach, excellent variety of shops and some fine trails along the River Nevern Estuary."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For more walking ideas in the area see the Pembrokeshire Coast Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/z7PaX5OvUCo",
-  "postcode": "SA43 3GF",
-  "district": "St Dogmaels",
-  "county": "Pembrokeshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Mermaid of St Dogmaels, B4546, St. Dogmaels, St Dogmaels, Pembrokeshire, Cymru / Wales, SA43 3GF, United Kingdom",
-  "state": "Cymru / Wales",
-  "llama_cpp": true,
-  "estimated_duration": "multiple days",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal"
-  ],
-  "points_of_interest": [
-    "islands",
-    "towns",
-    "villages"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "linear",
-  "activities": [
-    "walking",
-    "wildlife watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wartime_observation_post_on_Pembrokeshire_coast_-_geograph.org.uk_-_212941.jpg",
+            "title": "ceridwen / Wartime observation post on Pembrokeshire coast",
+            "caption": "Wartime observation post on Pembrokeshire coast. This is one of three brick and concrete structures that remain on a cliff ledge below Fishguard Bay Caravan Site. Presumably they were part of the WW2 coastal defence network although no enemy has approached the mainland here since the French in 1797. Technical description is as follows: \"Complex consisting of two 6-inch BL Mk XII gun houses, two CASL emplacements, a battery observation post, an observation post, an engine room, three circular holdfasts, a store / workshop, the guard room and ten earth revetments.\" Defence of Britain Project,Record Number 12205."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Heather_on_the_coast_-_geograph.org.uk_-_1426096.jpg",
+            "title": "ceridwen / Heather on the coast",
+            "caption": "A tapestry of purple, green and gold with Carn Perfedd and Penberri beyond. This part of the coastline is owned by the National Trust."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coast_path_south_of_Ceibwr_-_geograph.org.uk_-_541966.jpg",
+            "title": "ceridwen / Coast path south of Ceibwr",
+            "caption": "Coast path south of Ceibwr Heading towards Pwll y Wrach (invisible from here) and the fortified promontory of Castell Treruffydd, straight ahead, with Carreg Ysbar to the right. The fluffy seed heads alongside the path echo the white foam below."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Newport-Trefdraeth_and_Carningli_from_the_coast_-_geograph.org.uk_-_434625.jpg",
+            "title": "ceridwen / Newport/Trefdraeth and Carningli from the coast",
+            "caption": "Newport/Trefdraeth and Carn Ingli from the coast. This late summer view across the ripe corn shows the western edge of the village below Carningli. The top of the mountain is covered with a number of Bronze Age and Iron Age sites."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Trehowel%2C_Pencaer_-_geograph.org.uk_-_241006.jpg",
+            "title": "ceridwen / Trehowel, Pencaer",
+            "caption": "Trehowel, Pencaer. This large farm has a history. It was ransacked and taken over as headquarters by the French invaders who landed on the coast below in February 1797, intending to spearhead a revolutionary force to bring down the British government. The expedition was a fiasco from the start.It may have been that a disaffected exservant from this farm who was among the rabble army led them to Trehowel. The farmer, John Mortimer, was about to be married and had laid in plentiful stocks of food and drink which detained the starving marauders and may have blunted their appetite for fighting. Rapidly mustered local troops forced them to surrender on Goodwick beach a few days later."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Foxgloves_above_Pwll_Deri_-_geograph.org.uk_-_841994.jpg",
+            "title": "ceridwen / Foxgloves above Pwll Deri",
+            "caption": "Foxgloves above Pwll Deri. View northeastwards from the coast path over Pwll Deri towards the lighthouse at Strumble Head, with the foxgloves at their height in early June. There are two wrecks in the bay, visitable by divers. In 1888 the Vendome, a Welsh coal steamer, struck the rocks and sank, and in 1944 the Dan Beard, a US Liberty Ship that had seen action during the D Day landings, was torpedoed here."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/View_from_Carn_Enoch%2C_looking_north_-_geograph.org.uk_-_200654.jpg",
+            "title": "ceridwen / View from Carn Enoch, looking north",
+            "caption": "View from Carn Enoch, looking north. The view from the rocky outcrop of Carn Enoch (290m.) shows, in the foreground, scattered stones used for prehistoric enclosures, then bracken covered hillside and rough grazing giving way to improved pasture around the village of Dinas on the A487. In the distance lies Dinas Island, which, despite its name is not separated from the mainland."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Clegyr_Boia%2C_view_south_-_geograph.org.uk_-_738584.jpg",
+            "title": "ceridwen / Clegyr Boia, view south",
+            "caption": "Clegyr Boia, view south. The notch in the coastline is Porth Clais to the south, with the narrow road winding up past the grey stone farmhouse of Rhos-y-Cribed. Fields here are small and windswept with hedgebanks for boundaries. Some on the coast have been ploughed for spring sowing."
+        }
+    ],
+    "distance_km": 299.0,
+    "description": "Brace yourself for some spectacular coastal scenery on this magnificent 186 mile trail that passes through the Pembrokeshire Coast National Park. The trail begins on the Teifi Estuary at St Dogmaels, following the Pembrokeshire coast to Amroth via some lovely coastal towns and villages including Fishguard, St David's, Milford Haven, Pembroke and Tenby. The wildlife along the route is plentiful and varied with Porpoises, Seals, Guillemots and Puffins just a few examples of what you can expect to see along the way. There are also great views of the beautiful islands off the Pembrokeshire coast, such as the popular Ramsey Island and Skomer Island which can both be visited by boat. Please see the videos below and the following link link to see the stunning scenery on the route.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Solva there's the Harbour Inn to try. The friendly pub is in a great position overlooking the picturesque harbour. The pub has a good menu and some tables outside. It is also dog friendly. You can find it at 31 Main Street with a postcode of SA62 6UT. The Cafe on the Quay is also beautifully located on Trinity Quay in Solva. You can sit outside on the balcony an enjoy wonderful views of the estuary with your lunch. You can find it at postcode SA62 6UQ. At Newgale you could head to the Duke Of Edinburgh Inn. The pub has a nice outdoor seating area with good views of the surrounding area. You can find the pub overlooking St. Brides Bay, about a 5 minute walk from the fantastic long beach at postcode SA62 6AS. At Dinas Head near Fishguard there's the noteworthy Old Sailors. The friendly pub is located on the western side of the headland at Pwllgwaelod Beach. It's a fabulous spot with a garden area with fine views of the boats leaving Fishguard Harbour. There's a good sized car park and direct access to the beach if you fancy a bit of sunbathing. You can find the pub at Dinas Cross with a postcode of SA42 0SE for your sat navs. At the start/end of the route there's a splendid pub to consider in the shape of the Ferry Inn. The pub is located in an excellent spot right next to the river. You can sit outside on the decking area and enjoy wonderful views with your meal. You can find them on Poppit Road with a postcode of SA43 3LF for your sat navs. The popular town of Cardigan is just up the road and also has plenty of good dining options. In little Porthgain historic Sloop Inn is a good choice. The inn is said to date back to the 18th century with the main bar part of the original building. You can sit outside and enjoy a fine meal with a view of Pothgain's picturesque harbour. You can find them at postcode SA62 5BN for your sat navs. Near here you'll also pass the picturesque Blue Lagoon at Abereiddy. Newport is a great place to stop off for refreshment and a stroll around the town. One option is the splendid Pwnc Cafe where you'll find a first class bacon butty and a quirky interior with bicylces hung on the walls. You can find them at Old Sessions House, East St, SA42 0SY. The Golden Lion is another good choice. It's a very large and historic inn, dating back over 300 years. They have a good bar and a restaurant serving fine dishes plus a marquee and garden outside if the sun is shining. You can find them on East St at postcode SA42 0SY for your sat navs. Thte town is also well worth exploring with its wonderful sandy beach, excellent variety of shops and some fine trails along the River Nevern Estuary."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For more walking ideas in the area see the Pembrokeshire Coast Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/z7PaX5OvUCo",
+    "postcode": "SA43 3GF",
+    "district": "St Dogmaels",
+    "county": "Pembrokeshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Mermaid of St Dogmaels, B4546, St. Dogmaels, St Dogmaels, Pembrokeshire, Cymru / Wales, SA43 3GF, United Kingdom",
+    "state": "Cymru / Wales",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["coastal"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "dog friendly", "car park"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

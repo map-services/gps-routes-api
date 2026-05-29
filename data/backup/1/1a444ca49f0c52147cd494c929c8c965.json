@@ -1,92 +1,103 @@
 {
-    "created_at": "2025-01-06T08:40:30.712322+00:00",
-    "objectID": "1a444ca49f0c52147cd494c929c8c965",
-    "ref": "watchtree-nature-reserve-walking-and-cycle-route",
-    "title": "Watchtree Nature Reserve Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Watchtree_Nature_reserve_-_geograph.org.uk_-_762642.jpg",
-    "nearby": [
-        {
-            "description": "Brampton",
-            "objectID": "7aae73cfd4288a5fedd9d06ce29b4dae",
-            "ref": "brampton-walking-route"
-        },
-        {
-            "description": "Wetheral",
-            "objectID": "6ece11d850009df2e31662f3468f9d38",
-            "ref": "wetheral-walking-route"
-        },
-        {
-            "description": "Miltonrigg Woods",
-            "objectID": "a64416a7950777aed96bf5f48c93738a",
-            "ref": "miltonrigg-woods-walking-route"
-        },
-        {
-            "description": "Lanercost Priory",
-            "objectID": "71651358bbb55d9a5c5d948c4c2ac57b",
-            "ref": "lanercost-priory-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a444ca49f0c52147cd494c929c8c965.gpx",
-    "_geoloc": {
-        "lat": 54.8731771901,
-        "lng": -3.0914720492
+  "created_at": "2025-01-06T08:40:30.712322+00:00",
+  "objectID": "1a444ca49f0c52147cd494c929c8c965",
+  "ref": "watchtree-nature-reserve-walking-and-cycle-route",
+  "title": "Watchtree Nature Reserve Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Watchtree_Nature_reserve_-_geograph.org.uk_-_762642.jpg",
+  "nearby": [
+    {
+      "description": "Brampton",
+      "objectID": "7aae73cfd4288a5fedd9d06ce29b4dae",
+      "ref": "brampton-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Watchtree_Nature_reserve_-_geograph.org.uk_-_762642.jpg",
-            "title": "David Liddle / Watchtree Nature reserve",
-            "caption": "Watchtree Nature reserve. The wind turbines looking south east"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Watchtree_nature_reserve._-_geograph.org.uk_-_144678.jpg",
-            "title": "John Holmes / Watchtree nature reserve.",
-            "caption": "Memorial stone"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%22Running_hare%22_Watchtree_Nature_Reserve_-_geograph.org.uk_-_572855.jpg",
-            "title": "Alexander P Kapp / \"Running hare\" Watchtree Nature Reserve",
-            "caption": "Running hare artistic piece"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gates_-_geograph.org.uk_-_572800.jpg",
-            "title": "Alexander P Kapp / Gates",
-            "caption": "Pair of gates north of Wiggonby on the road to Watchtree Nature Reserve."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/View_over_the_lake_at_Watchtree_Nature_Reserve_-_geograph.org.uk_-_5344477.jpg/500px-View_over_the_lake_at_Watchtree_Nature_Reserve_-_geograph.org.uk_-_5344477.jpg",
-            "title": "View over the lake at Watchtree Nature Reserve by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View over the lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pond_in_Pond_Wood%2C_Watchtree_Nature_Reserve_-_geograph.org.uk_-_3320696.jpg",
-            "title": "Pond in Pond Wood, Watchtree Nature Reserve by Rose and Trev Clough, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pond in Pond Wood"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This super Nature Reserve near Carlisle has a series of cycling and walking trails to try. The area consists of reedbeds, lagoons, woodland, wild flower meadows and an elemental garden. Look out for a variety of birdlife including Skylarks, Meadow Pipit and Stonechat in the meadows. Curlew, Snipe and Oystercatcher can be seen around the wetlands area. You can also see Roe Deer, Fox and Red Squirell in the woodland. The reserve has an excellent visitor centre with information about the different interactive trails. Cycle hire is also available so you can explore the reserve by bike too.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the south east of Carlisle there's nice waterside trails along the River Petteril at Wreay Woods. The peaceful woods are great for flora and fauna with kingfishers, dippers and otters to see by the river. Just a couple of miles to the north east of nearby Brampton there's Miltonrigg Woods to explore. There's more peaceful woodland trails here with pretty bluebells in the spring and lots wildlife to see. Lanercost Priory is also located in this area. The English heritage run site was originally founded in 1169 as an Augustinian monastery. Today the substantial priory ruins are well worth a visit for the fascinating history and architecure. For more walking ideas in the area see the Cumbria Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/OHV06Fje_Qw",
-    "postcode": "CA5 6NQ",
-    "county": "Cumberland",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Aikton, Thurstonfield, Cumberland, England, CA5 6NQ, United Kingdom",
-    "district": "Thurstonfield",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "wetlands"],
-    "points_of_interest": ["visitor center", "trails"],
-    "facilities": ["visitor center", "cycle hire"],
-    "route_type": "circular",
-    "activities": ["cycling", "walking", "bird watching"]
+    {
+      "description": "Wetheral",
+      "objectID": "6ece11d850009df2e31662f3468f9d38",
+      "ref": "wetheral-walking-route"
+    },
+    {
+      "description": "Miltonrigg Woods",
+      "objectID": "a64416a7950777aed96bf5f48c93738a",
+      "ref": "miltonrigg-woods-walking-route"
+    },
+    {
+      "description": "Lanercost Priory",
+      "objectID": "71651358bbb55d9a5c5d948c4c2ac57b",
+      "ref": "lanercost-priory-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a444ca49f0c52147cd494c929c8c965.gpx",
+  "_geoloc": {
+    "lat": 54.8731771901,
+    "lng": -3.0914720492
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Watchtree_Nature_reserve_-_geograph.org.uk_-_762642.jpg",
+      "title": "David Liddle / Watchtree Nature reserve",
+      "caption": "Watchtree Nature reserve. The wind turbines looking south east"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Watchtree_nature_reserve._-_geograph.org.uk_-_144678.jpg",
+      "title": "John Holmes / Watchtree nature reserve.",
+      "caption": "Memorial stone"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%22Running_hare%22_Watchtree_Nature_Reserve_-_geograph.org.uk_-_572855.jpg",
+      "title": "Alexander P Kapp / \"Running hare\" Watchtree Nature Reserve",
+      "caption": "Running hare artistic piece"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gates_-_geograph.org.uk_-_572800.jpg",
+      "title": "Alexander P Kapp / Gates",
+      "caption": "Pair of gates north of Wiggonby on the road to Watchtree Nature Reserve."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/View_over_the_lake_at_Watchtree_Nature_Reserve_-_geograph.org.uk_-_5344477.jpg/500px-View_over_the_lake_at_Watchtree_Nature_Reserve_-_geograph.org.uk_-_5344477.jpg",
+      "title": "View over the lake at Watchtree Nature Reserve by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View over the lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pond_in_Pond_Wood%2C_Watchtree_Nature_Reserve_-_geograph.org.uk_-_3320696.jpg",
+      "title": "Pond in Pond Wood, Watchtree Nature Reserve by Rose and Trev Clough, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pond in Pond Wood"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This super Nature Reserve near Carlisle has a series of cycling and walking trails to try. The area consists of reedbeds, lagoons, woodland, wild flower meadows and an elemental garden. Look out for a variety of birdlife including Skylarks, Meadow Pipit and Stonechat in the meadows. Curlew, Snipe and Oystercatcher can be seen around the wetlands area. You can also see Roe Deer, Fox and Red Squirell in the woodland. The reserve has an excellent visitor centre with information about the different interactive trails. Cycle hire is also available so you can explore the reserve by bike too.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south east of Carlisle there's nice waterside trails along the River Petteril at Wreay Woods. The peaceful woods are great for flora and fauna with kingfishers, dippers and otters to see by the river. Just a couple of miles to the north east of nearby Brampton there's Miltonrigg Woods to explore. There's more peaceful woodland trails here with pretty bluebells in the spring and lots wildlife to see. Lanercost Priory is also located in this area. The English heritage run site was originally founded in 1169 as an Augustinian monastery. Today the substantial priory ruins are well worth a visit for the fascinating history and architecure. For more walking ideas in the area see the Cumbria Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/OHV06Fje_Qw",
+  "postcode": "CA5 6NQ",
+  "county": "Cumberland",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Aikton, Thurstonfield, Cumberland, England, CA5 6NQ, United Kingdom",
+  "district": "Thurstonfield",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "visitor centre"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

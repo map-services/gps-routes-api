@@ -1,80 +1,65 @@
 {
-  "created_at": "2025-01-06T11:18:11.803805+00:00",
-  "objectID": "6233fd015f655c32aaa436699cc8cb9e",
-  "ref": "sutton-coldfield-walking-route",
-  "title": "Sutton Coldfield Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Newhall_Valley_Country_Park_-_geograph.org.uk_-_2400082.jpg",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6233fd015f655c32aaa436699cc8cb9e.gpx",
-  "_geoloc": {
-    "lat": 52.5635901225,
-    "lng": -1.8040141828
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Newhall_Valley_Country_Park_-_geograph.org.uk_-_2400082.jpg",
-      "title": "Newhall Valley Country Park by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Newhall Valley Country Park"
+    "created_at": "2025-01-06T11:18:11.803805+00:00",
+    "objectID": "6233fd015f655c32aaa436699cc8cb9e",
+    "ref": "sutton-coldfield-walking-route",
+    "title": "Sutton Coldfield Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Newhall_Valley_Country_Park_-_geograph.org.uk_-_2400082.jpg",
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6233fd015f655c32aaa436699cc8cb9e.gpx",
+    "_geoloc": {
+        "lat": 52.5635901225,
+        "lng": -1.8040141828
     },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Dam%2C_Walmley_-_geograph.org.uk_-_1289933.jpg",
-      "title": "Colin Smith / The Dam, Walmley",
-      "caption": "The Dam, Walmley. Now an ornamental pond and fishery, this is a former mill pond. The gardens in the foreground belong to Ramada Birmingham hotel."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Park_view%2C_Pype_Hayes_Park_-_geograph.org.uk_-_1743542.jpg",
-      "title": "Michael Westley / Park view, Pype Hayes Park",
-      "caption": "Park view, Pype Hayes Park. View of paths dividing west, towards Hayes Grove or Hervey Grove on the western edge of the park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Penns_Hall_lake_-_geograph.org.uk_-_397885.jpg",
-      "title": "Mike Beeson / Penns Hall lake",
-      "caption": "Penns Hall lake"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lakeside%2C_Pype_Hayes_-_geograph.org.uk_-_2404737.jpg/500px-Lakeside%2C_Pype_Hayes_-_geograph.org.uk_-_2404737.jpg",
-      "title": "Lakeside, Pype Hayes by Michael Westley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lakeside, Pype Hayes"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Trails_through_Plants_Brook_Nature_Reserve_-_geograph.org.uk_-_1743143.jpg",
-      "title": "Michael Westley / Trails through Plants Brook Nature Reserve",
-      "caption": "Trails through Plants Brook Nature Reserve"
-    }
-  ],
-  "distance_km": 140.0,
-  "description": "This Birmingham based town is the home of the splendid Sutton Park which lies just to the west. The expansive park includes 200 acres of open heathland, woodlands, wetlands, marshes and lakes. This walk from the town visits some of the local highlights including Rectory Park, New Hall Valley Country Park, Pype Hayes Park and the Plants Brook nature reserve. You can start the walk from Rectory Park which includes Sutton's main football park, mature woodland and wild grassland areas. From here it is a short walk south to the adjacent New Hall Valley Country Park where there are a some good walking and cycling trails. Park features include waterside trails along the Plants Brook, wildflower meadows and woodland trails. The route then continues south to visit the Dam at Walmley and Pype Hayes Park. There's 100 acres to explore here with a lake, ornamental gardens and woodland. On the eastern side of the park there's also the reservoirs and wildlife to see at the Plants Brook nature reserve.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/3279X7FX0wc",
-  "district": "Birmingham",
-  "region": "West Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "51, Hollyfield Road, Reddicap Heath, Sutton Coldfield, Birmingham, West Midlands, England, B75 7SG, United Kingdom",
-  "postcode": "B75 7SG",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "wetlands",
-    "marsh"
-  ],
-  "points_of_interest": [
-    "park",
-    "country park",
-    "nature reserve"
-  ],
-  "facilities": [
-    "car park",
-    "waterside trails",
-    "wildflower meadows"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Newhall_Valley_Country_Park_-_geograph.org.uk_-_2400082.jpg",
+            "title": "Newhall Valley Country Park by Ashley Dace, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Newhall Valley Country Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Dam%2C_Walmley_-_geograph.org.uk_-_1289933.jpg",
+            "title": "Colin Smith / The Dam, Walmley",
+            "caption": "The Dam, Walmley. Now an ornamental pond and fishery, this is a former mill pond. The gardens in the foreground belong to Ramada Birmingham hotel."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Park_view%2C_Pype_Hayes_Park_-_geograph.org.uk_-_1743542.jpg",
+            "title": "Michael Westley / Park view, Pype Hayes Park",
+            "caption": "Park view, Pype Hayes Park. View of paths dividing west, towards Hayes Grove or Hervey Grove on the western edge of the park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Penns_Hall_lake_-_geograph.org.uk_-_397885.jpg",
+            "title": "Mike Beeson / Penns Hall lake",
+            "caption": "Penns Hall lake"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lakeside%2C_Pype_Hayes_-_geograph.org.uk_-_2404737.jpg/500px-Lakeside%2C_Pype_Hayes_-_geograph.org.uk_-_2404737.jpg",
+            "title": "Lakeside, Pype Hayes by Michael Westley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lakeside, Pype Hayes"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Trails_through_Plants_Brook_Nature_Reserve_-_geograph.org.uk_-_1743143.jpg",
+            "title": "Michael Westley / Trails through Plants Brook Nature Reserve",
+            "caption": "Trails through Plants Brook Nature Reserve"
+        }
+    ],
+    "distance_km": 140.0,
+    "description": "This Birmingham based town is the home of the splendid Sutton Park which lies just to the west. The expansive park includes 200 acres of open heathland, woodlands, wetlands, marshes and lakes. This walk from the town visits some of the local highlights including Rectory Park, New Hall Valley Country Park, Pype Hayes Park and the Plants Brook nature reserve. You can start the walk from Rectory Park which includes Sutton's main football park, mature woodland and wild grassland areas. From here it is a short walk south to the adjacent New Hall Valley Country Park where there are a some good walking and cycling trails. Park features include waterside trails along the Plants Brook, wildflower meadows and woodland trails. The route then continues south to visit the Dam at Walmley and Pype Hayes Park. There's 100 acres to explore here with a lake, ornamental gardens and woodland. On the eastern side of the park there's also the reservoirs and wildlife to see at the Plants Brook nature reserve.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/3279X7FX0wc",
+    "district": "Birmingham",
+    "region": "West Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "51, Hollyfield Road, Reddicap Heath, Sutton Coldfield, Birmingham, West Midlands, England, B75 7SG, United Kingdom",
+    "postcode": "B75 7SG",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "easy",
+    "terrain": ["heathland", "woodland", "wetlands", "marsh"],
+    "points_of_interest": ["historical site", "nature reserve"],
+    "facilities": ["car park"],
+    "route_type": null,
+    "activities": ["walking", "cycling"]
 }

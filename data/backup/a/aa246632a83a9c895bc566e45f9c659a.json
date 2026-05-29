@@ -1,112 +1,102 @@
 {
-  "created_at": "2025-01-06T00:27:55.141783+00:00",
-  "objectID": "aa246632a83a9c895bc566e45f9c659a",
-  "ref": "whitbarrow-national-nature-reserve-walking-route",
-  "title": "Whitbarrow National Nature Reserve Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/On_Whitbarrow_-_geograph.org.uk_-_337128.jpg",
-  "nearby": [
-    {
-      "description": "Kendal Castle and River Walk",
-      "objectID": "b144cf0d2dcb8f0d1ec0ff10f228748b",
-      "ref": "kendal-castle-and-river-walk-walking-route"
+    "created_at": "2025-01-06T00:27:55.141783+00:00",
+    "objectID": "aa246632a83a9c895bc566e45f9c659a",
+    "ref": "whitbarrow-national-nature-reserve-walking-route",
+    "title": "Whitbarrow National Nature Reserve Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/On_Whitbarrow_-_geograph.org.uk_-_337128.jpg",
+    "nearby": [
+        {
+            "description": "Kendal Castle and River Walk",
+            "objectID": "b144cf0d2dcb8f0d1ec0ff10f228748b",
+            "ref": "kendal-castle-and-river-walk-walking-route"
+        },
+        {
+            "description": "Lyth Valley",
+            "objectID": "26f02b8eb5b944ae66d6780967971969",
+            "ref": "lyth-valley-walking-route"
+        },
+        {
+            "description": "Witherslack",
+            "objectID": "ec4c2df9128550dc7a21b8fb7e432bff",
+            "ref": "witherslack-walking-route"
+        },
+        {
+            "description": "Foulshaw Moss",
+            "objectID": "7af9efff25849ad56349ac1cfef2ce00",
+            "ref": "foulshaw-moss-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aa246632a83a9c895bc566e45f9c659a.gpx",
+    "_geoloc": {
+        "lat": 54.2490267142,
+        "lng": -2.8452052075
     },
-    {
-      "description": "Lyth Valley",
-      "objectID": "26f02b8eb5b944ae66d6780967971969",
-      "ref": "lyth-valley-walking-route"
-    },
-    {
-      "description": "Witherslack",
-      "objectID": "ec4c2df9128550dc7a21b8fb7e432bff",
-      "ref": "witherslack-walking-route"
-    },
-    {
-      "description": "Foulshaw Moss",
-      "objectID": "7af9efff25849ad56349ac1cfef2ce00",
-      "ref": "foulshaw-moss-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aa246632a83a9c895bc566e45f9c659a.gpx",
-  "_geoloc": {
-    "lat": 54.2490267142,
-    "lng": -2.8452052075
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/On_Whitbarrow_-_geograph.org.uk_-_337128.jpg",
-      "title": "Michael Graham / On Whitbarrow, via Wikimedia Commons",
-      "caption": "On Whitbarrow Birch woodland and limestone on Whitbarrow. The muddy path is made by cattle which were surprisingly encountered in the scrubby woodland."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Whitbarrow_Scar_across_to_Fairfield_January_2003.jpg",
-      "title": "Dave&Lynne Slater from Cumbria, United kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Whitbarrow Scar across to Fairfield January 2003"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cairn%2C_Whitbarrow_-_geograph.org.uk_-_337124.jpg",
-      "title": "Michael Graham / Cairn, Whitbarrow, via Wikimedia Commons",
-      "caption": "Cairn, Whitbarrow. The Cairn is a memorial to Canon G.A.K. Hervey who founded the Lake District Naturalist's Trust. The area is now a National Nature Reserve covering over 500 acres, one of the largest in the country."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Whitbarrow_Scar_-_geograph.org.uk_-_362140.jpg",
-      "title": "Mick Garratt / Whitbarrow Scar, via Wikimedia Commons",
-      "caption": "Whitbarrow Scar National orienteering competition start, overlooking the Winster valley."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Climbing_Whitbarrow_Scar_-_geograph.org.uk_-_1186450.jpg",
-      "title": "Ian Cunliffe / Climbing Whitbarrow Scar, via Wikimedia Commons",
-      "caption": "Climbing Whitbarrow Scar"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Limestone_pavement_on_Whitbarrow_Scar_-_geograph.org.uk_-_7870.jpg",
-      "title": "Stephen Dawson / Limestone pavement on Whitbarrow Scar, via Wikimedia Commons",
-      "caption": "Limestone pavement on Whitbarrow Scar. From Lord's Seat, the summit of Whitbarrow Scar, looking east."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_path_along_Whitbarrow_Scar_-_geograph.org.uk_-_958179.jpg",
-      "title": "Tom Richardson / The path along Whitbarrow Scar, via Wikimedia Commons",
-      "caption": "The path along Whitbarrow Scar"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Farmland_near_Whitbarrow_-_geograph.org.uk_-_1512141.jpg",
-      "title": "Michael Graham / Farmland near Whitbarrow, via Wikimedia Commons",
-      "caption": "Farmland near Whitbarrow. Looking towards the access land near Greenah Crag"
-    }
-  ],
-  "distance_km": 11.0,
-  "description": "Enjoy wonderful limestone scenery, ancient woodland and rich ground flora in this nature reserve near Witherslack in the Lake District National Park. The walk starts at Mill Side and heads to Whitbarrow Scar on footpaths and quiet country lanes. You then climb to the high point known as the Lord's seat where you will find a large obelisk shaped cairn. From here there are marvellous panoramic views of the River Kent Estuary and Morecambe Bay. The return leg is a gentle descent along woodland paths passing Wakebarrow, Rough Hill Wood, Windy Howe and Watson's Wood before returning to Mill Side. Features in the reserve include a small traditional orchard with Westmorland damson and apple trees and pretty bluebell woodland. Wildlife lovers should look out for roe and red deer at Howe Ridding Wood. Birdlife includes buzzard, raven, sparrowhawk, woodcock, great spotted woodpecker, redstart and nuthatch. Alfred Wainwright praises Whitbarrow in his book 'The Outlying Fells of Lakeland' describing it as 'the most beautiful [walk] in this book, beautiful it is every step of the way. ... All is fair to the eye on Whitbarrow.' Whitbarrow can be easily reached from Kendal which is about 5 miles to the north east. Here you can extend your walking by trying our Kendal Castle and River Walk. The climb to Cartmel Fell is located just to the west of the reserve where there are more fine views over the Lyth Valley .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The circular Witherslack Walk starts from the nearby village and visits Yewbarrow before climbing to the reserve. The village includes a fine local pub where you could enjoy some post walk refreshment. To the south you can enjoy a climb to Hampsfell Hospice, a limestone tower built in 1846 by the vicar of Cartmel. Just to the east of Witherslack there's the Foulshaw Moss Nature Reserve. The reserve has some nice boardwalks to follow over the peat bog. It's also excellent for wildlife with ospreys, hobby, sparrowhawk, buzzard and peregrine to look out for from the bird hides."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/aRFnGXj73BI",
-  "postcode": "LA11 6SQ",
-  "district": "Mill Side",
-  "county": "Westmorland and Furness",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Beck Head, Witherslack, Meathop and Ulpha, Mill Side, Westmorland and Furness, England, LA11 6SQ, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "mountain"
-  ],
-  "points_of_interest": [
-    "cairn",
-    "woodland"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/On_Whitbarrow_-_geograph.org.uk_-_337128.jpg",
+            "title": "Michael Graham / On Whitbarrow, via Wikimedia Commons",
+            "caption": "On Whitbarrow Birch woodland and limestone on Whitbarrow. The muddy path is made by cattle which were surprisingly encountered in the scrubby woodland."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Whitbarrow_Scar_across_to_Fairfield_January_2003.jpg",
+            "title": "Dave&Lynne Slater from Cumbria, United kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Whitbarrow Scar across to Fairfield January 2003"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cairn%2C_Whitbarrow_-_geograph.org.uk_-_337124.jpg",
+            "title": "Michael Graham / Cairn, Whitbarrow, via Wikimedia Commons",
+            "caption": "Cairn, Whitbarrow. The Cairn is a memorial to Canon G.A.K. Hervey who founded the Lake District Naturalist's Trust. The area is now a National Nature Reserve covering over 500 acres, one of the largest in the country."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Whitbarrow_Scar_-_geograph.org.uk_-_362140.jpg",
+            "title": "Mick Garratt / Whitbarrow Scar, via Wikimedia Commons",
+            "caption": "Whitbarrow Scar National orienteering competition start, overlooking the Winster valley."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Climbing_Whitbarrow_Scar_-_geograph.org.uk_-_1186450.jpg",
+            "title": "Ian Cunliffe / Climbing Whitbarrow Scar, via Wikimedia Commons",
+            "caption": "Climbing Whitbarrow Scar"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Limestone_pavement_on_Whitbarrow_Scar_-_geograph.org.uk_-_7870.jpg",
+            "title": "Stephen Dawson / Limestone pavement on Whitbarrow Scar, via Wikimedia Commons",
+            "caption": "Limestone pavement on Whitbarrow Scar. From Lord's Seat, the summit of Whitbarrow Scar, looking east."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_path_along_Whitbarrow_Scar_-_geograph.org.uk_-_958179.jpg",
+            "title": "Tom Richardson / The path along Whitbarrow Scar, via Wikimedia Commons",
+            "caption": "The path along Whitbarrow Scar"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Farmland_near_Whitbarrow_-_geograph.org.uk_-_1512141.jpg",
+            "title": "Michael Graham / Farmland near Whitbarrow, via Wikimedia Commons",
+            "caption": "Farmland near Whitbarrow. Looking towards the access land near Greenah Crag"
+        }
+    ],
+    "distance_km": 11.0,
+    "description": "Enjoy wonderful limestone scenery, ancient woodland and rich ground flora in this nature reserve near Witherslack in the Lake District National Park. The walk starts at Mill Side and heads to Whitbarrow Scar on footpaths and quiet country lanes. You then climb to the high point known as the Lord's seat where you will find a large obelisk shaped cairn. From here there are marvellous panoramic views of the River Kent Estuary and Morecambe Bay. The return leg is a gentle descent along woodland paths passing Wakebarrow, Rough Hill Wood, Windy Howe and Watson's Wood before returning to Mill Side. Features in the reserve include a small traditional orchard with Westmorland damson and apple trees and pretty bluebell woodland. Wildlife lovers should look out for roe and red deer at Howe Ridding Wood. Birdlife includes buzzard, raven, sparrowhawk, woodcock, great spotted woodpecker, redstart and nuthatch. Alfred Wainwright praises Whitbarrow in his book 'The Outlying Fells of Lakeland' describing it as 'the most beautiful [walk] in this book, beautiful it is every step of the way. ... All is fair to the eye on Whitbarrow.' Whitbarrow can be easily reached from Kendal which is about 5 miles to the north east. Here you can extend your walking by trying our Kendal Castle and River Walk. The climb to Cartmel Fell is located just to the west of the reserve where there are more fine views over the Lyth Valley .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The circular Witherslack Walk starts from the nearby village and visits Yewbarrow before climbing to the reserve. The village includes a fine local pub where you could enjoy some post walk refreshment. To the south you can enjoy a climb to Hampsfell Hospice, a limestone tower built in 1846 by the vicar of Cartmel. Just to the east of Witherslack there's the Foulshaw Moss Nature Reserve. The reserve has some nice boardwalks to follow over the peat bog. It's also excellent for wildlife with ospreys, hobby, sparrowhawk, buzzard and peregrine to look out for from the bird hides."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/aRFnGXj73BI",
+    "postcode": "LA11 6SQ",
+    "district": "Mill Side",
+    "county": "Westmorland and Furness",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Beck Head, Witherslack, Meathop and Ulpha, Mill Side, Westmorland and Furness, England, LA11 6SQ, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "4 hours",
+    "difficulty": "moderate",
+    "terrain": ["woodland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

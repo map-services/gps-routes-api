@@ -1,61 +1,69 @@
 {
-    "created_at": "2025-01-06T10:35:07.345753+00:00",
-    "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
-    "ref": "bigod-way-walking-route",
-    "title": "Bigod Way - Bungay, Ditchingham, Earsham and Outney Common Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bungay%2C_Bigod%27s_Castle_-_geograph.org.uk_-_1602690.jpg",
-    "nearby": [
-        {
-            "description": "Bungay Riverside Walk",
-            "objectID": "ce1f844fef1f19c5539bf77823913a01",
-            "ref": "bungay-riverside-walk-walking-route"
-        },
-        {
-            "description": "Waveney Valley",
-            "objectID": "3746f5ed0cb75b63e0cd6902b429824e",
-            "ref": "waveney-valley-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/752a8e9cca3d7b025367dc2fa1aa1d16.gpx",
-    "_geoloc": {
-        "lat": 52.4651989838,
-        "lng": 1.4350644645
+  "created_at": "2025-01-06T10:35:07.345753+00:00",
+  "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
+  "ref": "bigod-way-walking-route",
+  "title": "Bigod Way - Bungay, Ditchingham, Earsham and Outney Common Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bungay%2C_Bigod%27s_Castle_-_geograph.org.uk_-_1602690.jpg",
+  "nearby": [
+    {
+      "description": "Bungay Riverside Walk",
+      "objectID": "ce1f844fef1f19c5539bf77823913a01",
+      "ref": "bungay-riverside-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bungay%2C_Bigod%27s_Castle_-_geograph.org.uk_-_1602690.jpg",
-            "title": "Chris Downer / Bungay: Bigod\u2019s Castle",
-            "caption": "Bungay, Bigod's Castle. To the west of the main town, this castle was built in 1394 by Roger Bigod. It was the second castle to occupy the site, the previous one having been built by Hugh Bigod, 220 years earlier."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kissing_Gate_on_Bigod_Way_-_geograph.org.uk_-_224198.jpg/330px-Kissing_Gate_on_Bigod_Way_-_geograph.org.uk_-_224198.jpg",
-            "title": "Linda Bailey / Kissing Gate on Bigod Way",
-            "caption": "Kissing Gate on Bigod Way"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Field_near_Bigod_Way_-_geograph.org.uk_-_221983.jpg",
-            "title": "Linda Bailey / Field near Bigod Way",
-            "caption": "Field near Bigod Way. This was taken from the path, looking onto fields above Ditchingham Lodge."
-        }
-    ],
-    "distance_km": 16.0,
-    "description": "Explore the countryside around Bungay, in Suffolk, on this 10 mile circular walk in the Waveney Valley. The route offers a variety of wildlife, rare plants, and many sites of historical interest surrounding the town. It also visits Outney Common and includes fine views of the River Waveney. To continue your walking in the Bungay area you can try the Bungay Riverside Walk which will take you around the riverside paths on Outney Common. Just the east of the trail you coudl take a detour and visit Broome Heath where there's a nice nature reserve with a number of pretty lakes. The route is coincident with the Angles Way which offers a fine way of exploring the river valleys and broads of Suffolk and Norfolk.",
-    "details": [],
-    "postcode": "NR35 2JN",
-    "district": "East Suffolk",
-    "county": "Suffolk",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Riverside Footpath, Bungay, East Suffolk, Suffolk, England, NR35 2JN, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "river"],
-    "points_of_interest": ["historical site", "nature reserve", "river valley"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Waveney Valley",
+      "objectID": "3746f5ed0cb75b63e0cd6902b429824e",
+      "ref": "waveney-valley-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/752a8e9cca3d7b025367dc2fa1aa1d16.gpx",
+  "_geoloc": {
+    "lat": 52.4651989838,
+    "lng": 1.4350644645
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bungay%2C_Bigod%27s_Castle_-_geograph.org.uk_-_1602690.jpg",
+      "title": "Chris Downer / Bungay: Bigod\u2019s Castle",
+      "caption": "Bungay, Bigod's Castle. To the west of the main town, this castle was built in 1394 by Roger Bigod. It was the second castle to occupy the site, the previous one having been built by Hugh Bigod, 220 years earlier."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kissing_Gate_on_Bigod_Way_-_geograph.org.uk_-_224198.jpg/330px-Kissing_Gate_on_Bigod_Way_-_geograph.org.uk_-_224198.jpg",
+      "title": "Linda Bailey / Kissing Gate on Bigod Way",
+      "caption": "Kissing Gate on Bigod Way"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Field_near_Bigod_Way_-_geograph.org.uk_-_221983.jpg",
+      "title": "Linda Bailey / Field near Bigod Way",
+      "caption": "Field near Bigod Way. This was taken from the path, looking onto fields above Ditchingham Lodge."
+    }
+  ],
+  "distance_km": 16.0,
+  "description": "Explore the countryside around Bungay, in Suffolk, on this 10 mile circular walk in the Waveney Valley. The route offers a variety of wildlife, rare plants, and many sites of historical interest surrounding the town. It also visits Outney Common and includes fine views of the River Waveney. To continue your walking in the Bungay area you can try the Bungay Riverside Walk which will take you around the riverside paths on Outney Common. Just the east of the trail you coudl take a detour and visit Broome Heath where there's a nice nature reserve with a number of pretty lakes. The route is coincident with the Angles Way which offers a fine way of exploring the river valleys and broads of Suffolk and Norfolk.",
+  "details": [],
+  "postcode": "NR35 2JN",
+  "district": "East Suffolk",
+  "county": "Suffolk",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Riverside Footpath, Bungay, East Suffolk, Suffolk, England, NR35 2JN, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours 20 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "river valley",
+    "common"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

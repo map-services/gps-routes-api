@@ -1,120 +1,127 @@
 {
-    "created_at": "2025-01-06T02:45:42.348012+00:00",
-    "objectID": "d9e62ceab80aad7af7718ce491bd7f20",
-    "ref": "chester-city-circular-walk-walking-route",
-    "title": "Chester City Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chester_Canal_-_geograph.org.uk_-_847525.jpg",
-    "nearby": [
-        {
-            "description": "Chester Canal Walk",
-            "objectID": "dc9463ca2d01f9b300a0c5e99282961a",
-            "ref": "chester-canal-walk-walking-route"
-        },
-        {
-            "description": "Chester Walls",
-            "objectID": "ded3b5e656dc4442adf5d634245c87dd",
-            "ref": "chester-walls-walking-route"
-        },
-        {
-            "description": "Nantwich",
-            "objectID": "541407b70b694d90c2d45ed9b6dc76fb",
-            "ref": "nantwich-walking-route"
-        },
-        {
-            "description": "Farndon",
-            "objectID": "4503cc2743cc716718018acbcf230bed",
-            "ref": "farndon-walking-route"
-        },
-        {
-            "description": "Bishop Bennet Way",
-            "objectID": "e2fb63071179179295a6260ca4cba214",
-            "ref": "bishop-bennet-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Christleton",
-            "objectID": "50c7f9d6a962b64b5e11385c3f47ae55",
-            "ref": "christleton-walking-route"
-        },
-        {
-            "description": "Eccleston",
-            "objectID": "97ed6c6557468065c05b473a872c60c6",
-            "ref": "eccleston-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d9e62ceab80aad7af7718ce491bd7f20.gpx",
-    "_geoloc": {
-        "lat": 53.1904788248,
-        "lng": -2.8913658618
+  "created_at": "2025-01-06T02:45:42.348012+00:00",
+  "objectID": "d9e62ceab80aad7af7718ce491bd7f20",
+  "ref": "chester-city-circular-walk-walking-route",
+  "title": "Chester City Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chester_Canal_-_geograph.org.uk_-_847525.jpg",
+  "nearby": [
+    {
+      "description": "Chester Canal Walk",
+      "objectID": "dc9463ca2d01f9b300a0c5e99282961a",
+      "ref": "chester-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chester_Canal_-_geograph.org.uk_-_847525.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Lovely wide part of the canal near the basin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chester_Canal_Basin_-_Raymond_Street_-_Chester_-_2005-10-09.jpg/500px-Chester_Canal_Basin_-_Raymond_Street_-_Chester_-_2005-10-09.jpg",
-            "title": "By No machine-readable author provided. Tagishsimon assumed (based on copyright claims). [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "Chester Canal Basin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lodge%2C_Grosvenor_Park%2C_Chester_-_DSC07995.JPG/500px-Lodge%2C_Grosvenor_Park%2C_Chester_-_DSC07995.JPG",
-            "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Grosvenor Park Lodge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pond%2C_Grosvenor_Park%2C_Chester_-_DSC07989.JPG/500px-Pond%2C_Grosvenor_Park%2C_Chester_-_DSC07989.JPG",
-            "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Pond, Grosvenor Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flowerbeds%2C_Grosvenor_Park%2C_Chester_-_DSC08003.JPG/500px-Flowerbeds%2C_Grosvenor_Park%2C_Chester_-_DSC08003.JPG",
-            "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Flowerbeds, Grosvenor Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/River_Dee_Chester_England.jpg",
-            "title": "By User Wikityke on en.wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons",
-            "caption": "River Dee weir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Chester_Cathedral_exterior_adjusted.jpg",
-            "title": "By Kaihsu Tai (wiki commons) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "Chester Cathedral"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chester_Castle_-_geograph.org.uk_-_10212.jpg",
-            "title": "chestertouristcom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Chester Castle"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This varied circular walk takes you to some of the highlights of this attractive Cheshire city. You'll pass along the Shropshire Union Canal, visit the City Walls, stroll through Grosvenor Park and enjoy more waterside paths along the River Dee. It's about a 3 mile walk on flat paths so suitable for all abilities. The walk starts in the city centre on Northgate Street, just to the west of the splendid cathedral. Follow the road north to the canal and then head west to visit the canal basin and the Water Tower Gardens. The basin is an attractive area where the canal and the River Dee meet. After exploring the basin the walk then follows the canal towpath east along the city walls, passing the Grade I listed Northgate and Phoenix Tower. At Russell Street, turn south and head to Grosvenor Park. The lovely park is regarded as one of the finest and most complete examples of Victorian parks in the country. In it you will find ornamental flower beds, grassed areas, trees, footpaths, three medieval arches and river views. After exploring the park you cross Queens Park Bridge and follow a path heading west along the River Dee. You then cross Old Dee Bridge where you can visit Chester Castle, overlooking the River Dee, just to the west of the bridge. The castle was originally built in 1070 by Hugh d'Avranches, the first Earl of Chester. You can explore the medieval remains of the castle and learn about its history in the museum. After visiting the castle head back towards Old Dee Bridge and walk up Lower Bridge Street to return to the cathedral. To extend your walking in the city you could try the Chester Walls Walk. The ancient raised walkway visits a series of interesting historical sites and Grade I listed buildings. You could also extend your waterside walking and continue along the Chester Canal towards Nantwich .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To the south there's the interesting village of Farndon to visit. The village includes a noteworthy medieval bridge which spans the River Dee, connecting England to Holt in Wales. The Bishop Bennet Way and the Marches Way also run past the settlement. Also to the south is Eccleston. In this area you can enjoy pleasant walks along the River Dee and views of Eaton Hall, country house of the Duke of Westminster. For more walking ideas in the area see the Cheshire Walks page."
-        }
-    ],
-    "postcode": "CH1 2HA",
-    "district": "Chester",
-    "county": "Cheshire West and Chester",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Starbucks, 18-20, Northgate Street, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 2HA, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "3 miles",
-    "difficulty": "easy",
-    "terrain": ["paved", "canal towpath", "river"],
-    "points_of_interest": [
-        "historical site",
-        "archaeological remains",
-        "museum"
-    ],
-    "facilities": ["visitor center", "car park", "pub/cafe"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Chester Walls",
+      "objectID": "ded3b5e656dc4442adf5d634245c87dd",
+      "ref": "chester-walls-walking-route"
+    },
+    {
+      "description": "Nantwich",
+      "objectID": "541407b70b694d90c2d45ed9b6dc76fb",
+      "ref": "nantwich-walking-route"
+    },
+    {
+      "description": "Farndon",
+      "objectID": "4503cc2743cc716718018acbcf230bed",
+      "ref": "farndon-walking-route"
+    },
+    {
+      "description": "Bishop Bennet Way",
+      "objectID": "e2fb63071179179295a6260ca4cba214",
+      "ref": "bishop-bennet-way-walking-and-cycle-route"
+    },
+    {
+      "description": "Christleton",
+      "objectID": "50c7f9d6a962b64b5e11385c3f47ae55",
+      "ref": "christleton-walking-route"
+    },
+    {
+      "description": "Eccleston",
+      "objectID": "97ed6c6557468065c05b473a872c60c6",
+      "ref": "eccleston-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d9e62ceab80aad7af7718ce491bd7f20.gpx",
+  "_geoloc": {
+    "lat": 53.1904788248,
+    "lng": -2.8913658618
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chester_Canal_-_geograph.org.uk_-_847525.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Lovely wide part of the canal near the basin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chester_Canal_Basin_-_Raymond_Street_-_Chester_-_2005-10-09.jpg/500px-Chester_Canal_Basin_-_Raymond_Street_-_Chester_-_2005-10-09.jpg",
+      "title": "By No machine-readable author provided. Tagishsimon assumed (based on copyright claims). [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "Chester Canal Basin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lodge%2C_Grosvenor_Park%2C_Chester_-_DSC07995.JPG/500px-Lodge%2C_Grosvenor_Park%2C_Chester_-_DSC07995.JPG",
+      "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Grosvenor Park Lodge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pond%2C_Grosvenor_Park%2C_Chester_-_DSC07989.JPG/500px-Pond%2C_Grosvenor_Park%2C_Chester_-_DSC07989.JPG",
+      "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Pond, Grosvenor Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flowerbeds%2C_Grosvenor_Park%2C_Chester_-_DSC08003.JPG/500px-Flowerbeds%2C_Grosvenor_Park%2C_Chester_-_DSC08003.JPG",
+      "title": "By Rept0n1x (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Flowerbeds, Grosvenor Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/River_Dee_Chester_England.jpg",
+      "title": "By User Wikityke on en.wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons",
+      "caption": "River Dee weir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Chester_Cathedral_exterior_adjusted.jpg",
+      "title": "By Kaihsu Tai (wiki commons) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "Chester Cathedral"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chester_Castle_-_geograph.org.uk_-_10212.jpg",
+      "title": "chestertouristcom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Chester Castle"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This varied circular walk takes you to some of the highlights of this attractive Cheshire city. You'll pass along the Shropshire Union Canal, visit the City Walls, stroll through Grosvenor Park and enjoy more waterside paths along the River Dee. It's about a 3 mile walk on flat paths so suitable for all abilities. The walk starts in the city centre on Northgate Street, just to the west of the splendid cathedral. Follow the road north to the canal and then head west to visit the canal basin and the Water Tower Gardens. The basin is an attractive area where the canal and the River Dee meet. After exploring the basin the walk then follows the canal towpath east along the city walls, passing the Grade I listed Northgate and Phoenix Tower. At Russell Street, turn south and head to Grosvenor Park. The lovely park is regarded as one of the finest and most complete examples of Victorian parks in the country. In it you will find ornamental flower beds, grassed areas, trees, footpaths, three medieval arches and river views. After exploring the park you cross Queens Park Bridge and follow a path heading west along the River Dee. You then cross Old Dee Bridge where you can visit Chester Castle, overlooking the River Dee, just to the west of the bridge. The castle was originally built in 1070 by Hugh d'Avranches, the first Earl of Chester. You can explore the medieval remains of the castle and learn about its history in the museum. After visiting the castle head back towards Old Dee Bridge and walk up Lower Bridge Street to return to the cathedral. To extend your walking in the city you could try the Chester Walls Walk. The ancient raised walkway visits a series of interesting historical sites and Grade I listed buildings. You could also extend your waterside walking and continue along the Chester Canal towards Nantwich .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south there's the interesting village of Farndon to visit. The village includes a noteworthy medieval bridge which spans the River Dee, connecting England to Holt in Wales. The Bishop Bennet Way and the Marches Way also run past the settlement. Also to the south is Eccleston. In this area you can enjoy pleasant walks along the River Dee and views of Eaton Hall, country house of the Duke of Westminster. For more walking ideas in the area see the Cheshire Walks page."
+    }
+  ],
+  "postcode": "CH1 2HA",
+  "district": "Chester",
+  "county": "Cheshire West and Chester",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Starbucks, 18-20, Northgate Street, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 2HA, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "flat"
+  ],
+  "points_of_interest": [
+    "city wall",
+    "historical site",
+    "castle",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

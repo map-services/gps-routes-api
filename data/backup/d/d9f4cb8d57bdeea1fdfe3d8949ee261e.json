@@ -1,96 +1,107 @@
 {
-    "created_at": "2025-01-06T10:24:31.538813+00:00",
-    "objectID": "d9f4cb8d57bdeea1fdfe3d8949ee261e",
-    "ref": "abbots-way-walking-route",
-    "title": "Abbot's Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buckfast_Abbey%2C_England.JPG/500px-Buckfast_Abbey%2C_England.JPG",
-    "nearby": [
-        {
-            "description": "Buckfastleigh and Buckfast Abbey",
-            "objectID": "66e6d774af73641b114af54a746796fa",
-            "ref": "buckfastleigh-and-buckfast-abbey-walking-route"
-        },
-        {
-            "description": "Tavistock Canal",
-            "objectID": "286b48eeefedb421f682c27a64dbf79f",
-            "ref": "tavistock-canal-walking-route"
-        },
-        {
-            "description": "Avon Dam",
-            "objectID": "0c7c6f2254cffe626028c8c65c9eb11f",
-            "ref": "avon-dam-walking-route"
-        },
-        {
-            "description": "Merrivale",
-            "objectID": "9354380e6125b648c9901e7a08d142a7",
-            "ref": "merrivale-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d9f4cb8d57bdeea1fdfe3d8949ee261e.gpx",
-    "_geoloc": {
-        "lat": 50.4917498297,
-        "lng": -3.7780974023
+  "created_at": "2025-01-06T10:24:31.538813+00:00",
+  "objectID": "d9f4cb8d57bdeea1fdfe3d8949ee261e",
+  "ref": "abbots-way-walking-route",
+  "title": "Abbot's Way Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buckfast_Abbey%2C_England.JPG/500px-Buckfast_Abbey%2C_England.JPG",
+  "nearby": [
+    {
+      "description": "Buckfastleigh and Buckfast Abbey",
+      "objectID": "66e6d774af73641b114af54a746796fa",
+      "ref": "buckfastleigh-and-buckfast-abbey-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buckfast_Abbey%2C_England.JPG/500px-Buckfast_Abbey%2C_England.JPG",
-            "title": "By Jagandrk (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Buckfast Abbey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Avon_Dam_%281761%29.jpg/500px-Avon_Dam_%281761%29.jpg",
-            "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Avon Dam"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Brockhill_ford1.jpg/500px-Brockhill_ford1.jpg",
-            "title": "By Own Herby talk thyme (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "Brockhill Ford above the Avon Dam"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wheel_Katherine_Mine_buildings_near_Plym_ford_2.jpg/500px-Wheel_Katherine_Mine_buildings_near_Plym_ford_2.jpg",
-            "title": "By Own Herby talk thyme (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
-            "caption": "Wheel Katherine mine remains at Plym Ford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/South_Hessary_Tor.jpg/500px-South_Hessary_Tor.jpg",
-            "title": "By Nilfanion (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
-            "caption": "South Hessary Tor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Two_pubs_in_Princetown_-_geograph.org.uk_-_183733.jpg",
-            "title": "Derek Harper [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Princetown"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/North_Hessary_Tor_-_geograph.org.uk_-_1377226.jpg",
-            "title": "Tony Atkin [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "North Hessary Tor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tavistock_Abbey.jpg",
-            "title": "Tony Atkin [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Tavistock Abbey Ruins"
-        }
-    ],
-    "distance_km": 35.0,
-    "description": "Travel from Buckfast Abbey to Tavistock Abbey on this long distance trail through the Dartmoor National Park. The trail runs for just over 20 miles, connecting these two historic abbeys and exposing you to some beautiful moorland scenery. Along the way there's a series of rocky tors, pretty rivers and interesting villages. The route climbs to a height of over 1660 feet so there are also great views across the National Park from the high points. The walk starts at the wonderful Buckfast Abbey, just north of Buckfastleigh. You could reach the abbey by catching the heritage South Devon Railway to nearby Buckfastleigh and walking from there. The trail then heads west, through Hockmoor, Lambs Down and Deans Moor before coming to the lovely Avon Dam Reservoir. The trail passes along the northern edge of the reservoir and then along the River Avon on a nice waterside section. The trail then climbs past Stinger's Hill and Erme Pits Hill before coming to Plym Ford where you will find the remains of the old Wheel Katherine mine. The next stage takes you past South Hessary Tor to the village of Princetown. It's the highest settlement on the moor, and one of the highest in the United Kingdom. The village is a good place to stop for refreshments with a good selection of pubs and cafes. After leaving Princetown you head past North Hessary Tor before coming to Merrivale where there's Bronze Age megalithic monuments to the south and a former granite quarry. The final section takes you across Whitchurch Common and Moortown before crossing the River Tavy and finishing at Tavistock Abbey. The abbey dates from the 10th century with ruins including the refectory, two gateways and a porch. To extend your walk you can pick up the Tavistock Canal or the long distance West Devon Way .",
-    "details": [],
-    "district": "Teignbridge",
-    "county": "Devon",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "St Marys Cemetery, St Bernards Close, Higher Town, Buckfastleigh, Buckfast, Teignbridge, Devon, England, TQ11 0EP, United Kingdom",
-    "postcode": "TQ11 0EP",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["moorland", "mountain"],
-    "points_of_interest": ["historical site", "villages", "monuments"],
-    "facilities": ["pubs/cafes", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Tavistock Canal",
+      "objectID": "286b48eeefedb421f682c27a64dbf79f",
+      "ref": "tavistock-canal-walking-route"
+    },
+    {
+      "description": "Avon Dam",
+      "objectID": "0c7c6f2254cffe626028c8c65c9eb11f",
+      "ref": "avon-dam-walking-route"
+    },
+    {
+      "description": "Merrivale",
+      "objectID": "9354380e6125b648c9901e7a08d142a7",
+      "ref": "merrivale-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d9f4cb8d57bdeea1fdfe3d8949ee261e.gpx",
+  "_geoloc": {
+    "lat": 50.4917498297,
+    "lng": -3.7780974023
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buckfast_Abbey%2C_England.JPG/500px-Buckfast_Abbey%2C_England.JPG",
+      "title": "By Jagandrk (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Buckfast Abbey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Avon_Dam_%281761%29.jpg/500px-Avon_Dam_%281761%29.jpg",
+      "title": "By Nilfanion (Wikimedia UK) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Avon Dam"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Brockhill_ford1.jpg/500px-Brockhill_ford1.jpg",
+      "title": "By Own Herby talk thyme (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "Brockhill Ford above the Avon Dam"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wheel_Katherine_Mine_buildings_near_Plym_ford_2.jpg/500px-Wheel_Katherine_Mine_buildings_near_Plym_ford_2.jpg",
+      "title": "By Own Herby talk thyme (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (https://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons",
+      "caption": "Wheel Katherine mine remains at Plym Ford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/South_Hessary_Tor.jpg/500px-South_Hessary_Tor.jpg",
+      "title": "By Nilfanion (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
+      "caption": "South Hessary Tor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Two_pubs_in_Princetown_-_geograph.org.uk_-_183733.jpg",
+      "title": "Derek Harper [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Princetown"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/North_Hessary_Tor_-_geograph.org.uk_-_1377226.jpg",
+      "title": "Tony Atkin [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "North Hessary Tor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tavistock_Abbey.jpg",
+      "title": "Tony Atkin [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Tavistock Abbey Ruins"
+    }
+  ],
+  "distance_km": 35.0,
+  "description": "Travel from Buckfast Abbey to Tavistock Abbey on this long distance trail through the Dartmoor National Park. The trail runs for just over 20 miles, connecting these two historic abbeys and exposing you to some beautiful moorland scenery. Along the way there's a series of rocky tors, pretty rivers and interesting villages. The route climbs to a height of over 1660 feet so there are also great views across the National Park from the high points. The walk starts at the wonderful Buckfast Abbey, just north of Buckfastleigh. You could reach the abbey by catching the heritage South Devon Railway to nearby Buckfastleigh and walking from there. The trail then heads west, through Hockmoor, Lambs Down and Deans Moor before coming to the lovely Avon Dam Reservoir. The trail passes along the northern edge of the reservoir and then along the River Avon on a nice waterside section. The trail then climbs past Stinger's Hill and Erme Pits Hill before coming to Plym Ford where you will find the remains of the old Wheel Katherine mine. The next stage takes you past South Hessary Tor to the village of Princetown. It's the highest settlement on the moor, and one of the highest in the United Kingdom. The village is a good place to stop for refreshments with a good selection of pubs and cafes. After leaving Princetown you head past North Hessary Tor before coming to Merrivale where there's Bronze Age megalithic monuments to the south and a former granite quarry. The final section takes you across Whitchurch Common and Moortown before crossing the River Tavy and finishing at Tavistock Abbey. The abbey dates from the 10th century with ruins including the refectory, two gateways and a porch. To extend your walk you can pick up the Tavistock Canal or the long distance West Devon Way .",
+  "details": [],
+  "district": "Teignbridge",
+  "county": "Devon",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "St Marys Cemetery, St Bernards Close, Higher Town, Buckfastleigh, Buckfast, Teignbridge, Devon, England, TQ11 0EP, United Kingdom",
+  "postcode": "TQ11 0EP",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "10-12 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "mine"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

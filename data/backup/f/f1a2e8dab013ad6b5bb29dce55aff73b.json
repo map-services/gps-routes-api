@@ -1,95 +1,106 @@
 {
-    "created_at": "2025-01-06T08:40:12.508051+00:00",
-    "objectID": "f1a2e8dab013ad6b5bb29dce55aff73b",
-    "ref": "basildon-park-walking-route",
-    "title": "Basildon Park Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pheasant_Park%2C_Basildon_Park_-_geograph.org.uk_-_1226931.jpg",
-    "nearby": [
-        {
-            "description": "Pangbourne Circular Walk",
-            "objectID": "5eeec550a443d08a55bf3d5f071b6aeb",
-            "ref": "pangbourne-circular-walk-walking-route"
-        },
-        {
-            "description": "River Pang",
-            "objectID": "ef4eac5eecd9ee1ede597c9c59a77bf0",
-            "ref": "river-pang-walking-route"
-        },
-        {
-            "description": "Pangbourne to Goring Walk",
-            "objectID": "42c03e4904b8eb510b2f946c8cd83f2e",
-            "ref": "pangbourne-to-goring-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f1a2e8dab013ad6b5bb29dce55aff73b.gpx",
-    "_geoloc": {
-        "lat": 51.5017819389,
-        "lng": -1.1191159433
+  "created_at": "2025-01-06T08:40:12.508051+00:00",
+  "objectID": "f1a2e8dab013ad6b5bb29dce55aff73b",
+  "ref": "basildon-park-walking-route",
+  "title": "Basildon Park Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pheasant_Park%2C_Basildon_Park_-_geograph.org.uk_-_1226931.jpg",
+  "nearby": [
+    {
+      "description": "Pangbourne Circular Walk",
+      "objectID": "5eeec550a443d08a55bf3d5f071b6aeb",
+      "ref": "pangbourne-circular-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pheasant_Park%2C_Basildon_Park_-_geograph.org.uk_-_1226931.jpg",
-            "title": "don cload / Pheasant Park, Basildon Park",
-            "caption": "Pheasant Park, Basildon Park. View across the parkland once used for pheasant shooting activities, hence the name."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Basildon_Park_-_geograph.org.uk_-_944804.jpg",
-            "title": "Stephen McKay / Basildon Park",
-            "caption": "Exotic picnic bench on a National Trust estate overlooking the Thames valley."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Oxford_Lodge%2C_Basildon_Park_-_geograph.org.uk_-_1226975.jpg",
-            "title": "don cload / Oxford Lodge, Basildon Park",
-            "caption": "Oxford Lodge. This is the lodge at the main entrance of the park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basildon_Park_-_geograph.org.uk_-_1344977.jpg",
-            "title": "Graham Horn / Basildon Park",
-            "caption": "One of the walks goes through this deer park towards the woodland on the far side."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Basildon_House_-_geograph.org.uk_-_2778319.jpg/500px-Basildon_House_-_geograph.org.uk_-_2778319.jpg",
-            "title": "Basildon House by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Basildon House"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deer_on_the_Run_-_geograph.org.uk_-_4064250.jpg/500px-Deer_on_the_Run_-_geograph.org.uk_-_4064250.jpg",
-            "title": "Deer on the Run by Bill Nicholls, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Deer on the Run sculpture."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "A walk around the beautiful Basildon Park near Reading. There are 4 different waymarked trails through the 400 acres of parkland and woodland that surround the 18th century mansion house. The walk also takes you through the beautiful garden with its maze, wildflower meadows and rose garden. The route also passes very close to Beale Park Wildlife Park and Gardens which are well worth a look. Here you'll find collections of small exotic animals, farm animals and birds, landscaped gardens and woodlands, and children's play areas. You will also pass very close to the River Thames so the walk can be continued along the river too. Heading east will take you towards the pretty village of Pangbourne where you can visit the delightful water meadows and enjoy a stroll along the River Pang .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a nice on site tea room where you can enjoy refreshments after your walk."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The parkland and gardens are a lovely place to take your dog for a walk. There is some livestock around so you are requested to please keep them on leads. The tea room mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "https://www.nationaltrust.org.uk/basildon-park"
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/TWtoeZvatMs",
-    "district": "Lower Basildon",
-    "county": "West Berkshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Reading Road, Basildon, Lower Basildon, West Berkshire, England, RG8 9NY, United Kingdom",
-    "postcode": "RG8 9NY",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "garden", "river"],
-    "points_of_interest": ["maze", "meadow", "rose garden", "village"],
-    "facilities": ["visitor center", "play area", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "River Pang",
+      "objectID": "ef4eac5eecd9ee1ede597c9c59a77bf0",
+      "ref": "river-pang-walking-route"
+    },
+    {
+      "description": "Pangbourne to Goring Walk",
+      "objectID": "42c03e4904b8eb510b2f946c8cd83f2e",
+      "ref": "pangbourne-to-goring-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f1a2e8dab013ad6b5bb29dce55aff73b.gpx",
+  "_geoloc": {
+    "lat": 51.5017819389,
+    "lng": -1.1191159433
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pheasant_Park%2C_Basildon_Park_-_geograph.org.uk_-_1226931.jpg",
+      "title": "don cload / Pheasant Park, Basildon Park",
+      "caption": "Pheasant Park, Basildon Park. View across the parkland once used for pheasant shooting activities, hence the name."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Basildon_Park_-_geograph.org.uk_-_944804.jpg",
+      "title": "Stephen McKay / Basildon Park",
+      "caption": "Exotic picnic bench on a National Trust estate overlooking the Thames valley."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Oxford_Lodge%2C_Basildon_Park_-_geograph.org.uk_-_1226975.jpg",
+      "title": "don cload / Oxford Lodge, Basildon Park",
+      "caption": "Oxford Lodge. This is the lodge at the main entrance of the park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basildon_Park_-_geograph.org.uk_-_1344977.jpg",
+      "title": "Graham Horn / Basildon Park",
+      "caption": "One of the walks goes through this deer park towards the woodland on the far side."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Basildon_House_-_geograph.org.uk_-_2778319.jpg/500px-Basildon_House_-_geograph.org.uk_-_2778319.jpg",
+      "title": "Basildon House by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Basildon House"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deer_on_the_Run_-_geograph.org.uk_-_4064250.jpg/500px-Deer_on_the_Run_-_geograph.org.uk_-_4064250.jpg",
+      "title": "Deer on the Run by Bill Nicholls, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Deer on the Run sculpture."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "A walk around the beautiful Basildon Park near Reading. There are 4 different waymarked trails through the 400 acres of parkland and woodland that surround the 18th century mansion house. The walk also takes you through the beautiful garden with its maze, wildflower meadows and rose garden. The route also passes very close to Beale Park Wildlife Park and Gardens which are well worth a look. Here you'll find collections of small exotic animals, farm animals and birds, landscaped gardens and woodlands, and children's play areas. You will also pass very close to the River Thames so the walk can be continued along the river too. Heading east will take you towards the pretty village of Pangbourne where you can visit the delightful water meadows and enjoy a stroll along the River Pang .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site tea room where you can enjoy refreshments after your walk."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and gardens are a lovely place to take your dog for a walk. There is some livestock around so you are requested to please keep them on leads. The tea room mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "https://www.nationaltrust.org.uk/basildon-park"
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/TWtoeZvatMs",
+  "district": "Lower Basildon",
+  "county": "West Berkshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Reading Road, Basildon, Lower Basildon, West Berkshire, England, RG8 9NY, United Kingdom",
+  "postcode": "RG8 9NY",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "mansion house",
+    "wildlife park",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

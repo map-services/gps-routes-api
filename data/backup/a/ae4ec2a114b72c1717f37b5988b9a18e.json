@@ -1,115 +1,128 @@
 {
-    "created_at": "2025-01-06T02:00:24.986049+00:00",
-    "objectID": "ae4ec2a114b72c1717f37b5988b9a18e",
-    "ref": "newlands-corner-walking-route",
-    "title": "Newlands Corner Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/North_Downs_Way_at_Newlands_Corner_-_geograph.org.uk_-_233971.jpg",
-    "nearby": [
-        {
-            "description": "North Downs Way",
-            "objectID": "158891488846dc8d1f43a5eb9e491778",
-            "ref": "north-downs-way-walking-route"
-        },
-        {
-            "description": "Pewley Down",
-            "objectID": "966b54ca83b2ea1ff34a506abf15a31c",
-            "ref": "pewley-down-walking-route"
-        },
-        {
-            "description": "Gomshall",
-            "objectID": "ac6c904252cf350c0e2212a59d9c50c8",
-            "ref": "gomshall-walking-route"
-        },
-        {
-            "description": "Silent Pool",
-            "objectID": "b7a75143fc92d7e1350b9da0d37b5eaf",
-            "ref": "silent-pool-walking-route"
-        },
-        {
-            "description": "St Martha's Hill",
-            "objectID": "e5f6c8e85616a17034c36a6b1847b1fe",
-            "ref": "st-marthas-hill-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae4ec2a114b72c1717f37b5988b9a18e.gpx",
-    "_geoloc": {
-        "lat": 51.2327337259,
-        "lng": -0.5099395805
+  "created_at": "2025-01-06T02:00:24.986049+00:00",
+  "objectID": "ae4ec2a114b72c1717f37b5988b9a18e",
+  "ref": "newlands-corner-walking-route",
+  "title": "Newlands Corner Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/North_Downs_Way_at_Newlands_Corner_-_geograph.org.uk_-_233971.jpg",
+  "nearby": [
+    {
+      "description": "North Downs Way",
+      "objectID": "158891488846dc8d1f43a5eb9e491778",
+      "ref": "north-downs-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/North_Downs_Way_at_Newlands_Corner_-_geograph.org.uk_-_233971.jpg",
-            "title": "Richard Thomas / North Downs Way at Newlands Corner",
-            "caption": "The footpath continues down the hill and into the next grid square at this Surrey Hills 'beauty spot.' At the site there are 129 ancient yews on the northern wooded slope. Some trees are so old the centre is hollow and the whole tree can be walked through. These are over 1000 years old. The area is also popular with amateur astronomists. With a downhill slope facing south, the viewer faces many constellations such as Orion and Gemini in winter. Once or twice a year the Guildford Astronomical Society and other local societies hold public events at Newlands Corner with about 25 telescopes and 150 members of the public in attendance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Newlands_Corner%2C_on_Albury_Downs_-_geograph.org.uk_-_460461.jpg",
-            "title": "Colin Smith / Newlands Corner, on Albury Downs",
-            "caption": "Bench and viewpoint at Newlands Corner, on Albury Downs. A view over a hazy Weald from the top of the North Downs before the crowds have arrived. Newlands Corner is a \"honeypot\" on the A25 which attracts thousands of bikers, cyclists, motorists riders and walkers to its cafe, visitor centre and views from the grassy hillside. On a clear day, the South Downs are visible, 30 miles to the south."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Newlands_Corner_Sculpture_-_geograph.org.uk_-_460448.jpg/330px-Newlands_Corner_Sculpture_-_geograph.org.uk_-_460448.jpg",
-            "title": "Colin Smith / Newlands Corner Sculpture",
-            "caption": "Sculpture at the site. This is one of many similar wooden sculptures which have appeared around this area of Surrey - the North Downs and Surrey Hills areas - in recent years. Around are a small meadow and deciduous trees on this North Downs hilltop. Newlands Corner was a key location in the crime writer Agatha Christie's disappearance in December 1926. Her car was found in a bush overhanging a chalk pit at the bottom of the south side of the hill. She was found some days later having checked in under an alias at a hotel in Harrogate. As a result, the site is the setting of the climax of the final scene of the Doctor Who episode \"The Unicorn and the Wasp\""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Flower_Bank%2C_Newlands_Corner_-_geograph.org.uk_-_460438.jpg",
-            "title": "Colin Smith / Flower Bank, Newlands Corner",
-            "caption": "Flower Bank, Newlands Corner. This large area of roadside verge on the A25 is carpeted in ox-eye daisies. A vintage London bus happened to pass by too!"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bikers_at_Newlands_Corner_-_geograph.org.uk_-_826645.jpg",
-            "title": "Colin Smith / Bikers at Newlands Corner",
-            "caption": "Bikers at Newlands Corner. Outside the Surrey Wildlife Trust Visitor Centre is a favoured meeting place for bikers and for showing off their pride and joy. It is a quieter bikers' meet than its counterpart at Box Hill."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Visitor_Centre%2C_Newlands_Corner_-_geograph.org.uk_-_3007256.jpg/500px-Visitor_Centre%2C_Newlands_Corner_-_geograph.org.uk_-_3007256.jpg",
-            "title": "Visitor Centre, Newlands Corner by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Visitor Centre with displays detailing the history, flora and fauna of the area. Car park viewable outside."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_North_Downs_Way_at_Albury_Downs_-_geograph.org.uk_-_1288664.jpg",
-            "title": "Paul Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The North Downs Way at Albury Downs"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Silent_Pool%2C_near_Shere_-_geograph.org.uk_-_108322.jpg",
-            "title": "Colin Smith / Silent Pool, near Shere",
-            "caption": "Silent Pool, near Shere. A spring line pool at the foot of the North Downs. It gets its name supposedly from the murder here of a young girl by King John. Since then, no birds are said to sing here. The pool has only dried out once due to drought in the last 30 years at least. The building is a thatched boathouse."
-        }
-    ],
-    "distance_km": 3.5,
-    "description": "This lovely beauty spot on the North Downs is great for walking with a number of footpaths to try. There's several nice woodland trails and open chalk downland with wonderful views over the Surrey Hills. This circular walk starts from the excellent Newlands Corner Visitor centre where you will find information, a cafe, picnic tables and a car park. It's located just a few miles east of Guildford town centre so is easily accessible. The walk follows the North Downs Way and other footpaths around the visitor centre. You'll visit Albury Downs and Walnut Tree Bottom with lots of opportunities to sit on one of the many benches and soak in the splendid views. It's a great area for flora and fauna. In the summer the grassland is covered with a variety of wildflowers. In the woodland area you may see roe deer, green woodpeckers, nuthatches and tawny owls. If you would like to extend your walk then you could follow the North Downs Way to the nearby St Martha's Hill. Our 9 mile circular walk from the pretty village of Shere visits the hill after passing Newlands Corner. Also nearby is Chantry Wood where there are some more nice woodland trails and meadows to explore. From here you can enjoy a climb to Pewley Down .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Newlands Cafe is conveniently located right next to the car park. They do a good range of snacks and meals at reasonable prices. There's some tables outside for finer days too.Just across the road is the Plucky Pheasant. There's a lovely large garden area here with fine views across the North Downs countryside. They also have a shop selling giftware and a selection of jams, chutneys and pickles all made on the premises."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "With its hill climbs and woodland trails the area is ideal for dog walking so you'll probably see plenty of other owners with their pets on a fine day. The two cafes mentioned above are also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "If you head east past Clandon Downs you will soon come to a footpath heading to Silent Pool. This peaceful beauty spot is a popular little walk with a pleasant circular trail taking you around the pretty lake. It is said King John on his horse abducted a woodcutter's daughter who was forced into the deep water and drowned."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/6cS_XvdDruc",
-    "postcode": "GU4 8SE",
-    "county": "Surrey",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Newlands Corner Car Park, Drove Road, Albury, Guildford, Surrey, England, GU4 8SE, United Kingdom",
-    "district": "Guildford",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "9 miles",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "chalk downland"],
-    "points_of_interest": ["visitor center", "viewpoint", "meadow"],
-    "facilities": ["car park", "cafe", "picnic tables"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Pewley Down",
+      "objectID": "966b54ca83b2ea1ff34a506abf15a31c",
+      "ref": "pewley-down-walking-route"
+    },
+    {
+      "description": "Gomshall",
+      "objectID": "ac6c904252cf350c0e2212a59d9c50c8",
+      "ref": "gomshall-walking-route"
+    },
+    {
+      "description": "Silent Pool",
+      "objectID": "b7a75143fc92d7e1350b9da0d37b5eaf",
+      "ref": "silent-pool-walking-route"
+    },
+    {
+      "description": "St Martha's Hill",
+      "objectID": "e5f6c8e85616a17034c36a6b1847b1fe",
+      "ref": "st-marthas-hill-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae4ec2a114b72c1717f37b5988b9a18e.gpx",
+  "_geoloc": {
+    "lat": 51.2327337259,
+    "lng": -0.5099395805
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/North_Downs_Way_at_Newlands_Corner_-_geograph.org.uk_-_233971.jpg",
+      "title": "Richard Thomas / North Downs Way at Newlands Corner",
+      "caption": "The footpath continues down the hill and into the next grid square at this Surrey Hills 'beauty spot.' At the site there are 129 ancient yews on the northern wooded slope. Some trees are so old the centre is hollow and the whole tree can be walked through. These are over 1000 years old. The area is also popular with amateur astronomists. With a downhill slope facing south, the viewer faces many constellations such as Orion and Gemini in winter. Once or twice a year the Guildford Astronomical Society and other local societies hold public events at Newlands Corner with about 25 telescopes and 150 members of the public in attendance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Newlands_Corner%2C_on_Albury_Downs_-_geograph.org.uk_-_460461.jpg",
+      "title": "Colin Smith / Newlands Corner, on Albury Downs",
+      "caption": "Bench and viewpoint at Newlands Corner, on Albury Downs. A view over a hazy Weald from the top of the North Downs before the crowds have arrived. Newlands Corner is a \"honeypot\" on the A25 which attracts thousands of bikers, cyclists, motorists riders and walkers to its cafe, visitor centre and views from the grassy hillside. On a clear day, the South Downs are visible, 30 miles to the south."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Newlands_Corner_Sculpture_-_geograph.org.uk_-_460448.jpg/330px-Newlands_Corner_Sculpture_-_geograph.org.uk_-_460448.jpg",
+      "title": "Colin Smith / Newlands Corner Sculpture",
+      "caption": "Sculpture at the site. This is one of many similar wooden sculptures which have appeared around this area of Surrey - the North Downs and Surrey Hills areas - in recent years. Around are a small meadow and deciduous trees on this North Downs hilltop. Newlands Corner was a key location in the crime writer Agatha Christie's disappearance in December 1926. Her car was found in a bush overhanging a chalk pit at the bottom of the south side of the hill. She was found some days later having checked in under an alias at a hotel in Harrogate. As a result, the site is the setting of the climax of the final scene of the Doctor Who episode \"The Unicorn and the Wasp\""
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Flower_Bank%2C_Newlands_Corner_-_geograph.org.uk_-_460438.jpg",
+      "title": "Colin Smith / Flower Bank, Newlands Corner",
+      "caption": "Flower Bank, Newlands Corner. This large area of roadside verge on the A25 is carpeted in ox-eye daisies. A vintage London bus happened to pass by too!"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bikers_at_Newlands_Corner_-_geograph.org.uk_-_826645.jpg",
+      "title": "Colin Smith / Bikers at Newlands Corner",
+      "caption": "Bikers at Newlands Corner. Outside the Surrey Wildlife Trust Visitor Centre is a favoured meeting place for bikers and for showing off their pride and joy. It is a quieter bikers' meet than its counterpart at Box Hill."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Visitor_Centre%2C_Newlands_Corner_-_geograph.org.uk_-_3007256.jpg/500px-Visitor_Centre%2C_Newlands_Corner_-_geograph.org.uk_-_3007256.jpg",
+      "title": "Visitor Centre, Newlands Corner by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Visitor Centre with displays detailing the history, flora and fauna of the area. Car park viewable outside."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_North_Downs_Way_at_Albury_Downs_-_geograph.org.uk_-_1288664.jpg",
+      "title": "Paul Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The North Downs Way at Albury Downs"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Silent_Pool%2C_near_Shere_-_geograph.org.uk_-_108322.jpg",
+      "title": "Colin Smith / Silent Pool, near Shere",
+      "caption": "Silent Pool, near Shere. A spring line pool at the foot of the North Downs. It gets its name supposedly from the murder here of a young girl by King John. Since then, no birds are said to sing here. The pool has only dried out once due to drought in the last 30 years at least. The building is a thatched boathouse."
+    }
+  ],
+  "distance_km": 3.5,
+  "description": "This lovely beauty spot on the North Downs is great for walking with a number of footpaths to try. There's several nice woodland trails and open chalk downland with wonderful views over the Surrey Hills. This circular walk starts from the excellent Newlands Corner Visitor centre where you will find information, a cafe, picnic tables and a car park. It's located just a few miles east of Guildford town centre so is easily accessible. The walk follows the North Downs Way and other footpaths around the visitor centre. You'll visit Albury Downs and Walnut Tree Bottom with lots of opportunities to sit on one of the many benches and soak in the splendid views. It's a great area for flora and fauna. In the summer the grassland is covered with a variety of wildflowers. In the woodland area you may see roe deer, green woodpeckers, nuthatches and tawny owls. If you would like to extend your walk then you could follow the North Downs Way to the nearby St Martha's Hill. Our 9 mile circular walk from the pretty village of Shere visits the hill after passing Newlands Corner. Also nearby is Chantry Wood where there are some more nice woodland trails and meadows to explore. From here you can enjoy a climb to Pewley Down .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Newlands Cafe is conveniently located right next to the car park. They do a good range of snacks and meals at reasonable prices. There's some tables outside for finer days too.Just across the road is the Plucky Pheasant. There's a lovely large garden area here with fine views across the North Downs countryside. They also have a shop selling giftware and a selection of jams, chutneys and pickles all made on the premises."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "With its hill climbs and woodland trails the area is ideal for dog walking so you'll probably see plenty of other owners with their pets on a fine day. The two cafes mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head east past Clandon Downs you will soon come to a footpath heading to Silent Pool. This peaceful beauty spot is a popular little walk with a pleasant circular trail taking you around the pretty lake. It is said King John on his horse abducted a woodcutter's daughter who was forced into the deep water and drowned."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/6cS_XvdDruc",
+  "postcode": "GU4 8SE",
+  "county": "Surrey",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Newlands Corner Car Park, Drove Road, Albury, Guildford, Surrey, England, GU4 8SE, United Kingdom",
+  "district": "Guildford",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "chalk downland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "picnic table",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

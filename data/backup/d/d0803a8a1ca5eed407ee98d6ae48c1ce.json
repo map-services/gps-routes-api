@@ -1,125 +1,140 @@
 {
-    "created_at": "2025-01-06T02:44:31.278445+00:00",
-    "objectID": "d0803a8a1ca5eed407ee98d6ae48c1ce",
-    "ref": "rosliston-forestry-centre-walking-route",
-    "title": "Rosliston Forestry Centre and Walking Map Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosliston_Forestry_Centre_%22Falcon%22_-_geograph.org.uk_-_64180.jpg",
-    "nearby": [
-        {
-            "description": "National Forest",
-            "objectID": "9a39bcb933a99ee1aec8b769b5d29197",
-            "ref": "national-forest-walking-route"
-        },
-        {
-            "description": "National Forest Way",
-            "objectID": "33273a16668d5733c3b1e311dffdbaed",
-            "ref": "national-forest-way-walking-route"
-        },
-        {
-            "description": "Trent and Mersey Canal",
-            "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
-            "ref": "trent-and-mersey-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Lichfield City Walk",
-            "objectID": "1e21b179b83477712b121640794ba73c",
-            "ref": "lichfield-city-walk-walking-route"
-        },
-        {
-            "description": "Alrewas and Fradley Junction",
-            "objectID": "58d32b63ebe12a339d43c49386e07aa0",
-            "ref": "alrewas-and-fradley-junction-walking-route"
-        },
-        {
-            "description": "National Memorial Arboretum",
-            "objectID": "102d902f9015d56a676b9a52ebc82da0",
-            "ref": "national-memorial-arboretum-walking-route"
-        },
-        {
-            "description": "Badger Wood",
-            "objectID": "8b4912e07ab8943ad3cbcc0b5327997f",
-            "ref": "badger-wood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d0803a8a1ca5eed407ee98d6ae48c1ce.gpx",
-    "_geoloc": {
-        "lat": 52.7548632191,
-        "lng": -1.6390219929
+  "created_at": "2025-01-06T02:44:31.278445+00:00",
+  "objectID": "d0803a8a1ca5eed407ee98d6ae48c1ce",
+  "ref": "rosliston-forestry-centre-walking-route",
+  "title": "Rosliston Forestry Centre and Walking Map Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosliston_Forestry_Centre_%22Falcon%22_-_geograph.org.uk_-_64180.jpg",
+  "nearby": [
+    {
+      "description": "National Forest",
+      "objectID": "9a39bcb933a99ee1aec8b769b5d29197",
+      "ref": "national-forest-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosliston_Forestry_Centre_%22Falcon%22_-_geograph.org.uk_-_64180.jpg",
-            "title": "Sue Adair / Rosliston Forestry Centre \"Falcon\"",
-            "caption": "Rosliston Forestry Centre \"Falcon\". Falcon climbing frame at Rosliston which is the oldest of the Forestry Commission's community woodlands within The National Forest. 120,000 trees were planted between 1994 and 1996 creating areas of broadleaf wood (oak, ash, birch) pine wood and larch wood. Existing mature woodland is found at Fox Covert which gives a clue as to how the rest of the wood may look in the future. The site already boasts many facilities including a visitor centre, Falcon restaurant, indoor play area, craft centre, waymarked walks and cycle routes, outdoor play area including crazy golf and basketball court, trim trail, sensory garden, two memorial woods, BBQ site and observation hides and the magnificent Rolls Royce Greenheart lake on which fishing is permitted."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sculpture_-_geograph.org.uk_-_450726.jpg",
-            "title": "Brian Webster / Sculpture",
-            "caption": "Sculpture dedicated to South Derbyshire Miners"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Greenheart_Lake_-_geograph.org.uk_-_467437.jpg",
-            "title": "Brian Webster / Greenheart Lake",
-            "caption": "Greenheart Lake Rosliston Forestry Centre - an artificial lake with a wooden bridge - feed from a dammed stream."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bridge_on_Greenheart_Lake_-_geograph.org.uk_-_467441.jpg",
-            "title": "Brian Webster / Bridge on Greenheart Lake",
-            "caption": "Bridge on Greenheart Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Log_Archway_Rosliston_Forestry_Centre_-_geograph.org.uk_-_591209.jpg",
-            "title": "Brian Webster / Log Archway Rosliston Forestry Centre",
-            "caption": "Log Archway Entrance. Feature constructed from trees grown on the forestry sites."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathside_Arboretum_at_Rosliston_Forestry_Centre_-_geograph.org.uk_-_2041436.jpg/500px-Pathside_Arboretum_at_Rosliston_Forestry_Centre_-_geograph.org.uk_-_2041436.jpg",
-            "title": "Pathside Arboretum at Rosliston Forestry Centre by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pathside Arboretum"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Entering_Rosliston_-_geograph.org.uk_-_3198238.jpg",
-            "title": "Entering Rosliston by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entering Rosliston village"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Bulls_Head%2C_Rosliston_-_geograph.org.uk_-_3198242.jpg",
-            "title": "The Bulls Head, Rosliston by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Bulls Head, Rosliston"
-        }
-    ],
-    "distance_km": 3.4,
-    "description": "This walk explores the Rosliston Forestry Centre and the village of Rosliston in the National Forest, South Derbyshire. The area includes woodland trails, meadows, ponds, lots of butterflies and some interesting sculptures. There's also cycle trails and the epic National Forest Way to pick up in the park. The site includes a fine visitor centre where you can hire bikes and learn about the different types of bird you can spot from the bird hides. There's also a car park and cafe. Just to the east you can continue your walking around Badger Wood where there are more pleasant trails to try.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "At the on site Hub Caf\u00e9 you can enjoy a range of refreshments after your exercise."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The woodland trails are great for dog walking so you'll probably meet other owners on your visit."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west you could visit the National Memorial Arboretum at Alrewas. Here you will find 30,000 trees in a 150 acre Arboretum, forming a unique living tribute to those who have served and continue to serve our country."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Wxwcel1K_zc",
-    "postcode": "DE12 8JX",
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Burton Road, Rosliston, Caldwell, South Derbyshire, Derbyshire, East Midlands, England, DE12 8JX, United Kingdom",
-    "district": "South Derbyshire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow"],
-    "points_of_interest": ["sculptures", "bird hide"],
-    "facilities": ["visitor center", "car park", "cafe", "bike hire"],
-    "route_type": "loop",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "National Forest Way",
+      "objectID": "33273a16668d5733c3b1e311dffdbaed",
+      "ref": "national-forest-way-walking-route"
+    },
+    {
+      "description": "Trent and Mersey Canal",
+      "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
+      "ref": "trent-and-mersey-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Lichfield City Walk",
+      "objectID": "1e21b179b83477712b121640794ba73c",
+      "ref": "lichfield-city-walk-walking-route"
+    },
+    {
+      "description": "Alrewas and Fradley Junction",
+      "objectID": "58d32b63ebe12a339d43c49386e07aa0",
+      "ref": "alrewas-and-fradley-junction-walking-route"
+    },
+    {
+      "description": "National Memorial Arboretum",
+      "objectID": "102d902f9015d56a676b9a52ebc82da0",
+      "ref": "national-memorial-arboretum-walking-route"
+    },
+    {
+      "description": "Badger Wood",
+      "objectID": "8b4912e07ab8943ad3cbcc0b5327997f",
+      "ref": "badger-wood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d0803a8a1ca5eed407ee98d6ae48c1ce.gpx",
+  "_geoloc": {
+    "lat": 52.7548632191,
+    "lng": -1.6390219929
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosliston_Forestry_Centre_%22Falcon%22_-_geograph.org.uk_-_64180.jpg",
+      "title": "Sue Adair / Rosliston Forestry Centre \"Falcon\"",
+      "caption": "Rosliston Forestry Centre \"Falcon\". Falcon climbing frame at Rosliston which is the oldest of the Forestry Commission's community woodlands within The National Forest. 120,000 trees were planted between 1994 and 1996 creating areas of broadleaf wood (oak, ash, birch) pine wood and larch wood. Existing mature woodland is found at Fox Covert which gives a clue as to how the rest of the wood may look in the future. The site already boasts many facilities including a visitor centre, Falcon restaurant, indoor play area, craft centre, waymarked walks and cycle routes, outdoor play area including crazy golf and basketball court, trim trail, sensory garden, two memorial woods, BBQ site and observation hides and the magnificent Rolls Royce Greenheart lake on which fishing is permitted."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sculpture_-_geograph.org.uk_-_450726.jpg",
+      "title": "Brian Webster / Sculpture",
+      "caption": "Sculpture dedicated to South Derbyshire Miners"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Greenheart_Lake_-_geograph.org.uk_-_467437.jpg",
+      "title": "Brian Webster / Greenheart Lake",
+      "caption": "Greenheart Lake Rosliston Forestry Centre - an artificial lake with a wooden bridge - feed from a dammed stream."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bridge_on_Greenheart_Lake_-_geograph.org.uk_-_467441.jpg",
+      "title": "Brian Webster / Bridge on Greenheart Lake",
+      "caption": "Bridge on Greenheart Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Log_Archway_Rosliston_Forestry_Centre_-_geograph.org.uk_-_591209.jpg",
+      "title": "Brian Webster / Log Archway Rosliston Forestry Centre",
+      "caption": "Log Archway Entrance. Feature constructed from trees grown on the forestry sites."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathside_Arboretum_at_Rosliston_Forestry_Centre_-_geograph.org.uk_-_2041436.jpg/500px-Pathside_Arboretum_at_Rosliston_Forestry_Centre_-_geograph.org.uk_-_2041436.jpg",
+      "title": "Pathside Arboretum at Rosliston Forestry Centre by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pathside Arboretum"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Entering_Rosliston_-_geograph.org.uk_-_3198238.jpg",
+      "title": "Entering Rosliston by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entering Rosliston village"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Bulls_Head%2C_Rosliston_-_geograph.org.uk_-_3198242.jpg",
+      "title": "The Bulls Head, Rosliston by JThomas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Bulls Head, Rosliston"
+    }
+  ],
+  "distance_km": 3.4,
+  "description": "This walk explores the Rosliston Forestry Centre and the village of Rosliston in the National Forest, South Derbyshire. The area includes woodland trails, meadows, ponds, lots of butterflies and some interesting sculptures. There's also cycle trails and the epic National Forest Way to pick up in the park. The site includes a fine visitor centre where you can hire bikes and learn about the different types of bird you can spot from the bird hides. There's also a car park and cafe. Just to the east you can continue your walking around Badger Wood where there are more pleasant trails to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the on site Hub Caf\u00e9 you can enjoy a range of refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are great for dog walking so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you could visit the National Memorial Arboretum at Alrewas. Here you will find 30,000 trees in a 150 acre Arboretum, forming a unique living tribute to those who have served and continue to serve our country."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Wxwcel1K_zc",
+  "postcode": "DE12 8JX",
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Burton Road, Rosliston, Caldwell, South Derbyshire, Derbyshire, East Midlands, England, DE12 8JX, United Kingdom",
+  "district": "South Derbyshire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "sculpture",
+    "pond",
+    "bird hide"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "dog walking"
+  ]
 }

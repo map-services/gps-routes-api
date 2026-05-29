@@ -1,75 +1,85 @@
 {
-    "created_at": "2025-01-05T23:53:44.946680+00:00",
-    "objectID": "b277b6f20dcf7a5f3576f2ca58c3cb70",
-    "ref": "laughton-woods-walking-route",
-    "title": "Laughton Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laughton_Wood_-_geograph.org.uk_-_206681.jpg",
-    "nearby": [
-        {
-            "description": "Messingham Sand Quarry",
-            "objectID": "4ac819da0a1f7a47eac560aafe629907",
-            "ref": "messingham-sand-quarry-walking-route"
-        },
-        {
-            "description": "Brigg",
-            "objectID": "a67e99b03f345aac88ab80760cca94f1",
-            "ref": "brigg-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b277b6f20dcf7a5f3576f2ca58c3cb70.gpx",
-    "_geoloc": {
-        "lat": 53.5028151282,
-        "lng": -0.7255858635
+  "created_at": "2025-01-05T23:53:44.946680+00:00",
+  "objectID": "b277b6f20dcf7a5f3576f2ca58c3cb70",
+  "ref": "laughton-woods-walking-route",
+  "title": "Laughton Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laughton_Wood_-_geograph.org.uk_-_206681.jpg",
+  "nearby": [
+    {
+      "description": "Messingham Sand Quarry",
+      "objectID": "4ac819da0a1f7a47eac560aafe629907",
+      "ref": "messingham-sand-quarry-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laughton_Wood_-_geograph.org.uk_-_206681.jpg",
-            "title": "Michael Patterson / Laughton Wood, via Wikimedia Commons",
-            "caption": "This is one of a network of woodland tracks through Laughton Wood."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Scotton_Common_Nature_Reserve_-_geograph.org.uk_-_272232.jpg",
-            "title": "Richard Croft / Scotton Common Nature Reserve, via Wikimedia Commons",
-            "caption": "Scotton Common Nature Reserve SSSI between Scotton and Laughton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Farm_Track_on_Scotton_Common_-_geograph.org.uk_-_1757376.jpg",
-            "title": "Glyn Drury / Farm Track on Scotton Common, via Wikimedia Commons",
-            "caption": "Farm Track on Scotton Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hebridean_Sheep_on_Scotton_Common_Nature_Reserve_-_geograph.org.uk_-_1757372.jpg",
-            "title": "Glyn Drury / Hebridean Sheep on Scotton Common Nature Reserve, via Wikimedia Commons",
-            "caption": "Hebridean Sheep on Scotton Common Nature Reserve"
-        }
-    ],
-    "distance_km": 12.5,
-    "description": "Follow the long woodland trail through Laughton Woods on this easy walk in Lincolnshire. You can park at the car park at Tuetoes Wood and then follow a footpath through Laughton Forest to the nearby village of Scotten. The path passes Scotton Common Nature Reserve and Green Howe Pond. Look out for wildlife such as herons and nightjars in the woods. Laughton Woods is located about 7 miles south of Scunthorpe. If you would like to continue your walking in the area then you could head to the nearby Messingham Sand Quarry where there are nice footpaths running around a series of lagoons. Also nearby is the lovely Twigmoor Woods with its large ponds and lovely colourful rhododendrons.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a few nice options for post walk refreshments in nearby Scotter. The White Swan is a a traditional coaching inn overlooking tranquil views of the River Eau. There's also a modern British restaurant, a lounge bar and a terrace garden. You can find it at 9 The Green, Scotter, with postcode DN21 3UD for your sat navs.Another option is to head to nearby Scawby and visit The Sutton Arms for some post walk refreshments. The pub is based in the centre of the beautiful village of Scawby, and has a large car park to the rear. They are renowned for their home-made food and do most of the \u2018pub classics\u2019 - all from scratch. They specialise in real ales, and recently won the CAMRA pub of the season award. There's also a nice garden area where to relax in during the summer months. You can find the pub on 10 West Street with a postcode of DN209AN for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Our Scunthorpe Walk takes you through the popular Central Park to Brumby Woods nature reserve in the town centre. The circular Gainsborough Walk can also be picked up nearby. It starts in the town and uses part of the Trent Valley Way and the Chesterfield Canal to explore the area. The interesting market town of Brigg is not far away. Here you can enjoy a waterside walk along the New River Ancholme to the Humber Bridge on the Humber Estuary near Hull and Barton Upon Humber. For more walking ideas in the area see the Lincolnshire Walks page."
-        }
-    ],
-    "postcode": "DN21 3QF",
-    "county": "Lincolnshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "East Ferry Road, Hardwick Grange Farm, Scotter CP, West Lindsey, Lincolnshire, England, DN21 3QF, United Kingdom",
-    "district": "West Lindsey",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["woodland"],
-    "points_of_interest": ["nature reserve", "pond"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Brigg",
+      "objectID": "a67e99b03f345aac88ab80760cca94f1",
+      "ref": "brigg-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b277b6f20dcf7a5f3576f2ca58c3cb70.gpx",
+  "_geoloc": {
+    "lat": 53.5028151282,
+    "lng": -0.7255858635
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laughton_Wood_-_geograph.org.uk_-_206681.jpg",
+      "title": "Michael Patterson / Laughton Wood, via Wikimedia Commons",
+      "caption": "This is one of a network of woodland tracks through Laughton Wood."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Scotton_Common_Nature_Reserve_-_geograph.org.uk_-_272232.jpg",
+      "title": "Richard Croft / Scotton Common Nature Reserve, via Wikimedia Commons",
+      "caption": "Scotton Common Nature Reserve SSSI between Scotton and Laughton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Farm_Track_on_Scotton_Common_-_geograph.org.uk_-_1757376.jpg",
+      "title": "Glyn Drury / Farm Track on Scotton Common, via Wikimedia Commons",
+      "caption": "Farm Track on Scotton Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hebridean_Sheep_on_Scotton_Common_Nature_Reserve_-_geograph.org.uk_-_1757372.jpg",
+      "title": "Glyn Drury / Hebridean Sheep on Scotton Common Nature Reserve, via Wikimedia Commons",
+      "caption": "Hebridean Sheep on Scotton Common Nature Reserve"
+    }
+  ],
+  "distance_km": 12.5,
+  "description": "Follow the long woodland trail through Laughton Woods on this easy walk in Lincolnshire. You can park at the car park at Tuetoes Wood and then follow a footpath through Laughton Forest to the nearby village of Scotten. The path passes Scotton Common Nature Reserve and Green Howe Pond. Look out for wildlife such as herons and nightjars in the woods. Laughton Woods is located about 7 miles south of Scunthorpe. If you would like to continue your walking in the area then you could head to the nearby Messingham Sand Quarry where there are nice footpaths running around a series of lagoons. Also nearby is the lovely Twigmoor Woods with its large ponds and lovely colourful rhododendrons.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a few nice options for post walk refreshments in nearby Scotter. The White Swan is a a traditional coaching inn overlooking tranquil views of the River Eau. There's also a modern British restaurant, a lounge bar and a terrace garden. You can find it at 9 The Green, Scotter, with postcode DN21 3UD for your sat navs.Another option is to head to nearby Scawby and visit The Sutton Arms for some post walk refreshments. The pub is based in the centre of the beautiful village of Scawby, and has a large car park to the rear. They are renowned for their home-made food and do most of the \u2018pub classics\u2019 - all from scratch. They specialise in real ales, and recently won the CAMRA pub of the season award. There's also a nice garden area where to relax in during the summer months. You can find the pub on 10 West Street with a postcode of DN209AN for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Our Scunthorpe Walk takes you through the popular Central Park to Brumby Woods nature reserve in the town centre. The circular Gainsborough Walk can also be picked up nearby. It starts in the town and uses part of the Trent Valley Way and the Chesterfield Canal to explore the area. The interesting market town of Brigg is not far away. Here you can enjoy a waterside walk along the New River Ancholme to the Humber Bridge on the Humber Estuary near Hull and Barton Upon Humber. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
+  "postcode": "DN21 3QF",
+  "county": "Lincolnshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "East Ferry Road, Hardwick Grange Farm, Scotter CP, West Lindsey, Lincolnshire, England, DN21 3QF, United Kingdom",
+  "district": "West Lindsey",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 to 4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "pond"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

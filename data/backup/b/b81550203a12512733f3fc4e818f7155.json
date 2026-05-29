@@ -1,125 +1,137 @@
 {
-    "created_at": "2025-01-06T08:52:26.192824+00:00",
-    "objectID": "b81550203a12512733f3fc4e818f7155",
-    "ref": "buckden-pike-walking-route",
-    "title": "Buckden Pike Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ascending_Buckden_Pike_-_geograph.org.uk_-_1212864.jpg",
-    "nearby": [
-        {
-            "description": "Great Whernside",
-            "objectID": "f8f2ca2feb982190634ccdea4783b576",
-            "ref": "great-whernside-walking-route"
-        },
-        {
-            "description": "Dales Way",
-            "objectID": "605d1dad48e02d248ecb985988bc777c",
-            "ref": "dales-way-walking-route"
-        },
-        {
-            "description": "Whernside",
-            "objectID": "2eeca025ba0e941aa4aed887cff721e3",
-            "ref": "whernside-walking-route"
-        },
-        {
-            "description": "Circular Walk around Kettlewell",
-            "objectID": "8030b8aac5ea90b4f74d7bd5614c393b",
-            "ref": "circular-walk-around-kettlewell-walking-route"
-        },
-        {
-            "description": "Upper Wharfedale",
-            "objectID": "fcc066d5b874684a707fbe6425418999",
-            "ref": "upper-wharfedale-walking-route"
-        },
-        {
-            "description": "Buckden Pike Short Waterfall Walk",
-            "objectID": "c142a3ec05bbaafc5560bd11a383d16e",
-            "ref": "buckden-pike-short-waterfall-walk-walking-route"
-        },
-        {
-            "description": "Hubberholme",
-            "objectID": "e707dae8bdcc9d9d28c02ed63caff249",
-            "ref": "hubberholme-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b81550203a12512733f3fc4e818f7155.gpx",
-    "_geoloc": {
-        "lat": 54.1923550726,
-        "lng": -2.0900444979
+  "created_at": "2025-01-06T08:52:26.192824+00:00",
+  "objectID": "b81550203a12512733f3fc4e818f7155",
+  "ref": "buckden-pike-walking-route",
+  "title": "Buckden Pike Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ascending_Buckden_Pike_-_geograph.org.uk_-_1212864.jpg",
+  "nearby": [
+    {
+      "description": "Great Whernside",
+      "objectID": "f8f2ca2feb982190634ccdea4783b576",
+      "ref": "great-whernside-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ascending_Buckden_Pike_-_geograph.org.uk_-_1212864.jpg",
-            "title": "Chris Heaton / Ascending Buckden Pike",
-            "caption": "Ascending the Pike. Due to excessive erosion the path has been moved to the other side of the stone wall. Along the lower slopes, the fields and meadows around Buckden are rich with wildflowers in the spring and summer, including buttercups, daisies, and clovers. These meadows support a variety of insects such as butterflies and bees. As you ascend, the landscape transitions to moorland, where heather dominates, blooming in late summer to create a purple-hued expanse. Bilberries and mosses also thrive in this acidic, upland soil. Birdlife is abundant, with curlews, lapwings, and skylarks often heard and seen in the area. You may also spot red grouse and the occasional kestrel or peregrine falcon overhead. On the ground, hares and sometimes red foxes can be encountered, while the streams and boggy patches attract amphibians such as frogs and newts."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Summit_Furniture_on_Buckden_Pike_-_geograph.org.uk_-_1212892.jpg",
-            "title": "Chris Heaton / Summit Furniture on Buckden Pike",
-            "caption": "Summit Furniture on the Pike. It is quite amazing what structures have been erected on top of summits of English fells - there should be a guide written in honour of them. Buckden Pike boasts a well preserved signpost, a brightly painted trig point, a beautifully layered column cairn and a huge inverted sharpened stake that would have done Vlad the Impaler proud."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Cottages_in_Buckden_-_geograph.org.uk_-_296307.jpg",
-            "title": "Chris Heaton / Cottages in Buckden",
-            "caption": "Cottages in Buckden. Row of cottages that front onto the Village Green. The B6160 Grassington/Aysgarth road passes by the front gates, separating these pleasant buildings from the green."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Boundary_Stone_On_Buckden_Pike._-_geograph.org.uk_-_410664.jpg",
-            "title": "Steve Partridge / Boundary Stone On Buckden Pike.",
-            "caption": "Boundary Stone On Buckden Pike. The Eastern side of the wall from the memorial cross to the trig on Buckden Pike is extremely treacherous and boggy, but thanks to a couple of new stiles, walkers are now able to climb over the wall and make the last six tenths of a mile of their journey in relative ease on the Western side of the wall. This is where this boundary stone can be found. To the south of the summit is a memorial cross, dedicated to the memory of five Polish airmen of the Polish Air Force 18th Polish Operational Training Unit based at RAF Bramcote who crashed their Wellington Bomber on 30 January 1942."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Buckden_Pike_-_geograph.org.uk_-_16707.jpg",
-            "title": "Mick Melvin / Buckden Pike",
-            "caption": "A group of walkers rest at the top. The summit of the pike is at an altitude of 702 metres, it makes a fine walk from Buckden village to the summit, a more demanding approach is via Buckden Gill. Along the Gill is a disused lead mine, Buckden Gavel Mine, which has been designated an ancient monument."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Buckden_Pike_Memorial_-_geograph.org.uk_-_74073.jpg/330px-Buckden_Pike_Memorial_-_geograph.org.uk_-_74073.jpg",
-            "title": "Bob Danylec / Buckden Pike Memorial",
-            "caption": "Memorial in memory of the Polish RAF plane crew which crashed here in WWII"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Looking_down_on_Starbotton_-_geograph.org.uk_-_4023846.jpg/500px-Looking_down_on_Starbotton_-_geograph.org.uk_-_4023846.jpg",
-            "title": "Looking down on Starbotton by John H Darch, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking down on Starbotton. A view down to the small village from the footpath. You'll cross the Cam Gill Beck in this area. There is a 17th century pub here too."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%22Buck_Inn%22_pub_at_Buckden%2C_North_Yorkshire_%28025384_47d8409e-BuckdenPub%28AndyBeecroft%29Jul2005%29.jpg",
-            "title": "Andy Beecroft, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Buck Inn in Buckden village. The ivy covered pub is a great place to relax after your exercise. The village of Buckden, nestled at the foot of the pike in Upper Wharfedale, is a charming and tranquil spot. It is characterised by its traditional stone cottages, a historic inn, and a peaceful village green. Buckden has long been a base for walkers and outdoor enthusiasts exploring the Yorkshire Dales. The River Wharfe flows nearby, adding to the scenic beauty of the area. The village's history is reflected in its architecture, with buildings dating back several centuries, and its location has made it a vital crossing point and gathering place for travellers through the Dales. Today, Buckden remains a quiet yet popular starting point for adventures into the surrounding hills and valleys."
-        }
-    ],
-    "distance_km": 12.0,
-    "description": "This circular walk climbs to the 702 metres (2,303 ft) summit of Buckden Pike in the Yorkshire Dales National Park. Buckden Pike is considered to be one of the finest climbs in Yorkshire with its splendid views over the beautiful Wharfedale and the Nidderdale AONB. There's also waterside sections along the area's rivers and gills with photogenic waterfalls to see on the way. The walk starts in the parking area in the village of Buckden and follows a bridleway to the summit. From here there are wonderful views of Great Whernside, Yockenthwaite Moor and across the Yorkshire Dales. You then descend to Starbotton passing the war memorial to the Polish airmen who died when their Wellington Bomber crashed on Buckden Pike during a snowstorm in 1942. The descent follows the Walden Road with views of pretty becks and waterfalls on the way. At Starbotton you cross the River Wharfe and pick up the Dales Way for a lovely riverside section taking you back to Buckden. Look out for Kingfisher, Heron, and Dipper on this section of the walk. To extend your walking in the area you could head south to the village of Kettlewell and climb to Great Whernside for more great views over Wharfedale.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "After your exercise you can enjoy some well earned refreshment at the Buck Inn. The fine Georgian coaching inn now has an attractive contempary interior. There's also outdoor seating with nice views of the village and surrounding countryside. You can find them at postcode BD23 5JA for your sat navs. At the southern end of the route you could also enjoy a pit stop at the Fox and Hounds in Starbotton. The 400 year old inn includes stone flagged floors and a roaring open fire."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The climb is a good one for fit dogs and the Buck Inn mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For a more direct route to the summit see the Buckden Pike Short Waterfall Walk. This takes you along the waterfalls of the Buckden Beck to the hill top. The Upper Wharfedale Wildlife Walk also starts in the village. The wildlife rich circular walk explores the area around Yockenthwaite and Hubberholme to the west of the Pike. For more walking ideas in the area see the Nidderdale Walks and Yorkshire Dales Walks pages."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/YBRFVzLIjLM",
-    "district": "Buckden",
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Buckden - National Park Car Park, Buckden Rake, Buckden, North Yorkshire, York and North Yorkshire, England, BD23 5JX, United Kingdom",
-    "postcode": "BD23 5JX",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["mountain", "river"],
-    "points_of_interest": ["viewpoint", "memorial", "waterfall"],
-    "facilities": ["car park", "river"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Dales Way",
+      "objectID": "605d1dad48e02d248ecb985988bc777c",
+      "ref": "dales-way-walking-route"
+    },
+    {
+      "description": "Whernside",
+      "objectID": "2eeca025ba0e941aa4aed887cff721e3",
+      "ref": "whernside-walking-route"
+    },
+    {
+      "description": "Circular Walk around Kettlewell",
+      "objectID": "8030b8aac5ea90b4f74d7bd5614c393b",
+      "ref": "circular-walk-around-kettlewell-walking-route"
+    },
+    {
+      "description": "Upper Wharfedale",
+      "objectID": "fcc066d5b874684a707fbe6425418999",
+      "ref": "upper-wharfedale-walking-route"
+    },
+    {
+      "description": "Buckden Pike Short Waterfall Walk",
+      "objectID": "c142a3ec05bbaafc5560bd11a383d16e",
+      "ref": "buckden-pike-short-waterfall-walk-walking-route"
+    },
+    {
+      "description": "Hubberholme",
+      "objectID": "e707dae8bdcc9d9d28c02ed63caff249",
+      "ref": "hubberholme-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b81550203a12512733f3fc4e818f7155.gpx",
+  "_geoloc": {
+    "lat": 54.1923550726,
+    "lng": -2.0900444979
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ascending_Buckden_Pike_-_geograph.org.uk_-_1212864.jpg",
+      "title": "Chris Heaton / Ascending Buckden Pike",
+      "caption": "Ascending the Pike. Due to excessive erosion the path has been moved to the other side of the stone wall. Along the lower slopes, the fields and meadows around Buckden are rich with wildflowers in the spring and summer, including buttercups, daisies, and clovers. These meadows support a variety of insects such as butterflies and bees. As you ascend, the landscape transitions to moorland, where heather dominates, blooming in late summer to create a purple-hued expanse. Bilberries and mosses also thrive in this acidic, upland soil. Birdlife is abundant, with curlews, lapwings, and skylarks often heard and seen in the area. You may also spot red grouse and the occasional kestrel or peregrine falcon overhead. On the ground, hares and sometimes red foxes can be encountered, while the streams and boggy patches attract amphibians such as frogs and newts."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Summit_Furniture_on_Buckden_Pike_-_geograph.org.uk_-_1212892.jpg",
+      "title": "Chris Heaton / Summit Furniture on Buckden Pike",
+      "caption": "Summit Furniture on the Pike. It is quite amazing what structures have been erected on top of summits of English fells - there should be a guide written in honour of them. Buckden Pike boasts a well preserved signpost, a brightly painted trig point, a beautifully layered column cairn and a huge inverted sharpened stake that would have done Vlad the Impaler proud."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Cottages_in_Buckden_-_geograph.org.uk_-_296307.jpg",
+      "title": "Chris Heaton / Cottages in Buckden",
+      "caption": "Cottages in Buckden. Row of cottages that front onto the Village Green. The B6160 Grassington/Aysgarth road passes by the front gates, separating these pleasant buildings from the green."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Boundary_Stone_On_Buckden_Pike._-_geograph.org.uk_-_410664.jpg",
+      "title": "Steve Partridge / Boundary Stone On Buckden Pike.",
+      "caption": "Boundary Stone On Buckden Pike. The Eastern side of the wall from the memorial cross to the trig on Buckden Pike is extremely treacherous and boggy, but thanks to a couple of new stiles, walkers are now able to climb over the wall and make the last six tenths of a mile of their journey in relative ease on the Western side of the wall. This is where this boundary stone can be found. To the south of the summit is a memorial cross, dedicated to the memory of five Polish airmen of the Polish Air Force 18th Polish Operational Training Unit based at RAF Bramcote who crashed their Wellington Bomber on 30 January 1942."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Buckden_Pike_-_geograph.org.uk_-_16707.jpg",
+      "title": "Mick Melvin / Buckden Pike",
+      "caption": "A group of walkers rest at the top. The summit of the pike is at an altitude of 702 metres, it makes a fine walk from Buckden village to the summit, a more demanding approach is via Buckden Gill. Along the Gill is a disused lead mine, Buckden Gavel Mine, which has been designated an ancient monument."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Buckden_Pike_Memorial_-_geograph.org.uk_-_74073.jpg/330px-Buckden_Pike_Memorial_-_geograph.org.uk_-_74073.jpg",
+      "title": "Bob Danylec / Buckden Pike Memorial",
+      "caption": "Memorial in memory of the Polish RAF plane crew which crashed here in WWII"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Looking_down_on_Starbotton_-_geograph.org.uk_-_4023846.jpg/500px-Looking_down_on_Starbotton_-_geograph.org.uk_-_4023846.jpg",
+      "title": "Looking down on Starbotton by John H Darch, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking down on Starbotton. A view down to the small village from the footpath. You'll cross the Cam Gill Beck in this area. There is a 17th century pub here too."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%22Buck_Inn%22_pub_at_Buckden%2C_North_Yorkshire_%28025384_47d8409e-BuckdenPub%28AndyBeecroft%29Jul2005%29.jpg",
+      "title": "Andy Beecroft, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Buck Inn in Buckden village. The ivy covered pub is a great place to relax after your exercise. The village of Buckden, nestled at the foot of the pike in Upper Wharfedale, is a charming and tranquil spot. It is characterised by its traditional stone cottages, a historic inn, and a peaceful village green. Buckden has long been a base for walkers and outdoor enthusiasts exploring the Yorkshire Dales. The River Wharfe flows nearby, adding to the scenic beauty of the area. The village's history is reflected in its architecture, with buildings dating back several centuries, and its location has made it a vital crossing point and gathering place for travellers through the Dales. Today, Buckden remains a quiet yet popular starting point for adventures into the surrounding hills and valleys."
+    }
+  ],
+  "distance_km": 12.0,
+  "description": "This circular walk climbs to the 702 metres (2,303 ft) summit of Buckden Pike in the Yorkshire Dales National Park. Buckden Pike is considered to be one of the finest climbs in Yorkshire with its splendid views over the beautiful Wharfedale and the Nidderdale AONB. There's also waterside sections along the area's rivers and gills with photogenic waterfalls to see on the way. The walk starts in the parking area in the village of Buckden and follows a bridleway to the summit. From here there are wonderful views of Great Whernside, Yockenthwaite Moor and across the Yorkshire Dales. You then descend to Starbotton passing the war memorial to the Polish airmen who died when their Wellington Bomber crashed on Buckden Pike during a snowstorm in 1942. The descent follows the Walden Road with views of pretty becks and waterfalls on the way. At Starbotton you cross the River Wharfe and pick up the Dales Way for a lovely riverside section taking you back to Buckden. Look out for Kingfisher, Heron, and Dipper on this section of the walk. To extend your walking in the area you could head south to the village of Kettlewell and climb to Great Whernside for more great views over Wharfedale.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise you can enjoy some well earned refreshment at the Buck Inn. The fine Georgian coaching inn now has an attractive contempary interior. There's also outdoor seating with nice views of the village and surrounding countryside. You can find them at postcode BD23 5JA for your sat navs. At the southern end of the route you could also enjoy a pit stop at the Fox and Hounds in Starbotton. The 400 year old inn includes stone flagged floors and a roaring open fire."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The climb is a good one for fit dogs and the Buck Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a more direct route to the summit see the Buckden Pike Short Waterfall Walk. This takes you along the waterfalls of the Buckden Beck to the hill top. The Upper Wharfedale Wildlife Walk also starts in the village. The wildlife rich circular walk explores the area around Yockenthwaite and Hubberholme to the west of the Pike. For more walking ideas in the area see the Nidderdale Walks and Yorkshire Dales Walks pages."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/YBRFVzLIjLM",
+  "district": "Buckden",
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Buckden - National Park Car Park, Buckden Rake, Buckden, North Yorkshire, York and North Yorkshire, England, BD23 5JX, United Kingdom",
+  "postcode": "BD23 5JX",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

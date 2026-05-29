@@ -1,75 +1,81 @@
 {
-    "created_at": "2025-01-06T03:42:00.362312+00:00",
-    "objectID": "5bc217082c16fcb32af2985e317f67b5",
-    "ref": "wyboston-lakes-walking-route",
-    "title": "Wyboston Lakes Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wyboston_Leisure_Park_-_geograph.org.uk_-_222062.jpg",
-    "nearby": [
-        {
-            "description": "Ouse Valley Way",
-            "objectID": "39cf3d478e1175c7bc7fe309108b8f74",
-            "ref": "ouse-valley-way-walking-route"
-        },
-        {
-            "description": "St Neots",
-            "objectID": "16c48ff4ff3923e2b952bb9976eb0cef",
-            "ref": "st-neots-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5bc217082c16fcb32af2985e317f67b5.gpx",
-    "_geoloc": {
-        "lat": 52.198407962,
-        "lng": -0.2941481896
+  "created_at": "2025-01-06T03:42:00.362312+00:00",
+  "objectID": "5bc217082c16fcb32af2985e317f67b5",
+  "ref": "wyboston-lakes-walking-route",
+  "title": "Wyboston Lakes Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wyboston_Leisure_Park_-_geograph.org.uk_-_222062.jpg",
+  "nearby": [
+    {
+      "description": "Ouse Valley Way",
+      "objectID": "39cf3d478e1175c7bc7fe309108b8f74",
+      "ref": "ouse-valley-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wyboston_Leisure_Park_-_geograph.org.uk_-_222062.jpg",
-            "title": "Paul Glazzard / Wyboston Leisure Park, via Wikimedia Commons",
-            "caption": "Wyboston Leisure Park. A view across the southern lake on a summer evening at Wyboston Leisure Park near St. Neots, Cambridgeshire."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wyboston_Lakes_-_geograph.org.uk_-_1139387.jpg",
-            "title": "Richard Croft / Wyboston Lakes, via Wikimedia Commons",
-            "caption": "Grounds of Wyboston Lakes Conference Centre and Golf Complex"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wyboston_Lake_3.JPG/500px-Wyboston_Lake_3.JPG",
-            "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Wyboston Lake view"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poplars_-_geograph.org.uk_-_1139392.jpg/330px-Poplars_-_geograph.org.uk_-_1139392.jpg",
-            "title": "Richard Croft / Poplars, via Wikimedia Commons",
-            "caption": "A double line of poplar trees at Wyboston Lakes"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "This short walk explores the Wyboston Lakes Nature Reserve near St Neots. The walk starts from the Hotel complex next to the reserve. It's located just to the south of St Neots and includes a golf centre and spa. You could also reach the site on foot from the town by following the Ouse Valley Way if you prefer. Just to the south of the hotel you'll find the pretty nature reserve where there are some nice footpaths taking you along the lakes. It's a pretty spot with a variety of flora including Willow trees, common fleabane and marsh woundwort. Wildlife to see includes foxes, dragonflies, damselflies and warblers. To continue your walking in the area you could try our St Neots Walk and visit the delightful Riverside Park and the nearby Paxton Pits Nature Reserve",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "Dogs are not permitted on the site."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For more walking ideas in the area see the Bedfordshire Walks page."
-        }
-    ],
-    "postcode": "MK44 3AH",
-    "county": "Bedford",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Firebrand Training Centre, Great North Road, Wyboston, Chawston and Colesden, Wyboston, Bedford, England, MK44 3AH, United Kingdom",
-    "district": "Wyboston",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "1 hour",
-    "difficulty": "easy",
-    "terrain": ["woodland"],
-    "points_of_interest": ["nature reserve", "footpath"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "St Neots",
+      "objectID": "16c48ff4ff3923e2b952bb9976eb0cef",
+      "ref": "st-neots-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5bc217082c16fcb32af2985e317f67b5.gpx",
+  "_geoloc": {
+    "lat": 52.198407962,
+    "lng": -0.2941481896
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wyboston_Leisure_Park_-_geograph.org.uk_-_222062.jpg",
+      "title": "Paul Glazzard / Wyboston Leisure Park, via Wikimedia Commons",
+      "caption": "Wyboston Leisure Park. A view across the southern lake on a summer evening at Wyboston Leisure Park near St. Neots, Cambridgeshire."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wyboston_Lakes_-_geograph.org.uk_-_1139387.jpg",
+      "title": "Richard Croft / Wyboston Lakes, via Wikimedia Commons",
+      "caption": "Grounds of Wyboston Lakes Conference Centre and Golf Complex"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wyboston_Lake_3.JPG/500px-Wyboston_Lake_3.JPG",
+      "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Wyboston Lake view"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poplars_-_geograph.org.uk_-_1139392.jpg/330px-Poplars_-_geograph.org.uk_-_1139392.jpg",
+      "title": "Richard Croft / Poplars, via Wikimedia Commons",
+      "caption": "A double line of poplar trees at Wyboston Lakes"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "This short walk explores the Wyboston Lakes Nature Reserve near St Neots. The walk starts from the Hotel complex next to the reserve. It's located just to the south of St Neots and includes a golf centre and spa. You could also reach the site on foot from the town by following the Ouse Valley Way if you prefer. Just to the south of the hotel you'll find the pretty nature reserve where there are some nice footpaths taking you along the lakes. It's a pretty spot with a variety of flora including Willow trees, common fleabane and marsh woundwort. Wildlife to see includes foxes, dragonflies, damselflies and warblers. To continue your walking in the area you could try our St Neots Walk and visit the delightful Riverside Park and the nearby Paxton Pits Nature Reserve",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are not permitted on the site."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Bedfordshire Walks page."
+    }
+  ],
+  "postcode": "MK44 3AH",
+  "county": "Bedford",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Firebrand Training Centre, Great North Road, Wyboston, Chawston and Colesden, Wyboston, Bedford, England, MK44 3AH, United Kingdom",
+  "district": "Wyboston",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "nature reserve"
+  ],
+  "points_of_interest": [
+    "lake"
+  ],
+  "facilities": [],
+  "route_type": "point-to-point",
+  "activities": [
+    "walking"
+  ]
 }

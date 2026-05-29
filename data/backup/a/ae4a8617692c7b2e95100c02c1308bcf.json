@@ -1,120 +1,131 @@
 {
-    "created_at": "2025-01-06T04:36:59.471476+00:00",
-    "objectID": "ae4a8617692c7b2e95100c02c1308bcf",
-    "ref": "yr-eifl-walking-route",
-    "title": "Yr Eifl Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Bwlch_yr_Eifl_path_to_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_701825.jpg",
-    "nearby": [
-        {
-            "description": "Llyn Coastal Path",
-            "objectID": "e84cfd39b2ab38d73deb83894a16fc56",
-            "ref": "llyn-coastal-path-walking-route"
-        },
-        {
-            "description": "Trer Ceiri",
-            "objectID": "300220f1ba36af4e71bc7ed44061a75d",
-            "ref": "trer-ceiri-walking-route"
-        },
-        {
-            "description": "Garn Fadryn",
-            "objectID": "2ebafa7aa9d04c543479f5cf66878d22",
-            "ref": "garn-fadryn-walking-route"
-        },
-        {
-            "description": "Garn Boduan Walk",
-            "objectID": "68d0272671b951665aac4ce4f80120c4",
-            "ref": "garn-boduan-walking-route"
-        },
-        {
-            "description": "Nant Gwrtheyrn",
-            "objectID": "51084e97485d8cfe273179d0a936d41c",
-            "ref": "nant-gwrtheyrn-walks"
-        },
-        {
-            "description": "Trefor Quarry",
-            "objectID": "71f3d7614c9901c12aeb8387486d89d7",
-            "ref": "trefor-quarry-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae4a8617692c7b2e95100c02c1308bcf.gpx",
-    "_geoloc": {
-        "lat": 52.9684378862,
-        "lng": -4.4533251643
+  "created_at": "2025-01-06T04:36:59.471476+00:00",
+  "objectID": "ae4a8617692c7b2e95100c02c1308bcf",
+  "ref": "yr-eifl-walking-route",
+  "title": "Yr Eifl Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Bwlch_yr_Eifl_path_to_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_701825.jpg",
+  "nearby": [
+    {
+      "description": "Llyn Coastal Path",
+      "objectID": "e84cfd39b2ab38d73deb83894a16fc56",
+      "ref": "llyn-coastal-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Bwlch_yr_Eifl_path_to_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_701825.jpg",
-            "title": "Eric Jones / The Bwlch yr Eifl path to the summit of Yr Eifl, via Wikimedia Commons",
-            "caption": "The Bwlch yr Eifl path to the summit of Yr Eifl. The village of Trefor can be seen in the middle ground."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Quarry_Road_Leading_up_to_Yr_Eifl_-_geograph.org.uk_-_59913.jpg",
-            "title": "Karen Foxall / Quarry Road Leading up to Yr Eifl, via Wikimedia Commons",
-            "caption": "Quarry Road leading up to Yr Eifl."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Triangulation_pillar_on_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_698302.jpg",
-            "title": "Eric Jones / Triangulation pillar on the summit of Yr Eifl, via Wikimedia Commons",
-            "caption": "Triangulation pillar on the summit of Yr Eifl. The long point behind the trig point is Trwyn Porthdinllaen."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Central_peak_of_Yr_Eifl_from_the_Eifl_Granite_Quarry_-_geograph.org.uk_-_630196.jpg",
-            "title": "Eric Jones / The Central peak of Yr Eifl from the Eifl Granite Quarry, via Wikimedia Commons",
-            "caption": "The Central peak of Yr Eifl from the Eifl Granite Quarry. The photo taken from a quarry roadway shows a ruined quarry building in the foreground. The scree covered slopes of the central, and highest, of the three peaks of Yr Eifl rise on the other side of Bwlch yr Eifl col."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Old_workings_at_the_Middle_Eifl_Quarry_-_geograph.org.uk_-_701729.jpg",
-            "title": "Eric Jones / Old workings at the Middle Eifl Quarry",
-            "caption": "Old workings at the Middle Eifl Quarry"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/View_south-westwards_from_the_bouldery_upper_slopes_of_Yr_Eifl_-_geograph.org.uk_-_701840.jpg",
-            "title": "Eric Jones / View south-westwards from the bouldery upper slopes of Yr Eifl",
-            "caption": "View south-westwards from the bouldery upper slopes of Yr Eifl. The view from these slopes is dominated by hills formed by volcanic intrusions during the Caledonian orogeny. These igneous rocks were intruded through the softer Ordivician rocks which now form the surrounding lowlands. The smoke plume in the distance, might resemble that of a volcano, but is actually the result of the seasonal burning of gorse and heather."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/On_the_western_slope_of_Tre%27r_Ceiri_-_geograph.org.uk_-_1006421.jpg",
-            "title": "Gordon Hatton / On the western slope of Tre'r Ceiri",
-            "caption": "On the western slope of Tre'r Ceiri. Looking south westwards from above the heathery col that separates Tre'r Ceiri from its bigger neighbour Yr Eifl. In the distance is Nefyn Bay."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tre%E2%80%99r_Ceiri_-_Iron_Age_hill_fort_-_geograph.org.uk_-_2575613.jpg/500px-Tre%E2%80%99r_Ceiri_-_Iron_Age_hill_fort_-_geograph.org.uk_-_2575613.jpg",
-            "title": "Tre\u2019r Ceiri - Iron Age hill fort by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Tre\u2019r Ceiri"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "Climb the Yr Eifl mountain group on this challenging circular walk on the Llyn Peninsula. The three summits are collectivley known as 'The Rivals' offering wonderful views over the Llyn Peninsula coastline, the Isle of Man, the mountains of Ireland and the Lake District, as well as the entire sweep of Cardigan Bay. The route visits the peak of Tre'r Ceiri where you will find Britain's best preserved Iron Age hill fort. The walk starts from the Porth-y-Nant upper car park just off the B4417 north of Llithfaen. You then ascend past the Graig Ddu cliffs where you can look down and see the abandoned village of Borth y Nant. You continue to Bwlch yr Eifl where you turn east towards the 561 m (1,841 ft) summit of Yr Eifl. It's a stunning spot. Take a while to soak in the magnificent views of the coast and mountains of Snowdonia. The footpath then descends to Tre'r Ceiri where you can explore the interesting Iron Age stone hut circles before descending the mountain. If you would like to continue your walking in the area then you could pick up the Llyn Peninsula Coastal Path which runs past the mountain. Just to the north you could also pay a visit to the Trefor Quarry. There's some good footpaths around the unusual quarry landscape with more fine coastal views from the elevated position of the site.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Atfer your walk you could reward yourself with refreshments at the Tafarn y Fic Welsh community pub in Llithfaen. The friendly pub is in a great location with fine views of the surrounding hills. You can find the pub at postcode LL53 6PA. The excellent Caffi Meinir is also located a short distance from the car park. The cafe is in a wonderful location, overlooking the beautiful coastline of the area. You can sit outside and enjoy your meal with wonderful views over Porth Y Nant. You can find the cafe at Nant Gwrtheyrn, Llithfaen with a postcode of LL53 6NL for your sat navs. The site also includes a Welsh language school and museum where you can find out about the fascinating history of the area. You could also stroll down to the nearby village of Trefor and visit Tafarn Y T\u0175r. The friendly pub serves a good pint and as a nice garden area to sit out in. You can find them at Eifl Rd, LL54 5LH."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The fort makes for a fine dog walk for fit dogs. The Caffi Meinir mentioned above is dog friendly in the outdoor section where there are plenty of tables."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "To continue your walking in the area you could pick up the Llyn Coastal Path from near the car park. If you follow it south west it will take you to the lovely beaches at Nefyn and Porthdinllaen. To the north there's also the photogenic rock formations at the Trefor Sea Stacks and pretty Trefor Harbour to visit. If you head a few miles to the south you'll come to the southern side of the peninsula where you can visit the coastal settlements of Pwllheli, Llanbedrog and Abersoch. Head inland and there's climb to the remote Garn Fadryn. There's an Iron Age Hillfort and some incredible views from the top of this peaceful hill. The Garn Boduan Walk starts from nearby Nefyn. It will take you up to the viewpoint and Iron Age Hill fort located just south of the settlement. For more walking ideas in the area see the Llyn Peninsula Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/mAWWwP35YNc?si=m_3D7RYQZw2_N7RD",
-    "postcode": "LL53 6NU",
-    "district": "Trefor",
-    "county": "Gwynedd",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bwlch yr Eifl, Pistyll, Trefor, Llanaelhaearn, Gwynedd, Cymru / Wales, LL53 6NU, United Kingdom",
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "hard",
-    "terrain": ["mountain"],
-    "points_of_interest": ["historical site", "viewpoint"],
-    "facilities": ["car park", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Trer Ceiri",
+      "objectID": "300220f1ba36af4e71bc7ed44061a75d",
+      "ref": "trer-ceiri-walking-route"
+    },
+    {
+      "description": "Garn Fadryn",
+      "objectID": "2ebafa7aa9d04c543479f5cf66878d22",
+      "ref": "garn-fadryn-walking-route"
+    },
+    {
+      "description": "Garn Boduan Walk",
+      "objectID": "68d0272671b951665aac4ce4f80120c4",
+      "ref": "garn-boduan-walking-route"
+    },
+    {
+      "description": "Nant Gwrtheyrn",
+      "objectID": "51084e97485d8cfe273179d0a936d41c",
+      "ref": "nant-gwrtheyrn-walks"
+    },
+    {
+      "description": "Trefor Quarry",
+      "objectID": "71f3d7614c9901c12aeb8387486d89d7",
+      "ref": "trefor-quarry-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae4a8617692c7b2e95100c02c1308bcf.gpx",
+  "_geoloc": {
+    "lat": 52.9684378862,
+    "lng": -4.4533251643
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Bwlch_yr_Eifl_path_to_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_701825.jpg",
+      "title": "Eric Jones / The Bwlch yr Eifl path to the summit of Yr Eifl, via Wikimedia Commons",
+      "caption": "The Bwlch yr Eifl path to the summit of Yr Eifl. The village of Trefor can be seen in the middle ground."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Quarry_Road_Leading_up_to_Yr_Eifl_-_geograph.org.uk_-_59913.jpg",
+      "title": "Karen Foxall / Quarry Road Leading up to Yr Eifl, via Wikimedia Commons",
+      "caption": "Quarry Road leading up to Yr Eifl."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Triangulation_pillar_on_the_summit_of_Yr_Eifl_-_geograph.org.uk_-_698302.jpg",
+      "title": "Eric Jones / Triangulation pillar on the summit of Yr Eifl, via Wikimedia Commons",
+      "caption": "Triangulation pillar on the summit of Yr Eifl. The long point behind the trig point is Trwyn Porthdinllaen."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Central_peak_of_Yr_Eifl_from_the_Eifl_Granite_Quarry_-_geograph.org.uk_-_630196.jpg",
+      "title": "Eric Jones / The Central peak of Yr Eifl from the Eifl Granite Quarry, via Wikimedia Commons",
+      "caption": "The Central peak of Yr Eifl from the Eifl Granite Quarry. The photo taken from a quarry roadway shows a ruined quarry building in the foreground. The scree covered slopes of the central, and highest, of the three peaks of Yr Eifl rise on the other side of Bwlch yr Eifl col."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Old_workings_at_the_Middle_Eifl_Quarry_-_geograph.org.uk_-_701729.jpg",
+      "title": "Eric Jones / Old workings at the Middle Eifl Quarry",
+      "caption": "Old workings at the Middle Eifl Quarry"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/View_south-westwards_from_the_bouldery_upper_slopes_of_Yr_Eifl_-_geograph.org.uk_-_701840.jpg",
+      "title": "Eric Jones / View south-westwards from the bouldery upper slopes of Yr Eifl",
+      "caption": "View south-westwards from the bouldery upper slopes of Yr Eifl. The view from these slopes is dominated by hills formed by volcanic intrusions during the Caledonian orogeny. These igneous rocks were intruded through the softer Ordivician rocks which now form the surrounding lowlands. The smoke plume in the distance, might resemble that of a volcano, but is actually the result of the seasonal burning of gorse and heather."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/On_the_western_slope_of_Tre%27r_Ceiri_-_geograph.org.uk_-_1006421.jpg",
+      "title": "Gordon Hatton / On the western slope of Tre'r Ceiri",
+      "caption": "On the western slope of Tre'r Ceiri. Looking south westwards from above the heathery col that separates Tre'r Ceiri from its bigger neighbour Yr Eifl. In the distance is Nefyn Bay."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tre%E2%80%99r_Ceiri_-_Iron_Age_hill_fort_-_geograph.org.uk_-_2575613.jpg/500px-Tre%E2%80%99r_Ceiri_-_Iron_Age_hill_fort_-_geograph.org.uk_-_2575613.jpg",
+      "title": "Tre\u2019r Ceiri - Iron Age hill fort by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tre\u2019r Ceiri"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "Climb the Yr Eifl mountain group on this challenging circular walk on the Llyn Peninsula. The three summits are collectivley known as 'The Rivals' offering wonderful views over the Llyn Peninsula coastline, the Isle of Man, the mountains of Ireland and the Lake District, as well as the entire sweep of Cardigan Bay. The route visits the peak of Tre'r Ceiri where you will find Britain's best preserved Iron Age hill fort. The walk starts from the Porth-y-Nant upper car park just off the B4417 north of Llithfaen. You then ascend past the Graig Ddu cliffs where you can look down and see the abandoned village of Borth y Nant. You continue to Bwlch yr Eifl where you turn east towards the 561 m (1,841 ft) summit of Yr Eifl. It's a stunning spot. Take a while to soak in the magnificent views of the coast and mountains of Snowdonia. The footpath then descends to Tre'r Ceiri where you can explore the interesting Iron Age stone hut circles before descending the mountain. If you would like to continue your walking in the area then you could pick up the Llyn Peninsula Coastal Path which runs past the mountain. Just to the north you could also pay a visit to the Trefor Quarry. There's some good footpaths around the unusual quarry landscape with more fine coastal views from the elevated position of the site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Atfer your walk you could reward yourself with refreshments at the Tafarn y Fic Welsh community pub in Llithfaen. The friendly pub is in a great location with fine views of the surrounding hills. You can find the pub at postcode LL53 6PA. The excellent Caffi Meinir is also located a short distance from the car park. The cafe is in a wonderful location, overlooking the beautiful coastline of the area. You can sit outside and enjoy your meal with wonderful views over Porth Y Nant. You can find the cafe at Nant Gwrtheyrn, Llithfaen with a postcode of LL53 6NL for your sat navs. The site also includes a Welsh language school and museum where you can find out about the fascinating history of the area. You could also stroll down to the nearby village of Trefor and visit Tafarn Y T\u0175r. The friendly pub serves a good pint and as a nice garden area to sit out in. You can find them at Eifl Rd, LL54 5LH."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The fort makes for a fine dog walk for fit dogs. The Caffi Meinir mentioned above is dog friendly in the outdoor section where there are plenty of tables."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could pick up the Llyn Coastal Path from near the car park. If you follow it south west it will take you to the lovely beaches at Nefyn and Porthdinllaen. To the north there's also the photogenic rock formations at the Trefor Sea Stacks and pretty Trefor Harbour to visit. If you head a few miles to the south you'll come to the southern side of the peninsula where you can visit the coastal settlements of Pwllheli, Llanbedrog and Abersoch. Head inland and there's climb to the remote Garn Fadryn. There's an Iron Age Hillfort and some incredible views from the top of this peaceful hill. The Garn Boduan Walk starts from nearby Nefyn. It will take you up to the viewpoint and Iron Age Hill fort located just south of the settlement. For more walking ideas in the area see the Llyn Peninsula Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/mAWWwP35YNc?si=m_3D7RYQZw2_N7RD",
+  "postcode": "LL53 6NU",
+  "district": "Trefor",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bwlch yr Eifl, Pistyll, Trefor, Llanaelhaearn, Gwynedd, Cymru / Wales, LL53 6NU, United Kingdom",
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

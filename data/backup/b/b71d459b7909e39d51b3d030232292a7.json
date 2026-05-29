@@ -1,144 +1,127 @@
 {
-  "created_at": "2025-01-06T00:47:27.639986+00:00",
-  "objectID": "b71d459b7909e39d51b3d030232292a7",
-  "ref": "abersoch-walking-route",
-  "title": "Circular Coastal Walk around Abersoch Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Traeth_Borth_Fawr_Abersoch_South_Beach_-_geograph.org.uk_-_653419.jpg",
-  "nearby": [
-    {
-      "description": "Llyn Coastal Path",
-      "objectID": "e84cfd39b2ab38d73deb83894a16fc56",
-      "ref": "llyn-coastal-path-walking-route"
+    "created_at": "2025-01-06T00:47:27.639986+00:00",
+    "objectID": "b71d459b7909e39d51b3d030232292a7",
+    "ref": "abersoch-walking-route",
+    "title": "Circular Coastal Walk around Abersoch Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Traeth_Borth_Fawr_Abersoch_South_Beach_-_geograph.org.uk_-_653419.jpg",
+    "nearby": [
+        {
+            "description": "Llyn Coastal Path",
+            "objectID": "e84cfd39b2ab38d73deb83894a16fc56",
+            "ref": "llyn-coastal-path-walking-route"
+        },
+        {
+            "description": "Pwllheli",
+            "objectID": "a702e920b0e3bab67144bf63dc2241de",
+            "ref": "pwllheli-walking-route"
+        },
+        {
+            "description": "Aberdaron",
+            "objectID": "77801deeed9d42da08730b1044fd8b31",
+            "ref": "aberdaron-walking-route"
+        },
+        {
+            "description": "Plas yn Rhiw",
+            "objectID": "f295b19ea417d5295e66094d641f750d",
+            "ref": "plas-yn-rhiw-walking-route"
+        },
+        {
+            "description": "Garn Fadryn",
+            "objectID": "2ebafa7aa9d04c543479f5cf66878d22",
+            "ref": "garn-fadryn-walking-route"
+        },
+        {
+            "description": "Garn Boduan Walk",
+            "objectID": "68d0272671b951665aac4ce4f80120c4",
+            "ref": "garn-boduan-walking-route"
+        },
+        {
+            "description": "Yr Eifl",
+            "objectID": "ae4a8617692c7b2e95100c02c1308bcf",
+            "ref": "yr-eifl-walking-route"
+        },
+        {
+            "description": "Trer Ceiri",
+            "objectID": "300220f1ba36af4e71bc7ed44061a75d",
+            "ref": "trer-ceiri-walking-route"
+        },
+        {
+            "description": "Trefor Quarry",
+            "objectID": "71f3d7614c9901c12aeb8387486d89d7",
+            "ref": "trefor-quarry-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b71d459b7909e39d51b3d030232292a7.gpx",
+    "_geoloc": {
+        "lat": 52.82268255,
+        "lng": -4.50568199
     },
-    {
-      "description": "Pwllheli",
-      "objectID": "a702e920b0e3bab67144bf63dc2241de",
-      "ref": "pwllheli-walking-route"
-    },
-    {
-      "description": "Aberdaron",
-      "objectID": "77801deeed9d42da08730b1044fd8b31",
-      "ref": "aberdaron-walking-route"
-    },
-    {
-      "description": "Plas yn Rhiw",
-      "objectID": "f295b19ea417d5295e66094d641f750d",
-      "ref": "plas-yn-rhiw-walking-route"
-    },
-    {
-      "description": "Garn Fadryn",
-      "objectID": "2ebafa7aa9d04c543479f5cf66878d22",
-      "ref": "garn-fadryn-walking-route"
-    },
-    {
-      "description": "Garn Boduan Walk",
-      "objectID": "68d0272671b951665aac4ce4f80120c4",
-      "ref": "garn-boduan-walking-route"
-    },
-    {
-      "description": "Yr Eifl",
-      "objectID": "ae4a8617692c7b2e95100c02c1308bcf",
-      "ref": "yr-eifl-walking-route"
-    },
-    {
-      "description": "Trer Ceiri",
-      "objectID": "300220f1ba36af4e71bc7ed44061a75d",
-      "ref": "trer-ceiri-walking-route"
-    },
-    {
-      "description": "Trefor Quarry",
-      "objectID": "71f3d7614c9901c12aeb8387486d89d7",
-      "ref": "trefor-quarry-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b71d459b7909e39d51b3d030232292a7.gpx",
-  "_geoloc": {
-    "lat": 52.82268255,
-    "lng": -4.50568199
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Traeth_Borth_Fawr_Abersoch_South_Beach_-_geograph.org.uk_-_653419.jpg",
-      "title": "Alan Fryer / Traeth Borth Fawr Abersoch South Beach, via Wikimedia Commons",
-      "caption": "Traeth Borth Fawr Abersoch South Beach. Looking towards Penbennar."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Harbwr_Abersoch_632038.jpg",
-      "title": "Robin Drayton / Abersoch Inner Harbour, via Wikimedia Commons",
-      "caption": "Abersoch Inner Harbour, near to Abersoch, Gwynedd, Great Britain. The inner harbour at Abersoch offers sheltered moorings as the Afon Soch widens just before reaching the sea."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/St_Tudwal%27s_Island_West_-_geograph.org.uk_-_27140.jpg",
-      "title": "David Medcalf / St Tudwal's Island West, via Wikimedia Commons",
-      "caption": "St Tudwal's Island West. The lighthouse is operational. It appears that the lighthouse buildings are occupied, at least temporarily, but the light is automatic these days."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_coastline_at_Pistyll_Cim_-_geograph.org.uk_-_1634562.jpg",
-      "title": "Colin Park / The coastline at Pistyll Cim, via Wikimedia Commons",
-      "caption": "The coastline at Pistyll Cim"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Early_morning_at_Porth_Ceiriad_-_geograph.org.uk_-_1477011.jpg",
-      "title": "Nick R / Early morning at Porth Ceiriad, via Wikimedia Commons",
-      "caption": "Early morning at Porth Ceiriad"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sea_cliffs_-_geograph.org.uk_-_645163.jpg",
-      "title": "Eric Jones / Sea cliffs, via Wikimedia Commons",
-      "caption": "Sea cliffs. These cliffs represent a belt of harder, more resistant rocks. They contrast with the softer, dune-covered, rocks of The Warren area."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hell%27s_Mouth_beach%2C_low_water_-_geograph.org.uk_-_870693.jpg",
-      "title": "Peter Bond / Hell's Mouth beach, low water, via Wikimedia Commons",
-      "caption": "Hell's Mouth beach, low water Cilan Head can be seen in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Abersoch_Bay_from_Machroes.jpg/330px-Abersoch_Bay_from_Machroes.jpg",
-      "title": "Rob nickson at English Wikipedia [Public domain], via Wikimedia Commons",
-      "caption": "Abersoch Bay from Machroes"
-    }
-  ],
-  "distance_km": 18.0,
-  "description": "This circular walk around Abersoch uses the Llyn Coastal Path to explore the beautiful beaches and bays to the south and west of the village. Starting in the village you first head south along Borth Fawr beach and the Abersoch Golf Club. The route follows the coast path toward Porth Ceiriad and Pistyll Cim with views across to Saint Tudwal's Islands. The islands are known for their seal population. The western island houses the St Tudwal\u2019s Lighthouse, and the eastern has the remains of a priory. At Porth Ceiriad there is a lovely beach and cliffs with several interesting geological features. The path continues west to Cilan Head, the southernmost point of the Llyn Peninsula. The head is a breeding ground for birds, particularly cormorants. After rounding the headling you continue north along the coast path to Hell's Mouth beach, passing pretty sand dunes on the way. The route then leaves the coast to follow country lanes back into Abersoch. The popular seaside resort has a number of good pubs and cafes for refreshments after your walk. To continue your walking in the area follow the coast path east to you to the beautiful National Trust beach at Llanbedrog and the lovely harbour at Pwllheli. Heading west will take you to Aberdaron where you can catch the ferry to Bardsey Island and enjoy some birdwatching. The village is also close to the Snowdonia National Park where there are several fine places for walkers to explore. You can see Snowdon itself from the Abersoch Bay on clear days.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you head west along the Wales Coast path you could visit the National Trust's Plas yn Rhiw. The picturesque 17th century manor house is surrounded by some beautiful ornamental gardens with great views over Cardigan Bay and Hell's Mouth from the elevated position of the house. Head a few miles north and you can explore the northern side of the peninsula and visit Nefyn,Porthdinllaen, Yr Eifl and Trer Ceiri. The unusual landscape at the Trefor Quarry can also be visited near here. The Garn Boduan Walk starts from nearby Nefyn. It will take you up to the viewpoint and Iron Age Hill fort located just south of the settlement. Head inland and there's climb to the remote Garn Fadryn. There's an Iron Age Hillfort and some incredible views from the top of this peaceful hill."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/oIXxnIvFMXs",
-  "postcode": "LL53 7EB",
-  "district": "Abersoch",
-  "county": "Gwynedd",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Goslings, L\u00f4n Sarn Bach, Llanengan, Abersoch, Gwynedd, Cymru / Wales, LL53 7EB, United Kingdom",
-  "state": "Cymru / Wales",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "coastal",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "beach",
-    "cliffs",
-    "geological features",
-    "bird breeding ground",
-    "lighthouse",
-    "priory"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly",
-    "visitor center"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Traeth_Borth_Fawr_Abersoch_South_Beach_-_geograph.org.uk_-_653419.jpg",
+            "title": "Alan Fryer / Traeth Borth Fawr Abersoch South Beach, via Wikimedia Commons",
+            "caption": "Traeth Borth Fawr Abersoch South Beach. Looking towards Penbennar."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Harbwr_Abersoch_632038.jpg",
+            "title": "Robin Drayton / Abersoch Inner Harbour, via Wikimedia Commons",
+            "caption": "Abersoch Inner Harbour, near to Abersoch, Gwynedd, Great Britain. The inner harbour at Abersoch offers sheltered moorings as the Afon Soch widens just before reaching the sea."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/St_Tudwal%27s_Island_West_-_geograph.org.uk_-_27140.jpg",
+            "title": "David Medcalf / St Tudwal's Island West, via Wikimedia Commons",
+            "caption": "St Tudwal's Island West. The lighthouse is operational. It appears that the lighthouse buildings are occupied, at least temporarily, but the light is automatic these days."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_coastline_at_Pistyll_Cim_-_geograph.org.uk_-_1634562.jpg",
+            "title": "Colin Park / The coastline at Pistyll Cim, via Wikimedia Commons",
+            "caption": "The coastline at Pistyll Cim"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Early_morning_at_Porth_Ceiriad_-_geograph.org.uk_-_1477011.jpg",
+            "title": "Nick R / Early morning at Porth Ceiriad, via Wikimedia Commons",
+            "caption": "Early morning at Porth Ceiriad"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sea_cliffs_-_geograph.org.uk_-_645163.jpg",
+            "title": "Eric Jones / Sea cliffs, via Wikimedia Commons",
+            "caption": "Sea cliffs. These cliffs represent a belt of harder, more resistant rocks. They contrast with the softer, dune-covered, rocks of The Warren area."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hell%27s_Mouth_beach%2C_low_water_-_geograph.org.uk_-_870693.jpg",
+            "title": "Peter Bond / Hell's Mouth beach, low water, via Wikimedia Commons",
+            "caption": "Hell's Mouth beach, low water Cilan Head can be seen in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Abersoch_Bay_from_Machroes.jpg/330px-Abersoch_Bay_from_Machroes.jpg",
+            "title": "Rob nickson at English Wikipedia [Public domain], via Wikimedia Commons",
+            "caption": "Abersoch Bay from Machroes"
+        }
+    ],
+    "distance_km": 18.0,
+    "description": "This circular walk around Abersoch uses the Llyn Coastal Path to explore the beautiful beaches and bays to the south and west of the village. Starting in the village you first head south along Borth Fawr beach and the Abersoch Golf Club. The route follows the coast path toward Porth Ceiriad and Pistyll Cim with views across to Saint Tudwal's Islands. The islands are known for their seal population. The western island houses the St Tudwal\u2019s Lighthouse, and the eastern has the remains of a priory. At Porth Ceiriad there is a lovely beach and cliffs with several interesting geological features. The path continues west to Cilan Head, the southernmost point of the Llyn Peninsula. The head is a breeding ground for birds, particularly cormorants. After rounding the headling you continue north along the coast path to Hell's Mouth beach, passing pretty sand dunes on the way. The route then leaves the coast to follow country lanes back into Abersoch. The popular seaside resort has a number of good pubs and cafes for refreshments after your walk. To continue your walking in the area follow the coast path east to you to the beautiful National Trust beach at Llanbedrog and the lovely harbour at Pwllheli. Heading west will take you to Aberdaron where you can catch the ferry to Bardsey Island and enjoy some birdwatching. The village is also close to the Snowdonia National Park where there are several fine places for walkers to explore. You can see Snowdon itself from the Abersoch Bay on clear days.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you head west along the Wales Coast path you could visit the National Trust's Plas yn Rhiw. The picturesque 17th century manor house is surrounded by some beautiful ornamental gardens with great views over Cardigan Bay and Hell's Mouth from the elevated position of the house. Head a few miles north and you can explore the northern side of the peninsula and visit Nefyn,Porthdinllaen, Yr Eifl and Trer Ceiri. The unusual landscape at the Trefor Quarry can also be visited near here. The Garn Boduan Walk starts from nearby Nefyn. It will take you up to the viewpoint and Iron Age Hill fort located just south of the settlement. Head inland and there's climb to the remote Garn Fadryn. There's an Iron Age Hillfort and some incredible views from the top of this peaceful hill."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/oIXxnIvFMXs",
+    "postcode": "LL53 7EB",
+    "district": "Abersoch",
+    "county": "Gwynedd",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Goslings, L\u00f4n Sarn Bach, Llanengan, Abersoch, Gwynedd, Cymru / Wales, LL53 7EB, United Kingdom",
+    "state": "Cymru / Wales",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "moderate",
+    "terrain": ["coastal", "beach"],
+    "points_of_interest": ["lighthouse", "historical site", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

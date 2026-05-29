@@ -1,156 +1,167 @@
 {
-    "created_at": "2025-01-06T02:58:43.310564+00:00",
-    "objectID": "cd0db4fd42fbe1c17c798db9dd095e9c",
-    "ref": "grasmere-walking-route",
-    "title": "Grasmere Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grasmere_-_geograph.org.uk_-_417142.jpg",
-    "nearby": [
-        {
-            "description": "Alcock Tarn",
-            "objectID": "ed8a7404ad9c083b4c34cd9737e689a8",
-            "ref": "alcock-tarn-walking-route"
-        },
-        {
-            "description": "White Moss Walks",
-            "objectID": "a90df4cb11e36ac1aa63285f23ddaff7",
-            "ref": "white-moss-walks-walking-route"
-        },
-        {
-            "description": "Silver How",
-            "objectID": "ea75bdb0f6a91fd78477da1d14ae7bba",
-            "ref": "silver-how-walking-route"
-        },
-        {
-            "description": "Loughrigg Fell",
-            "objectID": "0ec83dd2b014575dc5b96cde09bc32f9",
-            "ref": "loughrigg-fell-walking-route"
-        },
-        {
-            "description": "Loughrigg Tarn",
-            "objectID": "aac2d4c59dde455b5eed87e9333649e9",
-            "ref": "loughrigg-tarn-walking-route"
-        },
-        {
-            "description": "Easedale Tarn",
-            "objectID": "64238b294a14eb446fd19a570ec15894",
-            "ref": "easedale-tarn-walking-route"
-        },
-        {
-            "description": "Coffin Route-Ambleside to Grasmere",
-            "objectID": "ddc7db11f09f019700c725c668e0dd86",
-            "ref": "coffin-route-ambleside-to-grasmere-walking-route"
-        },
-        {
-            "description": "Helm Crag",
-            "objectID": "5111997c2d41f71827438f688db461c9",
-            "ref": "helm-crag-walking-route"
-        },
-        {
-            "description": "Fairfield Horseshoe",
-            "objectID": "8c1358ab088e9aa73d8419d8fbd6c66c",
-            "ref": "fairfield-horseshoe-walking-route"
-        },
-        {
-            "description": "Seat Sandal",
-            "objectID": "1de332e4cd291b9cc5b50dae20d3bc1e",
-            "ref": "seat-sandal-walking-route"
-        },
-        {
-            "description": "Rydal Water",
-            "objectID": "9b1e9e4399eb7b4977c258ace5fad7ce",
-            "ref": "rydal-water-walking-route"
-        },
-        {
-            "description": "Grasmere to Elterwater",
-            "objectID": "ae00f2947c0512321b996b76dae0d782",
-            "ref": "grasmere-to-elterwater-walking-route"
-        },
-        {
-            "description": "Grasmere and Rydal Water Circular Walk",
-            "objectID": "41be90ac16213b4819ec287181cd2fa4",
-            "ref": "grasmere-and-rydal-water-circular-walk-walking-route"
-        },
-        {
-            "description": "Chapel Stile",
-            "objectID": "4e2d3c8b0469dff31e752755c0da3eca",
-            "ref": "chapel-stile-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cd0db4fd42fbe1c17c798db9dd095e9c.gpx",
-    "_geoloc": {
-        "lat": 54.4576952159,
-        "lng": -3.0249272185
+  "created_at": "2025-01-06T02:58:43.310564+00:00",
+  "objectID": "cd0db4fd42fbe1c17c798db9dd095e9c",
+  "ref": "grasmere-walking-route",
+  "title": "Grasmere Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grasmere_-_geograph.org.uk_-_417142.jpg",
+  "nearby": [
+    {
+      "description": "Alcock Tarn",
+      "objectID": "ed8a7404ad9c083b4c34cd9737e689a8",
+      "ref": "alcock-tarn-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grasmere_-_geograph.org.uk_-_417142.jpg",
-            "title": "Paul Anderson / Grasmere",
-            "caption": "Grasmere Lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Grasmere_Church_-_geograph.org.uk_-_70612.jpg",
-            "title": "Christine Hasman / Grasmere Church",
-            "caption": "Grasmere Church. William and Dorothy Wordsworth are buried in the graveyard of Grasmere Church, seen here from the colourful grounds of the nearby Garden Centre."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Church_Stile%2C_Grasmere_-_geograph.org.uk_-_1553068.jpg",
-            "title": "Alexander P Kapp / Church Stile, Grasmere",
-            "caption": "Church Stile in the village. A splendid selection of cafes and gift shops can be found in this area."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/College_Street%2C_Grasmere_-_geograph.org.uk_-_1103522.jpg",
-            "title": "Stephen McKay / College Street, Grasmere",
-            "caption": "College Street, Grasmere"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Rydal_Water_-_geograph.org.uk_-_27533.jpg",
-            "title": "Alan Rolfe / Rydal Water",
-            "caption": "Rydal Water. Taken from the path that runs from Rydal Mount towards Town End."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rydal_Hall_-_geograph.org.uk_-_101315.jpg",
-            "title": "Andy Davidson / Rydal Hall",
-            "caption": "Rydal Hall. The hall is a conference centre in the Lake District, also used for Scouts, Guides, camping centre, and Church Holidays. Also near Wordsworth's Cottage"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dove_Cottage_-_geograph.org.uk_-_70618.jpg",
-            "title": "Christine Hasman / Dove Cottage",
-            "caption": "Dove Cottage. This tiny cottage is a magnet for tourists from all over the world, as it was once the home of the poet William Wordsworth and is now a museum. It is actually situated slightly outside the village of Grasmere, on the White Moss road at Town End."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tweedies_Bar_in_Grasmere_-_geograph.org.uk_-_501572.jpg",
-            "title": "Adie Jackson / Tweedies Bar in Grasmere",
-            "caption": "Tweedies Bar."
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "This circular walk from the popular village of Grasmere visits several Lake District highlights. You'll visit Grasmere Lake, Rydal Water, Rydal Hall and Wordsworth's Dove Cottage on this walk which runs for just over 5 miles. The walk starts in the centre of Grasmere where you can visit the grave of poet William Wordsworth who is buried in the churchyard of St. Oswald's Church. Right next to the church is the famous Grasmere Gingerbread Shop where you can expect a long queue in the holiday months! From the church you can follow Red Bank Country Lane past the Garden Centre to the lake. The lane bends round the western side of the lake, passing the lakeside Faeryland tea rooms where you can also hire little boats to take out on the lake. Eventually you will come to a footpath heading down to the lake on your left. You can then follow a lovely lakeside path or climb up to Loughrigg Terrace for great views down to the lake. There's also the option here to head south and climb to Loughrigg Fell for wide ranging views of the nearby lakes and fells. At the eastern end of the lake there is a nice little beach where you will often see people relaxing on a summer's day. The route continues east towards Rydal Water where you can drop down to the lakeside path. At the eastern end of the water you pass through woodland before crossing the River Rothay to take you up to Rydal Hall. The Grade II listed house is well worth exploring. There's lovely formal gardens with a fountain, a nice cafe next to Rydal Beck and a waterfall with a viewing platform. It's a good spot to stop for refreshments with outdoor seating next to the beck. From Rydal Hall you pick up a section of the Coffin Route. The old path runs from Ambleside to Grasmere and is so called because it was used to convey coffins on their final journey to St Oswalds Church in Grasmere. You follow it west past Nab Scar to Town End where you will find Dove Cottage, the home of poet William Wordsworth from 1799 to 1808. During this period, William wrote much of the poetry for which he is remembered today, including 'I Wandered Lonely as a Cloud'. You can explore the fascinating old house and then browse the adjacent museum where you will find exhibits, manuscripts, landscapes and portraits. The final section of the walk takes you back to the village, passing a series of pretty shops and galleries on the way.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In the village we recommend a visit to Tweedies. This nice pub has a very large beer garden with plenty of tables. It's a lovely place to sit out and relax in after a long walk. You can find it in the village, near the lake, at a postcode of LA22 9SW for your sat navs. Also consider stopping at Rydal Hall for a cup of tea and cake. There's lovely gardens and a tea room with a delightful outdoor seating area with views over a rushing waterfall."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The lake and woodland paths on the route make for a fine dog walk. Tweedies mentioned above is also dog friendly."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/ejERGP9oftg",
-    "postcode": "LA22 9SW",
-    "district": "Grasmere",
-    "county": "Westmorland and Furness",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Parking, Red Bank Road, Town End, Lakes, Grasmere, Westmorland and Furness, England, LA22 9SW, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["lake", "woodland", "path"],
-    "points_of_interest": ["historical site", "viewpoint", "museum"],
-    "facilities": ["cafe", "visitor center", "shop", "tea room", "beach"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "White Moss Walks",
+      "objectID": "a90df4cb11e36ac1aa63285f23ddaff7",
+      "ref": "white-moss-walks-walking-route"
+    },
+    {
+      "description": "Silver How",
+      "objectID": "ea75bdb0f6a91fd78477da1d14ae7bba",
+      "ref": "silver-how-walking-route"
+    },
+    {
+      "description": "Loughrigg Fell",
+      "objectID": "0ec83dd2b014575dc5b96cde09bc32f9",
+      "ref": "loughrigg-fell-walking-route"
+    },
+    {
+      "description": "Loughrigg Tarn",
+      "objectID": "aac2d4c59dde455b5eed87e9333649e9",
+      "ref": "loughrigg-tarn-walking-route"
+    },
+    {
+      "description": "Easedale Tarn",
+      "objectID": "64238b294a14eb446fd19a570ec15894",
+      "ref": "easedale-tarn-walking-route"
+    },
+    {
+      "description": "Coffin Route-Ambleside to Grasmere",
+      "objectID": "ddc7db11f09f019700c725c668e0dd86",
+      "ref": "coffin-route-ambleside-to-grasmere-walking-route"
+    },
+    {
+      "description": "Helm Crag",
+      "objectID": "5111997c2d41f71827438f688db461c9",
+      "ref": "helm-crag-walking-route"
+    },
+    {
+      "description": "Fairfield Horseshoe",
+      "objectID": "8c1358ab088e9aa73d8419d8fbd6c66c",
+      "ref": "fairfield-horseshoe-walking-route"
+    },
+    {
+      "description": "Seat Sandal",
+      "objectID": "1de332e4cd291b9cc5b50dae20d3bc1e",
+      "ref": "seat-sandal-walking-route"
+    },
+    {
+      "description": "Rydal Water",
+      "objectID": "9b1e9e4399eb7b4977c258ace5fad7ce",
+      "ref": "rydal-water-walking-route"
+    },
+    {
+      "description": "Grasmere to Elterwater",
+      "objectID": "ae00f2947c0512321b996b76dae0d782",
+      "ref": "grasmere-to-elterwater-walking-route"
+    },
+    {
+      "description": "Grasmere and Rydal Water Circular Walk",
+      "objectID": "41be90ac16213b4819ec287181cd2fa4",
+      "ref": "grasmere-and-rydal-water-circular-walk-walking-route"
+    },
+    {
+      "description": "Chapel Stile",
+      "objectID": "4e2d3c8b0469dff31e752755c0da3eca",
+      "ref": "chapel-stile-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cd0db4fd42fbe1c17c798db9dd095e9c.gpx",
+  "_geoloc": {
+    "lat": 54.4576952159,
+    "lng": -3.0249272185
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grasmere_-_geograph.org.uk_-_417142.jpg",
+      "title": "Paul Anderson / Grasmere",
+      "caption": "Grasmere Lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Grasmere_Church_-_geograph.org.uk_-_70612.jpg",
+      "title": "Christine Hasman / Grasmere Church",
+      "caption": "Grasmere Church. William and Dorothy Wordsworth are buried in the graveyard of Grasmere Church, seen here from the colourful grounds of the nearby Garden Centre."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Church_Stile%2C_Grasmere_-_geograph.org.uk_-_1553068.jpg",
+      "title": "Alexander P Kapp / Church Stile, Grasmere",
+      "caption": "Church Stile in the village. A splendid selection of cafes and gift shops can be found in this area."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/College_Street%2C_Grasmere_-_geograph.org.uk_-_1103522.jpg",
+      "title": "Stephen McKay / College Street, Grasmere",
+      "caption": "College Street, Grasmere"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Rydal_Water_-_geograph.org.uk_-_27533.jpg",
+      "title": "Alan Rolfe / Rydal Water",
+      "caption": "Rydal Water. Taken from the path that runs from Rydal Mount towards Town End."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rydal_Hall_-_geograph.org.uk_-_101315.jpg",
+      "title": "Andy Davidson / Rydal Hall",
+      "caption": "Rydal Hall. The hall is a conference centre in the Lake District, also used for Scouts, Guides, camping centre, and Church Holidays. Also near Wordsworth's Cottage"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dove_Cottage_-_geograph.org.uk_-_70618.jpg",
+      "title": "Christine Hasman / Dove Cottage",
+      "caption": "Dove Cottage. This tiny cottage is a magnet for tourists from all over the world, as it was once the home of the poet William Wordsworth and is now a museum. It is actually situated slightly outside the village of Grasmere, on the White Moss road at Town End."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tweedies_Bar_in_Grasmere_-_geograph.org.uk_-_501572.jpg",
+      "title": "Adie Jackson / Tweedies Bar in Grasmere",
+      "caption": "Tweedies Bar."
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "This circular walk from the popular village of Grasmere visits several Lake District highlights. You'll visit Grasmere Lake, Rydal Water, Rydal Hall and Wordsworth's Dove Cottage on this walk which runs for just over 5 miles. The walk starts in the centre of Grasmere where you can visit the grave of poet William Wordsworth who is buried in the churchyard of St. Oswald's Church. Right next to the church is the famous Grasmere Gingerbread Shop where you can expect a long queue in the holiday months! From the church you can follow Red Bank Country Lane past the Garden Centre to the lake. The lane bends round the western side of the lake, passing the lakeside Faeryland tea rooms where you can also hire little boats to take out on the lake. Eventually you will come to a footpath heading down to the lake on your left. You can then follow a lovely lakeside path or climb up to Loughrigg Terrace for great views down to the lake. There's also the option here to head south and climb to Loughrigg Fell for wide ranging views of the nearby lakes and fells. At the eastern end of the lake there is a nice little beach where you will often see people relaxing on a summer's day. The route continues east towards Rydal Water where you can drop down to the lakeside path. At the eastern end of the water you pass through woodland before crossing the River Rothay to take you up to Rydal Hall. The Grade II listed house is well worth exploring. There's lovely formal gardens with a fountain, a nice cafe next to Rydal Beck and a waterfall with a viewing platform. It's a good spot to stop for refreshments with outdoor seating next to the beck. From Rydal Hall you pick up a section of the Coffin Route. The old path runs from Ambleside to Grasmere and is so called because it was used to convey coffins on their final journey to St Oswalds Church in Grasmere. You follow it west past Nab Scar to Town End where you will find Dove Cottage, the home of poet William Wordsworth from 1799 to 1808. During this period, William wrote much of the poetry for which he is remembered today, including 'I Wandered Lonely as a Cloud'. You can explore the fascinating old house and then browse the adjacent museum where you will find exhibits, manuscripts, landscapes and portraits. The final section of the walk takes you back to the village, passing a series of pretty shops and galleries on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village we recommend a visit to Tweedies. This nice pub has a very large beer garden with plenty of tables. It's a lovely place to sit out and relax in after a long walk. You can find it in the village, near the lake, at a postcode of LA22 9SW for your sat navs. Also consider stopping at Rydal Hall for a cup of tea and cake. There's lovely gardens and a tea room with a delightful outdoor seating area with views over a rushing waterfall."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lake and woodland paths on the route make for a fine dog walk. Tweedies mentioned above is also dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/ejERGP9oftg",
+  "postcode": "LA22 9SW",
+  "district": "Grasmere",
+  "county": "Westmorland and Furness",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Parking, Red Bank Road, Town End, Lakes, Grasmere, Westmorland and Furness, England, LA22 9SW, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lakeside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

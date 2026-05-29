@@ -1,220 +1,206 @@
 {
-  "created_at": "2025-01-05T22:29:59.606539+00:00",
-  "objectID": "7e1568e78435cb4e0d45bf98831e2524",
-  "ref": "pennine-way-walking-route",
-  "title": "Pennine Way National Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pennine_Way_goes_north_-_geograph.org.uk_-_1567872.jpg",
-  "nearby": [
-    {
-      "description": "Blackstone Edge",
-      "objectID": "db8c8c2b6a455e57471df98fee6e8312",
-      "ref": "blackstone-edge-walking-route"
+    "created_at": "2025-01-05T22:29:59.606539+00:00",
+    "objectID": "7e1568e78435cb4e0d45bf98831e2524",
+    "ref": "pennine-way-walking-route",
+    "title": "Pennine Way National Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pennine_Way_goes_north_-_geograph.org.uk_-_1567872.jpg",
+    "nearby": [
+        {
+            "description": "Blackstone Edge",
+            "objectID": "db8c8c2b6a455e57471df98fee6e8312",
+            "ref": "blackstone-edge-walking-route"
+        },
+        {
+            "description": "Cow Green Reservoir and Cauldron Snout",
+            "objectID": "fde863f6ed3a3635dbb832514339b716",
+            "ref": "cow-green-reservoir-and-cauldron-snout-walking-route"
+        },
+        {
+            "description": "Kisdon Force",
+            "objectID": "ab94f20bb0fd8f1b08fc4a2838a3ee27",
+            "ref": "kisdon-force-walking-route"
+        },
+        {
+            "description": "Malham Cove",
+            "objectID": "f69ffccaf926b2bbfa4b17aed1fcadc5",
+            "ref": "malham-cove-walking-route"
+        },
+        {
+            "description": "Malham Tarn Estate",
+            "objectID": "0e1b77883047f9f0f66863ff12a65c1c",
+            "ref": "malham-tarn-estate-walking-and-cycle-route"
+        },
+        {
+            "description": "Cross Fell",
+            "objectID": "2884d1220bce88b919b7e43d93d769c1",
+            "ref": "cross-fell-walk-walking-route"
+        },
+        {
+            "description": "Teesdale Way",
+            "objectID": "bee1da20e3a1d771ea9f89b5a2d25ba9",
+            "ref": "teesdale-way-walking-route"
+        },
+        {
+            "description": "High Force Waterfall",
+            "objectID": "644768ed8d1b4271071b163fa9a9d416",
+            "ref": "high-force-waterfall-walking-route"
+        },
+        {
+            "description": "Hareshaw Linn",
+            "objectID": "8aa31661090ead4970f4ad1b8262c54c",
+            "ref": "hareshaw-linn-walking-route"
+        },
+        {
+            "description": "Grassholme Reservoir",
+            "objectID": "12306e7b4d8bef3d64235e4e194a2192",
+            "ref": "grassholme-reservoir-walking-route"
+        },
+        {
+            "description": "Torside Reservoir",
+            "objectID": "0ebb7ddc1baee6401f1b8e7fda9dc445",
+            "ref": "torside-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Fountains Fell",
+            "objectID": "39ac625fcf4a40d377d9910345cf2da2",
+            "ref": "fountains-fell-walking-route"
+        },
+        {
+            "description": "Marsden Moor",
+            "objectID": "f2e49b568a63afc0fc21198969828ac1",
+            "ref": "marsden-moor-walking-route"
+        },
+        {
+            "description": "Jacob's Ladder",
+            "objectID": "f08c113e11ecc4609ce80f380b6f0c10",
+            "ref": "jacobs-ladder-walking-route"
+        },
+        {
+            "description": "High Cup Nick",
+            "objectID": "e6bef8c8331bcd7578c20d8fd11b0636",
+            "ref": "high-cup-nick-walking-route"
+        },
+        {
+            "description": "Hardcastle Crags",
+            "objectID": "8c8e0416de95d6531813fb6dd0724615",
+            "ref": "hardcastle-crags-walking-route"
+        },
+        {
+            "description": "Gorple Reservoir",
+            "objectID": "a263b557257bb536f72281dfb41f9c64",
+            "ref": "gorple-reservoir-walking-route"
+        },
+        {
+            "description": "Widdop Reservoir",
+            "objectID": "cd1d1b31eda8ca3729e67a21e39b593d",
+            "ref": "widdop-reservoir-walking-route"
+        },
+        {
+            "description": "Stoodley Pike",
+            "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
+            "ref": "stoodley-pike-walking-route"
+        },
+        {
+            "description": "Hardraw Force Walk",
+            "objectID": "af58e373850c70eac32a3a62a4053ed3",
+            "ref": "hardraw-force-walk-walking-route"
+        },
+        {
+            "description": "Windy Gyle",
+            "objectID": "235c8e6b53002df9593313125e922fa4",
+            "ref": "windy-gyle-walking-route"
+        },
+        {
+            "description": "Harter Fell",
+            "objectID": "e602e83618eadaf14724dcc81b7251de",
+            "ref": "harter-fell-walking-route"
+        },
+        {
+            "description": "East Marton",
+            "objectID": "fc0612d6347e3ecb1e16b64a3e457746",
+            "ref": "east-marton-walking-route"
+        },
+        {
+            "description": "Hindhope Linn",
+            "objectID": "171bfa43a688793b212179969406307a",
+            "ref": "hindhope-linn-walking-route"
+        },
+        {
+            "description": "Lothersdale",
+            "objectID": "58081b302291c6636c72272fc19761fc",
+            "ref": "lothersdale-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7e1568e78435cb4e0d45bf98831e2524.gpx",
+    "_geoloc": {
+        "lat": 53.370431,
+        "lng": -1.81694
     },
-    {
-      "description": "Cow Green Reservoir and Cauldron Snout",
-      "objectID": "fde863f6ed3a3635dbb832514339b716",
-      "ref": "cow-green-reservoir-and-cauldron-snout-walking-route"
-    },
-    {
-      "description": "Kisdon Force",
-      "objectID": "ab94f20bb0fd8f1b08fc4a2838a3ee27",
-      "ref": "kisdon-force-walking-route"
-    },
-    {
-      "description": "Malham Cove",
-      "objectID": "f69ffccaf926b2bbfa4b17aed1fcadc5",
-      "ref": "malham-cove-walking-route"
-    },
-    {
-      "description": "Malham Tarn Estate",
-      "objectID": "0e1b77883047f9f0f66863ff12a65c1c",
-      "ref": "malham-tarn-estate-walking-and-cycle-route"
-    },
-    {
-      "description": "Cross Fell",
-      "objectID": "2884d1220bce88b919b7e43d93d769c1",
-      "ref": "cross-fell-walk-walking-route"
-    },
-    {
-      "description": "Teesdale Way",
-      "objectID": "bee1da20e3a1d771ea9f89b5a2d25ba9",
-      "ref": "teesdale-way-walking-route"
-    },
-    {
-      "description": "High Force Waterfall",
-      "objectID": "644768ed8d1b4271071b163fa9a9d416",
-      "ref": "high-force-waterfall-walking-route"
-    },
-    {
-      "description": "Hareshaw Linn",
-      "objectID": "8aa31661090ead4970f4ad1b8262c54c",
-      "ref": "hareshaw-linn-walking-route"
-    },
-    {
-      "description": "Grassholme Reservoir",
-      "objectID": "12306e7b4d8bef3d64235e4e194a2192",
-      "ref": "grassholme-reservoir-walking-route"
-    },
-    {
-      "description": "Torside Reservoir",
-      "objectID": "0ebb7ddc1baee6401f1b8e7fda9dc445",
-      "ref": "torside-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Fountains Fell",
-      "objectID": "39ac625fcf4a40d377d9910345cf2da2",
-      "ref": "fountains-fell-walking-route"
-    },
-    {
-      "description": "Marsden Moor",
-      "objectID": "f2e49b568a63afc0fc21198969828ac1",
-      "ref": "marsden-moor-walking-route"
-    },
-    {
-      "description": "Jacob's Ladder",
-      "objectID": "f08c113e11ecc4609ce80f380b6f0c10",
-      "ref": "jacobs-ladder-walking-route"
-    },
-    {
-      "description": "High Cup Nick",
-      "objectID": "e6bef8c8331bcd7578c20d8fd11b0636",
-      "ref": "high-cup-nick-walking-route"
-    },
-    {
-      "description": "Hardcastle Crags",
-      "objectID": "8c8e0416de95d6531813fb6dd0724615",
-      "ref": "hardcastle-crags-walking-route"
-    },
-    {
-      "description": "Gorple Reservoir",
-      "objectID": "a263b557257bb536f72281dfb41f9c64",
-      "ref": "gorple-reservoir-walking-route"
-    },
-    {
-      "description": "Widdop Reservoir",
-      "objectID": "cd1d1b31eda8ca3729e67a21e39b593d",
-      "ref": "widdop-reservoir-walking-route"
-    },
-    {
-      "description": "Stoodley Pike",
-      "objectID": "6f7a2d1454d650669c7764b76cf74ef1",
-      "ref": "stoodley-pike-walking-route"
-    },
-    {
-      "description": "Hardraw Force Walk",
-      "objectID": "af58e373850c70eac32a3a62a4053ed3",
-      "ref": "hardraw-force-walk-walking-route"
-    },
-    {
-      "description": "Windy Gyle",
-      "objectID": "235c8e6b53002df9593313125e922fa4",
-      "ref": "windy-gyle-walking-route"
-    },
-    {
-      "description": "Harter Fell",
-      "objectID": "e602e83618eadaf14724dcc81b7251de",
-      "ref": "harter-fell-walking-route"
-    },
-    {
-      "description": "East Marton",
-      "objectID": "fc0612d6347e3ecb1e16b64a3e457746",
-      "ref": "east-marton-walking-route"
-    },
-    {
-      "description": "Hindhope Linn",
-      "objectID": "171bfa43a688793b212179969406307a",
-      "ref": "hindhope-linn-walking-route"
-    },
-    {
-      "description": "Lothersdale",
-      "objectID": "58081b302291c6636c72272fc19761fc",
-      "ref": "lothersdale-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7e1568e78435cb4e0d45bf98831e2524.gpx",
-  "_geoloc": {
-    "lat": 53.370431,
-    "lng": -1.81694
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pennine_Way_goes_north_-_geograph.org.uk_-_1567872.jpg",
-      "title": "Andy Waddington / Pennine Way goes north",
-      "caption": "Pennine Way goes north. Actually, it goes both north as indicated by this half of the signpost, and south. Both ways are boggy, but a bridleway heading east is much drier, though not following the flat ridge line used by the wall seen here along Race Yate Rigg. The barely perceptible summit on the bracken-infested moor left of the wall is West Hare Crag. At this end of the wall can be seen the upright post which supported the previous version of the Pennine Way signpost, missing since at least February 2003"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pennine_Way_reaches_the_Baldersdale_road_-_geograph.org.uk_-_1567761.jpg/330px-Pennine_Way_reaches_the_Baldersdale_road_-_geograph.org.uk_-_1567761.jpg",
-      "title": "Andy Waddington / Pennine Way reaches the Baldersdale road",
-      "caption": "Pennine Way reaches the Baldersdale road. This is the easterly variant of the Pennine Way that Wainwright refers to as the \"Bowes alternative\". It is certainly the way I walked it 35 years ago, seeing no alternative to Bowes (for a short trip to Barnard Castle Youth Hostel) for overnight accommodation between Hawes and Langdon Beck. Although it starts off with \"the ugliest mile on the walk\", the scenery improves considerably north of the watershed, passing Goldsborough and then dropping down to this point where there are more choices of possible route before meeting the western variant at the head of Blackton reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Pennine_Way_descending_to_Middleton_-_geograph.org.uk_-_1718109.jpg",
-      "title": "Andy Waddington / Pennine Way descending to Middleton",
-      "caption": "Descending to Middleton. After passing between the reservoirs in Lunesdale, the Pennine Way climbs over the SE shoulder of Harter Fell to gain a view into Teesdale. The descent is then on this well-worn footpath towards the fleshpots of Middleton-in-Teesdale. The last section is on a farm track. In winter (as seen here) the ground may be well-frozen and give firm footing - it is rarely steep enough for a fall."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Birch_overlooking_Hury_spillway_-_geograph.org.uk_-_1584629.jpg",
-      "title": "Andy Waddington / Birch overlooking Hury spillway",
-      "caption": "Birch overlooking Hury spillway. There are a few scattered trees above the spillway that bypasses Hury reservoir on its right bank and this is one of the more mature ones. Near the shore are Alders, but on the hillside above the spillway, birches dominate."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Double_weir_into_Hury_spillway_-_geograph.org.uk_-_1584695.jpg",
-      "title": "Andy Waddington / Double weir into Hury spillway",
-      "caption": "Double weir into Hury spillway. A long spillway runs alongside the right bank of Hury reservoir, then cuts across the corner at the south end of the dam. The two weirs maintain the level in Hury reservoir and feed water into the spillway which soon descends steeply over the dam face where water from the tailrace combines with this flow to form the River Balder."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_start_of_the_Balder_descent_-_geograph.org.uk_-_1577858.jpg/500px-The_start_of_the_Balder_descent_-_geograph.org.uk_-_1577858.jpg",
-      "title": "Andy Waddington / The start of the Balder descent",
-      "caption": "The start of the Balder descent. The River Balder has not been free-flowing since the Hury reservoir was built in 1892, so any navigation by boat must now start here.The pool below the overspill channel is readily accessible through a gate to the right of this photograph, though there is no convenient parking nearer than either end of the dam. The south end car park is very open to scrutiny by water company staff which may be an issue for some paddlers depending on intentions. The River needs a lot more water in it than this to be paddled, and trees can be a significant hazard. Most of the flow is coming from the tailrace somewhat hidden behind the grassy bank to the right of the picture, with only a small amount coming down the spillway. The spillway itself has seen descents by canoeists, but the authorities do not really approve. If there is enough water to paddle the river, the spillway is likely to be very fast with a significant impact and stopper at the bottom - canoe descents seem to have mostly been done in a low level such as seen here, at which level the river will not really \"go\"."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Track_below_Harter_Fell_-_geograph.org.uk_-_1718258.jpg",
-      "title": "Andy Waddington / Track below Harter Fell",
-      "caption": "Track below Harter Fell. The track leads from a line of grouse butts on the fell down to the B6276, and at this point also serves as access to Cornset. Just ahead, it meets the Pennine Way on its ascent from Wythers Hill, but the Long Distance path continues over the fell as a muddy trod, while the track turns right into Lunesdale. The roofless barn seen in the centre of the photo lies over a wall just on the downfell side of the trail."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bowes_Moor_-_geograph.org.uk_-_1206653.jpg",
-      "title": "Andy Waddington / Bowes Moor",
-      "caption": "Bowes Moor. From the footbridge where the trail crosses Deepdale Beck (confusingly, in a place called Sled Dale) this view looks upstream towards Lartington High Moor and the winter wilderness north of Stainmore. Although the snow is not deep enough to cover all the old grass and sedge, there is enough here to make travelling by ski a lot quicker than on foot in the summer."
-    }
-  ],
-  "distance_km": 431.0,
-  "description": "This fabulous 268 mile path takes you through three of England's finest national parks. You start near Edale in the beautiful Derbyshire Peak District and head north towards the Yorkshire Dales National Park. The final section takes you over Hadrian's Wall in the stunning Northumberland National Park before crossing the England-Scotland border and finishing in the village of Kirk Yetholm in Scotland. Though the path is often challenging you're rewarded with some of the most breathtaking views in the country. Highlights on the path include the beautiful Malham Cove, the heather moorland of the Marsden Moor Estate, the Malham Tarn Estate and the stunning Kisdon Force waterfall in the Yorkshire Dales National Park. You'll also enjoy a waterside section along the River Tees in Teesdale which leads to Low Force Watefall and High Force Waterfall. The path also passes through Bronte country in West Yorkshire where you can visit the Bronte Waterfall and Top Withens .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Edale head to The Old Nags Head at Hope Vale, just to the north of the village (Postcode: S33 7ZD). This classic old pub dates back to 1577 and is located a short walk from Edale village, at the start of the Pennine Way.In Swaledale you will pass close to the pretty village of Muker where you will find the noteworthy Muker village tea shop. It was built in 1680 and retains much of its 'olde worlde charm' today. The historic building is a nice place for some on your walk. You can find it in the village at postcode DL11 6QH for your sat navs. There's also The Farmers Arms pub in Muker. This traditional Yorkshire Dales pub boasts a welcoming atmosphere and prides itself on its\u2019 well-kept local ales and tasty homemade food. With an open fire and a stone-flagged floor; muddy boots and well behaved dogs are always welcome. You can find the pub at postcode DL11 6QG. In Marsden there's the noteworthy Riverhead Brewery Tap to visit. It does good food and is an excellent place for real ale connsiseurs. On the ground floor in the bar, there are 10 real ale hand pumps several of which are permanently dedicated to the popular Riverhead beers brewed on-site. The famous Riverhead micro-brewery is housed downstairs in the cellar. Here they brew a wide range of beers all with a local connection. Hot and cold food is served regularly with all dishes freshly prepared on site. You can find the pub in the picturesque village, next to the River Colne, on Peel Street with a postcode of HD7 6BR for your sat navs. At Blackstone Edge there's a couple of fantastic pubs which demand some investigation. The White House is located right next to Blackstone Edge Reservoir and an inn of some note. The remote pub is in a fabulous location in an elevated position on the Halifax Road with panoramic views of the surrounding moors and Hollingworth Lake far below. It also has a wonderful history being originally an old coaching house dating from 1671. It is situated 1,300 feet above sea level and includes an outdoor seating area where you can relax on warmer days. The pub has an extensive menu and a nice cosy interior. You can find it at postcode OL15 0LG for your sat navs. Just up the road is the Moorcock Inn, located at the foot of the Pennines in Littleborough. There's more great countryside views from the garden area with home-made food and fine real ales on tap. It's also located on the Halifax Road at postcode OL15 0LD. The Tan Hill Inn is a signifcant establishment and a must see on the route. The Inn is world famous as Britain\u2019s highest public house at 1,732 feet (528m) above sea level. It dates back to the 17th century and has a wonderful interior with exposed beams, stone-flagged floor and welcoming fire. There's also a nice outdoor seating area with some of the best views in the country. You can find the inn on the Long Causeway at a postcode of DL11 6ED. Near the noteworthy High Cup Nick you will pass through the village of Dufton where you could stop at the Stag Inn (Postcode:CA16 6DB). The rustic country inn was built in 1703 and includes solid oak beams. It's in a lovely spot overlooking the village green and is very walker friendly. There's a good menu and accommodation is also available if you need to stay over. Dufton village is an interesting place to linger in for a while too. Houses in the village were built from the 17th century onwards and it has changed little over the last 100 years. Dufton Pike rises above the village and is another popular walk in the area. You can climb to the pike on a circular walk by using trails heading north from the village and using part of the Pennine Way. Just above the National Trust's Hardcastle Crags you'll find the noteworthy Pack Horse Inn. This interesting historic pub is located in a very remote position and dates from the 17th century. Inside there's a cosy bar with fires, window seats cut into the partly panelled stripped-stone walls (from where you can take in the beautiful views), sturdy furnishings and some horse related mementoes. There are also seats outside in the cobblestoned beer garden which has attractive hanging baskets. They have a good selection of ales, a decent menu and are also dog friendly. You can find the pub on the Widdop Road just as you pass Gorple Reservoir and Widdop Reservoir. Postcode for sat navs is HX7 7AT. The Top Brink pub is another wonderfully positioned pub on the trail. The traditional original pub includes stone features, beamed ceilings, brassware & pottery, and a light airy large conservatory to the front with panoramic views. Outside there are several outside eating areas, including a large decked area and a lovely garden area with pretty flower baskets. It's a great place to relax and enjoy the countryside views with your meal. You can find the pub in an elevated position at Lumbutts near to the Stoodley Pike monument. Postcode is OL14 6JB for your sat navs. The trail passes right by the Green Dragon Inn, the gateway to the splendid Hardraw Falls. The pub has an interesting history dating right back to the 13th century. Hardraw is old English for Shepherds dwelling, and the land once formed part of land owned by the Cistercian Monks, who settled here before moving to Jervaulx Abbey in lower Wensleydale. They kept a Grange at Hardraw and possibly a small chantry chapel.The pub has a good selection of beers and a good menu if you wish to dine.  Pictured above, the exterior and interior of the Green Dragon in Hardraw near Hawes, in the Yorkshire Dales. The lovely old unspoilt and unaltered interior has a wealth of period features including a cosy real fire. There's also a few tables outside if the weather is decent. The Carriages Tea Room at Bellingham Station is an interesting place to visit. You can enjoy a range of light lunches, freshly baked scones and homemade cakes on-board the old 1957 Mark 1 Carriages. The restored Carriage's still contain the original seats and many of the original fixtures and fittings from when the train was last used for public service. They do a very good afternoon tea for a reasonable price. You can find the cafe at Station Yard, Woodburn Road, Bellingham with a postcodfe of NE48 2DG for your sat navs. The Cheviot Hotel is another good option in the village. The hotel contains a decent bar with a good menu and a nice outdoor seating area. You can find it on Main Street at a postcode of NE48 2AU."
-    }
-  ],
-  "district": "High Peak",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Pennine Way, Marys Lane, Grindsbrook Booth, Edale, High Peak, Derbyshire, East Midlands, England, S33 7ZD, United Kingdom",
-  "postcode": "S33 7ZD",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "multiple days",
-  "difficulty": "moderate",
-  "terrain": [
-    "moorland",
-    "waterfall",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "national park",
-    "waterfall",
-    "moorland"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "waterside walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pennine_Way_goes_north_-_geograph.org.uk_-_1567872.jpg",
+            "title": "Andy Waddington / Pennine Way goes north",
+            "caption": "Pennine Way goes north. Actually, it goes both north as indicated by this half of the signpost, and south. Both ways are boggy, but a bridleway heading east is much drier, though not following the flat ridge line used by the wall seen here along Race Yate Rigg. The barely perceptible summit on the bracken-infested moor left of the wall is West Hare Crag. At this end of the wall can be seen the upright post which supported the previous version of the Pennine Way signpost, missing since at least February 2003"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pennine_Way_reaches_the_Baldersdale_road_-_geograph.org.uk_-_1567761.jpg/330px-Pennine_Way_reaches_the_Baldersdale_road_-_geograph.org.uk_-_1567761.jpg",
+            "title": "Andy Waddington / Pennine Way reaches the Baldersdale road",
+            "caption": "Pennine Way reaches the Baldersdale road. This is the easterly variant of the Pennine Way that Wainwright refers to as the \"Bowes alternative\". It is certainly the way I walked it 35 years ago, seeing no alternative to Bowes (for a short trip to Barnard Castle Youth Hostel) for overnight accommodation between Hawes and Langdon Beck. Although it starts off with \"the ugliest mile on the walk\", the scenery improves considerably north of the watershed, passing Goldsborough and then dropping down to this point where there are more choices of possible route before meeting the western variant at the head of Blackton reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Pennine_Way_descending_to_Middleton_-_geograph.org.uk_-_1718109.jpg",
+            "title": "Andy Waddington / Pennine Way descending to Middleton",
+            "caption": "Descending to Middleton. After passing between the reservoirs in Lunesdale, the Pennine Way climbs over the SE shoulder of Harter Fell to gain a view into Teesdale. The descent is then on this well-worn footpath towards the fleshpots of Middleton-in-Teesdale. The last section is on a farm track. In winter (as seen here) the ground may be well-frozen and give firm footing - it is rarely steep enough for a fall."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Birch_overlooking_Hury_spillway_-_geograph.org.uk_-_1584629.jpg",
+            "title": "Andy Waddington / Birch overlooking Hury spillway",
+            "caption": "Birch overlooking Hury spillway. There are a few scattered trees above the spillway that bypasses Hury reservoir on its right bank and this is one of the more mature ones. Near the shore are Alders, but on the hillside above the spillway, birches dominate."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Double_weir_into_Hury_spillway_-_geograph.org.uk_-_1584695.jpg",
+            "title": "Andy Waddington / Double weir into Hury spillway",
+            "caption": "Double weir into Hury spillway. A long spillway runs alongside the right bank of Hury reservoir, then cuts across the corner at the south end of the dam. The two weirs maintain the level in Hury reservoir and feed water into the spillway which soon descends steeply over the dam face where water from the tailrace combines with this flow to form the River Balder."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_start_of_the_Balder_descent_-_geograph.org.uk_-_1577858.jpg/500px-The_start_of_the_Balder_descent_-_geograph.org.uk_-_1577858.jpg",
+            "title": "Andy Waddington / The start of the Balder descent",
+            "caption": "The start of the Balder descent. The River Balder has not been free-flowing since the Hury reservoir was built in 1892, so any navigation by boat must now start here.The pool below the overspill channel is readily accessible through a gate to the right of this photograph, though there is no convenient parking nearer than either end of the dam. The south end car park is very open to scrutiny by water company staff which may be an issue for some paddlers depending on intentions. The River needs a lot more water in it than this to be paddled, and trees can be a significant hazard. Most of the flow is coming from the tailrace somewhat hidden behind the grassy bank to the right of the picture, with only a small amount coming down the spillway. The spillway itself has seen descents by canoeists, but the authorities do not really approve. If there is enough water to paddle the river, the spillway is likely to be very fast with a significant impact and stopper at the bottom - canoe descents seem to have mostly been done in a low level such as seen here, at which level the river will not really \"go\"."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Track_below_Harter_Fell_-_geograph.org.uk_-_1718258.jpg",
+            "title": "Andy Waddington / Track below Harter Fell",
+            "caption": "Track below Harter Fell. The track leads from a line of grouse butts on the fell down to the B6276, and at this point also serves as access to Cornset. Just ahead, it meets the Pennine Way on its ascent from Wythers Hill, but the Long Distance path continues over the fell as a muddy trod, while the track turns right into Lunesdale. The roofless barn seen in the centre of the photo lies over a wall just on the downfell side of the trail."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bowes_Moor_-_geograph.org.uk_-_1206653.jpg",
+            "title": "Andy Waddington / Bowes Moor",
+            "caption": "Bowes Moor. From the footbridge where the trail crosses Deepdale Beck (confusingly, in a place called Sled Dale) this view looks upstream towards Lartington High Moor and the winter wilderness north of Stainmore. Although the snow is not deep enough to cover all the old grass and sedge, there is enough here to make travelling by ski a lot quicker than on foot in the summer."
+        }
+    ],
+    "distance_km": 431.0,
+    "description": "This fabulous 268 mile path takes you through three of England's finest national parks. You start near Edale in the beautiful Derbyshire Peak District and head north towards the Yorkshire Dales National Park. The final section takes you over Hadrian's Wall in the stunning Northumberland National Park before crossing the England-Scotland border and finishing in the village of Kirk Yetholm in Scotland. Though the path is often challenging you're rewarded with some of the most breathtaking views in the country. Highlights on the path include the beautiful Malham Cove, the heather moorland of the Marsden Moor Estate, the Malham Tarn Estate and the stunning Kisdon Force waterfall in the Yorkshire Dales National Park. You'll also enjoy a waterside section along the River Tees in Teesdale which leads to Low Force Watefall and High Force Waterfall. The path also passes through Bronte country in West Yorkshire where you can visit the Bronte Waterfall and Top Withens .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Edale head to The Old Nags Head at Hope Vale, just to the north of the village (Postcode: S33 7ZD). This classic old pub dates back to 1577 and is located a short walk from Edale village, at the start of the Pennine Way.In Swaledale you will pass close to the pretty village of Muker where you will find the noteworthy Muker village tea shop. It was built in 1680 and retains much of its 'olde worlde charm' today. The historic building is a nice place for some on your walk. You can find it in the village at postcode DL11 6QH for your sat navs. There's also The Farmers Arms pub in Muker. This traditional Yorkshire Dales pub boasts a welcoming atmosphere and prides itself on its\u2019 well-kept local ales and tasty homemade food. With an open fire and a stone-flagged floor; muddy boots and well behaved dogs are always welcome. You can find the pub at postcode DL11 6QG. In Marsden there's the noteworthy Riverhead Brewery Tap to visit. It does good food and is an excellent place for real ale connsiseurs. On the ground floor in the bar, there are 10 real ale hand pumps several of which are permanently dedicated to the popular Riverhead beers brewed on-site. The famous Riverhead micro-brewery is housed downstairs in the cellar. Here they brew a wide range of beers all with a local connection. Hot and cold food is served regularly with all dishes freshly prepared on site. You can find the pub in the picturesque village, next to the River Colne, on Peel Street with a postcode of HD7 6BR for your sat navs. At Blackstone Edge there's a couple of fantastic pubs which demand some investigation. The White House is located right next to Blackstone Edge Reservoir and an inn of some note. The remote pub is in a fabulous location in an elevated position on the Halifax Road with panoramic views of the surrounding moors and Hollingworth Lake far below. It also has a wonderful history being originally an old coaching house dating from 1671. It is situated 1,300 feet above sea level and includes an outdoor seating area where you can relax on warmer days. The pub has an extensive menu and a nice cosy interior. You can find it at postcode OL15 0LG for your sat navs. Just up the road is the Moorcock Inn, located at the foot of the Pennines in Littleborough. There's more great countryside views from the garden area with home-made food and fine real ales on tap. It's also located on the Halifax Road at postcode OL15 0LD. The Tan Hill Inn is a signifcant establishment and a must see on the route. The Inn is world famous as Britain\u2019s highest public house at 1,732 feet (528m) above sea level. It dates back to the 17th century and has a wonderful interior with exposed beams, stone-flagged floor and welcoming fire. There's also a nice outdoor seating area with some of the best views in the country. You can find the inn on the Long Causeway at a postcode of DL11 6ED. Near the noteworthy High Cup Nick you will pass through the village of Dufton where you could stop at the Stag Inn (Postcode:CA16 6DB). The rustic country inn was built in 1703 and includes solid oak beams. It's in a lovely spot overlooking the village green and is very walker friendly. There's a good menu and accommodation is also available if you need to stay over. Dufton village is an interesting place to linger in for a while too. Houses in the village were built from the 17th century onwards and it has changed little over the last 100 years. Dufton Pike rises above the village and is another popular walk in the area. You can climb to the pike on a circular walk by using trails heading north from the village and using part of the Pennine Way. Just above the National Trust's Hardcastle Crags you'll find the noteworthy Pack Horse Inn. This interesting historic pub is located in a very remote position and dates from the 17th century. Inside there's a cosy bar with fires, window seats cut into the partly panelled stripped-stone walls (from where you can take in the beautiful views), sturdy furnishings and some horse related mementoes. There are also seats outside in the cobblestoned beer garden which has attractive hanging baskets. They have a good selection of ales, a decent menu and are also dog friendly. You can find the pub on the Widdop Road just as you pass Gorple Reservoir and Widdop Reservoir. Postcode for sat navs is HX7 7AT. The Top Brink pub is another wonderfully positioned pub on the trail. The traditional original pub includes stone features, beamed ceilings, brassware & pottery, and a light airy large conservatory to the front with panoramic views. Outside there are several outside eating areas, including a large decked area and a lovely garden area with pretty flower baskets. It's a great place to relax and enjoy the countryside views with your meal. You can find the pub in an elevated position at Lumbutts near to the Stoodley Pike monument. Postcode is OL14 6JB for your sat navs. The trail passes right by the Green Dragon Inn, the gateway to the splendid Hardraw Falls. The pub has an interesting history dating right back to the 13th century. Hardraw is old English for Shepherds dwelling, and the land once formed part of land owned by the Cistercian Monks, who settled here before moving to Jervaulx Abbey in lower Wensleydale. They kept a Grange at Hardraw and possibly a small chantry chapel.The pub has a good selection of beers and a good menu if you wish to dine.  Pictured above, the exterior and interior of the Green Dragon in Hardraw near Hawes, in the Yorkshire Dales. The lovely old unspoilt and unaltered interior has a wealth of period features including a cosy real fire. There's also a few tables outside if the weather is decent. The Carriages Tea Room at Bellingham Station is an interesting place to visit. You can enjoy a range of light lunches, freshly baked scones and homemade cakes on-board the old 1957 Mark 1 Carriages. The restored Carriage's still contain the original seats and many of the original fixtures and fittings from when the train was last used for public service. They do a very good afternoon tea for a reasonable price. You can find the cafe at Station Yard, Woodburn Road, Bellingham with a postcodfe of NE48 2DG for your sat navs. The Cheviot Hotel is another good option in the village. The hotel contains a decent bar with a good menu and a nice outdoor seating area. You can find it on Main Street at a postcode of NE48 2AU."
+        }
+    ],
+    "district": "High Peak",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Pennine Way, Marys Lane, Grindsbrook Booth, Edale, High Peak, Derbyshire, East Midlands, England, S33 7ZD, United Kingdom",
+    "postcode": "S33 7ZD",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["moorland"],
+    "points_of_interest": ["waterfall", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

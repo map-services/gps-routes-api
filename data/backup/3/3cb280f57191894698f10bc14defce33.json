@@ -1,145 +1,153 @@
 {
-    "created_at": "2025-01-06T00:50:21.522427+00:00",
-    "objectID": "3cb280f57191894698f10bc14defce33",
-    "ref": "darcy-dalton-way-walking-route",
-    "title": "D'arcy Dalton Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Farnborough_Hall_South.jpg/500px-Farnborough_Hall_South.jpg",
-    "nearby": [
-        {
-            "description": "Wayland's Smithy",
-            "objectID": "0621cec6237b6ae60200ea1b2bd4a708",
-            "ref": "waylands-smithy-walking-route"
-        },
-        {
-            "description": "Milton under Wychwood",
-            "objectID": "63296474e1b84747a3c73bcc9782ffb6",
-            "ref": "milton-under-wychwood-walking-route"
-        },
-        {
-            "description": "Farnborough Hall",
-            "objectID": "a8808220aa71bc4d5967cc53ba6cb7bf",
-            "ref": "farnborough-hall-walking-route"
-        },
-        {
-            "description": "Hook Norton",
-            "objectID": "bff3de58963c34fd59a403be0cdc0a85",
-            "ref": "hook-norton-walking-route"
-        },
-        {
-            "description": "Rollright Stones",
-            "objectID": "dc9ae4e69b8fb00ed666279b46d875a0",
-            "ref": "rollright-stones-walking-route"
-        },
-        {
-            "description": "Shipton Under Wychwood",
-            "objectID": "a7f54555c4ca4e4ff9d175dbc426a9fd",
-            "ref": "shipton-under-wychwood-walking-route"
-        },
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Oxford Canal Walk",
-            "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
-            "ref": "oxford-canal-walk-walking-route"
-        },
-        {
-            "description": "Oxfordshire Way",
-            "objectID": "f2f8c5cb204c351de4c898446fda44cc",
-            "ref": "oxfordshire-way-walking-route"
-        },
-        {
-            "description": "The Ridgeway",
-            "objectID": "2384cde76809687efb1a502a57345f61",
-            "ref": "the-ridgeway-walking-route"
-        },
-        {
-            "description": "Ashbury",
-            "objectID": "bf249e16926212bc5fa57c05f92dc104",
-            "ref": "ashbury-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3cb280f57191894698f10bc14defce33.gpx",
-    "_geoloc": {
-        "lat": 52.1624958732,
-        "lng": -1.3473535079
+  "created_at": "2025-01-06T00:50:21.522427+00:00",
+  "objectID": "3cb280f57191894698f10bc14defce33",
+  "ref": "darcy-dalton-way-walking-route",
+  "title": "D'arcy Dalton Way Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Farnborough_Hall_South.jpg/500px-Farnborough_Hall_South.jpg",
+  "nearby": [
+    {
+      "description": "Wayland's Smithy",
+      "objectID": "0621cec6237b6ae60200ea1b2bd4a708",
+      "ref": "waylands-smithy-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Farnborough_Hall_South.jpg/500px-Farnborough_Hall_South.jpg",
-            "title": "Nicholas Jackson, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Farnborough Hall South"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Darcy_Dalton_Way_footpath_crosses_the_road_in_Westwell_-_geograph.org.uk_-_1747704.jpg",
-            "title": "Sarah Charlesworth / The Darcy Dalton Way footpath crosses the road in Westwell",
-            "caption": "The Darcy Dalton Way footpath crosses the road in Westwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_1568212.jpg",
-            "title": "Derek Harper / D'Arcy Dalton Way",
-            "caption": "D'Arcy Dalton Way"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_2693564.jpg",
-            "title": "D'Arcy Dalton Way by Shaun Ferguson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sibford Gower"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_2694685.jpg",
-            "title": "D'Arcy Dalton Way by Shaun Ferguson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Shenington with Alkerton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_3489690.jpg/500px-D%27Arcy_Dalton_Way_-_geograph.org.uk_-_3489690.jpg",
-            "title": "D'Arcy Dalton Way by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A country view near Hornton."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Odstone_Hill_from_D%27Arcy_Dalton_Way%2C_Ashbury_-_geograph.org.uk_-_2570104.jpg/500px-Odstone_Hill_from_D%27Arcy_Dalton_Way%2C_Ashbury_-_geograph.org.uk_-_2570104.jpg",
-            "title": "Odstone Hill from D'Arcy Dalton Way, Ashbury by Brian Robert Marshall, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Odstone Hill from D'Arcy Dalton Way, Ashbury"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Waylands_Smithy_-_geograph.org.uk_-_4072263.jpg",
-            "title": "Waylands Smithy by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Waylands Smithy at the end of the walk."
-        }
-    ],
-    "distance_km": 107.0,
-    "description": "This long distance walking trail runs through the Oxfordshire countryside from Wormleighton Reservoir to Wayland's Smithy near Ashbury. The walk is named after Col. W. P. d'Arcy Dalton, a local man who worked hard to preserve footpaths and rights of way in the county. The trail takes you through some beautiful Warwickshire and Oxfordshire countryside with a section through the Cotswolds to enjoy as well. On the way you will pass through a number of delightful rural villages, visit some fascinating ancient sites and enjoy some wonderful views over the area from the high points. The walk starts from Wormleighton Reservoir just to the east of the village of Fenny Compton in Warwickshire. You then head south to Farnborough where you could pay a visit to the National Trust's Farnborough Hall. The historic Grade I listed hall dates from the 18th century and is surrounded by attractive parkland with lakes and beautiful landscaped gardens. You continue to Hornton, Hook Norton and Great Rollright where you will pass another route highlight at the ancient Rollright Stones. Here you will find a fascinating group of Neolithic and Bronze Age megalithic monuments with some fine countryside views. The route continues in the beautiful Cotswolds, passing Churchill, Sarsden and Shipton Under Wychwood where there's some pleasant trails through the wildlife rich Foxholes Nature Reserve. You continue through the Cotswolds to Great Barrington, Filkins and Radcot where the route links up with the Thames Path National Trail. The next stages visits Great Coxwell, Coleshill and Longcot before coming to the finish point at Wayland's Smithy.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In Milton under Wychwood you could enjoy a pit stop at the The Hare. The fine country pub serves high quality dishes and includes a sunny, sheltered terrace. They are dog friendly in the bar area."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "At various points along the way the trail links with several other long distance footpaths including the Oxford Canal Walk, the Oxfordshire Way, the Thames Path and The Ridgeway."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/kYJhodjIDLI",
-    "county": "Warwickshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bridge 139, Farnborough CP, Stratford-on-Avon, Warwickshire, England, OX17 1EJ, United Kingdom",
-    "postcode": "OX17 1EJ",
-    "district": "Stratford-on-Avon",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["rural", "countryside", "Cotswolds"],
-    "points_of_interest": [
-        "ancient site",
-        "megalithic monuments",
-        "nature reserve"
-    ],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Milton under Wychwood",
+      "objectID": "63296474e1b84747a3c73bcc9782ffb6",
+      "ref": "milton-under-wychwood-walking-route"
+    },
+    {
+      "description": "Farnborough Hall",
+      "objectID": "a8808220aa71bc4d5967cc53ba6cb7bf",
+      "ref": "farnborough-hall-walking-route"
+    },
+    {
+      "description": "Hook Norton",
+      "objectID": "bff3de58963c34fd59a403be0cdc0a85",
+      "ref": "hook-norton-walking-route"
+    },
+    {
+      "description": "Rollright Stones",
+      "objectID": "dc9ae4e69b8fb00ed666279b46d875a0",
+      "ref": "rollright-stones-walking-route"
+    },
+    {
+      "description": "Shipton Under Wychwood",
+      "objectID": "a7f54555c4ca4e4ff9d175dbc426a9fd",
+      "ref": "shipton-under-wychwood-walking-route"
+    },
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
+    },
+    {
+      "description": "Oxford Canal Walk",
+      "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
+      "ref": "oxford-canal-walk-walking-route"
+    },
+    {
+      "description": "Oxfordshire Way",
+      "objectID": "f2f8c5cb204c351de4c898446fda44cc",
+      "ref": "oxfordshire-way-walking-route"
+    },
+    {
+      "description": "The Ridgeway",
+      "objectID": "2384cde76809687efb1a502a57345f61",
+      "ref": "the-ridgeway-walking-route"
+    },
+    {
+      "description": "Ashbury",
+      "objectID": "bf249e16926212bc5fa57c05f92dc104",
+      "ref": "ashbury-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3cb280f57191894698f10bc14defce33.gpx",
+  "_geoloc": {
+    "lat": 52.1624958732,
+    "lng": -1.3473535079
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Farnborough_Hall_South.jpg/500px-Farnborough_Hall_South.jpg",
+      "title": "Nicholas Jackson, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Farnborough Hall South"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Darcy_Dalton_Way_footpath_crosses_the_road_in_Westwell_-_geograph.org.uk_-_1747704.jpg",
+      "title": "Sarah Charlesworth / The Darcy Dalton Way footpath crosses the road in Westwell",
+      "caption": "The Darcy Dalton Way footpath crosses the road in Westwell"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_1568212.jpg",
+      "title": "Derek Harper / D'Arcy Dalton Way",
+      "caption": "D'Arcy Dalton Way"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_2693564.jpg",
+      "title": "D'Arcy Dalton Way by Shaun Ferguson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sibford Gower"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_2694685.jpg",
+      "title": "D'Arcy Dalton Way by Shaun Ferguson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Shenington with Alkerton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D%27Arcy_Dalton_Way_-_geograph.org.uk_-_3489690.jpg/500px-D%27Arcy_Dalton_Way_-_geograph.org.uk_-_3489690.jpg",
+      "title": "D'Arcy Dalton Way by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A country view near Hornton."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Odstone_Hill_from_D%27Arcy_Dalton_Way%2C_Ashbury_-_geograph.org.uk_-_2570104.jpg/500px-Odstone_Hill_from_D%27Arcy_Dalton_Way%2C_Ashbury_-_geograph.org.uk_-_2570104.jpg",
+      "title": "Odstone Hill from D'Arcy Dalton Way, Ashbury by Brian Robert Marshall, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Odstone Hill from D'Arcy Dalton Way, Ashbury"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Waylands_Smithy_-_geograph.org.uk_-_4072263.jpg",
+      "title": "Waylands Smithy by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Waylands Smithy at the end of the walk."
+    }
+  ],
+  "distance_km": 107.0,
+  "description": "This long distance walking trail runs through the Oxfordshire countryside from Wormleighton Reservoir to Wayland's Smithy near Ashbury. The walk is named after Col. W. P. d'Arcy Dalton, a local man who worked hard to preserve footpaths and rights of way in the county. The trail takes you through some beautiful Warwickshire and Oxfordshire countryside with a section through the Cotswolds to enjoy as well. On the way you will pass through a number of delightful rural villages, visit some fascinating ancient sites and enjoy some wonderful views over the area from the high points. The walk starts from Wormleighton Reservoir just to the east of the village of Fenny Compton in Warwickshire. You then head south to Farnborough where you could pay a visit to the National Trust's Farnborough Hall. The historic Grade I listed hall dates from the 18th century and is surrounded by attractive parkland with lakes and beautiful landscaped gardens. You continue to Hornton, Hook Norton and Great Rollright where you will pass another route highlight at the ancient Rollright Stones. Here you will find a fascinating group of Neolithic and Bronze Age megalithic monuments with some fine countryside views. The route continues in the beautiful Cotswolds, passing Churchill, Sarsden and Shipton Under Wychwood where there's some pleasant trails through the wildlife rich Foxholes Nature Reserve. You continue through the Cotswolds to Great Barrington, Filkins and Radcot where the route links up with the Thames Path National Trail. The next stages visits Great Coxwell, Coleshill and Longcot before coming to the finish point at Wayland's Smithy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Milton under Wychwood you could enjoy a pit stop at the The Hare. The fine country pub serves high quality dishes and includes a sunny, sheltered terrace. They are dog friendly in the bar area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At various points along the way the trail links with several other long distance footpaths including the Oxford Canal Walk, the Oxfordshire Way, the Thames Path and The Ridgeway."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/kYJhodjIDLI",
+  "county": "Warwickshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bridge 139, Farnborough CP, Stratford-on-Avon, Warwickshire, England, OX17 1EJ, United Kingdom",
+  "postcode": "OX17 1EJ",
+  "district": "Stratford-on-Avon",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "Cotswolds"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "ancient site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }
