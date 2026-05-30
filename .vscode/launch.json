@@ -5,6 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python Debugger: llama",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/archive/llama.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/archive"
+        },
+        {
             "name": "Launch HTTP server",
             "type": "go",
             "request": "launch",
