@@ -136,14 +136,17 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "woodland",
+    "country lane"
   ],
   "points_of_interest": [
-    "historical site",
-    "viewpoint"
+    "beach",
+    "nature reserve",
+    "headland",
+    "historical site"
   ],
   "facilities": [
     "pub/cafe",
@@ -151,6 +154,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "birdwatching"
   ]
 }

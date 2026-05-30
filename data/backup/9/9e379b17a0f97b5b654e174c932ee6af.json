@@ -110,14 +110,19 @@
   "display_address": "Mulberry Bush School, Abingdon Road, Standlake, Brighthampton, West Oxfordshire, Oxfordshire, England, OX29 7RW, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
+  "estimated_duration": "4.5 hours",
+  "difficulty": "moderate",
   "terrain": [
-    "waterside"
+    "riverside",
+    "meadow",
+    "common"
   ],
   "points_of_interest": [
     "river",
-    "nature reserve"
+    "lock",
+    "nature reserve",
+    "ford",
+    "lake"
   ],
   "facilities": [
     "pub/cafe",
@@ -125,7 +130,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "dog walking"
+    "walking"
   ]
 }

@@ -82,11 +82,14 @@
   "difficulty": "easy",
   "terrain": [
     "riverside",
-    "canal"
+    "canalside",
+    "parkland"
   ],
   "points_of_interest": [
-    "canal lock",
-    "country park"
+    "river",
+    "canal",
+    "canal locks",
+    "park"
   ],
   "facilities": [
     "pub/cafe",
@@ -94,7 +97,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "dog walking"
+    "walking"
   ]
 }

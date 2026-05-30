@@ -78,14 +78,17 @@
   "postcode": "LN9 6LL",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "estimated_duration": "8.5 hours",
+  "difficulty": "moderate",
   "terrain": [
-    "country lane"
+    "country lane",
+    "footpath"
   ],
   "points_of_interest": [
-    "historic town",
-    "canal"
+    "historical site",
+    "river",
+    "canal",
+    "hill"
   ],
   "facilities": [
     "pub/cafe",
@@ -93,7 +96,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "dog walking"
+    "walking"
   ]
 }

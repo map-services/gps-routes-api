@@ -87,19 +87,20 @@
   "postcode": "YO22 4LE",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "4.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "cliff top"
+    "cliff top",
+    "railway path"
   ],
   "points_of_interest": [
+    "coastal cliff",
     "railway viaduct",
-    "ancient abbey"
+    "abbey ruin",
+    "bay"
   ],
-  "facilities": [
-    "pub/cafe"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking",

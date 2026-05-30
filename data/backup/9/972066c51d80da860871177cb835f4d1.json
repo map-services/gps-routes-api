@@ -75,13 +75,18 @@
   "display_address": "Wells, Somerset, England, BA5 2RB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "3.5 hours",
+  "estimated_duration": "4.5 hours",
   "difficulty": "moderate",
   "terrain": [
-    "countryside"
+    "countryside",
+    "lane",
+    "footpath",
+    "hill"
   ],
   "points_of_interest": [
+    "cathedral",
     "historical site",
+    "abbey",
     "viewpoint"
   ],
   "facilities": [

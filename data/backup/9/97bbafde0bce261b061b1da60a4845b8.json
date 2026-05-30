@@ -126,24 +126,27 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "1 hour",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "moorland",
     "woodland"
   ],
   "points_of_interest": [
     "viewpoint",
-    "historical site"
+    "hill",
+    "countryside centre",
+    "river",
+    "canal",
+    "glen"
   ],
   "facilities": [
-    "pub/cafe",
     "car park",
+    "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "mountain biking"
+    "cycling"
   ]
 }

@@ -62,19 +62,23 @@
   "district": "Snape",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "40 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "woodland",
+    "garden",
+    "grassland"
   ],
   "points_of_interest": [
-    "bird of prey centre",
-    "nature trail"
+    "arboretum",
+    "lake",
+    "bird of prey and mammal centre"
   ],
   "facilities": [
-    "dog friendly"
+    "nature trail",
+    "children's trail"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

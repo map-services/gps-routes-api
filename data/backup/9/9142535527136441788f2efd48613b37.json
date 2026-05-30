@@ -83,22 +83,24 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "1 hour",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "coastal"
+    "coastal",
+    "cliff"
   ],
   "points_of_interest": [
     "lighthouse",
     "garden",
     "museum",
     "windmill",
-    "castle"
+    "waterfall",
+    "lake"
   ],
   "facilities": [
     "car park",
     "tea room"
   ],
-  "route_type": "one-way",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

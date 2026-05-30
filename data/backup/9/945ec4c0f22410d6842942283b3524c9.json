@@ -74,17 +74,20 @@
   "postcode": "CO10 9TQ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 hours",
+  "estimated_duration": "2.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "countryside"
+    "countryside",
+    "woodland",
+    "lane"
   ],
   "points_of_interest": [
-    "historical site"
+    "historical site",
+    "church"
   ],
   "facilities": [
-    "pub/cafe",
     "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

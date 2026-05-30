@@ -103,21 +103,24 @@
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "coastal"
+    "coastal",
+    "beach",
+    "cliff"
   ],
   "points_of_interest": [
+    "beach",
+    "cliff",
     "viewpoint"
   ],
   "facilities": [
     "cafe",
-    "picnic area",
     "barbeque area",
+    "picnic area",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "dog walking"
+    "cycling"
   ]
 }

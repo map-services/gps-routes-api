@@ -90,13 +90,19 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "parkland",
+    "riverside",
+    "woodland",
+    "meadow"
   ],
   "points_of_interest": [
-    "bird hide"
+    "river",
+    "lake",
+    "bird hide",
+    "arboretum"
   ],
   "facilities": [
     "visitor centre",
@@ -104,9 +110,10 @@
     "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

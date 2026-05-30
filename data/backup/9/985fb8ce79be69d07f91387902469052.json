@@ -109,13 +109,15 @@
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterside"
+    "garden",
+    "riverside"
   ],
   "points_of_interest": [
-    "garden",
     "historical site",
+    "garden",
     "viewpoint",
     "maze",
+    "fountain",
     "temple",
     "pavilion",
     "folly"
@@ -124,9 +126,8 @@
     "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

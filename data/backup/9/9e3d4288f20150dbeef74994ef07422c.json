@@ -112,21 +112,25 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
+    "beach",
+    "parkland",
     "woodland"
   ],
   "points_of_interest": [
     "harbour",
-    "quay",
-    "castle",
-    "nature reserve"
+    "beach",
+    "nature reserve",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "train station",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

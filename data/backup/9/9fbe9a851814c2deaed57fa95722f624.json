@@ -90,18 +90,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland",
     "scrub",
-    "wetland"
+    "wetland",
+    "limestone gorge"
   ],
   "points_of_interest": [
-    "historical site",
+    "nature reserve",
     "geological feature",
-    "cave"
+    "cave",
+    "historical site"
   ],
   "facilities": [
     "pub/cafe",
@@ -110,7 +112,6 @@
   "route_type": "out and back",
   "activities": [
     "walking",
-    "rock climbing",
-    "dog walking"
+    "rock climbing"
   ]
 }

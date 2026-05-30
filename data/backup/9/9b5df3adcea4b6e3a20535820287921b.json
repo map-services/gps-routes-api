@@ -81,16 +81,17 @@
   "terrain": [
     "woodland",
     "heathland",
-    "wet meadow",
-    "coastal"
+    "meadow"
   ],
   "points_of_interest": [
     "nature reserve",
-    "wildlife",
-    "viewpoint"
+    "viewpoint",
+    "wildlife park"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "cycle path"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

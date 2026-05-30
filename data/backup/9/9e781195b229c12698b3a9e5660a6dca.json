@@ -105,22 +105,25 @@
   "district": "Teignbridge",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "50 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "woodland",
+    "valley"
   ],
   "points_of_interest": [
     "waterfall",
+    "lake",
     "garden",
-    "lake"
+    "stream",
+    "bridge"
   ],
   "facilities": [
     "pub/cafe",
-    "dog friendly",
-    "play area"
+    "play area",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]
