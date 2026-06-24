@@ -50,7 +50,7 @@ jobs:
         run: docker --version
 
       - name: Cache Docker images
-        uses: actions/cache@v5
+        uses: actions/cache@v6
         with:
           path: /var/lib/docker
           key: ${{ runner.os }}-docker-${{ hashFiles('**/go.sum') }}
