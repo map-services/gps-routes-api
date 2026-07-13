@@ -21,7 +21,7 @@ type loggerBridge struct {
 	logger  *log.Logger
 }
 
-func (l *loggerBridge) Printf(format string, v ...interface{}) {
+func (l *loggerBridge) Printf(format string, v ...any) {
 	l.logger.Printf(format, v...)
 }
 

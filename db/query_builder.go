@@ -105,7 +105,7 @@ func (qb *QueryBuilder) WithParam(param any) *QueryBuilder {
 	return qb
 }
 
-func (qb *QueryBuilder) Build() (string, []interface{}) {
+func (qb *QueryBuilder) Build() (string, []any) {
 
 	if qb.criteria.Facets != nil {
 		for facet, values := range qb.criteria.Facets {

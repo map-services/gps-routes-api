@@ -40,7 +40,7 @@ func NewCachedRepository(prometheus *ginprom.Prometheus, wrapped DbRepository) *
 	}
 }
 
-func buildCacheKey(v interface{}) (string, error) {
+func buildCacheKey(v any) (string, error) {
 	jsonBytes, err := json.Marshal(v)
 	if err != nil {
 		return "", fmt.Errorf("failed to marshal struct when building cache key: %v", err)

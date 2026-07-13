@@ -23,7 +23,7 @@ type RouteMetadata struct {
 	// The main image URL associated with the route
 	HeadlineImageUrl *string `json:"headline_image_url"`
 
-	StartPosition common.GeoLoc `json:"_geoloc,omitempty"`
+	StartPosition common.GeoLoc `json:"_geoloc"`
 
 	// The time the route was generated.
 	CreatedAt time.Time `json:"created_at"`

@@ -247,7 +247,7 @@ func BenchmarkFTS5Queries(b *testing.B) {
 	_, _ = db.Exec(`CREATE VIRTUAL TABLE routes_fts USING fts5(title, description)`)
 
 	// Insert 1000 test rows
-	for i := 0; i < 1000; i++ {
+	for i := range 1000 {
 		_, _ = db.Exec(
 			`INSERT INTO routes_fts (title, description) VALUES (?, ?)`,
 			fmt.Sprintf("Route %d", i),

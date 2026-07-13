@@ -4,6 +4,7 @@ import (
 	"crypto/subtle"
 	"net/http"
 	"os"
+	"slices"
 
 	"github.com/gin-gonic/gin"
 )
@@ -22,11 +23,9 @@ func AuthMiddleware(excluded ...string) gin.HandlerFunc {
 			return
 		}
 
-		for _, path := range excluded {
-			if path == c.Request.URL.Path {
-				c.Next() // Skip authentication for this path
-				return
-			}
+		if slices.Contains(excluded, c.Request.URL.Path) {
+			c.Next() // Skip authentication for this path
+			return
 		}
 
 		clientKey := c.GetHeader("X-API-Key")
