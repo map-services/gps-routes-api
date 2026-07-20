@@ -117,12 +117,12 @@ require (
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/lib/pq v1.12.3
-	github.com/mattn/go-isatty v0.0.22 // indirect
+	github.com/mattn/go-isatty v0.0.23 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/montanaflynn/stats v0.10.0 // indirect
-	github.com/oapi-codegen/runtime v1.5.0 // indirect
+	github.com/montanaflynn/stats v0.12.2 // indirect
+	github.com/oapi-codegen/runtime v1.6.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.4.3 // indirect
 	github.com/rabbitmq/amqp091-go v1.12.0 // indirect
 	github.com/redis/go-redis/v9 v9.21.0 // indirect
