@@ -43,7 +43,7 @@ require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/distribution/reference v0.6.0 // indirect
 	github.com/docker/docker v28.5.2+incompatible // indirect
-	github.com/docker/go-connections v0.8.0 // indirect
+	github.com/docker/go-connections v0.8.1 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/ebitengine/purego v0.10.2 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
@@ -52,12 +52,12 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/goccy/go-yaml v1.19.2 // indirect
-	github.com/lufia/plan9stats v0.0.0-20260627054121-477a66015f15 // indirect
+	github.com/lufia/plan9stats v0.0.0-20260802145828-341c2f0c90b5 // indirect
 	github.com/magiconair/properties v1.18.11 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
-	github.com/moby/go-archive v0.2.1 // indirect
+	github.com/moby/go-archive v0.3.2 // indirect
 	github.com/moby/moby/api v1.55.0 // indirect
-	github.com/moby/moby/client v0.5.0 // indirect
+	github.com/moby/moby/client v0.5.1 // indirect
 	github.com/moby/patternmatcher v0.6.1 // indirect
 	github.com/moby/sys/sequential v0.7.0 // indirect
 	github.com/moby/sys/user v0.4.1 // indirect
@@ -75,7 +75,7 @@ require (
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.61.0 // indirect
-	github.com/shirou/gopsutil/v4 v4.26.6 // indirect
+	github.com/shirou/gopsutil/v4 v4.26.7 // indirect
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/tklauser/go-sysconf v0.4.0 // indirect
 	github.com/tklauser/numcpus v0.12.0 // indirect
@@ -94,7 +94,7 @@ require (
 	github.com/andybalholm/brotli v1.2.2 // indirect
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
 	github.com/bytedance/sonic v1.15.2 // indirect
-	github.com/bytedance/sonic/loader v0.5.1 // indirect
+	github.com/bytedance/sonic/loader v0.5.2 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.7 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.15 // indirect
