@@ -1,6 +1,6 @@
 module github.com/map-services/gps-routes-api
 
-go 1.26
+go 1.27
 
 require (
 	github.com/Depado/ginprom v1.8.3
