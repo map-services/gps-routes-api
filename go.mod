@@ -7,7 +7,7 @@ require (
 	github.com/JGLTechnologies/gin-rate-limit v1.5.9
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
-	github.com/gin-contrib/cors v1.7.8
+	github.com/gin-contrib/cors v1.7.9
 	github.com/gin-contrib/size v1.0.2
 	github.com/gin-gonic/gin v1.12.0
 	github.com/golang-migrate/migrate/v4 v4.20.1
