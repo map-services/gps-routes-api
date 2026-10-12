@@ -113,11 +113,13 @@ func (d *SQLiteDialect) BuildFullTextQuery(field string, placeholder string) str
 }
 
 func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	// With the Spatialite extension loaded, SQLite mirrors PostgreSQL's
-	// ST_Within / ST_MakeEnvelope spatial predicate. (Without Spatialite,
-	// spatial queries are handled at the repository layer; see
-	// db/sqlite_connect.go extension loading.)
-	return fmt.Sprintf("ST_Within(%s, ST_MakeEnvelope(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
+	// With the mod_spatialite extension loaded, SQLite mirrors PostgreSQL's
+	// ST_Within bbox predicate. libspatialite 5.x renamed PostGIS's
+	// ST_MakeEnvelope to BuildMbr(xmin, ymin, xmax, ymax, srid); the two are
+	// otherwise equivalent (both build an axis-aligned bounding box the
+	// geometry is tested against). Without Spatialite, spatial queries are
+	// handled at the repository layer; see db/sqlite_connect.go.
+	return fmt.Sprintf("ST_Within(%s, BuildMbr(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
 }
 
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {

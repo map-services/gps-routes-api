@@ -63,16 +63,27 @@ jobs:
           mkdir -p ./test-reports/
           gotestsum --junitfile=./test-reports/junit.xml --format github-actions -- -v -coverprofile=profile.cov -coverpkg=./... ./...
 
+      - name: Install libsqlite3-mod-spatialite
+        # Makes `mod_spatialite` available on the loader path so the go-sqlite3
+        # `sqlite3_spatialite` driver (Extensions: ["mod_spatialite"], see
+        # db/sqlite_connect.go) actually loads it at Ping() time. This exercises
+        # the Spatialite-on code path (BuildMbr/ST_Within) instead of NewSQLiteDB's
+        # graceful FTS5-only fallback.
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-mod-spatialite
+
       - name: Build & test SQLite (FTS5 + Spatialite)
         # go-sqlite3 is cgo, so a C toolchain (present on ubuntu-latest) + CGO are
         # required. Spatialite's load_extension is ON BY DEFAULT in go-sqlite3; the
         # `sqlite_enable_spatialite` "tag" cited in doc/SQLITE_MIGRATION_REPORT.md:380
-        # does not exist (it is silently a no-op). `mod_spatialite` is NOT installed
-        # in CI, so NewSQLiteDB runs its graceful fallback to the plain sqlite3 driver
-        # (FTS5-only) -- the Spatialite-on path is verified locally (ST_AsText works).
-        # `./tests/` is Testcontainers/Postgres-only (TestMain spawns a PostGIS
-        # container and the tests rely on a relative `data/routes.db` only under the
-        # sqlite build), so it is excluded here, else it errors on that path.
+        # does not exist (it is silently a no-op). With libsqlite3-mod-spatialite
+        # installed above, the Spatialite-on path loads here (see
+        # TestSQLiteSpatialiteSpatialFunctions) and SQLiteDialect emits BuildMbr
+        # (libspatialite 5.x's replacement for PostGIS's ST_MakeEnvelope). NewSQLiteDB
+        # still falls back gracefully to plain sqlite3 when the lib is absent, so
+        # the step stays green without it. `./tests/` is Testcontainers/Postgres-only
+        # (TestMain spawns a PostGIS container and the tests rely on a relative
+        # `data/routes.db` only under the sqlite build), so it is excluded here, else
+        # it errors on that path.
         run: |
           CGO_ENABLED=1 go build  -tags "sqlite,sqlite_fts5" ./...
           CGO_ENABLED=1 go test   -tags "sqlite,sqlite_fts5" -count=1 ./db/... ./repositories/...

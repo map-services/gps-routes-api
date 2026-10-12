@@ -231,8 +231,10 @@ func TestQueryBuilder_Build_SQLite(t *testing.T) {
 		{
 			name: "bounding box",
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			// libspatialite 5.x renamed PostGIS's ST_MakeEnvelope to BuildMbr;
+			// the PostgreSQL assertion above keeps ST_MakeEnvelope (PostGIS supports it).
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, ST_MakeEnvelope(?, ?, ?, ?, 4326))",
+				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
 				params: []any{1.9, 2.8, 3.7, 4.6},
 			},
 		},
