@@ -139,7 +139,7 @@ func (qb *QueryBuilder) Build() (string, []any) {
 	}
 
 	selectPart := qb.replaceTruncatedFields(qb.selectPart)
-	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.limit, qb.offset)
+	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit)
 	return strings.Join(filteredParts, " "), qb.params
 }
 
