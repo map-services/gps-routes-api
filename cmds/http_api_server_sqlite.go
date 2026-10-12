@@ -20,13 +20,13 @@ import (
 	hc_config "github.com/tavsec/gin-healthcheck/config"
 	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
-	"github.com/rm-hull/godx"
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/middlewares"
 	"github.com/map-services/gps-routes-api/repositories"
 	"github.com/map-services/gps-routes-api/routes"
 	"github.com/map-services/gps-routes-api/services"
 	"github.com/map-services/gps-routes-api/services/osdatahub"
+	"github.com/rm-hull/godx"
 )
 
 func NewHttpApiServer(port int) {

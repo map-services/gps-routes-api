@@ -10,8 +10,8 @@ import (
 
 	// The blank import registers the plain "sqlite3" driver; the named import
 	// exposes sqlite3.SQLiteDriver for the Spatialite-enabled driver below.
-	_ "github.com/mattn/go-sqlite3"
 	"github.com/mattn/go-sqlite3"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 // init registers a "sqlite3_spatialite" driver that enables SQLite's
@@ -48,7 +48,7 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	// error at runtime, but FTS5 works).
 	if err := db.Ping(); err != nil {
 		log.Printf("Could not load Spatialite extension (%v); continuing without it", err)
-		db.Close()
+		_ = db.Close()
 		if db, err = sql.Open("sqlite3", dsn); err != nil {
 			return nil, fmt.Errorf("opening SQLite database: %w", err)
 		}

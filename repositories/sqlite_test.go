@@ -11,11 +11,11 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/mattn/go-sqlite3"
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
