@@ -63,6 +63,20 @@ jobs:
           mkdir -p ./test-reports/
           gotestsum --junitfile=./test-reports/junit.xml --format github-actions -- -v -coverprofile=profile.cov -coverpkg=./... ./...
 
+      - name: Build & test SQLite (FTS5 + Spatialite)
+        # go-sqlite3 is cgo, so a C toolchain (present on ubuntu-latest) + CGO are
+        # required. Spatialite's load_extension is ON BY DEFAULT in go-sqlite3; the
+        # `sqlite_enable_spatialite` "tag" cited in doc/SQLITE_MIGRATION_REPORT.md:380
+        # does not exist (it is silently a no-op). `mod_spatialite` is NOT installed
+        # in CI, so NewSQLiteDB runs its graceful fallback to the plain sqlite3 driver
+        # (FTS5-only) -- the Spatialite-on path is verified locally (ST_AsText works).
+        # `./tests/` is Testcontainers/Postgres-only (TestMain spawns a PostGIS
+        # container and the tests rely on a relative `data/routes.db` only under the
+        # sqlite build), so it is excluded here, else it errors on that path.
+        run: |
+          CGO_ENABLED=1 go build  -tags "sqlite,sqlite_fts5" ./...
+          CGO_ENABLED=1 go test   -tags "sqlite,sqlite_fts5" -count=1 ./db/... ./repositories/...
+
       - name: Collect test results
         if: always()
         uses: actions/upload-artifact@v7
