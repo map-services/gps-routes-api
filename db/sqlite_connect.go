@@ -73,7 +73,9 @@ func loadSQLiteExtensions(db *sql.DB) error {
 	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe; CREATE VIRTUAL TABLE _fts5_probe USING fts5(content)"); err != nil {
 		fmt.Printf("Warning: FTS5 not available, creating schema without full-text search: %v\n", err)
 	} else {
-		db.Exec("DROP TABLE IF EXISTS _fts5_probe")
+		if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe"); err != nil {
+			fmt.Printf("Warning: could not drop FTS5 probe table: %v\n", err)
+		}
 	}
 
 	return nil

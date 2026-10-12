@@ -121,8 +121,8 @@ func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax 
 }
 
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {
-	// Simplified distance calculation without spatial functions
-	return fmt.Sprintf("(latidude - %s) * (latidude - %s) + (longitude - %s) * (longitude - %s) < (%s/111.0) * (%s/111.0)", lat, lat, lon, lon, distance, distance)
+	// Simplified distance calculation without spatial functions.
+	return fmt.Sprintf("(latitude - %s) * (latitude - %s) + (longitude - %s) * (longitude - %s) < (%s/111.0) * (%s/111.0)", lat, lat, lon, lon, distance, distance)
 }
 
 func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string {

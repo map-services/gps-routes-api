@@ -24,7 +24,7 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 	if err != nil {
 		t.Fatalf("Failed to create temp file: %v", err)
 	}
-	tmpFile.Close()
+	_ = tmpFile.Close()
 
 	config := db.SQLiteConfig{Path: tmpFile.Name()}
 	ctx := context.Background()
@@ -89,8 +89,8 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 	}
 
 	cleanup := func() {
-		testDB.Close()
-		os.Remove(tmpFile.Name())
+		_ = testDB.Close()
+		_ = os.Remove(tmpFile.Name())
 	}
 
 	return testDB, cleanup
