@@ -12,10 +12,10 @@ import (
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/models/common"
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
 )
 
 func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
@@ -43,8 +43,8 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 			title TEXT,
 			headline_image_url TEXT,
 			gpx_url TEXT,
-			_geoloc_lat REAL,
-			_geoloc_lon REAL,
+			latitude REAL,
+			longitude REAL,
 			distance_km REAL,
 			description TEXT,
 			video_url TEXT,

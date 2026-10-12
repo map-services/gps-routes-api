@@ -21,12 +21,12 @@ import (
 	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
 	"github.com/rm-hull/godx"
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/middlewares"
-	"github.com/rm-hull/gps-routes-api/repositories"
-	"github.com/rm-hull/gps-routes-api/routes"
-	"github.com/rm-hull/gps-routes-api/services"
-	"github.com/rm-hull/gps-routes-api/services/osdatahub"
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/middlewares"
+	"github.com/map-services/gps-routes-api/repositories"
+	"github.com/map-services/gps-routes-api/routes"
+	"github.com/map-services/gps-routes-api/services"
+	"github.com/map-services/gps-routes-api/services/osdatahub"
 )
 
 func NewHttpApiServer(port int) {

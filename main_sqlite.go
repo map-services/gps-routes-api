@@ -11,7 +11,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 
-	"github.com/rm-hull/gps-routes-api/cmds"
+	"github.com/map-services/gps-routes-api/cmds"
 )
 
 func main() {

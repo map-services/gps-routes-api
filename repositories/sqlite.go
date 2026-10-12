@@ -9,10 +9,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/models/common"
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
 )
 
 type SQLiteDbRepository struct {

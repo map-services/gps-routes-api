@@ -67,9 +67,13 @@ func loadSQLiteExtensions(db *sql.DB) error {
 		fmt.Printf("Warning: Could not load Spatialite extension: %v\n", err)
 	}
 
-	// FTS5 is usually built-in with go-sqlite3, but try to load if needed
-	if _, err := db.Exec("SELECT fts5(?)", "test"); err != nil {
+	// FTS5 is usually built-in with go-sqlite3 (when compiled with the
+	// sqlite_enable_fts5 tag). FTS5 is an SQLite module, not a scalar
+	// function, so probe it by creating a throwaway virtual table.
+	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe; CREATE VIRTUAL TABLE _fts5_probe USING fts5(content)"); err != nil {
 		fmt.Printf("Warning: FTS5 not available, creating schema without full-text search: %v\n", err)
+	} else {
+		db.Exec("DROP TABLE IF EXISTS _fts5_probe")
 	}
 
 	return nil
