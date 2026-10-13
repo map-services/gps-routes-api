@@ -5,6 +5,7 @@ package main
 import (
 	"fmt"
 	"log"
+	"math"
 	"os"
 	"strconv"
 
@@ -54,6 +55,17 @@ func main() {
 	migrateDataCmd.Flags().Bool("dry-run", false, "Dry run - don't actually migrate data")
 	migrateDataCmd.Flags().Int("max-records", 0, "Maximum records to migrate (0 = all)")
 
+	var importCmd = &cobra.Command{
+		Use:   "import [path]",
+		Short: "Import JSON route data from specified path into SQLite",
+		Long:  "Imports route metadata from JSON backup files at path into the SQLite database at SQLITE_DB_PATH (default data/routes.db).\nThe schema is (re)created from db/migrations/00002_sqlite_schema.sql before import. Import only writes rows; Spatialite-dependent bbox search requires Spatialite at query time.",
+		Args:  cobra.ExactArgs(1),
+		Run: func(cmd *cobra.Command, args []string) {
+			cmds.ImportData(args[0], math.MaxInt64)
+		},
+	}
+
+	rootCmd.AddCommand(importCmd)
 	rootCmd.AddCommand(apiServerCmd)
 	rootCmd.AddCommand(migrateDataCmd)
 
