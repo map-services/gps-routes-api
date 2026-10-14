@@ -324,7 +324,14 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 
 	query, params := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
-		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
+		// Exclude both NULL and empty string. PostgreSQL stores missing scalar
+		// facet values as NULL (filtered by IS NOT NULL); the SQLite JSON import
+		// path stores them as '' instead, so on SQLite we must also drop the
+		// empty-string bucket to keep facets in parity with PostgreSQL. (Array
+		// facets go through json_each; a non-empty JSON column is never == '',
+		// so this filter is a no-op there.) PostgresDbRepository keeps the
+		// plain "IS NOT NULL" since its data is NULL.
+		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> ''", facetField, facetField)).
 		WithExcludeFacets(excludeFacets...).
 		WithGroupBy("key").
 		WithOrderBy("value DESC").
