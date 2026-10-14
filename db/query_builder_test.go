@@ -147,6 +147,21 @@ func TestQueryBuilder_Build(t *testing.T) {
 			},
 		},
 		{
+			name: "with facets and pagination",
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				Facets: map[string][]string{
+					"type": {"hike"},
+				},
+			}).WithLimit(10).WithOffset(5),
+			want: Result{
+				// Facet '?' ($1) appears textually before LIMIT ($2)/OFFSET ($3);
+				// params order MUST match textual order for SQLite, and $N indices
+				// are recomputed to match, so both dialects bind correctly.
+				sql:    "SELECT * FROM routes WHERE type = ANY($1) LIMIT $2 OFFSET $3",
+				params: []any{pq.Array([]string{"hike"}), int32(10), int32(5)},
+			},
+		},
+		{
 			name: "with facets",
 			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
@@ -249,6 +264,22 @@ func TestQueryBuilder_Build_SQLite(t *testing.T) {
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
 				params: []any{1.9, 2.8, 3.7, 4.6},
+			},
+		},
+		{
+			// Regression: a facet predicate (json_each(?)) appears textually
+			// BEFORE LIMIT/OFFSET in the SQL, so for SQLite's positional '?'
+			// binding the params MUST be [facetJSON, limit, offset]. The previous
+			// implementation appended [limit, offset, facetJSON] (limit appended in
+			// WithLimit before Build() injected the facet param), which bound the
+			// LIMIT int to json_each -> 0 facet hits.
+			name: "facet filter with pagination binds params in textual order",
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				Facets: map[string][]string{"district": {"London"}},
+			}).WithLimit(24).WithOffset(0),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE district IN (SELECT value FROM json_each(?)) LIMIT ? OFFSET ?",
+				params: []any{`["London"]`, int32(24), int32(0)},
 			},
 		},
 	}

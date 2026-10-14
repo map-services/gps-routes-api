@@ -18,7 +18,9 @@ type QueryBuilder struct {
 	orderBy         string
 	groupBy         string
 	limit           string
+	limitParam      int32
 	offset          string
+	offsetParam     int32
 	truncatedFields map[string]int
 }
 
@@ -62,9 +64,11 @@ func (qb *QueryBuilder) WithOffset(offset int32) *QueryBuilder {
 		panic("unexpected: offset value already set")
 	}
 
-	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-	qb.offset = fmt.Sprintf("OFFSET %s", placeholder)
-	qb.params = append(qb.params, offset)
+	// Placeholder + param are emitted in Build() (not here) so qb.params order
+	// matches the textual order of '?' in the final SQL (WHERE ... LIMIT ...
+	// OFFSET ...). See Build()'s comment for why SQLite needs this.
+	qb.offset = "OFFSET"
+	qb.offsetParam = offset
 	return qb
 }
 
@@ -79,9 +83,8 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 		panic("unexpected: limit value already set")
 	}
 
-	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-	qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
-	qb.params = append(qb.params, limit)
+	qb.limit = "LIMIT"
+	qb.limitParam = limit
 	return qb
 }
 
@@ -131,6 +134,27 @@ func (qb *QueryBuilder) Build() (string, []any) {
 
 			qb.WithWhereClause(condition).WithParam(param)
 		}
+	}
+
+	// Append LIMIT/OFFSET placeholders + params LAST (after the WHERE/facet
+	// params above) so qb.params order matches the textual order of '?'
+	// placeholders in the final SQL (WHERE ... LIMIT ... OFFSET ...). SQLite
+	// binds '?' positionally by appearance order; the previous implementation
+	// appended these params inside WithLimit/WithOffset — i.e. BEFORE the facet
+	// params that Build() injects here — so a facet predicate like
+	// `district IN (SELECT value FROM json_each(?))` was bound to the LIMIT int
+	// while LIMIT was bound to the facet JSON array, silently yielding 0 facet
+	// hits. Postgres is unaffected ($N indices are recomputed against the final
+	// param order too, so LIMIT $N/OFFSET $M stay correct).
+	if qb.limit != "" && qb.limit == "LIMIT" {
+		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+		qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
+		qb.params = append(qb.params, qb.limitParam)
+	}
+	if qb.offset != "" && qb.offset == "OFFSET" {
+		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+		qb.offset = fmt.Sprintf("OFFSET %s", placeholder)
+		qb.params = append(qb.params, qb.offsetParam)
 	}
 
 	var whereClause string

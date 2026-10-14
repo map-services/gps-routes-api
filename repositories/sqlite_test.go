@@ -316,3 +316,61 @@ func TestSQLiteStoreNormalizesEmptyStringsToNull(t *testing.T) {
 		t.Errorf("facet bucket \"\" should be absent after normalization, got %#v", *facets)
 	}
 }
+
+// TestSQLiteFacetFilterWithPagination locks the parameter-ordering fix in
+// db/query_builder.go Build(): a facet predicate (`district IN (SELECT value
+// FROM json_each(?))`) appears textually BEFORE LIMIT/OFFSET, so SQLite's
+// positional '?' binding requires params ordered [facetJSON, limit, offset].
+// The previous implementation appended [limit, offset, facetJSON], binding the
+// LIMIT int to json_each(?) -> 0 facet hits and an empty facet sidebar when a
+// facet was combined with pagination. See the user's report:
+// {"query":"","facets":{"district":["London"]},"limit":24} -> 0 hits.
+func TestSQLiteFacetFilterWithPagination(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	for i, id := range []string{"r1", "r2"} {
+		dist := "London"
+		if i == 1 {
+			dist = "Manchester"
+		}
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R" + id,
+			Title:         id,
+			Description:   "x",
+			GpxUrl:        "http://x/g",
+			District:      strPtr(dist),
+			StartPosition: common.GeoLoc{Latitude: 1, Longitude: 2},
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+
+	criteria := &request.SearchRequest{
+		Facets: map[string][]string{"district": {"London"}},
+		Limit:  24,
+		Offset: 0,
+	}
+
+	hits, err := repo.SearchHits(ctx, criteria)
+	if err != nil {
+		t.Fatalf("SearchHits: %v", err)
+	}
+	if len(*hits) != 1 || (*hits)[0].ObjectID != "r1" {
+		t.Fatalf("expected 1 hit (r1) for district=London, got %+v", *hits)
+	}
+
+	// Sidebar facet counts must also be populated (previously empty {} because
+	// the same swapped binding zeroed out the json_each predicate).
+	facets, err := repo.FacetCounts(ctx, criteria, "district", 10, false)
+	if err != nil {
+		t.Fatalf("FacetCounts: %v", err)
+	}
+	if got := (*facets)["London"]; got != 1 {
+		t.Errorf("FacetCounts[London] = %d, want 1 (got %#v)", got, *facets)
+	}
+}
