@@ -7,6 +7,7 @@ import (
 	"database/sql"
 	"fmt"
 	"log"
+	"os"
 
 	// The blank import registers the plain "sqlite3" driver; the named import
 	// exposes sqlite3.SQLiteDriver for the Spatialite-enabled driver below.
@@ -22,8 +23,41 @@ import (
 // so the app still starts (FTS5-only; spatial predicates then error at runtime).
 func init() {
 	sql.Register("sqlite3_spatialite", &sqlite3.SQLiteDriver{
-		Extensions: []string{"mod_spatialite"},
+		Extensions: []string{spatialiteExtensionPath()},
 	})
+}
+
+// spatialiteExtensionPath resolves the loadable mod_spatialite module so it can
+// be loaded WITHOUT relying on the dynamic-loader search path. This matters on
+// macOS arm64 (Homebrew lives in /opt/homebrew/lib, which is not a default loader
+// path, and DYLD_LIBRARY_PATH is not reliably inherited by `go run`'s temp
+// binary / the VS Code Go debugger / delve). Resolution order:
+//  1. $SQLITE_SPATIALITE_PATH — explicit override (e.g. a custom build).
+//  2. first existing well-known absolute path (macOS arm64 / Intel Homebrew,
+//     Linux apt multilib / generic) — dlopen'd directly, no loader path needed.
+//  3. bare "mod_spatialite" — relies on the loader search path (e.g. CI's apt
+//     install of libsqlite3-mod-spatialite, or an explicit DYLD/LD override).
+//
+// sqlite3_load_extension accepts absolute paths, and each candidate is os.Stat'd
+// before use, so this is non-speculative: a missing library simply falls through
+// to the next option.
+func spatialiteExtensionPath() string {
+	if p := os.Getenv("SQLITE_SPATIALITE_PATH"); p != "" {
+		return p
+	}
+	candidates := []string{
+		"/opt/homebrew/lib/mod_spatialite.dylib",       // macOS arm64 Homebrew
+		"/usr/local/lib/mod_spatialite.dylib",           // macOS Intel Homebrew
+		"/usr/lib/x86_64-linux-gnu/mod_spatialite.so",   // Debian/Ubuntu multilib
+		"/usr/lib/sqlite3/mod_spatialite.so",            // Debian/Ubuntu (sqlite3-mod-spatialite)
+		"/usr/lib/mod_spatialite.so",                    // generic Linux
+	}
+	for _, c := range candidates {
+		if fi, err := os.Stat(c); err == nil && !fi.IsDir() {
+			return c
+		}
+	}
+	return "mod_spatialite"
 }
 
 type SQLiteConfig struct {
