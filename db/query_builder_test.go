@@ -142,7 +142,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 				WithLimit(10).
 				WithOffset(20),
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE name = 'test' GROUP BY name ORDER BY name DESC OFFSET $2 LIMIT $1",
+				sql:    "SELECT * FROM routes WHERE name = 'test' GROUP BY name ORDER BY name DESC LIMIT $1 OFFSET $2",
 				params: []any{int32(10), int32(20)},
 			},
 		},

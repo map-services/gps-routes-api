@@ -139,7 +139,11 @@ func (qb *QueryBuilder) Build() (string, []any) {
 	}
 
 	selectPart := qb.replaceTruncatedFields(qb.selectPart)
-	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit)
+	// NOTE: standard SQL clause order is LIMIT ... OFFSET ... — PostgreSQL
+	// also accepts the reverse, but SQLite requires LIMIT before OFFSET, so
+	// emit limit before offset. SearchHits/WithLimit+WithOffset always append
+	// params as [limit, offset], which binds correctly to LIMIT $1 OFFSET $2.
+	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.limit, qb.offset)
 	return strings.Join(filteredParts, " "), qb.params
 }
 
