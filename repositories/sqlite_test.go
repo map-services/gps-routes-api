@@ -257,3 +257,62 @@ func TestSQLiteDbRepository_CountAll(t *testing.T) {
 		t.Errorf("Expected count 3, got %d", count)
 	}
 }
+
+func strPtr(s string) *string { return &s }
+
+// TestSQLiteStoreNormalizesEmptyStringsToNull verifies Store coerces empty
+// string pointers to NULL (PostgreSQL parity), so blank scalar facet values
+// are excluded downstream by IS NOT NULL predicates. This is the data-layer
+// half of the empty-facet-bucket fix; FacetCounts_query-side "" guard (in
+// repositories/sqlite.go FacetCounts) is the defense for pre-existing data.
+func TestSQLiteStoreNormalizesEmptyStringsToNull(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	empty := ""
+	route := &domain.RouteMetadata{
+		ObjectID:      "norm-empty-1",
+		Ref:           "NE1",
+		Title:         "Blank District",
+		Description:   "x",
+		GpxUrl:        "http://x/g",
+		StartPosition: common.GeoLoc{Latitude: 1, Longitude: 2},
+		District:      &empty, // empty string -> must become NULL
+		County:        nil,    // nil -> NULL
+		Country:       strPtr("France"),
+		CreatedAt:     time.Now(),
+	}
+	if err := repo.Store(ctx, route); err != nil {
+		t.Fatalf("Store: %v", err)
+	}
+
+	var district sql.NullString
+	if err := testDB.QueryRowContext(ctx,
+		"SELECT district FROM routes WHERE object_id = ?", "norm-empty-1").Scan(&district); err != nil {
+		t.Fatalf("scan district: %v", err)
+	}
+	if district.Valid {
+		t.Errorf("district should be NULL after Store normalization, got %q", district.String)
+	}
+
+	var county sql.NullString
+	if err := testDB.QueryRowContext(ctx,
+		"SELECT county FROM routes WHERE object_id = ?", "norm-empty-1").Scan(&county); err != nil {
+		t.Fatalf("scan county: %v", err)
+	}
+	if county.Valid {
+		t.Errorf("county should be NULL, got %q", county.String)
+	}
+
+	// The empty district must not surface as a "" facet bucket. (Test schema has
+	// no routes_fts, so this exercises the pure-scalar FacetCounts path.)
+	facets, err := repo.FacetCounts(ctx, &request.SearchRequest{}, "district", 10, false)
+	if err != nil {
+		t.Fatalf("FacetCounts: %v", err)
+	}
+	if _, hasEmpty := (*facets)[""]; hasEmpty {
+		t.Errorf("facet bucket \"\" should be absent after normalization, got %#v", *facets)
+	}
+}

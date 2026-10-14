@@ -25,6 +25,19 @@ func NewSQLiteRouteRepository(db *sql.DB) *SQLiteDbRepository {
 	return &SQLiteDbRepository{db: db}
 }
 
+// nz returns nil for an empty-string pointer so nullable scalar columns store
+// NULL (not ”) when populated via the SQLite import path. PostgreSQL stores
+// missing values as NULL, so this keeps fresh SQLite imports byte-for-byte
+// consistent with Postgres (whose IS NOT NULL facet/count predicates then
+// exclude the value). The query side additionally guards against ” in
+// FacetCounts for databases that already contain empty strings.
+func nz(s *string) *string {
+	if s == nil || *s == "" {
+		return nil
+	}
+	return s
+}
+
 func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {
 	// Begin transaction
 	tx, err := repo.db.BeginTx(ctx, nil)
@@ -54,12 +67,12 @@ func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMe
 			state, country, estimated_duration, difficulty, terrain,
 			points_of_interest, facilities, route_type, activities
 		) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl,
+		route.ObjectID, route.CreatedAt, route.Ref, route.Title, nz(route.HeadlineImageUrl),
 		route.GpxUrl, route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm,
-		route.Description, route.VideoUrl, route.DisplayAddress, route.Postcode, route.District,
-		route.County, route.Region, route.State, route.Country, route.EstimatedDuration,
-		route.Difficulty, string(terrainJSON), string(pointsOfInterestJSON), string(facilitiesJSON),
-		route.RouteType, string(activitiesJSON))
+		route.Description, nz(route.VideoUrl), nz(route.DisplayAddress), nz(route.Postcode), nz(route.District),
+		nz(route.County), nz(route.Region), nz(route.State), nz(route.Country), nz(route.EstimatedDuration),
+		nz(route.Difficulty), string(terrainJSON), string(pointsOfInterestJSON), string(facilitiesJSON),
+		nz(route.RouteType), string(activitiesJSON))
 	if err != nil {
 		return fmt.Errorf("inserting route: %w", err)
 	}
