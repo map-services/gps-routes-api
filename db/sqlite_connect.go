@@ -46,11 +46,11 @@ func spatialiteExtensionPath() string {
 		return p
 	}
 	candidates := []string{
-		"/opt/homebrew/lib/mod_spatialite.dylib",       // macOS arm64 Homebrew
-		"/usr/local/lib/mod_spatialite.dylib",           // macOS Intel Homebrew
-		"/usr/lib/x86_64-linux-gnu/mod_spatialite.so",   // Debian/Ubuntu multilib
-		"/usr/lib/sqlite3/mod_spatialite.so",            // Debian/Ubuntu (sqlite3-mod-spatialite)
-		"/usr/lib/mod_spatialite.so",                    // generic Linux
+		"/opt/homebrew/lib/mod_spatialite.dylib",      // macOS arm64 Homebrew
+		"/usr/local/lib/mod_spatialite.dylib",         // macOS Intel Homebrew
+		"/usr/lib/x86_64-linux-gnu/mod_spatialite.so", // Debian/Ubuntu multilib
+		"/usr/lib/sqlite3/mod_spatialite.so",          // Debian/Ubuntu (sqlite3-mod-spatialite)
+		"/usr/lib/mod_spatialite.so",                  // generic Linux
 	}
 	for _, c := range candidates {
 		if fi, err := os.Stat(c); err == nil && !fi.IsDir() {

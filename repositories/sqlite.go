@@ -233,6 +233,13 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 
 func (repo *SQLiteDbRepository) CountAll(ctx context.Context, criteria *request.SearchRequest) (int64, error) {
 	selectPart := "SELECT COUNT(*) FROM routes"
+	// When a full-text query is present, applyWhereConditions appends a
+	// "routes_fts MATCH ?" WHERE clause; routes_fts is a separate FTS5 virtual
+	// table, so it must be joined into scope (otherwise SQLite reports
+	// "no such column: routes_fts"). Mirrors SearchHits' join below.
+	if criteria.Query != "" {
+		selectPart += " JOIN routes_fts ON routes.rowid = routes_fts.rowid"
+	}
 	qb := db.NewQueryBuilder(&db.SQLiteDialect{}, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...)
 
@@ -307,6 +314,13 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 
 	dialect := &db.SQLiteDialect{}
 	selectPart := dialect.BuildFacetQuery(facetField, unnest)
+	// routes_fts is a separate FTS5 virtual table; when a full-text query is
+	// active, applyWhereConditions adds "routes_fts MATCH ?" to the WHERE, so the
+	// table must be joined into scope here (mirrors SearchHits). Without this,
+	// SQLite errors "no such column: routes_fts" on facet search-by-text.
+	if criteria.Query != "" {
+		selectPart += " JOIN routes_fts ON routes.rowid = routes_fts.rowid"
+	}
 
 	query, params := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
