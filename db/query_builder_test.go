@@ -229,6 +229,19 @@ func TestQueryBuilder_Build_SQLite(t *testing.T) {
 			},
 		},
 		{
+			// FTS5 bm25() is negative (more negative = more relevant); the repo
+			// appends " DESC", so BuildFTSSort negates to keep DESC == best-first.
+			// Column weights (title 1.0 / address 0.4 / description 0.1) mirror
+			// PostgreSQL's weighted search_vector so title matches dominate.
+			name: "full text sort uses weighted bm25 (best-first)",
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}).
+				WithOrderBy((&SQLiteDialect{}).BuildFTSSort("routes_fts", "?") + " DESC"),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ? ORDER BY -bm25(routes_fts, 1.0, 0.4, 0.1) DESC",
+				params: []any{"test*"},
+			},
+		},
+		{
 			name: "bounding box",
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
 			// libspatialite 5.x renamed PostGIS's ST_MakeEnvelope to BuildMbr;

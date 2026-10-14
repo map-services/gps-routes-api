@@ -133,7 +133,16 @@ func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string
 }
 
 func (d *SQLiteDialect) BuildFTSSort(field string, placeholder string) string {
-	return "rank"
+	// SQLite FTS5 relevancy: order by bm25 so the most relevant row comes first.
+	// bm25() returns a NEGATIVE score (more negative = more relevant) and
+	// SearchHits appends " DESC", so we negate to flip direction:
+	//   ORDER BY -bm25(...) DESC  <=>  most-relevant-first.
+	// Column weights title=1.0 (A), display_address=0.4 (B), description=0.1 (C)
+	// mirror PostgreSQL's weighted search_vector, so a query term in the TITLE
+	// outranks the same term appearing only in (longer) description/address text.
+	// (Using bare "rank" / ORDER BY rank DESC previously inverted this — see
+	// TestSQLiteFTSOrdering.)
+	return "-bm25(routes_fts, 1.0, 0.4, 0.1)"
 }
 
 func (d *SQLiteDialect) BuildFacetQuery(facetField string, unnest bool) string {
