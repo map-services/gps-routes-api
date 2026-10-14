@@ -7,6 +7,7 @@ import (
 	"database/sql"
 	"fmt"
 	"os"
+	"strings"
 	"sync"
 	"testing"
 	"time"
@@ -45,6 +46,7 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 			gpx_url TEXT,
 			latitude REAL,
 			longitude REAL,
+			_geoloc BLOB,
 			distance_km REAL,
 			description TEXT,
 			video_url TEXT,
@@ -372,5 +374,97 @@ func TestSQLiteFacetFilterWithPagination(t *testing.T) {
 	}
 	if got := (*facets)["London"]; got != 1 {
 		t.Errorf("FacetCounts[London] = %d, want 1 (got %#v)", got, *facets)
+	}
+}
+
+// TestSQLiteStorePopulatesGeolocLockingBbox is the regression test for
+// "bbox matches return empty but do not error". It asserts the FULL stack:
+// Store writes a Spatialite geometry BLOB into _geoloc, then SearchHits'
+// `ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))` predicate (positional ?
+// binding) returns ONLY routes whose start position is inside the box.
+// Requires mod_spatialite; skipped otherwise (FTS5-only fallback stores _geoloc
+// as NULL and bbox predicates are documented as spatialite-only).
+func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	if !repo.spatialite {
+		t.Skip("mod_spatialite not loadable; bbox predicates require it")
+	}
+
+	mustStore := func(id string, lat, lon float64) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: lat, Longitude: lon},
+			DistanceKm:    1,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("london", 51.5074, -0.1278) // London
+	mustStore("nyc", 40.7128, -74.0060)   // New York
+	mustStore("edin", 55.9533, -3.1883)   // Edinburgh (north of London box)
+
+	// Sanity: _geoloc must now hold a real Spatialite geometry (not NULL).
+	for _, id := range []string{"london", "nyc", "edin"} {
+		var wkt sql.NullString
+		if err := testDB.QueryRowContext(ctx,
+			`SELECT ST_AsText(_geoloc) FROM routes WHERE object_id = ?`, id).Scan(&wkt); err != nil {
+			t.Fatalf("ST_AsText: %v", err)
+		}
+		if !wkt.Valid || !strings.HasPrefix(wkt.String, "POINT") {
+			t.Errorf("_geoloc[%s] = %q (want POINT... geometry)", id, wkt.String)
+		}
+	}
+
+	// Box around London only: [lngMin, latMin, lngMax, latMax]
+	londonBox := []float64{-0.2, 51.4, -0.1, 51.6}
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: londonBox, Limit: 10})
+	if err != nil {
+		t.Fatalf("SearchHits London box: %v", err)
+	}
+	ids := make([]string, len(*hits))
+	for i, h := range *hits {
+		ids[i] = h.ObjectID
+	}
+	if len(ids) != 1 || ids[0] != "london" {
+		t.Errorf("London box hits = %v, want [london]", ids)
+	}
+
+	cnt, err := repo.CountAll(ctx, &request.SearchRequest{BoundingBox: londonBox})
+	if err != nil {
+		t.Fatalf("CountAll London box: %v", err)
+	}
+	if cnt != 1 {
+		t.Errorf("CountAll London box = %d, want 1", cnt)
+	}
+
+	// Larger box spanning London + Edinburgh (both north/west of equator, but NYC
+	// at lon -74 is well west of -3, so excluded).
+	ukBox := []float64{-3.5, 51.0, 2.0, 57.0}
+	hits2, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: ukBox, Limit: 10})
+	if err != nil {
+		t.Fatalf("SearchHits UK box: %v", err)
+	}
+	if len(*hits2) != 2 {
+		t.Errorf("UK box hits = %d, want 2 (london+edin)", len(*hits2))
+	}
+
+	// Box covering none of the points.
+	farBox := []float64{10, 60, 12, 62}
+	hits3, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: farBox, Limit: 10})
+	if err != nil {
+		t.Fatalf("SearchHits far box: %v", err)
+	}
+	if len(*hits3) != 0 {
+		t.Errorf("far box hits = %d, want 0", len(*hits3))
 	}
 }
