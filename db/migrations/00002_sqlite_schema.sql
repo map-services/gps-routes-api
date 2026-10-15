@@ -1,5 +1,4 @@
 -- SQLite3 Schema for gps-routes-api
--- Equivalent to PostgreSQL schema but using SQLite-compatible types and extensions
 -- Created: 12 April 2026
 
 -- Enable required features
@@ -11,9 +10,9 @@ PRAGMA journal_mode = WAL;
 -- SELECT load_extension('fts5');
 
 -- Main routes table
--- Changes from PostgreSQL:
+-- Changes from the original schema:
 -- - TEXT[] → JSON (terrain, activities, facilities, points_of_interest)
--- - GEOMETRY(Point, 4326) → BLOB (for WKB storage with Spatialite) or store lat/lng separately
+-- - GEOMETRY(Point, 4326) → BLOB (WKB geometry with Spatialite)
 -- - TSVECTOR → Separate FTS5 virtual table (routes_fts)
 CREATE TABLE routes (
     object_id TEXT PRIMARY KEY,
@@ -69,7 +68,7 @@ CREATE INDEX idx_routes_latitude ON routes (latitude) WHERE latitude IS NOT NULL
 CREATE INDEX idx_routes_longitude ON routes (longitude) WHERE longitude IS NOT NULL;
 
 -- Full-text search virtual table (FTS5)
--- Maps to: PostgreSQL search_vector TSVECTOR with weighted columns
+-- Maps to: the original TSVECTOR search vector with weighted columns
 CREATE VIRTUAL TABLE routes_fts USING fts5(
     title,           -- Weight A (highest relevance)
     display_address, -- Weight B (medium)
@@ -94,7 +93,7 @@ CREATE TRIGGER routes_fts_delete AFTER DELETE ON routes BEGIN
     DELETE FROM routes_fts WHERE rowid = OLD.rowid;
 END;
 
--- Related tables (same structure as PostgreSQL, but adapted)
+-- Related tables (same structure, but adapted)
 CREATE TABLE nearby (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     route_object_id TEXT NOT NULL,

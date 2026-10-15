@@ -9,9 +9,8 @@ import (
 	"github.com/map-services/gps-routes-api/models/domain"
 )
 
-// Shared helpers used by the PostgreSQL (!sqlite) and SQLite (sqlite) ImportData
-// implementations. Both build-tag variants call cmds.ImportData(path, maxRecords);
-// the helpers live here (untagged) so neither variant redefines them.
+// Shared helpers used by the ImportData implementation.
+// cmds.ImportData(path, maxRecords) calls these helpers directly.
 
 func isRunningInDocker() bool {
 	_, err := os.Stat("/.dockerenv")

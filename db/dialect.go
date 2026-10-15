@@ -4,8 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-
-	"github.com/lib/pq"
 )
 
 type Dialect interface {
@@ -23,68 +21,9 @@ type Dialect interface {
 	PrepareParam(param any) any
 }
 
-type PostgreSQLDialect struct{}
-
-func (d *PostgreSQLDialect) FormatParam(i int) string {
-	return fmt.Sprintf("$%d", i)
-}
-
-func (d *PostgreSQLDialect) BuildArrayOverlapQuery(field string, placeholder string) string {
-	return fmt.Sprintf("%s && %s::TEXT[]", field, placeholder)
-}
-
-func (d *PostgreSQLDialect) BuildAnyQuery(field string, placeholder string) string {
-	return fmt.Sprintf("%s = ANY(%s)", field, placeholder)
-}
-
-func (d *PostgreSQLDialect) BuildFullTextQuery(field string, placeholder string) string {
-	return fmt.Sprintf("%s @@ to_tsquery(%s)", field, placeholder)
-}
-
-func (d *PostgreSQLDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	return fmt.Sprintf("ST_Within(%s, ST_MakeEnvelope(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
-}
-
-func (d *PostgreSQLDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {
-	return fmt.Sprintf("ST_DWithin(ST_Transform(%s, 3857), ST_Transform(ST_SetSRID(ST_Point(%s, %s), 4326), 3857), %s)", field, lon, lat, distance)
-}
-
-func (d *PostgreSQLDialect) BuildDistanceSort(field string, lon, lat float64) string {
-	return fmt.Sprintf("%s <-> ST_SetSRID(ST_Point(%f, %f), 4326)", field, lon, lat)
-}
-
-func (d *PostgreSQLDialect) BuildFTSSort(field string, placeholder string) string {
-	return fmt.Sprintf("ts_rank_cd(%s, to_tsquery(%s), 32)", field, placeholder)
-}
-
-func (d *PostgreSQLDialect) BuildFacetQuery(facetField string, unnest bool) string {
-	if unnest {
-		return fmt.Sprintf("SELECT UNNEST(%s) AS key, COUNT(*) AS value FROM routes", facetField)
-	}
-	return fmt.Sprintf("SELECT %s AS key, COUNT(*) AS value FROM routes", facetField)
-}
-
-func (d *PostgreSQLDialect) BuildPrefixQuery(query string) string {
-	words := strings.Split(query, " ")
-	for i, word := range words {
-		words[i] = word + ":*"
-	}
-	return strings.Join(words, " & ")
-}
-
-func (d *PostgreSQLDialect) BuildTruncateQuery(fieldName string, maxLength int) string {
-	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
-		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
-}
-
-func (d *PostgreSQLDialect) PrepareParam(param any) any {
-	// For Postgres, arrays must be wrapped with pq.Array
-	if slice, ok := param.([]string); ok {
-		return pq.Array(slice)
-	}
-	return param
-}
-
+// SQLiteDialect implements the Dialect interface for SQLite.
+// It uses FTS5 for full-text search, Spatialite for geometry, and JSON1 for
+// array operations.
 type SQLiteDialect struct{}
 
 func (d *SQLiteDialect) FormatParam(i int) string {
@@ -92,10 +31,8 @@ func (d *SQLiteDialect) FormatParam(i int) string {
 }
 
 func (d *SQLiteDialect) BuildArrayOverlapQuery(field string, placeholder string) string {
-	// For SQLite, we assume arrays are stored as JSON.
-	// We use a subquery to check if any element in the JSON array matches any element in the provided array.
-	// Since we can't easily pass a JSON array as a parameter and use it in IN clause without json_each,
-	// we assume the placeholder will contain a JSON array string.
+	// For SQLite, arrays are stored as JSON. Check if any element in the JSON
+	// array matches any element in the provided JSON array parameter.
 	return fmt.Sprintf("EXISTS (SELECT 1 FROM json_each(%s) WHERE value IN (SELECT value FROM json_each(%s)))", field, placeholder)
 }
 
@@ -104,21 +41,17 @@ func (d *SQLiteDialect) BuildAnyQuery(field string, placeholder string) string {
 }
 
 func (d *SQLiteDialect) BuildFullTextQuery(field string, placeholder string) string {
-	// In SQLite FTS5, we usually have a separate virtual table.
-	// However, to keep it simple and compatible with the existing QueryBuilder,
-	// we might need to adjust how we join with the FTS table.
-	// For now, let's assume 'routes_fts' is the FTS table and it's joined or handled.
-	// The plan says: "Both use fts_table MATCH query"
+	// FTS5 full-text search against the routes_fts virtual table. The field
+	// parameter is ignored — FTS5 always matches against the whole rowid-indexed
+	// table (joined to routes on rowid in the repository layer).
 	return fmt.Sprintf("routes_fts MATCH %s", placeholder)
 }
 
 func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	// With the mod_spatialite extension loaded, SQLite mirrors PostgreSQL's
-	// ST_Within bbox predicate. libspatialite 5.x renamed PostGIS's
-	// ST_MakeEnvelope to BuildMbr(xmin, ymin, xmax, ymax, srid); the two are
-	// otherwise equivalent (both build an axis-aligned bounding box the
-	// geometry is tested against). Without Spatialite, spatial queries are
-	// handled at the repository layer; see db/sqlite_connect.go.
+	// With the mod_spatialite extension loaded, SQLite provides ST_Within and
+	// BuildMbr(xmin, ymin, xmax, ymax, srid) for constructing axis-aligned
+	// bounding boxes. Without Spatialite, spatial queries are handled at the
+	// repository layer; see db/sqlite_connect.go.
 	return fmt.Sprintf("ST_Within(%s, BuildMbr(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
 }
 
@@ -133,15 +66,6 @@ func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string
 }
 
 func (d *SQLiteDialect) BuildFTSSort(field string, placeholder string) string {
-	// SQLite FTS5 relevancy: order by bm25 so the most relevant row comes first.
-	// bm25() returns a NEGATIVE score (more negative = more relevant) and
-	// SearchHits appends " DESC", so we negate to flip direction:
-	//   ORDER BY -bm25(...) DESC  <=>  most-relevant-first.
-	// Column weights title=1.0 (A), display_address=0.4 (B), description=0.1 (C)
-	// mirror PostgreSQL's weighted search_vector, so a query term in the TITLE
-	// outranks the same term appearing only in (longer) description/address text.
-	// (Using bare "rank" / ORDER BY rank DESC previously inverted this — see
-	// TestSQLiteFTSOrdering.)
 	return "-bm25(routes_fts, 1.0, 0.4, 0.1)"
 }
 
@@ -154,7 +78,6 @@ func (d *SQLiteDialect) BuildFacetQuery(facetField string, unnest bool) string {
 
 func (d *SQLiteDialect) BuildPrefixQuery(query string) string {
 	// FTS5 prefix search uses '*' at the end of words.
-	// We should probably just pass the query through and let FTS5 handle it or format it.
 	words := strings.Split(query, " ")
 	for i, word := range words {
 		words[i] = word + "*"

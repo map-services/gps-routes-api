@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package db
 
 import (
@@ -144,7 +142,11 @@ func loadSQLiteExtensions(db *sql.DB) error {
 }
 
 func SQLiteConfigFromEnv() SQLiteConfig {
+	dbPath := os.Getenv("SQLITE_DB_PATH")
+	if dbPath == "" {
+		dbPath = "data/routes.db"
+	}
 	return SQLiteConfig{
-		Path: getEnvOrDefault("SQLITE_DB_PATH", "data/routes.db"),
+		Path: dbPath,
 	}
 }

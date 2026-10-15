@@ -1,5 +1,3 @@
-//go:build !sqlite
-
 package cmds
 
 import (
@@ -17,25 +15,28 @@ import (
 	"github.com/schollz/progressbar/v3"
 )
 
+// GenerateSitemap writes sitemap.xml from the SQLite database.
 func GenerateSitemap(host string) {
-
 	godx.GitVersion()
 	godx.EnvironmentVars()
 	godx.UserInfo()
 
-	dbConfig := db.ConfigFromEnv()
+	config := db.SQLiteConfigFromEnv()
 	ctx := context.Background()
-	pool, err := db.NewDBPool(ctx, dbConfig)
-	if err != nil {
-		log.Fatalf("Failed to create connection pool: %v", err)
-	}
-	defer pool.Close()
 
-	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	routes, err := pg.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
+	sqlDB, err := db.NewSQLiteDB(ctx, config)
+	if err != nil {
+		log.Fatalf("failed to open SQLite database: %v", err)
+	}
+	defer func() { _ = sqlDB.Close() }()
+
+	repo := repositories.NewSQLiteRouteRepository(sqlDB)
+
+	routes, err := repo.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
 	if err != nil {
 		log.Fatalf("Failed to get routes: %v", err)
 	}
+
 	sm := stm.NewSitemap(1)
 	sm.SetDefaultHost(host)
 	sm.SetPretty(true)
@@ -45,25 +46,26 @@ func GenerateSitemap(host string) {
 	now := time.Now().Format("2006-01-02")
 	bar := progressbar.Default(int64(len(*routes)))
 	for _, route := range *routes {
-		url := stm.URL{
+		entry := stm.URL{
 			{"loc", url.QueryEscape(route.Ref)},
 			{"lastmod", now},
 		}
 
 		if route.HeadlineImageUrl != nil {
-			url = append(url, stm.URL{
+			entry = append(entry, stm.URL{
 				{"image", stm.URL{
 					{"loc", *route.HeadlineImageUrl},
 				}},
 			}...)
 		}
-		sm.Add(url)
+
+		sm.Add(entry)
 		if err := bar.Add(1); err != nil {
 			log.Fatalf("issue with progress bar: %v", err)
 		}
 	}
 
-	// Write sitemap to file
+	// Write sitemap to file (relative to the process CWD, matching sitemap.go).
 	f, err := os.Create("sitemap.xml")
 	if err != nil {
 		log.Fatalf("failed to create sitemap file: %v", err)

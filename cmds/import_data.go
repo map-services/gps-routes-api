@@ -1,5 +1,3 @@
-//go:build !sqlite
-
 package cmds
 
 import (
@@ -13,34 +11,41 @@ import (
 	"github.com/schollz/progressbar/v3"
 )
 
-// ImportData walks JSON backup files under path and stores them through the
-// PostgreSQL repository. The SQLite counterpart lives in import_data_sqlite.go;
-// both are selected by build tag so the CLI entry points can both call
-// cmds.ImportData(path, maxRecords).
+// ImportData loads route metadata from JSON backup files at path into a SQLite
+// database (path from SQLITE_DB_PATH env, default data/routes.db).
+//
+// The SQLite schema is (re)created from db/migrations/00002_sqlite_schema.sql
+// (via setupSQLiteDB) before import. Import only INSERTs routes/nearby/images/details
+// and does not require Spatialite; the spatial bbox predicates (SQLiteDialect
+// -> BuildMbr) require Spatialite at query time.
 func ImportData(path string, maxRecords int) {
 	godx.GitVersion()
 	godx.EnvironmentVars()
 	godx.UserInfo()
 
-	config := db.ConfigFromEnv()
+	config := db.SQLiteConfigFromEnv()
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
 
-	pool, err := db.NewDBPool(ctx, config)
-	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
+	if err := setupSQLiteDB(config.Path, false); err != nil {
+		log.Fatalf("failed to initialise SQLite schema: %v", err)
 	}
-	defer pool.Close()
 
-	repo := repositories.NewPostgresRouteRepository(pool, config.Schema)
+	sqlDB, err := db.NewSQLiteDB(ctx, config)
+	if err != nil {
+		log.Fatalf("failed to open SQLite database: %v", err)
+	}
+	defer func() { _ = sqlDB.Close() }()
+
+	repo := repositories.NewSQLiteRouteRepository(sqlDB)
 
 	files, err := walkFiles(path, maxRecords)
 	if err != nil {
 		log.Fatalf("failed to import data: %v", err)
 	}
 
-	isDocker := isRunningInDocker()
 	totalRecords := int64(len(files))
+	isDocker := isRunningInDocker()
 	var bar *progressbar.ProgressBar
 	if isDocker {
 		log.Println("Detected likely running inside docker container")
@@ -58,8 +63,7 @@ func ImportData(path string, maxRecords int) {
 			log.Fatalf("failed to load file: %s: %v", file, err)
 		}
 
-		err = repo.Store(ctx, data)
-		if err != nil {
+		if err := repo.Store(ctx, data); err != nil {
 			log.Fatalf("failed to store objectID: %s: %v", data.ObjectID, err)
 		}
 
@@ -69,6 +73,8 @@ func ImportData(path string, maxRecords int) {
 	}
 
 	if isDocker {
-		log.Printf("Completed: imported %d records\n", totalRecords)
+		log.Printf("Completed: imported %d records into SQLite at %s", totalRecords, config.Path)
+	} else {
+		log.Printf("Imported %d records into SQLite at %s", totalRecords, config.Path)
 	}
 }

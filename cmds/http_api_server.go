@@ -1,5 +1,3 @@
-//go:build !sqlite
-
 package cmds
 
 import (
@@ -15,7 +13,6 @@ import (
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
-	"github.com/jackc/pgx/v5/stdlib"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
@@ -79,30 +76,28 @@ func NewHttpApiServer(port int) {
 		rateLimiter,
 	)
 
-	// PostgreSQL setup
-	dbConfig := db.ConfigFromEnv()
-	pool, err := db.NewDBPool(ctx, dbConfig)
+	// SQLite setup
+	sqliteConfig := db.SQLiteConfigFromEnv()
+	sqliteDB, err := db.NewSQLiteDB(ctx, sqliteConfig)
 	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
+		log.Fatalf("failed to create SQLite database: %v", err)
 	}
-	defer pool.Close()
-
-	db := stdlib.OpenDB(*pool.Config().ConnConfig)
 	defer func() {
-		if err := db.Close(); err != nil {
-			log.Printf("failed to close database connection: %v", err)
+		if err := sqliteDB.Close(); err != nil {
+			log.Printf("failed to close SQLite database: %v", err)
 		}
 	}()
+
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
-		checks.SqlCheck{Sql: db},
+		checks.SqlCheck{Sql: sqliteDB},
 	})
 	if err != nil {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
 
 	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
-	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	repo := repositories.NewCachedRepository(prometheus, pg)
+	// repo := repositories.NewCachedRepository(prometheus, repositories.NewSQLiteRouteRepository(sqliteDB))
+	repo := repositories.NewSQLiteRouteRepository(sqliteDB)
 	service := services.NewRoutesService(repo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
