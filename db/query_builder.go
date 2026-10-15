@@ -208,14 +208,42 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 	}
 
 	if qb.criteria.BoundingBox != nil {
-		p1 := qb.dialect.FormatParam(len(qb.params) + 1)
-		p2 := qb.dialect.FormatParam(len(qb.params) + 2)
-		p3 := qb.dialect.FormatParam(len(qb.params) + 3)
-		p4 := qb.dialect.FormatParam(len(qb.params) + 4)
+		if _, ok := qb.dialect.(*SQLiteDialect); ok {
+			// SQLite bbox optimisation: a lat/lng range pre-filter -- seekable via
+			// the idx_routes_latitude / idx_routes_longitude B-tree indexes -- is
+			// emitted immediately before the precise ST_Within(BuildMbr(...))
+			// spatial test. For point geometries the rectangle range is exactly
+			// equivalent to the MBR, so this never changes results -- it only lets
+			// SQLite narrow to the bbox via index range scans instead of a full
+			// table scan before the (Spatialite-gated) geometry check. boundingBox
+			// is [lngMin, latMin, lngMax, latMax].
+			b := qb.criteria.BoundingBox
+			base := len(qb.params)
+			latMin := qb.dialect.FormatParam(base + 1)
+			latMax := qb.dialect.FormatParam(base + 2)
+			lngMin := qb.dialect.FormatParam(base + 3)
+			lngMax := qb.dialect.FormatParam(base + 4)
+			spatial := qb.dialect.BuildSTWithinQuery("_geoloc",
+				qb.dialect.FormatParam(base+5), qb.dialect.FormatParam(base+6),
+				qb.dialect.FormatParam(base+7), qb.dialect.FormatParam(base+8))
+			// The textual '?' order below MUST match the param append order:
+			// latMin, latMax, lngMin, lngMax, then BuildMbr(xmin,ymin,xmax,ymax)
+			// = lngMin, latMin, lngMax, latMax.
+			qb.WithWhereClause(fmt.Sprintf(
+				"latitude BETWEEN %s AND %s AND longitude BETWEEN %s AND %s AND %s",
+				latMin, latMax, lngMin, lngMax, spatial))
+			qb.params = append(qb.params,
+				b[1], b[3], b[0], b[2], b[0], b[1], b[2], b[3])
+		} else {
+			p1 := qb.dialect.FormatParam(len(qb.params) + 1)
+			p2 := qb.dialect.FormatParam(len(qb.params) + 2)
+			p3 := qb.dialect.FormatParam(len(qb.params) + 3)
+			p4 := qb.dialect.FormatParam(len(qb.params) + 4)
 
-		qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc", p1, p2, p3, p4))
-		for _, value := range qb.criteria.BoundingBox {
-			qb.params = append(qb.params, value)
+			qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc", p1, p2, p3, p4))
+			for _, value := range qb.criteria.BoundingBox {
+				qb.params = append(qb.params, value)
+			}
 		}
 	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
 		p1 := qb.dialect.FormatParam(len(qb.params) + 1)

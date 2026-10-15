@@ -19,7 +19,8 @@
             "request": "launch",
             "mode": "auto",
             "program": "main.go",
-            "args": ["import", "./data/backup"]
+            "args": ["import", "./data/backup"],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Generate sitemap",
@@ -30,7 +31,8 @@
             "args": [
                 "sitemap",
                 "https://www.destructuring-bind.org/gps-routes/"
-            ]
+            ],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Ping Database",
@@ -38,7 +40,8 @@
             "request": "launch",
             "mode": "auto",
             "program": "main.go",
-            "args": ["ping"]
+            "args": ["ping"],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Run Migrations [UP]",
@@ -46,7 +49,8 @@
             "request": "launch",
             "mode": "auto",
             "program": "main.go",
-            "args": ["migration", "up", "db/migrations"]
+            "args": ["migration", "up", "db/migrations"],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Run Migrations [DOWN]",
@@ -54,7 +58,8 @@
             "request": "launch",
             "mode": "auto",
             "program": "main.go",
-            "args": ["migration", "down", "db/migrations"]
+            "args": ["migration", "down", "db/migrations"],
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Migrate PostgreSQL → SQLite (Dry-run)",
@@ -70,7 +75,7 @@
                 "--max-records",
                 "1000"
             ],
-            "buildFlags": "-tags=sqlite_fts5"
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
         {
             "name": "Migrate PostgreSQL → SQLite (Full)",
@@ -85,7 +90,7 @@
                 "--max-records",
                 "100000"
             ],
-            "buildFlags": "-tags=sqlite_fts5"
+            "buildFlags": "-tags=sqlite,sqlite_fts5"
         }
     ]
 }

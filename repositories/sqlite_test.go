@@ -380,8 +380,10 @@ func TestSQLiteFacetFilterWithPagination(t *testing.T) {
 // TestSQLiteStorePopulatesGeolocLockingBbox is the regression test for
 // "bbox matches return empty but do not error". It asserts the FULL stack:
 // Store writes a Spatialite geometry BLOB into _geoloc, then SearchHits'
-// `ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))` predicate (positional ?
-// binding) returns ONLY routes whose start position is inside the box.
+// `latitude BETWEEN ? AND ? AND longitude BETWEEN ? AND ? AND ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))`
+// predicate (positional ? binding) returns ONLY routes whose start position
+// is inside the box — the lat/lng range is the indexable pre-filter, the
+// ST_Within(BuildMbr) is the precise spatial confirmation.
 // Requires mod_spatialite; skipped otherwise (FTS5-only fallback stores _geoloc
 // as NULL and bbox predicates are documented as spatialite-only).
 func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
