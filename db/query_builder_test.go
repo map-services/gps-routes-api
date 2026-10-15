@@ -259,11 +259,17 @@ func TestQueryBuilder_Build_SQLite(t *testing.T) {
 		{
 			name: "bounding box",
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
-			// libspatialite 5.x renamed PostGIS's ST_MakeEnvelope to BuildMbr;
-			// the PostgreSQL assertion above keeps ST_MakeEnvelope (PostGIS supports it).
+			// SQLite emits a lat/lng range pre-filter (seekable via the
+			// idx_routes_latitude / idx_routes_longitude B-tree indexes) ahead of
+			// the precise ST_Within(BuildMbr(...)) spatial test. boundingBox is
+			// [lngMin, latMin, lngMax, latMax] = {1.9, 2.8, 3.7, 4.6}, so the
+			// positional '?' values follow textual order:
+			//   latitude BETWEEN ?(2.8) AND ?(4.6)
+			//   AND longitude BETWEEN ?(1.9) AND ?(3.7)
+			//   AND ST_Within(_geoloc, BuildMbr(?(1.9),?(2.8),?(3.7),?(4.6), 4326))
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
-				params: []any{1.9, 2.8, 3.7, 4.6},
+				sql:    "SELECT * FROM routes WHERE latitude BETWEEN ? AND ? AND longitude BETWEEN ? AND ? AND ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
+				params: []any{2.8, 4.6, 1.9, 3.7, 1.9, 2.8, 3.7, 4.6},
 			},
 		},
 		{
