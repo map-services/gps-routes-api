@@ -19,6 +19,7 @@ type Dialect interface {
 	BuildFTSSort(field string, placeholder string) string
 	BuildFacetQuery(facetField string, unnest bool) string
 	BuildPrefixQuery(query string) string
+	BuildTruncateQuery(fieldName string, maxLength int) string
 	PrepareParam(param any) any
 }
 
@@ -71,6 +72,11 @@ func (d *PostgreSQLDialect) BuildPrefixQuery(query string) string {
 	return strings.Join(words, " & ")
 }
 
+func (d *PostgreSQLDialect) BuildTruncateQuery(fieldName string, maxLength int) string {
+	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
+		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
+}
+
 func (d *PostgreSQLDialect) PrepareParam(param any) any {
 	// For Postgres, arrays must be wrapped with pq.Array
 	if slice, ok := param.([]string); ok {
@@ -107,20 +113,36 @@ func (d *SQLiteDialect) BuildFullTextQuery(field string, placeholder string) str
 }
 
 func (d *SQLiteDialect) BuildSTWithinQuery(field string, xMin, yMin, xMax, yMax string) string {
-	return fmt.Sprintf("ST_Within(%s, ST_MakeEnvelope(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
+	// With the mod_spatialite extension loaded, SQLite mirrors PostgreSQL's
+	// ST_Within bbox predicate. libspatialite 5.x renamed PostGIS's
+	// ST_MakeEnvelope to BuildMbr(xmin, ymin, xmax, ymax, srid); the two are
+	// otherwise equivalent (both build an axis-aligned bounding box the
+	// geometry is tested against). Without Spatialite, spatial queries are
+	// handled at the repository layer; see db/sqlite_connect.go.
+	return fmt.Sprintf("ST_Within(%s, BuildMbr(%s, %s, %s, %s, 4326))", field, xMin, yMin, xMax, yMax)
 }
 
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance string) string {
-	// Spatialite ST_DWithin
-	return fmt.Sprintf("ST_DWithin(%s, ST_SetSRID(ST_Point(%s, %s), 4326), %s)", field, lon, lat, distance)
+	// Simplified distance calculation without spatial functions.
+	return fmt.Sprintf("(latitude - %s) * (latitude - %s) + (longitude - %s) * (longitude - %s) < (%s/111.0) * (%s/111.0)", lat, lat, lon, lon, distance, distance)
 }
 
 func (d *SQLiteDialect) BuildDistanceSort(field string, lon, lat float64) string {
-	return fmt.Sprintf("Distance(%s, ST_SetSRID(ST_Point(%f, %f), 4326))", field, lon, lat)
+	// Simplified distance sort without spatial functions
+	return fmt.Sprintf("(latitude - %f) * (latitude - %f) + (longitude - %f) * (longitude - %f)", lat, lat, lon, lon)
 }
 
 func (d *SQLiteDialect) BuildFTSSort(field string, placeholder string) string {
-	return "rank"
+	// SQLite FTS5 relevancy: order by bm25 so the most relevant row comes first.
+	// bm25() returns a NEGATIVE score (more negative = more relevant) and
+	// SearchHits appends " DESC", so we negate to flip direction:
+	//   ORDER BY -bm25(...) DESC  <=>  most-relevant-first.
+	// Column weights title=1.0 (A), display_address=0.4 (B), description=0.1 (C)
+	// mirror PostgreSQL's weighted search_vector, so a query term in the TITLE
+	// outranks the same term appearing only in (longer) description/address text.
+	// (Using bare "rank" / ORDER BY rank DESC previously inverted this — see
+	// TestSQLiteFTSOrdering.)
+	return "-bm25(routes_fts, 1.0, 0.4, 0.1)"
 }
 
 func (d *SQLiteDialect) BuildFacetQuery(facetField string, unnest bool) string {
@@ -138,6 +160,11 @@ func (d *SQLiteDialect) BuildPrefixQuery(query string) string {
 		words[i] = word + "*"
 	}
 	return strings.Join(words, " ")
+}
+
+func (d *SQLiteDialect) BuildTruncateQuery(fieldName string, maxLength int) string {
+	return fmt.Sprintf("SUBSTR(%s, 1, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
+		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
 }
 
 func (d *SQLiteDialect) PrepareParam(param any) any {

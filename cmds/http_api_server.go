@@ -1,3 +1,5 @@
+//go:build !sqlite
+
 package cmds
 
 import (
@@ -34,16 +36,8 @@ func NewHttpApiServer(port int) {
 	godx.EnvironmentVars()
 	godx.UserInfo()
 
-	// Connect to Postgres
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
-
-	dbConfig := db.ConfigFromEnv()
-	pool, err := db.NewDBPool(ctx, dbConfig)
-	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
-	}
-	defer pool.Close()
 
 	engine := gin.New()
 
@@ -84,6 +78,14 @@ func NewHttpApiServer(port int) {
 		prometheus.Instrument(),
 		rateLimiter,
 	)
+
+	// PostgreSQL setup
+	dbConfig := db.ConfigFromEnv()
+	pool, err := db.NewDBPool(ctx, dbConfig)
+	if err != nil {
+		log.Fatalf("failed to create database pool: %v", err)
+	}
+	defer pool.Close()
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)
 	defer func() {

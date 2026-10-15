@@ -142,8 +142,23 @@ func TestQueryBuilder_Build(t *testing.T) {
 				WithLimit(10).
 				WithOffset(20),
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE name = 'test' GROUP BY name ORDER BY name DESC OFFSET $2 LIMIT $1",
+				sql:    "SELECT * FROM routes WHERE name = 'test' GROUP BY name ORDER BY name DESC LIMIT $1 OFFSET $2",
 				params: []any{int32(10), int32(20)},
+			},
+		},
+		{
+			name: "with facets and pagination",
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				Facets: map[string][]string{
+					"type": {"hike"},
+				},
+			}).WithLimit(10).WithOffset(5),
+			want: Result{
+				// Facet '?' ($1) appears textually before LIMIT ($2)/OFFSET ($3);
+				// params order MUST match textual order for SQLite, and $N indices
+				// are recomputed to match, so both dialects bind correctly.
+				sql:    "SELECT * FROM routes WHERE type = ANY($1) LIMIT $2 OFFSET $3",
+				params: []any{pq.Array([]string{"hike"}), int32(10), int32(5)},
 			},
 		},
 		{
@@ -229,11 +244,42 @@ func TestQueryBuilder_Build_SQLite(t *testing.T) {
 			},
 		},
 		{
+			// FTS5 bm25() is negative (more negative = more relevant); the repo
+			// appends " DESC", so BuildFTSSort negates to keep DESC == best-first.
+			// Column weights (title 1.0 / address 0.4 / description 0.1) mirror
+			// PostgreSQL's weighted search_vector so title matches dominate.
+			name: "full text sort uses weighted bm25 (best-first)",
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}).
+				WithOrderBy((&SQLiteDialect{}).BuildFTSSort("routes_fts", "?") + " DESC"),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ? ORDER BY -bm25(routes_fts, 1.0, 0.4, 0.1) DESC",
+				params: []any{"test*"},
+			},
+		},
+		{
 			name: "bounding box",
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			// libspatialite 5.x renamed PostGIS's ST_MakeEnvelope to BuildMbr;
+			// the PostgreSQL assertion above keeps ST_MakeEnvelope (PostGIS supports it).
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, ST_MakeEnvelope(?, ?, ?, ?, 4326))",
+				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
 				params: []any{1.9, 2.8, 3.7, 4.6},
+			},
+		},
+		{
+			// Regression: a facet predicate (json_each(?)) appears textually
+			// BEFORE LIMIT/OFFSET in the SQL, so for SQLite's positional '?'
+			// binding the params MUST be [facetJSON, limit, offset]. The previous
+			// implementation appended [limit, offset, facetJSON] (limit appended in
+			// WithLimit before Build() injected the facet param), which bound the
+			// LIMIT int to json_each -> 0 facet hits.
+			name: "facet filter with pagination binds params in textual order",
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				Facets: map[string][]string{"district": {"London"}},
+			}).WithLimit(24).WithOffset(0),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE district IN (SELECT value FROM json_each(?)) LIMIT ? OFFSET ?",
+				params: []any{`["London"]`, int32(24), int32(0)},
 			},
 		},
 	}

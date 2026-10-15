@@ -18,7 +18,9 @@ type QueryBuilder struct {
 	orderBy         string
 	groupBy         string
 	limit           string
+	limitParam      int32
 	offset          string
+	offsetParam     int32
 	truncatedFields map[string]int
 }
 
@@ -62,9 +64,11 @@ func (qb *QueryBuilder) WithOffset(offset int32) *QueryBuilder {
 		panic("unexpected: offset value already set")
 	}
 
-	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-	qb.offset = fmt.Sprintf("OFFSET %s", placeholder)
-	qb.params = append(qb.params, offset)
+	// Placeholder + param are emitted in Build() (not here) so qb.params order
+	// matches the textual order of '?' in the final SQL (WHERE ... LIMIT ...
+	// OFFSET ...). See Build()'s comment for why SQLite needs this.
+	qb.offset = "OFFSET"
+	qb.offsetParam = offset
 	return qb
 }
 
@@ -79,9 +83,8 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 		panic("unexpected: limit value already set")
 	}
 
-	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-	qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
-	qb.params = append(qb.params, limit)
+	qb.limit = "LIMIT"
+	qb.limitParam = limit
 	return qb
 }
 
@@ -133,26 +136,46 @@ func (qb *QueryBuilder) Build() (string, []any) {
 		}
 	}
 
+	// Append LIMIT/OFFSET placeholders + params LAST (after the WHERE/facet
+	// params above) so qb.params order matches the textual order of '?'
+	// placeholders in the final SQL (WHERE ... LIMIT ... OFFSET ...). SQLite
+	// binds '?' positionally by appearance order; the previous implementation
+	// appended these params inside WithLimit/WithOffset — i.e. BEFORE the facet
+	// params that Build() injects here — so a facet predicate like
+	// `district IN (SELECT value FROM json_each(?))` was bound to the LIMIT int
+	// while LIMIT was bound to the facet JSON array, silently yielding 0 facet
+	// hits. Postgres is unaffected ($N indices are recomputed against the final
+	// param order too, so LIMIT $N/OFFSET $M stay correct).
+	if qb.limit != "" && qb.limit == "LIMIT" {
+		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+		qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
+		qb.params = append(qb.params, qb.limitParam)
+	}
+	if qb.offset != "" && qb.offset == "OFFSET" {
+		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+		qb.offset = fmt.Sprintf("OFFSET %s", placeholder)
+		qb.params = append(qb.params, qb.offsetParam)
+	}
+
 	var whereClause string
 	if len(qb.whereClauses) > 0 {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
 	selectPart := qb.replaceTruncatedFields(qb.selectPart)
-	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit)
+	// NOTE: standard SQL clause order is LIMIT ... OFFSET ... — PostgreSQL
+	// also accepts the reverse, but SQLite requires LIMIT before OFFSET, so
+	// emit limit before offset. SearchHits/WithLimit+WithOffset always append
+	// params as [limit, offset], which binds correctly to LIMIT $1 OFFSET $2.
+	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.limit, qb.offset)
 	return strings.Join(filteredParts, " "), qb.params
 }
 
 func (qb *QueryBuilder) replaceTruncatedFields(query string) string {
 	for fieldName, maxLength := range qb.truncatedFields {
-		query = strings.ReplaceAll(query, fieldName, truncate(fieldName, maxLength))
+		query = strings.ReplaceAll(query, fieldName, qb.dialect.BuildTruncateQuery(fieldName, maxLength))
 	}
 	return query
-}
-
-func truncate(fieldName string, maxLength int) string {
-	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
-		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
 }
 
 func asFieldAlias(fieldName string) string {
@@ -175,7 +198,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 	if qb.criteria.Query != "" {
 		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-		qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
+		// For SQLite, we handle FTS differently - the JOIN is added in the repository
+		if _, ok := qb.dialect.(*SQLiteDialect); ok {
+			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("", placeholder))
+		} else {
+			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
+		}
 		qb.params = append(qb.params, qb.dialect.BuildPrefixQuery(qb.criteria.Query))
 	}
 
