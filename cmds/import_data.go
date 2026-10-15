@@ -83,6 +83,7 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 	godx.UserInfo()
 
 	config := db.SQLiteConfigFromEnv()
+	config.ReadOnly = false // Import needs write access to store routes and run VACUUM.
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
 

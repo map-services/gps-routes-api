@@ -43,45 +43,63 @@ func haversineDistance(lon1, lat1, lon2, lat2 float64) float64 {
 }
 
 type SQLiteConfig struct {
-	Path string
+	Path     string
+	ReadOnly bool
 }
 
 func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	// Construct connection string for SQLite
-	dsn := fmt.Sprintf("file:%s?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL&_cache_size=10000&_temp_store=MEMORY", config.Path)
-
-	log.Printf("Connecting to SQLite database at %s", config.Path)
+	var dsn string
+	if config.ReadOnly {
+		// Read-only mode: open the database without write access. Multiple
+		// concurrent readers are allowed, so the pool is larger (see below).
+		dsn = fmt.Sprintf("file:%s?mode=ro&cache=shared&_busy_timeout=5000", config.Path)
+		log.Printf("Connecting to SQLite database at %s (read-only)", config.Path)
+	} else {
+		// Read-write mode: used by the import command and tests.
+		dsn = fmt.Sprintf("file:%s?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL&_cache_size=10000&_temp_store=MEMORY", config.Path)
+		log.Printf("Connecting to SQLite database at %s", config.Path)
+	}
 
 	// Open through the haversine-enabled driver. ConnectHook fires on the first
-	// connection (and every new one) to register haversine_distance(); since the
-	// pool is capped at 1 conn below, this happens once.
+	// connection (and every new one) to register haversine_distance().
 	db, err := sql.Open("sqlite3_haversine", dsn)
 	if err != nil {
 		return nil, fmt.Errorf("opening SQLite database: %w", err)
 	}
 
-	// Configure connection pool
-	db.SetMaxOpenConns(1)    // SQLite works best with single writer
-	db.SetMaxIdleConns(1)    // Single connection for reads too
+	// Configure connection pool based on mode.
+	if config.ReadOnly {
+		// Read-only: allow multiple concurrent readers.
+		db.SetMaxOpenConns(25)
+		db.SetMaxIdleConns(5)
+	} else {
+		// Read-write: SQLite allows only one writer at a time.
+		db.SetMaxOpenConns(1)
+		db.SetMaxIdleConns(1)
+	}
 	db.SetConnMaxLifetime(0) // No limit for SQLite
 
-	// Verify FTS5 availability (hard requirement) and connection liveness
+	// Verify FTS5 and R*Tree availability (hard requirement) and connection liveness.
 	if err := loadSQLiteExtensions(db); err != nil {
 		return nil, fmt.Errorf("loading SQLite extensions: %w", err)
 	}
 
-	// Set pragmas for performance and integrity
-	pragmas := []string{
-		"PRAGMA foreign_keys = ON",
-		"PRAGMA journal_mode = WAL",
-		"PRAGMA synchronous = NORMAL",
-		"PRAGMA cache_size = 10000",
-		"PRAGMA temp_store = MEMORY",
-	}
+	// Set pragmas for performance and integrity (write mode only — read-only
+	// connections cannot set pragmas that modify the database).
+	if !config.ReadOnly {
+		pragmas := []string{
+			"PRAGMA foreign_keys = ON",
+			"PRAGMA journal_mode = WAL",
+			"PRAGMA synchronous = NORMAL",
+			"PRAGMA cache_size = 10000",
+			"PRAGMA temp_store = MEMORY",
+		}
 
-	for _, pragma := range pragmas {
-		if _, err := db.Exec(pragma); err != nil {
-			return nil, fmt.Errorf("setting pragma %s: %w", pragma, err)
+		for _, pragma := range pragmas {
+			if _, err := db.Exec(pragma); err != nil {
+				return nil, fmt.Errorf("setting pragma %s: %w", pragma, err)
+			}
 		}
 	}
 
@@ -93,27 +111,24 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	return db, nil
 }
 
+// loadSQLiteExtensions checks that FTS5 and R*Tree are compiled into the
+// SQLite library. It uses pragma_compile_options (a read-only query) so it
+// works in both read-only and read-write modes without creating temporary
+// tables.
 func loadSQLiteExtensions(db *sql.DB) error {
-	// FTS5 is an SQLite module (not a scalar function), so probe it by creating
-	// (then dropping) a throwaway virtual table. FTS5 is compiled into the engine
-	// when building with the sqlite_fts5 build tag; if it's missing at runtime the
-	// build/tag configuration is wrong and the app should fail fast rather than
-	// silently running without full-text search.
-	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe; CREATE VIRTUAL TABLE _fts5_probe USING fts5(content)"); err != nil {
-		return fmt.Errorf("FTS5 not available: %w — rebuild with -tags \"sqlite,sqlite_fts5\"", err)
+	var fts5Count, rtreeCount int
+	if err := db.QueryRow("SELECT count(*) FROM pragma_compile_options WHERE compile_options LIKE '%FTS5%'").Scan(&fts5Count); err != nil {
+		return fmt.Errorf("checking FTS5 availability: %w", err)
 	}
-	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe"); err != nil {
-		return fmt.Errorf("could not drop FTS5 probe table: %w", err)
+	if fts5Count == 0 {
+		return fmt.Errorf("FTS5 not available — rebuild with -tags \"sqlite,sqlite_fts5\"")
 	}
 
-	// R*Tree is built into go-sqlite3; verify it's usable (the schema's
-	// routes_rtree virtual table depends on it, and BuildSTWithinQuery emits
-	// queries against it).
-	if _, err := db.Exec("DROP TABLE IF EXISTS _rtree_probe; CREATE VIRTUAL TABLE _rtree_probe USING rtree(id, min_lat, max_lat, min_lon, max_lon)"); err != nil {
-		return fmt.Errorf("R*Tree not available: %w — rebuild with -tags \"sqlite,sqlite_fts5\"", err)
+	if err := db.QueryRow("SELECT count(*) FROM pragma_compile_options WHERE compile_options LIKE '%RTREE%'").Scan(&rtreeCount); err != nil {
+		return fmt.Errorf("checking R*Tree availability: %w", err)
 	}
-	if _, err := db.Exec("DROP TABLE IF EXISTS _rtree_probe"); err != nil {
-		return fmt.Errorf("could not drop R*Tree probe table: %w", err)
+	if rtreeCount == 0 {
+		return fmt.Errorf("R*Tree not available — rebuild with -tags \"sqlite,sqlite_fts5\"")
 	}
 
 	return nil
@@ -124,8 +139,11 @@ func SQLiteConfigFromEnv() SQLiteConfig {
 	if dbPath == "" {
 		dbPath = "data/routes.db"
 	}
+	// Default to read-only: the API server and most commands only read data.
+	// The import command explicitly sets ReadOnly = false to opt in to writes.
 	return SQLiteConfig{
-		Path: dbPath,
+		Path:     dbPath,
+		ReadOnly: true,
 	}
 }
 

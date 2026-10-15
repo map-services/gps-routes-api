@@ -79,7 +79,9 @@ func NewHttpApiServer(port int) {
 		rateLimiter,
 	)
 
-	// SQLite setup
+	// SQLite setup — opens in read-only mode by default (SQLiteConfigFromEnv).
+	// The API never writes to the database, so read-only mode provides
+	// defense-in-depth and allows multiple concurrent reader connections.
 	sqliteConfig := db.SQLiteConfigFromEnv()
 	sqliteDB, err := db.NewSQLiteDB(ctx, sqliteConfig)
 	if err != nil {
