@@ -49,8 +49,6 @@ test-ci:
 	CGO_ENABLED=1 gotestsum --junitfile=./test-reports/junit.xml --format github-actions \
 		-- -v -race -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
 
-# Alias for explicit race-enabled CI test run.
-test-ci-race: test-ci
 
 # --- Lint ---
 
@@ -98,7 +96,6 @@ help:
 	@echo "  test         Run all tests with coverage"
 	@echo "  test-ci      Run tests with junit XML + race detector for CI"
 	@echo "  test-race    Run tests with race detector (slow)"
-	@echo "  test-ci-race Alias for test-ci"
 	@echo "  lint         Run golangci-lint (falls back to go vet)"
 	@echo "  docker       Build Docker image"
 	@echo "  docker-run   Run the Docker container"

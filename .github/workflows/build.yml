@@ -56,7 +56,7 @@ jobs:
         # paths (e.g. TestSQLiteDbRepository_ConcurrentWrites).
         run: |
           make build
-          make test-ci-race
+          make test-ci
 
       - name: Collect test results
         if: always()
