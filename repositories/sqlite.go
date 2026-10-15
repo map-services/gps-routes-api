@@ -213,10 +213,18 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	}
 
 	// Parse JSON arrays
-	json.Unmarshal([]byte(terrainJSON), &route.Terrain)
-	json.Unmarshal([]byte(activitiesJSON), &route.Activities)
-	json.Unmarshal([]byte(facilitiesJSON), &route.Facilities)
-	json.Unmarshal([]byte(pointsOfInterestJSON), &route.PointsOfInterest)
+	if err := json.Unmarshal([]byte(terrainJSON), &route.Terrain); err != nil {
+		return nil, fmt.Errorf("unmarshalling terrain: %w", err)
+	}
+	if err := json.Unmarshal([]byte(activitiesJSON), &route.Activities); err != nil {
+		return nil, fmt.Errorf("unmarshalling activities: %w", err)
+	}
+	if err := json.Unmarshal([]byte(facilitiesJSON), &route.Facilities); err != nil {
+		return nil, fmt.Errorf("unmarshalling facilities: %w", err)
+	}
+	if err := json.Unmarshal([]byte(pointsOfInterestJSON), &route.PointsOfInterest); err != nil {
+		return nil, fmt.Errorf("unmarshalling points_of_interest: %w", err)
+	}
 
 	route.StartPosition = common.GeoLoc{Latitude: latitude, Longitude: longitude}
 
@@ -226,7 +234,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying images: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var image domain.Image
@@ -256,7 +264,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying nearby: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var nearby domain.RouteSummary
@@ -277,7 +285,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying details: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var detail domain.Detail
@@ -348,7 +356,7 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 	if err != nil {
 		return nil, fmt.Errorf("executing search query: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	results := make([]domain.RouteSummary, 0, criteria.Limit)
 	var summary domain.RouteSummary
@@ -398,7 +406,7 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 	if err != nil {
 		return nil, fmt.Errorf("executing facet query: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var name string
