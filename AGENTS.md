@@ -1,5 +1,29 @@
 # AGENTS.md — Build, Test & CI Guidelines for gps-routes-api
 
+## ❗ Always Use Makefile Targets
+
+**Do not invoke `go build`, `go test`, or `golangci-lint` directly.** This
+project relies on specific CGO flags and build tags (`-tags "sqlite,sqlite_fts5"`)
+that are easy to forget. Use the Makefile targets instead — they enforce the
+correct flags every time:
+
+```bash
+make build        # CGO_ENABLED=1 -tags "sqlite,sqlite_fts5"
+make run          # build + run on port 8080
+make import-data  # import sample data
+make test         # go test with coverage
+make test-ci      # gotestsum with JUnit XML for CI
+make lint         # golangci-lint (falls back to go vet)
+make docker       # docker build
+```
+
+If you must run a Go tool directly (e.g., for debugging), always prefix with
+`CGO_ENABLED=1` and `-tags "sqlite,sqlite_fts5"`:
+
+```bash
+CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -count=1 ./...
+```
+
 ## Build Requirements
 
 ### CGO is mandatory
@@ -17,7 +41,7 @@ CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" ./...
   `go-sqlite3` — it compiles its own amalgamation, but CGO must be enabled).
 
 ### Build tags
-Always use: `-tags "sqlite,sqlite_fts5"`
+Always use: `-tags "sqlite,sqlite_fts5"` (the Makefile handles this automatically).
 
 - `sqlite` — selects go-sqlite3 as the driver (via build constraints in the
   `database/sql` import aliases).
@@ -51,6 +75,8 @@ Spatialite has been **completely removed**. Spatial queries use:
    is a struct tag, not a DB column.
 
 ## Test Conventions
+
+Run all tests with: `make test` or `make test-ci` (CI).
 
 ### Default Limit
 `SearchHits` defaults `Limit` to 10 when `criteria.Limit` is 0 (otherwise SQLite
@@ -94,14 +120,20 @@ No `.golangci.yml` config file — uses golangci-lint v2 with **default linters*
 Known enforced linters include `errcheck` (all error return values must be checked,
 including `rows.Scan`). Always run before pushing:
 ```bash
-golangci-lint run --timeout 5m ./...
+make lint
 ```
 
 ### Makefile Targets
-- `build` — `CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .`
-- `build-static` — CGO-enabled with `-ldflags "-extldflags '-static'"` for true static linking
-- `test-ci` — runs gotestsum with JUnit XML output for CI
-- `test` — runs tests directly with `go test`
+| Target | Equivalent | Description |
+|--------|-----------|-------------|
+| `build` | `CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .` | Build the binary |
+| `build-static` | `CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -ldflags "-extldflags '-static'" -o gps-routes .` | Statically-linked binary |
+| `run` | `make build && ./gps-routes api-server 8080` | Build + run API server |
+| `import-data` | `CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import ./data/backup` | Import sample data |
+| `test` | `CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v -coverprofile=profile.cov -coverpkg=./... ./...` | Run tests with coverage |
+| `test-ci` | same as `test` but with `gotestsum` + JUnit XML | CI-friendly test run |
+| `lint` | `golangci-lint run` (falls back to `go vet`) | Lint check |
+| `docker` | `docker build -t gps-routes-api .` | Build Docker image |
 
 ### docker-compose.yml
 The `docker-compose.yml` no longer references `libsqlite3-mod-spatialite` or
@@ -111,9 +143,10 @@ Spatialite volumes. The only environment variable for SQLite is `SQLITE_DB_PATH`
 
 | Issue | Symptom | Fix |
 |-------|---------|-----|
-| CGO disabled | build fails / driver not found | `CGO_ENABLED=1` always |
-| Missing build tags | FTS5/R*Tree features unavailable | `-tags "sqlite,sqlite_fts5"` |
+| CGO disabled | build fails / driver not found | Use `make build`, never `CGO_ENABLED=0` |
+| Missing build tags | FTS5/R*Tree features unavailable | Use `make build` / `make test` (tags handled automatically) |
 | Spatialite references | CI build fails (no lib installed) | Use R*Tree + haversine instead |
 | `LIMIT 0` | empty results from SearchHits | `defaultLimit()` adds fallback to 10 |
 | R*Tree float comparison | test fails on exact match | use `1e-6` tolerance, not `1e-9` |
 | `rows.Scan` unchecked | golangci-lint errcheck failure | always check error return |
+| Direct `go` commands | missing tags → wrong driver | Use `make` targets instead |
