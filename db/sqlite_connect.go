@@ -5,57 +5,41 @@ import (
 	"database/sql"
 	"fmt"
 	"log"
+	"math"
 	"os"
 
-	// The blank import registers the plain "sqlite3" driver; the named import
-	// exposes sqlite3.SQLiteDriver for the Spatialite-enabled driver below.
 	"github.com/mattn/go-sqlite3"
-	_ "github.com/mattn/go-sqlite3"
 )
 
-// init registers a "sqlite3_spatialite" driver that enables SQLite's
-// load_extension capability (go-sqlite3 only calls sqlite3_enable_load_extension
-// when extensions are configured via the driver config) and auto-loads
-// mod_spatialite. NewSQLiteDB opens through this driver and falls back to the
-// plain "sqlite3" driver when the Spatialite library isn't installed/loadable,
-// so the app still starts (FTS5-only; spatial predicates then error at runtime).
+// init registers a "sqlite3_haversine" driver that automatically registers a
+// haversine_distance(lon1, lat1, lon2, lat2) → meters scalar function on every
+// new connection via ConnectHook. This replaces Spatialite's ST_DWithin for
+// radius filtering and (via SQLiteDialect.BuildDistanceSort) for distance
+// sorting — no extension or sqlite_math_functions build tag required.
 func init() {
-	sql.Register("sqlite3_spatialite", &sqlite3.SQLiteDriver{
-		Extensions: []string{spatialiteExtensionPath()},
+	sql.Register("sqlite3_haversine", &sqlite3.SQLiteDriver{
+		ConnectHook: func(conn *sqlite3.SQLiteConn) error {
+			return conn.RegisterFunc("haversine_distance", haversineDistance, true)
+		},
 	})
 }
 
-// spatialiteExtensionPath resolves the loadable mod_spatialite module so it can
-// be loaded WITHOUT relying on the dynamic-loader search path. This matters on
-// macOS arm64 (Homebrew lives in /opt/homebrew/lib, which is not a default loader
-// path, and DYLD_LIBRARY_PATH is not reliably inherited by `go run`'s temp
-// binary / the VS Code Go debugger / delve). Resolution order:
-//  1. $SQLITE_SPATIALITE_PATH — explicit override (e.g. a custom build).
-//  2. first existing well-known absolute path (macOS arm64 / Intel Homebrew,
-//     Linux apt multilib / generic) — dlopen'd directly, no loader path needed.
-//  3. bare "mod_spatialite" — relies on the loader search path (e.g. CI's apt
-//     install of libsqlite3-mod-spatialite, or an explicit DYLD/LD override).
-//
-// sqlite3_load_extension accepts absolute paths, and each candidate is os.Stat'd
-// before use, so this is non-speculative: a missing library simply falls through
-// to the next option.
-func spatialiteExtensionPath() string {
-	if p := os.Getenv("SQLITE_SPATIALITE_PATH"); p != "" {
-		return p
-	}
-	candidates := []string{
-		"/opt/homebrew/lib/mod_spatialite.dylib",      // macOS arm64 Homebrew
-		"/usr/local/lib/mod_spatialite.dylib",         // macOS Intel Homebrew
-		"/usr/lib/x86_64-linux-gnu/mod_spatialite.so", // Debian/Ubuntu multilib
-		"/usr/lib/sqlite3/mod_spatialite.so",          // Debian/Ubuntu (sqlite3-mod-spatialite)
-		"/usr/lib/mod_spatialite.so",                  // generic Linux
-	}
-	for _, c := range candidates {
-		if fi, err := os.Stat(c); err == nil && !fi.IsDir() {
-			return c
-		}
-	}
-	return "mod_spatialite"
+// haversineDistance returns the great-circle distance between two
+// (longitude, latitude) points in metres, using the mean Earth radius of
+// 6371 km. The argument order (lon, lat) matches the SQL column order
+// (longitude, latitude) in the routes table, so callers can write
+// haversine_distance(centerLon, centerLat, longitude, latitude).
+func haversineDistance(lon1, lat1, lon2, lat2 float64) float64 {
+	const R = 6371000.0 // Earth mean radius in metres
+
+	phi1 := lat1 * math.Pi / 180
+	phi2 := lat2 * math.Pi / 180
+	dPhi := (lat2 - lat1) * math.Pi / 180
+	dLambda := (lon2 - lon1) * math.Pi / 180
+
+	a := math.Sin(dPhi/2)*math.Sin(dPhi/2) +
+		math.Cos(phi1)*math.Cos(phi2)*math.Sin(dLambda/2)*math.Sin(dLambda/2)
+	return R * 2 * math.Atan2(math.Sqrt(a), math.Sqrt(1-a))
 }
 
 type SQLiteConfig struct {
@@ -68,22 +52,12 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 
 	log.Printf("Connecting to SQLite database at %s", config.Path)
 
-	// Open through the Spatialite-enabled driver (see init()). go-sqlite3 loads
-	// extensions lazily on first use, so Ping() triggers the Spatialite load.
-	db, err := sql.Open("sqlite3_spatialite", dsn)
+	// Open through the haversine-enabled driver. ConnectHook fires on the first
+	// connection (and every new one) to register haversine_distance(); since the
+	// pool is capped at 1 conn below, this happens once.
+	db, err := sql.Open("sqlite3_haversine", dsn)
 	if err != nil {
 		return nil, fmt.Errorf("opening SQLite database: %w", err)
-	}
-
-	// If mod_spatialite isn't installed / isn't on the loader path, fall back to
-	// the plain driver so the app still starts (Spatialite-dependent queries will
-	// error at runtime, but FTS5 works).
-	if err := db.Ping(); err != nil {
-		log.Printf("Could not load Spatialite extension (%v); continuing without it", err)
-		_ = db.Close()
-		if db, err = sql.Open("sqlite3", dsn); err != nil {
-			return nil, fmt.Errorf("opening SQLite database: %w", err)
-		}
 	}
 
 	// Configure connection pool
@@ -91,7 +65,7 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	db.SetMaxIdleConns(1)    // Single connection for reads too
 	db.SetConnMaxLifetime(0) // No limit for SQLite
 
-	// Load extensions
+	// Verify FTS5 availability (hard requirement) and connection liveness
 	if err := loadSQLiteExtensions(db); err != nil {
 		return nil, fmt.Errorf("loading SQLite extensions: %w", err)
 	}
@@ -120,23 +94,26 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 }
 
 func loadSQLiteExtensions(db *sql.DB) error {
-	// Spatialite is loaded by the "sqlite3_spatialite" driver registered in
-	// init() (with graceful fallback to plain "sqlite3" handled in NewSQLiteDB),
-	// so it need not be loaded here. This also explains why a bare
-	// `SELECT load_extension('mod_spatialite')` was previously rejected with
-	// "not authorized" — go-sqlite3 only enables sqlite3_enable_load_extension
-	// via the driver Extensions config above.
-
 	// FTS5 is an SQLite module (not a scalar function), so probe it by creating
-	// (then dropping) a throwaway virtual table. FTS5 is compiled into the
-	// engine when building with the `sqlite_fts5` build tag; if it's missing at
-	// runtime the build/tag configuration is wrong and the app should fail fast
-	// rather than silently running without full-text search.
+	// (then dropping) a throwaway virtual table. FTS5 is compiled into the engine
+	// when building with the sqlite_fts5 build tag; if it's missing at runtime the
+	// build/tag configuration is wrong and the app should fail fast rather than
+	// silently running without full-text search.
 	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe; CREATE VIRTUAL TABLE _fts5_probe USING fts5(content)"); err != nil {
 		return fmt.Errorf("FTS5 not available: %w — rebuild with -tags \"sqlite,sqlite_fts5\"", err)
 	}
 	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe"); err != nil {
 		return fmt.Errorf("could not drop FTS5 probe table: %w", err)
+	}
+
+	// R*Tree is built into go-sqlite3; verify it's usable (the schema's
+	// routes_rtree virtual table depends on it, and BuildSTWithinQuery emits
+	// queries against it).
+	if _, err := db.Exec("DROP TABLE IF EXISTS _rtree_probe; CREATE VIRTUAL TABLE _rtree_probe USING rtree(id, min_lat, max_lat, min_lon, max_lon)"); err != nil {
+		return fmt.Errorf("R*Tree not available: %w — rebuild with -tags \"sqlite,sqlite_fts5\"", err)
+	}
+	if _, err := db.Exec("DROP TABLE IF EXISTS _rtree_probe"); err != nil {
+		return fmt.Errorf("could not drop R*Tree probe table: %w", err)
 	}
 
 	return nil

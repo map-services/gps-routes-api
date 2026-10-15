@@ -70,9 +70,10 @@ func loadJson(filename string) (*domain.RouteMetadata, error) {
 // database (path from SQLITE_DB_PATH env, default data/routes.db).
 //
 // The SQLite schema is (re)created from db/migrations/00002_sqlite_schema.sql
-// (via setupSQLiteDB) before import. Import only INSERTs routes/nearby/images/details
-// and does not require Spatialite; the spatial bbox predicates (SQLiteDialect
-// -> BuildMbr) require Spatialite at query time.
+// (via setupSQLiteDB) before import. The schema includes an R*Tree virtual table
+// (routes_rtree) with triggers that auto-populate bbox entries on INSERT, so
+// every imported route is automatically indexable for bbox + haversine queries
+// — no Spatialite extension required.
 //
 // When overwrite is true the database file at config.Path is deleted before
 // schema creation, ensuring a clean import with no leftover rows.

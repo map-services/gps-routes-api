@@ -12,10 +12,10 @@
 
 ```bash
 # Build with FTS5 support (recommended for full functionality)
-CGO_ENABLED=1 go build -tags="sqlite_fts5" -o app .
+CGO_ENABLED=1 go build -tags="sqlite,sqlite_fts5" -o app .
 
 # Or for development:
-CGO_ENABLED=1 go run -tags="sqlite_fts5" main.go migrate-data --dry-run
+CGO_ENABLED=1 go run -tags="sqlite,sqlite_fts5" . migrate-data --dry-run
 ```
 
 **Without FTS5**, the migration tool will automatically fall back to a basic schema without full-text search capabilities. This allows the migration to proceed but with reduced search functionality.
@@ -116,9 +116,9 @@ func main() {
 **Why:** Standard SQLite doesn't include FTS5; add to enable advanced search.
 
 ```bash
-# Flag: sqlite_fts5
+# Flags: sqlite (vendored SQLite amalgamation via CGO), sqlite_fts5 (enable FTS5)
 CGO_ENABLED=1 go build \
-  -tags="sqlite_fts5" \
+  -tags="sqlite,sqlite_fts5" \
   -o app .
 ```
 
@@ -128,27 +128,32 @@ CGO_ENABLED=1 go build \
 - Build time: +30 seconds
 - Runtime perf: Negligible overhead
 
-### Spatialite (Geospatial Queries)
+### R*Tree & Haversine (Geospatial Queries)
 
-**Why:** PostGIS-compatible spatial functions.
+**Why:** Spatial queries (bbox filtering + radius/distance calculations) are
+handled WITHOUT the `libspatialite` extension:
 
-**Note:** Spatialite is an extension, not a built-in flag. Install separately:
+- **R*Tree**: SQLite's built-in `rtree` virtual table — compiled in when the
+  `sqlite` build tag is set (uses the vendored SQLite amalgamation).
+- **haversine_distance()**: A Go-registered scalar function attached to each
+  SQLite connection via `mattn/go-sqlite3`'s `ConnectHook`. Implemented in
+  `db/sqlite_connect.go`.
 
-```bash
-# macOS
-brew install spatialite
+**No external packages required** — no `libspatialite-dev`, no `mod_spatialite.so`,
+no `load_extension()` calls. The `sqlite` build tag (which enables CGO compilation
+of the SQLite amalgamation) provides both R*Tree and the foundation for custom
+function registration.
 
-# Linux
-sudo apt-get install libspatialite-dev
+**Verify R*Tree is usable:**
 
-# Docker: add to Dockerfile
-apt-get install -y libspatialite-dev
+```sql
+CREATE VIRTUAL TABLE t USING rtree(id, min_x, max_x, min_y, max_y);
 ```
 
-**Verify with:**
+**Verify haversine_distance is registered:**
 
-```go
-db.Exec("SELECT load_extension('mod_spatialite')")
+```sql
+SELECT haversine_distance(-0.1278, 51.5074, -74.0060, 40.7128);  -- London→NYC ~5,570 km
 ```
 
 ---
@@ -197,25 +202,6 @@ sudo apt-get install libsqlite3-dev
 ```bash
 export CGO_LDFLAGS="-lsqlite3"
 CGO_ENABLED=1 go build -o app .
-```
-
-### Issue: "failed to load extension 'mod_spatialite'"
-
-**Cause:** Spatialite extension not installed
-**Fix (macOS):**
-
-```bash
-brew install spatialite
-# Verify:
-spatialite --version
-```
-
-**Fix (Linux):**
-
-```bash
-sudo apt-get install libspatialite-dev
-# Verify:
-apt list --installed | grep spatialite
 ```
 
 ### Issue: "text encoding: UCS2 not supported"
@@ -274,8 +260,7 @@ For production Docker images, strip symbols:
 ```bash
 CGO_ENABLED=1 go build \
   -ldflags="-s -w" \
-  -tags="sqlite_fts5" \
-  -o app .
+  CGO_ENABLED=1 go build -tags="sqlite,sqlite_fts5" -ldflags="-s -w" -o app .
 
 # Result: ~8 MB binary (vs 15 MB with symbols)
 ```
@@ -305,7 +290,7 @@ for _, pragma := range pragmas {
 
 ```bash
 # 1. Build with FTS5 support
-CGO_ENABLED=1 go build -tags="sqlite_fts5" -o app .
+CGO_ENABLED=1 go build -tags="sqlite,sqlite_fts5" -o app .
 
 # 2. Run the tests
 go test -v ./...
@@ -401,7 +386,7 @@ When implementing the query layer (Phase 4), ensure:
 
     ```makefile
     build:
-        CGO_ENABLED=1 go build -tags="sqlite_fts5" -o bin/app .
+        CGO_ENABLED=1 go build -tags="sqlite,sqlite_fts5" -o bin/app .
     ```
 
 2. **Document in README:**

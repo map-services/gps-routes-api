@@ -6,7 +6,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"strconv"
 
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
@@ -15,32 +14,23 @@ import (
 )
 
 type SQLiteDbRepository struct {
-	db         *sql.DB
-	spatialite bool // probed once at construction; gates _geoloc population in Store
+	db *sql.DB
+}
+
+// defaultLimit returns the limit to use when the caller doesn't specify one.
+// A zero-value Limit (0) means "use the default" — without this, SQLite would
+// receive LIMIT 0 and return no rows.
+func defaultLimit(limit int32) int32 {
+	if limit <= 0 {
+		return 10
+	}
+	return limit
 }
 
 var DEFAULT_ARRAY_FIELDS_SQLITE = []string{"activities", "terrain", "facilities", "points_of_interest"}
 
 func NewSQLiteRouteRepository(db *sql.DB) *SQLiteDbRepository {
-	return &SQLiteDbRepository{
-		db:         db,
-		spatialite: sqliteSpatialiteAvailable(db),
-	}
-}
-
-// sqliteSpatialiteAvailable reports whether mod_spatialite is genuinely loaded
-// on db, by exercising the same geometry round-trip that
-// db.TestSQLiteSpatialiteSpatialFunctions uses to confirm the extension is
-// active (this is non-speculative: a missing library yields a NULL/error here).
-//
-// NewSQLiteRouteRepository probes once at construction, which is single
-// threaded, so subsequent Store calls only read the cached result — no data
-// race with the concurrent Stores exercised by TestSQLiteDbRepository_ConcurrentWrites.
-func sqliteSpatialiteAvailable(db *sql.DB) bool {
-	var wkt string
-	err := db.QueryRowContext(context.Background(),
-		`SELECT ST_AsText(ST_GeomFromText('POINT(0 0)', 4326))`).Scan(&wkt)
-	return err == nil && wkt == "POINT(0 0)"
+	return &SQLiteDbRepository{db: db}
 }
 
 // nz returns nil for an empty-string pointer so nullable scalar columns store
@@ -93,35 +83,9 @@ func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMe
 		return fmt.Errorf("inserting route: %w", err)
 	}
 
-	// Populate the Spatialite geometry BLOB so bbox predicates
-	// (ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326)) — emitted by
-	// SQLiteDialect.BuildSTWithinQuery) filter on real coordinates instead of
-	// matching NULL -> 0 rows. Empirical finding: Spatialite only decodes
-	// geometry blobs it produced itself (its internal serialized format); storing
-	// raw Go EWKB into a plain BLOB column leaves ST_Within/ST_AsText NULL, so
-	// _geoloc MUST be built with ST_GeomFromText. This function (plus the '?'
-	// WKT-param form) is the exact call path proven by
-	// db.TestSQLiteSpatialiteSpatialFunctions, which runs green on CI's apt
-	// libspatialite too — so this is non-speculative.
-	//
-	// When Spatialite isn't loaded (the documented FTS5-only fallback) Store
-	// still succeeds: lat/lng were written by the INSERT above and _geoloc is
-	// left NULL; spatial bbox predicates then no-op at query time, which is the
-	// pre-existing — not regressed — behavior.
-	if repo.spatialite {
-		lon := route.StartPosition.Longitude
-		lat := route.StartPosition.Latitude
-		// WKT POINT is "POINT(longitude latitude)" == POINT(x y): longitude is
-		// the x-axis (east/west), latitude the y-axis (north/south). Format with
-		// strconv 'f'/'-1' for lossless round-trip without scientific notation.
-		wkt := "POINT(" + strconv.FormatFloat(lon, 'f', -1, 64) + " " +
-			strconv.FormatFloat(lat, 'f', -1, 64) + ")"
-		if _, err = tx.ExecContext(ctx,
-			`UPDATE routes SET _geoloc = ST_GeomFromText(?, 4326) WHERE object_id = ?`,
-			wkt, route.ObjectID); err != nil {
-			return fmt.Errorf("setting route _geoloc: %w", err)
-		}
-	}
+	// R*Tree population is handled by the routes_rtree INSERT trigger defined in
+	// db/migrations/00002_sqlite_schema.sql, so lat/lng written above are
+	// automatically indexed for bbox queries.
 
 	// Delete existing related records
 	_, err = tx.ExecContext(ctx, "DELETE FROM nearby WHERE route_object_id = ?", route.ObjectID)
@@ -343,7 +307,7 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 	qb := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
 		WithOrderBy(sortField).
-		WithLimit(criteria.Limit).
+		WithLimit(defaultLimit(criteria.Limit)).
 		WithOffset(criteria.Offset)
 
 	if criteria.TruncateText {

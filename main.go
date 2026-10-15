@@ -27,7 +27,7 @@ func main() {
 	var importCmd = &cobra.Command{
 		Use:   "import [path]",
 		Short: "Import JSON route data from specified path into SQLite",
-		Long:  "Imports route metadata from JSON backup files at path into the SQLite database at SQLITE_DB_PATH (default data/routes.db).\nThe schema is (re)created from db/migrations/00002_sqlite_schema.sql before import. Import only writes rows; Spatialite-dependent bbox search requires Spatialite at query time.",
+		Long:  "Imports route metadata from JSON backup files at path into the SQLite database at SQLITE_DB_PATH (default data/routes.db).\nThe schema is (re)created from db/migrations/00002_sqlite_schema.sql before import. Import only writes rows; bbox + haversine queries work via the built-in R*Tree + haversine_distance function (no Spatialite required).",
 		Args:  cobra.ExactArgs(1),
 		Run: func(cmd *cobra.Command, args []string) {
 			overwrite, _ := cmd.Flags().GetBool("overwrite")

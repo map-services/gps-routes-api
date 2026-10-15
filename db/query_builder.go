@@ -203,47 +203,21 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 	}
 
 	if qb.criteria.BoundingBox != nil {
-		// SQLite bbox optimisation: a lat/lng range pre-filter -- seekable via
-		// the idx_routes_latitude / idx_routes_longitude B-tree indexes -- is
-		// emitted immediately before the precise ST_Within(BuildMbr(...))
-		// spatial test. For point geometries the rectangle range is exactly
-		// equivalent to the MBR, so this never changes results -- it only lets
-		// SQLite narrow to the bbox via index range scans instead of a full
-		// table scan before the (Spatialite-gated) geometry check. boundingBox
-		// is [lngMin, latMin, lngMax, latMax].
+		// R*Tree bbox prefilter via routes_rtree (SQLite built-in, no extension).
+		// boundingBox is [lngMin, latMin, lngMax, latMax]. Values are embedded
+		// directly as SQL literals by BuildSTWithinQuery — no '?' params —
+		// consistent with BuildDistanceSort which also embeds float64 literals.
 		b := qb.criteria.BoundingBox
-		base := len(qb.params)
-		latMin := qb.dialect.FormatParam(base + 1)
-		latMax := qb.dialect.FormatParam(base + 2)
-		lngMin := qb.dialect.FormatParam(base + 3)
-		lngMax := qb.dialect.FormatParam(base + 4)
-		spatial := qb.dialect.BuildSTWithinQuery("_geoloc",
-			qb.dialect.FormatParam(base+5), qb.dialect.FormatParam(base+6),
-			qb.dialect.FormatParam(base+7), qb.dialect.FormatParam(base+8))
-		// The textual '?' order below MUST match the param append order:
-		// latMin, latMax, lngMin, lngMax, then BuildMbr(xmin,ymin,xmax,ymax)
-		// = lngMin, latMin, lngMax, latMax.
-		qb.WithWhereClause(fmt.Sprintf(
-			"latitude BETWEEN %s AND %s AND longitude BETWEEN %s AND %s AND %s",
-			latMin, latMax, lngMin, lngMax, spatial))
-		qb.params = append(qb.params,
-			b[1], b[3], b[0], b[2], b[0], b[1], b[2], b[3])
+		qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc",
+			b[0], b[1], b[2], b[3])) // lonMin, latMin, lonMax, latMax
 	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
+		// R*Tree bbox prefilter + haversine_distance() exact filter.
+		// BuildSTDWithinQuery computes the bbox from the centre + distance and
+		// embeds all values directly — no '?' params.
 		lat := qb.criteria.Nearby.Center.Latitude
 		lon := qb.criteria.Nearby.Center.Longitude
-		dist := qb.criteria.Nearby.DistanceKm * 1000
-
-		// BuildSTDWithinQuery format: (latitude - lat) * (latitude - lat) +
-		// (longitude - lon) * (longitude - lon) < (dist/111) * (dist/111)
-		// produces 6 positional '?' placeholders in textual order: lat, lat,
-		// lon, lon, dist, dist. SQLite cannot reuse '?' (unlike PostgreSQL's $N),
-		// so 6 params are appended in textual order to match.
-		p1 := qb.dialect.FormatParam(len(qb.params) + 1)
-		p2 := qb.dialect.FormatParam(len(qb.params) + 2)
-		p3 := qb.dialect.FormatParam(len(qb.params) + 3)
-		// Call signature is (field, lon, lat, distance); format uses (lat, lat, lon, lon, dist, dist).
-		qb.WithWhereClause(qb.dialect.BuildSTDWithinQuery("_geoloc", p1, p2, p3))
-		qb.params = append(qb.params, lat, lat, lon, lon, dist, dist)
+		dist := float64(qb.criteria.Nearby.DistanceKm) * 1000
+		qb.WithWhereClause(qb.dialect.BuildSTDWithinQuery("_geoloc", lon, lat, dist))
 	}
 
 	return qb

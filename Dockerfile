@@ -1,13 +1,13 @@
 # syntax=docker/dockerfile:1
 #
-# GPS Routes API — SQLite + FTS5 + Spatialite build.
+# GPS Routes API — SQLite + FTS5 build.
 #
 #   - Build:  CGO_ENABLED=1 with -tags "sqlite,sqlite_fts5" (go-sqlite3 is cgo).
-#   - Spatialite: libsqlite3-mod-spatialite provides mod_spatialite.so, which the
-#     `sqlite3_spatialite` driver (db/sqlite_connect.go init()) loads on first
-#     Ping() so bbox predicates (ST_Within/BuildMbr) and _geoloc writes work.
+#   - Spatial queries: SQLite's built-in R*Tree virtual table (routes_rtree)
+#     provides bbox filtering; a Go-registered haversine_distance() function
+#     provides radius filtering — NO Spatialite extension required.
 #   - Seed: the sample `data/routes.db` is (re)built at BUILD time from the
-#     tracked `data/backup/` JSON set (schema + 7069 routes + _geoloc + FTS5).
+#     tracked `data/backup/` JSON set (schema + 7069 routes + R*Tree + FTS5).
 #     A fresh container therefore returns real data on the first request instead
 #     of the "no such table: routes" 500 that a bare NewSQLiteDB startup produces.
 #   - Override: bind-mount your own `data/routes.db` over `./data/routes.db` to
@@ -33,22 +33,18 @@
 # 1) Build stage: compile + seed the database
 # ---------------------------------------------------------------------------
 # golang:1.27 is Debian(bookworm)-based => glibc toolchain required for cgo and
-# for go-sqlite3's load_extension.
+# for go-sqlite3 compilation.
 FROM golang:1.27 AS build
 
 ENV CGO_ENABLED=1
 
 WORKDIR /src
 
-# libsqlite3-dev is required to CGO-compile github.com/mattn/go-sqlite3;
-# libsqlite3-mod-spatialite is required BOTH so the build-time seed import can
-# write _geoloc via ST_GeomFromText AND so spatialite functions resolve during
-# the seed.
+# libsqlite3-dev is required to CGO-compile github.com/mattn/go-sqlite3.
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
         ca-certificates \
         libsqlite3-dev \
-        libsqlite3-mod-spatialite \
     && rm -rf /var/lib/apt/lists/*
 
 COPY go.mod go.sum ./
@@ -56,17 +52,19 @@ RUN go mod download
 
 COPY . .
 
-# Compile with the sqlite build tags (FTS5 + Spatialite via sqlite3_spatialite driver).
+# Compile with the sqlite build tags (FTS5 via sqlite_fts5 tag; R*Tree and
+# haversine_distance() are Go-registered, no external extension).
 RUN go build -tags "sqlite,sqlite_fts5" -ldflags="-w -s" -o /gps-routes .
 
 # Seed /app/data/routes.db from the bundled sample backup.
-# setupSQLiteDB recreates the schema (00002_sqlite_schema.sql, incl. routes_fts);
-# Store writes _geoloc via ST_GeomFromText(?,4326) => every route is bbox-queryable.
+# setupSQLiteDB recreates the schema (00002_sqlite_schema.sql, incl.
+# routes_fts + routes_rtree); Store writes lat/lng and the R*Tree trigger
+# auto-populates bbox entries.
 RUN mkdir -p /src/data && \
     SQLITE_DB_PATH=/src/data/routes.db /gps-routes import /src/data/backup
 
 # ---------------------------------------------------------------------------
-# 2) Runtime stage: minimal image, ships the pre-seeded DB + mod_spatialite
+# 2) Runtime stage: minimal image, ships the pre-seeded DB
 # ---------------------------------------------------------------------------
 FROM ubuntu:24.04 AS runtime
 
@@ -74,13 +72,12 @@ ENV TZ=UTC \
     GIN_MODE=release \
     SQLITE_DB_PATH=/app/data/routes.db
 
-# Runtime needs mod_spatialite.so (loaded by sqlite3_spatialite driver on Ping)
-# so bbox predicates work against the seeded DB. curl is used by HEALTHCHECK.
+# curl is used by HEALTHCHECK.
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
         ca-certificates \
         curl \
-        libsqlite3-mod-spatialite \
+        libsqlite3-dev \
         passwd \
         tzdata \
     && rm -rf /var/lib/apt/lists/* && \
