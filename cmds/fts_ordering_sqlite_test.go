@@ -4,11 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
-	"github.com/map-services/gps-routes-api/repositories"
 )
 
 // TestSQLiteFTSOrdering guards relevancy ordering for full‑text search on
@@ -20,21 +18,8 @@ import (
 func TestSQLiteFTSOrdering(t *testing.T) {
 	ctx := context.Background()
 
-	t.Chdir(repoRoot(t))
-	tmpDir := t.TempDir()
-	dbPath := tmpDir + "/routes.db"
-	t.Setenv("SQLITE_DB_PATH", dbPath)
-
-	if err := setupSQLiteDB(dbPath, false); err != nil {
-		t.Fatalf("setup schema: %v", err)
-	}
-	sqlDB, err := db.NewSQLiteDB(ctx, db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open sqlite: %v", err)
-	}
-	defer func() { _ = sqlDB.Close() }()
-
-	repo := repositories.NewSQLiteRouteRepository(sqlDB)
+	repo, cleanup := newSQLiteTestRepo(t)
+	defer cleanup()
 
 	// A: "york" in TITLE + description -> most relevant
 	if err := repo.Store(ctx, &domain.RouteMetadata{

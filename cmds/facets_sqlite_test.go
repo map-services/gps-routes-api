@@ -4,11 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
-	"github.com/map-services/gps-routes-api/repositories"
 )
 
 // TestSQLiteFacetCountsWithQuery is a regression test for the runtime error:
@@ -30,22 +28,8 @@ import (
 func TestSQLiteFacetCountsWithQuery(t *testing.T) {
 	ctx := context.Background()
 
-	t.Chdir(repoRoot(t))
-	tmpDir := t.TempDir()
-	dbPath := tmpDir + "/routes.db"
-	t.Setenv("SQLITE_DB_PATH", dbPath)
-
-	if err := setupSQLiteDB(dbPath, false); err != nil {
-		t.Fatalf("setup schema: %v", err)
-	}
-
-	sqlDB, err := db.NewSQLiteDB(ctx, db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open sqlite: %v", err)
-	}
-	defer func() { _ = sqlDB.Close() }()
-
-	repo := repositories.NewSQLiteRouteRepository(sqlDB)
+	repo, cleanup := newSQLiteTestRepo(t)
+	defer cleanup()
 
 	// Title goes into the routes_fts index (via the AFTER INSERT trigger), so a
 	// full-text query for "mountain" must match this route.
@@ -99,21 +83,8 @@ func TestSQLiteFacetCountsWithQuery(t *testing.T) {
 func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 	ctx := context.Background()
 
-	t.Chdir(repoRoot(t))
-	tmpDir := t.TempDir()
-	dbPath := tmpDir + "/routes.db"
-	t.Setenv("SQLITE_DB_PATH", dbPath)
-
-	if err := setupSQLiteDB(dbPath, false); err != nil {
-		t.Fatalf("setup schema: %v", err)
-	}
-	sqlDB, err := db.NewSQLiteDB(ctx, db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open sqlite: %v", err)
-	}
-	defer func() { _ = sqlDB.Close() }()
-
-	repo := repositories.NewSQLiteRouteRepository(sqlDB)
+	repo, cleanup := newSQLiteTestRepo(t)
+	defer cleanup()
 
 	if err := repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:      "ev-1",

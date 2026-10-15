@@ -7,10 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
-	"github.com/map-services/gps-routes-api/repositories"
 )
 
 // TestSQLiteGenerateSitemap verifies the GenerateSitemap function produces a
@@ -19,25 +17,12 @@ import (
 func TestSQLiteGenerateSitemap(t *testing.T) {
 	ctx := context.Background()
 
-	// GenerateSitemap -> setupSQLiteDB reads the schema by relative path, so run
-	// from the repo root. t.Chdir is scoped/restored by the testing framework.
-	t.Chdir(repoRoot(t))
+	setup := newSQLiteTestRepoFull(t)
+	tmpDir := filepath.Dir(setup.dbPath)
+	// GenerateSitemap reads SQLITE_DB_PATH from the environment.
+	t.Setenv("SQLITE_DB_PATH", setup.dbPath)
 
-	tmpDir := t.TempDir()
-	dbPath := filepath.Join(tmpDir, "routes.db")
-	t.Setenv("SQLITE_DB_PATH", dbPath)
-
-	if err := setupSQLiteDB(dbPath, false); err != nil {
-		t.Fatalf("setup schema: %v", err)
-	}
-
-	sqlDB, err := db.NewSQLiteDB(ctx, db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open sqlite: %v", err)
-	}
-	repo := repositories.NewSQLiteRouteRepository(sqlDB)
-
-	if err := repo.Store(ctx, &domain.RouteMetadata{
+	if err := setup.repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:         "r-1",
 		Ref:              "REF-1",
 		Title:            "Sitemap Route",
@@ -46,7 +31,7 @@ func TestSQLiteGenerateSitemap(t *testing.T) {
 	}); err != nil {
 		t.Fatalf("store: %v", err)
 	}
-	if err := sqlDB.Close(); err != nil {
+	if err := setup.db.Close(); err != nil {
 		t.Fatalf("close: %v", err)
 	}
 
