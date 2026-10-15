@@ -107,7 +107,7 @@ func TestJSONArrayOperations(t *testing.T) {
 	}
 	t.Log("✅ JSON array data inserted")
 
-	// Test json_each() for unnesting (mimics PostgreSQL UNNEST)
+	// Test json_each() for unnesting JSON arrays
 	rows, err := db.Query(`
 		SELECT r.title, json_each.value as activity
 		FROM routes r, json_each(r.activities)

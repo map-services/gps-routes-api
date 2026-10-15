@@ -140,12 +140,11 @@ func (qb *QueryBuilder) Build() (string, []any) {
 	// params above) so qb.params order matches the textual order of '?'
 	// placeholders in the final SQL (WHERE ... LIMIT ... OFFSET ...). SQLite
 	// binds '?' positionally by appearance order; the previous implementation
-	// appended these params inside WithLimit/WithOffset — i.e. BEFORE the facet
+	// appended these params within WithLimit/WithOffset — i.e. BEFORE the facet
 	// params that Build() injects here — so a facet predicate like
 	// `district IN (SELECT value FROM json_each(?))` was bound to the LIMIT int
 	// while LIMIT was bound to the facet JSON array, silently yielding 0 facet
-	// hits. Postgres is unaffected ($N indices are recomputed against the final
-	// param order too, so LIMIT $N/OFFSET $M stay correct).
+	// hits.
 	if qb.limit != "" && qb.limit == "LIMIT" {
 		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
 		qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
@@ -163,10 +162,9 @@ func (qb *QueryBuilder) Build() (string, []any) {
 	}
 
 	selectPart := qb.replaceTruncatedFields(qb.selectPart)
-	// NOTE: standard SQL clause order is LIMIT ... OFFSET ... — PostgreSQL
-	// also accepts the reverse, but SQLite requires LIMIT before OFFSET, so
-	// emit limit before offset. SearchHits/WithLimit+WithOffset always append
-	// params as [limit, offset], which binds correctly to LIMIT $1 OFFSET $2.
+	// NOTE: standard SQL clause order is LIMIT ... OFFSET .... SQLite requires
+	// LIMIT before OFFSET, so emit limit before offset. SearchHits/
+	// WithLimit+WithOffset always append params as [limit, offset].
 	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.limit, qb.offset)
 	return strings.Join(filteredParts, " "), qb.params
 }
@@ -198,62 +196,54 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 	if qb.criteria.Query != "" {
 		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
-		// For SQLite, we handle FTS differently - the JOIN is added in the repository
-		if _, ok := qb.dialect.(*SQLiteDialect); ok {
-			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("", placeholder))
-		} else {
-			qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
-		}
+		// FTS is handled against the routes_fts virtual table; the JOIN is added
+		// in the repository layer (CountAll / SearchHits / FacetCounts).
+		qb.WithWhereClause(qb.dialect.BuildFullTextQuery("", placeholder))
 		qb.params = append(qb.params, qb.dialect.BuildPrefixQuery(qb.criteria.Query))
 	}
 
 	if qb.criteria.BoundingBox != nil {
-		if _, ok := qb.dialect.(*SQLiteDialect); ok {
-			// SQLite bbox optimisation: a lat/lng range pre-filter -- seekable via
-			// the idx_routes_latitude / idx_routes_longitude B-tree indexes -- is
-			// emitted immediately before the precise ST_Within(BuildMbr(...))
-			// spatial test. For point geometries the rectangle range is exactly
-			// equivalent to the MBR, so this never changes results -- it only lets
-			// SQLite narrow to the bbox via index range scans instead of a full
-			// table scan before the (Spatialite-gated) geometry check. boundingBox
-			// is [lngMin, latMin, lngMax, latMax].
-			b := qb.criteria.BoundingBox
-			base := len(qb.params)
-			latMin := qb.dialect.FormatParam(base + 1)
-			latMax := qb.dialect.FormatParam(base + 2)
-			lngMin := qb.dialect.FormatParam(base + 3)
-			lngMax := qb.dialect.FormatParam(base + 4)
-			spatial := qb.dialect.BuildSTWithinQuery("_geoloc",
-				qb.dialect.FormatParam(base+5), qb.dialect.FormatParam(base+6),
-				qb.dialect.FormatParam(base+7), qb.dialect.FormatParam(base+8))
-			// The textual '?' order below MUST match the param append order:
-			// latMin, latMax, lngMin, lngMax, then BuildMbr(xmin,ymin,xmax,ymax)
-			// = lngMin, latMin, lngMax, latMax.
-			qb.WithWhereClause(fmt.Sprintf(
-				"latitude BETWEEN %s AND %s AND longitude BETWEEN %s AND %s AND %s",
-				latMin, latMax, lngMin, lngMax, spatial))
-			qb.params = append(qb.params,
-				b[1], b[3], b[0], b[2], b[0], b[1], b[2], b[3])
-		} else {
-			p1 := qb.dialect.FormatParam(len(qb.params) + 1)
-			p2 := qb.dialect.FormatParam(len(qb.params) + 2)
-			p3 := qb.dialect.FormatParam(len(qb.params) + 3)
-			p4 := qb.dialect.FormatParam(len(qb.params) + 4)
-
-			qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc", p1, p2, p3, p4))
-			for _, value := range qb.criteria.BoundingBox {
-				qb.params = append(qb.params, value)
-			}
-		}
+		// SQLite bbox optimisation: a lat/lng range pre-filter -- seekable via
+		// the idx_routes_latitude / idx_routes_longitude B-tree indexes -- is
+		// emitted immediately before the precise ST_Within(BuildMbr(...))
+		// spatial test. For point geometries the rectangle range is exactly
+		// equivalent to the MBR, so this never changes results -- it only lets
+		// SQLite narrow to the bbox via index range scans instead of a full
+		// table scan before the (Spatialite-gated) geometry check. boundingBox
+		// is [lngMin, latMin, lngMax, latMax].
+		b := qb.criteria.BoundingBox
+		base := len(qb.params)
+		latMin := qb.dialect.FormatParam(base + 1)
+		latMax := qb.dialect.FormatParam(base + 2)
+		lngMin := qb.dialect.FormatParam(base + 3)
+		lngMax := qb.dialect.FormatParam(base + 4)
+		spatial := qb.dialect.BuildSTWithinQuery("_geoloc",
+			qb.dialect.FormatParam(base+5), qb.dialect.FormatParam(base+6),
+			qb.dialect.FormatParam(base+7), qb.dialect.FormatParam(base+8))
+		// The textual '?' order below MUST match the param append order:
+		// latMin, latMax, lngMin, lngMax, then BuildMbr(xmin,ymin,xmax,ymax)
+		// = lngMin, latMin, lngMax, latMax.
+		qb.WithWhereClause(fmt.Sprintf(
+			"latitude BETWEEN %s AND %s AND longitude BETWEEN %s AND %s AND %s",
+			latMin, latMax, lngMin, lngMax, spatial))
+		qb.params = append(qb.params,
+			b[1], b[3], b[0], b[2], b[0], b[1], b[2], b[3])
 	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
+		lat := qb.criteria.Nearby.Center.Latitude
+		lon := qb.criteria.Nearby.Center.Longitude
+		dist := qb.criteria.Nearby.DistanceKm * 1000
+
+		// BuildSTDWithinQuery format: (latitude - lat) * (latitude - lat) +
+		// (longitude - lon) * (longitude - lon) < (dist/111) * (dist/111)
+		// produces 6 positional '?' placeholders in textual order: lat, lat,
+		// lon, lon, dist, dist. SQLite cannot reuse '?' (unlike PostgreSQL's $N),
+		// so 6 params are appended in textual order to match.
 		p1 := qb.dialect.FormatParam(len(qb.params) + 1)
 		p2 := qb.dialect.FormatParam(len(qb.params) + 2)
 		p3 := qb.dialect.FormatParam(len(qb.params) + 3)
-
+		// Call signature is (field, lon, lat, distance); format uses (lat, lat, lon, lon, dist, dist).
 		qb.WithWhereClause(qb.dialect.BuildSTDWithinQuery("_geoloc", p1, p2, p3))
-		qb.params = append(qb.params, qb.criteria.Nearby.Center.Longitude)
-		qb.params = append(qb.params, qb.criteria.Nearby.Center.Latitude)
-		qb.params = append(qb.params, qb.criteria.Nearby.DistanceKm*1000)
+		qb.params = append(qb.params, lat, lat, lon, lon, dist, dist)
 	}
 
 	return qb

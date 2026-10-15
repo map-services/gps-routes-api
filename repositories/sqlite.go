@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package repositories
 
 import (
@@ -46,11 +44,9 @@ func sqliteSpatialiteAvailable(db *sql.DB) bool {
 }
 
 // nz returns nil for an empty-string pointer so nullable scalar columns store
-// NULL (not ”) when populated via the SQLite import path. PostgreSQL stores
-// missing values as NULL, so this keeps fresh SQLite imports byte-for-byte
-// consistent with Postgres (whose IS NOT NULL facet/count predicates then
-// exclude the value). The query side additionally guards against ” in
-// FacetCounts for databases that already contain empty strings.
+// NULL when populated via the SQLite import path. The query side additionally
+// guards against empty-string values in FacetCounts for databases that already
+// contain them.
 func nz(s *string) *string {
 	if s == nil || *s == "" {
 		return nil
@@ -217,10 +213,18 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	}
 
 	// Parse JSON arrays
-	json.Unmarshal([]byte(terrainJSON), &route.Terrain)
-	json.Unmarshal([]byte(activitiesJSON), &route.Activities)
-	json.Unmarshal([]byte(facilitiesJSON), &route.Facilities)
-	json.Unmarshal([]byte(pointsOfInterestJSON), &route.PointsOfInterest)
+	if err := json.Unmarshal([]byte(terrainJSON), &route.Terrain); err != nil {
+		return nil, fmt.Errorf("unmarshalling terrain: %w", err)
+	}
+	if err := json.Unmarshal([]byte(activitiesJSON), &route.Activities); err != nil {
+		return nil, fmt.Errorf("unmarshalling activities: %w", err)
+	}
+	if err := json.Unmarshal([]byte(facilitiesJSON), &route.Facilities); err != nil {
+		return nil, fmt.Errorf("unmarshalling facilities: %w", err)
+	}
+	if err := json.Unmarshal([]byte(pointsOfInterestJSON), &route.PointsOfInterest); err != nil {
+		return nil, fmt.Errorf("unmarshalling points_of_interest: %w", err)
+	}
 
 	route.StartPosition = common.GeoLoc{Latitude: latitude, Longitude: longitude}
 
@@ -230,7 +234,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying images: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var image domain.Image
@@ -260,7 +264,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying nearby: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var nearby domain.RouteSummary
@@ -281,7 +285,7 @@ func (repo *SQLiteDbRepository) FindByObjectID(ctx context.Context, objectID str
 	if err != nil {
 		return nil, fmt.Errorf("querying details: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var detail domain.Detail
@@ -352,7 +356,7 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 	if err != nil {
 		return nil, fmt.Errorf("executing search query: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	results := make([]domain.RouteSummary, 0, criteria.Limit)
 	var summary domain.RouteSummary
@@ -387,13 +391,10 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 
 	query, params := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
-		// Exclude both NULL and empty string. PostgreSQL stores missing scalar
-		// facet values as NULL (filtered by IS NOT NULL); the SQLite JSON import
-		// path stores them as '' instead, so on SQLite we must also drop the
-		// empty-string bucket to keep facets in parity with PostgreSQL. (Array
-		// facets go through json_each; a non-empty JSON column is never == '',
-		// so this filter is a no-op there.) PostgresDbRepository keeps the
-		// plain "IS NOT NULL" since its data is NULL.
+		// Exclude both NULL and empty string. The SQLite JSON import path stores
+		// scalar facet values as '' instead of NULL, so we must also drop the
+		// empty-string bucket. Array facets go through json_each; a non-empty
+		// JSON column is never == '', so this filter is a no-op there.
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> ''", facetField, facetField)).
 		WithExcludeFacets(excludeFacets...).
 		WithGroupBy("key").
@@ -405,7 +406,7 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 	if err != nil {
 		return nil, fmt.Errorf("executing facet query: %w", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	for rows.Next() {
 		var name string

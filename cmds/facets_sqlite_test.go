@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package cmds
 
 import (
@@ -94,10 +92,10 @@ func TestSQLiteFacetCountsWithQuery(t *testing.T) {
 }
 
 // TestSQLiteFacetExcludesEmptyValues reproduces the empty-string facet bucket
-// SQLite produced but Postgres does not: the JSON import path stores
-// RouteMetadata scalar pointers (e.g. District) as ” instead of NULL, and the
-// SQLite facet query's "IS NOT NULL" does not drop ”. This asserts the SQLite
-// facet WHERE filters the empty bucket out, matching Postgres.
+// the SQLite implementation produced: the JSON import path stores
+// RouteMetadata scalar pointers (e.g. District) as "" instead of NULL, and the
+// SQLite facet query's "IS NOT NULL" does not drop "". This asserts the SQLite
+// facet WHERE filters the empty bucket out.
 func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 	ctx := context.Background()
 
@@ -146,7 +144,7 @@ func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 		t.Fatalf("facet counts: %v", err)
 	}
 	if _, hasEmpty := (*facets)[""]; hasEmpty {
-		t.Errorf("facet bucket \"\" should be excluded (Postgres parity), got %#v", *facets)
+		t.Errorf("facet bucket \"\" should be excluded, got %#v", *facets)
 	}
 	if got := (*facets)["Halton"]; got != 1 {
 		t.Errorf(`facet "Halton" = %d, want 1 (got %#v)`, got, *facets)

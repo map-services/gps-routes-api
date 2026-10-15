@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package repositories
 
 import (
@@ -263,10 +261,10 @@ func TestSQLiteDbRepository_CountAll(t *testing.T) {
 func strPtr(s string) *string { return &s }
 
 // TestSQLiteStoreNormalizesEmptyStringsToNull verifies Store coerces empty
-// string pointers to NULL (PostgreSQL parity), so blank scalar facet values
-// are excluded downstream by IS NOT NULL predicates. This is the data-layer
-// half of the empty-facet-bucket fix; FacetCounts_query-side "" guard (in
-// repositories/sqlite.go FacetCounts) is the defense for pre-existing data.
+// string pointers to NULL, so blank scalar facet values are excluded downstream
+// by IS NOT NULL predicates. This is the data-layer half of the empty-facet-
+// bucket fix; FacetCounts_query-side "" guard (in repositories/sqlite.go
+// FacetCounts) is the defense for pre-existing data.
 func TestSQLiteStoreNormalizesEmptyStringsToNull(t *testing.T) {
 	testDB, cleanup := setupSQLiteTestDB(t)
 	defer cleanup()

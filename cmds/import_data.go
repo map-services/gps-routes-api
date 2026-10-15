@@ -1,46 +1,115 @@
-//go:build !sqlite
-
 package cmds
 
 import (
 	"context"
+	"encoding/json"
+	"fmt"
 	"log"
+	"os"
+	"path/filepath"
 	"time"
 
 	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/repositories"
 	"github.com/rm-hull/godx"
 	"github.com/schollz/progressbar/v3"
 )
 
-// ImportData walks JSON backup files under path and stores them through the
-// PostgreSQL repository. The SQLite counterpart lives in import_data_sqlite.go;
-// both are selected by build tag so the CLI entry points can both call
-// cmds.ImportData(path, maxRecords).
-func ImportData(path string, maxRecords int) {
+// isRunningInDocker reports whether the process is running inside a container.
+func isRunningInDocker() bool {
+	_, err := os.Stat("/.dockerenv")
+	return !os.IsNotExist(err)
+}
+
+// walkFiles recursively walks through a folder and returns the relative paths
+// for files.
+func walkFiles(root string, maxFiles int) ([]string, error) {
+	var files []string
+
+	// Walk through the root directory and subdirectories.
+	err := filepath.Walk(root, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+
+		// Only add files, not directories.
+		if !info.IsDir() && len(files) < maxFiles {
+			files = append(files, path)
+		}
+
+		return nil
+	})
+	if err != nil {
+		return nil, err
+	}
+
+	return files, nil
+}
+
+// loadJson reads and unmarshals a JSON file into a RouteMetadata struct.
+func loadJson(filename string) (*domain.RouteMetadata, error) {
+	var metadata domain.RouteMetadata
+
+	// Read the file content.
+	fileContent, err := os.ReadFile(filename)
+	if err != nil {
+		return &metadata, fmt.Errorf("could not read file: %v", err)
+	}
+
+	// Unmarshal JSON content into RouteMetadata struct.
+	err = json.Unmarshal(fileContent, &metadata)
+	if err != nil {
+		return &metadata, fmt.Errorf("could not unmarshal JSON: %v", err)
+	}
+
+	return &metadata, nil
+}
+
+// ImportData loads route metadata from JSON backup files at path into a SQLite
+// database (path from SQLITE_DB_PATH env, default data/routes.db).
+//
+// The SQLite schema is (re)created from db/migrations/00002_sqlite_schema.sql
+// (via setupSQLiteDB) before import. Import only INSERTs routes/nearby/images/details
+// and does not require Spatialite; the spatial bbox predicates (SQLiteDialect
+// -> BuildMbr) require Spatialite at query time.
+//
+// When overwrite is true the database file at config.Path is deleted before
+// schema creation, ensuring a clean import with no leftover rows.
+func ImportData(path string, maxRecords int, overwrite bool) {
 	godx.GitVersion()
 	godx.EnvironmentVars()
 	godx.UserInfo()
 
-	config := db.ConfigFromEnv()
+	config := db.SQLiteConfigFromEnv()
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
 
-	pool, err := db.NewDBPool(ctx, config)
-	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
+	if overwrite {
+		if err := os.Remove(config.Path); err != nil && !os.IsNotExist(err) {
+			log.Fatalf("failed to remove existing database file %s: %v", config.Path, err)
+		}
 	}
-	defer pool.Close()
 
-	repo := repositories.NewPostgresRouteRepository(pool, config.Schema)
+	if err := setupSQLiteDB(config.Path, false); err != nil {
+		log.Fatalf("failed to initialise SQLite schema: %v", err)
+	}
+
+	sqlDB, err := db.NewSQLiteDB(ctx, config)
+	if err != nil {
+		log.Fatalf("failed to open SQLite database: %v", err)
+	}
+	defer func() { _ = sqlDB.Close() }()
+
+	repo := repositories.NewSQLiteRouteRepository(sqlDB)
 
 	files, err := walkFiles(path, maxRecords)
 	if err != nil {
 		log.Fatalf("failed to import data: %v", err)
 	}
 
-	isDocker := isRunningInDocker()
 	totalRecords := int64(len(files))
+	isDocker := isRunningInDocker()
 	var bar *progressbar.ProgressBar
 	if isDocker {
 		log.Println("Detected likely running inside docker container")
@@ -58,8 +127,7 @@ func ImportData(path string, maxRecords int) {
 			log.Fatalf("failed to load file: %s: %v", file, err)
 		}
 
-		err = repo.Store(ctx, data)
-		if err != nil {
+		if err := repo.Store(ctx, data); err != nil {
 			log.Fatalf("failed to store objectID: %s: %v", data.ObjectID, err)
 		}
 
@@ -69,6 +137,8 @@ func ImportData(path string, maxRecords int) {
 	}
 
 	if isDocker {
-		log.Printf("Completed: imported %d records\n", totalRecords)
+		log.Printf("Completed: imported %d records into SQLite at %s", totalRecords, config.Path)
+	} else {
+		log.Printf("Imported %d records into SQLite at %s", totalRecords, config.Path)
 	}
 }

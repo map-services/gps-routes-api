@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package cmds
 
 import (
@@ -54,8 +52,7 @@ func strPtr(s string) *string { return &s }
 
 // TestSQLiteImportData_RoundTrip verifies the SQLite data-import flow end-to-end:
 // JSON backup files -> cmds.ImportData -> schema applied + rows stored -> readable
-// back via SQLiteDbRepository. This is the SQLite counterpart to
-// tests.TestImportData (Postgres/Testcontainers), which is //go:build !sqlite.
+// back via SQLiteDbRepository.
 func TestSQLiteImportData_RoundTrip(t *testing.T) {
 	// setupSQLiteDB (inside ImportData) reads the schema by relative path.
 	t.Chdir(repoRoot(t))
@@ -94,7 +91,7 @@ func TestSQLiteImportData_RoundTrip(t *testing.T) {
 	})
 
 	// ImportData creates the schema at dbPath and stores every backup file.
-	ImportData(backupDir, 2)
+	ImportData(backupDir, 2, false)
 
 	// Verify via an independent connection / repository.
 	ctx := context.Background()

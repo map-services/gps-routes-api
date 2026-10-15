@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package db
 
 import (
@@ -131,20 +129,25 @@ func loadSQLiteExtensions(db *sql.DB) error {
 
 	// FTS5 is an SQLite module (not a scalar function), so probe it by creating
 	// (then dropping) a throwaway virtual table. FTS5 is compiled into the
-	// engine when building with the `sqlite_fts5` build tag.
+	// engine when building with the `sqlite_fts5` build tag; if it's missing at
+	// runtime the build/tag configuration is wrong and the app should fail fast
+	// rather than silently running without full-text search.
 	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe; CREATE VIRTUAL TABLE _fts5_probe USING fts5(content)"); err != nil {
-		fmt.Printf("Warning: FTS5 not available, creating schema without full-text search: %v\n", err)
-	} else {
-		if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe"); err != nil {
-			fmt.Printf("Warning: could not drop FTS5 probe table: %v\n", err)
-		}
+		return fmt.Errorf("FTS5 not available: %w — rebuild with -tags \"sqlite,sqlite_fts5\"", err)
+	}
+	if _, err := db.Exec("DROP TABLE IF EXISTS _fts5_probe"); err != nil {
+		return fmt.Errorf("could not drop FTS5 probe table: %w", err)
 	}
 
 	return nil
 }
 
 func SQLiteConfigFromEnv() SQLiteConfig {
+	dbPath := os.Getenv("SQLITE_DB_PATH")
+	if dbPath == "" {
+		dbPath = "data/routes.db"
+	}
 	return SQLiteConfig{
-		Path: getEnvOrDefault("SQLITE_DB_PATH", "data/routes.db"),
+		Path: dbPath,
 	}
 }

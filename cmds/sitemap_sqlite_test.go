@@ -1,5 +1,3 @@
-//go:build sqlite
-
 package cmds
 
 import (
@@ -15,11 +13,9 @@ import (
 	"github.com/map-services/gps-routes-api/repositories"
 )
 
-// TestSQLiteGenerateSitemap verifies the sqlite-tagged GenerateSitemap produces a
-// sitemap.xml (mirroring the Postgres implementation in sitemap.go). It also
-// guards the single-file debug build of main.go: if cmds.GenerateSitemap is
-// ever undefined under the sqlite tag again, this test's package fails to
-// compile.
+// TestSQLiteGenerateSitemap verifies the GenerateSitemap function produces a
+// sitemap.xml. It also guards compilation: if cmds.GenerateSitemap is ever
+// undefined, this test's package fails to compile.
 func TestSQLiteGenerateSitemap(t *testing.T) {
 	ctx := context.Background()
 
