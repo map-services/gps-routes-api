@@ -48,15 +48,15 @@ cd gps-routes-api
 cp .env.example .env
 # Edit .env if needed (defaults are fine for development)
 
-# 2. Build with CGO + FTS5
-CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .
+# 2. Build the binary (CGO + FTS5, all flags handled by Makefile)
+make build
 
-# 3. Run the API server
-./gps-routes api-server 8080
+# 3. Run the API server on port 8080
+make run
 
-# 4. (Optional) Load sample data
-./gps-routes import ./data/backup
-# Then restart the server
+# 4. (Optional) Load sample data into ./data/routes.db
+make import-data
+# Then restart: make run
 ```
 
 ### Environment Variables
@@ -164,17 +164,20 @@ Sample data: 7,069 routes from `data/backup/` (16 JSON files, hex-named buckets 
 ## Testing
 
 ```bash
-CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v ./...
+make test        # Run tests with coverage
+make test-race   # Run tests with race detector (slow)
+make test-ci     # CI mode: JUnit XML + race detector
+make lint        # golangci-lint (falls back to go vet)
 ```
 
 Tests use temporary SQLite database files (not `:memory:`) to properly exercise
-R*Tree virtual tables and FTS5. See `AGENTS.md` for detailed build/test guidance.
+R*Tree virtual tables and FTS5. See [`AGENTS.md`](AGENTS.md) for detailed build/test guidance.
 
 ## CI/CD
 
 GitHub Actions (`build.yml`) runs on every PR:
 - Builds with `make build`
-- Runs tests with `make test-ci` (JUnit output)
+- Runs tests with `make test-ci` (JUnit XML + race detector)
 - Publishes test results to the PR
 - Uploads coverage to Coveralls
 - Runs golangci-lint v2
