@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"net/http"
 	"os"
 	"time"
 
@@ -19,6 +20,8 @@ import (
 	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
 	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/internal/health"
+	"github.com/map-services/gps-routes-api/internal/metrics"
 	"github.com/map-services/gps-routes-api/middlewares"
 	"github.com/map-services/gps-routes-api/repositories"
 	"github.com/map-services/gps-routes-api/routes"
@@ -61,13 +64,13 @@ func NewHttpApiServer(port int) {
 	})
 
 	engine.Use(
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
+		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics", "/ready"),
 		gin.Recovery(),
 		cors.New(cors.Config{
 			AllowAllOrigins: true,
 			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type"},
 		}),
-		middlewares.AuthMiddleware("/healthz"),
+		middlewares.AuthMiddleware("/healthz", "/ready"),
 		middlewares.ErrorHandler(),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
@@ -88,12 +91,29 @@ func NewHttpApiServer(port int) {
 		}
 	}()
 
+	// Log database connection pool stats on startup.
+	metrics.LogStats(sqliteDB)
+
+	// Start DB stats collector for Prometheus metrics (every 30 seconds).
+	dbMetrics := metrics.NewDBStatsCollector(sqliteDB, prometheus, 30*time.Second)
+	defer dbMetrics.Stop()
+
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
 		checks.SqlCheck{Sql: sqliteDB},
 	})
 	if err != nil {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
+
+	// Add custom readiness endpoint that performs a thorough database check.
+	engine.GET("/ready", func(c *gin.Context) {
+		result := health.ReadinessProbe(sqliteDB, health.DefaultReadinessTimeout)
+		if result.Status == "healthy" {
+			c.JSON(http.StatusOK, result)
+		} else {
+			c.JSON(http.StatusServiceUnavailable, result)
+		}
+	})
 
 	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
 	// repo := repositories.NewCachedRepository(prometheus, repositories.NewSQLiteRouteRepository(sqliteDB))

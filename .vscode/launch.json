@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "main_sqlite.go",
+            "program": "main.go",
             "args": ["api-server", "8080"],
             "buildFlags": "-tags=sqlite,sqlite_fts5"
         },
@@ -31,64 +31,6 @@
             "args": [
                 "sitemap",
                 "https://www.destructuring-bind.org/gps-routes/"
-            ],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
-        },
-        {
-            "name": "Ping Database",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "main.go",
-            "args": ["ping"],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
-        },
-        {
-            "name": "Run Migrations [UP]",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "main.go",
-            "args": ["migration", "up", "db/migrations"],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
-        },
-        {
-            "name": "Run Migrations [DOWN]",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "main.go",
-            "args": ["migration", "down", "db/migrations"],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
-        },
-        {
-            "name": "Migrate PostgreSQL → SQLite (Dry-run)",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "main.go",
-            "args": [
-                "migrate-data",
-                "--sqlite-db",
-                "./data/routes_test.db",
-                "--dry-run",
-                "--max-records",
-                "1000"
-            ],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
-        },
-        {
-            "name": "Migrate PostgreSQL → SQLite (Full)",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "main.go",
-            "args": [
-                "migrate-data",
-                "--sqlite-db",
-                "./data/routes.db",
-                "--max-records",
-                "100000"
             ],
             "buildFlags": "-tags=sqlite,sqlite_fts5"
         }

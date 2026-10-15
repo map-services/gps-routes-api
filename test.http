@@ -1,0 +1,106 @@
+### Healthcheck
+GET http://localhost:8080/healthz
+
+
+### Readiness Probe
+GET http://localhost:8080/ready
+
+
+### Prometheus Metrics
+GET http://localhost:8080/metrics
+
+
+### Search Routes (Bounding Box)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "boundingBox": [-2.984805, 54.418630, -2.947941, 54.438327]
+}
+
+
+### Search Routes (Full Text Query)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "query": "Locking"
+}
+
+
+### Search Routes (Nearby)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "nearby": {
+    "lat": 54.42,
+    "lon": -2.97,
+    "distance": 5000
+  }
+}
+
+
+### Search Routes (with Facets)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "query": "Locking",
+  "facets": ["surface"]
+}
+
+
+### Count All Routes
+POST http://localhost:8080/v1/gps-routes/count
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "boundingBox": [-2.984805, 54.418630, -2.947941, 54.438327]
+}
+
+
+### Get Route by Object ID
+GET http://localhost:8080/v1/gps-routes/1
+X-API-Key: {{API_KEY}}
+
+
+### Facet Counts
+POST http://localhost:8080/v1/gps-routes/facets/surface
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "limit": 10
+}
+
+
+### CORS Preflight
+OPTIONS http://localhost:8080/v1/gps-routes/search
+Origin: http://example.com
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: X-API-Key, Content-Type
+
+
+### Unauthorized (No API Key)
+POST http://localhost:8080/v1/gps-routes/search
+Content-Type: application/json
+
+{
+  "query": "test"
+}
+
+
+### Rate Limited (send multiple times rapidly)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: {{API_KEY}}
+Content-Type: application/json
+
+{
+  "query": "test"
+}
