@@ -1,21 +1,22 @@
-.PHONY: all build build-sqlite build-static test test-ci test-spatial lint clean run run-sqlite import-data docker docker-build docker-push help
+.PHONY: all build build-sqlite build-static test test-ci test-race lint clean run run-sqlite import-data docker docker-build docker-push help
 
 # Default target
 all: build test
 
 # --- Build targets ---
 
-# Build the application (SQLite + FTS5 + Spatialite via cgo).
+# Build the application (SQLite + FTS5 via cgo).
 build: build-sqlite
 
 build-sqlite:
 	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .
 
-# Build a statically-linked binary (no CGO / no Spatialite).
-# Falls back to plain sqlite3 — bbox queries use lat/lng range scans
-# instead of ST_Within/BuildMbr.
+# Build a statically-linked binary. NOTE: CGO_ENABLED=1 is required because
+# github.com/mattn/go-sqlite3 is a cgo binding to the C SQLite library.
+# The binary is still statically linked (no dynamic libsqlite3 dependency) because
+# go-sqlite3 compiles SQLite from source into the binary.
 build-static:
-	CGO_ENABLED=0 go build -o gps-routes .
+	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -ldflags "-extldflags '-static'" -o gps-routes .
 
 # --- Run targets ---
 
@@ -34,20 +35,20 @@ import-data:
 
 # --- Test targets ---
 
-# Run all tests with SQLite + FTS5 + Spatialite.
+# Run all tests with SQLite + FTS5.
 test:
 	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v -coverprofile=profile.cov -coverpkg=./... ./...
 
-# Run tests suitable for CI (same as `test` but with junit output).
+# Run tests with race detector (slow; use for concurrency debugging).
+test-race:
+	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -race -count=1 ./...
+
+# Run tests suitable for CI: JUnit XML output + race detector.
 test-ci:
 	mkdir -p ./test-reports/
 	CGO_ENABLED=1 gotestsum --junitfile=./test-reports/junit.xml --format github-actions \
-		-- -v -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
+		-- -v -race -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
 
-# Run the Spatialite-on path specifically (requires libsqlite3-mod-spatialite).
-test-spatial:
-	sudo apt-get install -y libsqlite3-mod-spatialite 2>/dev/null || true
-	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -count=1 -v ./db/...
 
 # --- Lint ---
 
@@ -88,13 +89,13 @@ help:
 	@echo ""
 	@echo "Targets:"
 	@echo "  all          Build and test (default)"
-	@echo "  build        Build with SQLite + FTS5 + Spatialite (cgo)"
-	@echo "  build-static Build without cgo (plain sqlite3, no Spatialite)"
+	@echo "  build        Build with SQLite + FTS5 (cgo)"
+	@echo "  build-static Build a statically-linked binary (CGO required for go-sqlite3)"
 	@echo "  run          Run the API server on port 8080"
 	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; set OVERWRITE=1 to delete db first; override input with DATA_PATH)"
 	@echo "  test         Run all tests with coverage"
-	@echo "  test-ci      Run tests with junit XML for CI"
-	@echo "  test-spatial Run Spatialite-specific tests (requires libsqlite3-mod-spatialite)"
+	@echo "  test-ci      Run tests with junit XML + race detector for CI"
+	@echo "  test-race    Run tests with race detector (slow)"
 	@echo "  lint         Run golangci-lint (falls back to go vet)"
 	@echo "  docker       Build Docker image"
 	@echo "  docker-run   Run the Docker container"

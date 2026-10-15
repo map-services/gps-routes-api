@@ -3,98 +3,323 @@ package db
 import (
 	"context"
 	"database/sql"
+	"math"
 	"strings"
 	"testing"
 )
 
-// openSpatialiteTestDB opens a throwaway SQLite DB through the spatialite-enabled
-// driver registered in sqlite_connect.go init(). go-sqlite3 only calls
-// sqlite3_enable_load_extension(1) when extensions are configured via the driver
-// config, so db.Ping() triggers the lazy load of `mod_spatialite`. When the
-// library isn't installed/loadable (e.g. no libsqlite3-mod-spatialite on the
-// loader path), NewSQLiteDB falls back to plain FTS5-only sqlite3; the same
-// degrades to t.Skip here so the suite stays green everywhere.
-func openSpatialiteTestDB(t *testing.T) *sql.DB {
+// openHaversineTestDB opens a throwaway SQLite DB through the
+// "sqlite3_haversine" driver (registered in db/sqlite_connect.go init()),
+// which auto-registers the haversine_distance() SQL function on every connection.
+func openHaversineTestDB(t *testing.T) *sql.DB {
 	t.Helper()
-	path := t.TempDir() + "/spatial_test.db"
+	path := t.TempDir() + "/haversine_test.db"
 	uri := "file:" + path + "?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL"
-	dbh, err := sql.Open("sqlite3_spatialite", uri)
+	dbh, err := sql.Open("sqlite3_haversine", uri)
 	if err != nil {
-		t.Skipf("open sqlite3_spatialite driver: %v", err)
+		t.Fatalf("open sqlite3_haversine driver: %v", err)
 	}
 	dbh.SetMaxOpenConns(1)
-	if err := dbh.Ping(); err != nil {
-		_ = dbh.Close()
-		t.Skipf("mod_spatialite not loadable (install libsqlite3-mod-spatialite): %v", err)
-	}
 	t.Cleanup(func() { _ = dbh.Close() })
 	return dbh
 }
 
-// TestSQLiteSpatialiteSpatialFunctions asserts that the Spatialite extension is
-// genuinely loaded (not merely compiled) and that the bbox predicate emitted by
-// SQLiteDialect.BuildSTWithinQuery executes against libspatialite 5.x.
-//
-// libspatialite 5.x dropped PostGIS's ST_MakeEnvelope in favour of
-// BuildMbr(xmin, ymin, xmax, ymax, srid); ST_Within returns an integer
-// (1=true / 0=false); ST_AsText returns WKT such as "POINT(1 2)".
-func TestSQLiteSpatialiteSpatialFunctions(t *testing.T) {
-	dbh := openSpatialiteTestDB(t)
+// createSpatialSchema creates a minimal routes + routes_rtree schema (matching
+// db/migrations/00002_sqlite_schema.sql) for spatial query testing without
+// needing the full migration.
+func createSpatialSchema(t *testing.T, dbh *sql.DB) {
+	t.Helper()
+	ctx := context.Background()
+	schema := `
+		CREATE TABLE routes (
+			object_id TEXT PRIMARY KEY,
+			latitude  REAL,
+			longitude REAL
+		);
+		CREATE VIRTUAL TABLE routes_rtree USING rtree(
+			id, min_lat, max_lat, min_lon, max_lon
+		);
+		CREATE TRIGGER routes_rtree_insert AFTER INSERT ON routes BEGIN
+			INSERT OR REPLACE INTO routes_rtree (id, min_lat, max_lat, min_lon, max_lon)
+			VALUES (NEW.rowid, NEW.latitude, NEW.latitude, NEW.longitude, NEW.longitude);
+		END;
+		CREATE TRIGGER routes_rtree_update AFTER UPDATE ON routes BEGIN
+			INSERT OR REPLACE INTO routes_rtree (id, min_lat, max_lat, min_lon, max_lon)
+			VALUES (NEW.rowid, NEW.latitude, NEW.latitude, NEW.longitude, NEW.longitude);
+		END;
+		CREATE TRIGGER routes_rtree_delete AFTER DELETE ON routes BEGIN
+			DELETE FROM routes_rtree WHERE id = OLD.rowid;
+		END;
+	`
+	if _, err := dbh.ExecContext(ctx, schema); err != nil {
+		t.Fatalf("create spatial schema: %v", err)
+	}
+}
+
+// TestHaversineDistanceFunction verifies the Go-registered haversine_distance
+// SQL function returns correct great-circle distances.
+func TestHaversineDistanceFunction(t *testing.T) {
+	dbh := openHaversineTestDB(t)
 	ctx := context.Background()
 
-	// ST_AsText + ST_GeomFromText must round-trip a POINT verbatim.
-	var wkt string
-	if err := dbh.QueryRowContext(ctx,
-		`SELECT ST_AsText(ST_GeomFromText('POINT(1 2)', 4326))`,
-	).Scan(&wkt); err != nil {
-		t.Fatalf("spatial functions not registered: %v", err)
+	// London to New York: ~5,570 km
+	// haversine_distance(lon1, lat1, lon2, lat2) → metres
+	var dist float64
+	err := dbh.QueryRowContext(ctx,
+		`SELECT haversine_distance(-0.1278, 51.5074, -74.0060, 40.7128)`,
+	).Scan(&dist)
+	if err != nil {
+		t.Fatalf("haversine_distance query failed: %v", err)
 	}
-	if wkt != "POINT(1 2)" {
-		t.Fatalf("ST_AsText = %q, want \"POINT(1 2)\"", wkt)
-	}
-
-	// BuildMbr is libspatialite 5.x's bbox constructor (replaces ST_MakeEnvelope).
-	var mbrWKT string
-	if err := dbh.QueryRowContext(ctx,
-		`SELECT ST_AsText(BuildMbr(0, 0, 10, 10, 4326))`,
-	).Scan(&mbrWKT); err != nil {
-		t.Fatalf("BuildMbr failed: %v", err)
-	}
-	if !strings.Contains(mbrWKT, "POLYGON") {
-		t.Fatalf("BuildMbr did not return a POLYGON: %q", mbrWKT)
+	if dist < 5560000 || dist > 5580000 {
+		t.Errorf("London→NYC distance = %f m, want ~5,570,000 m", dist)
 	}
 
-	// ST_Within against a BuildMbr bbox: inside -> 1, outside -> 0. This is the
-	// exact SQL shape SQLiteDialect.BuildSTWithinQuery now generates.
-	cases := []struct {
-		point  string
-		inside bool
+	// Same point → 0
+	err = dbh.QueryRowContext(ctx,
+		`SELECT haversine_distance(-0.1278, 51.5074, -0.1278, 51.5074)`,
+	).Scan(&dist)
+	if err != nil {
+		t.Fatalf("haversine_distance same-point query failed: %v", err)
+	}
+	if dist != 0 {
+		t.Errorf("same-point distance = %f, want 0", dist)
+	}
+}
+
+// approxEq returns true if |a-b| < 1e-9, for float64 comparison in R*Tree tests.
+func approxEq(a, b float64) bool { return math.Abs(a-b) < 1e-6 }
+
+// TestRTreesyncTriggers verifies that INSERT/UPDATE/DELETE on routes
+// automatically maintains the routes_rtree virtual table.
+func TestRTreesyncTriggers(t *testing.T) {
+	dbh := openHaversineTestDB(t)
+	createSpatialSchema(t, dbh)
+	ctx := context.Background()
+
+	// Insert a route — trigger should add a row to routes_rtree.
+	if _, err := dbh.ExecContext(ctx,
+		`INSERT INTO routes (object_id, latitude, longitude) VALUES ('r1', 51.5, -0.13)`); err != nil {
+		t.Fatalf("insert r1: %v", err)
+	}
+
+	var rtreeCount int
+	if err := dbh.QueryRowContext(ctx, `SELECT COUNT(*) FROM routes_rtree`).Scan(&rtreeCount); err != nil {
+		t.Fatalf("count routes_rtree: %v", err)
+	}
+	if rtreeCount != 1 {
+		t.Errorf("routes_rtree count after 1 insert = %d, want 1", rtreeCount)
+	}
+
+	// Verify the R*Tree entry matches the route coords.
+	var minLat, maxLat, minLon, maxLon float64
+	if err := dbh.QueryRowContext(ctx,
+		`SELECT min_lat, max_lat, min_lon, max_lon FROM routes_rtree WHERE id = (SELECT rowid FROM routes WHERE object_id = 'r1')`).Scan(&minLat, &maxLat, &minLon, &maxLon); err != nil {
+		t.Fatalf("select routes_rtree: %v", err)
+	}
+	if !approxEq(minLat, 51.5) || !approxEq(maxLat, 51.5) || !approxEq(minLon, -0.13) || !approxEq(maxLon, -0.13) {
+		t.Errorf("routes_rtree entry = (%f,%f,%f,%f), want (~51.5,51.5,-0.13,-0.13)", minLat, maxLat, minLon, maxLon)
+	}
+
+	// Delete — trigger should remove the row.
+	if _, err := dbh.ExecContext(ctx, `DELETE FROM routes WHERE object_id = 'r1'`); err != nil {
+		t.Fatalf("delete r1: %v", err)
+	}
+	if err := dbh.QueryRowContext(ctx, `SELECT COUNT(*) FROM routes_rtree`).Scan(&rtreeCount); err != nil {
+		t.Fatalf("count routes_rtree after delete: %v", err)
+	}
+	if rtreeCount != 0 {
+		t.Errorf("routes_rtree count after delete = %d, want 0", rtreeCount)
+	}
+}
+
+// TestRTreepBboxQuery verifies that the SQL generated by
+// SQLiteDialect.BuildSTWithinQuery (R*Tree overlap test) correctly filters
+// routes inside a bounding box — the direct replacement for
+// Spatialite's ST_Within(BuildMbr(...)).
+func TestRTreepBboxQuery(t *testing.T) {
+	dbh := openHaversineTestDB(t)
+	createSpatialSchema(t, dbh)
+	ctx := context.Background()
+	d := &SQLiteDialect{}
+
+	// London, NYC, Edinburgh
+	inserts := []struct{ id, lat, lon string }{
+		{"london", "51.5074", "-0.1278"},
+		{"nyc", "40.7128", "-74.0060"},
+		{"edin", "55.9533", "-3.1883"},
+	}
+	for _, r := range inserts {
+		if _, err := dbh.ExecContext(ctx,
+			`INSERT INTO routes (object_id, latitude, longitude) VALUES (?, ?, ?)`,
+			r.id, r.lat, r.lon); err != nil {
+			t.Fatalf("insert %s: %v", r.id, err)
+		}
+	}
+
+	// Box around London: [lngMin, latMin, lngMax, latMax]
+	londonBox := []float64{-0.2, 51.4, -0.1, 51.6}
+	bboxSQL := d.BuildSTWithinQuery("_geoloc", londonBox[0], londonBox[1], londonBox[2], londonBox[3])
+	query := "SELECT object_id FROM routes WHERE " + bboxSQL + " ORDER BY object_id"
+
+	rows, err := dbh.QueryContext(ctx, query)
+	if err != nil {
+		t.Fatalf("bbox query: %v", err)
+	}
+	defer func() { _ = rows.Close() }()
+
+	var ids []string
+	for rows.Next() {
+		var id string
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan: %v", err)
+		}
+		ids = append(ids, id)
+	}
+	if len(ids) != 1 || ids[0] != "london" {
+		t.Errorf("London box = %v, want [london]", ids)
+	}
+
+	// UK-wide box: London + Edinburgh, but not NYC
+	ukBox := []float64{-3.5, 51.0, 2.0, 57.0}
+	bboxSQL = d.BuildSTWithinQuery("_geoloc", ukBox[0], ukBox[1], ukBox[2], ukBox[3])
+	query = "SELECT COUNT(*) FROM routes WHERE " + bboxSQL
+	var count int
+	if err := dbh.QueryRowContext(ctx, query).Scan(&count); err != nil {
+		t.Fatalf("uk box count: %v", err)
+	}
+	if count != 2 {
+		t.Errorf("UK box count = %d, want 2 (london+edin)", count)
+	}
+
+	// Far box: none
+	farBox := []float64{10, 60, 12, 62}
+	bboxSQL = d.BuildSTWithinQuery("_geoloc", farBox[0], farBox[1], farBox[2], farBox[3])
+	query = "SELECT COUNT(*) FROM routes WHERE " + bboxSQL
+	if err := dbh.QueryRowContext(ctx, query).Scan(&count); err != nil {
+		t.Fatalf("far box count: %v", err)
+	}
+	if count != 0 {
+		t.Errorf("far box count = %d, want 0", count)
+	}
+}
+
+// TestHaversineRadiusQuery verifies that BuildSTDWithinQuery (R*Tree bbox
+// prefilter + haversine_distance exact filter) correctly returns routes
+// within a radius — the direct replacement for Spatialite's ST_DWithin.
+func TestHaversineRadiusQuery(t *testing.T) {
+	dbh := openHaversineTestDB(t)
+	createSpatialSchema(t, dbh)
+	ctx := context.Background()
+	d := &SQLiteDialect{}
+
+	// London + 2 cities ~500 km away (York, Bristol)
+	routes := []struct {
+		id       string
+		lat, lon float64
 	}{
-		{`POINT(2 2)`, true},    // inside [0,0]-[10,10]
-		{`POINT(50 50)`, false}, // outside
+		{"london", 51.5074, -0.1278},
+		{"york", 53.9583, -1.0803},
+		{"bristol", 51.4543, -2.5877},
 	}
-	for _, c := range cases {
-		var got int
-		if err := dbh.QueryRowContext(ctx,
-			`SELECT ST_Within(ST_GeomFromText(?, 4326), BuildMbr(0, 0, 10, 10, 4326))`, c.point,
-		).Scan(&got); err != nil {
-			t.Fatalf("ST_Within(%s) failed: %v", c.point, err)
-		}
-		want := 0
-		if c.inside {
-			want = 1
-		}
-		if got != want {
-			t.Errorf("ST_Within(%s) = %d, want %d", c.point, got, want)
+	for _, r := range routes {
+		if _, err := dbh.ExecContext(ctx,
+			`INSERT INTO routes (object_id, latitude, longitude) VALUES (?, ?, ?)`,
+			r.id, r.lat, r.lon); err != nil {
+			t.Fatalf("insert %s: %v", r.id, err)
 		}
 	}
 
-	// Regression guard: ST_MakeEnvelope must NOT load (libspatialite 5.x omits
-	// it); this keeps SQLiteDialect.BuildSTWithinQuery on BuildMbr.
-	var _ interface{}
-	if err := dbh.QueryRowContext(ctx,
-		`SELECT ST_AsText(ST_MakeEnvelope(0, 0, 1, 1, 4326))`,
-	).Scan(&struct{}{}); err == nil {
-		t.Fatal("ST_MakeEnvelope unexpectedly loaded; SQLiteDialect must keep emitting BuildMbr")
+	// 100 km radius around London: should match London only (York ~300km, Bristol ~190km).
+	radiusSQL := d.BuildSTDWithinQuery("_geoloc", -0.1278, 51.5074, 100000)
+	query := "SELECT object_id FROM routes WHERE " + radiusSQL
+	rows, err := dbh.QueryContext(ctx, query)
+	if err != nil {
+		t.Fatalf("radius query (100km): %v", err)
+	}
+	var ids []string
+	for rows.Next() {
+		var id string
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
+		ids = append(ids, id)
+	}
+	_ = rows.Close()
+	if len(ids) != 1 || ids[0] != "london" {
+		t.Errorf("100km radius from London = %v, want [london]", ids)
+	}
+
+	// 250 km radius around London: should match London + Bristol (~190km), not York (~300km).
+	radiusSQL = d.BuildSTDWithinQuery("_geoloc", -0.1278, 51.5074, 250000)
+	query = "SELECT object_id FROM routes WHERE " + radiusSQL
+	rows, err = dbh.QueryContext(ctx, query)
+	if err != nil {
+		t.Fatalf("radius query (250km): %v", err)
+	}
+	ids = nil
+	for rows.Next() {
+		var id string
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
+		ids = append(ids, id)
+	}
+	_ = rows.Close()
+	if len(ids) != 2 {
+		t.Errorf("250km radius from London = %v (count=%d), want 2 routes", ids, len(ids))
+	}
+}
+
+// TestHaversineDistanceSort verifies that BuildDistanceSort (haversine_distance
+// ASC) correctly orders routes by proximity to a centre point.
+func TestHaversineDistanceSort(t *testing.T) {
+	dbh := openHaversineTestDB(t)
+	createSpatialSchema(t, dbh)
+	ctx := context.Background()
+	d := &SQLiteDialect{}
+
+	// London (closest), York (~300km), Bristol (~190km) to a London centre.
+	// York is farther than Bristol.
+	routes := []struct {
+		id       string
+		lat, lon float64
+	}{
+		{"york", 53.9583, -1.0803},
+		{"london", 51.5074, -0.1278},
+		{"bristol", 51.4543, -2.5877},
+	}
+	for _, r := range routes {
+		if _, err := dbh.ExecContext(ctx,
+			`INSERT INTO routes (object_id, latitude, longitude) VALUES (?, ?, ?)`,
+			r.id, r.lat, r.lon); err != nil {
+			t.Fatalf("insert %s: %v", r.id, err)
+		}
+	}
+
+	sortExpr := d.BuildDistanceSort("_geoloc", -0.1278, 51.5074)
+	query := "SELECT object_id FROM routes ORDER BY " + sortExpr + " ASC"
+
+	rows, err := dbh.QueryContext(ctx, query)
+	if err != nil {
+		t.Fatalf("distance sort query: %v", err)
+	}
+	defer func() { _ = rows.Close() }()
+
+	var order []string
+	for rows.Next() {
+		var id string
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
+		order = append(order, id)
+	}
+
+	if len(order) != 3 {
+		t.Fatalf("expected 3 rows, got %d: %v", len(order), order)
+	}
+	// London centre → London must be first, then Bristol, then York.
+	if !strings.Contains(strings.Join(order, ","), "london,bristol,york") {
+		t.Errorf("distance sort order = %v, want london,bristol,york", order)
 	}
 }

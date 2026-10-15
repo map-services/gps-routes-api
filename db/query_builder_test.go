@@ -1,6 +1,8 @@
 package db
 
 import (
+	"fmt"
+	"math"
 	"testing"
 
 	"github.com/map-services/gps-routes-api/models/common"
@@ -56,17 +58,13 @@ func TestQueryBuilder_Build(t *testing.T) {
 		{
 			name: "bounding box",
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
-			// SQLite emits a lat/lng range pre-filter (seekable via the
-			// idx_routes_latitude / idx_routes_longitude B-tree indexes) ahead of
-			// the precise ST_Within(BuildMbr(...)) spatial test. boundingBox is
-			// [lngMin, latMin, lngMax, latMax] = {1.9, 2.8, 3.7, 4.6}, so the
-			// positional '?' values follow textual order:
-			//   latitude BETWEEN ?(2.8) AND ?(4.6)
-			//   AND longitude BETWEEN ?(1.9) AND ?(3.7)
-			//   AND ST_Within(_geoloc, BuildMbr(?(1.9),?(2.8),?(3.7),?(4.6), 4326))
+			// R*Tree bbox predicate: min_lat <= latMax AND max_lat >= latMin
+			// AND min_lon <= lonMax AND max_lon >= lonMin.
+			// boundingBox is [lngMin, latMin, lngMax, latMax] = {1.9, 2.8, 3.7, 4.6}.
+			// Values are embedded directly (no '?' params) by BuildSTWithinQuery.
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE latitude BETWEEN ? AND ? AND longitude BETWEEN ? AND ? AND ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))",
-				params: []any{2.8, 4.6, 1.9, 3.7, 1.9, 2.8, 3.7, 4.6},
+				sql:    fmt.Sprintf("SELECT * FROM routes WHERE routes.rowid IN (SELECT id FROM routes_rtree WHERE min_lat <= %f AND max_lat >= %f AND min_lon <= %f AND max_lon >= %f)", 4.6, 2.8, 3.7, 1.9),
+				params: []any{},
 			},
 		},
 		{
@@ -80,12 +78,19 @@ func TestQueryBuilder_Build(t *testing.T) {
 					DistanceKm: 20,
 				},
 			}),
-			// BuildSTDWithinQuery produces 6 positional '?' in textual order:
-			// lat, lat, lon, lon, dist, dist. SQLite cannot reuse '?' (unlike
-			// PostgreSQL's $N), so params are appended as [lat, lat, lon, lon, dist, dist].
+			// BuildSTDWithinQuery embeds an R*Tree bbox (computed from centre +
+			// distance) + haversine_distance() exact filter. All values are
+			// embedded directly as SQL literals — no '?' params.
+			// latDelta = dist/111320; lonDelta = dist/(111320*cos(radians(lat)))
 			want: Result{
-				sql:    "SELECT * FROM routes WHERE (latitude - ?) * (latitude - ?) + (longitude - ?) * (longitude - ?) < (?/111.0) * (?/111.0)",
-				params: []any{1.234, 1.234, 5.678, 5.678, int32(20000), int32(20000)},
+				sql: func() string {
+					lat, lon, dist := 1.234, 5.678, float64(20000)
+					latDelta := dist / 111320.0
+					lonDelta := dist / (111320.0 * math.Cos(lat*math.Pi/180))
+					return fmt.Sprintf("SELECT * FROM routes WHERE routes.rowid IN (SELECT id FROM routes_rtree WHERE min_lat <= %f AND max_lat >= %f AND min_lon <= %f AND max_lon >= %f) AND haversine_distance(%f, %f, longitude, latitude) <= %f",
+						lat+latDelta, lat-latDelta, lon+lonDelta, lon-lonDelta, lon, lat, dist)
+				}(),
+				params: []any{},
 			},
 		},
 		{

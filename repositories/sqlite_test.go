@@ -5,7 +5,6 @@ import (
 	"database/sql"
 	"fmt"
 	"os"
-	"strings"
 	"sync"
 	"testing"
 	"time"
@@ -32,8 +31,9 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 		t.Fatalf("Failed to create SQLite DB: %v", err)
 	}
 
-	// Create tables (simplified schema for testing - without Spatialite)
-	// Note: Real data/routes.db uses _geoloc with Spatialite spatial functions
+	// Create tables (simplified schema for testing). Includes routes_rtree
+	// (R*Tree virtual table + sync triggers) so spatial bbox queries work
+	// via SQLiteDialect.BuildSTWithinQuery - no Spatialite extension needed.
 	_, err = testDB.Exec(`
 		CREATE TABLE routes (
 			object_id TEXT PRIMARY KEY,
@@ -44,7 +44,6 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 			gpx_url TEXT,
 			latitude REAL,
 			longitude REAL,
-			_geoloc BLOB,
 			distance_km REAL,
 			description TEXT,
 			video_url TEXT,
@@ -63,6 +62,24 @@ func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {
 			route_type TEXT,
 			activities TEXT
 		);
+
+		CREATE VIRTUAL TABLE routes_rtree USING rtree(
+			id, min_lat, max_lat, min_lon, max_lon
+		);
+
+		CREATE TRIGGER routes_rtree_insert AFTER INSERT ON routes BEGIN
+			INSERT OR REPLACE INTO routes_rtree (id, min_lat, max_lat, min_lon, max_lon)
+			VALUES (NEW.rowid, NEW.latitude, NEW.latitude, NEW.longitude, NEW.longitude);
+		END;
+
+		CREATE TRIGGER routes_rtree_update AFTER UPDATE ON routes BEGIN
+			INSERT OR REPLACE INTO routes_rtree (id, min_lat, max_lat, min_lon, max_lon)
+			VALUES (NEW.rowid, NEW.latitude, NEW.latitude, NEW.longitude, NEW.longitude);
+		END;
+
+		CREATE TRIGGER routes_rtree_delete AFTER DELETE ON routes BEGIN
+			DELETE FROM routes_rtree WHERE id = OLD.rowid;
+		END;
 
 		CREATE TABLE nearby (
 			route_object_id TEXT,
@@ -375,24 +392,17 @@ func TestSQLiteFacetFilterWithPagination(t *testing.T) {
 	}
 }
 
-// TestSQLiteStorePopulatesGeolocLockingBbox is the regression test for
-// "bbox matches return empty but do not error". It asserts the FULL stack:
-// Store writes a Spatialite geometry BLOB into _geoloc, then SearchHits'
-// `latitude BETWEEN ? AND ? AND longitude BETWEEN ? AND ? AND ST_Within(_geoloc, BuildMbr(?, ?, ?, ?, 4326))`
-// predicate (positional ? binding) returns ONLY routes whose start position
-// is inside the box — the lat/lng range is the indexable pre-filter, the
-// ST_Within(BuildMbr) is the precise spatial confirmation.
-// Requires mod_spatialite; skipped otherwise (FTS5-only fallback stores _geoloc
-// as NULL and bbox predicates are documented as spatialite-only).
-func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
+// TestSQLiteStoreLockingBbox is the regression test for "bbox matches return
+// empty but do not error". It asserts the FULL stack: Store writes lat/lng, the
+// routes_rtree trigger auto-populates the R*Tree index, then SearchHits'
+// routes_rtree overlap predicate returns ONLY routes whose start position is
+// inside the box — no Spatialite extension required, just SQLite's built-in
+// R*Tree + the Go-registered haversine_distance() function for radius queries.
+func TestSQLiteStoreLockingBbox(t *testing.T) {
 	testDB, cleanup := setupSQLiteTestDB(t)
 	defer cleanup()
 	repo := NewSQLiteRouteRepository(testDB)
 	ctx := context.Background()
-
-	if !repo.spatialite {
-		t.Skip("mod_spatialite not loadable; bbox predicates require it")
-	}
 
 	mustStore := func(id string, lat, lon float64) {
 		t.Helper()
@@ -412,18 +422,6 @@ func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
 	mustStore("london", 51.5074, -0.1278) // London
 	mustStore("nyc", 40.7128, -74.0060)   // New York
 	mustStore("edin", 55.9533, -3.1883)   // Edinburgh (north of London box)
-
-	// Sanity: _geoloc must now hold a real Spatialite geometry (not NULL).
-	for _, id := range []string{"london", "nyc", "edin"} {
-		var wkt sql.NullString
-		if err := testDB.QueryRowContext(ctx,
-			`SELECT ST_AsText(_geoloc) FROM routes WHERE object_id = ?`, id).Scan(&wkt); err != nil {
-			t.Fatalf("ST_AsText: %v", err)
-		}
-		if !wkt.Valid || !strings.HasPrefix(wkt.String, "POINT") {
-			t.Errorf("_geoloc[%s] = %q (want POINT... geometry)", id, wkt.String)
-		}
-	}
 
 	// Box around London only: [lngMin, latMin, lngMax, latMax]
 	londonBox := []float64{-0.2, 51.4, -0.1, 51.6}
@@ -447,8 +445,7 @@ func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
 		t.Errorf("CountAll London box = %d, want 1", cnt)
 	}
 
-	// Larger box spanning London + Edinburgh (both north/west of equator, but NYC
-	// at lon -74 is well west of -3, so excluded).
+	// Larger box spanning London + Edinburgh (but NYC at lon -74 is west of -3, excluded).
 	ukBox := []float64{-3.5, 51.0, 2.0, 57.0}
 	hits2, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: ukBox, Limit: 10})
 	if err != nil {
@@ -466,5 +463,47 @@ func TestSQLiteStorePopulatesGeolocLockingBbox(t *testing.T) {
 	}
 	if len(*hits3) != 0 {
 		t.Errorf("far box hits = %d, want 0", len(*hits3))
+	}
+
+	// Radius search: 100 km around London should match only London itself.
+	// (York ~300 km, Bristol ~190 km — both excluded by haversine_distance filter.)
+	nearbyHits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Nearby: &request.Nearby{
+			Center:     &common.GeoLoc{Latitude: 51.5074, Longitude: -0.1278},
+			DistanceKm: 100,
+		},
+	})
+	if err != nil {
+		t.Fatalf("SearchHits nearby 100km: %v", err)
+	}
+	if len(*nearbyHits) != 1 || (*nearbyHits)[0].ObjectID != "london" {
+		t.Errorf("100km radius from London = %d results, want 1", len(*nearbyHits))
+	}
+
+	// Radius search: 250 km around London should match only London.
+	// (Bristol ~190 km is within range; Edinburgh ~615 km is excluded.)
+	// NOTE: Bristol was not inserted in this test (only london, nyc, edin),
+	// so 250 km returns just London.
+	nearbyHits2, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Nearby: &request.Nearby{
+			Center:     &common.GeoLoc{Latitude: 51.5074, Longitude: -0.1278},
+			DistanceKm: 250,
+		},
+	})
+	if err != nil {
+		t.Fatalf("SearchHits nearby 250km: %v", err)
+	}
+	if len(*nearbyHits2) != 1 || (*nearbyHits2)[0].ObjectID != "london" {
+		t.Errorf("250km radius from London = %d results, want 1", len(*nearbyHits2))
+	}
+
+	// Verify _geoloc column no longer exists — R*Tree + lat/lng replaced it entirely.
+	var hasColumn int
+	if err := testDB.QueryRowContext(ctx,
+		`SELECT COUNT(*) FROM pragma_table_info('routes') WHERE name = '_geoloc'`).Scan(&hasColumn); err != nil {
+		t.Fatalf("check _geoloc column: %v", err)
+	}
+	if hasColumn > 0 {
+		t.Errorf("routes table should not have _geoloc column (R*Tree replaces it), but it exists")
 	}
 }

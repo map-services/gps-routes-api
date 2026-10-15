@@ -44,20 +44,16 @@ jobs:
       - name: Install build tools
         run: go install gotest.tools/gotestsum@latest
 
-      - name: Install libsqlite3-mod-spatialite
-        # Makes `mod_spatialite` available on the loader path so the go-sqlite3
-        # `sqlite3_spatialite` driver (Extensions: ["mod_spatialite"], see
-        # db/sqlite_connect.go) actually loads it at Ping() time. This exercises
-        # the Spatialite-on code path (BuildMbr/ST_Within) instead of NewSQLiteDB's
-        # graceful FTS5-only fallback.
-        run: sudo apt-get update && sudo apt-get install -y libsqlite3-mod-spatialite
+      - name: Install build dependencies
+        # libsqlite3-dev provides the SQLite amalgamation needed to CGO-compile
+        # github.com/mattn/go-sqlite3. No Spatialite required: spatial queries
+        # use SQLite's built-in R*Tree + a Go-registered haversine_distance() function.
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev
 
-      - name: Build & test SQLite (FTS5 + Spatialite)
+      - name: Build & test SQLite (FTS5 + haversine)
         # go-sqlite3 is cgo, so a C toolchain (present on ubuntu-latest) + CGO are
-        # required. Spatialite's load_extension is ON BY DEFAULT in go-sqlite3.
-        # With libsqlite3-mod-spatialite installed above, the Spatialite-on path
-        # loads here and SQLiteDialect emits BuildMbr. NewSQLiteDB still falls
-        # back gracefully to plain sqlite3 when the lib is absent.
+        # required. Run tests with -race to catch data races in concurrent-write
+        # paths (e.g. TestSQLiteDbRepository_ConcurrentWrites).
         run: |
           make build
           make test-ci
@@ -125,7 +121,7 @@ jobs:
             type=sha
           labels: |
             maintainer=rm-hull
-            org.opencontainers.image.description=REST API for GPS routes (SQLite + FTS5 + Spatialite)
+            org.opencontainers.image.description=REST API for GPS routes (SQLite + FTS5)
             org.opencontainers.image.source="https://github.com/map-services/gps-routes-api"
             org.opencontainers.image.licenses=MIT
 
