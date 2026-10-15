@@ -45,7 +45,19 @@ func nz(s *string) *string {
 }
 
 func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {
-	// Begin transaction
+	return repo.StoreBatch(ctx, []*domain.RouteMetadata{route})
+}
+
+// StoreBatch inserts multiple routes in a single transaction using prepared
+// statements. This is significantly faster than calling Store() for each route
+// individually, especially during bulk imports, because it avoids per-route
+// transaction overhead and batches FTS/R*Tree trigger execution.
+func (repo *SQLiteDbRepository) StoreBatch(ctx context.Context, routes []*domain.RouteMetadata) error {
+	if len(routes) == 0 {
+		return nil
+	}
+
+	// Begin a single transaction for all routes
 	tx, err := repo.db.BeginTx(ctx, nil)
 	if err != nil {
 		return fmt.Errorf("beginning transaction: %w", err)
@@ -58,85 +70,109 @@ func (repo *SQLiteDbRepository) Store(ctx context.Context, route *domain.RouteMe
 		}
 	}()
 
-	// Convert arrays to JSON
-	terrainJSON, _ := json.Marshal(route.Terrain)
-	activitiesJSON, _ := json.Marshal(route.Activities)
-	facilitiesJSON, _ := json.Marshal(route.Facilities)
-	pointsOfInterestJSON, _ := json.Marshal(route.PointsOfInterest)
-
-	// Insert or replace route
-	_, err = tx.ExecContext(ctx, `
+	// Prepare statements once and reuse for all routes
+	insertRouteSQL := `
 		INSERT OR REPLACE INTO routes (
 		    object_id, created_at, ref, title, headline_image_url,
 		    gpx_url, longitude, latitude, distance_km, description, video_url,
 		    display_address, postcode, district, county, region,
 			state, country, estimated_duration, difficulty, terrain,
 			points_of_interest, facilities, route_type, activities
-		) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-		route.ObjectID, route.CreatedAt, route.Ref, route.Title, nz(route.HeadlineImageUrl),
-		route.GpxUrl, route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm,
-		route.Description, nz(route.VideoUrl), nz(route.DisplayAddress), nz(route.Postcode), nz(route.District),
-		nz(route.County), nz(route.Region), nz(route.State), nz(route.Country), nz(route.EstimatedDuration),
-		nz(route.Difficulty), string(terrainJSON), string(pointsOfInterestJSON), string(facilitiesJSON),
-		nz(route.RouteType), string(activitiesJSON))
+		) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`
+	insertRouteStmt, err := tx.PrepareContext(ctx, insertRouteSQL)
 	if err != nil {
-		return fmt.Errorf("inserting route: %w", err)
+		return fmt.Errorf("preparing route insert: %w", err)
 	}
+	defer func() { _ = insertRouteStmt.Close() }()
 
-	// R*Tree population is handled by the routes_rtree INSERT trigger defined in
-	// db/migrations/00002_sqlite_schema.sql, so lat/lng written above are
-	// automatically indexed for bbox queries.
+	deleteNearbySQL := "DELETE FROM nearby WHERE route_object_id = ?"
+	deleteImagesSQL := "DELETE FROM images WHERE route_object_id = ?"
+	deleteDetailsSQL := "DELETE FROM details WHERE route_object_id = ?"
 
-	// Delete existing related records
-	_, err = tx.ExecContext(ctx, "DELETE FROM nearby WHERE route_object_id = ?", route.ObjectID)
+	insertNearbySQL := `INSERT INTO nearby (route_object_id, description, object_id, ref) VALUES (?, ?, ?, ?)`
+	insertNearbyStmt, err := tx.PrepareContext(ctx, insertNearbySQL)
 	if err != nil {
-		return fmt.Errorf("deleting nearby: %w", err)
+		return fmt.Errorf("preparing nearby insert: %w", err)
 	}
+	defer func() { _ = insertNearbyStmt.Close() }()
 
-	_, err = tx.ExecContext(ctx, "DELETE FROM images WHERE route_object_id = ?", route.ObjectID)
+	insertImageSQL := `INSERT INTO images (route_object_id, src, title, caption) VALUES (?, ?, ?, ?)`
+	insertImageStmt, err := tx.PrepareContext(ctx, insertImageSQL)
 	if err != nil {
-		return fmt.Errorf("deleting images: %w", err)
+		return fmt.Errorf("preparing image insert: %w", err)
 	}
+	defer func() { _ = insertImageStmt.Close() }()
 
-	_, err = tx.ExecContext(ctx, "DELETE FROM details WHERE route_object_id = ?", route.ObjectID)
+	insertDetailSQL := `INSERT INTO details (route_object_id, subtitle, content) VALUES (?, ?, ?)`
+	insertDetailStmt, err := tx.PrepareContext(ctx, insertDetailSQL)
 	if err != nil {
-		return fmt.Errorf("deleting details: %w", err)
+		return fmt.Errorf("preparing detail insert: %w", err)
 	}
+	defer func() { _ = insertDetailStmt.Close() }()
 
-	// Insert nearby routes
-	for _, nearby := range route.Nearby {
-		_, err = tx.ExecContext(ctx, `
-			INSERT INTO nearby (route_object_id, description, object_id, ref)
-			VALUES (?, ?, ?, ?)`,
-			route.ObjectID, nearby.Description, nearby.ObjectID, nearby.Ref)
+	// Insert all routes
+	for _, route := range routes {
+		// Convert arrays to JSON
+		terrainJSON, _ := json.Marshal(route.Terrain)
+		activitiesJSON, _ := json.Marshal(route.Activities)
+		facilitiesJSON, _ := json.Marshal(route.Facilities)
+		pointsOfInterestJSON, _ := json.Marshal(route.PointsOfInterest)
+
+		// Insert or replace route
+		_, err = insertRouteStmt.ExecContext(ctx,
+			route.ObjectID, route.CreatedAt, route.Ref, route.Title, nz(route.HeadlineImageUrl),
+			route.GpxUrl, route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm,
+			route.Description, nz(route.VideoUrl), nz(route.DisplayAddress), nz(route.Postcode), nz(route.District),
+			nz(route.County), nz(route.Region), nz(route.State), nz(route.Country), nz(route.EstimatedDuration),
+			nz(route.Difficulty), string(terrainJSON), string(pointsOfInterestJSON), string(facilitiesJSON),
+			nz(route.RouteType), string(activitiesJSON))
 		if err != nil {
-			return fmt.Errorf("inserting nearby: %w", err)
+			return fmt.Errorf("inserting route %s: %w", route.ObjectID, err)
+		}
+
+		// Delete existing related records
+		_, err = tx.ExecContext(ctx, deleteNearbySQL, route.ObjectID)
+		if err != nil {
+			return fmt.Errorf("deleting nearby for %s: %w", route.ObjectID, err)
+		}
+		_, err = tx.ExecContext(ctx, deleteImagesSQL, route.ObjectID)
+		if err != nil {
+			return fmt.Errorf("deleting images for %s: %w", route.ObjectID, err)
+		}
+		_, err = tx.ExecContext(ctx, deleteDetailsSQL, route.ObjectID)
+		if err != nil {
+			return fmt.Errorf("deleting details for %s: %w", route.ObjectID, err)
+		}
+
+		// Insert nearby routes
+		for _, nearby := range route.Nearby {
+			_, err = insertNearbyStmt.ExecContext(ctx,
+				route.ObjectID, nearby.Description, nearby.ObjectID, nearby.Ref)
+			if err != nil {
+				return fmt.Errorf("inserting nearby for %s: %w", route.ObjectID, err)
+			}
+		}
+
+		// Insert images
+		for _, image := range route.Images {
+			_, err = insertImageStmt.ExecContext(ctx,
+				route.ObjectID, image.Src, image.Title, image.Caption)
+			if err != nil {
+				return fmt.Errorf("inserting image for %s: %w", route.ObjectID, err)
+			}
+		}
+
+		// Insert details
+		for _, detail := range route.Details {
+			_, err = insertDetailStmt.ExecContext(ctx,
+				route.ObjectID, detail.Subtitle, detail.Content)
+			if err != nil {
+				return fmt.Errorf("inserting detail for %s: %w", route.ObjectID, err)
+			}
 		}
 	}
 
-	// Insert images
-	for _, image := range route.Images {
-		_, err = tx.ExecContext(ctx, `
-			INSERT INTO images (route_object_id, src, title, caption)
-			VALUES (?, ?, ?, ?)`,
-			route.ObjectID, image.Src, image.Title, image.Caption)
-		if err != nil {
-			return fmt.Errorf("inserting image: %w", err)
-		}
-	}
-
-	// Insert details
-	for _, detail := range route.Details {
-		_, err = tx.ExecContext(ctx, `
-			INSERT INTO details (route_object_id, subtitle, content)
-			VALUES (?, ?, ?)`,
-			route.ObjectID, detail.Subtitle, detail.Content)
-		if err != nil {
-			return fmt.Errorf("inserting detail: %w", err)
-		}
-	}
-
-	// Commit transaction
+	// Commit the single transaction for all routes
 	if err = tx.Commit(); err != nil {
 		return fmt.Errorf("committing transaction: %w", err)
 	}

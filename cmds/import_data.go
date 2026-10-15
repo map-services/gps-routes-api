@@ -120,6 +120,8 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 		bar = progressbar.Default(totalRecords)
 	}
 
+	// Phase 1: Load all JSON files into memory.
+	routes := make([]*domain.RouteMetadata, 0, len(files))
 	for idx, file := range files {
 		if err := bar.Add(1); err != nil {
 			log.Fatalf("issue with progress bar: %v", err)
@@ -128,14 +130,19 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 		if err != nil {
 			log.Fatalf("failed to load file: %s: %v", file, err)
 		}
-
-		if err := repo.Store(ctx, data); err != nil {
-			log.Fatalf("failed to store objectID: %s: %v", data.ObjectID, err)
-		}
+		routes = append(routes, data)
 
 		if isDocker && idx%37 == 0 {
-			log.Printf("Processed %d records...\n", idx)
+			log.Printf("Loaded %d records...\n", idx)
 		}
+	}
+
+	// Phase 2: Insert all routes in a single transaction with prepared statements.
+	// This is orders of magnitude faster than per-route transactions because it
+	// avoids per-commit fsync overhead and batches FTS/R*Tree trigger execution.
+	log.Printf("Inserting %d routes into SQLite...", len(routes))
+	if err := repo.StoreBatch(ctx, routes); err != nil {
+		log.Fatalf("failed to batch insert routes: %v", err)
 	}
 
 	// Run post-import database optimization (ANALYZE, VACUUM, PRAGMA optimize)

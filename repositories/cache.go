@@ -114,3 +114,8 @@ func (repo *CachedDbRepository) SearchHits(ctx context.Context, criteria *reques
 func (repo *CachedDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {
 	return repo.wrapped.Store(ctx, route)
 }
+
+// StoreBatch implements DbRepository.
+func (repo *CachedDbRepository) StoreBatch(ctx context.Context, routes []*domain.RouteMetadata) error {
+	return repo.wrapped.StoreBatch(ctx, routes)
+}
