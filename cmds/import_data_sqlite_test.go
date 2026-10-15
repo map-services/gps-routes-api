@@ -91,7 +91,7 @@ func TestSQLiteImportData_RoundTrip(t *testing.T) {
 	})
 
 	// ImportData creates the schema at dbPath and stores every backup file.
-	ImportData(backupDir, 2)
+	ImportData(backupDir, 2, false)
 
 	// Verify via an independent connection / repository.
 	ctx := context.Background()

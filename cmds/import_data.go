@@ -73,7 +73,10 @@ func loadJson(filename string) (*domain.RouteMetadata, error) {
 // (via setupSQLiteDB) before import. Import only INSERTs routes/nearby/images/details
 // and does not require Spatialite; the spatial bbox predicates (SQLiteDialect
 // -> BuildMbr) require Spatialite at query time.
-func ImportData(path string, maxRecords int) {
+//
+// When overwrite is true the database file at config.Path is deleted before
+// schema creation, ensuring a clean import with no leftover rows.
+func ImportData(path string, maxRecords int, overwrite bool) {
 	godx.GitVersion()
 	godx.EnvironmentVars()
 	godx.UserInfo()
@@ -81,6 +84,12 @@ func ImportData(path string, maxRecords int) {
 	config := db.SQLiteConfigFromEnv()
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
+
+	if overwrite {
+		if err := os.Remove(config.Path); err != nil && !os.IsNotExist(err) {
+			log.Fatalf("failed to remove existing database file %s: %v", config.Path, err)
+		}
+	}
 
 	if err := setupSQLiteDB(config.Path, false); err != nil {
 		log.Fatalf("failed to initialise SQLite schema: %v", err)

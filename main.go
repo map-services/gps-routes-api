@@ -30,7 +30,8 @@ func main() {
 		Long:  "Imports route metadata from JSON backup files at path into the SQLite database at SQLITE_DB_PATH (default data/routes.db).\nThe schema is (re)created from db/migrations/00002_sqlite_schema.sql before import. Import only writes rows; Spatialite-dependent bbox search requires Spatialite at query time.",
 		Args:  cobra.ExactArgs(1),
 		Run: func(cmd *cobra.Command, args []string) {
-			cmds.ImportData(args[0], math.MaxInt64)
+			overwrite, _ := cmd.Flags().GetBool("overwrite")
+			cmds.ImportData(args[0], math.MaxInt64, overwrite)
 		},
 	}
 
@@ -65,6 +66,7 @@ func main() {
 	}
 
 	rootCmd.AddCommand(importCmd)
+	importCmd.Flags().Bool("overwrite", false, "Delete the SQLite database file before importing, starting fresh")
 	rootCmd.AddCommand(apiServerCmd)
 	rootCmd.AddCommand(sitemapCmd)
 	rootCmd.AddCommand(versionCmd)

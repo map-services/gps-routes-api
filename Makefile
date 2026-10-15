@@ -27,9 +27,10 @@ run-sqlite:
 
 # Import JSON route data into ./data/routes.db. Creates the data/ directory
 # if it doesn't exist; SQLITE_DB_PATH defaults to data/routes.db.
+# Import data into ./data/routes.db. Pass OVERWRITE=1 to delete the db file first.
 import-data:
 	mkdir -p ./data
-	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import $(or $(DATA_PATH),data/backup)
+	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import $(or $(DATA_PATH),data/backup)$(if $(filter 1,$(OVERWRITE)), --overwrite,)
 
 # --- Test targets ---
 
@@ -90,7 +91,7 @@ help:
 	@echo "  build        Build with SQLite + FTS5 + Spatialite (cgo)"
 	@echo "  build-static Build without cgo (plain sqlite3, no Spatialite)"
 	@echo "  run          Run the API server on port 8080"
-	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; override with make import-data DATA_PATH=/custom/path)"
+	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; set OVERWRITE=1 to delete db first; override input with DATA_PATH)"
 	@echo "  test         Run all tests with coverage"
 	@echo "  test-ci      Run tests with junit XML for CI"
 	@echo "  test-spatial Run Spatialite-specific tests (requires libsqlite3-mod-spatialite)"
