@@ -131,7 +131,9 @@ make lint
 | `run` | `make build && ./gps-routes api-server 8080` | Build + run API server |
 | `import-data` | `CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import ./data/backup` | Import sample data |
 | `test` | `CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v -coverprofile=profile.cov -coverpkg=./... ./...` | Run tests with coverage |
-| `test-ci` | same as `test` but with `gotestsum` + JUnit XML | CI-friendly test run |
+| `test-ci` | same as above but with `gotestsum` + JUnit XML + `-race` | CI test run (race + results) |
+| `test-race` | `CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -race -count=1 ./...` | Race detector (slow) |
+| `test-ci-race` | alias for `test-ci` | Explicit race-enabled CI |
 | `lint` | `golangci-lint run` (falls back to `go vet`) | Lint check |
 | `docker` | `docker build -t gps-routes-api .` | Build Docker image |
 

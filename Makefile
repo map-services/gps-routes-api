@@ -1,4 +1,4 @@
-.PHONY: all build build-sqlite build-static test test-ci lint clean run run-sqlite import-data docker docker-build docker-push help
+.PHONY: all build build-sqlite build-static test test-ci test-race lint clean run run-sqlite import-data docker docker-build docker-push help
 
 # Default target
 all: build test
@@ -39,11 +39,18 @@ import-data:
 test:
 	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v -coverprofile=profile.cov -coverpkg=./... ./...
 
-# Run tests suitable for CI (same as `test` but with junit output).
+# Run tests with race detector (slow; use for concurrency debugging).
+test-race:
+	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -race -count=1 ./...
+
+# Run tests suitable for CI: JUnit XML output + race detector.
 test-ci:
 	mkdir -p ./test-reports/
 	CGO_ENABLED=1 gotestsum --junitfile=./test-reports/junit.xml --format github-actions \
-		-- -v -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
+		-- -v -race -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
+
+# Alias for explicit race-enabled CI test run.
+test-ci-race: test-ci
 
 # --- Lint ---
 
@@ -89,7 +96,9 @@ help:
 	@echo "  run          Run the API server on port 8080"
 	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; set OVERWRITE=1 to delete db first; override input with DATA_PATH)"
 	@echo "  test         Run all tests with coverage"
-	@echo "  test-ci      Run tests with junit XML for CI"
+	@echo "  test-ci      Run tests with junit XML + race detector for CI"
+	@echo "  test-race    Run tests with race detector (slow)"
+	@echo "  test-ci-race Alias for test-ci"
 	@echo "  lint         Run golangci-lint (falls back to go vet)"
 	@echo "  docker       Build Docker image"
 	@echo "  docker-run   Run the Docker container"

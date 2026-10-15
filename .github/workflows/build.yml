@@ -52,10 +52,11 @@ jobs:
 
       - name: Build & test SQLite (FTS5 + haversine)
         # go-sqlite3 is cgo, so a C toolchain (present on ubuntu-latest) + CGO are
-        # required.
+        # required. Run tests with -race to catch data races in concurrent-write
+        # paths (e.g. TestSQLiteDbRepository_ConcurrentWrites).
         run: |
           make build
-          make test-ci
+          make test-ci-race
 
       - name: Collect test results
         if: always()
