@@ -154,7 +154,7 @@ jobs:
             type=sha
           labels: |
             maintainer=rm-hull
-            org.opencontainers.image.description=REST API for GPS routes
+            org.opencontainers.image.description=REST API for GPS routes (SQLite + FTS5 + Spatialite)
             org.opencontainers.image.source="https://github.com/map-services/gps-routes-api"
             org.opencontainers.image.licenses=MIT
 
@@ -163,6 +163,7 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           context: .
+          file: Dockerfile.sqlite
           platforms: linux/amd64 #,linux/arm64
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
