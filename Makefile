@@ -1,4 +1,4 @@
-.PHONY: all build build-sqlite build-static test test-ci lint clean run run-sqlite docker docker-build docker-push help
+.PHONY: all build build-sqlite build-static test test-ci test-spatial lint clean run run-sqlite import-data docker docker-build docker-push help
 
 # Default target
 all: build test
@@ -24,6 +24,12 @@ run: run-sqlite
 
 run-sqlite:
 	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . api-server 8080
+
+# Import JSON route data into ./data/routes.db. Creates the data/ directory
+# if it doesn't exist; SQLITE_DB_PATH defaults to data/routes.db.
+import-data:
+	mkdir -p ./data
+	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import $(DATA_PATH)
 
 # --- Test targets ---
 
@@ -84,6 +90,7 @@ help:
 	@echo "  build        Build with SQLite + FTS5 + Spatialite (cgo)"
 	@echo "  build-static Build without cgo (plain sqlite3, no Spatialite)"
 	@echo "  run          Run the API server on port 8080"
+	@echo "  import-data  Import JSON route data into ./data/routes.db (set DATA_PATH to specify input dir)"
 	@echo "  test         Run all tests with coverage"
 	@echo "  test-ci      Run tests with junit XML for CI"
 	@echo "  test-spatial Run Spatialite-specific tests (requires libsqlite3-mod-spatialite)"
