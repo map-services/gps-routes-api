@@ -240,7 +240,9 @@ func TestHaversineRadiusQuery(t *testing.T) {
 	var ids []string
 	for rows.Next() {
 		var id string
-		rows.Scan(&id)
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
 		ids = append(ids, id)
 	}
 	_ = rows.Close()
@@ -258,7 +260,9 @@ func TestHaversineRadiusQuery(t *testing.T) {
 	ids = nil
 	for rows.Next() {
 		var id string
-		rows.Scan(&id)
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
 		ids = append(ids, id)
 	}
 	_ = rows.Close()
@@ -305,7 +309,9 @@ func TestHaversineDistanceSort(t *testing.T) {
 	var order []string
 	for rows.Next() {
 		var id string
-		rows.Scan(&id)
+		if err := rows.Scan(&id); err != nil {
+			t.Fatalf("scan id: %v", err)
+		}
 		order = append(order, id)
 	}
 
