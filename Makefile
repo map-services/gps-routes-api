@@ -11,9 +11,12 @@ build: build-sqlite
 build-sqlite:
 	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .
 
-# Build a statically-linked binary (no CGO / plain sqlite3).
+# Build a statically-linked binary. NOTE: CGO_ENABLED=1 is required because
+# github.com/mattn/go-sqlite3 is a cgo binding to the C SQLite library.
+# The binary is still statically linked (no dynamic libsqlite3 dependency) because
+# go-sqlite3 compiles SQLite from source into the binary.
 build-static:
-	CGO_ENABLED=0 go build -o gps-routes .
+	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -ldflags "-extldflags '-static'" -o gps-routes .
 
 # --- Run targets ---
 
@@ -82,7 +85,7 @@ help:
 	@echo "Targets:"
 	@echo "  all          Build and test (default)"
 	@echo "  build        Build with SQLite + FTS5 (cgo)"
-	@echo "  build-static Build without cgo (plain sqlite3, no Spatialite)"
+	@echo "  build-static Build a statically-linked binary (CGO required for go-sqlite3)"
 	@echo "  run          Run the API server on port 8080"
 	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; set OVERWRITE=1 to delete db first; override input with DATA_PATH)"
 	@echo "  test         Run all tests with coverage"
