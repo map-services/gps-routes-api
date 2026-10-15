@@ -88,7 +88,7 @@ RUN useradd --no-create-home --shell /usr/sbin/nologin appuser
 WORKDIR /app
 RUN mkdir -p /app/data && chown appuser:appuser /app/data
 
-# Binary + pre-seeded sample database (bind-mount to override with your own).
+# Binary + pre-seeded database (bind-mount to override with your own).
 COPY --from=build --chown=appuser:appuser /gps-routes          /app/gps-routes
 COPY --from=build --chown=appuser:appuser /src/data/routes.db   /app/data/routes.db
 
