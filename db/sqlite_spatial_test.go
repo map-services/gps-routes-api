@@ -3,6 +3,7 @@ package db
 import (
 	"context"
 	"database/sql"
+	"fmt"
 	"math"
 	"strings"
 	"testing"
@@ -321,5 +322,41 @@ func TestHaversineDistanceSort(t *testing.T) {
 	// London centre → London must be first, then Bristol, then York.
 	if !strings.Contains(strings.Join(order, ","), "london,bristol,york") {
 		t.Errorf("distance sort order = %v, want london,bristol,york", order)
+	}
+}
+
+// TestOptimizeDatabase verifies that OptimizeDatabase runs ANALYZE, VACUUM,
+// and PRAGMA optimize without error on a database with data.
+func TestOptimizeDatabase(t *testing.T) {
+	dbh := openHaversineTestDB(t)
+	ctx := context.Background()
+
+	// Create a simple table and insert rows so ANALYZE has something to work with.
+	if _, err := dbh.ExecContext(ctx, "CREATE TABLE test_items (id INTEGER PRIMARY KEY, name TEXT)"); err != nil {
+		t.Fatalf("create table: %v", err)
+	}
+	for i := 0; i < 100; i++ {
+		if _, err := dbh.ExecContext(ctx, "INSERT INTO test_items (name) VALUES (?)", fmt.Sprintf("item-%d", i)); err != nil {
+			t.Fatalf("insert item-%d: %v", i, err)
+		}
+	}
+
+	// Delete some rows so VACUUM has space to reclaim.
+	if _, err := dbh.ExecContext(ctx, "DELETE FROM test_items WHERE id % 2 = 0"); err != nil {
+		t.Fatalf("delete rows: %v", err)
+	}
+
+	// OptimizeDatabase should complete without error.
+	if err := OptimizeDatabase(dbh); err != nil {
+		t.Fatalf("OptimizeDatabase: %v", err)
+	}
+
+	// Verify data is still intact after optimization.
+	var count int
+	if err := dbh.QueryRowContext(ctx, "SELECT COUNT(*) FROM test_items").Scan(&count); err != nil {
+		t.Fatalf("count after optimize: %v", err)
+	}
+	if count != 50 {
+		t.Errorf("expected 50 rows after optimize, got %d", count)
 	}
 }

@@ -137,6 +137,13 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 		}
 	}
 
+	// Run post-import database optimization (ANALYZE, VACUUM, PRAGMA optimize)
+	// to update query planner statistics and compact the database file.
+	log.Println("Starting post-import database optimization...")
+	if err := db.OptimizeDatabase(sqlDB); err != nil {
+		log.Fatalf("failed to optimize database after import: %v", err)
+	}
+
 	if isDocker {
 		log.Printf("Completed: imported %d records into SQLite at %s", totalRecords, config.Path)
 	} else {

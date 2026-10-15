@@ -128,3 +128,33 @@ func SQLiteConfigFromEnv() SQLiteConfig {
 		Path: dbPath,
 	}
 }
+
+// OptimizeDatabase runs post-import maintenance on the SQLite database:
+// ANALYZE (query planner statistics), VACUUM (reclaim space), and PRAGMA
+// optimize (automatic optimizations). It is intended to be called after bulk
+// data import so that the query planner has up-to-date statistics and the
+// database file is compacted.
+func OptimizeDatabase(db *sql.DB) error {
+	// Run ANALYZE to update statistics for the query planner.
+	log.Println("Running ANALYZE to update query planner statistics...")
+	if _, err := db.Exec("ANALYZE"); err != nil {
+		return fmt.Errorf("failed to run ANALYZE: %w", err)
+	}
+
+	// VACUUM must run outside of a transaction and reclaims space from deleted
+	// rows while compacting the database file.
+	log.Println("Running VACUUM to compact database file...")
+	if _, err := db.Exec("VACUUM"); err != nil {
+		return fmt.Errorf("failed to run VACUUM: %w", err)
+	}
+
+	// PRAGMA optimize runs automatic optimizations, such as index statistics
+	// updates. Log but don't fail on error — it can fail in edge cases.
+	log.Println("Running PRAGMA optimize...")
+	if _, err := db.Exec("PRAGMA optimize"); err != nil {
+		log.Printf("Warning: PRAGMA optimize failed: %v", err)
+	}
+
+	log.Println("Database optimization completed successfully")
+	return nil
+}
