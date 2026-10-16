@@ -5,18 +5,15 @@ all: build test
 
 # --- Build targets ---
 
-# Build the application (SQLite + FTS5 via cgo).
+# Build the application (pure Go SQLite via modernc.org/sqlite, no CGO).
 build: build-sqlite
 
 build-sqlite:
-	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -o gps-routes .
+	go build -o gps-routes .
 
-# Build a statically-linked binary. NOTE: CGO_ENABLED=1 is required because
-# github.com/mattn/go-sqlite3 is a cgo binding to the C SQLite library.
-# The binary is still statically linked (no dynamic libsqlite3 dependency) because
-# go-sqlite3 compiles SQLite from source into the binary.
+# Build a statically-linked binary (pure Go — no CGO needed).
 build-static:
-	CGO_ENABLED=1 go build -tags "sqlite,sqlite_fts5" -ldflags "-extldflags '-static'" -o gps-routes .
+	CGO_ENABLED=0 go build -ldflags="-w -s" -o gps-routes .
 
 # --- Run targets ---
 
@@ -24,30 +21,30 @@ build-static:
 run: run-sqlite
 
 run-sqlite:
-	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . api-server 8080
+	go run . api-server 8080
 
 # Import JSON route data into ./data/routes.db. Creates the data/ directory
 # if it doesn't exist; SQLITE_DB_PATH defaults to data/routes.db.
 # Import data into ./data/routes.db. Pass OVERWRITE=1 to delete the db file first.
 import-data:
 	mkdir -p ./data
-	CGO_ENABLED=1 go run -tags "sqlite,sqlite_fts5" . import $(or $(DATA_PATH),data/backup)$(if $(filter 1,$(OVERWRITE)), --overwrite,)
+	go run . import $(or $(DATA_PATH),data/backup)$(if $(filter 1,$(OVERWRITE)), --overwrite,)
 
 # --- Test targets ---
 
 # Run all tests with SQLite + FTS5.
 test:
-	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -v -coverprofile=profile.cov -coverpkg=./... ./...
+	go test -v -coverprofile=profile.cov -coverpkg=./... ./...
 
 # Run tests with race detector (slow; use for concurrency debugging).
 test-race:
-	CGO_ENABLED=1 go test -tags "sqlite,sqlite_fts5" -race -count=1 ./...
+	go test -race -count=1 ./...
 
 # Run tests suitable for CI: JUnit XML output + race detector.
 test-ci:
 	mkdir -p ./test-reports/
-	CGO_ENABLED=1 gotestsum --junitfile=./test-reports/junit.xml --format github-actions \
-		-- -v -race -coverprofile=profile.cov -tags "sqlite,sqlite_fts5" -coverpkg=./... ./...
+	gotestsum --junitfile=./test-reports/junit.xml --format github-actions \
+		-- -v -race -coverprofile=profile.cov -coverpkg=./... ./...
 
 
 # --- Lint ---
@@ -55,7 +52,7 @@ test-ci:
 # Note: golangci-lint requires compatible Go toolchain. If you see
 # "export data version X is greater than maximum" errors, use `go vet` instead.
 lint:
-	golangci-lint run || go vet -tags "sqlite,sqlite_fts5" ./...
+	golangci-lint run || go vet ./...
 
 # --- Docker targets ---
 
@@ -89,8 +86,8 @@ help:
 	@echo ""
 	@echo "Targets:"
 	@echo "  all          Build and test (default)"
-	@echo "  build        Build with SQLite + FTS5 (cgo)"
-	@echo "  build-static Build a statically-linked binary (CGO required for go-sqlite3)"
+	@echo "  build        Build with SQLite + FTS5 (pure Go, no CGO)"
+	@echo "  build-static Build a statically-linked binary (pure Go)"
 	@echo "  run          Run the API server on port 8080"
 	@echo "  import-data  Import JSON route metadata into ./data/routes.db (defaults to data/backup; set OVERWRITE=1 to delete db first; override input with DATA_PATH)"
 	@echo "  test         Run all tests with coverage"
