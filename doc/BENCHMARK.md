@@ -57,45 +57,75 @@ go test -bench=. -benchmem -count=1 -run=^$ ./repositories/
 
 ## 500 Routes — modernc.org/sqlite (Pure Go, No CGO)
 
+> ⚠️ **Two runs were performed:** the first run was on battery power (M2 Pro throttled),
+> the second with the laptop charged. The battery run showed ~30% worse times across
+> the board, confirming significant CPU throttling. Only the charged run is shown here.
+
+| Benchmark | ns/op (charged) | B/op | allocs/op | vs. mattn Δ |
+|-----------|-----------------|------|-----------|-------------|
+| SearchSimple | 102,966 | 7,349 | 155 | **2.4× slower** |
+| SearchFTS | 1,552,946 | 8,198 | 170 | **4.3× slower** |
+| SearchBbox | 45,589 | 4,876 | 86 | **1.9× slower** |
+| SearchRadius | 54,231 | 5,161 | 107 | **1.7× slower** |
+| SearchFTSWithBbox | 713,994 | 8,769 | 174 | **3.4× slower** |
+| SearchWithFacets | 176,463 | 8,549 | 181 | **2.2× slower** |
+| FacetCounts | 357,383 | 1,993 | 45 | **2.2× slower** |
+| FacetCountsScalar | 235,220 | 2,786 | 80 | **2.0× slower** |
+| CountAll | 4,775 | 856 | 19 | **1.4× slower** |
+| CountAllFTS | 210,196 | 1,192 | 30 | **4.6× slower** |
+| StoreBatch/10routes | 2,674,884 | 50,557 | 1,159 | **1.3× slower** |
+| StoreBatch/100routes | 7,085,506 | 399,929 | 9,442 | **1.4× slower** |
+| HaversineFunction | 3,578 | 560 | 19 | **1.3× slower** |
+| HaversineOverTable | 203,149 | 20,436 | 2,511 | **89× slower** |
+
+## 5000 Routes (Scaling) — modernc.org/sqlite (charged)
+
 | Benchmark | ns/op | B/op | allocs/op | vs. mattn Δ |
 |-----------|-------|------|-----------|-------------|
-| SearchSimple | 151,310 | 7,350 | 155 | **3.6× slower** |
-| SearchFTS | 2,248,728 | 8,198 | 170 | **6.2× slower** |
-| SearchBbox | 67,469 | 4,876 | 86 | **2.8× slower** |
-| SearchRadius | 78,752 | 5,160 | 107 | **2.4× slower** |
-| SearchFTSWithBbox | 1,042,232 | 8,772 | 174 | **5.0× slower** |
-| SearchWithFacets | 258,020 | 8,550 | 181 | **3.3× slower** |
-| FacetCounts | 523,705 | 1,993 | 45 | **3.2× slower** |
-| FacetCountsScalar | 328,856 | 2,786 | 80 | **2.8× slower** |
-| CountAll | 6,924 | 856 | 19 | **2.1× slower** |
-| CountAllFTS | 306,352 | 1,192 | 30 | **6.8× slower** |
-| StoreBatch/10routes | 3,302,259 | 50,554 | 1,159 | **1.6× slower** |
-| StoreBatch/100routes | 10,085,578 | 400,080 | 9,443 | **2.0× slower** |
-| HaversineFunction | 5,217 | 560 | 19 | **1.9× slower** |
-| HaversineOverTable | 296,913 | 20,436 | 2,511 | **131× slower** |
+| SearchLargeDataset/Simple | 711,849 | 7,348 | 155 | **3.1× slower** |
+| SearchLargeDataset/FTS | 7,384,537 | 8,178 | 169 | **3.0× slower** |
+| SearchLargeDataset/Bbox | 1,674,484 | 7,952 | 163 | **2.4× slower** |
+| SearchLargeDataset/Radius | 176,514 | 14,431 | 910 | **1.0× slower** |
+| SearchLargeDataset/FTS+Bbox | 4,895,615 | 8,784 | 174 | **2.8× slower** |
 
-## 5000 Routes (Scaling) — modernc.org/sqlite
+## Battery vs Charged Impact
 
-| Benchmark | ns/op | B/op | allocs/op | vs. mattn Δ |
-|-----------|-------|------|-----------|-------------|
-| SearchLargeDataset/Simple | 1,051,816 | 7,349 | 155 | **4.6× slower** |
-| SearchLargeDataset/FTS | 10,690,705 | 8,184 | 169 | **4.4× slower** |
-| SearchLargeDataset/Bbox | 2,531,473 | 7,992 | 163 | **3.6× slower** |
-| SearchLargeDataset/Radius | 252,237 | 14,593 | 925 | **1.5× slower** |
-| SearchLargeDataset/FTS+Bbox | 7,302,497 | 8,792 | 174 | **4.1× slower** |
+The battery-throttled run showed a remarkably consistent ~30% slowdown across all benchmarks:
+
+| Benchmark | Battery ns/op | Charged ns/op | Improvement |
+|-----------|--------------|---------------|-------------|
+| SearchSimple | 151,310 | 102,966 | 32% faster |
+| SearchFTS | 2,248,728 | 1,552,946 | 31% faster |
+| SearchBbox | 67,469 | 45,589 | 31% faster |
+| HaversineOverTable | 296,913 | 203,149 | 32% faster |
+
+This confirms the M2 Pro applies significant CPU throttling on battery power, affecting
+all CPU-bound workloads uniformly.
 
 ## Comparison Summary
 
-modernc.org/sqlite is consistently **2–7× slower** than mattn/go-sqlite3 across all query types, with FTS queries showing the largest regression (~6×). The pure Go implementation trades raw speed for CGO-free builds and simpler cross-compilation.
+modernc.org/sqlite is consistently **1.3–4.6× slower** than mattn/go-sqlite3 across most
+query types, with FTS queries showing the largest regression (~4×). The pure Go
+implementation trades raw speed for CGO-free builds and simpler cross-compilation.
 
 ### Key Findings
 
-- **FTS5 is the biggest regression** — ~2.2 ms vs ~362 µs for 500 routes (6.2× slower). At 5000 routes, FTS jumps to ~10.7 ms vs ~2.4 ms (4.4× slower).
-- **R\*Tree bbox** is ~2.8× slower but still fast in absolute terms (~67 µs vs ~24 µs).
-- **HaversineOverTable** shows a dramatic regression (131×) — the Go-registered function callback overhead in modernc is much higher than the C FFI in mattn. However, this query pattern is rarely used in production (R\*Tree prefilter avoids full-table haversine).
+- **FTS5 remains the biggest regression** — ~1.5 ms vs ~362 µs for 500 routes (4.3× slower). At 5000 routes, FTS is ~7.4 ms vs ~2.4 ms (3.0× slower).
+- **R\*Tree bbox** is ~1.9× slower but still fast in absolute terms (~46 µs vs ~24 µs).
+- **HaversineOverTable** shows a dramatic regression (89×) — the Go-registered function callback overhead in modernc is much higher than the C FFI in mattn. However, this query pattern is rarely used in production (R\*Tree prefilter avoids full-table haversine).
+- **SearchLargeDataset/Radius** is essentially parity (1.0×) — the R*Tree prefilter makes the haversine callback count negligible.
 - **Memory allocations** are similar or slightly lower for modernc, indicating the slowdown is CPU-bound, not allocation-bound.
-- **Bulk insert** is ~1.6–2.0× slower, which matters for data import but not for read-heavy API workloads.
+- **Bulk insert** is ~1.3–1.4× slower, which is a minor impact for data import.
+- **Battery power** adds ~30% overhead uniformly — always benchmark on charged hardware.
 
 ### Verdict
 
-The performance regression is significant enough that migration to modernc.org/sqlite is **not recommended** for this workload. The API serves read-heavy queries where FTS5 and R\*Tree performance directly impact user experience. The benefits of CGO-free builds (simpler Docker, cross-compilation) do not outweigh the 2–7× query latency increase.
+The performance regression is **real but moderate** for most queries (1.3–4.6×). FTS5
+queries are the most affected at ~4× slower, but absolute latencies remain in the
+sub-millisecond to low-millisecond range. The 89× HaversineOverTable regression is
+only relevant for full-table distance sorts, which are rare in production.
+
+Whether to migrate depends on the trade-off between **CGO-free builds** (simpler Docker,
+cross-compilation, no `libsqlite3-dev` dependency) and **2–4× query latency increase**.
+For a read-heavy API serving interactive users, the latency increase may be acceptable
+if absolute response times remain under the user-perceptible threshold (~100 ms).
