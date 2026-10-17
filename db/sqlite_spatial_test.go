@@ -7,18 +7,20 @@ import (
 	"math"
 	"strings"
 	"testing"
+
+	_ "modernc.org/sqlite"
 )
 
-// openHaversineTestDB opens a throwaway SQLite DB through the
-// "sqlite3_haversine" driver (registered in db/sqlite_connect.go init()),
-// which auto-registers the haversine_distance() SQL function on every connection.
+// openHaversineTestDB opens a throwaway SQLite DB through the "sqlite" driver
+// (modernc.org/sqlite). The haversine_distance() SQL function is registered
+// globally in db/sqlite_connect.go init().
 func openHaversineTestDB(t *testing.T) *sql.DB {
 	t.Helper()
 	path := t.TempDir() + "/haversine_test.db"
 	uri := "file:" + path + "?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL"
-	dbh, err := sql.Open("sqlite3_haversine", uri)
+	dbh, err := sql.Open("sqlite", uri)
 	if err != nil {
-		t.Fatalf("open sqlite3_haversine driver: %v", err)
+		t.Fatalf("open sqlite driver: %v", err)
 	}
 	dbh.SetMaxOpenConns(1)
 	t.Cleanup(func() { _ = dbh.Close() })

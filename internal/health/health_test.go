@@ -5,14 +5,14 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "modernc.org/sqlite"
 	"github.com/stretchr/testify/assert"
 )
 
 // openTestDB opens a temporary in-memory SQLite database for testing.
 func openTestDB(t *testing.T) *sql.DB {
 	t.Helper()
-	db, err := sql.Open("sqlite3", ":memory:")
+	db, err := sql.Open("sqlite", "file:memdb1?mode=memory&cache=shared")
 	assert.NoError(t, err)
 	t.Cleanup(func() {
 		_ = db.Close()
@@ -57,7 +57,7 @@ func TestReadinessProbe_Latency(t *testing.T) {
 }
 
 func TestCheck_ClosedDB(t *testing.T) {
-	db, err := sql.Open("sqlite3", ":memory:")
+	db, err := sql.Open("sqlite", "file:memdb1?mode=memory&cache=shared")
 	assert.NoError(t, err)
 	_ = db.Close()
 
@@ -67,7 +67,7 @@ func TestCheck_ClosedDB(t *testing.T) {
 }
 
 func TestReadinessProbe_ClosedDB(t *testing.T) {
-	db, err := sql.Open("sqlite3", ":memory:")
+	db, err := sql.Open("sqlite", "file:memdb1?mode=memory&cache=shared")
 	assert.NoError(t, err)
 	_ = db.Close()
 
@@ -78,7 +78,7 @@ func TestReadinessProbe_ClosedDB(t *testing.T) {
 
 func TestCheck_Timeout(t *testing.T) {
 	// Create a DB that will fail to ping due to invalid DSN
-	db, err := sql.Open("sqlite3", "file:nonexistent?mode=ro")
+	db, err := sql.Open("sqlite", "file:nonexistent?mode=ro")
 	if err != nil {
 		t.Skip("Could not open test DB")
 	}

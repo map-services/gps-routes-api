@@ -83,8 +83,8 @@ func radians(d float64) float64 { return d * math.Pi / 180 }
 // BuildSTDWithinQuery generates an R*Tree bbox prefilter combined with a
 // haversine_distance() exact filter for radius (nearby) queries. The bbox is
 // derived from the centre point and distance; the haversine function
-// (registered via ConnectHook on the sqlite3_haversine driver) computes the
-// great-circle distance in metres.
+// (registered via MustRegisterDeterministicScalarFunction on the modernc
+// sqlite driver) computes the great-circle distance in metres.
 func (d *SQLiteDialect) BuildSTDWithinQuery(field string, lon, lat, distance float64) string {
 	_ = field
 	latDelta := distance / metersPerDegreeLat

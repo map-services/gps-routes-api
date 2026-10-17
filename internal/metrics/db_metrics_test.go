@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/Depado/ginprom"
-	_ "github.com/mattn/go-sqlite3"
+	_ "modernc.org/sqlite"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -16,7 +16,7 @@ var testPrometheus = ginprom.New()
 // openTestDB opens a temporary in-memory SQLite database for testing.
 func openTestDB(t *testing.T) *sql.DB {
 	t.Helper()
-	db, err := sql.Open("sqlite3", ":memory:")
+	db, err := sql.Open("sqlite", "file:memdb1?mode=memory&cache=shared")
 	assert.NoError(t, err)
 	t.Cleanup(func() {
 		_ = db.Close()

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "modernc.org/sqlite"
 )
 
 // setupSQLiteDB opens a SQLite database at dbPath (or :memory: when dryRun is
@@ -16,10 +16,10 @@ import (
 // from the repository root.
 func setupSQLiteDB(dbPath string, dryRun bool) error {
 	if dryRun {
-		dbPath = ":memory:"
+		dbPath = "file:memdb1?mode=memory&cache=shared"
 	}
 
-	db, err := sql.Open("sqlite3", dbPath+"?_pragma=foreign_keys(1)&_pragma=journal_mode(WAL)")
+	db, err := sql.Open("sqlite", dbPath+"?_foreign_keys=1&_journal_mode=WAL")
 	if err != nil {
 		return err
 	}
