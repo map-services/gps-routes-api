@@ -52,9 +52,11 @@ RUN go mod download
 
 COPY . .
 
-# Compile with the sqlite build tags (FTS5 via sqlite_fts5 tag; R*Tree and
-# haversine_distance() are Go-registered, no external extension).
-RUN go build -tags "sqlite,sqlite_fts5" -ldflags="-w -s" -o /gps-routes .
+# Compile a statically-linked binary with the sqlite build tags (FTS5 via
+# sqlite_fts5 tag; R*Tree and haversine_distance() are Go-registered, no
+# external extension).  The -extldflags '-static' flag links the C SQLite
+# library into the binary so the runtime image needs no system libraries.
+RUN go build -tags "sqlite,sqlite_fts5" -ldflags="-w -s -extldflags '-static'" -o /gps-routes .
 
 # Seed /app/data/routes.db from the bundled sample backup.
 # setupSQLiteDB recreates the schema (00002_sqlite_schema.sql, incl.
@@ -64,40 +66,24 @@ RUN mkdir -p /src/data && \
     SQLITE_DB_PATH=/src/data/routes.db /gps-routes import /src/data/backup
 
 # ---------------------------------------------------------------------------
-# 2) Runtime stage: minimal image, ships the pre-seeded DB
+# 2) Runtime stage: BusyBox (~5MB, includes wget + shell for HEALTHCHECK)
 # ---------------------------------------------------------------------------
-FROM ubuntu:25.10 AS runtime
+# The binary is statically linked (CGO + SQLite compiled in), so no system
+# libraries are needed at runtime.  BusyBox is a minimal image that provides
+# wget (for HEALTHCHECK) and a shell, while keeping the image tiny.
+FROM busybox AS runtime
 
-ENV TZ=UTC \
-    GIN_MODE=release \
+ENV GIN_MODE=release \
     SQLITE_DB_PATH=/app/data/routes.db
 
-# curl is used by HEALTHCHECK.
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-        ca-certificates \
-        curl \
-        libsqlite3-dev \
-        passwd \
-        tzdata \
-    && rm -rf /var/lib/apt/lists/* && \
-    update-ca-certificates
-
-RUN useradd --no-create-home --shell /usr/sbin/nologin appuser
-
 WORKDIR /app
-RUN mkdir -p /app/data && chown appuser:appuser /app/data
-
-# Binary + pre-seeded database (bind-mount to override with your own).
-COPY --from=build --chown=appuser:appuser /gps-routes          /app/gps-routes
-COPY --from=build --chown=appuser:appuser /src/data/routes.db   /app/data/routes.db
-
-USER appuser
+COPY --from=build /gps-routes          /app/gps-routes
+COPY --from=build /src/data/routes.db   /app/data/routes.db
 
 EXPOSE 8080/tcp
 
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD curl -sf "http://localhost:8080/healthz" || exit 1
+  CMD wget -qO- "http://localhost:8080/healthz" || exit 1
 
 # `api-server <port>`; CMD supplies the default port.
 ENTRYPOINT ["./gps-routes", "api-server"]
