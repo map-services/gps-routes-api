@@ -66,7 +66,7 @@ RUN mkdir -p /src/data && \
 # ---------------------------------------------------------------------------
 # 2) Runtime stage: minimal image, ships the pre-seeded DB
 # ---------------------------------------------------------------------------
-FROM ubuntu:24.04 AS runtime
+FROM ubuntu:25.10 AS runtime
 
 ENV TZ=UTC \
     GIN_MODE=release \
