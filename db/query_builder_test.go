@@ -35,7 +35,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
-				params: []any{"test*"},
+				params: []any{`"test"*`},
 			},
 		},
 		{
@@ -43,7 +43,23 @@ func TestQueryBuilder_Build(t *testing.T) {
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "hello world"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
-				params: []any{"hello* world*"},
+				params: []any{`"hello"* "world"*`},
+			},
+		},
+		{
+			name: "query with apostrophe",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "Randolph's"}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
+				params: []any{`"Randolph's"*`},
+			},
+		},
+		{
+			name: "query with double quote",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: `say "hello"`}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
+				params: []any{`"say"* """hello"""*`},
 			},
 		},
 		{
@@ -52,7 +68,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 				WithOrderBy((&SQLiteDialect{}).BuildFTSSort("routes_fts", "?") + " DESC"),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ? ORDER BY -bm25(routes_fts, 1.0, 0.4, 0.1) DESC",
-				params: []any{"test*"},
+				params: []any{`"test"*`},
 			},
 		},
 		{

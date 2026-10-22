@@ -75,8 +75,6 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 		}
 	}
 
-	// TODO: sanitize the query string
-
 	matches, err := api.Service.Search(&payload)
 	if err != nil {
 		c.Error(err) //nolint:errcheck
