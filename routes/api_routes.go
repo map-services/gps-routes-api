@@ -43,7 +43,7 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	var payload request.SearchRequest
 	err := c.ShouldBind(&payload)
 	if err != nil {
-		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "bad payload"))
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", fmt.Sprintf("invalid request body: %s", err.Error())))
 		return
 	}
 
@@ -53,23 +53,24 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	}
 
 	if payload.Limit < 0 || payload.Limit > 100 {
-		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "limit is out of range - allowed values: 0..100"))
+		c.JSON(http.StatusBadRequest, common.NewValidationError("limit", "limit must be between 0 and 100"))
 		return
 	}
 
 	if payload.Offset < 0 || payload.Offset > 100_000 {
-		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "offset is out of range - allowed values: 0..100_000"))
+		c.JSON(http.StatusBadRequest, common.NewValidationError("offset", "offset must be between 0 and 100000"))
 		return
 	}
 
 	if payload.BoundingBox != nil && payload.Nearby != nil {
-		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "cannot specify both bounding box and nearby attributes in same request"))
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "cannot specify both 'boundingBox' and 'nearby' in the same request"))
 		return
 	}
 
 	for facetField := range payload.Facets {
 		if !services.IsValidFacetField(facetField) {
-			c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", fmt.Sprintf("invalid facet: %s", facetField)))
+			validFields := services.ValidFacetFields()
+			c.JSON(http.StatusBadRequest, common.NewValidationError("facets", fmt.Sprintf("invalid facet field '%s'; valid fields are: %s", facetField, validFields)))
 			return
 		}
 	}

@@ -18,7 +18,7 @@ func ErrorHandler() gin.HandlerFunc {
 				log.Printf("Error: %v", ginErr.Err)
 			}
 
- 			c.JSON(http.StatusInternalServerError, common.NewErrorResponse("INTERNAL_ERROR", "An unexpected error occurred"))
+			c.JSON(http.StatusInternalServerError, common.NewErrorResponse("INTERNAL_ERROR", "An unexpected error occurred"))
 		}
 	}
 }

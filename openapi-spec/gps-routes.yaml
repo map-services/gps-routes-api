@@ -532,7 +532,12 @@ components:
 
     ErrorResponse:
       type: object
-      description: A consistent error response returned by all endpoints on error.
+      description: |
+        A consistent error response returned by all endpoints on error. The `code`
+        field indicates the error type: `INVALID_REQUEST` for bad input,
+        `VALIDATION_ERROR` for field-level validation failures (includes the
+        `field` attribute), `UNAUTHORIZED` for auth errors, `NOT_FOUND` for
+        missing resources, and `INTERNAL_ERROR` for server errors.
       required:
         - error
       properties:
@@ -544,9 +549,17 @@ components:
           properties:
             code:
               type: string
-              description: A machine-readable error code.
-              example: NOT_FOUND
+              description: |
+                A machine-readable error code. Possible values: `INVALID_REQUEST`,
+                `VALIDATION_ERROR`, `UNAUTHORIZED`, `NOT_FOUND`, `INTERNAL_ERROR`.
+              example: VALIDATION_ERROR
             message:
               type: string
-              description: A human-readable error message.
-              example: The requested resource was not found
+              description: A human-readable error message describing what went wrong.
+              example: "limit must be between 0 and 100"
+            field:
+              type: string
+              description: |
+                The request field that caused the validation error (present only
+                when code is `VALIDATION_ERROR`).
+              example: limit

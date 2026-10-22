@@ -1,5 +1,10 @@
 package services
 
+import (
+	"slices"
+	"strings"
+)
+
 type FacetConfig struct {
 	Unnest   bool
 	Limit    int32
@@ -72,4 +77,14 @@ var FACET_FIELDS = map[string]*FacetConfig{
 func IsValidFacetField(facetField string) bool {
 	_, ok := FACET_FIELDS[facetField]
 	return ok
+}
+
+// ValidFacetFields returns a sorted, comma-separated list of valid facet field names.
+func ValidFacetFields() string {
+	fields := make([]string, 0, len(FACET_FIELDS))
+	for field := range FACET_FIELDS {
+		fields = append(fields, field)
+	}
+	slices.Sort(fields)
+	return strings.Join(fields, ", ")
 }
