@@ -1,0 +1,19 @@
+[project]
+name = "gps-routes-archive"
+version = "0.1.0"
+description = "Legacy Python scripts for crawling and enriching route data from gps-routes.co.uk"
+requires-python = ">=3.11"
+dependencies = [
+    "algoliasearch>=4,<5",
+    "beautifulsoup4",
+    "gpxpy",
+    "lxml",
+    "pymongo",
+    "python-dotenv",
+    "pyproj",
+    "requests",
+    "tqdm",
+]
+
+[dependency-groups]
+dev = []
