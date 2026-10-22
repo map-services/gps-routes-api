@@ -5,39 +5,86 @@ import (
 	"log"
 	"time"
 
-	"github.com/Depado/ginprom"
+	"github.com/prometheus/client_golang/prometheus"
+	"github.com/prometheus/client_golang/prometheus/promauto"
 )
 
+const metricsNamespace = "gps_routes"
+
 // DBStatsCollector periodically collects sql.DB.Stats() and exposes them
-// as Prometheus gauges via ginprom. It is database-agnostic and works with
+// as Prometheus gauges. It is database-agnostic and works with
 // any driver that implements *sql.DB, including SQLite.
 type DBStatsCollector struct {
-	db         *sql.DB
-	prometheus *ginprom.Prometheus
-	ticker     *time.Ticker
-	stop       chan struct{}
+	db     *sql.DB
+	ticker *time.Ticker
+	stop   chan struct{}
+
+	// Prometheus gauges
+	gaugeConnectionsMax           prometheus.Gauge
+	gaugeConnectionsOpen          prometheus.Gauge
+	gaugeConnectionsInUse         prometheus.Gauge
+	gaugeConnectionsIdle          prometheus.Gauge
+	gaugeConnectionsWaitCount     prometheus.Gauge
+	gaugeConnectionsWaitDuration  prometheus.Gauge
+	gaugeConnectionsMaxIdleClosed prometheus.Gauge
+	gaugeConnectionsMaxIdleTime   prometheus.Gauge
+	gaugeConnectionsMaxLifetime   prometheus.Gauge
 }
 
 // NewDBStatsCollector creates a new collector that registers gauges for
 // database connection pool statistics and starts a background goroutine to
 // update them at the given interval. Call Stop() when the server shuts down.
-func NewDBStatsCollector(db *sql.DB, prometheus *ginprom.Prometheus, interval time.Duration) *DBStatsCollector {
-	// Register gauges for all DB stats metrics.
-	prometheus.AddCustomGauge("db_connections_max", "Maximum number of open connections to the database", []string{})
-	prometheus.AddCustomGauge("db_connections_open", "Number of open connections to the database", []string{})
-	prometheus.AddCustomGauge("db_connections_in_use", "Number of connections currently in use", []string{})
-	prometheus.AddCustomGauge("db_connections_idle", "Number of idle connections to the database", []string{})
-	prometheus.AddCustomGauge("db_connections_wait_count", "Total number of connections waited for", []string{})
-	prometheus.AddCustomGauge("db_connections_wait_duration_seconds", "Total time blocked waiting for a new connection (seconds)", []string{})
-	prometheus.AddCustomGauge("db_connections_max_idle_closed", "Total number of connections closed due to SetMaxIdleConns", []string{})
-	prometheus.AddCustomGauge("db_connections_max_idle_time_closed", "Total number of connections closed due to SetConnMaxIdleTime", []string{})
-	prometheus.AddCustomGauge("db_connections_max_lifetime_closed", "Total number of connections closed due to SetConnMaxLifetime", []string{})
-
+func NewDBStatsCollector(db *sql.DB, interval time.Duration) *DBStatsCollector {
 	collector := &DBStatsCollector{
-		db:         db,
-		prometheus: prometheus,
-		ticker:     time.NewTicker(interval),
-		stop:       make(chan struct{}),
+		db:     db,
+		ticker: time.NewTicker(interval),
+		stop:   make(chan struct{}),
+
+		gaugeConnectionsMax: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_max",
+			Help:      "Maximum number of open connections to the database",
+		}),
+		gaugeConnectionsOpen: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_open",
+			Help:      "Number of open connections to the database",
+		}),
+		gaugeConnectionsInUse: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_in_use",
+			Help:      "Number of connections currently in use",
+		}),
+		gaugeConnectionsIdle: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_idle",
+			Help:      "Number of idle connections to the database",
+		}),
+		gaugeConnectionsWaitCount: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_wait_count",
+			Help:      "Total number of connections waited for",
+		}),
+		gaugeConnectionsWaitDuration: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_wait_duration_seconds",
+			Help:      "Total time blocked waiting for a new connection (seconds)",
+		}),
+		gaugeConnectionsMaxIdleClosed: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_max_idle_closed",
+			Help:      "Total number of connections closed due to SetMaxIdleConns",
+		}),
+		gaugeConnectionsMaxIdleTime: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_max_idle_time_closed",
+			Help:      "Total number of connections closed due to SetConnMaxIdleTime",
+		}),
+		gaugeConnectionsMaxLifetime: promauto.NewGauge(prometheus.GaugeOpts{
+			Namespace: metricsNamespace,
+			Name:      "db_connections_max_lifetime_closed",
+			Help:      "Total number of connections closed due to SetConnMaxLifetime",
+		}),
 	}
 
 	// Collect immediately on startup.
@@ -71,15 +118,15 @@ func (c *DBStatsCollector) run() {
 func (c *DBStatsCollector) collect() {
 	stats := c.db.Stats()
 
-	c.prometheus.SetGaugeValue("db_connections_max", []string{}, float64(stats.MaxOpenConnections))        //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_open", []string{}, float64(stats.OpenConnections))          //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_in_use", []string{}, float64(stats.InUse))                  //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_idle", []string{}, float64(stats.Idle))                     //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_wait_count", []string{}, float64(stats.WaitCount))          //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_wait_duration_seconds", []string{}, stats.WaitDuration.Seconds()) //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_max_idle_closed", []string{}, float64(stats.MaxIdleClosed)) //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_max_idle_time_closed", []string{}, float64(stats.MaxIdleTimeClosed)) //nolint:errcheck
-	c.prometheus.SetGaugeValue("db_connections_max_lifetime_closed", []string{}, float64(stats.MaxLifetimeClosed)) //nolint:errcheck
+	c.gaugeConnectionsMax.Set(float64(stats.MaxOpenConnections))
+	c.gaugeConnectionsOpen.Set(float64(stats.OpenConnections))
+	c.gaugeConnectionsInUse.Set(float64(stats.InUse))
+	c.gaugeConnectionsIdle.Set(float64(stats.Idle))
+	c.gaugeConnectionsWaitCount.Set(float64(stats.WaitCount))
+	c.gaugeConnectionsWaitDuration.Set(stats.WaitDuration.Seconds())
+	c.gaugeConnectionsMaxIdleClosed.Set(float64(stats.MaxIdleClosed))
+	c.gaugeConnectionsMaxIdleTime.Set(float64(stats.MaxIdleTimeClosed))
+	c.gaugeConnectionsMaxLifetime.Set(float64(stats.MaxLifetimeClosed))
 }
 
 // Snapshot returns the current sql.DB.Stats() for one-off reads (e.g., health

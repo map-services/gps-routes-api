@@ -9,8 +9,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Depado/ginprom"
 	"github.com/kofalt/go-memoize"
+	"github.com/prometheus/client_golang/prometheus"
+	"github.com/prometheus/client_golang/prometheus/promauto"
 )
 
 type Payload struct {
@@ -74,24 +75,32 @@ type NamesApi interface {
 	Find(ctx context.Context, name string) (*Result, error)
 }
 
+const metricsNamespace = "gps_routes"
+
+var (
+	namesApiCacheStats = promauto.NewCounterVec(prometheus.CounterOpts{
+		Namespace: metricsNamespace,
+		Name:      "names_api_cache_stats_total",
+		Help:      "Number of calls to OS Names API cache statistics (hits & misses)",
+	}, []string{"type"})
+	namesApiCacheSize = promauto.NewGauge(prometheus.GaugeOpts{
+		Namespace: metricsNamespace,
+		Name:      "names_api_cache_size",
+		Help:      "OS Names cache size (number of items)",
+	})
+)
+
 type NamesApiImpl struct {
-	baseUrl    string
-	apiKey     string
-	prometheus *ginprom.Prometheus
-	cache      *memoize.Memoizer
+	baseUrl string
+	apiKey  string
+	cache   *memoize.Memoizer
 }
 
-func NewNamesApi(prometheus *ginprom.Prometheus, baseUrl string, apiKey string) *NamesApiImpl {
-	if prometheus != nil {
-		prometheus.AddCustomCounter("names_api_cache_stats_total", "Number of calls to OS Names API cache statistics (hits & misses)", []string{"type"})
-		prometheus.AddCustomGauge("names_api_cache_size", "OS Names cache size (number of items)", []string{})
-	}
-
+func NewNamesApi(baseUrl string, apiKey string) *NamesApiImpl {
 	return &NamesApiImpl{
-		baseUrl:    baseUrl,
-		apiKey:     apiKey,
-		prometheus: prometheus,
-		cache:      memoize.NewMemoizer(8*time.Hour, 24*time.Hour),
+		baseUrl: baseUrl,
+		apiKey:  apiKey,
+		cache:   memoize.NewMemoizer(8*time.Hour, 24*time.Hour),
 	}
 }
 
@@ -104,13 +113,11 @@ func (service *NamesApiImpl) Find(ctx context.Context, name string) (*Result, er
 }
 
 func (service *NamesApiImpl) updateMetrics(cached bool) {
-	if service.prometheus != nil {
-		service.prometheus.SetGaugeValue("names_api_cache_size", []string{}, float64(service.cache.Storage.ItemCount())) //nolint:errcheck
-		if cached {
-			service.prometheus.IncrementCounterValue("names_api_cache_stats_total", []string{"hit"}) //nolint:errcheck
-		} else {
-			service.prometheus.IncrementCounterValue("names_api_cache_stats_total", []string{"miss"}) //nolint:errcheck
-		}
+	namesApiCacheSize.Set(float64(service.cache.Storage.ItemCount()))
+	if cached {
+		namesApiCacheStats.WithLabelValues("hit").Inc()
+	} else {
+		namesApiCacheStats.WithLabelValues("miss").Inc()
 	}
 }
 

@@ -7,36 +7,47 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Depado/ginprom"
 	"github.com/kofalt/go-memoize"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
+	"github.com/prometheus/client_golang/prometheus"
+	"github.com/prometheus/client_golang/prometheus/promauto"
+)
+
+const metricsNamespace = "gps_routes"
+
+var (
+	repoCacheStats = promauto.NewCounterVec(prometheus.CounterOpts{
+		Namespace: metricsNamespace,
+		Name:      "repo_cache_stats_total",
+		Help:      "Repo cache statistics (hits & misses)",
+	}, []string{"method", "type"})
+	repoCacheSize = promauto.NewGauge(prometheus.GaugeOpts{
+		Namespace: metricsNamespace,
+		Name:      "repo_cache_size",
+		Help:      "Repo cache size (number of items)",
+	})
 )
 
 type CachedDbRepository struct {
-	cache      *memoize.Memoizer
-	prometheus *ginprom.Prometheus
-	wrapped    DbRepository
+	cache   *memoize.Memoizer
+	wrapped DbRepository
 }
 
 // updateMetrics updates the Prometheus metrics for cache hits and misses.
 func (repo *CachedDbRepository) updateMetrics(method string, cached bool) {
-	repo.prometheus.SetGaugeValue("repo_cache_size", []string{}, float64(repo.cache.Storage.ItemCount())) //nolint:errcheck
+	repoCacheSize.Set(float64(repo.cache.Storage.ItemCount()))
 	if cached {
-		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "hit"}) //nolint:errcheck
+		repoCacheStats.WithLabelValues(method, "hit").Inc()
 	} else {
-		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "miss"}) //nolint:errcheck
+		repoCacheStats.WithLabelValues(method, "miss").Inc()
 	}
 }
 
-func NewCachedRepository(prometheus *ginprom.Prometheus, wrapped DbRepository) *CachedDbRepository {
-	prometheus.AddCustomCounter("repo_cache_stats_total", "Repo cache statistics (hits & misses)", []string{"method", "type"})
-	prometheus.AddCustomGauge("repo_cache_size", "Repo cache size (number of items)", []string{})
-
+func NewCachedRepository(wrapped DbRepository) *CachedDbRepository {
 	return &CachedDbRepository{
-		prometheus: prometheus,
-		cache:      memoize.NewMemoizer(90*time.Second, 10*time.Minute),
-		wrapped:    wrapped,
+		cache:   memoize.NewMemoizer(90*time.Second, 10*time.Minute),
+		wrapped: wrapped,
 	}
 }
 
