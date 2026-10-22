@@ -360,7 +360,7 @@ components:
           type: string
           format: url
           description: A URL referencing an image
-          example: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Footpath_and_meadow_at_Daneshill_Lakes_reserve_-_geograph.org.uk_-_1948823.jpg/512px-Footpath_and_meadow_at_Daneshill_Lakes_reserve_-_geograph.org.uk_-_1948823.jpg"
+          example: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Footpath_and_meadow_at_Daneshill_Lakes_reserve_-_geograph.org.uk_-_1948823.jpg/500px-Footpath_and_meadow_at_Daneshill_Lakes_reserve_-_geograph.org.uk_-_1948823.jpg"
         title:
           type: string
           description: Description, typically containing some attribution for the image

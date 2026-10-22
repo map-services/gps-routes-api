@@ -395,7 +395,8 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 		// scalar facet values as '' instead of NULL, so we must also drop the
 		// empty-string bucket. Array facets go through json_each; a non-empty
 		// JSON column is never == '', so this filter is a no-op there.
-		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> ''", facetField, facetField)).
+		// Also exclude NULL keys from json_each results when array elements are null.
+		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> '' AND key IS NOT NULL", facetField, facetField)).
 		WithExcludeFacets(excludeFacets...).
 		WithGroupBy("key").
 		WithOrderBy("value DESC").
