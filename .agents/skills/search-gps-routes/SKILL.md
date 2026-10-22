@@ -106,7 +106,7 @@ curl -sS \
 
 Field semantics (per the spec):
 
-- `query` *(required, string)* — search phrase.
+- `query` *(required, string)* — full-text search phrase. See Query Syntax below.
 - `offset` *(integer, 0..100000, default 0)* — pagination offset.
 - `limit` *(integer, 0..100, default 10 when omitted/0)* — page size.
 - `boundingBox` *(array of 4 floats: bottom-left lng/lat then top-right lng/lat)* —
@@ -117,6 +117,25 @@ Field semantics (per the spec):
   proximity search via the OS Names API; **mutually exclusive** with `boundingBox`.
 - `truncateText` *(boolean)* — truncate long descriptions in summary results.
 - `skipFacets` *(boolean)* — omit facet counts from the response.
+
+### Query Syntax
+
+The `query` field uses SQLite FTS5 full-text search against three columns:
+`title` (highest weight), `display_address` (medium), and `description` (lowest).
+
+**Every query is automatically converted to a prefix search.** Each word gets
+a wildcard appended, so `"canal walk"` matches "canal walk", "canal walking",
+"canal walker", etc.
+
+**Supported operators:**
+
+| Syntax | Description | Example |
+|--------|-------------|---------|
+| Plain words | Prefix match, words are ANDed | `"canal walking"` matches "canal*" AND "walking*" |
+| `"quoted phrase"` | Exact phrase (no prefix) | `"river walk"` matches the exact phrase |
+| `NEAR/n` | Words within n tokens | `"canal" NEAR/5 "bridge"` |
+| `-term` | Exclude a term | `"walking -cycling"` |
+| `term1 OR term2` | Match either | `"river OR canal"` |
 
 ### Bounding box search
 

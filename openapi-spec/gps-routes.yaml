@@ -345,7 +345,25 @@ components:
       properties:
         query:
           type: string
-          description: Search phrase
+          description: >-
+            Full-text search phrase using SQLite FTS5. Searches three columns with
+            different relevance weights: `title` (highest), `display_address` (medium),
+            and `description` (lowest). Every query is automatically converted to a
+            prefix search — each word gets a wildcard (`*`) appended, so "canal walk"
+            matches "canal walk", "canal walking", "canal walker", etc.
+
+            Supported FTS5 operators:
+
+            * Plain words — prefix match, words are ANDed (e.g. "canal walking"
+              matches "canal*" AND "walking*")
+            * `"quoted phrase"` — exact phrase match, no prefix expansion
+              (e.g. "river walk" matches the exact phrase)
+            * `NEAR/n` — words within n tokens of each other
+              (e.g. "canal" NEAR/5 "bridge")
+            * `-term` — exclude routes containing the term
+              (e.g. "walking -cycling")
+            * `term1 OR term2` — match either term (e.g. "river OR canal")
+            * `*` — explicit wildcard (also added automatically)
           example: coffee -tea shop
         offset:
           type: integer

@@ -30,6 +30,55 @@ curl -X POST http://localhost:8080/v1/gps-routes/search \
   }'
 ```
 
+### Query Syntax
+
+The `query` parameter uses SQLite FTS5 full-text search. It searches three
+columns with different relevance weights:
+
+| Column | Weight | Relevance |
+|--------|--------|-----------|
+| `title` | A | Highest |
+| `display_address` | B | Medium |
+| `description` | C | Lowest |
+
+**Every query is automatically converted to a prefix search.** Each word gets
+a wildcard (`*`) appended, so `"canal walk"` matches "canal walk", "canal
+walking", "canal walker", etc.
+
+**Supported FTS5 operators:**
+
+| Syntax | Description | Example |
+|--------|-------------|---------|
+| Plain words | Matches any word (prefix). Words are ANDed together. | `"canal walking"` finds routes containing both "canal*" and "walking*" |
+| `"quoted phrase"` | Exact phrase match (no prefix expansion) | `"river walk"` matches the exact phrase |
+| `NEAR/A` | Words within A tokens of each other | `"canal" NEAR/5 "bridge"` |
+| `-term` | Exclude routes containing the term | `"walking -cycling"` |
+| `term1 OR term2` | Match either term | `"river OR canal"` |
+| `*` | Explicit wildcard (also added automatically) | `"canal*"` matches "canal", "canals", etc. |
+
+**Examples:**
+
+```json
+{"query": "river walk"}
+```
+Matches routes containing words starting with "river" AND "walk" (prefix search).
+
+```json
+{"query": "\"coast path\""}
+```
+Matches the exact phrase "coast path" (no prefix expansion).
+
+```json
+{"query": "walking -cycling"}
+```
+Matches routes about walking but excludes those mentioning cycling.
+
+```json
+{"query": "river NEAR/5 bridge"}
+```
+Matches routes where "river" and "bridge" appear within 5 words of each other.
+```
+
 ## Local Development
 
 ### Prerequisites
