@@ -61,6 +61,11 @@ func NewHttpApiServer(port int) {
 		KeyFunc: func(c *gin.Context) string {
 			return c.ClientIP()
 		},
+		BeforeResponse: func(c *gin.Context, info ratelimit.Info) {
+			c.Header("X-RateLimit-Limit", fmt.Sprintf("%d", info.Limit))
+			c.Header("X-RateLimit-Remaining", fmt.Sprintf("%d", info.RemainingHits))
+			c.Header("X-RateLimit-Reset", fmt.Sprintf("%d", info.ResetTime.Unix()))
+		},
 	})
 
 	engine.Use(
