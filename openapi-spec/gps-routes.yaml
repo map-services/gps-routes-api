@@ -49,6 +49,10 @@ paths:
                 $ref: "#/components/schemas/SearchResults"
         "400":
           description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, or an unknown facet field.
+        "401":
+          description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
+        "429":
+          description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
 
@@ -76,8 +80,12 @@ paths:
                 $ref: "#/components/schemas/RouteMetadata"
         "400":
           description: Invalid request, e.g. missing or invalid path parameter.
+        "401":
+          description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
         "404":
           description: Not found, e.g. no such record for the specified object ID.
+        "429":
+          description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
 
@@ -95,6 +103,10 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/RefData"
+        "401":
+          description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
+        "429":
+          description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
 
@@ -290,6 +302,7 @@ components:
       description: A nearby-place filter for search requests. Mutually exclusive with `boundingBox`.
       required:
         - place
+        - distanceKm
       properties:
         place:
           type: string
@@ -340,17 +353,17 @@ components:
 
     SearchRequest:
       type: object
-      required:
-        - query
       properties:
         query:
           type: string
           description: >-
-            Full-text search phrase using SQLite FTS5. Searches three columns with
-            different relevance weights: `title` (highest), `display_address` (medium),
-            and `description` (lowest). Every query is automatically converted to a
-            prefix search — each word gets a wildcard (`*`) appended, so "canal walk"
-            matches "canal walk", "canal walking", "canal walker", etc.
+            Optional full-text search phrase using SQLite FTS5. When omitted, the
+            search returns all routes matching other criteria (e.g. bounding box or
+            nearby filter). Searches three columns with different relevance weights:
+            `title` (highest), `display_address` (medium), and `description` (lowest).
+            Every query is automatically converted to a prefix search — each word gets
+            a wildcard (`*`) appended, so "canal walk" matches "canal walk", "canal
+            walking", "canal walker", etc.
 
             Supported FTS5 operators:
 
@@ -385,10 +398,10 @@ components:
             format: float
           example:
             [
-              -2.945623397827149,
-              54.43847718997843,
               -2.9769945144653325,
               54.41890499817318,
+              -2.945623397827149,
+              54.43847718997843,
             ]
         facets:
           type: object
@@ -400,6 +413,9 @@ components:
         nearby:
           $ref: "#/components/schemas/NearbyFilter"
           description: A nearby-place filter for proximity search. Mutually exclusive with `boundingBox`.
+          example:
+            place: Hathersage
+            distanceKm: 10
         truncateText:
           type: boolean
           description: When true, truncate the long description text returned in summary results
