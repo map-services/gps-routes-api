@@ -121,9 +121,25 @@ def unprocessed_entries_crawl():
     # store_objects(records)
 
 
+def crawl_unprocessed_list():
+    with open("../data/unprocessed-list.txt", mode="r") as fp:
+        urls = [line.strip() for line in fp if line.strip()]
+
+    total = len(urls)
+    print(f"Crawling {total} unprocessed routes from unprocessed-list.txt")
+
+    for index, url in enumerate(urls):
+        print(f"[{index+1:04d}/{total}] processing: {url}")
+        markup = requests.get(url).text
+        record = DetailExtractor(markup).process()
+        record.update(gazetteer_info(record))
+        store_objects([record])
+
+
 async def main():
     # random_page_crawl()
-    unprocessed_entries_crawl()
+    # unprocessed_entries_crawl()
+    crawl_unprocessed_list()
 
 
 asyncio.run(main())
