@@ -1,132 +1,121 @@
 {
-  "created_at": "2025-01-06T04:19:30.713283+00:00",
-  "objectID": "d83c1b7c1ab523ba9a2fd48d3a86a85b",
-  "ref": "high-tor-matlock-walking-route",
-  "title": "High Tor Matlock Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/High_Tor%2C_Matlock_Dale_-_geograph.org.uk_-_426617.jpg",
-  "nearby": [
-    {
-      "description": "Heights of Abraham",
-      "objectID": "7a8d6e82a07892cc9cd110c887759427",
-      "ref": "heights-of-abraham-walking-route"
+    "created_at": "2025-01-06T04:19:30.713283+00:00",
+    "objectID": "d83c1b7c1ab523ba9a2fd48d3a86a85b",
+    "ref": "high-tor-matlock-walking-route",
+    "title": "High Tor Matlock Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/High_Tor%2C_Matlock_Dale_-_geograph.org.uk_-_426617.jpg",
+    "nearby": [
+        {
+            "description": "Heights of Abraham",
+            "objectID": "7a8d6e82a07892cc9cd110c887759427",
+            "ref": "heights-of-abraham-walking-route"
+        },
+        {
+            "description": "Derwent Valley Heritage Way",
+            "objectID": "13871570524b1197efa9f0e608a7b222",
+            "ref": "derwent-valley-heritage-way-walking-route"
+        },
+        {
+            "description": "Limestone Way",
+            "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
+            "ref": "limestone-way-walking-route"
+        },
+        {
+            "description": "Matlock",
+            "objectID": "dc3a16c29293ecbecb2300068010dd03",
+            "ref": "matlock-walking-route"
+        },
+        {
+            "description": "Lovers Walk Matlock Bath",
+            "objectID": "8d275367acc1daf794af742d72107cd7",
+            "ref": "lovers-walk-matlock-bath-walking-route"
+        },
+        {
+            "description": "Bonsall",
+            "objectID": "172fa0fd74959c774622c9ebf5db583b",
+            "ref": "bonsall-walking-route"
+        },
+        {
+            "description": "Giddy Edge",
+            "objectID": "2c77215c80c3d08b1d232b823facd3d1",
+            "ref": "giddy-edge-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d83c1b7c1ab523ba9a2fd48d3a86a85b.gpx",
+    "_geoloc": {
+        "lat": 53.13795374,
+        "lng": -1.55578851
     },
-    {
-      "description": "Derwent Valley Heritage Way",
-      "objectID": "13871570524b1197efa9f0e608a7b222",
-      "ref": "derwent-valley-heritage-way-walking-route"
-    },
-    {
-      "description": "Limestone Way",
-      "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
-      "ref": "limestone-way-walking-route"
-    },
-    {
-      "description": "Matlock",
-      "objectID": "dc3a16c29293ecbecb2300068010dd03",
-      "ref": "matlock-walking-route"
-    },
-    {
-      "description": "Lovers Walk Matlock Bath",
-      "objectID": "8d275367acc1daf794af742d72107cd7",
-      "ref": "lovers-walk-matlock-bath-walking-route"
-    },
-    {
-      "description": "Bonsall",
-      "objectID": "172fa0fd74959c774622c9ebf5db583b",
-      "ref": "bonsall-walking-route"
-    },
-    {
-      "description": "Giddy Edge",
-      "objectID": "2c77215c80c3d08b1d232b823facd3d1",
-      "ref": "giddy-edge-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d83c1b7c1ab523ba9a2fd48d3a86a85b.gpx",
-  "_geoloc": {
-    "lat": 53.13795374,
-    "lng": -1.55578851
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/High_Tor%2C_Matlock_Dale_-_geograph.org.uk_-_426617.jpg",
-      "title": "Stephen Henley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "High Tor, Matlock Dale"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Matlock_town_from_High_Tor_-_geograph.org.uk_-_426717.jpg",
-      "title": "Stephen Henley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Matlock town from High Tor. Taken at bluebell time. The deep fissure behind the fence is an ancient mine working at the northern end of the 'Roman Cave' lead vein."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Giddy_Ledge_-_geograph.org.uk_-_2323069.jpg/330px-Giddy_Ledge_-_geograph.org.uk_-_2323069.jpg",
-      "title": "Giddy Ledge by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Giddy Ledge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/View_over_Matlock_Bath_to_Cromford_Moor_-_geograph.org.uk_-_2323078.jpg",
-      "title": "View over Matlock Bath to Cromford Moor by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View over Matlock Bath to Cromford Moor"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Entrance_to_High_Tor_-_geograph.org.uk_-_2316435.jpg/330px-Entrance_to_High_Tor_-_geograph.org.uk_-_2316435.jpg",
-      "title": "Entrance to High Tor by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Entrance to High Tor with information board."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/First_bend_on_the_Giddy_Ledge_path_-_geograph.org.uk_-_2323064.jpg",
-      "title": "First bend on the Giddy Ledge path by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "First bend on the Giddy Ledge path"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Roman_%27Cave%27%2C_High_Tor_-_geograph.org.uk_-_426692.jpg/250px-Roman_%27Cave%27%2C_High_Tor_-_geograph.org.uk_-_426692.jpg",
-      "title": "Stephen Henley / Roman 'Cave', High Tor",
-      "caption": "Roman 'Cave'. This is an ancient lead mine working (probably mediaeval rather than Roman) at the summit of High Tor, Matlock."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matlock_-_High_Tor_from_St_Johns_Road_-_geograph.org.uk_-_2023928.jpg/330px-Matlock_-_High_Tor_from_St_Johns_Road_-_geograph.org.uk_-_2023928.jpg",
-      "title": "Matlock - High Tor from St Johns Road by Dave Bevis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View up to High Tor from St Johns Road"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This short climb takes you to High Tor hill between Matlock and Matlock Bath. The impressive limestone crag is just over a mile from the town centre and the train station. If you follow the Derwent Valley Heritage Way along the River Derwent south you will soon come to the tor. There's fantastic views of Matlock Bath, the Heights of Abraham, Riber Castle and the surrounding Peak District countryside from the summit. The hill also includes a splendid narrow walkway called 'Giddy Ledge'. Only try this if you've a real head for heights though! You can extend your walk by descending into Matlock Bath through the river gorge. Here you can visit the fantastic Heights of Abraham where you can enjoy a cable car ride to a hill top park. You can turn it into a circular walk by crossing the river in Matlock Bath and returning via the Height of Abraham and Shining Cliff. See the video below for more details of this route. Just to the south of the hill there's some nice riverside trails on the Lovers Walk. The Limestone Way also runs through Matlock so you could pick this up and head towards the village of Bonsall through the countryside.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Just east of the tor you could enjoy some post walk refreshments at The White Lion. The traditional British village pub has a cosy interior with log burners, low beams and stone walls. Outside there's a garden area where you can enjoy views of The Derwent Valley World Heritage Site. They serve good quality traditional dishes including a fine Sunday roast. You can find the pub at 195 Starkholmes Rd, Starkholmes, DE4 5JA. The pub is dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For an alternative walk around the tor see the Giddy Edge Walk which starts from the train station in Matlock Bath, to the south of the hill."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/myZ8MgKqxBU",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Matlock Bridge, Matlock Town, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3AT, United Kingdom",
-  "postcode": "DE4 3AT",
-  "district": "Derbyshire Dales",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "river"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/High_Tor%2C_Matlock_Dale_-_geograph.org.uk_-_426617.jpg",
+            "title": "Stephen Henley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "High Tor, Matlock Dale"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Matlock_town_from_High_Tor_-_geograph.org.uk_-_426717.jpg",
+            "title": "Stephen Henley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Matlock town from High Tor. Taken at bluebell time. The deep fissure behind the fence is an ancient mine working at the northern end of the 'Roman Cave' lead vein."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Giddy_Ledge_-_geograph.org.uk_-_2323069.jpg/330px-Giddy_Ledge_-_geograph.org.uk_-_2323069.jpg",
+            "title": "Giddy Ledge by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Giddy Ledge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/View_over_Matlock_Bath_to_Cromford_Moor_-_geograph.org.uk_-_2323078.jpg",
+            "title": "View over Matlock Bath to Cromford Moor by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View over Matlock Bath to Cromford Moor"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Entrance_to_High_Tor_-_geograph.org.uk_-_2316435.jpg/330px-Entrance_to_High_Tor_-_geograph.org.uk_-_2316435.jpg",
+            "title": "Entrance to High Tor by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Entrance to High Tor with information board."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/First_bend_on_the_Giddy_Ledge_path_-_geograph.org.uk_-_2323064.jpg",
+            "title": "First bend on the Giddy Ledge path by David Lally, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "First bend on the Giddy Ledge path"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Roman_%27Cave%27%2C_High_Tor_-_geograph.org.uk_-_426692.jpg/500px-Roman_%27Cave%27%2C_High_Tor_-_geograph.org.uk_-_426692.jpg",
+            "title": "Stephen Henley / Roman 'Cave', High Tor",
+            "caption": "Roman 'Cave'. This is an ancient lead mine working (probably mediaeval rather than Roman) at the summit of High Tor, Matlock."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matlock_-_High_Tor_from_St_Johns_Road_-_geograph.org.uk_-_2023928.jpg/330px-Matlock_-_High_Tor_from_St_Johns_Road_-_geograph.org.uk_-_2023928.jpg",
+            "title": "Matlock - High Tor from St Johns Road by Dave Bevis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View up to High Tor from St Johns Road"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This short climb takes you to High Tor hill between Matlock and Matlock Bath. The impressive limestone crag is just over a mile from the town centre and the train station. If you follow the Derwent Valley Heritage Way along the River Derwent south you will soon come to the tor. There's fantastic views of Matlock Bath, the Heights of Abraham, Riber Castle and the surrounding Peak District countryside from the summit. The hill also includes a splendid narrow walkway called 'Giddy Ledge'. Only try this if you've a real head for heights though! You can extend your walk by descending into Matlock Bath through the river gorge. Here you can visit the fantastic Heights of Abraham where you can enjoy a cable car ride to a hill top park. You can turn it into a circular walk by crossing the river in Matlock Bath and returning via the Height of Abraham and Shining Cliff. See the video below for more details of this route. Just to the south of the hill there's some nice riverside trails on the Lovers Walk. The Limestone Way also runs through Matlock so you could pick this up and head towards the village of Bonsall through the countryside.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Just east of the tor you could enjoy some post walk refreshments at The White Lion. The traditional British village pub has a cosy interior with log burners, low beams and stone walls. Outside there's a garden area where you can enjoy views of The Derwent Valley World Heritage Site. They serve good quality traditional dishes including a fine Sunday roast. You can find the pub at 195 Starkholmes Rd, Starkholmes, DE4 5JA. The pub is dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For an alternative walk around the tor see the Giddy Edge Walk which starts from the train station in Matlock Bath, to the south of the hill."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/myZ8MgKqxBU",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Matlock Bridge, Matlock Town, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3AT, United Kingdom",
+    "postcode": "DE4 3AT",
+    "district": "Derbyshire Dales",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "moderate",
+    "terrain": ["woodland", "river"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }
