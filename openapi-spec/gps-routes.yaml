@@ -49,12 +49,24 @@ paths:
                 $ref: "#/components/schemas/SearchResults"
         "400":
           description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, or an unknown facet field.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "401":
           description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "429":
           description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
 
   /v1/gps-routes/{objectID}:
     get:
@@ -80,14 +92,30 @@ paths:
                 $ref: "#/components/schemas/RouteMetadata"
         "400":
           description: Invalid request, e.g. missing or invalid path parameter.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "401":
           description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "404":
           description: Not found, e.g. no such record for the specified object ID.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "429":
           description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
 
   /v1/gps-routes/ref-data:
     get:
@@ -105,10 +133,18 @@ paths:
                 $ref: "#/components/schemas/RefData"
         "401":
           description: Unauthorized — missing or invalid API key in the `X-API-Key` header.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "429":
           description: Too Many Requests — rate limit exceeded (5 requests per second per IP).
         "500":
           description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
 
 components:
   securitySchemes:
@@ -119,8 +155,7 @@ components:
       description: |
         API key for authenticating requests. Supply a valid key issued by the
         API operator in the `X-API-Key` header. Requests missing this header
-        are rejected with `401 API Key Required`; requests with an invalid key
-        are rejected with `401 Invalid API Key`.
+        or with an invalid key are rejected with `401 Unauthorized`.
   schemas:
     # A latitude/longitude pair. Used for the `_geoloc` field of route objects.
     # NOTE: the API serializes this as `_geoloc` ({lat, lng}), not as a GeoJSON
@@ -494,3 +529,24 @@ components:
           description: Attribution strings for the data sources used by the API
           items:
             type: string
+
+    ErrorResponse:
+      type: object
+      description: A consistent error response returned by all endpoints on error.
+      required:
+        - error
+      properties:
+        error:
+          type: object
+          required:
+            - code
+            - message
+          properties:
+            code:
+              type: string
+              description: A machine-readable error code.
+              example: NOT_FOUND
+            message:
+              type: string
+              description: A human-readable error message.
+              example: The requested resource was not found

@@ -7,6 +7,8 @@ import (
 	"slices"
 
 	"github.com/gin-gonic/gin"
+
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 func AuthMiddleware(excluded ...string) gin.HandlerFunc {
@@ -31,12 +33,12 @@ func AuthMiddleware(excluded ...string) gin.HandlerFunc {
 		clientKey := c.GetHeader("X-API-Key")
 
 		if clientKey == "" {
-			c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{"error": "API Key Required"})
+			c.AbortWithStatusJSON(http.StatusUnauthorized, common.NewErrorResponse("UNAUTHORIZED", "API Key Required"))
 			return
 		}
 
 		if subtle.ConstantTimeCompare([]byte(clientKey), []byte(apiKey)) != 1 {
-			c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{"error": "Invalid API Key"})
+			c.AbortWithStatusJSON(http.StatusUnauthorized, common.NewErrorResponse("UNAUTHORIZED", "Invalid API Key"))
 			return
 		}
 

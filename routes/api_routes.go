@@ -6,6 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
+	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/map-services/gps-routes-api/services"
 )
@@ -19,7 +20,7 @@ type RoutesAPI struct {
 func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	objectID := c.Param("objectID")
 	if objectID == "" {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "objectID is required"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "objectID is required"))
 		return
 	}
 	route, err := api.Service.GetRouteByID(objectID)
@@ -29,7 +30,7 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	}
 
 	if route == nil {
-		c.JSON(http.StatusNotFound, gin.H{"message": "Not found"})
+		c.JSON(http.StatusNotFound, common.NewErrorResponse("NOT_FOUND", "The requested resource was not found"))
 		return
 	}
 
@@ -42,7 +43,7 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	var payload request.SearchRequest
 	err := c.ShouldBind(&payload)
 	if err != nil {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "bad payload"))
 		return
 	}
 
@@ -52,23 +53,23 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	}
 
 	if payload.Limit < 0 || payload.Limit > 100 {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "limit is out of range - allowed values: 0..100"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "limit is out of range - allowed values: 0..100"))
 		return
 	}
 
 	if payload.Offset < 0 || payload.Offset > 100_000 {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "offset is out of range - allowed values: 0..100_000"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "offset is out of range - allowed values: 0..100_000"))
 		return
 	}
 
 	if payload.BoundingBox != nil && payload.Nearby != nil {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "cannot specify both bounding box and nearby attributes in same request"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "cannot specify both bounding box and nearby attributes in same request"))
 		return
 	}
 
 	for facetField := range payload.Facets {
 		if !services.IsValidFacetField(facetField) {
-			c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("invalid facet: %s", facetField)})
+			c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", fmt.Sprintf("invalid facet: %s", facetField)))
 			return
 		}
 	}
