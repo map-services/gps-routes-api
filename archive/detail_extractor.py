@@ -9,6 +9,8 @@ import requests
 
 from utils import get_object_id
 
+GITHUB_GPX_BASE = "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes"
+
 
 class DetailExtractor:
     def __init__(self, markup: str):
@@ -75,13 +77,15 @@ class DetailExtractor:
             link = header.find_next("a", href=True)
             if link:
                 url = f"http://gps-routes.co.uk{link['href']}"
-                self.result["gpx_url"] = url
 
                 try:
                     object_id = self.result["objectID"]
                     payload = requests.get(url).text
                     with open(f"../data/routes/{object_id[0]}/{object_id}.gpx", "w") as fp:
                         fp.write(payload)
+
+                    # Store the GitHub raw URL instead of the original site URL
+                    self.result["gpx_url"] = f"{GITHUB_GPX_BASE}/{object_id[0]}/{object_id}.gpx"
 
                     gpx = gpxpy.parse(payload)
                     if gpx.routes:
@@ -99,6 +103,8 @@ class DetailExtractor:
 
                 except Exception as e:
                     print("Failed to process URL: ", e)
+                    # Fall back to the original URL if GPX processing fails
+                    self.result["gpx_url"] = url
 
     def extract_photos(self):
         image_containers = self.soup.find_all("div", class_="thumbnail")

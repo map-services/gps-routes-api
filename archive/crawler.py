@@ -15,8 +15,15 @@ datahub = get_datahub_client()
 
 def store_objects(records: list):
     for record in records:
-        object_id = record["objectID"]
-        with open(f"../data/backup/{object_id[0]}/{object_id}.json", mode="w") as fp:
+        object_id = record.get("objectID")
+        if not object_id:
+            print(f"WARN: skipping record without objectID: {record.get('ref', 'unknown')}")
+            continue
+        path = f"../data/backup/{object_id[0]}/{object_id}.json"
+        if os.path.exists(path):
+            print(f"SKIP: {object_id} already exists")
+            continue
+        with open(path, mode="w") as fp:
             json.dump(record, fp, ensure_ascii=False, indent=2)
 
 
@@ -129,6 +136,14 @@ def crawl_unprocessed_list():
     print(f"Crawling {total} unprocessed routes from unprocessed-list.txt")
 
     for index, url in enumerate(urls):
+        # Extract ref from URL and check if file already exists before fetching
+        ref = url.split("/")[-1]
+        object_id = get_object_id(ref)
+        path = f"../data/backup/{object_id[0]}/{object_id}.json"
+        if os.path.exists(path):
+            print(f"[{index+1:04d}/{total}] SKIP: {object_id} already exists")
+            continue
+
         print(f"[{index+1:04d}/{total}] processing: {url}")
         markup = requests.get(url).text
         record = DetailExtractor(markup).process()
