@@ -4,7 +4,16 @@ info:
   version: 0.0.1
   description: API to retrieve and search GPS Walking Routes
 servers:
-  - url: https://api.destructuring-bind.org
+  - url: https://api.hz-nbg1.destructuring-bind.org
+    description: Production / canonical API endpoint
+# All endpoints exposed by this API require a valid API key sent in the
+# `X-API-Key` request header. The server compares the supplied key in
+# constant time against the `GPS_ROUTES_API_KEY` environment variable;
+# a missing or invalid key returns `401 Unauthorized`. Only `/healthz`,
+# `/ready` and CORS preflight (OPTIONS) requests bypass this check, and
+# none of those are exposed by this spec.
+security:
+  - ApiKeyAuth: []
 paths:
   /v1/gps-routes/search:
     post:
@@ -12,7 +21,19 @@ paths:
         - routes
       operationId: search
       summary: Search for routes according to various criteria
-      description: Returns multiple matching summary results in JSON format.
+      description: |
+        Returns multiple matching summary results in JSON format.
+
+        If `limit` is not specified it defaults to 10. The `offset` and
+        `limit` values are range-checked: `offset` must be in `0..100000` and
+        `limit` must be in `0..100`, otherwise a `400` is returned.
+
+        The `boundingBox` and `nearby` attributes are mutually exclusive —
+        specifying both in the same request yields a `400`.
+
+        Each key in `facets` must be one of the supported facet fields
+        (see the `facets` configuration); unknown facet fields are rejected
+        with a `400`.
       requestBody:
         required: true
         content:
@@ -27,7 +48,7 @@ paths:
               schema:
                 $ref: "#/components/schemas/SearchResults"
         "400":
-          description: Invalid request, e.g., missing or invalid request body attributes.
+          description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, or an unknown facet field.
         "500":
           description: Internal server error
 
@@ -54,14 +75,62 @@ paths:
               schema:
                 $ref: "#/components/schemas/RouteMetadata"
         "400":
-          description: Invalid request, e.g., missing or invalid path parameter.
+          description: Invalid request, e.g. missing or invalid path parameter.
         "404":
-          description: Not found, e.g., no such record for the specified object ID.
+          description: Not found, e.g. no such record for the specified object ID.
+        "500":
+          description: Internal server error
+
+  /v1/gps-routes/ref-data:
+    get:
+      tags:
+        - routes
+      operationId: refData
+      summary: Retrieve reference data for the API
+      description: Returns the available facet values together with the attribution strings used by the API.
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/RefData"
         "500":
           description: Internal server error
 
 components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
+      description: |
+        API key for authenticating requests. Supply a valid key issued by the
+        API operator in the `X-API-Key` header. Requests missing this header
+        are rejected with `401 API Key Required`; requests with an invalid key
+        are rejected with `401 Invalid API Key`.
   schemas:
+    # A latitude/longitude pair. Used for the `_geoloc` field of route objects.
+    # NOTE: the API serializes this as `_geoloc` ({lat, lng}), not as a GeoJSON
+    # `location` Point — keep these in sync with `models/common/geoloc.go`.
+    GeoLocation:
+      type: object
+      description: A geographic latitude/longitude pair
+      required:
+        - lat
+        - lng
+      properties:
+        lat:
+          type: number
+          format: float
+          description: Latitude
+          example: 53.31721
+        lng:
+          type: number
+          format: float
+          description: Longitude
+          example: -1.62343
+
     RouteSummary:
       type: object
       required:
@@ -69,7 +138,7 @@ components:
         - ref
         - title
         - description
-        - headline_image_url
+        - _geoloc
       properties:
         objectID:
           type: string
@@ -90,10 +159,17 @@ components:
         headline_image_url:
           type: string
           format: url
+          nullable: true
           description: The main image URL associated with the route
           example: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Daneshill_Lakes_-_Car_Park_Entrance_-_geograph.org.uk_-_674042.jpg"
-        location:
-          $ref: "#/components/schemas/GeoJSON"
+        distance_km:
+          type: number
+          format: float
+          description: A rough distance indicating the length of the route
+          example: 1.7
+        _geoloc:
+          $ref: "#/components/schemas/GeoLocation"
+          description: The geographic location (latitude/longitude) of the route
 
     RouteMetadata:
       allOf:
@@ -109,8 +185,14 @@ components:
               example: 2024-12-18T16:35:30.796469+00:00
             nearby:
               type: array
+              description: Nearby walking routes, each returned as a full RouteSummary.
               items:
-                $ref: "#/components/schemas/Nearby"
+                $ref: "#/components/schemas/RouteSummary"
+            details:
+              type: array
+              description: Supplementary detail sections (subtitle + content) for the route.
+              items:
+                $ref: "#/components/schemas/Detail"
             gpx_url:
               type: string
               format: url
@@ -119,55 +201,107 @@ components:
               type: array
               items:
                 $ref: "#/components/schemas/Image"
-            distance_km:
-              type: float64
-              description: A rough distance indicating the length of the route
-              example: 1.7
             video_url:
               type: string
               format: url
+              nullable: true
               description: A link to a (YouTube) video associated with the route
               example: "https://www.youtube.com/embed/U8pyBfqKKhE"
+            display_address:
+              type: string
+              nullable: true
+              description: A human-friendly display address for the route start
+              example: Surprise View, A6187, Grindleford, Derby...
             postcode:
               type: string
+              nullable: true
               description: Where exists, a nearby postcode
-              example: null
+              example: S32 2HY
             district:
               type: string
+              nullable: true
               description: The district in which the route starts
-              example: null
+              example: Derbyshire Dales
             county:
               type: string
+              nullable: true
               description: The county in which the route starts
-              example: Nottinghamshire
+              example: Derbyshire
             region:
               type: string
+              nullable: true
               description: The region in which the route starts
               example: East Midlands
+            state:
+              type: string
+              nullable: true
+              description: The state/country subdivision in which the route starts
+              example: England
             country:
               type: string
+              nullable: true
               description: The country in which the route starts
-              example: England
+              example: United Kingdom
+            estimated_duration:
+              type: string
+              nullable: true
+              description: An estimated duration for completing the route
+              example: "1 hour"
+            difficulty:
+              type: string
+              nullable: true
+              description: The difficulty grade of the route
+              example: moderate
+            terrain:
+              type: array
+              nullable: true
+              description: The terrain types involved in the route
+              items:
+                type: string
+            points_of_interest:
+              type: array
+              nullable: true
+              description: Points of interest along the route
+              items:
+                type: string
+            facilities:
+              type: array
+              nullable: true
+              description: Facilities available along the route
+              items:
+                type: string
+            route_type:
+              type: string
+              nullable: true
+              description: The type of route (e.g. circular)
+              example: circular
+            activities:
+              type: array
+              nullable: true
+              description: Activities the route is suitable for
+              items:
+                type: string
 
-    Nearby:
+    # NOTE: this is NOT the same as a nearby route reference — see RouteSummary
+    # for the full objects returned in RouteMetadata.nearby. This schema
+    # describes the search request filter for nearby-place lookups.
+    NearbyFilter:
       type: object
+      description: A nearby-place filter for search requests. Mutually exclusive with `boundingBox`.
       required:
-        - objectID
-        - ref
-        - description
+        - place
       properties:
-        objectID:
+        place:
           type: string
-          description: The object ID identifies the GPS route (typically this is the MD5 hash of the route reference)
-          example: 82d4977c39ae50e61f209ab628ffe8ae
-        ref:
-          type: string
-          description: A human friendly unique identifier for the route.
-          example: chesterfield-canal-walking-route
-        description:
-          type: string
-          description: The route title
-          example: Chesterfield Canal
+          description: A place name to resolve via the OS Names API for proximity search.
+          example: Hathersage
+        center:
+          $ref: "#/components/schemas/GeoLocation"
+          description: The resolved latitude/longitude center used for proximity search.
+        distanceKm:
+          type: integer
+          description: The search radius in kilometers
+          example: 10
 
     Image:
       type: object
@@ -182,29 +316,27 @@ components:
         title:
           type: string
           description: Description, typically containing some attribution for the image
-          example: Footpath and meadow at Daneshill Lakes reserve by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia <https://creativecommons.org/licenses/by-sa/2.0
+          example: Footpath and meadow at Daneshill Lakes reserve by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia <https://creativecommons.org/licenses/by-sa/2.0>
         caption:
           type: string
           description: Appropriate image caption
           example: Footpath and meadow
 
-    GeoJSON:
+    Detail:
       type: object
-      description: A GeoJSON object
+      description: A supplementary detail section for a route
       required:
-        - type
-        - coordinates
+        - subtitle
+        - content
       properties:
-        type:
-          description: GeoJSON type
+        subtitle:
           type: string
-          example: Point
-        coordinates:
-          type: array
-          description: Longitude, Latitude
-          items:
-            type: float64
-          example: [-0.9960077399, 53.3712125339]
+          description: The subtitle / heading for the detail section
+          example: Pubs/Cafes
+        content:
+          type: string
+          description: The body content for the detail section
+          example: Head to the nearby Millstone Inn for some well earned post walk refreshments.
 
     SearchRequest:
       type: object
@@ -217,13 +349,22 @@ components:
           example: coffee -tea shop
         offset:
           type: integer
+          minimum: 0
+          maximum: 100000
+          default: 0
+          description: The number of results to skip (paged search)
         limit:
           type: integer
+          minimum: 0
+          maximum: 100
+          default: 10
+          description: The maximum number of results to return. Defaults to 10 when omitted or 0.
         boundingBox:
           type: array
+          description: The bounding box with bottom-left lng/lat, followed by top-right lng/lat. Mutually exclusive with `nearby`.
           items:
-            type: float64
-          description: the bounding box with bottom-left lng/lat, followed by top-right lng/lat
+            type: number
+            format: float
           example:
             [
               -2.945623397827149,
@@ -233,11 +374,22 @@ components:
             ]
         facets:
           type: object
-          description: Filtering by facet values
+          description: Filtering by facet values. Each key must be a supported facet field.
           additionalProperties:
             type: array
             items:
               type: string
+        nearby:
+          $ref: "#/components/schemas/NearbyFilter"
+          description: A nearby-place filter for proximity search. Mutually exclusive with `boundingBox`.
+        truncateText:
+          type: boolean
+          description: When true, truncate the long description text returned in summary results
+          example: true
+        skipFacets:
+          type: boolean
+          description: When true, skip computing facet counts in the search response
+          example: false
 
     SearchResults:
       type: object
@@ -246,14 +398,43 @@ components:
         - hits
       properties:
         total:
-          type: int64
+          type: integer
+          format: int64
+          description: The total number of matching routes
+          example: 7069
         hits:
           type: array
+          description: The matching route summaries (page of results)
           items:
             $ref: "#/components/schemas/RouteSummary"
         facets:
           type: object
+          description: A map of facet field name to a map of facet-value -> count
           additionalProperties:
             type: object
             additionalProperties:
-              type: int64
+              type: integer
+              format: int64
+        attribution:
+          type: array
+          description: Attribution strings for the data sources used by the API
+          items:
+            type: string
+
+    RefData:
+      type: object
+      description: "Reference data for the API: all available facet values with counts plus attribution"
+      properties:
+        facets:
+          type: object
+          description: A map of facet field name to a map of facet-value -> count
+          additionalProperties:
+            type: object
+            additionalProperties:
+              type: integer
+              format: int64
+        attribution:
+          type: array
+          description: Attribution strings for the data sources used by the API
+          items:
+            type: string
