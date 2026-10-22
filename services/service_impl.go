@@ -118,11 +118,27 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		}
 	}
 
+	// Determine the effective limit (defaults to 10 when 0)
+	effectiveLimit := criteria.Limit
+	if effectiveLimit == 0 {
+		effectiveLimit = 10
+	}
+
+	hasMore := int64(criteria.Offset)+int64(effectiveLimit) < total
+	nextOffset := int32(0)
+	if hasMore {
+		nextOffset = criteria.Offset + effectiveLimit
+	}
+
 	return &domain.SearchResults{
 		Hits:        results,
 		Total:       total,
 		Facets:      facets,
 		Attribution: ATTRIBUTION,
+		Offset:      criteria.Offset,
+		Limit:       effectiveLimit,
+		HasMore:     hasMore,
+		NextOffset:  nextOffset,
 	}, nil
 }
 

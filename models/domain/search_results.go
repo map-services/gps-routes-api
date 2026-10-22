@@ -8,4 +8,13 @@ type SearchResults struct {
 	Facets Facets `json:"facets,omitempty"`
 
 	Attribution []string `json:"attribution"`
+
+	// Pagination metadata
+	Offset int32 `json:"offset"`
+
+	Limit int32 `json:"limit"`
+
+	HasMore bool `json:"hasMore"`
+
+	NextOffset int32 `json:"nextOffset,omitempty"`
 }

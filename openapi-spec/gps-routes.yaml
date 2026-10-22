@@ -430,6 +430,9 @@ components:
       required:
         - total
         - hits
+        - offset
+        - limit
+        - hasMore
       properties:
         total:
           type: integer
@@ -454,6 +457,25 @@ components:
           description: Attribution strings for the data sources used by the API
           items:
             type: string
+        offset:
+          type: integer
+          format: int32
+          description: The pagination offset used for this page of results
+          example: 0
+        limit:
+          type: integer
+          format: int32
+          description: The page size used for this page of results (defaults to 10 when omitted)
+          example: 10
+        hasMore:
+          type: boolean
+          description: True when there are more results available beyond this page
+          example: true
+        nextOffset:
+          type: integer
+          format: int32
+          description: The offset to use in the next request to fetch the following page (omitted when hasMore is false)
+          example: 10
 
     RefData:
       type: object
