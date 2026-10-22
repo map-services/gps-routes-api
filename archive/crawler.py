@@ -13,14 +13,14 @@ from utils import get_datahub_client, get_object_id, get_search_client, ROUTES_I
 datahub = get_datahub_client()
 
 
-def store_objects(records: list):
+def store_objects(records: list, overwrite: bool = False):
     for record in records:
         object_id = record.get("objectID")
         if not object_id:
             print(f"WARN: skipping record without objectID: {record.get('ref', 'unknown')}")
             continue
         path = f"../data/backup/{object_id[0]}/{object_id}.json"
-        if os.path.exists(path):
+        if not overwrite and os.path.exists(path):
             print(f"SKIP: {object_id} already exists")
             continue
         with open(path, mode="w") as fp:
@@ -136,19 +136,25 @@ def crawl_unprocessed_list():
     print(f"Crawling {total} unprocessed routes from unprocessed-list.txt")
 
     for index, url in enumerate(urls):
-        # Extract ref from URL and check if file already exists before fetching
+        # Extract ref from URL and check if file needs reprocessing
         ref = url.split("/")[-1]
         object_id = get_object_id(ref)
         path = f"../data/backup/{object_id[0]}/{object_id}.json"
+
+        # Skip if file exists and already has a description
         if os.path.exists(path):
-            print(f"[{index+1:04d}/{total}] SKIP: {object_id} already exists")
-            continue
+            with open(path, mode="r") as fp:
+                existing = json.load(fp)
+            if existing.get("description"):
+                print(f"[{index+1:04d}/{total}] SKIP: {object_id} has description")
+                continue
+            print(f"[{index+1:04d}/{total}] REPROCESS: {object_id} missing description")
 
         print(f"[{index+1:04d}/{total}] processing: {url}")
         markup = requests.get(url).text
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
-        store_objects([record])
+        store_objects([record], overwrite=True)
 
 
 async def main():
