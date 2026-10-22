@@ -79,6 +79,7 @@ ENV GIN_MODE=release \
 WORKDIR /app
 COPY --from=build /gps-routes          /app/gps-routes
 COPY --from=build /src/data/routes.db   /app/data/routes.db
+COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 
 EXPOSE 8080/tcp
 
