@@ -52,10 +52,10 @@
   "description": "This circular walk explores the woodland and heathland on Walton Common in the Somerset village of Walton In Gordano. The area is located just north of Clevedon just off the coast. On the common you'll find miles of woodland trails and hill climbs offering some splendid views over the Bristol Channel. It's great for flora and fauna too with wildflowers and butterflies to see in the warmer months. There's also a coastal section along Culver Cliff with excellent views towards Portishead. To further explore the Gordano Valley pick up the waymarked Gordano Round. There's also the Portbury and Prior's Wood Walk where there's lots of pretty bluebells to see in the spring.",
   "details": [],
   "postcode": "BS21 7AP",
-  "district": "Walton in Gordano",
+  "district": "Walton-in-Gordano",
   "county": "North Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -72,5 +72,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Springhead Cottage, Walton Street, Walton-in-Gordano, North Somerset, England, BS21 7AP, United Kingdom",
+  "state": "England"
 }

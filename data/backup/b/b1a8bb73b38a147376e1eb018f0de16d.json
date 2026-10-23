@@ -1,168 +1,155 @@
 {
-  "created_at": "2025-01-06T02:06:00.422473+00:00",
-  "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
-  "ref": "culloden-battlefield-walking-route",
-  "title": "Culloden Battlefield Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
-  "nearby": [
-    {
-      "description": "River Ness",
-      "objectID": "9d5d66930ea9d51336f73e979b51458a",
-      "ref": "river-ness-walking-route"
+    "created_at": "2025-01-06T02:06:00.422473+00:00",
+    "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
+    "ref": "culloden-battlefield-walking-route",
+    "title": "Culloden Battlefield Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
+    "nearby": [
+        {
+            "description": "River Ness",
+            "objectID": "9d5d66930ea9d51336f73e979b51458a",
+            "ref": "river-ness-walking-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Dores Beach",
+            "objectID": "18675c2039efd4bcb066b3830ca1c014",
+            "ref": "dores-beach-walking-route"
+        },
+        {
+            "description": "Loch Duntelchaig",
+            "objectID": "a64789ee55d0707936bec88febbdb542",
+            "ref": "loch-duntelchaig-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Caledonian Canal",
+            "objectID": "1e8c5799de9d1a0c2c3049f9be3a7437",
+            "ref": "caledonian-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Inverness Canal and Forest Walk",
+            "objectID": "dc35edc24e3b8c443bafa82499e95a87",
+            "ref": "inverness-canal-and-forest-walk-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Beauly River Walk",
+            "objectID": "ffede12dda6536aa261f2932132d9234",
+            "ref": "beauly-river-walk"
+        },
+        {
+            "description": "Cawdor Castle and Woods",
+            "objectID": "1e23a6155ec854aee467527471bd5aa2",
+            "ref": "cawdor-castle-and-woods-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        },
+        {
+            "description": "Muir of Ord",
+            "objectID": "66e70e97108ff53910fc9bfa708c2abf",
+            "ref": "muir-of-ord-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b1a8bb73b38a147376e1eb018f0de16d.gpx",
+    "_geoloc": {
+        "lat": 57.4776715519,
+        "lng": -4.0936740561
     },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
-    },
-    {
-      "description": "Dores Beach",
-      "objectID": "18675c2039efd4bcb066b3830ca1c014",
-      "ref": "dores-beach-walking-route"
-    },
-    {
-      "description": "Loch Duntelchaig",
-      "objectID": "a64789ee55d0707936bec88febbdb542",
-      "ref": "loch-duntelchaig-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
-    },
-    {
-      "description": "Caledonian Canal",
-      "objectID": "1e8c5799de9d1a0c2c3049f9be3a7437",
-      "ref": "caledonian-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Inverness Canal and Forest Walk",
-      "objectID": "dc35edc24e3b8c443bafa82499e95a87",
-      "ref": "inverness-canal-and-forest-walk-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Beauly River Walk",
-      "objectID": "ffede12dda6536aa261f2932132d9234",
-      "ref": "beauly-river-walk"
-    },
-    {
-      "description": "Cawdor Castle and Woods",
-      "objectID": "1e23a6155ec854aee467527471bd5aa2",
-      "ref": "cawdor-castle-and-woods-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    },
-    {
-      "description": "Muir of Ord",
-      "objectID": "66e70e97108ff53910fc9bfa708c2abf",
-      "ref": "muir-of-ord-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b1a8bb73b38a147376e1eb018f0de16d.gpx",
-  "_geoloc": {
-    "lat": 57.4776715519,
-    "lng": -4.0936740561
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
-      "title": "Mike Pennington / Culloden battlefield",
-      "caption": "Culloden battlefield. The red flag marks the position of the Government troops, and the Leanch cottage and the new visitor centre are in the background."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Old_Leanach_Cottage_%28geograph_3014052%29.jpg/500px-Old_Leanach_Cottage_%28geograph_3014052%29.jpg",
-      "title": "Ruth Riddle / Old Leanach Cottage",
-      "caption": "Old Leanach Cottage"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Memorial_Cairn_on_the_Culloden_Battlefield_%28geograph_6005809%29.jpg/500px-The_Memorial_Cairn_on_the_Culloden_Battlefield_%28geograph_6005809%29.jpg",
-      "title": "Julian Paren / The Memorial Cairn on the Culloden Battlefield",
-      "caption": "The Memorial Cairn"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_new_Culloden_Visitor_Centre_-_geograph.org.uk_-_1800869.jpg",
-      "title": "Mike Pennington / The new Culloden Visitor Centre",
-      "caption": "The Visitor Centre"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Isolated_Scots_pine_in_fields_between_Culloden_wood_and_Culloden_battlefield_-_geograph.org.uk_-_1120011.jpg",
-      "title": "Donald MacNeill / Isolated Scots pine in fields between Culloden wood and Culloden battlefield",
-      "caption": "Isolated Scots pine in fields between Culloden wood and Culloden battlefield. Hard frost, freezing fog and extremely still conditions for three or four days over Christmas '08 led to spectacular frost crystal build up on grass, trees etc. When Inverness was shrouded in fog, conditions were beautiful up on the moor."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Part_of_Culloden_Moor_-_geograph.org.uk_-_2055013.jpg",
-      "title": "Southern Part of Culloden Moor by Hilmar Ilgenfritz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Southern Part of Culloden Moor"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rooftop_view_of_the_battlefield_-_geograph.org.uk_-_1397707.jpg",
-      "title": "Alasdair MacNeill / Rooftop view of the battlefield",
-      "caption": "Rooftop view of the battlefield. This picture was taken from the roof of the spectacular new National Trust for Scotland visitor centre at Culloden. The cairn is in the centre, with the red flags denoting the British position at the start of the battle."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_visitor_centre_roof%2C_Culloden_-_geograph.org.uk_-_1032930.jpg",
-      "title": "Ian Taylor / New visitor centre roof, Culloden",
-      "caption": "Visitor centre roof. The visitor centre is claimed to be well insulated. The roof is covered with turf. Beinn Bhuidhe is in the background."
-    }
-  ],
-  "distance_km": 1.6,
-  "description": "This circular walk explores the site of the Battle of Culloden which took place as part of the Jacobite Rising in 1746. It's an atmospheric place with good walking trails, fine views and some fascinating history to enjoy. You can start your walk from the car park at the excellent Visitor centre at the eastern side of the site. Then pick up the footpaths heading west to explore the battlefield and its historic landmarks. These include The Memorial Cairn, The Well of the Dead and the 18th century Leanach Cottage with its photogenic thatched roof. After the walk you could explore the fascinating on site museum where you can learn all about the famous confrontation which is notable as the final battle of the Jacobite rising. The outcome was a defeat for the army of Bonnie Prince Charlie by the British. This effectively ended the Stuart quest to regain the throne. Just to the north of the battlefield you'll also find Culloden Woods and the village of the same name. The woods have some peaceful cycling and walking trails to try.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There's a good on site cafe selling a decent range of meals, drinks and snacks."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The battlefield is dog friendly though you are requested to keep them on leads or under close control. Dogs are not allowed inside the visitor centre."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head a short distance south east and you could visit the Clava Cairns and Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn.Head west into Inverness and you could pick up the Caledonian Canal and follow it to the famous Loch Ness. Near here there's also some nice trails around Dores Beach, Loch Ashie and Loch Duntelchaig. The Inverness Canal and Forest Walk will take you along the canal before heading to Craig Phadrig Forest, which lies just to the west of the city. The forest is a peaceful place for walks and includes a viewpoint with an Iron Age Hillfort. A few miles to the west there's the popular village of Beauly. It's a lovely place to visit with a number of independent shops, cherry blossom trees, a pretty square and the ruins of the 13th century priory to see. The Beauly River Walk will take you along the River Beauly with fine views across the Beauly Firth. A few miles to the north east there's more interesting local history at Cawdor Castle and Woods. The 15th century castle is surrounded by beautiful grounds and gardens with more trails through the adjacent Cawdor Woods. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/R3L515AGluA",
-  "postcode": "IV2 5JQ",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "B9006, Westhill, Cradlehall and Westhill, Inverness, Highland, Alba / Scotland, IV2 5JQ, United Kingdom",
-  "district": "Inverness",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint",
-    "memorial"
-  ],
-  "facilities": [
-    "car park",
-    "cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
+            "title": "Mike Pennington / Culloden battlefield",
+            "caption": "Culloden battlefield. The red flag marks the position of the Government troops, and the Leanch cottage and the new visitor centre are in the background."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Old_Leanach_Cottage_%28geograph_3014052%29.jpg/500px-Old_Leanach_Cottage_%28geograph_3014052%29.jpg",
+            "title": "Ruth Riddle / Old Leanach Cottage",
+            "caption": "Old Leanach Cottage"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Memorial_Cairn_on_the_Culloden_Battlefield_%28geograph_6005809%29.jpg/500px-The_Memorial_Cairn_on_the_Culloden_Battlefield_%28geograph_6005809%29.jpg",
+            "title": "Julian Paren / The Memorial Cairn on the Culloden Battlefield",
+            "caption": "The Memorial Cairn"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_new_Culloden_Visitor_Centre_-_geograph.org.uk_-_1800869.jpg",
+            "title": "Mike Pennington / The new Culloden Visitor Centre",
+            "caption": "The Visitor Centre"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Isolated_Scots_pine_in_fields_between_Culloden_wood_and_Culloden_battlefield_-_geograph.org.uk_-_1120011.jpg",
+            "title": "Donald MacNeill / Isolated Scots pine in fields between Culloden wood and Culloden battlefield",
+            "caption": "Isolated Scots pine in fields between Culloden wood and Culloden battlefield. Hard frost, freezing fog and extremely still conditions for three or four days over Christmas '08 led to spectacular frost crystal build up on grass, trees etc. When Inverness was shrouded in fog, conditions were beautiful up on the moor."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_Part_of_Culloden_Moor_-_geograph.org.uk_-_2055013.jpg",
+            "title": "Southern Part of Culloden Moor by Hilmar Ilgenfritz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Southern Part of Culloden Moor"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rooftop_view_of_the_battlefield_-_geograph.org.uk_-_1397707.jpg",
+            "title": "Alasdair MacNeill / Rooftop view of the battlefield",
+            "caption": "Rooftop view of the battlefield. This picture was taken from the roof of the spectacular new National Trust for Scotland visitor centre at Culloden. The cairn is in the centre, with the red flags denoting the British position at the start of the battle."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_visitor_centre_roof%2C_Culloden_-_geograph.org.uk_-_1032930.jpg",
+            "title": "Ian Taylor / New visitor centre roof, Culloden",
+            "caption": "Visitor centre roof. The visitor centre is claimed to be well insulated. The roof is covered with turf. Beinn Bhuidhe is in the background."
+        }
+    ],
+    "distance_km": 1.6,
+    "description": "This circular walk explores the site of the Battle of Culloden which took place as part of the Jacobite Rising in 1746. It's an atmospheric place with good walking trails, fine views and some fascinating history to enjoy. You can start your walk from the car park at the excellent Visitor centre at the eastern side of the site. Then pick up the footpaths heading west to explore the battlefield and its historic landmarks. These include The Memorial Cairn, The Well of the Dead and the 18th century Leanach Cottage with its photogenic thatched roof. After the walk you could explore the fascinating on site museum where you can learn all about the famous confrontation which is notable as the final battle of the Jacobite rising. The outcome was a defeat for the army of Bonnie Prince Charlie by the British. This effectively ended the Stuart quest to regain the throne. Just to the north of the battlefield you'll also find Culloden Woods and the village of the same name. The woods have some peaceful cycling and walking trails to try.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There's a good on site cafe selling a decent range of meals, drinks and snacks."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The battlefield is dog friendly though you are requested to keep them on leads or under close control. Dogs are not allowed inside the visitor centre."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head a short distance south east and you could visit the Clava Cairns and Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn.Head west into Inverness and you could pick up the Caledonian Canal and follow it to the famous Loch Ness. Near here there's also some nice trails around Dores Beach, Loch Ashie and Loch Duntelchaig. The Inverness Canal and Forest Walk will take you along the canal before heading to Craig Phadrig Forest, which lies just to the west of the city. The forest is a peaceful place for walks and includes a viewpoint with an Iron Age Hillfort. A few miles to the west there's the popular village of Beauly. It's a lovely place to visit with a number of independent shops, cherry blossom trees, a pretty square and the ruins of the 13th century priory to see. The Beauly River Walk will take you along the River Beauly with fine views across the Beauly Firth. A few miles to the north east there's more interesting local history at Cawdor Castle and Woods. The 15th century castle is surrounded by beautiful grounds and gardens with more trails through the adjacent Cawdor Woods. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/R3L515AGluA",
+    "postcode": "IV2 5JQ",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "B9006, Westhill, Cradlehall and Westhill, Inverness, Highland, Alba / Scotland, IV2 5JQ, United Kingdom",
+    "district": "Inverness",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint", "memorial"],
+    "facilities": ["car park", "cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling"]
 }

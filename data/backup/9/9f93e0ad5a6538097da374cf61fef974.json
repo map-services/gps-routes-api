@@ -1,132 +1,121 @@
 {
-  "created_at": "2025-01-06T01:00:08.501381+00:00",
-  "objectID": "9f93e0ad5a6538097da374cf61fef974",
-  "ref": "rivington-pike-walking-route",
-  "title": "Rivington Pike Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Seven-arched_Bridge%2C_Rivington_-_geograph.org.uk_-_572424.jpg",
-  "nearby": [
-    {
-      "description": "Rivington Reservoir",
-      "objectID": "b5c2d530190f206df7204e772cf4ce00",
-      "ref": "rivington-reservoir-walking-route"
+    "created_at": "2025-01-06T01:00:08.501381+00:00",
+    "objectID": "9f93e0ad5a6538097da374cf61fef974",
+    "ref": "rivington-pike-walking-route",
+    "title": "Rivington Pike Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Seven-arched_Bridge%2C_Rivington_-_geograph.org.uk_-_572424.jpg",
+    "nearby": [
+        {
+            "description": "Rivington Reservoir",
+            "objectID": "b5c2d530190f206df7204e772cf4ce00",
+            "ref": "rivington-reservoir-walking-route"
+        },
+        {
+            "description": "Anglezarke Reservoir",
+            "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
+            "ref": "anglezarke-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Winter Hill",
+            "objectID": "d0d98a60cea80f75fd7c3ec10cc75971",
+            "ref": "winter-hill-walking-route"
+        },
+        {
+            "description": "Healey Nab",
+            "objectID": "f96cefcd7789d93a3bd002202c82ae26",
+            "ref": "healey-nab-walking-and-cycle-route"
+        },
+        {
+            "description": "Brinscall",
+            "objectID": "14b0afb57501731023cc69b869f18fee",
+            "ref": "brinscall-walking-route"
+        },
+        {
+            "description": "Abbey Village Reservoir",
+            "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
+            "ref": "abbey-village-reservoir-walking-route"
+        },
+        {
+            "description": "Withnell Nature Reserve",
+            "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+            "ref": "withnell-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9f93e0ad5a6538097da374cf61fef974.gpx",
+    "_geoloc": {
+        "lat": 53.6284970528,
+        "lng": -2.5486638995
     },
-    {
-      "description": "Anglezarke Reservoir",
-      "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
-      "ref": "anglezarke-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Winter Hill",
-      "objectID": "d0d98a60cea80f75fd7c3ec10cc75971",
-      "ref": "winter-hill-walking-route"
-    },
-    {
-      "description": "Healey Nab",
-      "objectID": "f96cefcd7789d93a3bd002202c82ae26",
-      "ref": "healey-nab-walking-and-cycle-route"
-    },
-    {
-      "description": "Brinscall",
-      "objectID": "14b0afb57501731023cc69b869f18fee",
-      "ref": "brinscall-walking-route"
-    },
-    {
-      "description": "Abbey Village Reservoir",
-      "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
-      "ref": "abbey-village-reservoir-walking-route"
-    },
-    {
-      "description": "Withnell Nature Reserve",
-      "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell\u00a0nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9f93e0ad5a6538097da374cf61fef974.gpx",
-  "_geoloc": {
-    "lat": 53.6284970528,
-    "lng": -2.5486638995
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Seven-arched_Bridge%2C_Rivington_-_geograph.org.uk_-_572424.jpg",
-      "title": "michael ely / Seven-arched Bridge, Rivington",
-      "caption": "Seven-arched Bridge, Rivington"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraced_Gardens%2C_Rivington_-_geograph.org.uk_-_572442.jpg",
-      "title": "michael ely / Terraced Gardens, Rivington",
-      "caption": "Terraced Gardens, Rivington"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flight_of_steps_in_the_Chinese_Gardens%2C_Rivington-geograph-3984546-by-Phil-Platt.jpg/500px-Flight_of_steps_in_the_Chinese_Gardens%2C_Rivington-geograph-3984546-by-Phil-Platt.jpg",
-      "title": "Phil Platt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Flight of steps in the Chinese Gardens"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pigeon_Tower_-_geograph.org.uk_-_1205981.jpg",
-      "title": "John Darch / Pigeon Tower",
-      "caption": "Pigeon Tower"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Beehive_Wall%2C_Lever_Park_-_geograph.org.uk_-_239586.jpg",
-      "title": "Stephen Craven / Beehive Wall, Lever Park",
-      "caption": "Beehive Wall, Lever Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tower_on_Rivington_Pike_-_geograph.org.uk_-_1205995.jpg",
-      "title": "John Darch / Tower on Rivington Pike",
-      "caption": "Steps up to Tower on Rivington Pike tower. The tower was built as a hunting lodge by John Andrews of Rivington Hall in 1733 on the site of an ancient beacon using its stone for the foundations. It is a Grade II listed structure."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tower%2C_Rivington_Pike_-_geograph.org.uk_-_1287013.jpg",
-      "title": "Trevor Harris / Tower, Rivington Pike",
-      "caption": "Tower, Rivington Pike. The hill has an interesting history as it was used as an early warning system for attacks. It was most famoulsy used in Elizabethan England to warn of the approaching Spanish Armada, being lit on 19th July 1588. Beacons were also lit for the coronation of King George V in 1910, to celebrate peace after the Great War in 1919 and in 1977 and 2012 to celebrate the Silver and Diamond Jubilees of Queen Elizabeth II and in 2016 for the Queen's 90th birthday."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/View_from_the_steps_to_the_tower_-_geograph.org.uk_-_925933.jpg",
-      "title": "Gary Rogers / View from the steps to the tower",
-      "caption": "View from the steps to the tower. The hill is also popular with mountain bikers with several fine downhill tracks to follow."
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "This popular walk climbs to the Rivington Pike viewpoint in the lovely Rivington Country Park, near Bolton. It's a circular hike of just under 2 miles, with a moderate climb to the 1,191 feet (363 metres) summit of the prominent local landmark, situated at most westerly  point on Winter Hill. There's much to enjoy with a section through the remains of Lever Park and wonderful views over the West Pennine Moors. You start the walk at the Pigeon Tower car park, located about a mile north of the hill top, on Belmont Road. From here you can pick up the footpaths heading south, through the woodland and up to the lovely Rivington Terraced Gardens. In the gardens there are a number of interesting features to see. You'll pass the dovecote of Pigeon Tower which stands at the northwestern edge of the gardens. Italian in style, the tower was built in 1910 by Lord Leverhulme as part of his extensive Rivington estate. Paths will also take you past the pretty Japanese Gardens with its tranquil lake and then up to the Great Ravine. Here you'll find a series of delightful waterfalls flowing over man-made cascades, down to an area known as The Dell. It's an atmospheric and peaceful place with the shady woodland and remains of the old estate making for a varied and memorable climb. After leaving the gardens you follow a series of steps up to the Rivington Pike summit where you'll find the Pike Tower, which is a Grade II listed building. There's also great views to the coast, Blackpool Tower, the Lake District mountains, the Welsh mountains and as far as the Isle of Man on the clearest days. After taking in the views the walk descends on different paths through Lever Park. There's miles more footpaths to try in the surrounding area if you would like to extend the walk. You could head west and enjoy waterside trails along Anglezarke Reservoir and Rivington Reservoir. There's also the splendid climb to Winter Hill where there are more great views and the famous TV Mast.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "On the eastern side of the reservoir in Rivington village you could enjoy some refreshments in the delightful Rivington Village Green Tea Room. There's a cosy interior where you can enjoy a good range of snacks and meals. There's also an outdoor area for warmer days and the cafe is very dog friendly too. You can find the tea rooms on Sheep House Lane with a postcode of BL6 7SD for your sat navs."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the north is the Brinscall Walk which follows a nice trail along The Goit Canal to White Coppice and Anglezarke Reservoir. The Withnell Nature Reserve and the Abbey Village Reservoir can also be accessed near the route. To the west of Bolton there's a nice circular trail to be found around High Rid Reservoir. The small lake is a good place for spotting wildfowl. For more walking ideas in the area see the Lancashire Walks and West Pennine Moors Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/baytAK61bFE",
-  "county": "Lancashire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Roynton Road, Rivington, Chorley, Lancashire, England, BL6 7SA, United Kingdom",
-  "postcode": "BL6 7SA",
-  "district": "Chorley",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "car park",
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Seven-arched_Bridge%2C_Rivington_-_geograph.org.uk_-_572424.jpg",
+            "title": "michael ely / Seven-arched Bridge, Rivington",
+            "caption": "Seven-arched Bridge, Rivington"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraced_Gardens%2C_Rivington_-_geograph.org.uk_-_572442.jpg",
+            "title": "michael ely / Terraced Gardens, Rivington",
+            "caption": "Terraced Gardens, Rivington"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flight_of_steps_in_the_Chinese_Gardens%2C_Rivington-geograph-3984546-by-Phil-Platt.jpg/500px-Flight_of_steps_in_the_Chinese_Gardens%2C_Rivington-geograph-3984546-by-Phil-Platt.jpg",
+            "title": "Phil Platt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Flight of steps in the Chinese Gardens"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pigeon_Tower_-_geograph.org.uk_-_1205981.jpg",
+            "title": "John Darch / Pigeon Tower",
+            "caption": "Pigeon Tower"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Beehive_Wall%2C_Lever_Park_-_geograph.org.uk_-_239586.jpg",
+            "title": "Stephen Craven / Beehive Wall, Lever Park",
+            "caption": "Beehive Wall, Lever Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tower_on_Rivington_Pike_-_geograph.org.uk_-_1205995.jpg",
+            "title": "John Darch / Tower on Rivington Pike",
+            "caption": "Steps up to Tower on Rivington Pike tower. The tower was built as a hunting lodge by John Andrews of Rivington Hall in 1733 on the site of an ancient beacon using its stone for the foundations. It is a Grade II listed structure."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tower%2C_Rivington_Pike_-_geograph.org.uk_-_1287013.jpg",
+            "title": "Trevor Harris / Tower, Rivington Pike",
+            "caption": "Tower, Rivington Pike. The hill has an interesting history as it was used as an early warning system for attacks. It was most famoulsy used in Elizabethan England to warn of the approaching Spanish Armada, being lit on 19th July 1588. Beacons were also lit for the coronation of King George V in 1910, to celebrate peace after the Great War in 1919 and in 1977 and 2012 to celebrate the Silver and Diamond Jubilees of Queen Elizabeth II and in 2016 for the Queen's 90th birthday."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/View_from_the_steps_to_the_tower_-_geograph.org.uk_-_925933.jpg",
+            "title": "Gary Rogers / View from the steps to the tower",
+            "caption": "View from the steps to the tower. The hill is also popular with mountain bikers with several fine downhill tracks to follow."
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "This popular walk climbs to the Rivington Pike viewpoint in the lovely Rivington Country Park, near Bolton. It's a circular hike of just under 2 miles, with a moderate climb to the 1,191 feet (363 metres) summit of the prominent local landmark, situated at most westerly  point on Winter Hill. There's much to enjoy with a section through the remains of Lever Park and wonderful views over the West Pennine Moors. You start the walk at the Pigeon Tower car park, located about a mile north of the hill top, on Belmont Road. From here you can pick up the footpaths heading south, through the woodland and up to the lovely Rivington Terraced Gardens. In the gardens there are a number of interesting features to see. You'll pass the dovecote of Pigeon Tower which stands at the northwestern edge of the gardens. Italian in style, the tower was built in 1910 by Lord Leverhulme as part of his extensive Rivington estate. Paths will also take you past the pretty Japanese Gardens with its tranquil lake and then up to the Great Ravine. Here you'll find a series of delightful waterfalls flowing over man-made cascades, down to an area known as The Dell. It's an atmospheric and peaceful place with the shady woodland and remains of the old estate making for a varied and memorable climb. After leaving the gardens you follow a series of steps up to the Rivington Pike summit where you'll find the Pike Tower, which is a Grade II listed building. There's also great views to the coast, Blackpool Tower, the Lake District mountains, the Welsh mountains and as far as the Isle of Man on the clearest days. After taking in the views the walk descends on different paths through Lever Park. There's miles more footpaths to try in the surrounding area if you would like to extend the walk. You could head west and enjoy waterside trails along Anglezarke Reservoir and Rivington Reservoir. There's also the splendid climb to Winter Hill where there are more great views and the famous TV Mast.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "On the eastern side of the reservoir in Rivington village you could enjoy some refreshments in the delightful Rivington Village Green Tea Room. There's a cosy interior where you can enjoy a good range of snacks and meals. There's also an outdoor area for warmer days and the cafe is very dog friendly too. You can find the tea rooms on Sheep House Lane with a postcode of BL6 7SD for your sat navs."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the north is the Brinscall Walk which follows a nice trail along The Goit Canal to White Coppice and Anglezarke Reservoir. The Withnell Nature Reserve and the Abbey Village Reservoir can also be accessed near the route. To the west of Bolton there's a nice circular trail to be found around High Rid Reservoir. The small lake is a good place for spotting wildfowl. For more walking ideas in the area see the Lancashire Walks and West Pennine Moors Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/baytAK61bFE",
+    "county": "Lancashire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Roynton Road, Rivington, Chorley, Lancashire, England, BL6 7SA, United Kingdom",
+    "postcode": "BL6 7SA",
+    "district": "Chorley",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1.5 hours",
+    "difficulty": "moderate",
+    "terrain": ["woodland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["car park", "pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

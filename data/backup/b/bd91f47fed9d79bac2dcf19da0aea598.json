@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/f64Ld-AvZAw?si=8CXz7xodDR7fKuxo",
   "district": "Cromarty",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -69,5 +69,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Braehead, Cromarty, Highland, Alba / Scotland, IV11 8XR, United Kingdom",
+  "postcode": "IV11 8XR",
+  "state": "Alba / Scotland"
 }

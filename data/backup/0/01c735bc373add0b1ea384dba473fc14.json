@@ -39,8 +39,8 @@
   "video_url": "https://www.youtube.com/embed/sSEBYGnBko4?si=YScEmdoqSySE3hlP",
   "district": "Ayr",
   "county": "South Ayrshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3.5 - 4 hours",
@@ -59,5 +59,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Fort, Ayr, South Ayrshire, Alba / Scotland, KA7 1JT, United Kingdom",
+  "postcode": "KA7 1JT",
+  "state": "Alba / Scotland"
 }

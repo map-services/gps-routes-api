@@ -59,9 +59,9 @@
   "video_url": "https://www.youtube.com/embed/nxWpczlwOGo?si=t1bb_LEcWM4NPRQH",
   "postcode": "SY23 1JX",
   "district": "Aberystwyth",
-  "county": "Sir Ceredigion - Ceredigion",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Ceredigion",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 day",
@@ -79,5 +79,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Seabrin, 14, Quay Road, Aberystwyth, Ceredigion, Cymru / Wales, SY23 1JX, United Kingdom",
+  "state": "Cymru / Wales"
 }

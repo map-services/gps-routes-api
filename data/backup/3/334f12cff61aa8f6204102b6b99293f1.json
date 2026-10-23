@@ -42,10 +42,10 @@
   "description": "This circular walk explores the area around the Suffolk village of Chelmondiston. It's a lovely area for a walk with riverside paths along the River Orwell and pleasant woodland trails through the National Trust's Cliff Plantation. On the western side of the route you will pass through Wolverstone Park where you can visit the picturesque Wolverstone Marina. You can start and finish the walk from the car park at the pretty hamlet of Pin Mill. There's lots of boats to see on the water and the splendid Butt and Oyster pub for refreshments here.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ChyfM4GFvcM?si=nPTUn2g-5ATg8EzR",
-  "district": "Chelmondiston",
+  "district": "Babergh",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -65,5 +65,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pinmill Road, Pin Mill, Chelmondiston, Babergh, Suffolk, England, IP9 1JW, United Kingdom",
+  "postcode": "IP9 1JW",
+  "state": "England"
 }

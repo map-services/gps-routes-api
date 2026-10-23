@@ -1,127 +1,117 @@
 {
-  "created_at": "2025-01-06T18:42:30.860522+00:00",
-  "objectID": "f0736e0826d7e480685db9002470dc92",
-  "ref": "tullamore\u00a0canal-walk",
-  "title": "Tullamore\u00a0Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grand_Canal%2C_Tullamore_-_geograph.org.uk_-_753743.jpg?20110219150335",
-  "nearby": [
-    {
-      "description": "Lough Derravaragh",
-      "objectID": "3d73b4e678bbdc8b887df16047cdd18d",
-      "ref": "lough-derravaragh-walking-route"
+    "created_at": "2025-01-06T18:42:30.860522+00:00",
+    "objectID": "f0736e0826d7e480685db9002470dc92",
+    "ref": "tullamore-canal-walk",
+    "title": "Tullamore Canal Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grand_Canal%2C_Tullamore_-_geograph.org.uk_-_753743.jpg?20110219150335",
+    "nearby": [
+        {
+            "description": "Lough Derravaragh",
+            "objectID": "3d73b4e678bbdc8b887df16047cdd18d",
+            "ref": "lough-derravaragh-walking-route"
+        },
+        {
+            "description": "Fore Abbey",
+            "objectID": "ad6b2070da2e4cd974c30279364e9fcd",
+            "ref": "fore-abbey-walking-route"
+        },
+        {
+            "description": "Glenbarrow Waterfall Loop",
+            "objectID": "f3c5c821438de3a84852026f1441d92b",
+            "ref": "glenbarrow-waterfall-loop-walking-route"
+        },
+        {
+            "description": "Slieve Bloom Way",
+            "objectID": "e216fec10e2343612f00faf2a3f72c86",
+            "ref": "slieve-bloom-way-walking-route"
+        },
+        {
+            "description": "Lough Ree Park Walking Trail",
+            "objectID": "7c68bba4f76e1b12a36100fa10d37e5c",
+            "ref": "lough-ree-park-walking-trail"
+        },
+        {
+            "description": "Lough Owel",
+            "objectID": "1e6df88c79aa6b651c86c48d6f529c34",
+            "ref": "lough-owel-walking-route"
+        },
+        {
+            "description": "Athlone",
+            "objectID": "472c0ee3ef3f20d4bb9a13ca6868e40b",
+            "ref": "athlone-walking-route"
+        },
+        {
+            "description": "Loughcrew",
+            "objectID": "6f88f809f1ae4511ccdffc3ec70a600f",
+            "ref": "loughcrew-walking-route"
+        },
+        {
+            "description": "Athlone - Mullingar Greenway",
+            "objectID": "6fdd7663a34df7e00bde73658f6f4bc1",
+            "ref": "athlone---mullingar-greenway-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f0736e0826d7e480685db9002470dc92.gpx",
+    "_geoloc": {
+        "lat": 53.27806,
+        "lng": -7.48631
     },
-    {
-      "description": "Fore Abbey",
-      "objectID": "ad6b2070da2e4cd974c30279364e9fcd",
-      "ref": "fore-abbey-walking-route"
-    },
-    {
-      "description": "Glenbarrow Waterfall Loop",
-      "objectID": "f3c5c821438de3a84852026f1441d92b",
-      "ref": "glenbarrow-waterfall-loop-walking-route"
-    },
-    {
-      "description": "Slieve Bloom Way",
-      "objectID": "e216fec10e2343612f00faf2a3f72c86",
-      "ref": "slieve-bloom-way-walking-route"
-    },
-    {
-      "description": "Lough Ree Park Walking Trail",
-      "objectID": "7c68bba4f76e1b12a36100fa10d37e5c",
-      "ref": "lough-ree-park-walking-trail"
-    },
-    {
-      "description": "Lough Owel",
-      "objectID": "1e6df88c79aa6b651c86c48d6f529c34",
-      "ref": "lough-owel-walking-route"
-    },
-    {
-      "description": "Athlone",
-      "objectID": "472c0ee3ef3f20d4bb9a13ca6868e40b",
-      "ref": "athlone-walking-route"
-    },
-    {
-      "description": "Loughcrew",
-      "objectID": "6f88f809f1ae4511ccdffc3ec70a600f",
-      "ref": "loughcrew-walking-route"
-    },
-    {
-      "description": "Athlone - Mullingar Greenway",
-      "objectID": "6fdd7663a34df7e00bde73658f6f4bc1",
-      "ref": "athlone---mullingar-greenway-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f0736e0826d7e480685db9002470dc92.gpx",
-  "_geoloc": {
-    "lat": 53.27806,
-    "lng": -7.48631
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grand_Canal%2C_Tullamore_-_geograph.org.uk_-_753743.jpg?20110219150335",
-      "title": "Kieran Campbell / Grand Canal, Tullamore",
-      "caption": "Grand Canal, Tullamore"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ballycommon_Bridge_on_the_Grand_Canal_in_Co._Offaly_-_geograph.org.uk_-_3049171.jpg/500px-Ballycommon_Bridge_on_the_Grand_Canal_in_Co._Offaly_-_geograph.org.uk_-_3049171.jpg?20220113062111",
-      "title": "Ballycommon Bridge on the Grand Canal in Co. Offaly by JP, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ballycommon Bridge on the Grand Canal in Co. Offaly"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bridge_over_the_Grand_Canal%2C_Daingean%2C_Co._Offally_-_geograph.org.uk_-_1388037.jpg?20110228175237",
-      "title": "Dylan Moore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bridge over the Grand Canal, Daingean, Co. Offally"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bord_na_Mona_Lifting_Bridge_on_the_Grand_Canal%2C_Coole%2C_Co._Offaly_-_geograph.org.uk_-_2522173.jpg/500px-Bord_na_Mona_Lifting_Bridge_on_the_Grand_Canal%2C_Coole%2C_Co._Offaly_-_geograph.org.uk_-_2522173.jpg?20210825160453",
-      "title": "Bord na Mona Lifting Bridge on the Grand Canal, Coole, Co. Offaly by JP, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bord na Mona Lifting Bridge on the Grand Canal, Coole, Co. Offaly"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Killane_bridge_on_the_Grand_canal_-_panoramio.jpg/500px-Killane_bridge_on_the_Grand_canal_-_panoramio.jpg?20161111004626",
-      "title": "Robin Pollard, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
-      "caption": "Killane bridge on the Grand canal"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/County_Offaly_-_Edenderry_Grand_Canal_Dock_-_20190827140959.jpg/500px-County_Offaly_-_Edenderry_Grand_Canal_Dock_-_20190827140959.jpg?20200929174338",
-      "title": "Royalcanalrunner, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "County Offaly"
-    }
-  ],
-  "distance_km": 32.5,
-  "description": "This walk follows the Grand Canal from Tullamore to Edenderry in County Offaly. The route heads east from Tullamore passing the town of Daingean before coming to Edenderry. Here you can enjoy a walk along the Edenderry Branch of the canal before finishing in the town. Along the way you will pass pretty canal locks and old bridges while enjoying some fine views of the Offaly countryside. To continue your walking around Tullamore head north to visit the ancient Durrow Abbey. The interesting medieval site includes several notable ancient features, a picturesque walled garden and some peaceful woodland trails.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The Clara Bog Boardwalk is a great place to extend your walking in the area. The route offers an easy and fascinating walk through one of the best-preserved raised bogs in Western Europe."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/MqHpaJOfD5A",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Grand Canal Bank Walk, Tullamore Urban ED, The Municipal District of Tullamore, County Offaly, Leinster, R35 CD82, \u00c9ire / Ireland",
-  "postcode": "R35 CD82",
-  "district": null,
-  "county": "County Offaly",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "2 to 3 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "canal bank",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grand_Canal%2C_Tullamore_-_geograph.org.uk_-_753743.jpg?20110219150335",
+            "title": "Kieran Campbell / Grand Canal, Tullamore",
+            "caption": "Grand Canal, Tullamore"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ballycommon_Bridge_on_the_Grand_Canal_in_Co._Offaly_-_geograph.org.uk_-_3049171.jpg/500px-Ballycommon_Bridge_on_the_Grand_Canal_in_Co._Offaly_-_geograph.org.uk_-_3049171.jpg?20220113062111",
+            "title": "Ballycommon Bridge on the Grand Canal in Co. Offaly by JP, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Ballycommon Bridge on the Grand Canal in Co. Offaly"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bridge_over_the_Grand_Canal%2C_Daingean%2C_Co._Offally_-_geograph.org.uk_-_1388037.jpg?20110228175237",
+            "title": "Dylan Moore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bridge over the Grand Canal, Daingean, Co. Offally"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bord_na_Mona_Lifting_Bridge_on_the_Grand_Canal%2C_Coole%2C_Co._Offaly_-_geograph.org.uk_-_2522173.jpg/500px-Bord_na_Mona_Lifting_Bridge_on_the_Grand_Canal%2C_Coole%2C_Co._Offaly_-_geograph.org.uk_-_2522173.jpg?20210825160453",
+            "title": "Bord na Mona Lifting Bridge on the Grand Canal, Coole, Co. Offaly by JP, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bord na Mona Lifting Bridge on the Grand Canal, Coole, Co. Offaly"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Killane_bridge_on_the_Grand_canal_-_panoramio.jpg/500px-Killane_bridge_on_the_Grand_canal_-_panoramio.jpg?20161111004626",
+            "title": "Robin Pollard, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+            "caption": "Killane bridge on the Grand canal"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/County_Offaly_-_Edenderry_Grand_Canal_Dock_-_20190827140959.jpg/500px-County_Offaly_-_Edenderry_Grand_Canal_Dock_-_20190827140959.jpg?20200929174338",
+            "title": "Royalcanalrunner, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "County Offaly"
+        }
+    ],
+    "distance_km": 32.5,
+    "description": "This walk follows the Grand Canal from Tullamore to Edenderry in County Offaly. The route heads east from Tullamore passing the town of Daingean before coming to Edenderry. Here you can enjoy a walk along the Edenderry Branch of the canal before finishing in the town. Along the way you will pass pretty canal locks and old bridges while enjoying some fine views of the Offaly countryside. To continue your walking around Tullamore head north to visit the ancient Durrow Abbey. The interesting medieval site includes several notable ancient features, a picturesque walled garden and some peaceful woodland trails.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The Clara Bog Boardwalk is a great place to extend your walking in the area. The route offers an easy and fascinating walk through one of the best-preserved raised bogs in Western Europe."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/MqHpaJOfD5A",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Grand Canal Bank Walk, Tullamore Urban ED, The Municipal District of Tullamore, County Offaly, Leinster, R35 CD82, \u00c9ire / Ireland",
+    "postcode": "R35 CD82",
+    "district": null,
+    "county": "County Offaly",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "2 to 3 hours",
+    "difficulty": "easy",
+    "terrain": ["canal bank", "woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

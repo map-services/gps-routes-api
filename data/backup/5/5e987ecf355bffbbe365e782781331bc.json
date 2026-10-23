@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/d__es4i_Rgw?si=A8y1LoFMRLADl02H",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -79,5 +79,10 @@
     "walking",
     "mountain biking",
     "birdwatching"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Eastern Clearing Car Park, Switchback, The Common, West Tytherley, West Dean, Wiltshire, England, SP5 1JP, United Kingdom",
+  "postcode": "SP5 1JP",
+  "district": "West Tytherley",
+  "state": "England"
 }

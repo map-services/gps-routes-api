@@ -34,8 +34,8 @@
   "video_url": "https://www.youtube.com/embed/mZWIFTXyk_s?si=PyobXWZTzynSSmAF",
   "postcode": "BA5 3FH",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -50,5 +50,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Dulcote, Worminster, St Cuthbert Out, Dinder, Somerset, England, BA5 3FH, United Kingdom",
+  "district": "Dinder",
+  "state": "England"
 }

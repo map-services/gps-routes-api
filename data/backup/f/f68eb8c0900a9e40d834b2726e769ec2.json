@@ -1,85 +1,74 @@
 {
-  "created_at": "2025-01-06T04:14:53.561977+00:00",
-  "objectID": "f68eb8c0900a9e40d834b2726e769ec2",
-  "ref": "dennington-walking-route",
-  "title": "Dennington\u00a0Walks Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg/500px-Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f68eb8c0900a9e40d834b2726e769ec2.gpx",
-  "_geoloc": {
-    "lat": 52.2538512509,
-    "lng": 1.3408727056
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg/500px-Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg",
-      "title": "Cottages at Dennington by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cottages at Dennington"
+    "created_at": "2025-01-06T04:14:53.561977+00:00",
+    "objectID": "f68eb8c0900a9e40d834b2726e769ec2",
+    "ref": "dennington-walking-route",
+    "title": "Dennington Walks Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg/500px-Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg",
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f68eb8c0900a9e40d834b2726e769ec2.gpx",
+    "_geoloc": {
+        "lat": 52.2538512509,
+        "lng": 1.3408727056
     },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Dennington_Queen_-_geograph.org.uk_-_3537202.jpg/500px-The_Dennington_Queen_-_geograph.org.uk_-_3537202.jpg",
-      "title": "The Dennington Queen by Stuart Logan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Dennington Queen"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dennington_Place_-_geograph.org.uk_-_4369433.jpg/500px-Dennington_Place_-_geograph.org.uk_-_4369433.jpg",
-      "title": "Dennington Place by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Dennington Place"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dennington_village_sign_-_geograph.org.uk_-_4381590.jpg/330px-Dennington_village_sign_-_geograph.org.uk_-_4381590.jpg",
-      "title": "Dennington village sign by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Dennington village sign"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dennington_-_Church_of_St_Mary.jpg",
-      "title": "ChurchCrawler, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Church of St Mary"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Footbridge_-_geograph.org.uk_-_3871255.jpg/500px-Footbridge_-_geograph.org.uk_-_3871255.jpg",
-      "title": "Footbridge by Keith Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge in the countryside south of the village"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This Suffolk village is located close to Laxfield and Framlingham. The pretty village includes some historic buildings including a 16th century pub and a Grade I listed church dating to the medieval period. Local walking highlights include the grounds and mere at the historic Framlingham Castle which lies just to the south. This walk from the village follows various public footpaths south to explore the surrounding countryside and visit the River Ore. Please scroll down for the full list of walks near and around Dennington. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Denington Queen is an historic pub dating to the 16th century. The large timber framed pub serves quality dishes and has a lovely garden area to relax in. You can find them on the Square at postcode IP13 8AB. The pub is dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the north there's the noteworthy village of Laxfield. The historic settlement has a number of traditional thatched cottages and timber-framed houses. There's also a 14th century church and 16th century pub in this attractive village."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/reRDBxWj0r0?si=e6LXv8YtQmCnM9IP",
-  "postcode": "IP13 8DD",
-  "district": "East Suffolk",
-  "county": "Suffolk",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "B1116, Sheeranville, Dennington, East Suffolk, Suffolk, England, IP13 8DD, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 20 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "countryside"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "church",
-    "castle grounds"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg/500px-Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg",
+            "title": "Cottages at Dennington by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cottages at Dennington"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Dennington_Queen_-_geograph.org.uk_-_3537202.jpg/500px-The_Dennington_Queen_-_geograph.org.uk_-_3537202.jpg",
+            "title": "The Dennington Queen by Stuart Logan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Dennington Queen"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dennington_Place_-_geograph.org.uk_-_4369433.jpg/500px-Dennington_Place_-_geograph.org.uk_-_4369433.jpg",
+            "title": "Dennington Place by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Dennington Place"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dennington_village_sign_-_geograph.org.uk_-_4381590.jpg/330px-Dennington_village_sign_-_geograph.org.uk_-_4381590.jpg",
+            "title": "Dennington village sign by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Dennington village sign"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dennington_-_Church_of_St_Mary.jpg",
+            "title": "ChurchCrawler, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Church of St Mary"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Footbridge_-_geograph.org.uk_-_3871255.jpg/500px-Footbridge_-_geograph.org.uk_-_3871255.jpg",
+            "title": "Footbridge by Keith Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge in the countryside south of the village"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This Suffolk village is located close to Laxfield and Framlingham. The pretty village includes some historic buildings including a 16th century pub and a Grade I listed church dating to the medieval period. Local walking highlights include the grounds and mere at the historic Framlingham Castle which lies just to the south. This walk from the village follows various public footpaths south to explore the surrounding countryside and visit the River Ore. Please scroll down for the full list of walks near and around Dennington. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Denington Queen is an historic pub dating to the 16th century. The large timber framed pub serves quality dishes and has a lovely garden area to relax in. You can find them on the Square at postcode IP13 8AB. The pub is dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the north there's the noteworthy village of Laxfield. The historic settlement has a number of traditional thatched cottages and timber-framed houses. There's also a 14th century church and 16th century pub in this attractive village."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/reRDBxWj0r0?si=e6LXv8YtQmCnM9IP",
+    "postcode": "IP13 8DD",
+    "district": "East Suffolk",
+    "county": "Suffolk",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "B1116, Sheeranville, Dennington, East Suffolk, Suffolk, England, IP13 8DD, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 20 minutes",
+    "difficulty": "easy",
+    "terrain": ["countryside"],
+    "points_of_interest": ["historical site", "church", "castle grounds"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

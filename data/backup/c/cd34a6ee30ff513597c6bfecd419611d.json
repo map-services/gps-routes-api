@@ -1,112 +1,102 @@
 {
-  "created_at": "2025-01-06T10:16:44.401386+00:00",
-  "objectID": "cd34a6ee30ff513597c6bfecd419611d",
-  "ref": "buckholt-woods-walking-route",
-  "title": "Buckholt\u00a0Woods Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Buckholt_Woods_-_geograph.org.uk_-_18660.jpg",
-  "nearby": [
-    {
-      "description": "Cranham Woods",
-      "objectID": "f439d44899e36057894071d79df3274f",
-      "ref": "cranham-woods-walking-route"
+    "created_at": "2025-01-06T10:16:44.401386+00:00",
+    "objectID": "cd34a6ee30ff513597c6bfecd419611d",
+    "ref": "buckholt-woods-walking-route",
+    "title": "Buckholt Woods Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Buckholt_Woods_-_geograph.org.uk_-_18660.jpg",
+    "nearby": [
+        {
+            "description": "Cranham Woods",
+            "objectID": "f439d44899e36057894071d79df3274f",
+            "ref": "cranham-woods-walking-route"
+        },
+        {
+            "description": "Coopers Hill",
+            "objectID": "2fea673da6f410e9a0399174edf17515",
+            "ref": "coopers-hill-walking-route"
+        },
+        {
+            "description": "Birdlip",
+            "objectID": "8f90be0767908c5828c1cc768e6c87fd",
+            "ref": "birdlip-walking-route"
+        },
+        {
+            "description": "Crickley Hill Country Park",
+            "objectID": "551c91028d59c0739224c9211fb2229f",
+            "ref": "crickley-hill-country-park-walking-route"
+        },
+        {
+            "description": "Cotswold Way",
+            "objectID": "506730377bbdf50f447d2f9343dd3402",
+            "ref": "cotswold-way-walking-route"
+        },
+        {
+            "description": "Prinknash Abbey Park",
+            "objectID": "550e52265e217e6c86a08c1f2b0c328b",
+            "ref": "prinknash-abbey-park-walking-route"
+        },
+        {
+            "description": "Painswick Beacon",
+            "objectID": "4e7e375754e563d0d364746461b5fa5d",
+            "ref": "painswick-beacon-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cd34a6ee30ff513597c6bfecd419611d.gpx",
+    "_geoloc": {
+        "lat": 51.8163187807,
+        "lng": -2.1563736092
     },
-    {
-      "description": "Coopers Hill",
-      "objectID": "2fea673da6f410e9a0399174edf17515",
-      "ref": "coopers-hill-walking-route"
-    },
-    {
-      "description": "Birdlip",
-      "objectID": "8f90be0767908c5828c1cc768e6c87fd",
-      "ref": "birdlip-walking-route"
-    },
-    {
-      "description": "Crickley Hill Country Park",
-      "objectID": "551c91028d59c0739224c9211fb2229f",
-      "ref": "crickley-hill-country-park-walking-route"
-    },
-    {
-      "description": "Cotswold Way",
-      "objectID": "506730377bbdf50f447d2f9343dd3402",
-      "ref": "cotswold-way-walking-route"
-    },
-    {
-      "description": "Prinknash Abbey Park",
-      "objectID": "550e52265e217e6c86a08c1f2b0c328b",
-      "ref": "prinknash-abbey-park-walking-route"
-    },
-    {
-      "description": "Painswick Beacon",
-      "objectID": "4e7e375754e563d0d364746461b5fa5d",
-      "ref": "painswick-beacon-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cd34a6ee30ff513597c6bfecd419611d.gpx",
-  "_geoloc": {
-    "lat": 51.8163187807,
-    "lng": -2.1563736092
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Buckholt_Woods_-_geograph.org.uk_-_18660.jpg",
-      "title": "Colin Travis / Buckholt Woods",
-      "caption": "Buckholt Woods"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Path_in_Buckholt_Wood_-_geograph.org.uk_-_2219944.jpg",
-      "title": "Path in Buckholt Wood by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Path in Buckholt Wood"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cranham_Woods_-_geograph.org.uk_-_2336923.jpg/500px-Cranham_Woods_-_geograph.org.uk_-_2336923.jpg",
-      "title": "Cranham Woods by Roger May, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cranham Woods"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Buckholt_Wood%2C_Cranham_-_geograph.org.uk_-_670957.jpg/330px-Buckholt_Wood%2C_Cranham_-_geograph.org.uk_-_670957.jpg",
-      "title": "Philip Halling / Buckholt Wood, Cranham",
-      "caption": "Beech trees are the predominent tree in Buckholt Wood, growing in the thin top soil over the oolitic limestone of the Cotswolds."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Cotswold_Way_on_Cooper%27s_Hill_-_geograph.org.uk_-_3440464.jpg",
-      "title": "The Cotswold Way on Cooper's Hill by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Cotswold Way on Cooper's Hill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cooper%27s_Hill_-_geograph.org.uk_-_3440456.jpg",
-      "title": "Cooper's Hill by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cooper's Hill"
-    }
-  ],
-  "distance_km": 3.8,
-  "description": "This walk visits Buckholt Woods and Rough Park Woods near Cranham in the Cotswolds in Gloucestershire. The woods are desginated as a National Nature Reserve with lots of interesting flora and fauna to see. You can start the walk from the Buckholt Woods free car park at the southern end of the site. There's several different trails to try with a visit to Coopers Hill to the north. The infamous hill is the site of the high octane annual cheese rolling event. There's also a single track mountain bike trail which you can see on the blue line on the open street map below. Part of the walk uses a section of the Cotswold Way National Trail which runs through the area.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/gsxwTdVmkFk",
-  "county": "Gloucestershire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Sanatorium Road, Cranham, Stroud, Gloucestershire, England, GL4 8HU, United Kingdom",
-  "postcode": "GL4 8HU",
-  "district": "Stroud",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 15 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "national nature reserve",
-    "historical site"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Buckholt_Woods_-_geograph.org.uk_-_18660.jpg",
+            "title": "Colin Travis / Buckholt Woods",
+            "caption": "Buckholt Woods"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Path_in_Buckholt_Wood_-_geograph.org.uk_-_2219944.jpg",
+            "title": "Path in Buckholt Wood by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Path in Buckholt Wood"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cranham_Woods_-_geograph.org.uk_-_2336923.jpg/500px-Cranham_Woods_-_geograph.org.uk_-_2336923.jpg",
+            "title": "Cranham Woods by Roger May, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cranham Woods"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Buckholt_Wood%2C_Cranham_-_geograph.org.uk_-_670957.jpg/330px-Buckholt_Wood%2C_Cranham_-_geograph.org.uk_-_670957.jpg",
+            "title": "Philip Halling / Buckholt Wood, Cranham",
+            "caption": "Beech trees are the predominent tree in Buckholt Wood, growing in the thin top soil over the oolitic limestone of the Cotswolds."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Cotswold_Way_on_Cooper%27s_Hill_-_geograph.org.uk_-_3440464.jpg",
+            "title": "The Cotswold Way on Cooper's Hill by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Cotswold Way on Cooper's Hill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cooper%27s_Hill_-_geograph.org.uk_-_3440456.jpg",
+            "title": "Cooper's Hill by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cooper's Hill"
+        }
+    ],
+    "distance_km": 3.8,
+    "description": "This walk visits Buckholt Woods and Rough Park Woods near Cranham in the Cotswolds in Gloucestershire. The woods are desginated as a National Nature Reserve with lots of interesting flora and fauna to see. You can start the walk from the Buckholt Woods free car park at the southern end of the site. There's several different trails to try with a visit to Coopers Hill to the north. The infamous hill is the site of the high octane annual cheese rolling event. There's also a single track mountain bike trail which you can see on the blue line on the open street map below. Part of the walk uses a section of the Cotswold Way National Trail which runs through the area.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/gsxwTdVmkFk",
+    "county": "Gloucestershire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Sanatorium Road, Cranham, Stroud, Gloucestershire, England, GL4 8HU, United Kingdom",
+    "postcode": "GL4 8HU",
+    "district": "Stroud",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 15 minutes",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["national nature reserve", "historical site"],
+    "facilities": ["car park"],
+    "route_type": "out and back",
+    "activities": ["walking", "cycling"]
 }

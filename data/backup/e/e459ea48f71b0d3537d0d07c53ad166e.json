@@ -68,9 +68,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/9AgEY4Faba0?si=T_0gsMwGKaRYq9FW",
   "district": "Trefor",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -89,5 +89,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Ffordd y Traeth, Trefor, Llanaelhaearn, Gwynedd, Cymru / Wales, LL54 5LB, United Kingdom",
+  "postcode": "LL54 5LB",
+  "state": "Cymru / Wales"
 }

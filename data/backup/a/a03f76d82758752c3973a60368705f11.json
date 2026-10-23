@@ -32,10 +32,10 @@
   "description": "This walk follows the Wales Coast Path from Menai Bridge to Beaumaris Castle. The walk runs for about 4.5 miles along the signposted coastal path. On the way you'll enjoy some splendid views of the surrounding coast and countryside. At the end of the route you can explore the 13 century castle and enjoy more fine views over the Menai Strait. You could extend the walk by visiting the nearby lighthouse at Penmon Point on the Beaumaris to Penmon Point Walk .",
   "details": [],
   "postcode": "LL59 5HH",
-  "district": "Porthaethwy / Menai Bridge",
-  "county": "Sir Ynys Mon - Isle of Anglesey",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Menai Bridge",
+  "county": "Ynys M\u00f4n",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -53,5 +53,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Menai Bridge, Ynys M\u00f4n, Cymru / Wales, LL59 5HH, United Kingdom",
+  "state": "Cymru / Wales"
 }

@@ -83,8 +83,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/H28D17KPM5I?si=zyjXv08h_u-tRSm1",
   "county": "Isle of Wight",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -104,5 +104,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "That 60's Place, 103, High Street, Cowes, Isle of Wight, England, PO31 7AT, United Kingdom",
+  "postcode": "PO31 7AT",
+  "district": "Cowes",
+  "state": "England"
 }

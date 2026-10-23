@@ -62,10 +62,10 @@
   "description": "This walk follows a section of the Wales Coast Path from Barmouth to Harlech. The route runs for just over 16 miles passing along the signposted path. On the way you will pass the Morfa Harlech National Nature Reserve where there are miles of sandy beaches and a wide variety of wildlife to look out for. You can continue your walking in the area long the popular Mawddach Trail Walk and Cycle Route or on the Harlech Coastal Walk .",
   "details": [],
   "postcode": "LL42 1ET",
-  "district": "Abermaw / Barmouth",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Barmouth",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 day",
@@ -81,5 +81,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Quay, Barmouth, Gwynedd, Cymru / Wales, LL42 1ET, United Kingdom",
+  "state": "Cymru / Wales"
 }

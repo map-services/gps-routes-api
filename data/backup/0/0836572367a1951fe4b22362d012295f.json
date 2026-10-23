@@ -46,10 +46,10 @@
   "distance_km": 25.0,
   "description": "This long circular walk explores the area around Felbrigg Hall Park, Sheringham Park and Weybourne. On the way you will visit some fine viewpoints with views towards the coast and the surrounding countryside. It's a varied walk with long woodland sections, hill climbs and a coastal trail along the seafront in Sheringham.",
   "details": [],
-  "postcode": "NR11 8PR",
+  "postcode": "NR27 9RT",
   "county": "Norfolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 to 3 hours",
@@ -65,5 +65,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Holt Road, Felbrigg, North Norfolk, Norfolk, England, NR27 9RT, United Kingdom",
+  "district": "North Norfolk",
+  "state": "England"
 }

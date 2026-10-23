@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/REOVCqZVR3I?si=qCwdPT5ch1ZBY7tN",
   "county": "Cumberland",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -77,5 +77,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Honister Pass, Gatesgarth, Buttermere, Cumberland, England, United Kingdom",
+  "postcode": null,
+  "district": "Buttermere",
+  "state": "England"
 }

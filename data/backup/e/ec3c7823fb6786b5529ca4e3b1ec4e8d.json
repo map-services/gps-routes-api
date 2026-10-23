@@ -34,9 +34,9 @@
   "video_url": "https://www.youtube.com/embed/PmQjJcUscGo?si=PKMpy0WgGPcU6pXE",
   "postcode": "LL33 0RB",
   "district": "Llanfairfechan",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5 hours",
@@ -52,5 +52,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pendalar, Llanfairfechan, Conwy, Cymru / Wales, LL33 0RB, United Kingdom",
+  "state": "Cymru / Wales"
 }

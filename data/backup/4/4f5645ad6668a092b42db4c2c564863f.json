@@ -46,10 +46,10 @@
   "distance_km": 7.2,
   "description": "This circular walk takes you from the village of Chiddingstone to the historic Penshurst Place. The route runs for a distance of 4.5 miles, using a section of the Eden Valley Walk and other public footpaths. On the way you will enjoy some fine views of the surrounding Kent countryside. At Penshurst there's the option of exploring the lovely grounds and gardens surrounding the Elizabethan manor house. You can continue your walking from the village on the Chiddingstone Hever Castle Circular Walk .",
   "details": [],
-  "district": "Chiddingstone",
+  "district": "Sevenoaks",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -64,5 +64,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Chiddingstone Road, Hill Hoath, Chiddingstone, Chiddingstone Causeway, Sevenoaks, Kent, England, TN8 7AG, United Kingdom",
+  "postcode": "TN8 7AG",
+  "state": "England"
 }

@@ -38,8 +38,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/TCTO8R44uf0?si=0vaQfKoVAs2ODtH3",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -58,5 +58,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Duck Street, Little Ann, Abbotts Ann, Monxton, Test Valley, Hampshire, England, SP11 7AY, United Kingdom",
+  "postcode": "SP11 7AY",
+  "district": "Test Valley",
+  "state": "England"
 }

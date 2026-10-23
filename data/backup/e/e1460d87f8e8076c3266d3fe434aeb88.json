@@ -1,114 +1,105 @@
 {
-  "created_at": "2025-01-06T03:03:52.434203+00:00",
-  "objectID": "e1460d87f8e8076c3266d3fe434aeb88",
-  "ref": "cosgrove-walking-route",
-  "title": "Cosgrove\u00a0Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cosgrove_on_the_Southern_Grand_Union_Canal_-_geograph.org.uk_-_30529.jpg",
-  "nearby": [
-    {
-      "description": "Grand Union Canal Walk",
-      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-      "ref": "grand-union-canal-walk-walking-route"
+    "created_at": "2025-01-06T03:03:52.434203+00:00",
+    "objectID": "e1460d87f8e8076c3266d3fe434aeb88",
+    "ref": "cosgrove-walking-route",
+    "title": "Cosgrove Canal Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cosgrove_on_the_Southern_Grand_Union_Canal_-_geograph.org.uk_-_30529.jpg",
+    "nearby": [
+        {
+            "description": "Grand Union Canal Walk",
+            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+            "ref": "grand-union-canal-walk-walking-route"
+        },
+        {
+            "description": "Hanslope Circular Ride",
+            "objectID": "2b0aa8df1c7ec43f97cba465cac03e5e",
+            "ref": "hanslope-circular-ride-walking-and-cycle-route"
+        },
+        {
+            "description": "Milton Keynes Boundary Walk",
+            "objectID": "b881f180540771a8af9433e295bd9e8d",
+            "ref": "milton-keynes-boundary-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e1460d87f8e8076c3266d3fe434aeb88.gpx",
+    "_geoloc": {
+        "lat": 52.0758381212,
+        "lng": -0.8445982205
     },
-    {
-      "description": "Hanslope Circular Ride",
-      "objectID": "2b0aa8df1c7ec43f97cba465cac03e5e",
-      "ref": "hanslope-circular-ride-walking-and-cycle-route"
-    },
-    {
-      "description": "Milton Keynes Boundary Walk",
-      "objectID": "b881f180540771a8af9433e295bd9e8d",
-      "ref": "milton-keynes-boundary-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e1460d87f8e8076c3266d3fe434aeb88.gpx",
-  "_geoloc": {
-    "lat": 52.0758381212,
-    "lng": -0.8445982205
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cosgrove_on_the_Southern_Grand_Union_Canal_-_geograph.org.uk_-_30529.jpg",
-      "title": "Neil Geering / Cosgrove on the Southern Grand Union Canal",
-      "caption": "Cosgrove on the Southern Grand Union Canal"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Barley_Mow_Pub%2C_Cosgrove_%28geograph_1694236%29.jpg/500px-The_Barley_Mow_Pub%2C_Cosgrove_%28geograph_1694236%29.jpg",
-      "title": "canalandriversidepubs co uk / The Barley Mow Pub, Cosgrove",
-      "caption": "The Barley Mow Pub, Cosgrove"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Solomon%27s_Bridge%2C_Cosgrove_-_geograph.org.uk_-_531251.jpg",
-      "title": "Stephen McKay / Solomon's Bridge, Cosgrove",
-      "caption": "Solomon's Bridge, Cosgrove. This bridge, no. 65, is one of the most unusual on the canal network - nowhere else is this gothic style used. It was probably built this way in 1800 to appease a local landlord, but the exact circumstances are lost in the mists of time."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thrupp_Wharf_-_geograph.org.uk_-_570175.jpg",
-      "title": "Richard Croft / Thrupp Wharf",
-      "caption": "Thrupp Wharf"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Yardley_Gobion_-_geograph.org.uk_-_453127.jpg",
-      "title": "Ian Rob / Yardley Gobion",
-      "caption": "Yardley Gobion"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Grafton_Regis_-_geograph.org.uk_-_453146.jpg",
-      "title": "Ian Rob / Grafton Regis",
-      "caption": "Grafton Regis. A view from the bridge which takes the Milton Keynes Boundary Walk over the Grand Union Canal."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Iron_Trunk_-_geograph.org.uk_-_112597.jpg",
-      "title": "George Mahoney / The Iron Trunk",
-      "caption": "The Iron Trunk. Canal boat passing over the Iron Trunk aqueduct over the River Great Ouse near Cosgrove"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cosgrove_Leisure_Park_-_geograph.org.uk_-_2496298.jpg",
-      "title": "Cosgrove Leisure Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cosgrove Leisure Park"
-    }
-  ],
-  "distance_km": 14.2,
-  "description": "This canalside Northamptonshire based village is a nice place to start a walk. There's easy trails along the Grand Union Canal and more waterside walks along the River Great Ouse to the south. This circular walk from the village takes you along a section of the Grand Union Canal before following a section of the Hanslope Circular Ride through the countryside to the neighbouring village of Castlethorpe. The walk starts in the village where you can pick up a section of the Milton Keynes Boundary Walk and follow it north along the canal towpath to Thrupp Wharf and Yardley Wharf near Yardley Gobion. Just before Grafton Regis you turn east to link up with the Hanslope Circular Ride. This shared cycling and walking trail will takes you south past Lincoln Lodge to Castlethorpe. From here you head south west, crossing the River Tove near Castlethorpe Mill before skirting the edge of Cosgrove Leisure Park and returning to the village. From here you can extend the walk by heading south east to visit the The Iron Trunk Aqueduct. The structure was built in 1811 and carries the Grand Union Canal over the River Great Ouse, on the borders between Buckinghamshire and Northamptonshire.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Barley Mow is a good choice for post walk refreshment. Housed in a lovely 17th Century building the pub boasts a large beer garden to relax in during the summer months. You can find them next to the canal at postcode MK19 7JD."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The towpaths make for a pleasant dog walk and the Barley Mow mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head south and you could enjoy a stroll along the River Great Ouse to the Stony Stratford Nature Reserve. There's several ponds with lots of wildlife to look out for here. For more walking ideas in the area see the Northamptonshire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/2OQLV55yhLs",
-  "postcode": "MK19 7EZ",
-  "district": "Cosgrove",
-  "county": "West Northamptonshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Cosgrove Horse Tunnel (Footpath RG15), Cosgrove, West Northamptonshire, England, MK19 7EZ, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
-  "terrain": [
-    "waterside"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cosgrove_on_the_Southern_Grand_Union_Canal_-_geograph.org.uk_-_30529.jpg",
+            "title": "Neil Geering / Cosgrove on the Southern Grand Union Canal",
+            "caption": "Cosgrove on the Southern Grand Union Canal"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Barley_Mow_Pub%2C_Cosgrove_%28geograph_1694236%29.jpg/500px-The_Barley_Mow_Pub%2C_Cosgrove_%28geograph_1694236%29.jpg",
+            "title": "canalandriversidepubs co uk / The Barley Mow Pub, Cosgrove",
+            "caption": "The Barley Mow Pub, Cosgrove"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Solomon%27s_Bridge%2C_Cosgrove_-_geograph.org.uk_-_531251.jpg",
+            "title": "Stephen McKay / Solomon's Bridge, Cosgrove",
+            "caption": "Solomon's Bridge, Cosgrove. This bridge, no. 65, is one of the most unusual on the canal network - nowhere else is this gothic style used. It was probably built this way in 1800 to appease a local landlord, but the exact circumstances are lost in the mists of time."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thrupp_Wharf_-_geograph.org.uk_-_570175.jpg",
+            "title": "Richard Croft / Thrupp Wharf",
+            "caption": "Thrupp Wharf"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Yardley_Gobion_-_geograph.org.uk_-_453127.jpg",
+            "title": "Ian Rob / Yardley Gobion",
+            "caption": "Yardley Gobion"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Grafton_Regis_-_geograph.org.uk_-_453146.jpg",
+            "title": "Ian Rob / Grafton Regis",
+            "caption": "Grafton Regis. A view from the bridge which takes the Milton Keynes Boundary Walk over the Grand Union Canal."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_Iron_Trunk_-_geograph.org.uk_-_112597.jpg",
+            "title": "George Mahoney / The Iron Trunk",
+            "caption": "The Iron Trunk. Canal boat passing over the Iron Trunk aqueduct over the River Great Ouse near Cosgrove"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cosgrove_Leisure_Park_-_geograph.org.uk_-_2496298.jpg",
+            "title": "Cosgrove Leisure Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cosgrove Leisure Park"
+        }
+    ],
+    "distance_km": 14.2,
+    "description": "This canalside Northamptonshire based village is a nice place to start a walk. There's easy trails along the Grand Union Canal and more waterside walks along the River Great Ouse to the south. This circular walk from the village takes you along a section of the Grand Union Canal before following a section of the Hanslope Circular Ride through the countryside to the neighbouring village of Castlethorpe. The walk starts in the village where you can pick up a section of the Milton Keynes Boundary Walk and follow it north along the canal towpath to Thrupp Wharf and Yardley Wharf near Yardley Gobion. Just before Grafton Regis you turn east to link up with the Hanslope Circular Ride. This shared cycling and walking trail will takes you south past Lincoln Lodge to Castlethorpe. From here you head south west, crossing the River Tove near Castlethorpe Mill before skirting the edge of Cosgrove Leisure Park and returning to the village. From here you can extend the walk by heading south east to visit the The Iron Trunk Aqueduct. The structure was built in 1811 and carries the Grand Union Canal over the River Great Ouse, on the borders between Buckinghamshire and Northamptonshire.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Barley Mow is a good choice for post walk refreshment. Housed in a lovely 17th Century building the pub boasts a large beer garden to relax in during the summer months. You can find them next to the canal at postcode MK19 7JD."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The towpaths make for a pleasant dog walk and the Barley Mow mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head south and you could enjoy a stroll along the River Great Ouse to the Stony Stratford Nature Reserve. There's several ponds with lots of wildlife to look out for here. For more walking ideas in the area see the Northamptonshire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/2OQLV55yhLs",
+    "postcode": "MK19 7EZ",
+    "district": "Cosgrove",
+    "county": "West Northamptonshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Cosgrove Horse Tunnel (Footpath RG15), Cosgrove, West Northamptonshire, England, MK19 7EZ, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "easy",
+    "terrain": ["waterside"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

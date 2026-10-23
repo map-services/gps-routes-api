@@ -42,9 +42,9 @@
   "description": "This circular walk takes you through the Olchon Valley in the Black Mountains. You can start the walk from the valley car park and then pick up trails running along country lanes and the Olchon Brook. On the way you will pass waterfalls before climbing to the 640 metre high Black Hill where you can enjoy some splendid views to the surrounding mountains. For a longer more challenging walk see the Cats Back page.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/QiBDZkuz-JU?si=bzrvCzE7xOKjTbO8",
-  "county": "County of Herefordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "county": "Herefordshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -63,5 +63,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Olchon Blackhill, Llanveynoe, Craswall, Herefordshire, England, HR2 0NL, United Kingdom",
+  "postcode": "HR2 0NL",
+  "district": "Craswall",
+  "state": "England"
 }

@@ -53,8 +53,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/YaNb61kjKUk?si=9egFWJKlmZM_x0CB",
   "county": "Aberdeenshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -73,5 +73,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Scolty Woodland Car Park, Riverside, Auchattie, Banchory, Aberdeenshire, Alba / Scotland, AB31 5TA, United Kingdom",
+  "postcode": "AB31 5TA",
+  "district": "Banchory",
+  "state": "Alba / Scotland"
 }

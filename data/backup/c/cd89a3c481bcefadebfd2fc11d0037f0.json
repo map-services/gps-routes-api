@@ -53,8 +53,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/P4c0a331miQ?si=vTkEXIYVSMle8kY7",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -72,5 +72,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Wharf, Coombe Hill, Leigh, Tewkesbury, Gloucestershire, England, GL19 4BA, United Kingdom",
+  "postcode": "GL19 4BA",
+  "district": "Tewkesbury",
+  "state": "England"
 }

@@ -36,11 +36,11 @@
   "distance_km": 16.0,
   "description": "This walk takes you from the coast at Lymington to the delightful village of Beaulieu on the edge of the New Forest. The walk runs for just under 10 miles, following the waymarked Solent Way along public footpaths and country lanes. On the way there are some lovely coastal views, peaceful woodland paths and a riverside walk along the Beaulieu River to enjoy.",
   "details": [],
-  "postcode": "SO41 9EG",
-  "district": "Lymington",
+  "postcode": "SO41 9BY",
+  "district": "New Forest",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5 hours 20 minutes",
@@ -57,5 +57,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Cornerways, Bridge Road, Lymington, Lymington and Pennington, Walhampton, New Forest, Hampshire, England, SO41 9BY, United Kingdom",
+  "state": "England"
 }

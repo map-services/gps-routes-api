@@ -52,8 +52,8 @@
   "description": "This circular walk explores Brownmoor Wood in the village of Ecclefechan in Dumfries and Galloway. The peaceful woods are owned by the Forestry Commission and include a series of waymarked footpaths. On the way you can look out for wildlife such as roe deer and a variety of woodland birds. There are also some pleasant countryside views from the fringes of the forest.You can continue your walking around Ecclefechan by visiting the nearbyBurnswark Hillor the historicHoddom Castle.",
   "details": [],
   "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -68,5 +68,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "C140a, Ecclefechan, Dumfries and Galloway, Alba / Scotland, DG11 3LG, United Kingdom",
+  "postcode": "DG11 3LG",
+  "district": "Ecclefechan",
+  "state": "Alba / Scotland"
 }

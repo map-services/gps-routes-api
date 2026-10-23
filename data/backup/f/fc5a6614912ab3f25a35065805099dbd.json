@@ -26,9 +26,9 @@
   "details": [],
   "postcode": "LL53 7DP",
   "district": "Abersoch",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -48,5 +48,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Lon Traeth, Llanengan, Abersoch, Gwynedd, Cymru / Wales, LL53 7DP, United Kingdom",
+  "state": "Cymru / Wales"
 }

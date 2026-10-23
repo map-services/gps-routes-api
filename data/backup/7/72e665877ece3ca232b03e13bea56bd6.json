@@ -57,10 +57,10 @@
   "description": "This walk follows a section of the Cotswold Way from Chipping Campden to Stanton. The route runs for a distance of just under 10 miles, passing along the undulating waymarked path in a south westerly direction. On the way you will pass the neighbouring settlement of Broadway where you can climb to Broadway Tower for some wonderful views over the area. On this opening section you will also pass Dover's Hill, another fine local viewpoint. The route continues to the pretty village of Stanton, passing Snowshill on the way.",
   "details": [],
   "postcode": "GL55 6HB",
-  "district": "Chipping Campden",
+  "district": "Cotswold",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -76,5 +76,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "High Street, Chipping Campden, Broad Campden, Cotswold, Gloucestershire, England, GL55 6HB, United Kingdom",
+  "state": "England"
 }

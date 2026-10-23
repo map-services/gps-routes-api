@@ -41,10 +41,10 @@
   "distance_km": 4.8,
   "description": "This walk takes you along a popular section of the Thames Path from Cookham to Maidenhead in Berkshire. It's about a 3 mile walk, heading south along the flat waymarked path from Cookham. As you walk you can enjoy some fine views over the water to the surrounding countryside. You'll also pass close to the historic Cliveden House which is located on the opposite side of the river.",
   "details": [],
-  "district": "Cookham",
+  "district": "Cookham Rise",
   "county": "Windsor and Maidenhead",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -59,5 +59,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Sutton Road, Cookham Rise, Cookham, Windsor and Maidenhead, England, SL6 9QW, United Kingdom",
+  "postcode": "SL6 9QW",
+  "state": "England"
 }

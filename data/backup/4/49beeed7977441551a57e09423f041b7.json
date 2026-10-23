@@ -36,10 +36,10 @@
   "distance_km": 4.0,
   "description": "This circular walk visits the Highwood Nature Reserve between the towns of Earley and Woodley in the Reading area of Berkshire. The pretty reserve includes nice footpaths taking you through woodland, heathland and around a picturesque lake. The site also contains several exotic tree species which were once part of an arboretum. These include giant redwoods and monkey puzzle. You can also look out for wildlife including various woodland birds. To extend the walk you could head east and visit Dinton Pastures Country Park. The park has some fine walking trails around a series of pretty lakes.",
   "details": [],
-  "district": "Reading",
+  "district": null,
   "county": "Wokingham",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 20 minutes",
@@ -56,5 +56,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Embery Way, Lower Earley, Earley, Wokingham, England, RG6 1JY, United Kingdom",
+  "postcode": "RG6 1JY",
+  "state": "England"
 }

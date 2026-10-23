@@ -59,9 +59,9 @@
   "video_url": "https://www.youtube.com/embed/-kU0CUKHP0A?si=i79EoO10HvfSAX58",
   "postcode": "SA69 9HG",
   "district": "Saundersfoot",
-  "county": "Sir Benfro - Pembrokeshire",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Pembrokeshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "40 minutes",
@@ -78,5 +78,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pembrokeshire Laundry Services, Brewery Terrace, Saundersfoot, Pembrokeshire, Cymru / Wales, SA69 9HG, United Kingdom",
+  "state": "Cymru / Wales"
 }

@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/qJ4jgYongxk?si=mx8KMUEnP0INGtzB",
   "postcode": "IP27 0AF",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 40 minutes",
@@ -63,5 +63,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Adventure Playground, Fire Road 12, Santon Downham, West Suffolk, Suffolk, England, IP27 0AF, United Kingdom",
+  "district": "West Suffolk",
+  "state": "England"
 }

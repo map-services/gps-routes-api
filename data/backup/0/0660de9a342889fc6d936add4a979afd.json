@@ -58,10 +58,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/d_MpbcmTxlg?si=7H9kmuzjxpws1HlR",
   "postcode": "AL5 4QY",
-  "district": "Harpenden",
+  "district": "St Albans",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -78,5 +78,8 @@
   "activities": [
     "cycling",
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "22, Waveney Road, Batford, Harpenden, St Albans, Hertfordshire, England, AL5 4QY, United Kingdom",
+  "state": "England"
 }

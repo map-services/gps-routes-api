@@ -51,11 +51,11 @@
   "distance_km": 7.0,
   "description": "This circular walk takes you around the Woodland Trust's Merry Hill near Bushey in Hertfordshire. On Merry Hill you will fine pleasant trails taking you through meadows and woodland. It's a fine spot with some lovely views over the surrounding town's, villages and countryside of the area. At the southern end of the common you can take a detour to visit Harrow Weald Common and visit the splendid Harrow Viewpoint and the historic Bentley Priory. The hill is a nice spot for dog walking but can get muddy during wetter months.",
   "details": [],
-  "postcode": "WD23 3HN",
-  "district": "Bushey",
+  "postcode": "WD23 3HE",
+  "district": "Hertsmere",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -74,5 +74,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Rudolph Road, Merry Hill, Connaught Park, Bushey, Hertsmere, Hertfordshire, England, WD23 3HE, United Kingdom",
+  "state": "England"
 }

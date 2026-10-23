@@ -52,9 +52,9 @@
   "description": "This walk takes you from Cardigan to Cilgerran in North Pembrokeshire. It's about a 3 mile walk between the two settlements, passing along the old Whitland & Cardigan railway line. The surfaced path is also suitable for cyclists, following the signed National Cycle Route 82. On the way you will pass through the Teifi Marshes Nature Reserve where you can look out for a variety of wildlife from the bird hides. There's also fine views of the River Teifi and the surrounding countryside to enjoy. At the end of the route you can explore the historic ruins of Cilgerran Castle and enjoy more great views from the castle's elevated spot.",
   "details": [],
   "district": "Aberteifi / Cardigan",
-  "county": "Sir Ceredigion - Ceredigion",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Ceredigion",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -72,5 +72,9 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Jewson, Heol y Gorsaf / Station Road, Pentood Industrial Estate, Cardigan, Aberteifi / Cardigan, Ceredigion, Cymru / Wales, SA43 3AD, United Kingdom",
+  "postcode": "SA43 3AD",
+  "state": "Cymru / Wales"
 }

@@ -55,8 +55,8 @@
   "postcode": "KY13 9HY",
   "district": "Scotlandwell",
   "county": "Perth and Kinross",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -76,5 +76,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A911, Kilmagadwood, Scotlandwell, Perth and Kinross, Alba / Scotland, KY13 9HY, United Kingdom",
+  "state": "Alba / Scotland"
 }

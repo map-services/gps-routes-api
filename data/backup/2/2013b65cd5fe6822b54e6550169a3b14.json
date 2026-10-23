@@ -51,10 +51,10 @@
   "distance_km": 2.7,
   "description": "This circular walk visits Loch Lundie on the Black Isle in Ross and Cromarty, in the Scottish Highlands. You can pick up a trail just south of the loch which will take you through woodlands to the lakeside. There is then a waterside path along the eastern side of the loch with fine views over the surrounding hills and countryside. To continue your walking in the area you could head south to pick up the Inverness Canal and Forest Walk and the Caledonian Canal .",
   "details": [],
-  "postcode": "IV1 3XG",
+  "postcode": "IV1 3ZG",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -70,5 +70,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Kilmuir, Highland, Alba / Scotland, IV1 3ZG, United Kingdom",
+  "district": "Kilmuir",
+  "state": "Alba / Scotland"
 }

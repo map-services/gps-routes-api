@@ -47,8 +47,8 @@
   "description": "This walk takes you from Burford to Bourton on the Water in the Cotswolds. The route runs for just over 9 miles, following public footpaths, a local waymarked trail and quiet country lanes between the two popular settlements. Starting in Burford the route first heads west to Great Barrington, passing close to the River Windrush. Here the route picks up a section of the Donnington Way a circular Cotswolds pub walk running through the area. You can follow this signposted trail north to the pretty villages of Great Rissington and Little Rissington before turning west to finish at the picture postcard village of Bourton.",
   "details": [],
   "county": "Oxfordshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -65,5 +65,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bull, 105-107, High Street, Upton, Burford, Oxfordshire, England, OX18 4RG, United Kingdom",
+  "postcode": "OX18 4RG",
+  "district": "Burford",
+  "state": "England"
 }

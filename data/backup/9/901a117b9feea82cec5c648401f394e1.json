@@ -1,70 +1,67 @@
 {
-  "created_at": "2026-10-22T21:54:07.367869+00:00",
-  "objectID": "901a117b9feea82cec5c648401f394e1",
-  "ref": "salthill-promenade-walking-route",
-  "title": "Galway\u00a0Salthill Promenade Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Galway_Bay_from_the_promenade%2C_Salthill_-_geograph.org.uk_-_1492018.jpg?20110302171827",
-  "nearby": [
-    {
-      "description": "Galway River Walk",
-      "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
-      "ref": "galway-walking-route"
+    "created_at": "2026-10-22T21:54:07.367869+00:00",
+    "objectID": "901a117b9feea82cec5c648401f394e1",
+    "ref": "salthill-promenade-walking-route",
+    "title": "Galway Salthill Promenade Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Galway_Bay_from_the_promenade%2C_Salthill_-_geograph.org.uk_-_1492018.jpg?20110302171827",
+    "nearby": [
+        {
+            "description": "Galway River Walk",
+            "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
+            "ref": "galway-walking-route"
+        },
+        {
+            "description": "Lough Corrib",
+            "objectID": "661511925eca59ec70dd56c74d894b4c",
+            "ref": "lough-corrib-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/901a117b9feea82cec5c648401f394e1.gpx",
+    "_geoloc": {
+        "lat": 53.25728,
+        "lng": -9.09167
     },
-    {
-      "description": "Lough Corrib",
-      "objectID": "661511925eca59ec70dd56c74d894b4c",
-      "ref": "lough-corrib-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/901a117b9feea82cec5c648401f394e1.gpx",
-  "_geoloc": {
-    "lat": 53.25728,
-    "lng": -9.09167
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Galway_Bay_from_the_promenade%2C_Salthill_-_geograph.org.uk_-_1492018.jpg?20110302171827",
-      "title": "Brenton Ashby / Galway Bay from the promenade, Salthill",
-      "caption": "Galway Bay from the promenade, Salthill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Seafront%2C_Salthill_-_geograph.org.uk_-_6721916.jpg",
-      "title": "Seafront, Salthill by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Seafront, Salthill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Famine_Ship_Memorial%2C_Celia_Griffin_Memorial_Park%2C_Gratton_Beach%2C_Galway_City_%28geograph_3485234%29.jpg",
-      "title": "P L Chadwick / The Famine Ship Memorial, Celia Griffin Memorial Park, Gratton Beach, Galway City",
-      "caption": "The Famine Ship Memorial, Celia Griffin Memorial Park, Gratton Beach, Galway City"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Salthill_Public_Park_-_geograph.org.uk_-_6781676.jpg",
-      "title": "Salthill Public Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Salthill Public Park"
-    }
-  ],
-  "distance_km": 3.4,
-  "description": "This walk takes you along the Salthill and Seapoint promenade in Galway. You can start off in the car park near Blackrock Beach at the western end of the prom. Blackrock is known for its iconic diving tower, a favourite spot for locals and visitors alike. The beach consists of a mix of sand and pebbles, and the area offers stunning views over Galway Bay, with the Burren hills visible across the water on clear days. Heading east along the promenade, you pass by Salthill Park before coming to South Park. Also known as \"The Swamp,\" this large expanse of public land lies close to the heart of Galway City. The area includes playing fields, a walking path, and a coastal section offering excellent views back toward Salthill and across to the Claddagh and Galway City. The tidal estuary nearby attracts wading birds, particularly during migration seasons, making it an interesting spot for birdwatchers. You can continue your walking by picking up the Galway River Walk or visiting the nearby Lough Corrib .",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/zMhrKspfu_M?si=Ly9TeywAcovq2zMB",
-  "gazetteer_found": false,
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal"
-  ],
-  "points_of_interest": [
-    "diving tower",
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "birdwatching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Galway_Bay_from_the_promenade%2C_Salthill_-_geograph.org.uk_-_1492018.jpg?20110302171827",
+            "title": "Brenton Ashby / Galway Bay from the promenade, Salthill",
+            "caption": "Galway Bay from the promenade, Salthill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Seafront%2C_Salthill_-_geograph.org.uk_-_6721916.jpg",
+            "title": "Seafront, Salthill by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Seafront, Salthill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Famine_Ship_Memorial%2C_Celia_Griffin_Memorial_Park%2C_Gratton_Beach%2C_Galway_City_%28geograph_3485234%29.jpg",
+            "title": "P L Chadwick / The Famine Ship Memorial, Celia Griffin Memorial Park, Gratton Beach, Galway City",
+            "caption": "The Famine Ship Memorial, Celia Griffin Memorial Park, Gratton Beach, Galway City"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Salthill_Public_Park_-_geograph.org.uk_-_6781676.jpg",
+            "title": "Salthill Public Park by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Salthill Public Park"
+        }
+    ],
+    "distance_km": 3.4,
+    "description": "This walk takes you along the Salthill and Seapoint promenade in Galway. You can start off in the car park near Blackrock Beach at the western end of the prom. Blackrock is known for its iconic diving tower, a favourite spot for locals and visitors alike. The beach consists of a mix of sand and pebbles, and the area offers stunning views over Galway Bay, with the Burren hills visible across the water on clear days. Heading east along the promenade, you pass by Salthill Park before coming to South Park. Also known as \"The Swamp,\" this large expanse of public land lies close to the heart of Galway City. The area includes playing fields, a walking path, and a coastal section offering excellent views back toward Salthill and across to the Claddagh and Galway City. The tidal estuary nearby attracts wading birds, particularly during migration seasons, making it an interesting spot for birdwatchers. You can continue your walking by picking up the Galway River Walk or visiting the nearby Lough Corrib .",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/zMhrKspfu_M?si=Ly9TeywAcovq2zMB",
+    "gazetteer_found": false,
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["coastal"],
+    "points_of_interest": ["diving tower", "viewpoint", "historical site"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking", "birdwatching"],
+    "nominatim_found": true,
+    "display_address": "Salthill Promenade, Salthill, Knocknacarragh, Cathair na Gaillimhe, County Galway, Connacht, \u00c9ire / Ireland",
+    "postcode": null,
+    "district": "Cathair na Gaillimhe",
+    "county": "County Galway",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland"
 }

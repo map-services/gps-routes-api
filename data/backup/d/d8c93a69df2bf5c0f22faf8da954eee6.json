@@ -43,8 +43,8 @@
   "details": [],
   "district": "Great Missenden",
   "county": "Buckinghamshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 40 minutes",
@@ -60,5 +60,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Link Road, Great Missenden, Missendens Community Board, South Heath, Buckinghamshire, England, HP16 9QD, United Kingdom",
+  "postcode": "HP16 9QD",
+  "state": "England"
 }

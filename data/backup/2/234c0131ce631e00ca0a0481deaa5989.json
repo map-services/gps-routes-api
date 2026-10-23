@@ -57,9 +57,9 @@
   "description": "This long distance walk follows the Wandle Trail and the Vanguard Way from London to the Seven Sisters Cliffs on Sussex Coast. Starting in Wandsworth next to the River Thames you first follow the Wandle Trail south along the River Wandle to Croydon. Here you pick up the Vanguard Way which runs through Surrey, Kent, the expansive Ashdown Forest, the beautiful South Downs, Alfriston and the Cuckmere River Valley to the stunning East Sussex coast. There's splendid views of the rolling hills of the South Downs and the south coast before arriving at the stunning cliff tops.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/tGf0Cs9jdNs?si=1V7puV2RiiSMXG6G",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "multiple days",
@@ -77,5 +77,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Spit, Wandsworth, London Borough of Wandsworth, Greater London, England, SW18 1SX, United Kingdom",
+  "postcode": "SW18 1SX",
+  "district": "Greater London",
+  "state": "England"
 }

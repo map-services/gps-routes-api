@@ -63,8 +63,8 @@
   "details": [],
   "postcode": "SN4 0QH",
   "county": "Swindon",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -85,5 +85,9 @@
   "activities": [
     "walking",
     "hiking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Hackpen Lane, Wroughton, Swindon, England, SN4 0QH, United Kingdom",
+  "district": "Wroughton",
+  "state": "England"
 }

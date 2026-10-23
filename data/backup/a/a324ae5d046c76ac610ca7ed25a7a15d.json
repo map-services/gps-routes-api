@@ -89,8 +89,8 @@
   "video_url": "https://www.youtube.com/embed/uMGMOwY8flI?si=Sg36Cl7fDb-7loMT",
   "postcode": "PO20 7BX",
   "county": "West Sussex",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -116,5 +116,9 @@
     "walking",
     "windsurfing",
     "kitesurfing"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Chichester Marina, Boat Storage Area, Appledram, Birdham, Chichester, West Sussex, England, PO20 7BX, United Kingdom",
+  "district": "Chichester",
+  "state": "England"
 }

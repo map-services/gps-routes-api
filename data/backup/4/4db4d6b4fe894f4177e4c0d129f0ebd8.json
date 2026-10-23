@@ -41,9 +41,9 @@
   "distance_km": 7.5,
   "description": "This circular walk explores the countryside surrounding the Herefordshire settlements of Brampton Abbotts and Hole in the Wall. The walk includes a section along the Wye Valley Walk with some fine views over the River Wye. The route begins in Brampton Abbots and runs for just under 5 miles. It is mostly fairly flat with small climbs on the way. The route is located just north of Ross-on-Wye where you can pick up the Ross Round to continue your walking. You could also head west to pick up the Hoarwithy and King's Caple Circular Walk .",
   "details": [],
-  "county": "County of Herefordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "county": "Herefordshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -58,5 +58,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Brampton Abbotts, Herefordshire, England, HR9 7YF, United Kingdom",
+  "postcode": "HR9 7YF",
+  "district": null,
+  "state": "England"
 }

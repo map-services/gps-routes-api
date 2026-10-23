@@ -73,8 +73,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/jjiMSdeAbJw?si=MHyAPCamXoriCYyb",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -93,5 +93,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Stoney Cross Plain Road, Bank, Lyndhurst, Emery Down, New Forest, Hampshire, England, SO43 7DY, United Kingdom",
+  "postcode": "SO43 7DY",
+  "district": "New Forest",
+  "state": "England"
 }

@@ -1,110 +1,102 @@
 {
-  "created_at": "2025-01-06T10:24:07.977272+00:00",
-  "objectID": "42c03e4904b8eb510b2f946c8cd83f2e",
-  "ref": "pangbourne-to-goring-walk",
-  "title": "Pangbourne to Goring\u00a0Walk Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg/500px-Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg",
-  "nearby": [
-    {
-      "description": "Thames Path",
-      "objectID": "0e4392c91f56f17784efaee8a564e416",
-      "ref": "thames-path-walking-route"
+    "created_at": "2025-01-06T10:24:07.977272+00:00",
+    "objectID": "42c03e4904b8eb510b2f946c8cd83f2e",
+    "ref": "pangbourne-to-goring-walk",
+    "title": "Pangbourne to Goring Walk Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg/500px-Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg",
+    "nearby": [
+        {
+            "description": "Thames Path",
+            "objectID": "0e4392c91f56f17784efaee8a564e416",
+            "ref": "thames-path-walking-route"
+        },
+        {
+            "description": "Pangbourne Circular Walk",
+            "objectID": "5eeec550a443d08a55bf3d5f071b6aeb",
+            "ref": "pangbourne-circular-walk-walking-route"
+        },
+        {
+            "description": "Goring",
+            "objectID": "e34735dcc0636df43484be04c2bf3f84",
+            "ref": "goring-walking-route"
+        },
+        {
+            "description": "Basildon Park",
+            "objectID": "f1a2e8dab013ad6b5bb29dce55aff73b",
+            "ref": "basildon-park-walking-route"
+        },
+        {
+            "description": "Woodcote",
+            "objectID": "217d399f08dd5130b979169a0d0d7fc8",
+            "ref": "woodcote-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/42c03e4904b8eb510b2f946c8cd83f2e.gpx",
+    "_geoloc": {
+        "lat": 51.4842868305,
+        "lng": -1.0863302042
     },
-    {
-      "description": "Pangbourne Circular Walk",
-      "objectID": "5eeec550a443d08a55bf3d5f071b6aeb",
-      "ref": "pangbourne-circular-walk-walking-route"
-    },
-    {
-      "description": "Goring",
-      "objectID": "e34735dcc0636df43484be04c2bf3f84",
-      "ref": "goring-walking-route"
-    },
-    {
-      "description": "Basildon Park",
-      "objectID": "f1a2e8dab013ad6b5bb29dce55aff73b",
-      "ref": "basildon-park-walking-route"
-    },
-    {
-      "description": "Woodcote",
-      "objectID": "217d399f08dd5130b979169a0d0d7fc8",
-      "ref": "woodcote-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/42c03e4904b8eb510b2f946c8cd83f2e.gpx",
-  "_geoloc": {
-    "lat": 51.4842868305,
-    "lng": -1.0863302042
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg/500px-Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg",
-      "title": "Pangbourne weir on the River Thames by Mick Crawley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Pangbourne weir on the River Thames"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Whitchurch-on-Thames_from_the_toll_bridge_-_geograph.org.uk_-_1720987.jpg/500px-Whitchurch-on-Thames_from_the_toll_bridge_-_geograph.org.uk_-_1720987.jpg",
-      "title": "Christine Matthews / Whitchurch-on-Thames from the toll bridge",
-      "caption": "Whitchurch-on-Thames from the toll bridge. The spire of St Mary's Church can be seen in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thames_Path_north_of_Whitchurch-on-Thames_-_geograph.org.uk_-_2553423.jpg/500px-Thames_Path_north_of_Whitchurch-on-Thames_-_geograph.org.uk_-_2553423.jpg",
-      "title": "Thames Path north of Whitchurch-on-Thames by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Thames Path north of Whitchurch-on-Thames. You'll follow these country lanes north out of Whitchurch and through Coombe Park before joining the river."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Thames_Path%2C_Hartslock_Wood_-_geograph.org.uk_-_427328.jpg",
-      "title": "Andrew Smith / The Thames Path, Hartslock Wood",
-      "caption": "The Thames Path in Hartslock Wood between Whitchurch and Goring. Heading northwards, the path has dropped down a level so it is only slightly elevated from the river, and is here in the civil parish of Goring on Thames."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/River_Thames_-_geograph.org.uk_-_1315727.jpg",
-      "title": "Ian Capper / River Thames",
-      "caption": "Looking up the River Thames downstream from Goring, with an Arriva Cross Country Class 220 Voyager on the bridge by which the Great Western main line crosses the river. Viewed from Hartslock Nature Reserve, with a patch of evening sunshine shining through the clouds."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/River_Thames_downstream_of_Goring_-_geograph.org.uk_-_177657.jpg",
-      "title": "Hugh Venables / River Thames downstream of Goring",
-      "caption": "River Thames downstream of Goring. This stretch of river bank each side of the railway bridge is well vegetated with relatively slack areas of flow. This makes it a very good spot to find the Club-tailed Dragonfly, a very localised species in Britain."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Thames_Pathway_at_the_Goring_Gap_-_geograph.org.uk_-_306668.jpg",
-      "title": "Rick Hall / Thames Pathway at the Goring Gap",
-      "caption": "Thames Pathway at the Goring Gap. The Goring Gap was cut by the fledgling Thames when it was diverted by the ice age to the North, and cut through the line of chalk. The banks narrow and become quite steep."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Boathouse%2C_Goring-on-Thames_-_geograph.org.uk_-_915026.jpg",
-      "title": "Colin Smith / Boathouse, Goring-on-Thames",
-      "caption": "Boathouse, Goring-on-Thames. Mock Tudor elegance set in private gardens on the east bank of the Thames. The steep bank behind is populated by flats and large houses."
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This walk follows a section of the Thames Path National Trail from Pangbourne in Berkshire to Goring in South Oxfordshire. There are train stations at either end of the route so you can catch the train back if you would like to save some energy. If you prefer a longer circular walk then you could cross to the other side of the Thames and then follow roads to Lower Basildon and then pick up the riverside towpath. This would allow you to visit the National Trust's Basildon Park where you'll find miles of trails around the expansive old estate. This linear walk is just under 5 miles following the waymarked trail north from Pangbourne to Whitchurch, Coombe Park and Gatehampton Manor before coming to Goring. It is mostly fairly flat with a small climb at the start of the walk.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/__TopS50R60",
-  "postcode": "RG8 7BP",
-  "district": "Reading",
-  "county": "West Berkshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Lina Tandoori, 16, Whitchurch Road, Reading, West Berkshire, England, RG8 7BP, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours 40 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "riverside"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "train station"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg/500px-Pangbourne_weir_on_the_River_Thames_-_geograph.org.uk_-_2257273.jpg",
+            "title": "Pangbourne weir on the River Thames by Mick Crawley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Pangbourne weir on the River Thames"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Whitchurch-on-Thames_from_the_toll_bridge_-_geograph.org.uk_-_1720987.jpg/500px-Whitchurch-on-Thames_from_the_toll_bridge_-_geograph.org.uk_-_1720987.jpg",
+            "title": "Christine Matthews / Whitchurch-on-Thames from the toll bridge",
+            "caption": "Whitchurch-on-Thames from the toll bridge. The spire of St Mary's Church can be seen in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thames_Path_north_of_Whitchurch-on-Thames_-_geograph.org.uk_-_2553423.jpg/500px-Thames_Path_north_of_Whitchurch-on-Thames_-_geograph.org.uk_-_2553423.jpg",
+            "title": "Thames Path north of Whitchurch-on-Thames by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Thames Path north of Whitchurch-on-Thames. You'll follow these country lanes north out of Whitchurch and through Coombe Park before joining the river."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Thames_Path%2C_Hartslock_Wood_-_geograph.org.uk_-_427328.jpg",
+            "title": "Andrew Smith / The Thames Path, Hartslock Wood",
+            "caption": "The Thames Path in Hartslock Wood between Whitchurch and Goring. Heading northwards, the path has dropped down a level so it is only slightly elevated from the river, and is here in the civil parish of Goring on Thames."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/River_Thames_-_geograph.org.uk_-_1315727.jpg",
+            "title": "Ian Capper / River Thames",
+            "caption": "Looking up the River Thames downstream from Goring, with an Arriva Cross Country Class 220 Voyager on the bridge by which the Great Western main line crosses the river. Viewed from Hartslock Nature Reserve, with a patch of evening sunshine shining through the clouds."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/River_Thames_downstream_of_Goring_-_geograph.org.uk_-_177657.jpg",
+            "title": "Hugh Venables / River Thames downstream of Goring",
+            "caption": "River Thames downstream of Goring. This stretch of river bank each side of the railway bridge is well vegetated with relatively slack areas of flow. This makes it a very good spot to find the Club-tailed Dragonfly, a very localised species in Britain."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Thames_Pathway_at_the_Goring_Gap_-_geograph.org.uk_-_306668.jpg",
+            "title": "Rick Hall / Thames Pathway at the Goring Gap",
+            "caption": "Thames Pathway at the Goring Gap. The Goring Gap was cut by the fledgling Thames when it was diverted by the ice age to the North, and cut through the line of chalk. The banks narrow and become quite steep."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Boathouse%2C_Goring-on-Thames_-_geograph.org.uk_-_915026.jpg",
+            "title": "Colin Smith / Boathouse, Goring-on-Thames",
+            "caption": "Boathouse, Goring-on-Thames. Mock Tudor elegance set in private gardens on the east bank of the Thames. The steep bank behind is populated by flats and large houses."
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This walk follows a section of the Thames Path National Trail from Pangbourne in Berkshire to Goring in South Oxfordshire. There are train stations at either end of the route so you can catch the train back if you would like to save some energy. If you prefer a longer circular walk then you could cross to the other side of the Thames and then follow roads to Lower Basildon and then pick up the riverside towpath. This would allow you to visit the National Trust's Basildon Park where you'll find miles of trails around the expansive old estate. This linear walk is just under 5 miles following the waymarked trail north from Pangbourne to Whitchurch, Coombe Park and Gatehampton Manor before coming to Goring. It is mostly fairly flat with a small climb at the start of the walk.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/__TopS50R60",
+    "postcode": "RG8 7BP",
+    "district": "Reading",
+    "county": "West Berkshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Lina Tandoori, 16, Whitchurch Road, Reading, West Berkshire, England, RG8 7BP, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours 40 minutes",
+    "difficulty": "easy",
+    "terrain": ["riverside"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["train station"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

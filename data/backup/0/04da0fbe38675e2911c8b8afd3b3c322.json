@@ -1,162 +1,151 @@
 {
-  "created_at": "2025-01-06T02:45:54.186127+00:00",
-  "objectID": "04da0fbe38675e2911c8b8afd3b3c322",
-  "ref": "horsforth-walking-route",
-  "title": "Horsforth Walks - Canal and Country",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Horsforth_Hall_Park_-_geograph.org.uk_-_605908.jpg",
-  "nearby": [
-    {
-      "description": "Leeds Country Way",
-      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-      "ref": "leeds-country-way-walking-route"
+    "created_at": "2025-01-06T02:45:54.186127+00:00",
+    "objectID": "04da0fbe38675e2911c8b8afd3b3c322",
+    "ref": "horsforth-walking-route",
+    "title": "Horsforth Walks - Canal and Country",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Horsforth_Hall_Park_-_geograph.org.uk_-_605908.jpg",
+    "nearby": [
+        {
+            "description": "Leeds Country Way",
+            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+            "ref": "leeds-country-way-walking-route"
+        },
+        {
+            "description": "Leeds and Liverpool Canal",
+            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Leeds Canal Walk",
+            "objectID": "00101010e3bcde4ddc7de1c1bbef8aa2",
+            "ref": "leeds-canal-walk-walking-route"
+        },
+        {
+            "description": "Kirkstall Abbey",
+            "objectID": "d64a22f345b4eec18f806ccd466f1618",
+            "ref": "kirkstall-abbey-walking-route"
+        },
+        {
+            "description": "Aire Valley Towpath",
+            "objectID": "0ad5eba480cfa21abd6d9c6f5cf89ffc",
+            "ref": "aire-valley-towpath-walking-and-cycle-route"
+        },
+        {
+            "description": "Yeadon Tarn",
+            "objectID": "2ebe6d22597311683a42787e9f2a00a5",
+            "ref": "yeadon-tarn-walking-route"
+        },
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Otley Chevin Country Park",
+            "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
+            "ref": "otley-chevin-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Meanwood Valley Trail",
+            "objectID": "ae22161535020dad7b56d21fc1ccca90",
+            "ref": "meanwood-valley-trail-walking-route"
+        },
+        {
+            "description": "River Aire",
+            "objectID": "f4378310bbed8615749b0e633394b3a6",
+            "ref": "river-aire-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Arthington Viaduct",
+            "objectID": "bbe088a78a459023f196e957b3474685",
+            "ref": "arthington-viaduct-walking-route"
+        },
+        {
+            "description": "Rodley Nature Reserve",
+            "objectID": "becce7e98c353aa03d8035888c07204c",
+            "ref": "rodley-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/04da0fbe38675e2911c8b8afd3b3c322.gpx",
+    "_geoloc": {
+        "lat": 53.8369120624,
+        "lng": -1.6493574663
     },
-    {
-      "description": "Leeds and Liverpool Canal",
-      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Leeds Canal Walk",
-      "objectID": "00101010e3bcde4ddc7de1c1bbef8aa2",
-      "ref": "leeds-canal-walk-walking-route"
-    },
-    {
-      "description": "Kirkstall Abbey",
-      "objectID": "d64a22f345b4eec18f806ccd466f1618",
-      "ref": "kirkstall-abbey-walking-route"
-    },
-    {
-      "description": "Aire Valley Towpath",
-      "objectID": "0ad5eba480cfa21abd6d9c6f5cf89ffc",
-      "ref": "aire-valley-towpath-walking-and-cycle-route"
-    },
-    {
-      "description": "Yeadon Tarn",
-      "objectID": "2ebe6d22597311683a42787e9f2a00a5",
-      "ref": "yeadon-tarn-walking-route"
-    },
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
-    },
-    {
-      "description": "Otley Chevin Country Park",
-      "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
-      "ref": "otley-chevin-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Meanwood Valley Trail",
-      "objectID": "ae22161535020dad7b56d21fc1ccca90",
-      "ref": "meanwood-valley-trail-walking-route"
-    },
-    {
-      "description": "River Aire",
-      "objectID": "f4378310bbed8615749b0e633394b3a6",
-      "ref": "river-aire-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    },
-    {
-      "description": "Arthington Viaduct",
-      "objectID": "bbe088a78a459023f196e957b3474685",
-      "ref": "arthington-viaduct-walking-route"
-    },
-    {
-      "description": "Rodley Nature Reserve",
-      "objectID": "becce7e98c353aa03d8035888c07204c",
-      "ref": "rodley-nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/04da0fbe38675e2911c8b8afd3b3c322.gpx",
-  "_geoloc": {
-    "lat": 53.8369120624,
-    "lng": -1.6493574663
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Horsforth_Hall_Park_-_geograph.org.uk_-_605908.jpg",
-      "title": "Betty Longbottom / Horsforth Hall Park",
-      "caption": "Horsforth Hall Park. The route starts in this pretty park in the town. There's lots of good footpaths and lovely gardens to see here."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Autumnal_flower_bed%2C_Horsforth_Hall_Park_-_geograph.org.uk_-_272747.jpg",
-      "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Autumnal flower bed, Horsforth Hall Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Aire_-_geograph.org.uk_-_20887.jpg",
-      "title": "Mick Melvin / River Aire",
-      "caption": "Horses cooling off in the River Aire close to Woodhouse Railway Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Calverley_Lodge_Swing_Bridge_-_geograph.org.uk_-_77316.jpg",
-      "title": "Mark Morton / Calverley Lodge Swing Bridge",
-      "caption": "Calverley Lodge Swing Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Calverley_Pack_Horse_Bridge_-_geograph.org.uk_-_43952.jpg",
-      "title": "David Spencer / Calverley Pack Horse Bridge",
-      "caption": "Calverley Pack Horse Bridge. Crossing southwestwards over the River Aire and the gridline, this bridge was built in 1775 and is Grade II listed."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Rodley_Barge%2C_Canal_Road%2C_Rodley_-_geograph.org.uk_-_129354.jpg",
-      "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Rodley Barge, Canal Road, Rodley. The canalside pub."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Whitecote_House%2C_Leeds_and_Liverpool_Canal%2C_Whitecote%2C_Leeds_-_geograph.org.uk_-_126813.jpg",
-      "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Whitecote House, Leeds and Liverpool Canal, Whitecote, Leeds"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kirkstall_Abbey%2C_Leeds%2C_West_Yorkshire_-_geograph.org.uk_-_998005.jpg/330px-Kirkstall_Abbey%2C_Leeds%2C_West_Yorkshire_-_geograph.org.uk_-_998005.jpg",
-      "title": "I Love Colour / Kirkstall Abbey, Leeds, West Yorkshire",
-      "caption": "Kirkstall Abbey, Leeds, West Yorkshire"
-    }
-  ],
-  "distance_km": 14.3,
-  "description": "This town near Leeds has a fine local park and is also close to the Leeds and Liverpool Canal and the River Aire. This walk from Horsforth Hall Park takes you through the countryside to the Leeds and Liverpool Canal where you can follow the towpath to the historic Kirkstall Abbey. The walk starts in Horsforth Hall Park. This large park is a lovely place for a stroll in the town. There's open parkland and a Japanese formal garden to see here. From the park you head north west to pick up the Leeds Country Way. Follow this waymarked footpath west and it will take you past Woodleigh Hall to Cragg Wood. Near here you pick up a riverside path along the River Aire which will take you to Apperley Bridge. Cross the river here and you can then pick up the Aire Valley Towpath and follow it east to Calverley Bridge and Rodley. There's the Rodley Nature Reserve here with a visitor centre and lots of wildlife to look out for. The route continues east to Newlay and Sandford before coming to Kirstall Abbey. The atmospheric 12th century abbey includes some lovely parkland and gardens right next to the River Aire. From the abbey park it is a short walk to Headingley Station where you can catch a train back to Horsforth.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "There is a good on site cafe in Horsforth Hall Park at the start of the walk."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just north west of the town you'll find Yeadon Tarn. There's a nice little circular walk to follow around this attractive little lake. The Meanwood Valley Trail can also be picked up nearby. This country trail will take you to the popular Golden Acre Park where there's miles of trails and other attractions."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/ZAIgNjiHeF0",
-  "postcode": "LS18 5JF",
-  "district": "Horsforth",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Hall Lane, West End, Horsforth Vale, Horsforth, West Yorkshire, England, LS18 5JF, United Kingdom",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
-  "terrain": [
-    "parkland",
-    "countryside",
-    "riverside"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "nature reserve"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Horsforth_Hall_Park_-_geograph.org.uk_-_605908.jpg",
+            "title": "Betty Longbottom / Horsforth Hall Park",
+            "caption": "Horsforth Hall Park. The route starts in this pretty park in the town. There's lots of good footpaths and lovely gardens to see here."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Autumnal_flower_bed%2C_Horsforth_Hall_Park_-_geograph.org.uk_-_272747.jpg",
+            "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Autumnal flower bed, Horsforth Hall Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Aire_-_geograph.org.uk_-_20887.jpg",
+            "title": "Mick Melvin / River Aire",
+            "caption": "Horses cooling off in the River Aire close to Woodhouse Railway Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Calverley_Lodge_Swing_Bridge_-_geograph.org.uk_-_77316.jpg",
+            "title": "Mark Morton / Calverley Lodge Swing Bridge",
+            "caption": "Calverley Lodge Swing Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Calverley_Pack_Horse_Bridge_-_geograph.org.uk_-_43952.jpg",
+            "title": "David Spencer / Calverley Pack Horse Bridge",
+            "caption": "Calverley Pack Horse Bridge. Crossing southwestwards over the River Aire and the gridline, this bridge was built in 1775 and is Grade II listed."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Rodley_Barge%2C_Canal_Road%2C_Rodley_-_geograph.org.uk_-_129354.jpg",
+            "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Rodley Barge, Canal Road, Rodley. The canalside pub."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Whitecote_House%2C_Leeds_and_Liverpool_Canal%2C_Whitecote%2C_Leeds_-_geograph.org.uk_-_126813.jpg",
+            "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Whitecote House, Leeds and Liverpool Canal, Whitecote, Leeds"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kirkstall_Abbey%2C_Leeds%2C_West_Yorkshire_-_geograph.org.uk_-_998005.jpg/330px-Kirkstall_Abbey%2C_Leeds%2C_West_Yorkshire_-_geograph.org.uk_-_998005.jpg",
+            "title": "I Love Colour / Kirkstall Abbey, Leeds, West Yorkshire",
+            "caption": "Kirkstall Abbey, Leeds, West Yorkshire"
+        }
+    ],
+    "distance_km": 14.3,
+    "description": "This town near Leeds has a fine local park and is also close to the Leeds and Liverpool Canal and the River Aire. This walk from Horsforth Hall Park takes you through the countryside to the Leeds and Liverpool Canal where you can follow the towpath to the historic Kirkstall Abbey. The walk starts in Horsforth Hall Park. This large park is a lovely place for a stroll in the town. There's open parkland and a Japanese formal garden to see here. From the park you head north west to pick up the Leeds Country Way. Follow this waymarked footpath west and it will take you past Woodleigh Hall to Cragg Wood. Near here you pick up a riverside path along the River Aire which will take you to Apperley Bridge. Cross the river here and you can then pick up the Aire Valley Towpath and follow it east to Calverley Bridge and Rodley. There's the Rodley Nature Reserve here with a visitor centre and lots of wildlife to look out for. The route continues east to Newlay and Sandford before coming to Kirstall Abbey. The atmospheric 12th century abbey includes some lovely parkland and gardens right next to the River Aire. From the abbey park it is a short walk to Headingley Station where you can catch a train back to Horsforth.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "There is a good on site cafe in Horsforth Hall Park at the start of the walk."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just north west of the town you'll find Yeadon Tarn. There's a nice little circular walk to follow around this attractive little lake. The Meanwood Valley Trail can also be picked up nearby. This country trail will take you to the popular Golden Acre Park where there's miles of trails and other attractions."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/ZAIgNjiHeF0",
+    "postcode": "LS18 5JF",
+    "district": "Horsforth",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Hall Lane, West End, Horsforth Vale, Horsforth, West Yorkshire, England, LS18 5JF, United Kingdom",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "easy",
+    "terrain": ["parkland", "countryside", "riverside"],
+    "points_of_interest": ["historical site", "nature reserve"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

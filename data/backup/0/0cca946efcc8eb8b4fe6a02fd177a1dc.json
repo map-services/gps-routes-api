@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/HOEMAXMTlZQ?si=OnVgMgULc0HHPbic",
   "county": "Central Bedfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2-3 hours",
@@ -77,5 +77,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Longslade Trail (MTB Red Route), Aspley Heath, Central Bedfordshire, England, MK17 8TJ, United Kingdom",
+  "postcode": "MK17 8TJ",
+  "district": "Aspley Heath",
+  "state": "England"
 }

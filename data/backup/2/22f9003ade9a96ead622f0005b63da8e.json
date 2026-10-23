@@ -43,9 +43,9 @@
   "details": [],
   "postcode": "RG30 3JH",
   "district": "Reading",
-  "county": "Reading",
-  "region": "South East",
-  "country": "England",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -62,5 +62,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Brunel Road, Southcote, Reading, England, RG30 3JH, United Kingdom",
+  "state": "England"
 }

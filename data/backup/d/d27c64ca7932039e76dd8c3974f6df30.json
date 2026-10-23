@@ -1,149 +1,135 @@
 {
-  "created_at": "2025-01-06T09:20:08.582750+00:00",
-  "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-  "ref": "golden-acre-park-walking-route",
-  "title": "Golden Acre Park Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_stream%2C_Golden_Acre_Park_-_geograph.org.uk_-_259284.jpg",
-  "nearby": [
-    {
-      "description": "Meanwood Valley Trail",
-      "objectID": "ae22161535020dad7b56d21fc1ccca90",
-      "ref": "meanwood-valley-trail-walking-route"
+    "created_at": "2025-01-06T09:20:08.582750+00:00",
+    "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+    "ref": "golden-acre-park-walking-route",
+    "title": "Golden Acre Park Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_stream%2C_Golden_Acre_Park_-_geograph.org.uk_-_259284.jpg",
+    "nearby": [
+        {
+            "description": "Meanwood Valley Trail",
+            "objectID": "ae22161535020dad7b56d21fc1ccca90",
+            "ref": "meanwood-valley-trail-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Harewood House",
+            "objectID": "9ae5294687aac3c9a44ba436873002b5",
+            "ref": "harewood-house-walking-route"
+        },
+        {
+            "description": "Leeds Country Way",
+            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+            "ref": "leeds-country-way-walking-route"
+        },
+        {
+            "description": "Roundhay Park",
+            "objectID": "1345bf0f785855b502ce429381b60ec9",
+            "ref": "roundhay-park-walking-and-cycle-route"
+        },
+        {
+            "description": "East Keswick",
+            "objectID": "374b1349f29d161204209c92c1b3d171",
+            "ref": "east-keswick-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Otley Chevin Country Park",
+            "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
+            "ref": "otley-chevin-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Ebor Way",
+            "objectID": "460b6eaefa835488435e3937ef49f82d",
+            "ref": "ebor-way-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d27c64ca7932039e76dd8c3974f6df30.gpx",
+    "_geoloc": {
+        "lat": 53.8726782458,
+        "lng": -1.5836195485
     },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Harewood House",
-      "objectID": "9ae5294687aac3c9a44ba436873002b5",
-      "ref": "harewood-house-walking-route"
-    },
-    {
-      "description": "Leeds Country Way",
-      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-      "ref": "leeds-country-way-walking-route"
-    },
-    {
-      "description": "Roundhay Park",
-      "objectID": "1345bf0f785855b502ce429381b60ec9",
-      "ref": "roundhay-park-walking-and-cycle-route"
-    },
-    {
-      "description": "East Keswick",
-      "objectID": "374b1349f29d161204209c92c1b3d171",
-      "ref": "east-keswick-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    },
-    {
-      "description": "Otley Chevin Country Park",
-      "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
-      "ref": "otley-chevin-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Ebor Way",
-      "objectID": "460b6eaefa835488435e3937ef49f82d",
-      "ref": "ebor-way-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d27c64ca7932039e76dd8c3974f6df30.gpx",
-  "_geoloc": {
-    "lat": 53.8726782458,
-    "lng": -1.5836195485
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_stream%2C_Golden_Acre_Park_-_geograph.org.uk_-_259284.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "The stream, Golden Acre Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Bridge_Golden_Acre_Park_-_geograph.org.uk_-_20718.jpg",
-      "title": "Mick Melvin / The Bridge Golden Acre Park",
-      "caption": "The bridge over Marsh Beck"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_lake_and_bird_feeding_hut%2C_Golden_Acre_Park_-_geograph.org.uk_-_259273.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "The lake and bird feeding hut. This metal hut is probably the 3rd one here in the past 15 years. The oldest one was made of wood, and got dilapidated over the years and was replace with a new one in 2004 or 2005 which can be seen in this picture 20716 . Sadly it was burnt down in 2005, and has been replaced by a more durable but less elegant metal one."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rowan_trees%2C_laden_with_berries%2C_Golden_Acre_Park_-_geograph.org.uk_-_259286.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Rowan trees, laden with berries. 2006 was a very good year for trees bearing fruit and nuts, and the branches of these rowans (mountain ash) are bowed down under the weight of berries."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bridge_over_the_sluice%2C_Golden_Acre_Park_Lake_-_geograph.org.uk_-_259538.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Bridge over the sluice"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lakeside_Station%2C_Golden_Acre_Park_-_geograph.org.uk_-_1468155.jpg",
-      "title": "Humphrey Bolton / Lakeside Station, Golden Acre Park",
-      "caption": "Bridge over Lakeside Station A re-created disused miniature railway. On Good Friday 26th April 1932 a miniature railway was opened circling the whole of the lake and travelling a distance of just over a mile. Two engines worked the line pulling open top carriagesand in 1935 a dining carriage was added. Sadly the end of the line came towards the end of 1938. This was the site of one of the three Lakeside Stations that worked the line during the 1930s. In 2003 the discovery of five concrete blocks inspired the re-creation of this small section of the railway in its disused state. (Extracted from the text on the information board) - The vertical boards presumably represent the waiting area on the platform."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Acre_Park_%28July_2010%29_geograph.jpg/500px-Golden_Acre_Park_%28July_2010%29_geograph.jpg",
-      "title": "Flickr user:Tim Green aka atouch [CC BY (https://creativecommons.org/licenses/by/2.0)]",
-      "caption": "Beautiful gardens"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Golden_Acre_Park_Lake%2C_with_cormorant_-_geograph.org.uk_-_259544.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Cormorant on the lake"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This delightful country park in Leeds has beautiful gardens, a lakeside walk, streams, ponds and peaceful woodland. It is also right next to two nature reserves - Breary Marsh and Adel Dam. There are very good facilities with a cafe (with indoor and outdoor seating), a bird feeding shelter and picnic benches. The park is on the Leeds Country Way so you could continue your walk east towards the lovely Eccup Reservoir which is about a mile away from the park. The Meanwood Valley Trail also starts from the park. The 7 mile trail runs to Woodhouse Moor in Leeds city centre, passing Adel Woods and Meanwood Park on the way. Golden Acre Park is located just a few miles north of Leeds city centre.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The on site cafe has a nice outdoor seating area where you can relax and enjoy refreshment on your walk. A short distance north east of the park you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the nearby Eccup Reservoir. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The park is great for a dog walk and you will probably see plenty of other owners on your outing. The New Inn mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you're coming by public transport one nice way of visiting the reservoir is to catch the train to Hosforth station. Near here you can pick up the Leeds Country Way and follow it east to the park. It's a couple of miles but it's a great way to visit the park without the car. The Bramhope Circular Walk visits the park and Eccup Reservoir from the nearby village. The attractive settlement is located just north of the park and includes a fine 18th century pub. You can follow the Ebor Way from here to the popular Otley Chevin Country Park, another of the area's walking highlights. Just to the north you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/X8XgO7D5BZg",
-  "postcode": "LS16 8BQ",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Golden Acre Park, Otley Road, Adel, Leeds, West Yorkshire, England, LS16 8BQ, United Kingdom",
-  "district": "Leeds",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "lakeside",
-    "pond",
-    "nature reserve"
-  ],
-  "facilities": [
-    "cafe",
-    "picnic bench",
-    "pub",
-    "dog friendly"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_stream%2C_Golden_Acre_Park_-_geograph.org.uk_-_259284.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "The stream, Golden Acre Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Bridge_Golden_Acre_Park_-_geograph.org.uk_-_20718.jpg",
+            "title": "Mick Melvin / The Bridge Golden Acre Park",
+            "caption": "The bridge over Marsh Beck"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_lake_and_bird_feeding_hut%2C_Golden_Acre_Park_-_geograph.org.uk_-_259273.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "The lake and bird feeding hut. This metal hut is probably the 3rd one here in the past 15 years. The oldest one was made of wood, and got dilapidated over the years and was replace with a new one in 2004 or 2005 which can be seen in this picture 20716 . Sadly it was burnt down in 2005, and has been replaced by a more durable but less elegant metal one."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rowan_trees%2C_laden_with_berries%2C_Golden_Acre_Park_-_geograph.org.uk_-_259286.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Rowan trees, laden with berries. 2006 was a very good year for trees bearing fruit and nuts, and the branches of these rowans (mountain ash) are bowed down under the weight of berries."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bridge_over_the_sluice%2C_Golden_Acre_Park_Lake_-_geograph.org.uk_-_259538.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Bridge over the sluice"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lakeside_Station%2C_Golden_Acre_Park_-_geograph.org.uk_-_1468155.jpg",
+            "title": "Humphrey Bolton / Lakeside Station, Golden Acre Park",
+            "caption": "Bridge over Lakeside Station A re-created disused miniature railway. On Good Friday 26th April 1932 a miniature railway was opened circling the whole of the lake and travelling a distance of just over a mile. Two engines worked the line pulling open top carriagesand in 1935 a dining carriage was added. Sadly the end of the line came towards the end of 1938. This was the site of one of the three Lakeside Stations that worked the line during the 1930s. In 2003 the discovery of five concrete blocks inspired the re-creation of this small section of the railway in its disused state. (Extracted from the text on the information board) - The vertical boards presumably represent the waiting area on the platform."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Acre_Park_%28July_2010%29_geograph.jpg/500px-Golden_Acre_Park_%28July_2010%29_geograph.jpg",
+            "title": "Flickr user:Tim Green aka atouch [CC BY (https://creativecommons.org/licenses/by/2.0)]",
+            "caption": "Beautiful gardens"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Golden_Acre_Park_Lake%2C_with_cormorant_-_geograph.org.uk_-_259544.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Cormorant on the lake"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This delightful country park in Leeds has beautiful gardens, a lakeside walk, streams, ponds and peaceful woodland. It is also right next to two nature reserves - Breary Marsh and Adel Dam. There are very good facilities with a cafe (with indoor and outdoor seating), a bird feeding shelter and picnic benches. The park is on the Leeds Country Way so you could continue your walk east towards the lovely Eccup Reservoir which is about a mile away from the park. The Meanwood Valley Trail also starts from the park. The 7 mile trail runs to Woodhouse Moor in Leeds city centre, passing Adel Woods and Meanwood Park on the way. Golden Acre Park is located just a few miles north of Leeds city centre.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The on site cafe has a nice outdoor seating area where you can relax and enjoy refreshment on your walk. A short distance north east of the park you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the nearby Eccup Reservoir. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The park is great for a dog walk and you will probably see plenty of other owners on your outing. The New Inn mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you're coming by public transport one nice way of visiting the reservoir is to catch the train to Hosforth station. Near here you can pick up the Leeds Country Way and follow it east to the park. It's a couple of miles but it's a great way to visit the park without the car. The Bramhope Circular Walk visits the park and Eccup Reservoir from the nearby village. The attractive settlement is located just north of the park and includes a fine 18th century pub. You can follow the Ebor Way from here to the popular Otley Chevin Country Park, another of the area's walking highlights. Just to the north you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/X8XgO7D5BZg",
+    "postcode": "LS16 8BQ",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Golden Acre Park, Otley Road, Adel, Leeds, West Yorkshire, England, LS16 8BQ, United Kingdom",
+    "district": "Leeds",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["lakeside", "pond", "nature reserve"],
+    "facilities": ["cafe", "picnic bench", "pub", "dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking", "dog walking"]
 }

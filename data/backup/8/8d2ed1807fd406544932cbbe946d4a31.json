@@ -1,71 +1,62 @@
 {
-  "created_at": "2025-01-06T10:14:14.374095+00:00",
-  "objectID": "8d2ed1807fd406544932cbbe946d4a31",
-  "ref": "cramond-island-walking-route",
-  "title": "Cramond Island\u00a0Walk Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg/500px-The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg?20210724082721",
-  "nearby": [
-    {
-      "description": "Cramond to South Queensferry Walk",
-      "objectID": "55a3c8caefe9b4ef4f5d017d3c4886f7",
-      "ref": "cramond-to-south-queensferry-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8d2ed1807fd406544932cbbe946d4a31.gpx",
-  "_geoloc": {
-    "lat": 55.9795853407,
-    "lng": -3.2981198907
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg/500px-The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg?20210724082721",
-      "title": "The Causeway to Cramond Island by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Causeway to Cramond Island. Covering approximately 19 acres, the island is part of the Dalmeny Estate and features a mix of natural and historical significance."
+    "created_at": "2025-01-06T10:14:14.374095+00:00",
+    "objectID": "8d2ed1807fd406544932cbbe946d4a31",
+    "ref": "cramond-island-walking-route",
+    "title": "Cramond Island Walk Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg/500px-The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg?20210724082721",
+    "nearby": [
+        {
+            "description": "Cramond to South Queensferry Walk",
+            "objectID": "55a3c8caefe9b4ef4f5d017d3c4886f7",
+            "ref": "cramond-to-south-queensferry-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8d2ed1807fd406544932cbbe946d4a31.gpx",
+    "_geoloc": {
+        "lat": 55.9795853407,
+        "lng": -3.2981198907
     },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Landfall_on_Cramond_Island_-_geograph.org.uk_-_2382233.jpg/500px-Landfall_on_Cramond_Island_-_geograph.org.uk_-_2382233.jpg?20210724083715",
-      "title": "Landfall on Cramond Island by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Landfall on Cramond Island. The island has a rich history, including evidence of Roman occupation in the nearby area. The Romans established a fort at Cramond, guarding the River Almond's estuary. Artifacts such as pottery and coins suggest activity in the region from around 142 AD to later Roman periods. In more recent history, the island played a role in both World Wars, with military fortifications still visible. These include anti-ship blockades and gun emplacements designed to protect against potential naval attacks."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/WW2_coastal_defence_site%2C_Cramond_Island._-_geograph.org.uk_-_365893.jpg?20110104182129",
-      "title": "Dr Duncan Pepper / WW2 coastal defence site, Cramond Island.",
-      "caption": "The island contains remnants of bunkers, ammunition stores, and concrete foundations for defensive artillery. These structures reflect its strategic importance during wartime.It is also of geological significance with calciferous sandstone and evidence of glacial activity from the last Ice Age."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Redshank_feeding_-_geograph.org.uk_-_1638866.jpg?20110304172630",
-      "title": "Alan Murray-Rust / Redshank feeding",
-      "caption": "Redshank feeding. The surrounding waters and shorelines are rich in birdlife, including waders and seabirds such as redshanks, oystercatchers and curlews. The Firth of Forth is also home to seals and other marine life, visible from the causeway or the island's edges."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "This walk begins at the foreshore near Cramond village in Edinburgh and follows the tidal causeway to Cramond Island. You can start the walk from the public car park next to Cramond Tower. Then head north east at low tide for just over 1km to reach the island. The route offers panoramic views across the Firth of Forth, with the rugged island ahead and glimpses of Fife\u2019s coastline in the distance. Wildlife includes seabirds such as oystercatchers and curlews, as well as seals often visible in the water. N.B: Check tide times before setting out, as the causeway is submerged at high tide. Allow sufficient time for a safe return. You can continue your walking in the area on the Cramond to South Queensferry Walk which will take you along the coast path on the waymarked John Muir Way .",
-  "video_url": "https://www.youtube.com/embed/Ttjj6Z0eHsU?si=lxJsI7EjF-4XpCGj",
-  "postcode": "EH4 6NT",
-  "district": "City of Edinburgh",
-  "county": null,
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "details": [],
-  "nominatim_found": true,
-  "display_address": "Cramond Roman Fort and Civil Settlement, Kirk Cramond, Cramond, City of Edinburgh, Alba / Scotland, EH4 6NT, United Kingdom",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg/500px-The_Causeway_to_Cramond_Island_-_geograph.org.uk_-_2382198.jpg?20210724082721",
+            "title": "The Causeway to Cramond Island by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Causeway to Cramond Island. Covering approximately 19 acres, the island is part of the Dalmeny Estate and features a mix of natural and historical significance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Landfall_on_Cramond_Island_-_geograph.org.uk_-_2382233.jpg/500px-Landfall_on_Cramond_Island_-_geograph.org.uk_-_2382233.jpg?20210724083715",
+            "title": "Landfall on Cramond Island by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Landfall on Cramond Island. The island has a rich history, including evidence of Roman occupation in the nearby area. The Romans established a fort at Cramond, guarding the River Almond's estuary. Artifacts such as pottery and coins suggest activity in the region from around 142 AD to later Roman periods. In more recent history, the island played a role in both World Wars, with military fortifications still visible. These include anti-ship blockades and gun emplacements designed to protect against potential naval attacks."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/WW2_coastal_defence_site%2C_Cramond_Island._-_geograph.org.uk_-_365893.jpg?20110104182129",
+            "title": "Dr Duncan Pepper / WW2 coastal defence site, Cramond Island.",
+            "caption": "The island contains remnants of bunkers, ammunition stores, and concrete foundations for defensive artillery. These structures reflect its strategic importance during wartime.It is also of geological significance with calciferous sandstone and evidence of glacial activity from the last Ice Age."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Redshank_feeding_-_geograph.org.uk_-_1638866.jpg?20110304172630",
+            "title": "Alan Murray-Rust / Redshank feeding",
+            "caption": "Redshank feeding. The surrounding waters and shorelines are rich in birdlife, including waders and seabirds such as redshanks, oystercatchers and curlews. The Firth of Forth is also home to seals and other marine life, visible from the causeway or the island's edges."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "This walk begins at the foreshore near Cramond village in Edinburgh and follows the tidal causeway to Cramond Island. You can start the walk from the public car park next to Cramond Tower. Then head north east at low tide for just over 1km to reach the island. The route offers panoramic views across the Firth of Forth, with the rugged island ahead and glimpses of Fife\u2019s coastline in the distance. Wildlife includes seabirds such as oystercatchers and curlews, as well as seals often visible in the water. N.B: Check tide times before setting out, as the causeway is submerged at high tide. Allow sufficient time for a safe return. You can continue your walking in the area on the Cramond to South Queensferry Walk which will take you along the coast path on the waymarked John Muir Way .",
+    "video_url": "https://www.youtube.com/embed/Ttjj6Z0eHsU?si=lxJsI7EjF-4XpCGj",
+    "postcode": "EH4 6NT",
+    "district": "City of Edinburgh",
+    "county": null,
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "details": [],
+    "nominatim_found": true,
+    "display_address": "Cramond Roman Fort and Civil Settlement, Kirk Cramond, Cramond, City of Edinburgh, Alba / Scotland, EH4 6NT, United Kingdom",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["coastal"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

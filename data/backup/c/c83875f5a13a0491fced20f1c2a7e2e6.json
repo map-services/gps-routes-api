@@ -79,8 +79,8 @@
   "video_url": "https://www.youtube.com/embed/bv7B_uC70-8?si=pZxxWaZG1F7-en39",
   "district": "Shanklin",
   "county": "Isle of Wight",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -99,5 +99,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Eastcliff Promenade, Luccombe, Shanklin, Isle of Wight, England, PO37 6AY, United Kingdom",
+  "postcode": "PO37 6AY",
+  "state": "England"
 }

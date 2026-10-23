@@ -32,8 +32,8 @@
   "description": "This circular walk explores the area to the south of the Berkshire village of Brimpton. On the way you will enjoy views of the River Enborne and visit the wildlife rich Ashford Hill Nature Reserve. There are also some fine views of the Berkshire countryside and lots of pretty wildflowers to see in the summer months. You can continue your walking at the nearby Greenham Common .",
   "details": [],
   "county": "West Berkshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 40 minutes",
@@ -49,5 +49,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Crookham Common Road, Brimpton, West Berkshire, England, RG7 4TR, United Kingdom",
+  "postcode": "RG7 4TR",
+  "district": "Brimpton",
+  "state": "England"
 }

@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/gFmfnD-rn4s?si=ddvRiPm6rWGEP1nG",
   "county": "Central Bedfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -67,5 +67,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Chequers, 1, Luton Road, Chaul End, Luton, Central Bedfordshire, England, LU1 4AF, United Kingdom",
+  "postcode": "LU1 4AF",
+  "district": "Luton",
+  "state": "England"
 }

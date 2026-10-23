@@ -31,11 +31,11 @@
   "distance_km": 5.5,
   "description": "This walk takes you from Keswick to the splendid Lodore Falls at the southern end of Derwentwater. The route runs for a distance of about 3.5 miles, taking you south along the eastern side of the lake. It's a fairly easy path with some stunning views across the water to the surrounding fells. You can start the walk near the the theatre and cafe at the north eastern end of the lake. At the end of the route you will come to the stunning 100 feet (30 m) high falls which look fabulous after heavy rain.",
   "details": [],
-  "postcode": "CA12 5ES",
+  "postcode": "CA12 5DG",
   "district": "Keswick",
   "county": "Cumberland",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -52,5 +52,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Lake Road, Great Crosthwaite, Keswick, Cumberland, England, CA12 5DG, United Kingdom",
+  "state": "England"
 }

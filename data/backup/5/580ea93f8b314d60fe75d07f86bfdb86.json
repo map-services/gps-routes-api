@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/KTNCitZt9Kw?si=tM5aBqP_mh00pbIV",
   "postcode": "BA11 3JA",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
@@ -75,5 +75,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Elm Lane, Egford, Selwood, Frome, Somerset, England, BA11 3JA, United Kingdom",
+  "district": "Frome",
+  "state": "England"
 }

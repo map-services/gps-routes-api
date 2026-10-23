@@ -27,8 +27,8 @@
   "video_url": "https://www.youtube.com/embed/5_rGMHj11Ls?si=DK2BiPuGj42mYIkw",
   "district": "Lerwick",
   "county": "Shetland Islands",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -45,5 +45,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Esplanade, Lanes, Lerwick, Shetland Islands, Alba / Scotland, ZE1 0BD, United Kingdom",
+  "postcode": "ZE1 0BD",
+  "state": "Alba / Scotland"
 }

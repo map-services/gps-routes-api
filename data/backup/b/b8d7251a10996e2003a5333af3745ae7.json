@@ -1,131 +1,122 @@
 {
-  "created_at": "2025-01-05T23:54:05.575639+00:00",
-  "objectID": "b8d7251a10996e2003a5333af3745ae7",
-  "ref": "abriachan forest-walking-route",
-  "title": "Abriachan Forest Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg/500px-Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg",
-  "nearby": [
-    {
-      "description": "Great Glen Way",
-      "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
-      "ref": "great-glen-way-walking-and-cycle-route"
+    "created_at": "2025-01-05T23:54:05.575639+00:00",
+    "objectID": "b8d7251a10996e2003a5333af3745ae7",
+    "ref": "abriachan-forest-walking-route",
+    "title": "Abriachan Forest Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg/500px-Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg",
+    "nearby": [
+        {
+            "description": "Great Glen Way",
+            "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
+            "ref": "great-glen-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Loch Duntelchaig",
+            "objectID": "a64789ee55d0707936bec88febbdb542",
+            "ref": "loch-duntelchaig-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Urquhart Castle",
+            "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+            "ref": "urquhart-castle-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b8d7251a10996e2003a5333af3745ae7.gpx",
+    "_geoloc": {
+        "lat": 57.3846498991,
+        "lng": -4.4303674065
     },
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
-    },
-    {
-      "description": "Loch Duntelchaig",
-      "objectID": "a64789ee55d0707936bec88febbdb542",
-      "ref": "loch-duntelchaig-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Urquhart Castle",
-      "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-      "ref": "urquhart-castle-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b8d7251a10996e2003a5333af3745ae7.gpx",
-  "_geoloc": {
-    "lat": 57.3846498991,
-    "lng": -4.4303674065
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg/500px-Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg",
-      "title": "Loch Laide near Loch Laide by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Loch Laide"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Woodcarving_in_progress%2C_Abriachan_Community_Forest_-_geograph.org.uk_-_1234382.jpg",
-      "title": "sylvia duckworth / Woodcarving in progress, Abriachan Community Forest",
-      "caption": "Woodcarving in progress, Abriachan Community Forest"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Abriachan_community_forest_-_geograph.org.uk_-_509472.jpg",
-      "title": "Ed Knapen / Abriachan community forest",
-      "caption": "Replica bronze age hut"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Footbridge_linking_paths_near_Rivoulich_-_geograph.org.uk_-_2028650.jpg/500px-Footbridge_linking_paths_near_Rivoulich_-_geograph.org.uk_-_2028650.jpg",
-      "title": "Footbridge linking paths near Rivoulich by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge linking paths near Rivoulich"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shelter_near_Rivoulich_-_geograph.org.uk_-_2028588.jpg/500px-Shelter_near_Rivoulich_-_geograph.org.uk_-_2028588.jpg",
-      "title": "Shelter near Rivoulich by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Shelter near Rivoulich"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rivoulich_ruins_by_Abriachan_forest_path_-_geograph.org.uk_-_2028616.jpg/500px-Rivoulich_ruins_by_Abriachan_forest_path_-_geograph.org.uk_-_2028616.jpg",
-      "title": "Rivoulich ruins by Abriachan forest path by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Rivoulich ruins by Abriachan forest path"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edge_of_the_forest%2C_near_Achpopuli._-_geograph.org.uk_-_1234421.jpg",
-      "title": "sylvia duckworth / Edge of the forest, near Achpopuli.",
-      "caption": "Edge of the forest, near Achpopuli."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mountain_bike_trail%2C_Rivoulich_-_geograph.org.uk_-_1303494.jpg",
-      "title": "John MacDonald / Mountain bike trail, Rivoulich",
-      "caption": "Mountain bike trail, Rivoulich"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "This walk visits the expansive Abriachan Forest in the Highland area of Scotland. The community forest includes a school which encourages learning in the outdoors and health and well being through exercise. The forest has a series of good walking and mountain bike trails to explore. There's around 40km of trails for walkers while cyclists can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can start the walk from the car parking area to the west of Loch Laide. From here you can pick up a series of trails heading south west towards Rivoulich. Part of the route uses the epic Great Glen Way which passes through the area.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the east you can enjoy waterside trails along the famous Loch Ness. On the north eastern side of the loch there's the lovely Dores Beach to visit. The delightful beach includes a fine lochside pub and forest trails to the finely positioned Aldourie Castle. Near here there's also Loch Duntelchaig and Loch Ashie. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers. To the north east there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies just to the south of the forest. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/Ynr55uDra9Y",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "C15, Inverness West, Abriachan, Highland, Alba / Scotland, IV3 8LB, United Kingdom",
-  "postcode": "IV3 8LB",
-  "district": "Abriachan",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg/500px-Loch_Laide_near_Loch_Laide_-_geograph.org.uk_-_2029015.jpg",
+            "title": "Loch Laide near Loch Laide by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Loch Laide"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Woodcarving_in_progress%2C_Abriachan_Community_Forest_-_geograph.org.uk_-_1234382.jpg",
+            "title": "sylvia duckworth / Woodcarving in progress, Abriachan Community Forest",
+            "caption": "Woodcarving in progress, Abriachan Community Forest"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Abriachan_community_forest_-_geograph.org.uk_-_509472.jpg",
+            "title": "Ed Knapen / Abriachan community forest",
+            "caption": "Replica bronze age hut"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Footbridge_linking_paths_near_Rivoulich_-_geograph.org.uk_-_2028650.jpg/500px-Footbridge_linking_paths_near_Rivoulich_-_geograph.org.uk_-_2028650.jpg",
+            "title": "Footbridge linking paths near Rivoulich by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge linking paths near Rivoulich"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shelter_near_Rivoulich_-_geograph.org.uk_-_2028588.jpg/500px-Shelter_near_Rivoulich_-_geograph.org.uk_-_2028588.jpg",
+            "title": "Shelter near Rivoulich by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Shelter near Rivoulich"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rivoulich_ruins_by_Abriachan_forest_path_-_geograph.org.uk_-_2028616.jpg/500px-Rivoulich_ruins_by_Abriachan_forest_path_-_geograph.org.uk_-_2028616.jpg",
+            "title": "Rivoulich ruins by Abriachan forest path by Sarah McGuire, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Rivoulich ruins by Abriachan forest path"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edge_of_the_forest%2C_near_Achpopuli._-_geograph.org.uk_-_1234421.jpg",
+            "title": "sylvia duckworth / Edge of the forest, near Achpopuli.",
+            "caption": "Edge of the forest, near Achpopuli."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mountain_bike_trail%2C_Rivoulich_-_geograph.org.uk_-_1303494.jpg",
+            "title": "John MacDonald / Mountain bike trail, Rivoulich",
+            "caption": "Mountain bike trail, Rivoulich"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "This walk visits the expansive Abriachan Forest in the Highland area of Scotland. The community forest includes a school which encourages learning in the outdoors and health and well being through exercise. The forest has a series of good walking and mountain bike trails to explore. There's around 40km of trails for walkers while cyclists can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can start the walk from the car parking area to the west of Loch Laide. From here you can pick up a series of trails heading south west towards Rivoulich. Part of the route uses the epic Great Glen Way which passes through the area.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the east you can enjoy waterside trails along the famous Loch Ness. On the north eastern side of the loch there's the lovely Dores Beach to visit. The delightful beach includes a fine lochside pub and forest trails to the finely positioned Aldourie Castle. Near here there's also Loch Duntelchaig and Loch Ashie. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers. To the north east there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies just to the south of the forest. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/Ynr55uDra9Y",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "C15, Inverness West, Abriachan, Highland, Alba / Scotland, IV3 8LB, United Kingdom",
+    "postcode": "IV3 8LB",
+    "district": "Abriachan",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["car park"],
+    "route_type": "out and back",
+    "activities": ["walking", "cycling"]
 }

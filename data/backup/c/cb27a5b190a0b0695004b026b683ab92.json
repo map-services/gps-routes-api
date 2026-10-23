@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/Kbfut6ksHuM?si=vfmao-ps3SGokU8H",
   "county": "Cheshire East",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -76,5 +76,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Standing Stone Road, Sutton, Cheshire East, England, SK11 0NS, United Kingdom",
+  "postcode": "SK11 0NS",
+  "district": null,
+  "state": "England"
 }

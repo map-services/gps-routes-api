@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/WYs78Zg0UJA?si=rsjX_OxPeMKmZ3mN",
   "postcode": "EH19 3JB",
   "county": "Midlothian",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 15 minutes",
@@ -73,5 +73,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B704, Hopefield, Newtongrange, Midlothian, Alba / Scotland, EH19 3JB, United Kingdom",
+  "district": "Newtongrange",
+  "state": "Alba / Scotland"
 }

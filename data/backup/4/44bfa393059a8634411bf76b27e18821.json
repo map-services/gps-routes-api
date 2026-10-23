@@ -47,11 +47,11 @@
   "description": "This circular walk explores the Oxford University Parks and the adjacent and Christ Church Meadow in the city of Oxford. The area is a popular place for a stroll with pleasant trails along the River Cherwell. Other features include the photogenic cricket pavilion, a series of giant sequoia trees, a picturesque duck pond, pretty gardens and the eye catching Rainbow Bridge. On the other side of the river you'll find Christ Church Meadow where there's grazing cattle and fine views of Merton College.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/uJacU_SpYbc?si=AZx5tzg95v4VzCWq",
-  "postcode": "OX1 3QD",
+  "postcode": "OX1 3PH",
   "district": "Oxford",
   "county": "Oxfordshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -72,5 +72,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "12-13, Parks Road, City Centre, Oxford, Oxfordshire, England, OX1 3PH, United Kingdom",
+  "state": "England"
 }

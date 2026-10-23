@@ -47,10 +47,10 @@
   "description": "This walk follows a pleasant section of the Eden Valley Walk from Tonbridge to the neighbouring village of Leigh. The route runs for a distance of about 3.5 miles, following the waymarked trail west from the castle area of Tonbridge. On the way you will pass the lovely Haysden Country Park where there are some pleasant waterside trails along the pretty lake and along the River Medway. In Leigh you could pick up the Leigh to Penshurst Walk and visit the historic Penshurst Place .",
   "details": [],
   "postcode": "TN9 1DT",
-  "district": "Tonbridge",
+  "district": "Tonbridge and Malling",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -65,5 +65,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "River Walk, Brook Street, Tonbridge, Tonbridge and Malling, Kent, England, TN9 1DT, United Kingdom",
+  "state": "England"
 }

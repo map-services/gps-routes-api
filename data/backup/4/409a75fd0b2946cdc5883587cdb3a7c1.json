@@ -38,8 +38,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/Bujfvk9Tggw?si=ihy19IzQ4V54WvuT",
   "county": "Westmorland and Furness",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 26 minutes",
@@ -57,5 +57,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Holme Ground, Skelwith, Little Langdale, Westmorland and Furness, England, LA21 8DJ, United Kingdom",
+  "postcode": "LA21 8DJ",
+  "district": "Little Langdale",
+  "state": "England"
 }

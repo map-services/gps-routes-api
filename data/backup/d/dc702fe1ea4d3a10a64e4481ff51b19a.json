@@ -1,167 +1,157 @@
 {
-  "created_at": "2025-01-06T19:05:29.243859+00:00",
-  "objectID": "dc702fe1ea4d3a10a64e4481ff51b19a",
-  "ref": "dungarvan-walking-route",
-  "title": "Dungarvan\u00a0Walks Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dungarvan_Harbour_-_geograph.org.uk_-_491499.jpg?20110205044651",
-  "nearby": [
-    {
-      "description": "Waterford Greenway",
-      "objectID": "934f63e45178e3be7213c3c0810e87d8",
-      "ref": "waterford-greenway-walking-route"
+    "created_at": "2025-01-06T19:05:29.243859+00:00",
+    "objectID": "dc702fe1ea4d3a10a64e4481ff51b19a",
+    "ref": "dungarvan-walking-route",
+    "title": "Dungarvan Walks Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dungarvan_Harbour_-_geograph.org.uk_-_491499.jpg?20110205044651",
+    "nearby": [
+        {
+            "description": "Waterford Greenway",
+            "objectID": "934f63e45178e3be7213c3c0810e87d8",
+            "ref": "waterford-greenway-walking-route"
+        },
+        {
+            "description": "Ardmore Cliff Walk",
+            "objectID": "8545239d639b295b86685a3010254814",
+            "ref": "ardmore-cliff-walk-walking-route"
+        },
+        {
+            "description": "Ballycotton Cliff Walk",
+            "objectID": "974ddbe676115c9eed187875f7535dc7",
+            "ref": "ballycotton-cliff-walk-walking-route"
+        },
+        {
+            "description": "Seven Heads Walk",
+            "objectID": "926181ca1c08d632305a93874b620fdd",
+            "ref": "seven-heads-walk-walking-route"
+        },
+        {
+            "description": "Old Head of Kinsale",
+            "objectID": "6d748093568dc57c8e8dd5b814f511ef",
+            "ref": "old-head-of-kinsale-loop-walking-route"
+        },
+        {
+            "description": "Charles Fort Walk",
+            "objectID": "50c135edb268d0e7e0ff0c8cc6a2f347",
+            "ref": "charles-fort-walking-route"
+        },
+        {
+            "description": "Mahon Falls",
+            "objectID": "72be033f742937231d4e6d60d746f88c",
+            "ref": "mahon-falls-walking-route"
+        },
+        {
+            "description": "Coumshingaun Lake Loop Walk",
+            "objectID": "2c98e10701ee94f6ce574392ef0d2c7c",
+            "ref": "coumshingaun-lake-loop-walk"
+        },
+        {
+            "description": "Crosshaven Cliff Walk",
+            "objectID": "f1573fbcf3ca1faebd8307d2a6090e22",
+            "ref": "crosshaven-cliff-walk"
+        },
+        {
+            "description": "Blarney Castle",
+            "objectID": "f54bf95ceeebc6f3ccf1215760eb9760",
+            "ref": "blarney-castle-walking-route"
+        },
+        {
+            "description": "Cork Marina Walk",
+            "objectID": "ebdb8495297be1f45c661e15a5b0412d",
+            "ref": "cork-marina-walking-route"
+        },
+        {
+            "description": "Clonakilty",
+            "objectID": "0ff1e1b4c7b2b78fa933be42f99cf706",
+            "ref": "clonakilty-walking-route"
+        },
+        {
+            "description": "Galley Head",
+            "objectID": "c5b4128a66c8175e988bb8fb9ac9ae2a",
+            "ref": "galley-head-walking-route"
+        },
+        {
+            "description": "Courtmacsherry Loop",
+            "objectID": "5adae4e8f35017db8d7a595a40abc75c",
+            "ref": "courtmacsherry-loop-walking-route"
+        },
+        {
+            "description": "Knockadoon Cliff Walk",
+            "objectID": "8b8ba01936deea2dc664dd72de12c7c9",
+            "ref": "knockadoon-cliff-walk"
+        },
+        {
+            "description": "Youghal Beach Boardwalk",
+            "objectID": "858b8e23bf7660408c48bb455c0d0849",
+            "ref": "youghal-beach-walk"
+        },
+        {
+            "description": "Lismore Lady Louisa's Walk",
+            "objectID": "e37d024d38cea425a85a8a62e8b1fac0",
+            "ref": "lismore-lady-louisas-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc702fe1ea4d3a10a64e4481ff51b19a.gpx",
+    "_geoloc": {
+        "lat": 52.08937,
+        "lng": -7.6157
     },
-    {
-      "description": "Ardmore Cliff Walk",
-      "objectID": "8545239d639b295b86685a3010254814",
-      "ref": "ardmore-cliff-walk-walking-route"
-    },
-    {
-      "description": "Ballycotton Cliff Walk",
-      "objectID": "974ddbe676115c9eed187875f7535dc7",
-      "ref": "ballycotton-cliff-walk-walking-route"
-    },
-    {
-      "description": "Seven Heads Walk",
-      "objectID": "926181ca1c08d632305a93874b620fdd",
-      "ref": "seven-heads-walk-walking-route"
-    },
-    {
-      "description": "Old Head of Kinsale",
-      "objectID": "6d748093568dc57c8e8dd5b814f511ef",
-      "ref": "old-head-of-kinsale-loop-walking-route"
-    },
-    {
-      "description": "Charles Fort Walk",
-      "objectID": "50c135edb268d0e7e0ff0c8cc6a2f347",
-      "ref": "charles-fort-walking-route"
-    },
-    {
-      "description": "Mahon Falls",
-      "objectID": "72be033f742937231d4e6d60d746f88c",
-      "ref": "mahon-falls-walking-route"
-    },
-    {
-      "description": "Coumshingaun Lake Loop Walk",
-      "objectID": "2c98e10701ee94f6ce574392ef0d2c7c",
-      "ref": "coumshingaun-lake-loop-walk"
-    },
-    {
-      "description": "Crosshaven Cliff Walk",
-      "objectID": "f1573fbcf3ca1faebd8307d2a6090e22",
-      "ref": "crosshaven-cliff-walk"
-    },
-    {
-      "description": "Blarney Castle",
-      "objectID": "f54bf95ceeebc6f3ccf1215760eb9760",
-      "ref": "blarney-castle-walking-route"
-    },
-    {
-      "description": "Cork Marina Walk",
-      "objectID": "ebdb8495297be1f45c661e15a5b0412d",
-      "ref": "cork-marina-walking-route"
-    },
-    {
-      "description": "Clonakilty",
-      "objectID": "0ff1e1b4c7b2b78fa933be42f99cf706",
-      "ref": "clonakilty-walking-route"
-    },
-    {
-      "description": "Galley Head",
-      "objectID": "c5b4128a66c8175e988bb8fb9ac9ae2a",
-      "ref": "galley-head-walking-route"
-    },
-    {
-      "description": "Courtmacsherry Loop",
-      "objectID": "5adae4e8f35017db8d7a595a40abc75c",
-      "ref": "courtmacsherry-loop-walking-route"
-    },
-    {
-      "description": "Knockadoon Cliff Walk",
-      "objectID": "8b8ba01936deea2dc664dd72de12c7c9",
-      "ref": "knockadoon-cliff-walk"
-    },
-    {
-      "description": "Youghal Beach Boardwalk",
-      "objectID": "858b8e23bf7660408c48bb455c0d0849",
-      "ref": "youghal-beach-walk"
-    },
-    {
-      "description": "Lismore Lady Louisa's Walk",
-      "objectID": "e37d024d38cea425a85a8a62e8b1fac0",
-      "ref": "lismore-lady-louisas-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc702fe1ea4d3a10a64e4481ff51b19a.gpx",
-  "_geoloc": {
-    "lat": 52.08937,
-    "lng": -7.6157
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dungarvan_Harbour_-_geograph.org.uk_-_491499.jpg?20110205044651",
-      "title": "Paul O'Farrell / Dungarvan Harbour",
-      "caption": "Dungarvan Harbour is located at the mouth of the Colligan River, which divides the town into two parishes: Dungarvan to the west and Abbeyside to the east. These parishes are connected by three structures: a causeway and single-span bridge constructed by the Dukes of Devonshire beginning in 1801, an old railway bridge, and a ring-road causeway and bridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/County_Waterford_-_Dungarvan_Castle_-_20170921145453.jpg/500px-County_Waterford_-_Dungarvan_Castle_-_20170921145453.jpg?20170930200003",
-      "title": "Hscheff, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "The Anglo-Norman Dungarvan Castle, commissioned in the late 12th or early 13th century by King John of England, stands by the harbour on the site of an earlier (possibly Hiberno-Norse) fortification. It is composed of a polygonal shell keep, enclosed with a curtain wall, with corner and gate towers. The 12th-century shell keep is the earliest part of the structure, with this form of keep being common in England, but rare in Ireland. There is a two-storey military barracks within the walls dating from the early 18th-century. These barracks are restored and holds the exhibition space displaying the history of the castle. The castle has been described as Anglo-Norman, and was founded in 1185 by Prince John, on the mouth of the Colligan River. It was amongst a number of castles built around this time in the south east of Ireland."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/People%27s_Park%2C_Dungarvan_-_geograph.org.uk_-_5538135.jpg?20231014153217",
-      "title": "People's Park, Dungarvan by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "People's Park, Dungarvan"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bandstand%2C_Dungarvan_Town_Park%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5901810.jpg/500px-Bandstand%2C_Dungarvan_Town_Park%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5901810.jpg?20231210074218",
-      "title": "Bandstand, Dungarvan Town Park, Dungarvan, Co. Waterford by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bandstand, Dungarvan Town Park, Dungarvan, Co. Waterford. A lovely little park just off the beaten path, right outside the city centre, sporting glorious views of Dungarvan harbour."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dungarvan%2C_Co_Waterford_-_Colligan_River_below_Devonshire_Bridge_-_geograph.org.uk_-_5615063.jpg/500px-Dungarvan%2C_Co_Waterford_-_Colligan_River_below_Devonshire_Bridge_-_geograph.org.uk_-_5615063.jpg?20231026061033",
-      "title": "Dungarvan, Co Waterford - Colligan River below Devonshire Bridge by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Dungarvan, Co Waterford"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Davitt%27s_Quay%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5868599.jpg/500px-Davitt%27s_Quay%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5868599.jpg?20231205015928",
-      "title": "Davitt's Quay, Dungarvan, Co. Waterford by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Davitt's Quay, Dungarvan, Co. Waterford. Dungarvan town is separated from the open ocean by a shallow, eastward-facing bay. The bay's mouth is approximately two miles wide, with Dungarvan situated about four miles inland. A meandering navigation channel, marked by red and green buoys, guides vessels from the ocean into Dungarvan. This channel is not navigable for most vessels (except small dinghies) at low tide. Even at high tide, cruising yachts and larger vessels must stay within the buoyed channel to avoid grounding. Dungarvan town features a well-maintained concrete slipway suitable for launching vessels up to eight metres in length. However, larger vessels should only use the slipway up to three hours either side of high tide. Visiting yachts can often find moorings made available by the Dungarvan Harbour Sailing Club, frequently free of charge."
-    }
-  ],
-  "distance_km": 1.7,
-  "description": "This walk takes you along the harbour in the attractive coastal town of Dungarvan in County Waterford. You can start off from the car park near to the historic Dungraven Castle which dates back to the 13th century. From here you head west along the pretty quay with fine views out to sea. On the way you will pass Dungarvan town park and the Harbour viewpoint. To continue your walking in the area head south to pick up the lovely Ardmore Cliff Walk. The popular route starts at the noteworthy Cliff Hotel which includes a Michelin starred restaurant. The Waterford Greenway also runs through the town. This shared cycling and walking route will take you to Waterford along a disused railway line.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head north west and there's the Ballysaggartmore Towers near Lismore. The photogenic gothic towers are surrounded by an historic demesne with peaceful woodland trails to explore. In the town you can pick up Lady Louisa's Walk. The circular loop walk includes a pleasant riverside stretch along the River Blackwater and views of the historic castle and cathedral."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/drNCjAziV9c?si=AP1a3p0hkxys8cyx",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Davitts Quay, Dungarvan No 1 Urban, The Municipal District of Dungarvan \u2014 Lismore, County Waterford, Munster, X35 XN99, \u00c9ire / Ireland",
-  "postcode": "X35 XN99",
-  "district": null,
-  "county": "County Waterford",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dungarvan_Harbour_-_geograph.org.uk_-_491499.jpg?20110205044651",
+            "title": "Paul O'Farrell / Dungarvan Harbour",
+            "caption": "Dungarvan Harbour is located at the mouth of the Colligan River, which divides the town into two parishes: Dungarvan to the west and Abbeyside to the east. These parishes are connected by three structures: a causeway and single-span bridge constructed by the Dukes of Devonshire beginning in 1801, an old railway bridge, and a ring-road causeway and bridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/County_Waterford_-_Dungarvan_Castle_-_20170921145453.jpg/500px-County_Waterford_-_Dungarvan_Castle_-_20170921145453.jpg?20170930200003",
+            "title": "Hscheff, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "The Anglo-Norman Dungarvan Castle, commissioned in the late 12th or early 13th century by King John of England, stands by the harbour on the site of an earlier (possibly Hiberno-Norse) fortification. It is composed of a polygonal shell keep, enclosed with a curtain wall, with corner and gate towers. The 12th-century shell keep is the earliest part of the structure, with this form of keep being common in England, but rare in Ireland. There is a two-storey military barracks within the walls dating from the early 18th-century. These barracks are restored and holds the exhibition space displaying the history of the castle. The castle has been described as Anglo-Norman, and was founded in 1185 by Prince John, on the mouth of the Colligan River. It was amongst a number of castles built around this time in the south east of Ireland."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/People%27s_Park%2C_Dungarvan_-_geograph.org.uk_-_5538135.jpg?20231014153217",
+            "title": "People's Park, Dungarvan by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "People's Park, Dungarvan"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bandstand%2C_Dungarvan_Town_Park%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5901810.jpg/500px-Bandstand%2C_Dungarvan_Town_Park%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5901810.jpg?20231210074218",
+            "title": "Bandstand, Dungarvan Town Park, Dungarvan, Co. Waterford by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bandstand, Dungarvan Town Park, Dungarvan, Co. Waterford. A lovely little park just off the beaten path, right outside the city centre, sporting glorious views of Dungarvan harbour."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dungarvan%2C_Co_Waterford_-_Colligan_River_below_Devonshire_Bridge_-_geograph.org.uk_-_5615063.jpg/500px-Dungarvan%2C_Co_Waterford_-_Colligan_River_below_Devonshire_Bridge_-_geograph.org.uk_-_5615063.jpg?20231026061033",
+            "title": "Dungarvan, Co Waterford - Colligan River below Devonshire Bridge by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Dungarvan, Co Waterford"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Davitt%27s_Quay%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5868599.jpg/500px-Davitt%27s_Quay%2C_Dungarvan%2C_Co._Waterford_-_geograph.org.uk_-_5868599.jpg?20231205015928",
+            "title": "Davitt's Quay, Dungarvan, Co. Waterford by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Davitt's Quay, Dungarvan, Co. Waterford. Dungarvan town is separated from the open ocean by a shallow, eastward-facing bay. The bay's mouth is approximately two miles wide, with Dungarvan situated about four miles inland. A meandering navigation channel, marked by red and green buoys, guides vessels from the ocean into Dungarvan. This channel is not navigable for most vessels (except small dinghies) at low tide. Even at high tide, cruising yachts and larger vessels must stay within the buoyed channel to avoid grounding. Dungarvan town features a well-maintained concrete slipway suitable for launching vessels up to eight metres in length. However, larger vessels should only use the slipway up to three hours either side of high tide. Visiting yachts can often find moorings made available by the Dungarvan Harbour Sailing Club, frequently free of charge."
+        }
+    ],
+    "distance_km": 1.7,
+    "description": "This walk takes you along the harbour in the attractive coastal town of Dungarvan in County Waterford. You can start off from the car park near to the historic Dungraven Castle which dates back to the 13th century. From here you head west along the pretty quay with fine views out to sea. On the way you will pass Dungarvan town park and the Harbour viewpoint. To continue your walking in the area head south to pick up the lovely Ardmore Cliff Walk. The popular route starts at the noteworthy Cliff Hotel which includes a Michelin starred restaurant. The Waterford Greenway also runs through the town. This shared cycling and walking route will take you to Waterford along a disused railway line.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head north west and there's the Ballysaggartmore Towers near Lismore. The photogenic gothic towers are surrounded by an historic demesne with peaceful woodland trails to explore. In the town you can pick up Lady Louisa's Walk. The circular loop walk includes a pleasant riverside stretch along the River Blackwater and views of the historic castle and cathedral."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/drNCjAziV9c?si=AP1a3p0hkxys8cyx",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Davitts Quay, Dungarvan No 1 Urban, The Municipal District of Dungarvan \u2014 Lismore, County Waterford, Munster, X35 XN99, \u00c9ire / Ireland",
+    "postcode": "X35 XN99",
+    "district": null,
+    "county": "County Waterford",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["coastal"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

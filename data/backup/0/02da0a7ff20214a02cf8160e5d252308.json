@@ -46,10 +46,10 @@
   "distance_km": 10.2,
   "description": "This walk links the settlements of Broadway and Toddington in the Cotswolds. The route runs for a distance of just over 6 miles following part of the Cotswold Way and other local footpaths. On the way you will pass the villages of Stanton and Stanway where you can visit the historic Stanway House. The Jacobean manor house dates to the 16th century and is famous for its 300 feet single-jet fountain, the highest in Britain and the highest gravity fountain in the world. There's also some lovely grounds where you can stroll to the 18th-century water-garden, 14th century Tithe Barn and attractive woodland. From Stanway you follow the B road west to reach the finish point at Toddington.",
   "details": [],
-  "district": "Broadway",
+  "district": "Wychavon",
   "county": "Worcestershire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 20 minutes",
@@ -65,5 +65,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Blandford Books, 39, High Street, Broadway, Wychavon, Worcestershire, England, WR12 7DP, United Kingdom",
+  "postcode": "WR12 7DP",
+  "state": "England"
 }

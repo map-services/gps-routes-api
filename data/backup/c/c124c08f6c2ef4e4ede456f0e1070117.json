@@ -45,8 +45,8 @@
   "postcode": "G83 7AN",
   "district": "Succoth",
   "county": "Argyll and Bute",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "6-7 hours",
@@ -64,5 +64,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A83, Stronafyne, Succoth, Argyll and Bute, Alba / Scotland, G83 7AN, United Kingdom",
+  "state": "Alba / Scotland"
 }

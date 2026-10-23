@@ -1,122 +1,111 @@
 {
-  "created_at": "2025-01-06T03:14:16.855066+00:00",
-  "objectID": "f4a96a547be083e570ce6f3f22d3c2a9",
-  "ref": "john-muir-country-park-walking-route",
-  "title": "John Muir Country Park Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunes%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231089.jpg",
-  "nearby": [
-    {
-      "description": "John Muir Way",
-      "objectID": "003c712c8320e6d0880db2081ffe01bb",
-      "ref": "john-muir-way-walking-route"
+    "created_at": "2025-01-06T03:14:16.855066+00:00",
+    "objectID": "f4a96a547be083e570ce6f3f22d3c2a9",
+    "ref": "john-muir-country-park-walking-route",
+    "title": "John Muir Country Park Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunes%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231089.jpg",
+    "nearby": [
+        {
+            "description": "John Muir Way",
+            "objectID": "003c712c8320e6d0880db2081ffe01bb",
+            "ref": "john-muir-way-walking-route"
+        },
+        {
+            "description": "Dunbar Cliff Walk",
+            "objectID": "3983499528f3164b8d625f8fe4c878a4",
+            "ref": "dunbar-cliff-walk-walking-route"
+        },
+        {
+            "description": "Binning Wood",
+            "objectID": "14c2a470d61e5944fd767da71b30bf67",
+            "ref": "binning-wood-walking-route"
+        },
+        {
+            "description": "Gullane to North Berwick Walk",
+            "objectID": "d391a4d913f987963131c6155a7945ce",
+            "ref": "gullane-to-north-berwick-walk-walking-route"
+        },
+        {
+            "description": "Dunbar Bear",
+            "objectID": "33e5af8be595d8ccbe0b56f048f58173",
+            "ref": "dunbar-bear-walking-route"
+        },
+        {
+            "description": "Tyninghame Beach",
+            "objectID": "737a15d5655a7e4aeaf79e93090fc85f",
+            "ref": "tyninghame-beach-walking-route"
+        },
+        {
+            "description": "Seacliff Beach",
+            "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
+            "ref": "seacliff-beach-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4a96a547be083e570ce6f3f22d3c2a9.gpx",
+    "_geoloc": {
+        "lat": 55.9987183508,
+        "lng": -2.5444517717
     },
-    {
-      "description": "Dunbar Cliff Walk",
-      "objectID": "3983499528f3164b8d625f8fe4c878a4",
-      "ref": "dunbar-cliff-walk-walking-route"
-    },
-    {
-      "description": "Binning Wood",
-      "objectID": "14c2a470d61e5944fd767da71b30bf67",
-      "ref": "binning-wood-walking-route"
-    },
-    {
-      "description": "Gullane to North Berwick Walk",
-      "objectID": "d391a4d913f987963131c6155a7945ce",
-      "ref": "gullane-to-north-berwick-walk-walking-route"
-    },
-    {
-      "description": "Dunbar Bear",
-      "objectID": "33e5af8be595d8ccbe0b56f048f58173",
-      "ref": "dunbar-bear-walking-route"
-    },
-    {
-      "description": "Tyninghame Beach",
-      "objectID": "737a15d5655a7e4aeaf79e93090fc85f",
-      "ref": "tyninghame-beach-walking-route"
-    },
-    {
-      "description": "Seacliff Beach",
-      "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
-      "ref": "seacliff\u00a0beach-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4a96a547be083e570ce6f3f22d3c2a9.gpx",
-  "_geoloc": {
-    "lat": 55.9987183508,
-    "lng": -2.5444517717
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunes%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231089.jpg",
-      "title": "Mike Pennington / Dunes, John Muir Country Park",
-      "caption": "Dunes, John Muir Country Park. A sea of marram grass; North Berwick Law is in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Beach_at_John_Muir_Country_Park_-_geograph.org.uk_-_1231099.jpg",
-      "title": "Mike Pennington / Beach at John Muir Country Park",
-      "caption": "Beach at John Muir Country Park. A warm early spring day has brought out many visitors, including many surfers. Bass Rock can be seen in the distance"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tyne_Estuary%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1233772.jpg",
-      "title": "Mike Pennington / Tyne Estuary, John Muir Country Park",
-      "caption": "Tyne Estuary at the park. Saltmarsh forming in the lee of the dunes; Tyninghame is in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tyne_Estuary%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231121.jpg",
-      "title": "Mike Pennington / Tyne Estuary, John Muir Country Park",
-      "caption": "Tyne Estuary. The concrete is the remains of wartime coastal defences."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rhea_at_the_East_Links_Family_Park_%28geograph_5811074%29.jpg",
-      "title": "Mat Fascione / Rhea at the East Links Family Park",
-      "caption": "Rhea at the East Links Family Park (geograph 5811074)"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dune_and_duneslack_grassland_at_John_Muir_Country_Park_-_geograph.org.uk_-_1880540.jpg/500px-Dune_and_duneslack_grassland_at_John_Muir_Country_Park_-_geograph.org.uk_-_1880540.jpg",
-      "title": "Dune and duneslack grassland at John Muir Country Park by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Dune and duneslack grassland at John Muir Country Park"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "Explore this beautiful section of the East Lothian coastline in this country park in Dunbar. The lovely park has great views of Belhaven Bay and includes the John Muir Way long distance trail. You can pick up the trail to extend your walk and head through the countryside to East Linton, with views of the River Tyne on the way. In the park there's lovely beaches and a wide variety of plantlife and birdlife to look out for. Just to the west of the site you can find miles of peaceful walking trails in Binning Wood. It's a good place for bird spotting and you may even see otters in the pond or the burn that runs through the woods. You could also try our circular Dunbar Cliff Walk which passes close to the park and gives fine views of the ruined Dunbar Castle and Bass Rock.",
-  "details": [
-    {
-      "subtitle": "Dog Walking",
-      "content": "The marsh, beach and dunes are ideal for dog walking. You're bound to see plenty of other dogs running around on a fine day."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The East Links Family Park is located right next to the park. The family-friendly atrraction includes animal enclosures, train rides, go-karts, bouncy castle and trampolines. Just to the north is the lovely Tyninghame Beach where there's some pleasant woodland trails and fine views of Bass Rock. Just to the south of Dunbar you could enjoy a climb to the Dunbar Bear. The large bear sculpture celebrates the life of the locally born John Muir. The sculpture symbolises the role Muir played in establishing the Yosemite and Sequoia National Parks where the brown bear has survived and thrived."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/HmwCMGeJ6JA",
-  "district": "West Barns",
-  "county": "East Lothian",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Belhaven Bay Caravan Site, Bayview Circus, Belhaven, West Barns, East Lothian, Alba / Scotland, EH42 1TS, United Kingdom",
-  "postcode": "EH42 1TS",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "dune",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunes%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231089.jpg",
+            "title": "Mike Pennington / Dunes, John Muir Country Park",
+            "caption": "Dunes, John Muir Country Park. A sea of marram grass; North Berwick Law is in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Beach_at_John_Muir_Country_Park_-_geograph.org.uk_-_1231099.jpg",
+            "title": "Mike Pennington / Beach at John Muir Country Park",
+            "caption": "Beach at John Muir Country Park. A warm early spring day has brought out many visitors, including many surfers. Bass Rock can be seen in the distance"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tyne_Estuary%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1233772.jpg",
+            "title": "Mike Pennington / Tyne Estuary, John Muir Country Park",
+            "caption": "Tyne Estuary at the park. Saltmarsh forming in the lee of the dunes; Tyninghame is in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tyne_Estuary%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231121.jpg",
+            "title": "Mike Pennington / Tyne Estuary, John Muir Country Park",
+            "caption": "Tyne Estuary. The concrete is the remains of wartime coastal defences."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rhea_at_the_East_Links_Family_Park_%28geograph_5811074%29.jpg",
+            "title": "Mat Fascione / Rhea at the East Links Family Park",
+            "caption": "Rhea at the East Links Family Park (geograph 5811074)"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dune_and_duneslack_grassland_at_John_Muir_Country_Park_-_geograph.org.uk_-_1880540.jpg/500px-Dune_and_duneslack_grassland_at_John_Muir_Country_Park_-_geograph.org.uk_-_1880540.jpg",
+            "title": "Dune and duneslack grassland at John Muir Country Park by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Dune and duneslack grassland at John Muir Country Park"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "Explore this beautiful section of the East Lothian coastline in this country park in Dunbar. The lovely park has great views of Belhaven Bay and includes the John Muir Way long distance trail. You can pick up the trail to extend your walk and head through the countryside to East Linton, with views of the River Tyne on the way. In the park there's lovely beaches and a wide variety of plantlife and birdlife to look out for. Just to the west of the site you can find miles of peaceful walking trails in Binning Wood. It's a good place for bird spotting and you may even see otters in the pond or the burn that runs through the woods. You could also try our circular Dunbar Cliff Walk which passes close to the park and gives fine views of the ruined Dunbar Castle and Bass Rock.",
+    "details": [
+        {
+            "subtitle": "Dog Walking",
+            "content": "The marsh, beach and dunes are ideal for dog walking. You're bound to see plenty of other dogs running around on a fine day."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The East Links Family Park is located right next to the park. The family-friendly atrraction includes animal enclosures, train rides, go-karts, bouncy castle and trampolines. Just to the north is the lovely Tyninghame Beach where there's some pleasant woodland trails and fine views of Bass Rock. Just to the south of Dunbar you could enjoy a climb to the Dunbar Bear. The large bear sculpture celebrates the life of the locally born John Muir. The sculpture symbolises the role Muir played in establishing the Yosemite and Sequoia National Parks where the brown bear has survived and thrived."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/HmwCMGeJ6JA",
+    "district": "West Barns",
+    "county": "East Lothian",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Belhaven Bay Caravan Site, Bayview Circus, Belhaven, West Barns, East Lothian, Alba / Scotland, EH42 1TS, United Kingdom",
+    "postcode": "EH42 1TS",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["coastal", "dune", "woodland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

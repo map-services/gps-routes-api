@@ -49,8 +49,8 @@
   "postcode": "HP23 4LJ",
   "district": "Marsworth",
   "county": "Buckinghamshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -65,5 +65,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B489, Marsworth, Buckinghamshire, England, HP23 4LJ, United Kingdom",
+  "state": "England"
 }

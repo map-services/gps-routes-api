@@ -26,8 +26,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/0BV37ZvGrv0?si=vwMET5Cl7TGS6rok",
   "county": "Shetland Islands",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -46,5 +46,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Shetland Islands, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Alba / Scotland"
 }

@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/tpL9aer_BtI?si=l-Y51CcT5CSmcVkK",
   "district": "Ludlow",
   "county": "Shropshire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -71,5 +71,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Council Offices, Corve Street, Ludlow, Shropshire, England, SY8 1DH, United Kingdom",
+  "postcode": "SY8 1DH",
+  "state": "England"
 }

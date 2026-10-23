@@ -44,8 +44,8 @@
   "postcode": "GL5 3JB",
   "district": "Stroud",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -61,5 +61,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Dr Newton's Way, Uplands, Stroud, Gloucestershire, England, GL5 3JB, United Kingdom",
+  "state": "England"
 }

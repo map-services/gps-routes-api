@@ -42,9 +42,9 @@
   "description": "This circular walk visits the small but pretty Llyn Llywelyn in the Beddgelert Forest near the popular village of Beddgelert in the Snowdonia National Park. You can start the walk from the car park in the forest car park and then pick up the peaceful woodland trails heading west to the lake. Here you can enjoy some fine views across the water to the surrounding forestry and mountains.You can pick up theLon Gwyrfaion the edge of the forest. The shared cycling and walking trail is a great way to further explore the area.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/tfCKqdRMDsw?si=uFMJ7Y52gnN9GvNn",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -63,5 +63,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "L\u00f4n Gwyrfai, Beddgelert, Gwynedd, Cymru / Wales, LL54 6TW, United Kingdom",
+  "postcode": "LL54 6TW",
+  "district": "Beddgelert",
+  "state": "Cymru / Wales"
 }

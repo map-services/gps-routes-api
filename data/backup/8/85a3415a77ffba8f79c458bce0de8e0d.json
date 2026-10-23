@@ -41,10 +41,10 @@
   "distance_km": 3.0,
   "description": "This walk follows the old Salisbury and Dorset Junction Railway through the Hampshire village of Breamore. It's a flat, 2 mile trail running north from Burgate Cross to South Charford via the old station in Breamore. Along the way there's some fine views of the surrounding countryside of the New Forest. You can continue your walking in Fordingbridge along the Avon Valley Path. The riverside trail runs just to the east of the railway walk. You can also pick up the circularGodshill Walkin this area.Postcode:SP6 1LZ",
   "details": [],
-  "district": "Upper Burgate",
+  "district": "New Forest",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -60,5 +60,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Burgate Cross to South Charford Path, Flood Street, Fordingbridge, Woodgreen, New Forest, Hampshire, England, SP6 2EE, United Kingdom",
+  "postcode": "SP6 2EE",
+  "state": "England"
 }

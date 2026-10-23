@@ -37,10 +37,10 @@
   "description": "This walk follows a section of the Wales Coast Path from Pendine to Laugharne. The route runs for just under 6 miles along a reasonably flat waymarked trail. At the start of the route there's the lovely wide beach at Pendine Sands to explore. You'll then head north east along the trail passing Llanmiloe and Plashett before coming to delightful Laugharne where you can enjoy views of the River Taf estuary and visit the famous Dylan Thomas Boathouse.",
   "details": [],
   "postcode": "SA33 4PA",
-  "district": "Pendine / Pentywyn",
-  "county": "Sir Gaerfyrddin - Carmarthenshire",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Pendine",
+  "county": "Sir Gaerfyrddin",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -56,5 +56,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Marsh Road, Pendine, Sir Gaerfyrddin, Cymru / Wales, SA33 4PA, United Kingdom",
+  "state": "Cymru / Wales"
 }

@@ -39,8 +39,8 @@
   "postcode": "DT4 8EA",
   "district": "Weymouth",
   "county": "Dorset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 days",
@@ -63,5 +63,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Round House, 1, The Esplanade, Rodwell, Wyke Regis, Weymouth, Dorset, England, DT4 8EA, United Kingdom",
+  "state": "England"
 }

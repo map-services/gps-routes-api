@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/v2IrRJv_V5M?si=pbbp6pMCmTyC8K_4",
   "postcode": "KY14 7RP",
   "county": "Fife",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 12 minutes",
@@ -75,5 +75,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Dryside Road, Fife, Alba / Scotland, KY14 7RP, United Kingdom",
+  "district": null,
+  "state": "Alba / Scotland"
 }

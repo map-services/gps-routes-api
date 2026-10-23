@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/aUDiaiNOLlo?si=4RVGXRb8prZ0GF_D",
   "postcode": "SN8 1PL",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -65,5 +65,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Gravel Hill Car Park, Downs Lane, Preshute, Marlborough, Wiltshire, England, SN8 1PL, United Kingdom",
+  "district": "Marlborough",
+  "state": "England"
 }

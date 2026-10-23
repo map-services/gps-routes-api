@@ -104,8 +104,8 @@
   "video_url": "https://www.youtube.com/embed/NevLgTUea9w?si=8Lzatg4JsE7iubwv",
   "district": "Rochester",
   "county": "Medway",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "several days",
@@ -132,5 +132,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bakers Walk, Troy Town, Borstal, Rochester, Medway, England, ME1 1SW, United Kingdom",
+  "postcode": "ME1 1SW",
+  "state": "England"
 }

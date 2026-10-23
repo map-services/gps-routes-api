@@ -62,8 +62,8 @@
   "description": "This walk runs from Otford to Eynsford along a section of the Darent Valley Path. On the you will pass Shoreham, Castle Farm Lavender Fields and Lullingstone Castle Country Park. The trail follows the tranquil River Darent through the heart of the Kent Downs Area of Outstanding Natural Beauty, connecting historic villages with significant heritage sites. As you leave the Tudor ruins of Otford Palace behind, the path leads through rolling chalk downland toward the village of Shoreham, famous for its association with the visionary artist Samuel Palmer. Between the fragrant purple rows of the lavender farm and the ancient flint walls of Lullingstone, you will encounter the impressive remains of a Roman Villa and the sprawling woodland trails of the country park, which offers elevated views across the valley. The journey concludes in the picturesque village of Eynsford, where you can explore the dramatic ruins of its 12th-century Norman castle and enjoy the iconic view of the medieval stone bridge crossing the river.",
   "details": [],
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -80,5 +80,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A225, Otford, Sevenoaks, Kent, England, TN14 5PQ, United Kingdom",
+  "postcode": "TN14 5PQ",
+  "district": "Sevenoaks",
+  "state": "England"
 }

@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/7-oAmGK1Mcc?si=uxiXBcvbWJ_ofKOr",
   "county": "Aberdeenshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5 hours",
@@ -79,5 +79,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B974, Mill of Haugh, Strachan, Aberdeenshire, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": "Strachan",
+  "state": "Alba / Scotland"
 }

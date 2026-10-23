@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/HTsvEikjteI?si=pDqMKOz8fFhkVHhl",
   "district": "Frodsham",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3.5 - 4 hours",
@@ -66,5 +66,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Girl Guides, Ship Street, Netherton, Overton, Frodsham, Cheshire West and Chester, England, WA6 7NW, United Kingdom",
+  "postcode": "WA6 7NW",
+  "state": "England"
 }

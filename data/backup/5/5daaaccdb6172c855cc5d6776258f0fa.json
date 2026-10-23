@@ -43,10 +43,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/suScng2e5Mo?si=iO9-IwxagzLkr1yr",
   "postcode": "SP11 7QA",
-  "district": "Upper Clatford",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -61,5 +61,8 @@
   "route_type": "point-to-point",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Crescent, Upper Clatford, Anna Valley, Test Valley, Hampshire, England, SP11 7QA, United Kingdom",
+  "state": "England"
 }

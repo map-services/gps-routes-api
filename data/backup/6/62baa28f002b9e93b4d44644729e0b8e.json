@@ -47,11 +47,11 @@
   "description": "This circular walk explores Styal Country Park and takes you along the edge of Manchester Airport in Cheshire. There's much to enjoy with peaceful woodland trails, historic mills, riverside paths and fine views of the planes taking off and landing at the airport.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/6mUzcF4GeY0?si=yeTjGGf4oNZ8y8p3",
-  "postcode": "SK9 4JE",
+  "postcode": "SK9 4JF",
   "district": "Styal",
   "county": "Cheshire East",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -68,5 +68,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Northern Wood Car Park, Altrincham Road, Farm Fold, Woodend, Styal, Cheshire East, England, SK9 4JF, United Kingdom",
+  "state": "England"
 }

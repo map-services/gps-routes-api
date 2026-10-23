@@ -47,9 +47,9 @@
   "description": "This circular walk explores the area around the village of Glyndyfrdwy in Denbighshire. You can start the walk from Glyndyfrdwy on the Llangollen Heritage Railway which runs from Llangollen to Corwen. The route then climbs north across Llantysilio Mountain towards Moel Morfydd with wonderful views over the Clwydian Range and Dee Valley AONB from the high points. You then descend past attractive farmland and woodland before returning to the train station.You can extend the outing on theNant Y Pandy Walkwhich takes you along a lovely riverside path.",
   "details": [],
   "district": "Glyndyfrdwy",
-  "county": "Sir Ddinbych - Denbighshire",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Denbighshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3.5 - 4 hours",
@@ -67,5 +67,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Corwen, Glyndyfrdwy, Denbighshire, Cymru / Wales, LL21 9HF, United Kingdom",
+  "postcode": "LL21 9HF",
+  "state": "Cymru / Wales"
 }

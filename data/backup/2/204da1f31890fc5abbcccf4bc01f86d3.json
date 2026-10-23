@@ -31,10 +31,10 @@
   "distance_km": 4.9,
   "description": "This walk takes you along the Wales Coast Path from Burry Port to Pembrey Country Park in Carmarthenshire. The trail runs for a distance of about 3 miles along a shared cycling and walking trail. Along the way you can enjoy some fabulous views over the River Loughor Estuary and the Pembrey Burrows beach and dunes. The walk finishes at the Pembrey Country Park visitor centre where you can enjoy more fine trails through the surrounding woodland of Pembrey Forest .",
   "details": [],
-  "district": "Burry Port / Porth Tywyn",
-  "county": "Sir Gaerfyrddin - Carmarthenshire",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Burry Port",
+  "county": "Sir Gaerfyrddin",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -55,5 +55,9 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B4311, Pembrey and Burry Port Town, Burry Port, Sir Gaerfyrddin, Cymru / Wales, SA16 0EP, United Kingdom",
+  "postcode": "SA16 0EP",
+  "state": "Cymru / Wales"
 }

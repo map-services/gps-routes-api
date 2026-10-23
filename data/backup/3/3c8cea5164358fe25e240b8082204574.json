@@ -32,9 +32,9 @@
   "description": "This walk climbs to Fan Brycheiniog in the Brecon Beacons. The walk starts from a country lane east of the mountain. From here you can follow a footpath west along the Nant y Llyn where you will pass a series of waterfalls. The route then passes the prettyLlyn Y Fan Fawrbefore climbing to the 802 metre high summit of Fan Brycheiniog.From the top there are wide views across the central Brecon Beacons, with the plateau dropping away to the north and west and the Carmarthenshire hills stretching out in the distance. The descent retraces the outward route, returning through the same varied landscape of waterfalls, open moorland and upland lake.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/obTKc0OSReQ?si=BMTYL4EDemyl1S2H",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -52,5 +52,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Heol Lan, Llywel, Trecastle, Powys, Cymru / Wales, United Kingdom",
+  "postcode": null,
+  "district": "Trecastle",
+  "state": "Cymru / Wales"
 }

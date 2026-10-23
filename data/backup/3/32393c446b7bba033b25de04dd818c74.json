@@ -46,10 +46,10 @@
   "distance_km": 12.2,
   "description": "This route uses sections of the Whitegate Way and the Weaver Way to create a fine circular walk through the Cheshire countryside. Starting at the Whitegate Way car park the route first heads north east through Foxtwist Green and Whitegate to meet with the River Weaver Navigation at the photogenic Vale Royal Locks. You then follow the waterside path south east towards Moulton before rejoining the Whitegate Way to complete the circuit. The trail runs for about 7.6 miles and is mostly flat.",
   "details": [],
-  "district": "Marton",
+  "district": "Littler",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 40 minutes",
@@ -66,5 +66,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Whitegate Way, Cassia Green, Whitegate and Marton, Littler, Whitegate, Cheshire West and Chester, England, CW7 2QE, United Kingdom",
+  "postcode": "CW7 2QE",
+  "state": "England"
 }

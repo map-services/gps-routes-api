@@ -51,10 +51,10 @@
   "distance_km": 5.2,
   "description": "This walk follows a section of the Heart of England Way from Moreton in Marsh to Blockley via Batsford Arboretum. The route runs for a distance of just over 3 miles, following the waymarked trails between the two popular Cotswolds settlements. On the way you will pass one of the local highlights at Batsford Arboretum. The delightful arboretum includes lovely woodland trails with a selection of Japanese maples, magnolias and pines. The route then continues west to Blockley where you explore the pretty village and enjoy refreshments at one of the local pubs/cafes.",
   "details": [],
-  "district": "Moreton-in-Marsh",
+  "district": "Cotswold",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -71,5 +71,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "High Street, Moreton-in-Marsh, Cotswold, Gloucestershire, England, GL56 0LE, United Kingdom",
+  "postcode": "GL56 0LE",
+  "state": "England"
 }

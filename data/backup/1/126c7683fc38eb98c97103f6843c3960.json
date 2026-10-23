@@ -53,8 +53,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/wdC_2VA___c?si=eclL-aj9rNRSp9RM",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "4 hours",
@@ -73,5 +73,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Netherhope Lane, Old Bishton, Tidenham, Forest of Dean, Gloucestershire, England, NP16 7JF, United Kingdom",
+  "postcode": "NP16 7JF",
+  "district": "Forest of Dean",
+  "state": "England"
 }

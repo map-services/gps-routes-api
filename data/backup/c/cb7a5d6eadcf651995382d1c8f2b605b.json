@@ -34,8 +34,8 @@
   "video_url": "https://www.youtube.com/embed/IvIQu-SMZAY?si=1bwFbDe4iLxp28Mo",
   "postcode": "IP12 3PF",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -50,5 +50,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Woodbridge Road, Butley, East Suffolk, Suffolk, England, IP12 3PF, United Kingdom",
+  "district": "East Suffolk",
+  "state": "England"
 }

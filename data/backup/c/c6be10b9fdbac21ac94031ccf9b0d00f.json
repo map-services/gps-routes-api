@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/NQ9CPE21cm8?si=lXNV7JTuB9XH2m_l",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -67,5 +67,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Chawton Car Park, Winchester Road, Chawton, East Hampshire, Hampshire, England, GU34 1SE, United Kingdom",
+  "postcode": "GU34 1SE",
+  "district": "East Hampshire",
+  "state": "England"
 }

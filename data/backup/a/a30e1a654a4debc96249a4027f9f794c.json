@@ -63,10 +63,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/8R9ogFfkCp8?si=4t7jseFJHfLS-H2R",
   "postcode": "TR26 1AL",
-  "district": "St Ives",
-  "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
+  "district": "St. Ives",
+  "county": "Kernow / Cornwall",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "4 hours",
@@ -89,5 +89,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pendola Walk, Penbeagle, Carbis Bay, St. Ives, Kernow / Cornwall, England, TR26 1AL, United Kingdom",
+  "state": "England"
 }

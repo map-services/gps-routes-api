@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/nc15NohKMVk?si=Ho5kpKBfZQoLbD4l",
   "county": "Bedford",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 30 minutes",
@@ -68,5 +68,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Box End Road, Kempston Church End, Kempston Rural, Bedford, England, MK43 8RN, United Kingdom",
+  "postcode": "MK43 8RN",
+  "district": "Bedford",
+  "state": "England"
 }

@@ -57,9 +57,9 @@
   "description": "This circular walk takes you from Loggerheads Country Park to Moel Famau Country Park in the Clwydian Range AONB of Flintshire. The challenging route runs for about 8 miles visiting two of the most popular destinations in the AONB. Starting at the car park and visitor centre at Loggerheads the route heads towards Ffrith Mountain where a grassy bridleway will take you up to the Moel Famau summit. From here you can enjoy some wonderful views over the surrounding Clwydian Hills and Dee Valley landscape.You then descend via minor roads and the woodland paths of the Clwyd Forest to return to the Loggerhead car park.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/g_fzYa2xSCw?si=D1ONl0ijt6AvT5bb",
-  "county": "Sir Ddinbych - Denbighshire",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Denbighshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -78,5 +78,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Leete Path, Loggerheads, Llanferres, Maeshafn, Denbighshire, Cymru / Wales, CH7 5LH, United Kingdom",
+  "postcode": "CH7 5LH",
+  "district": "Maeshafn",
+  "state": "Cymru / Wales"
 }

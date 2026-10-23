@@ -53,8 +53,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/PWGdrZ5x5EA?si=1fg9ZrTDbUK8DrRQ",
   "county": "Norfolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -74,5 +74,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Mundford Road, Lynford, Breckland, Norfolk, England, IP26 5ET, United Kingdom",
+  "postcode": "IP26 5ET",
+  "district": "Breckland",
+  "state": "England"
 }

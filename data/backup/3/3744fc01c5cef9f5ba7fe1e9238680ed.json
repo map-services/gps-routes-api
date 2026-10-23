@@ -73,8 +73,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/ja9CNIaHgrU?si=4eGEmrAvC9kxGbQO",
   "county": "Perth and Kinross",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -94,5 +94,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Old Bridge of Tilt, Bridge of Tilt, Perth and Kinross, Alba / Scotland, PH18 5TP, United Kingdom",
+  "postcode": "PH18 5TP",
+  "district": "Bridge of Tilt",
+  "state": "Alba / Scotland"
 }

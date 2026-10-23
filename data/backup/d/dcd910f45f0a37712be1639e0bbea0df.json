@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/C0pwMg8hcTY?si=KZRI1PzbixX3B2aW",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
@@ -68,5 +68,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Drove, Triscombe, West Bagborough, Somerset, England, United Kingdom",
+  "postcode": null,
+  "district": "West Bagborough",
+  "state": "England"
 }

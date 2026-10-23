@@ -40,8 +40,8 @@
   "postcode": "CA12 4TQ",
   "district": "Legburthwaite",
   "county": "Cumberland",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -61,5 +61,8 @@
   "activities": [
     "walking",
     "swimming"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "14, Back Lane, Fisher Place, St. John's Castlerigg and Wythburn, Legburthwaite, Cumberland, England, CA12 4TQ, United Kingdom",
+  "state": "England"
 }

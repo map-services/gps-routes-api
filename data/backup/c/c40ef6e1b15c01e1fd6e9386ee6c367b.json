@@ -49,9 +49,9 @@
   "video_url": "https://www.youtube.com/embed/Da_LumN4dkg?si=2N40TnljTZItvnCN",
   "postcode": "HR6 9ST",
   "district": "Aymestrey",
-  "county": "County of Herefordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "county": "Herefordshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -70,5 +70,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A4110, Aymestrey, Herefordshire, England, HR6 9ST, United Kingdom",
+  "state": "England"
 }

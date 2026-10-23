@@ -39,8 +39,8 @@
   "video_url": "https://www.youtube.com/embed/PlgcQXuAWyQ?si=KcNqhiS1esqE2UHF",
   "district": "Winsford",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "30 minutes",
@@ -61,5 +61,9 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A54, Wharton, Winsford, Cheshire West and Chester, England, CW7 3DA, United Kingdom",
+  "postcode": "CW7 3DA",
+  "state": "England"
 }

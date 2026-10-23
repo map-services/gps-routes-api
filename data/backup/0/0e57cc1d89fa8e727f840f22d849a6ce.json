@@ -1,149 +1,142 @@
 {
-  "created_at": "2025-01-06T18:46:28.315040+00:00",
-  "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-  "ref": "limerick-3-bridges-walking-route",
-  "title": "3 Bridges River Walk Limerick Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg/500px-Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg",
-  "nearby": [
-    {
-      "description": "Lough Derg Way",
-      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-      "ref": "lough-derg-way-walking-route"
+    "created_at": "2025-01-06T18:46:28.315040+00:00",
+    "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+    "ref": "limerick-3-bridges-walking-route",
+    "title": "3 Bridges River Walk Limerick Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg/500px-Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg",
+    "nearby": [
+        {
+            "description": "Lough Derg Way",
+            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+            "ref": "lough-derg-way-walking-route"
+        },
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "O'Briensbridge Riverside Walk",
+            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+            "ref": "obriensbridge-riverside-walk-walking-route"
+        },
+        {
+            "description": "Limerick Greenway",
+            "objectID": "e39af5aeda6049f6f37195a68dcfb541",
+            "ref": "limerick-greenway-walking-route"
+        },
+        {
+            "description": "Adare",
+            "objectID": "8e348d955193556ee256931d689b4080",
+            "ref": "adare-walking-route"
+        },
+        {
+            "description": "Ballina",
+            "objectID": "0367d63aaf753b4176f62fbeef1c672b",
+            "ref": "ballina-walking-route"
+        },
+        {
+            "description": "Cratloe Woods",
+            "objectID": "627fa9c668b89b290f080d79c1d0408f",
+            "ref": "cratloe-woods-walking-route"
+        },
+        {
+            "description": "Castleconnell River Walk",
+            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+            "ref": "castleconnell-river-walk"
+        },
+        {
+            "description": "Clareabbey River Walk",
+            "objectID": "6d462d55f680123d16781e3f10dcbf6d",
+            "ref": "clareabbey-river-walk"
+        },
+        {
+            "description": "Ennis River Fergus Walk",
+            "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
+            "ref": "ennis-river-fergus-walk"
+        },
+        {
+            "description": "Ballyalla Lake",
+            "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
+            "ref": "ballyalla-lake-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e57cc1d89fa8e727f840f22d849a6ce.gpx",
+    "_geoloc": {
+        "lat": 52.66576,
+        "lng": -8.62713
     },
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
-    },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "O'Briensbridge Riverside Walk",
-      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-      "ref": "obriensbridge-riverside-walk-walking-route"
-    },
-    {
-      "description": "Limerick Greenway",
-      "objectID": "e39af5aeda6049f6f37195a68dcfb541",
-      "ref": "limerick-greenway-walking-route"
-    },
-    {
-      "description": "Adare",
-      "objectID": "8e348d955193556ee256931d689b4080",
-      "ref": "adare-walking-route"
-    },
-    {
-      "description": "Ballina",
-      "objectID": "0367d63aaf753b4176f62fbeef1c672b",
-      "ref": "ballina-walking-route"
-    },
-    {
-      "description": "Cratloe Woods",
-      "objectID": "627fa9c668b89b290f080d79c1d0408f",
-      "ref": "cratloe-woods-walking-route"
-    },
-    {
-      "description": "Castleconnell River Walk",
-      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell\u00a0river-walk"
-    },
-    {
-      "description": "Clareabbey River Walk",
-      "objectID": "6d462d55f680123d16781e3f10dcbf6d",
-      "ref": "clareabbey-river-walk"
-    },
-    {
-      "description": "Ennis River Fergus Walk",
-      "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
-      "ref": "ennis-river-fergus-walk"
-    },
-    {
-      "description": "Ballyalla Lake",
-      "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
-      "ref": "ballyalla-lake-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e57cc1d89fa8e727f840f22d849a6ce.gpx",
-  "_geoloc": {
-    "lat": 52.66576,
-    "lng": -8.62713
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg/500px-Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg",
-      "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Arthur's Quay Park is situated in Limerick City Centre, opposite the Arthur's Quay Shopping Centre and on the banks of the River Shannon. It was opened on the 1st January, 1991, by Ms Mary Robinson, former President of Ireland. The local Tourist Office is located alongside the main entrance to the park. There are excellent views of the River Shannon, Curragour Falls and Clare Hills from this park. A new weir was built in recent years to allow boats access between the Abbey River and Shannon Estuary. This weir bounds the park. A small marina is located nearby. The city riverside walk also passes through the park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Limerick_-_St_Mary%27s_Cathedral%2C_Limerick_-_20180825133254.jpg/330px-Limerick_-_St_Mary%27s_Cathedral%2C_Limerick_-_20180825133254.jpg",
-      "title": "VictorBellon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Limerick Cathedral. Established in 1168, St. Mary\u2019s Cathedral holds the distinction of being the oldest building in Limerick that is still utilised for its original purpose. Beyond its intricately carved Romanesque door, the cathedral harbors centuries-old features, including the original High Altar, captivating stained glass windows, and relics such as Williamite Siege cannon balls. Additionally, the cathedral boasts the sole surviving set of misericords in Ireland, providing a unique glimpse into the historical and artistic heritage of the region."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/County_Limerick_-_Thomond_Bridge_-_20181010131719.jpg/500px-County_Limerick_-_Thomond_Bridge_-_20181010131719.jpg",
-      "title": "Dieglop, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Thomond Bridge. The stone sentinel spanning the mighty Shannon, the seven-arch limestone road bridge, connects the ancient walled City of Limerick with the picturesque County Clare. Steeped in history, this iconic structure, completed in 1840, replaced its predecessors and became a vital link in the region. A touch of folklore adds charm to the bridge's story: according to local tales, etched into the stone are the scratch marks of the Bishop's Lady. Legend has it that this curious marking stems from an unfortunate encounter with the legendary Drunken Thady, weaving a whimsical thread into the rich tapestry of Limerick's past."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SHANNON_BRIDGE_IN_LIMERICK_-THE_FLOWER_BASKETS_ARE_NOT_REALLY_ATTRACTIVE-_%2814456426262%29.jpg/500px-SHANNON_BRIDGE_IN_LIMERICK_-THE_FLOWER_BASKETS_ARE_NOT_REALLY_ATTRACTIVE-_%2814456426262%29.jpg",
-      "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Shannon Bridge. The River Shannon, a formidable and tidal force, courses through the heart of Limerick, infusing the city with vitality as it wends its way toward the Shannon Estuary and eventually converges with the Wild Atlantic Way. This majestic river, named after the Celtic goddess Sionna, proudly bears the distinction of being Ireland's longest river, stretching a grand span of 360 kilometers. As the lifeblood of Limerick, the River Shannon weaves a narrative of history, commerce, and nature, shaping the landscape it graces. Its tidal surges bring a rhythmic pulse to the city, echoing the eons of stories etched into its banks. From the serene reaches within the city to the tidal dance as it meets the estuary, the river serves as both a scenic spectacle and a crucial waterway. In the quiet moments along its banks and the bustling city quarters that line its course, the River Shannon stands as a living testament to the enduring spirit of Limerick\u2014a witness to the passage of time and a symbol of the city's interconnectedness with the broader tapestry of Ireland's waterways."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/A_View_From_Sarsfield_Bridge_In_Limerick_%282014%29.jpg/500px-A_View_From_Sarsfield_Bridge_In_Limerick_%282014%29.jpg",
-      "title": "William Murphy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "A View From Sarsfield Bridge. The River Shannon, coursing through the heart of Limerick, is graced by the Patrick Sarsfield Bridge, the city's second crossing dedicated to Patrick Sarsfield, the Earl of Lucan. Renowned as a prominent figure in the Jacobite Army during the 1691 siege and the subsequent Treaty of Limerick, Sarsfield's legacy is immortalized by this architectural marvel. Originally conceived as a swivel bridge, the structure was meticulously designed to facilitate the passage of ships along the Shannon. A testament to engineering prowess, the Patrick Sarsfield Bridge emerged from an eleven-year construction effort and proudly opened its spans in 1835. This bridge, marked by five elegant elliptical arches, stands as a venerable guardian of Limerick's history. The enduring presence of its original lamp standards lends an air of timeless grandeur to the cityscape, casting a warm glow over the waters of the Shannon and continuing to tell the tale of Limerick's past and resilience."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Limerick_-_The_Dockers_Monument_%285770837993%29.jpg/500px-Limerick_-_The_Dockers_Monument_%285770837993%29.jpg",
-      "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Dockers Monument. An evocative tribute to the industrious dockers who toiled tirelessly unloading cargo boats on the River Shannon stands proudly along the riverside, encapsulated in a sculpture crafted by the skilled hands of Limerick-born artist Michael Duhan. This poignant monument, born out of the inspiration drawn from Duhan's father\u2014a seasoned seaman\u2014is more than a work of art; it is a living testament to the enduring spirit of those who contributed their sweat and strength to the bustling riverfront. The sculpture captures the essence of the laborious work undertaken by these dockers, commemorating their years of dedication and resilience. The intricacies of the monument unfold in the details\u2014the worn belts of the dockers, each bearing a name, a story, and a legacy. Among these belts is the name of Duhan's own father, forever etched into the memorial as a nod to the personal connection and the shared history of seafaring families. As the riverside sculpture stands against the backdrop of the flowing River Shannon, it not only pays homage to the dockers but becomes a bridge between the past and the present, inviting contemplation on the human stories etched into the fabric of Limerick's maritime heritage."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_John%27s_Castle_in_Limerick.jpg/500px-King_John%27s_Castle_in_Limerick.jpg",
-      "title": "Eric The Fish, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-      "caption": "Nestled within Limerick City's medieval core, the magnificent King John's Castle stands as a testament to 800 years of captivating local history. This iconic fortress not only guards the city's heritage but also provides an interactive and engaging experience for visitors of all ages. As the beating heart of Limerick, the castle weaves together a tapestry of myths and legends, offering a glimpse into the rich and storied past of this vibrant Irish city."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/EVA_INTERNATIONAL_IN_LIMERICK_%2814234844287%29.jpg/500px-EVA_INTERNATIONAL_IN_LIMERICK_%2814234844287%29.jpg",
-      "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "EVA International has transformed the former Golden Vale Milk Plant into temporary exhibition venues with support from Kerry Group and Limerick City of Culture 2014. Previously known as the Lansdowne Flax Mill and Cleeves Condensed Milk Factory this vast industrial complex dominates the west bank of the River Shannon, visible from Sarsfield Bridge."
-    }
-  ],
-  "distance_km": 3.5,
-  "description": "A popular circular walk in the city of Limerick, passing along both sides of the River Shannon and visiting a series of fine bridges. On the way you'll also visit some of Limerick's most iconic landmarks and picturesque parks. The walk starts on the southern side of the river in Arthur's Quay Park. You'll then pass Thomond Bridge, Sarsfield Bridge and Shannon Bridge as you make your way along the path. To continue your walking in the area you could pick up the Lough Derg Way. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can also try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/rr0wflDxD2Q?si=RcuuIe9THT5Xt2yX",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Honan's Quay, Custom House, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, V94 DW21, \u00c9ire / Ireland",
-  "postcode": "V94 DW21",
-  "district": "Limerick",
-  "county": "County Limerick",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "urban"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "park"
-  ],
-  "facilities": [],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg/500px-Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg",
+            "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Arthur's Quay Park is situated in Limerick City Centre, opposite the Arthur's Quay Shopping Centre and on the banks of the River Shannon. It was opened on the 1st January, 1991, by Ms Mary Robinson, former President of Ireland. The local Tourist Office is located alongside the main entrance to the park. There are excellent views of the River Shannon, Curragour Falls and Clare Hills from this park. A new weir was built in recent years to allow boats access between the Abbey River and Shannon Estuary. This weir bounds the park. A small marina is located nearby. The city riverside walk also passes through the park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Limerick_-_St_Mary%27s_Cathedral%2C_Limerick_-_20180825133254.jpg/330px-Limerick_-_St_Mary%27s_Cathedral%2C_Limerick_-_20180825133254.jpg",
+            "title": "VictorBellon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Limerick Cathedral. Established in 1168, St. Mary\u2019s Cathedral holds the distinction of being the oldest building in Limerick that is still utilised for its original purpose. Beyond its intricately carved Romanesque door, the cathedral harbors centuries-old features, including the original High Altar, captivating stained glass windows, and relics such as Williamite Siege cannon balls. Additionally, the cathedral boasts the sole surviving set of misericords in Ireland, providing a unique glimpse into the historical and artistic heritage of the region."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/County_Limerick_-_Thomond_Bridge_-_20181010131719.jpg/500px-County_Limerick_-_Thomond_Bridge_-_20181010131719.jpg",
+            "title": "Dieglop, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Thomond Bridge. The stone sentinel spanning the mighty Shannon, the seven-arch limestone road bridge, connects the ancient walled City of Limerick with the picturesque County Clare. Steeped in history, this iconic structure, completed in 1840, replaced its predecessors and became a vital link in the region. A touch of folklore adds charm to the bridge's story: according to local tales, etched into the stone are the scratch marks of the Bishop's Lady. Legend has it that this curious marking stems from an unfortunate encounter with the legendary Drunken Thady, weaving a whimsical thread into the rich tapestry of Limerick's past."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SHANNON_BRIDGE_IN_LIMERICK_-THE_FLOWER_BASKETS_ARE_NOT_REALLY_ATTRACTIVE-_%2814456426262%29.jpg/500px-SHANNON_BRIDGE_IN_LIMERICK_-THE_FLOWER_BASKETS_ARE_NOT_REALLY_ATTRACTIVE-_%2814456426262%29.jpg",
+            "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Shannon Bridge. The River Shannon, a formidable and tidal force, courses through the heart of Limerick, infusing the city with vitality as it wends its way toward the Shannon Estuary and eventually converges with the Wild Atlantic Way. This majestic river, named after the Celtic goddess Sionna, proudly bears the distinction of being Ireland's longest river, stretching a grand span of 360 kilometers. As the lifeblood of Limerick, the River Shannon weaves a narrative of history, commerce, and nature, shaping the landscape it graces. Its tidal surges bring a rhythmic pulse to the city, echoing the eons of stories etched into its banks. From the serene reaches within the city to the tidal dance as it meets the estuary, the river serves as both a scenic spectacle and a crucial waterway. In the quiet moments along its banks and the bustling city quarters that line its course, the River Shannon stands as a living testament to the enduring spirit of Limerick\u2014a witness to the passage of time and a symbol of the city's interconnectedness with the broader tapestry of Ireland's waterways."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/A_View_From_Sarsfield_Bridge_In_Limerick_%282014%29.jpg/500px-A_View_From_Sarsfield_Bridge_In_Limerick_%282014%29.jpg",
+            "title": "William Murphy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "A View From Sarsfield Bridge. The River Shannon, coursing through the heart of Limerick, is graced by the Patrick Sarsfield Bridge, the city's second crossing dedicated to Patrick Sarsfield, the Earl of Lucan. Renowned as a prominent figure in the Jacobite Army during the 1691 siege and the subsequent Treaty of Limerick, Sarsfield's legacy is immortalized by this architectural marvel. Originally conceived as a swivel bridge, the structure was meticulously designed to facilitate the passage of ships along the Shannon. A testament to engineering prowess, the Patrick Sarsfield Bridge emerged from an eleven-year construction effort and proudly opened its spans in 1835. This bridge, marked by five elegant elliptical arches, stands as a venerable guardian of Limerick's history. The enduring presence of its original lamp standards lends an air of timeless grandeur to the cityscape, casting a warm glow over the waters of the Shannon and continuing to tell the tale of Limerick's past and resilience."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Limerick_-_The_Dockers_Monument_%285770837993%29.jpg/500px-Limerick_-_The_Dockers_Monument_%285770837993%29.jpg",
+            "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Dockers Monument. An evocative tribute to the industrious dockers who toiled tirelessly unloading cargo boats on the River Shannon stands proudly along the riverside, encapsulated in a sculpture crafted by the skilled hands of Limerick-born artist Michael Duhan. This poignant monument, born out of the inspiration drawn from Duhan's father\u2014a seasoned seaman\u2014is more than a work of art; it is a living testament to the enduring spirit of those who contributed their sweat and strength to the bustling riverfront. The sculpture captures the essence of the laborious work undertaken by these dockers, commemorating their years of dedication and resilience. The intricacies of the monument unfold in the details\u2014the worn belts of the dockers, each bearing a name, a story, and a legacy. Among these belts is the name of Duhan's own father, forever etched into the memorial as a nod to the personal connection and the shared history of seafaring families. As the riverside sculpture stands against the backdrop of the flowing River Shannon, it not only pays homage to the dockers but becomes a bridge between the past and the present, inviting contemplation on the human stories etched into the fabric of Limerick's maritime heritage."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_John%27s_Castle_in_Limerick.jpg/500px-King_John%27s_Castle_in_Limerick.jpg",
+            "title": "Eric The Fish, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+            "caption": "Nestled within Limerick City's medieval core, the magnificent King John's Castle stands as a testament to 800 years of captivating local history. This iconic fortress not only guards the city's heritage but also provides an interactive and engaging experience for visitors of all ages. As the beating heart of Limerick, the castle weaves together a tapestry of myths and legends, offering a glimpse into the rich and storied past of this vibrant Irish city."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/EVA_INTERNATIONAL_IN_LIMERICK_%2814234844287%29.jpg/500px-EVA_INTERNATIONAL_IN_LIMERICK_%2814234844287%29.jpg",
+            "title": "William Murphy from Dublin, Ireland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "EVA International has transformed the former Golden Vale Milk Plant into temporary exhibition venues with support from Kerry Group and Limerick City of Culture 2014. Previously known as the Lansdowne Flax Mill and Cleeves Condensed Milk Factory this vast industrial complex dominates the west bank of the River Shannon, visible from Sarsfield Bridge."
+        }
+    ],
+    "distance_km": 3.5,
+    "description": "A popular circular walk in the city of Limerick, passing along both sides of the River Shannon and visiting a series of fine bridges. On the way you'll also visit some of Limerick's most iconic landmarks and picturesque parks. The walk starts on the southern side of the river in Arthur's Quay Park. You'll then pass Thomond Bridge, Sarsfield Bridge and Shannon Bridge as you make your way along the path. To continue your walking in the area you could pick up the Lough Derg Way. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can also try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/rr0wflDxD2Q?si=RcuuIe9THT5Xt2yX",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Honan's Quay, Custom House, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, V94 DW21, \u00c9ire / Ireland",
+    "postcode": "V94 DW21",
+    "district": "Limerick",
+    "county": "County Limerick",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["urban"],
+    "points_of_interest": ["historical site", "park"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

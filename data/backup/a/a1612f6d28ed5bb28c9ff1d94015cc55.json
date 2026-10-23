@@ -53,8 +53,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/ue5JrrpnQyI?si=50QgLDvi2J0srGD0",
   "county": "Windsor and Maidenhead",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "7 hours",
@@ -77,5 +77,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Winter Hill Road, Cookham Dean, Cookham, Windsor and Maidenhead, England, SL6 6PJ, United Kingdom",
+  "postcode": "SL6 6PJ",
+  "district": "Cookham Dean",
+  "state": "England"
 }

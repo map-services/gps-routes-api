@@ -103,8 +103,8 @@
   "details": [],
   "district": "Minehead",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "10 hours",
@@ -125,5 +125,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Greenaleigh Road, Higher Town, Alcombe, Minehead, Somerset, England, TA24 5UL, United Kingdom",
+  "postcode": "TA24 5UL",
+  "state": "England"
 }

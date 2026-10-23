@@ -36,11 +36,11 @@
   "distance_km": 8.1,
   "description": "This circular walk explores the countryside surrounding the Somerset village of Kilmersdon. Starting in the village you'll follow public footpaths and country lanes south towards the old Vobster Quarries where there's a pretty lake. Along the way there's also fine views of the Kilmersdon Brook valley countryside. To continue your walking you could pick up the Radstock Railway Walk to Wellow .",
   "details": [],
-  "postcode": "BA3 5SZ",
+  "postcode": "BA3 5SY",
   "district": "Kilmersdon",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 40 minutes",
@@ -56,5 +56,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Kilmersdon Hill, Charlton, Kilmersdon, Somerset, England, BA3 5SY, United Kingdom",
+  "state": "England"
 }

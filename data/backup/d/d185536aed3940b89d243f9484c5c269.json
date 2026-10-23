@@ -1,109 +1,102 @@
 {
-  "created_at": "2025-01-06T01:15:39.370619+00:00",
-  "objectID": "d185536aed3940b89d243f9484c5c269",
-  "ref": "lochcote-reservoir-walking-route",
-  "title": "Lochcote Reservoir and Cockleroy\u00a0Hill Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lochcote_Reservoir_-_geograph.org.uk_-_1201146.jpg",
-  "nearby": [
-    {
-      "description": "Linlithgow Loch",
-      "objectID": "ac1ec36965a7fdca387f31b16c06c313",
-      "ref": "linlithgow-loch-walking-route"
+    "created_at": "2025-01-06T01:15:39.370619+00:00",
+    "objectID": "d185536aed3940b89d243f9484c5c269",
+    "ref": "lochcote-reservoir-walking-route",
+    "title": "Lochcote Reservoir and Cockleroy Hill Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lochcote_Reservoir_-_geograph.org.uk_-_1201146.jpg",
+    "nearby": [
+        {
+            "description": "Linlithgow Loch",
+            "objectID": "ac1ec36965a7fdca387f31b16c06c313",
+            "ref": "linlithgow-loch-walking-route"
+        },
+        {
+            "description": "Muiravonside Country Park",
+            "objectID": "47954f93733cb2d38a2f4c52100a2ddd",
+            "ref": "muiravonside-country-park-walking-route"
+        },
+        {
+            "description": "Union Canal",
+            "objectID": "77b1ab0368473322069a55d3775070fc",
+            "ref": "union-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Beecraigs Country Park",
+            "objectID": "ed1bad02d6f3198babed582018f841e8",
+            "ref": "beecraigs-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Linlithgow Canal Walk",
+            "objectID": "ec12c58779813e7645468428d9cec039",
+            "ref": "linlithgow-canal-walk"
+        },
+        {
+            "description": "Cairnpapple Hill",
+            "objectID": "4f690e29d53bd8f70dd1b09bcc19dd2a",
+            "ref": "cairnpapple-hill-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d185536aed3940b89d243f9484c5c269.gpx",
+    "_geoloc": {
+        "lat": 55.9324210483,
+        "lng": -3.6551888355
     },
-    {
-      "description": "Muiravonside Country Park",
-      "objectID": "47954f93733cb2d38a2f4c52100a2ddd",
-      "ref": "muiravonside-country-park-walking-route"
-    },
-    {
-      "description": "Union Canal",
-      "objectID": "77b1ab0368473322069a55d3775070fc",
-      "ref": "union-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Beecraigs Country Park",
-      "objectID": "ed1bad02d6f3198babed582018f841e8",
-      "ref": "beecraigs-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Linlithgow Canal Walk",
-      "objectID": "ec12c58779813e7645468428d9cec039",
-      "ref": "linlithgow-canal-walk"
-    },
-    {
-      "description": "Cairnpapple Hill",
-      "objectID": "4f690e29d53bd8f70dd1b09bcc19dd2a",
-      "ref": "cairnpapple-hill-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d185536aed3940b89d243f9484c5c269.gpx",
-  "_geoloc": {
-    "lat": 55.9324210483,
-    "lng": -3.6551888355
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lochcote_Reservoir_-_geograph.org.uk_-_1201146.jpg",
-      "title": "Morley Sewell / Lochcote Reservoir",
-      "caption": "Lochcote Reservoir. The signed footpath from Torphichen to Linlithgow runs along the northwest edge of the reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Former_Gardener%27s_cottage_in_Lochcote_estate%2C_Bathgate_Hills_West_Lothian_-_geograph.org.uk_-_74885.jpg",
-      "title": "paul birrell / Former Gardener's cottage in Lochcote estate, Bathgate Hills West Lothian",
-      "caption": "Former Gardener's cottage in Lochcote estate, Bathgate Hills West Lothian. Must have been an important gardener to have a cottage of this size with a walled garden and Lochcote reservoir in the background."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lochcote_-_geograph.org.uk_-_2875862.jpg",
-      "title": "Lochcote by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lochcote estate scenery"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Loch_Cote_from_Cockleroi_-_geograph.org.uk_-_1159768.jpg",
-      "title": "AlastairG / Loch Cote from Cockleroi",
-      "caption": "Loch Cote from Cockleroi. Loch Cote from Cockleroi Loch Cote at one time provided the water supply for Bo'ness about five miles to the north. The local spelling \"Cockleroi\" reflects the probable French origin of the name of Linlithgow's hill, suggested as \"the cockaded hat of the king\" (WF Hendrie), much more accurately than the corruption to \"Cockleroy\" found on recent OS maps."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_East_Slope_of_Cockleroy_-_geograph.org.uk_-_2875806.jpg",
-      "title": "The East Slope of Cockleroy by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The East Slope of Cockleroy"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cockleroy_summit_-_geograph.org.uk_-_290416.jpg",
-      "title": "Richard Webb / Cockleroy summit",
-      "caption": "Cockleroy summit"
-    }
-  ],
-  "distance_km": 8.8,
-  "description": "This walk in West Lothian visits the Lochcote Reservoir before a climb to the viewpoint on Cockleroy Hill. The pretty lake and viewpoint are located in between Bathgate and Linlithgow. Start the walk from the little village of Torphichen where you can follow country lanes north and then east to reach the reservoir. You continue east past the remains of the old castle before the climb to Cockleroy Hill. From the 278 metre high summit there are some excellent views back down to the lake and to the surrounding Bathgate Hills and countryside. Cockleroy sits on the western edge of Beecraigs Country Park so it's easy to extend the walk if you have time. The park includes extensive woodland and the picturesque Beecraigs Loch on the eastern side of the site. You could also continue north into Linlithgow where you can enjoy more waterside walks along Linlithgow Loch and the Union Canal on the Linlithgow Canal Walk .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the south east there's some interesting local history at Cairnpapple Hill. Here you'll find an ancient henge and a visitor centre where you can learn all about the bronze age history of the hill."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/_w0dxrYdmto",
-  "district": "Torphichen",
-  "county": "West Lothian",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "1, High Brae, Torphichen, West Lothian, Alba / Scotland, EH48 4LX, United Kingdom",
-  "postcode": "EH48 4LX",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lochcote_Reservoir_-_geograph.org.uk_-_1201146.jpg",
+            "title": "Morley Sewell / Lochcote Reservoir",
+            "caption": "Lochcote Reservoir. The signed footpath from Torphichen to Linlithgow runs along the northwest edge of the reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Former_Gardener%27s_cottage_in_Lochcote_estate%2C_Bathgate_Hills_West_Lothian_-_geograph.org.uk_-_74885.jpg",
+            "title": "paul birrell / Former Gardener's cottage in Lochcote estate, Bathgate Hills West Lothian",
+            "caption": "Former Gardener's cottage in Lochcote estate, Bathgate Hills West Lothian. Must have been an important gardener to have a cottage of this size with a walled garden and Lochcote reservoir in the background."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lochcote_-_geograph.org.uk_-_2875862.jpg",
+            "title": "Lochcote by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lochcote estate scenery"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Loch_Cote_from_Cockleroi_-_geograph.org.uk_-_1159768.jpg",
+            "title": "AlastairG / Loch Cote from Cockleroi",
+            "caption": "Loch Cote from Cockleroi. Loch Cote from Cockleroi Loch Cote at one time provided the water supply for Bo'ness about five miles to the north. The local spelling \"Cockleroi\" reflects the probable French origin of the name of Linlithgow's hill, suggested as \"the cockaded hat of the king\" (WF Hendrie), much more accurately than the corruption to \"Cockleroy\" found on recent OS maps."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_East_Slope_of_Cockleroy_-_geograph.org.uk_-_2875806.jpg",
+            "title": "The East Slope of Cockleroy by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The East Slope of Cockleroy"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cockleroy_summit_-_geograph.org.uk_-_290416.jpg",
+            "title": "Richard Webb / Cockleroy summit",
+            "caption": "Cockleroy summit"
+        }
+    ],
+    "distance_km": 8.8,
+    "description": "This walk in West Lothian visits the Lochcote Reservoir before a climb to the viewpoint on Cockleroy Hill. The pretty lake and viewpoint are located in between Bathgate and Linlithgow. Start the walk from the little village of Torphichen where you can follow country lanes north and then east to reach the reservoir. You continue east past the remains of the old castle before the climb to Cockleroy Hill. From the 278 metre high summit there are some excellent views back down to the lake and to the surrounding Bathgate Hills and countryside. Cockleroy sits on the western edge of Beecraigs Country Park so it's easy to extend the walk if you have time. The park includes extensive woodland and the picturesque Beecraigs Loch on the eastern side of the site. You could also continue north into Linlithgow where you can enjoy more waterside walks along Linlithgow Loch and the Union Canal on the Linlithgow Canal Walk .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the south east there's some interesting local history at Cairnpapple Hill. Here you'll find an ancient henge and a visitor centre where you can learn all about the bronze age history of the hill."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/_w0dxrYdmto",
+    "district": "Torphichen",
+    "county": "West Lothian",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "1, High Brae, Torphichen, West Lothian, Alba / Scotland, EH48 4LX, United Kingdom",
+    "postcode": "EH48 4LX",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "moderate",
+    "terrain": ["woodland"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": [],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

@@ -98,10 +98,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/DquzqAQi0pI?si=gUKHJykqsYfmekY-",
   "postcode": "SA3 1NN",
-  "district": "Port-Eynon",
-  "county": "Abertawe - Swansea",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Port Eynon",
+  "county": "Swansea",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -118,5 +118,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Port Eynon, Swansea, Cymru / Wales, SA3 1NN, United Kingdom",
+  "state": "Cymru / Wales"
 }

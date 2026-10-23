@@ -65,8 +65,8 @@
   "postcode": "PA8 6AX",
   "district": "Erskine",
   "county": "Renfrewshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -86,5 +86,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A740;A726, North Barr, Erskine, Renfrewshire, Alba / Scotland, PA8 6AX, United Kingdom",
+  "state": "Alba / Scotland"
 }

@@ -68,9 +68,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/U0v_1kZLllE?si=ZsBpzWG1WIoe8BtC",
   "district": "Southampton",
-  "county": "City of Southampton",
-  "region": "South East",
-  "country": "England",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "40 minutes",
@@ -88,5 +88,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Town Quay, Old Town, St Mary's, Southampton, England, SO14 2AN, United Kingdom",
+  "postcode": "SO14 2AN",
+  "state": "England"
 }

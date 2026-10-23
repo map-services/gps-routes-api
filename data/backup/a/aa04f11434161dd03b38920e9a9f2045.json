@@ -98,8 +98,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/KUnrpUl4zb4?si=TGamjL_aBpSFJkaF",
   "county": "West Sussex",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -118,5 +118,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Salthill Road, Fishbourne, Chichester, West Sussex, England, PO19 3QD, United Kingdom",
+  "postcode": "PO19 3QD",
+  "district": "Chichester",
+  "state": "England"
 }

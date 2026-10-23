@@ -64,8 +64,8 @@
   "video_url": "https://www.youtube.com/embed/-cJ6CNhAPEI?si=WwgmUuJ3iQIkrOe2&start=8",
   "district": "Cupar",
   "county": "Fife",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -84,5 +84,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "East Bridge, Blalowan Park, Middlefield Farm, Cupar, Fife, Alba / Scotland, KY15 4TA, United Kingdom",
+  "postcode": "KY15 4TA",
+  "state": "Alba / Scotland"
 }

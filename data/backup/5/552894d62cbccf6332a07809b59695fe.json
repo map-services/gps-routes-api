@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/7Q3wVb6OKOo?si=uxjPQpreRy0oHQEY",
   "postcode": "GU4 8SE",
   "county": "Surrey",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -75,5 +75,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Newlands Corner, Drove Road, Albury, Guildford, Surrey, England, GU4 8SE, United Kingdom",
+  "district": "Guildford",
+  "state": "England"
 }

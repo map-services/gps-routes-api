@@ -59,8 +59,8 @@
   "video_url": "https://www.youtube.com/embed/nKhb2FRtBgY?si=rJWaRktWtIG5NW67",
   "district": "Tomatin",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -77,5 +77,9 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Raigbeg, Tomatin, Highland, Alba / Scotland, IV13 7YN, United Kingdom",
+  "postcode": "IV13 7YN",
+  "state": "Alba / Scotland"
 }

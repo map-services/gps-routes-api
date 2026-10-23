@@ -56,10 +56,10 @@
   "distance_km": 11.8,
   "description": "This walk takes you from Alfriston to Seaford along sections of The South Downs Way and the Vanguard Way. The route runs for just over 7 miles following the waymarked trails south and then west through the South Downs. The first section runs along the Cuckmere River towards the historic Charleston Farmhouse. The property is associated with the Bloomsbury group of English writers, intellectuals, philosophers and artists from the early part of the 20th century. It is now open to the public through the National Trust. You can explore the house and learn about the visits from authors such as Virginia Woolf, John Maynard Keynes and E. M. Forster.The route then continues to the coast where you follow the cliff top path west into Seaford, with splendid coastal views along the way.",
   "details": [],
-  "district": "Alfriston",
+  "district": "Wealden",
   "county": "East Sussex",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 5 minutes",
@@ -74,5 +74,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Willows, North Street, Alfriston, Wealden, East Sussex, England, BN26 5UT, United Kingdom",
+  "postcode": "BN26 5UT",
+  "state": "England"
 }

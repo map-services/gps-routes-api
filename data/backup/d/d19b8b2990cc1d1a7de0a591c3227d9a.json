@@ -46,11 +46,11 @@
   "distance_km": 4.0,
   "description": "This circular walk explores the area around the Somerset villages of Rode and Tellisford. The villages are located a few miles north of the town of Frome and are both located in a scenic spot next to the River Frome. On this fairly easy walk you'll follow public footpaths along the river, visiting the weir and old mill at Tellisford. It's a lovely spot with the rushing water and some splendid countryside views to enjoy. Continue north and you could pick up the Farleigh Hungerford and Westwood Circular Walk and the Westwood Manor, Iford Manor and Friary Wood Walk. Here you can visit a medieval castle, an historic National Trust property and some beautiful manor gardens.",
   "details": [],
-  "postcode": "BA11 6AG",
+  "postcode": "BA11 6PY",
   "district": "Rode",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 20 minutes",
@@ -70,5 +70,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Rode Hill, Rode, Somerset, England, BA11 6PY, United Kingdom",
+  "state": "England"
 }

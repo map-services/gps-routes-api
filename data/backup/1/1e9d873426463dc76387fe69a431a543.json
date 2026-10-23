@@ -67,8 +67,8 @@
   "description": "This circular walk explores the area around the villages of Studham and Markyate. The varied walk takes you through some lovely Chilterns countryside and includes a section along Whipsnade Zoo. You'll also enjoy some fine views in the Dunstable Downs Country Park and visit Whipsnade Heath, Kensworth Quarry and Whipsnade Tree Cathedral. There's much to enjoy with hill climbs, woodland trails and a series of pretty villages. You can start and finish the walk in Studham where there are good refreshment options.",
   "details": [],
   "county": "Central Bedfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "6-7 hours",
@@ -90,5 +90,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Church Road, Holywell, Studham, Central Bedfordshire, England, LU6 2QD, United Kingdom",
+  "postcode": "LU6 2QD",
+  "district": "Holywell",
+  "state": "England"
 }

@@ -49,9 +49,9 @@
   "video_url": "https://www.youtube.com/embed/xujoKkp2fIw?si=Mnc4gVrto-RwhK-4",
   "postcode": "HR2 6QH",
   "district": "Hoarwithy",
-  "county": "County of Herefordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "county": "Herefordshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -69,5 +69,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Hoarwithy Road, Altbough, Hentland, Hoarwithy, Herefordshire, England, HR2 6QH, United Kingdom",
+  "state": "England"
 }

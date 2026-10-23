@@ -43,8 +43,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/4bLKNUN1ovc?si=m-BQNEG5aLxxPEtw",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "4 hours",
@@ -64,5 +64,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Track to Camasunary, B8083, Drinan, Elgol, Highland, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": "Elgol",
+  "state": "Alba / Scotland"
 }

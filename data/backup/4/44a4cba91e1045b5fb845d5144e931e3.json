@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/ZirEu6C0p90?si=jt8dgWPBRbXGQLq0",
   "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -78,5 +78,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A712, Dumfries and Galloway, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Alba / Scotland"
 }

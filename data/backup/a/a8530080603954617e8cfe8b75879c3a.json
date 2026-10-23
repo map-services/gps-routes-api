@@ -1,75 +1,72 @@
 {
-  "created_at": "2026-10-22T21:12:42.787359+00:00",
-  "objectID": "a8530080603954617e8cfe8b75879c3a",
-  "ref": "ballyronan\u00a0wood-walking-route",
-  "title": "Ballyronan\u00a0Wood Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballyronan_Picnic_area_-_geograph.org.uk_-_226652.jpg?20100131201950",
-  "nearby": [
-    {
-      "description": "Lough Fea",
-      "objectID": "1b46b862db4b46e6c4625bc7b6c89fa3",
-      "ref": "lough-fea-walking-route"
+    "created_at": "2026-10-22T21:12:42.787359+00:00",
+    "objectID": "a8530080603954617e8cfe8b75879c3a",
+    "ref": "ballyronan-wood-walking-route",
+    "title": "Ballyronan Wood Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballyronan_Picnic_area_-_geograph.org.uk_-_226652.jpg?20100131201950",
+    "nearby": [
+        {
+            "description": "Lough Fea",
+            "objectID": "1b46b862db4b46e6c4625bc7b6c89fa3",
+            "ref": "lough-fea-walking-route"
+        },
+        {
+            "description": "Toome Canal",
+            "objectID": "b668018e50a0f50bac5588ff9a885129",
+            "ref": "toome-canal-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a8530080603954617e8cfe8b75879c3a.gpx",
+    "_geoloc": {
+        "lat": 54.70915,
+        "lng": -6.53075
     },
-    {
-      "description": "Toome Canal",
-      "objectID": "b668018e50a0f50bac5588ff9a885129",
-      "ref": "toome-canal-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a8530080603954617e8cfe8b75879c3a.gpx",
-  "_geoloc": {
-    "lat": 54.70915,
-    "lng": -6.53075
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballyronan_Picnic_area_-_geograph.org.uk_-_226652.jpg?20100131201950",
-      "title": "Kenneth Allen / Ballyronan Picnic area",
-      "caption": "Ballyronan Picnic area"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lough_Neagh_-_geograph.org.uk_-_488576.jpg?20110205020216",
-      "title": "HENRY CLARK / Lough Neagh",
-      "caption": "Lough Neagh"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Choppy_waters%2C_Lough_Neagh_-_geograph.org.uk_-_2684381.jpg?20210929004013",
-      "title": "Choppy waters, Lough Neagh by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Choppy waters, Lough Neagh"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ballyronan_village.jpg?20100123202537",
-      "title": "Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ballyronan Village"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This walk takes you around the harbour and wood in Ballyronan, County Londonderry. Starting at the marina, the route provides picturesque views over Lough Neagh, where the tranquil waters reflect the changing skies. The harbour is a peaceful spot, with moored boats adding to the idyllic setting. Waterbirds such as swans, mallards, and coots are often seen gliding on the water, while the surrounding reed beds attract smaller species like reed warblers and sedge warblers during the summer months. Moving into the woodlands, the path meanders under a canopy of trees that includes oak, ash, and hazel. These woodlands are rich in biodiversity, supporting a variety of birdlife such as blackbirds, robins, and great tits. During spring and early summer, the forest floor comes alive with bluebells, wood anemones, and wild garlic, their fresh scents adding to the experience. In autumn, the woods take on a golden hue as leaves begin to fall, creating a carpet of colour underfoot. As you walk, you might spot squirrels darting through the trees or hear the distant drumming of a woodpecker. The woodland also supports a range of insects, from butterflies like speckled woods and small tortoiseshells to dragonflies skimming the nearby waters. The path occasionally opens up to reveal views back towards the lough, offering opportunities to pause and take in the scenery. The area has a strong connection to local heritage, with Lough Neagh historically serving as a hub for fishing and transport. The nearby wetlands are of ecological importance, providing habitats for rare species of plants and animals. Interpretative signs along the way provide further insights into the area's natural and cultural history, adding depth to the walk. The return to the harbour offers a chance to relax and enjoy the serenity of the water's edge.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head north and you could enjoy an easy waterside walk or cycle along the Toome Canal. To the west there's the picturesque Lough Fea to visit."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/88vuLXyqvF4?si=m78zbx_HQ3Hc4i9y",
-  "gazetteer_found": false,
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "coastal"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "harbour",
-    "wetlands"
-  ],
-  "facilities": [
-    "interpretative signs"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ballyronan_Picnic_area_-_geograph.org.uk_-_226652.jpg?20100131201950",
+            "title": "Kenneth Allen / Ballyronan Picnic area",
+            "caption": "Ballyronan Picnic area"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lough_Neagh_-_geograph.org.uk_-_488576.jpg?20110205020216",
+            "title": "HENRY CLARK / Lough Neagh",
+            "caption": "Lough Neagh"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Choppy_waters%2C_Lough_Neagh_-_geograph.org.uk_-_2684381.jpg?20210929004013",
+            "title": "Choppy waters, Lough Neagh by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Choppy waters, Lough Neagh"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ballyronan_village.jpg?20100123202537",
+            "title": "Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Ballyronan Village"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This walk takes you around the harbour and wood in Ballyronan, County Londonderry. Starting at the marina, the route provides picturesque views over Lough Neagh, where the tranquil waters reflect the changing skies. The harbour is a peaceful spot, with moored boats adding to the idyllic setting. Waterbirds such as swans, mallards, and coots are often seen gliding on the water, while the surrounding reed beds attract smaller species like reed warblers and sedge warblers during the summer months. Moving into the woodlands, the path meanders under a canopy of trees that includes oak, ash, and hazel. These woodlands are rich in biodiversity, supporting a variety of birdlife such as blackbirds, robins, and great tits. During spring and early summer, the forest floor comes alive with bluebells, wood anemones, and wild garlic, their fresh scents adding to the experience. In autumn, the woods take on a golden hue as leaves begin to fall, creating a carpet of colour underfoot. As you walk, you might spot squirrels darting through the trees or hear the distant drumming of a woodpecker. The woodland also supports a range of insects, from butterflies like speckled woods and small tortoiseshells to dragonflies skimming the nearby waters. The path occasionally opens up to reveal views back towards the lough, offering opportunities to pause and take in the scenery. The area has a strong connection to local heritage, with Lough Neagh historically serving as a hub for fishing and transport. The nearby wetlands are of ecological importance, providing habitats for rare species of plants and animals. Interpretative signs along the way provide further insights into the area's natural and cultural history, adding depth to the walk. The return to the harbour offers a chance to relax and enjoy the serenity of the water's edge.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head north and you could enjoy an easy waterside walk or cycle along the Toome Canal. To the west there's the picturesque Lough Fea to visit."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/88vuLXyqvF4?si=m78zbx_HQ3Hc4i9y",
+    "gazetteer_found": false,
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "coastal"],
+    "points_of_interest": ["viewpoint", "harbour", "wetlands"],
+    "facilities": ["interpretative signs"],
+    "route_type": "circular",
+    "activities": ["walking"],
+    "nominatim_found": true,
+    "display_address": "Ballyronan Marina, Ballyronan, Mid-Ulster District, County Londonderry, Northern Ireland / Tuaisceart \u00c9ireann, BT45 6JA, United Kingdom",
+    "postcode": "BT45 6JA",
+    "district": "Ballyronan",
+    "county": null,
+    "region": null,
+    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+    "country": "United Kingdom"
 }

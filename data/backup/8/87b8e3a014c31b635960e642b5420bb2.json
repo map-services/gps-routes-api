@@ -65,8 +65,8 @@
   "postcode": "HP21 7FS",
   "district": "Aylesbury",
   "county": "Buckinghamshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -87,5 +87,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Kingfisher House, 61, Walton Street, Walton, Aylesbury, Buckinghamshire, England, HP21 7FS, United Kingdom",
+  "state": "England"
 }

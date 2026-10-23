@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/bn7mBdMcV0o?si=-s2ktsIQKf4BdRQq",
   "county": "North Ayrshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -78,5 +78,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Beach Drive, Irvine Harbour, Fullarton, Irvine, North Ayrshire, Alba / Scotland, KA12 8FB, United Kingdom",
+  "postcode": "KA12 8FB",
+  "district": "Irvine",
+  "state": "Alba / Scotland"
 }

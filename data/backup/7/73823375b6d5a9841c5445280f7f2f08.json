@@ -33,8 +33,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/2mRW4cjojfQ?si=ioOHBstaCVkm5k-N",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -52,5 +52,10 @@
   "activities": [
     "walking",
     "dog friendly"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Penwood Forest, Penwood, Highclere, Penwood, Basingstoke and Deane, Hampshire, England, RG20 9EP, United Kingdom",
+  "postcode": "RG20 9EP",
+  "district": "Basingstoke and Deane",
+  "state": "England"
 }

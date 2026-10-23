@@ -68,9 +68,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/CAf_9FWct5Y?si=N0YljQNnLFNqBA_6",
   "postcode": "NP13 1AQ",
-  "county": "Blaenau Gwent - Blaenau Gwent",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Blaenau Gwent",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -89,5 +89,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Abertillery, Cwmtillery, Blaenau Gwent, Cymru / Wales, NP13 1AQ, United Kingdom",
+  "district": "Cwmtillery",
+  "state": "Cymru / Wales"
 }

@@ -1,106 +1,96 @@
 {
-  "created_at": "2025-01-06T18:49:52.470349+00:00",
-  "objectID": "a074ebf1a26c4c8742aae88941eb317f",
-  "ref": "barna-woods-walking-route",
-  "title": "Barna Woods\u00a0Walk Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barna_Woods_-_geograph.org.uk_-_1249263.jpg",
-  "nearby": [
-    {
-      "description": "Galway",
-      "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
-      "ref": "galway-walking-route"
+    "created_at": "2025-01-06T18:49:52.470349+00:00",
+    "objectID": "a074ebf1a26c4c8742aae88941eb317f",
+    "ref": "barna-woods-walking-route",
+    "title": "Barna Woods Walk Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barna_Woods_-_geograph.org.uk_-_1249263.jpg",
+    "nearby": [
+        {
+            "description": "Galway",
+            "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
+            "ref": "galway-walking-route"
+        },
+        {
+            "description": "Oughterard Wind Farm Walk",
+            "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
+            "ref": "oughterard-wind-farm-walk-walking-route"
+        },
+        {
+            "description": "Mount Gable",
+            "objectID": "cc1c4ea5665ca8e0b76cbb7aed15fadf",
+            "ref": "mount-gable-walking-route"
+        },
+        {
+            "description": "Spiddal",
+            "objectID": "c9eee44544268abf342d517ba9c4979e",
+            "ref": "spiddal-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a074ebf1a26c4c8742aae88941eb317f.gpx",
+    "_geoloc": {
+        "lat": 53.25837,
+        "lng": -9.132
     },
-    {
-      "description": "Oughterard Wind Farm Walk",
-      "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
-      "ref": "oughterard-wind-farm-walk-walking-route"
-    },
-    {
-      "description": "Mount Gable",
-      "objectID": "cc1c4ea5665ca8e0b76cbb7aed15fadf",
-      "ref": "mount-gable-walking-route"
-    },
-    {
-      "description": "Spiddal",
-      "objectID": "c9eee44544268abf342d517ba9c4979e",
-      "ref": "spiddal-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a074ebf1a26c4c8742aae88941eb317f.gpx",
-  "_geoloc": {
-    "lat": 53.25837,
-    "lng": -9.132
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barna_Woods_-_geograph.org.uk_-_1249263.jpg",
-      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Barna Woods. At the end of the woodland path you enter playing fields."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Barna_Woods_-_geograph.org.uk_-_1249245.jpg",
-      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Barna Woods"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rusheen_Bay_-_geograph.org.uk_-_4313367.jpg",
-      "title": "Rusheen Bay by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Rusheen Bay"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Light_at_Bearna_%28Barna%29_church_-_geograph.org.uk_-_1252273.jpg",
-      "title": "Graham Horn / Light at Bearna (Barna) church",
-      "caption": "Light at Bearna (Barna) church. This light is in the grounds of the church. But it appears to be a convenient place to have placed a light for vessels in Galway Bay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Silverstrand_beach_-_geograph.org.uk_-_4316030.jpg",
-      "title": "Silverstrand beach by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Silverstrand beach"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flats_at_Barna_Demesne_-_geograph.org.uk_-_1273296.jpg",
-      "title": "Rick Crowley / Flats at Barna Demesne",
-      "caption": "Flats at Barna Demesne"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This walk visits Barna Woods in the coastal village of Barna in Galway. The mixed broadleaf woodland is a popular place for a walk with miles of trails taking you through the attractive woodland. On the way there's streams, little bridges and lots of woodland birds to look out for. On the coastal (southern) side of the woods you can also enjoy some lovely views over the picturesque Rusheen Bay. Also to the south is the pretty Silverstrand beach, another nice place for a stroll in the area. To continue your walking around Barna head east to visit Galway and enjoy a riverside walk along the River Corrib Walk.",
-  "details": [
-    {
-      "subtitle": "Dog Walking",
-      "content": "The woods are ideal for a dog walk so you will probably meet other owners on your visit."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the west is the pretty village of Spiddal where there's a pleasant walk around the harbour and the beach."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/oQlj4veIpdQ?si=zAygFi-XsGV7832o",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Barna Road, Knocknacarra, Barna, Cathair na Gaillimhe, County Galway, Connacht, H91 R6PW, \u00c9ire / Ireland",
-  "postcode": "H91 R6PW",
-  "district": "Cathair na Gaillimhe",
-  "county": "County Galway",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "coastal"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "beach"
-  ],
-  "facilities": [
-    "dog friendly"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barna_Woods_-_geograph.org.uk_-_1249263.jpg",
+            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Barna Woods. At the end of the woodland path you enter playing fields."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Barna_Woods_-_geograph.org.uk_-_1249245.jpg",
+            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Barna Woods"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rusheen_Bay_-_geograph.org.uk_-_4313367.jpg",
+            "title": "Rusheen Bay by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Rusheen Bay"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Light_at_Bearna_%28Barna%29_church_-_geograph.org.uk_-_1252273.jpg",
+            "title": "Graham Horn / Light at Bearna (Barna) church",
+            "caption": "Light at Bearna (Barna) church. This light is in the grounds of the church. But it appears to be a convenient place to have placed a light for vessels in Galway Bay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Silverstrand_beach_-_geograph.org.uk_-_4316030.jpg",
+            "title": "Silverstrand beach by Ian Capper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Silverstrand beach"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flats_at_Barna_Demesne_-_geograph.org.uk_-_1273296.jpg",
+            "title": "Rick Crowley / Flats at Barna Demesne",
+            "caption": "Flats at Barna Demesne"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This walk visits Barna Woods in the coastal village of Barna in Galway. The mixed broadleaf woodland is a popular place for a walk with miles of trails taking you through the attractive woodland. On the way there's streams, little bridges and lots of woodland birds to look out for. On the coastal (southern) side of the woods you can also enjoy some lovely views over the picturesque Rusheen Bay. Also to the south is the pretty Silverstrand beach, another nice place for a stroll in the area. To continue your walking around Barna head east to visit Galway and enjoy a riverside walk along the River Corrib Walk.",
+    "details": [
+        {
+            "subtitle": "Dog Walking",
+            "content": "The woods are ideal for a dog walk so you will probably meet other owners on your visit."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the west is the pretty village of Spiddal where there's a pleasant walk around the harbour and the beach."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/oQlj4veIpdQ?si=zAygFi-XsGV7832o",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Barna Road, Knocknacarra, Barna, Cathair na Gaillimhe, County Galway, Connacht, H91 R6PW, \u00c9ire / Ireland",
+    "postcode": "H91 R6PW",
+    "district": "Cathair na Gaillimhe",
+    "county": "County Galway",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "coastal"],
+    "points_of_interest": ["viewpoint", "beach"],
+    "facilities": ["dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

@@ -33,9 +33,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/TPqH1TAwk3k?si=oj6aLYHzThdlJYdX",
   "postcode": "HR6 9LQ",
-  "county": "County of Herefordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "county": "Herefordshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -53,5 +53,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Staunton on Arrow, Herefordshire, England, HR6 9LQ, United Kingdom",
+  "district": "Staunton on Arrow",
+  "state": "England"
 }

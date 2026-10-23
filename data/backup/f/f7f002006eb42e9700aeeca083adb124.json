@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/FJR2eFNmAKs?si=VqLlhgkuusL3zVNQ",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -76,5 +76,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Scotsburn Road, Tain, Highland, Alba / Scotland, IV19 1NG, United Kingdom",
+  "postcode": "IV19 1NG",
+  "district": "Tain",
+  "state": "Alba / Scotland"
 }

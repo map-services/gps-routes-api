@@ -93,10 +93,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/y6NJ4SIngWA",
   "postcode": "BN6 8ST",
-  "district": "Ditchling",
+  "district": "Lewes",
   "county": "East Sussex",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -118,5 +118,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "18, East Gardens, Ditchling, Lewes, East Sussex, England, BN6 8ST, United Kingdom",
+  "state": "England"
 }

@@ -41,10 +41,10 @@
   "distance_km": 3.7,
   "description": "This walk takes you from the village of Leigh to the historic Penshurst Place in Kent. The route is a good way of reaching Penshurst by public transport as you can start of from Leigh Railway Station. It's just over a 2 mile walk on a fairly flat path. From the station you can directly pick up the waymarked Eden Valley Walk and follow it south west to the site. You'll pass through woodland and countryside before arriving at Penshurst where you can explore the lovely parkland and gardens surrounding the 14th century house.",
   "details": [],
-  "district": "Leigh",
+  "district": "Sevenoaks",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -64,5 +64,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Lower Green, Leigh, Sevenoaks, Kent, England, TN11 8RN, United Kingdom",
+  "postcode": "TN11 8RN",
+  "state": "England"
 }

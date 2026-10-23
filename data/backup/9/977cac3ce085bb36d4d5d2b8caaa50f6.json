@@ -24,9 +24,9 @@
   "distance_km": 11.0,
   "description": "This walk takes you from the lovely beach at Mwnt to the neighbouring settlements of Gwbert and Cardigan. The walk runs for around 7 miles mainly following the stunning Ceredigion coast but with a section through the countryside around Gwbert. Along the way you can enjoy wonderful sea views, look out for a variety of sea birds and see some wonderful cliff top rock formations.",
   "details": [],
-  "county": "Sir Ceredigion - Ceredigion",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Ceredigion",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -43,5 +43,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Mwnt, Y Ferwig, Ceredigion, Cymru / Wales, SA43 1QH, United Kingdom",
+  "postcode": "SA43 1QH",
+  "district": null,
+  "state": "Cymru / Wales"
 }

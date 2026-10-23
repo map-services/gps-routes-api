@@ -34,8 +34,8 @@
   "video_url": "https://www.youtube.com/embed/xOlczO4ktUc?si=23_blNMQPJjVX3xy",
   "postcode": "IP12 2EH",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -53,5 +53,9 @@
   "activities": [
     "walking",
     "birdwatching"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B1069, Tunstall, East Suffolk, Suffolk, England, IP12 2EH, United Kingdom",
+  "district": "East Suffolk",
+  "state": "England"
 }

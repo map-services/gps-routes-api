@@ -52,10 +52,10 @@
   "description": "This walk takes you from Flint to Prestatyn along a fine section of the Wales Coast Path. Starting from the historic Flint Castle the route heads north west to Prestatyn via Holywell, the photogenic lighthouse at Point of Ayr, Talacre and the Gronant Dunes Nature Reserve. Along the way there are excellent coastal views, lovely beaches and lots of sea birds to look out for. The route runs for just over 17 miles along a flat, easy path so is suitable for most abilities.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/TEqfH4zj7ZU?si=hod3mfenzsVVxFhl",
-  "district": "Y Fflint / Flint",
-  "county": "Sir y Fflint - Flintshire",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Flint",
+  "county": "Flintshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 45 minutes",
@@ -72,5 +72,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Castell y Fflint, Castle Dyke Street, Flint, Flintshire, Cymru / Wales, CH6 5PE, United Kingdom",
+  "postcode": "CH6 5PE",
+  "state": "Cymru / Wales"
 }

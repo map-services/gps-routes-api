@@ -1,111 +1,101 @@
 {
-  "created_at": "2025-01-06T07:54:44.997493+00:00",
-  "objectID": "bbe088a78a459023f196e957b3474685",
-  "ref": "arthington-viaduct-walking-route",
-  "title": "Arthington Viaduct Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Arthington_Viaduct.jpg/500px-Arthington_Viaduct.jpg",
-  "nearby": [
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
+    "created_at": "2025-01-06T07:54:44.997493+00:00",
+    "objectID": "bbe088a78a459023f196e957b3474685",
+    "ref": "arthington-viaduct-walking-route",
+    "title": "Arthington Viaduct Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Arthington_Viaduct.jpg/500px-Arthington_Viaduct.jpg",
+    "nearby": [
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Harewood House",
+            "objectID": "9ae5294687aac3c9a44ba436873002b5",
+            "ref": "harewood-house-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Almscliffe Crag",
+            "objectID": "6b13adeb8c347d49ce46f4a1c65353a2",
+            "ref": "almscliffe-crag-walking-route"
+        },
+        {
+            "description": "Otley Chevin Country Park",
+            "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
+            "ref": "otley-chevin-country-park-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bbe088a78a459023f196e957b3474685.gpx",
+    "_geoloc": {
+        "lat": 53.9049412443,
+        "lng": -1.602629442
     },
-    {
-      "description": "Harewood House",
-      "objectID": "9ae5294687aac3c9a44ba436873002b5",
-      "ref": "harewood-house-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Almscliffe Crag",
-      "objectID": "6b13adeb8c347d49ce46f4a1c65353a2",
-      "ref": "almscliffe-crag-walking-route"
-    },
-    {
-      "description": "Otley Chevin Country Park",
-      "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
-      "ref": "otley-chevin-country-park-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bbe088a78a459023f196e957b3474685.gpx",
-  "_geoloc": {
-    "lat": 53.9049412443,
-    "lng": -1.602629442
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Arthington_Viaduct.jpg/500px-Arthington_Viaduct.jpg",
-      "title": "User:TJBlackwell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "This is a panoramic shot of the Arthington Viaduct taken from the farmer's fields on the north side of the river Wharfe, just south of Castley in West Yorkshire. It is a sandstone 21-arch bridge spanning the Wharfe valley, engineered by James Bray for the Leeds and Thirsk Railway circa 1850. The structure of the viaduct is unelaborate but its simple geometry is breathtakingly beautiful. It is unusual in that it is built along a curved path."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Arthington_Viaduct_from_Arthington_hall._-_geograph.org.uk_-_267335.jpg",
-      "title": "Bill Henderson / Arthington Viaduct from Arthington hall.",
-      "caption": "Arthington Viaduct from Arthington hall."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/From_the_Wharfe_viaduct_-_geograph.org.uk_-_535277.jpg",
-      "title": "DS Pugh / From the Wharfe viaduct",
-      "caption": "From the Wharfe viaduct"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wharfedale_Viaduct_%28northern_section%29.jpg/500px-Wharfedale_Viaduct_%28northern_section%29.jpg",
-      "title": "Pxyshut, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Wharfedale Viaduct"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_view_from_Almscliff_Crag_to_the_Arthington_Viaduct_-_geograph.org.uk_-_2947701.jpg/500px-The_view_from_Almscliff_Crag_to_the_Arthington_Viaduct_-_geograph.org.uk_-_2947701.jpg",
-      "title": "The view from Almscliff Crag to the Arthington Viaduct by John M Wheatley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The view from Almscliff Crag to the Arthington Viaduct"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/River_Wharfe%2C_Castley.jpg",
-      "title": "Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "River Wharfe, Castley"
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "This walk visits the Arthington Viaduct or Wharfedale Viaduct near Leeds in North Yorkshire. The photogenic Grade II listed structure was built in 1845 and is (460 m) in length, with 21 semi-circular arches on high piers. You can park at the end of Warren Lane which runs up to the viaduct on the south side of the river. Around here there's some grassy footpaths running along the River Wharfe with great views over the surrounding Wharfedale countryside. For a longer walk you could start of at nearby Bramhope and follow Warren Lane north through the countryside to the site. You can extend the walk by heading south to pick up the Dales Way Link and following it east to visit Harewood House and Eccup Reservoir. To the north you could climb to Almscliffe Crag for some wonderful views to the viaduct. other viaduc",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Hunters Inn is located just to the north of the viaduct. They serve a good selection of real ales and do a fine Sunday lunch. They are also dog friendly. You can find the inn at Harrogate Rd, LS21 2PS."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the west you'll find one of the highlights of the area at Otley Chevin Country Park. There's some excellent cycling and walking routes with fine views over the area from the park's high points."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/g4q8mYgPpm4",
-  "postcode": "LS21 1NY",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Warren Lane, Arthington, West Yorkshire, England, LS21 1NY, United Kingdom",
-  "district": "Arthington",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "grassy"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Arthington_Viaduct.jpg/500px-Arthington_Viaduct.jpg",
+            "title": "User:TJBlackwell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "This is a panoramic shot of the Arthington Viaduct taken from the farmer's fields on the north side of the river Wharfe, just south of Castley in West Yorkshire. It is a sandstone 21-arch bridge spanning the Wharfe valley, engineered by James Bray for the Leeds and Thirsk Railway circa 1850. The structure of the viaduct is unelaborate but its simple geometry is breathtakingly beautiful. It is unusual in that it is built along a curved path."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Arthington_Viaduct_from_Arthington_hall._-_geograph.org.uk_-_267335.jpg",
+            "title": "Bill Henderson / Arthington Viaduct from Arthington hall.",
+            "caption": "Arthington Viaduct from Arthington hall."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/From_the_Wharfe_viaduct_-_geograph.org.uk_-_535277.jpg",
+            "title": "DS Pugh / From the Wharfe viaduct",
+            "caption": "From the Wharfe viaduct"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wharfedale_Viaduct_%28northern_section%29.jpg/500px-Wharfedale_Viaduct_%28northern_section%29.jpg",
+            "title": "Pxyshut, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Wharfedale Viaduct"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_view_from_Almscliff_Crag_to_the_Arthington_Viaduct_-_geograph.org.uk_-_2947701.jpg/500px-The_view_from_Almscliff_Crag_to_the_Arthington_Viaduct_-_geograph.org.uk_-_2947701.jpg",
+            "title": "The view from Almscliff Crag to the Arthington Viaduct by John M Wheatley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The view from Almscliff Crag to the Arthington Viaduct"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/River_Wharfe%2C_Castley.jpg",
+            "title": "Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "River Wharfe, Castley"
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "This walk visits the Arthington Viaduct or Wharfedale Viaduct near Leeds in North Yorkshire. The photogenic Grade II listed structure was built in 1845 and is (460 m) in length, with 21 semi-circular arches on high piers. You can park at the end of Warren Lane which runs up to the viaduct on the south side of the river. Around here there's some grassy footpaths running along the River Wharfe with great views over the surrounding Wharfedale countryside. For a longer walk you could start of at nearby Bramhope and follow Warren Lane north through the countryside to the site. You can extend the walk by heading south to pick up the Dales Way Link and following it east to visit Harewood House and Eccup Reservoir. To the north you could climb to Almscliffe Crag for some wonderful views to the viaduct. other viaduc",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Hunters Inn is located just to the north of the viaduct. They serve a good selection of real ales and do a fine Sunday lunch. They are also dog friendly. You can find the inn at Harrogate Rd, LS21 2PS."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the west you'll find one of the highlights of the area at Otley Chevin Country Park. There's some excellent cycling and walking routes with fine views over the area from the park's high points."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/g4q8mYgPpm4",
+    "postcode": "LS21 1NY",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Warren Lane, Arthington, West Yorkshire, England, LS21 1NY, United Kingdom",
+    "district": "Arthington",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["grassy"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

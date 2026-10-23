@@ -41,11 +41,11 @@
   "distance_km": 4.7,
   "description": "This walk takes you from Chesham to Amersham in South Buckinghamshire. The walk starts in Chesham and head south east along the Chess Valley Walk. The pleasant riverside trail will take you past Chessmount before turning south to follow minor roads into Amersham. Along the way there are some lovely views of the countryside and hills of the Chess Valley.",
   "details": [],
-  "postcode": "HP5 1BP",
+  "postcode": "HP5 1BU",
   "district": "Chesham",
   "county": "Buckinghamshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
@@ -60,5 +60,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "High Street, Old Town, Chesham, Chesham and Villages Community Board, Lye Green, Buckinghamshire, England, HP5 1BU, United Kingdom",
+  "state": "England"
 }

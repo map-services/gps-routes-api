@@ -33,8 +33,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/p6TANWk-zu8?si=FK8g0R7Ivge45Jqd",
   "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -53,5 +53,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Thornhill, Dumfries and Galloway, Alba / Scotland, DG3 5EH, United Kingdom",
+  "postcode": "DG3 5EH",
+  "district": "Thornhill",
+  "state": "Alba / Scotland"
 }

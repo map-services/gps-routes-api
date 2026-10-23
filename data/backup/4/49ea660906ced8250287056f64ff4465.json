@@ -64,8 +64,8 @@
   "video_url": "https://www.youtube.com/embed/kAFdVAOkhYs?si=Yi69fuOaaew0CIVz",
   "district": "Ellesmere Port",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -85,5 +85,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Oil Sites Road, Wolverham, Ellesmere Port, Cheshire West and Chester, England, CH65 4TY, United Kingdom",
+  "postcode": "CH65 4TY",
+  "state": "England"
 }

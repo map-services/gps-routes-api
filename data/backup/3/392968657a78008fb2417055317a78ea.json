@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/g0oCOHnOzrk?si=VBYTudtNC1OeYJk3",
   "district": "Lacock",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -61,5 +61,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Red Lion, 1, High Street, Reybridge, Lacock, Wiltshire, England, SN15 2LF, United Kingdom",
+  "postcode": "SN15 2LF",
+  "state": "England"
 }

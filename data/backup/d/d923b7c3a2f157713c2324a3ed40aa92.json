@@ -63,8 +63,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/ptmBlikf7pU?si=iW14zla9n1PbL4Be",
   "county": "Shropshire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -82,5 +82,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Longnor, Cardington, Shropshire, England, SY5 7QJ, United Kingdom",
+  "postcode": "SY5 7QJ",
+  "district": "Cardington",
+  "state": "England"
 }

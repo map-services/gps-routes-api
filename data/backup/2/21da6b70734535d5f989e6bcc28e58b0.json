@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/mM7C_Pw7OL8?si=UkTu08_fkv1KdZiD",
   "county": "Essex",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -66,5 +66,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Broomway, Great Wakering, Rochford, Essex, England, United Kingdom",
+  "postcode": null,
+  "district": "Rochford",
+  "state": "England"
 }

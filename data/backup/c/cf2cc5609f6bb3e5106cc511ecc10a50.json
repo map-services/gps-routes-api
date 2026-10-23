@@ -1,122 +1,110 @@
 {
-  "created_at": "2025-01-06T00:31:50.198720+00:00",
-  "objectID": "cf2cc5609f6bb3e5106cc511ecc10a50",
-  "ref": "pitfichie-forest-walking-route",
-  "title": "Pitfichie\u00a0Forest Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rose_Cottage%2C_Tillyfourie_-_geograph.org.uk_-_453857.jpg",
-  "nearby": [
-    {
-      "description": "Loch of Skene",
-      "objectID": "9ef312b0991ae25563fb7107bdead5ed",
-      "ref": "loch-of-skene-walking-route"
+    "created_at": "2025-01-06T00:31:50.198720+00:00",
+    "objectID": "cf2cc5609f6bb3e5106cc511ecc10a50",
+    "ref": "pitfichie-forest-walking-route",
+    "title": "Pitfichie Forest Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rose_Cottage%2C_Tillyfourie_-_geograph.org.uk_-_453857.jpg",
+    "nearby": [
+        {
+            "description": "Loch of Skene",
+            "objectID": "9ef312b0991ae25563fb7107bdead5ed",
+            "ref": "loch-of-skene-walking-route"
+        },
+        {
+            "description": "Kirkhill Forest",
+            "objectID": "0742ef64453ebea319082d0f4fd09f2e",
+            "ref": "kirkhill-forest-walking-and-cycle-route"
+        },
+        {
+            "description": "Balmedie Country Park",
+            "objectID": "9ea2741595a128b7ae026181013eb1f4",
+            "ref": "balmedie-country-park-walking-route"
+        },
+        {
+            "description": "Bennachie Walks",
+            "objectID": "9dd742f2ffb79ae579ddd69110dd8a13",
+            "ref": "bennachie-walks-walking-route"
+        },
+        {
+            "description": "Haughton Country Park",
+            "objectID": "b61116e9d8cd5efac84c5d934ff6e747",
+            "ref": "haughton-country-park-walking-route"
+        },
+        {
+            "description": "Drum Castle",
+            "objectID": "bc54dcae3e2cf54ef556cf5ce63602df",
+            "ref": "drum-castle-walking-route"
+        },
+        {
+            "description": "Castle Fraser",
+            "objectID": "b3ea11a60464e219c5501a3859134de7",
+            "ref": "castle-fraser-walking-route"
+        },
+        {
+            "description": "Aberdeen",
+            "objectID": "093204bbc7d05250acf3f1985dc93c4f",
+            "ref": "aberdeen-walking-route"
+        },
+        {
+            "description": "Craigievar Castle",
+            "objectID": "5cb7fef24b4ec4f207278d410d95f21d",
+            "ref": "craigievar-castle-walking-route"
+        },
+        {
+            "description": "Inverurie",
+            "objectID": "8ce79c0e1eaaa61f40b93be0c16723b9",
+            "ref": "inverurie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cf2cc5609f6bb3e5106cc511ecc10a50.gpx",
+    "_geoloc": {
+        "lat": 57.208387906,
+        "lng": -2.5731164848
     },
-    {
-      "description": "Kirkhill Forest",
-      "objectID": "0742ef64453ebea319082d0f4fd09f2e",
-      "ref": "kirkhill-forest-walking-and-cycle-route"
-    },
-    {
-      "description": "Balmedie Country Park",
-      "objectID": "9ea2741595a128b7ae026181013eb1f4",
-      "ref": "balmedie-country-park-walking-route"
-    },
-    {
-      "description": "Bennachie Walks",
-      "objectID": "9dd742f2ffb79ae579ddd69110dd8a13",
-      "ref": "bennachie-walks-walking-route"
-    },
-    {
-      "description": "Haughton Country Park",
-      "objectID": "b61116e9d8cd5efac84c5d934ff6e747",
-      "ref": "haughton-country-park-walking-route"
-    },
-    {
-      "description": "Drum Castle",
-      "objectID": "bc54dcae3e2cf54ef556cf5ce63602df",
-      "ref": "drum-castle-walking-route"
-    },
-    {
-      "description": "Castle Fraser",
-      "objectID": "b3ea11a60464e219c5501a3859134de7",
-      "ref": "castle-fraser-walking-route"
-    },
-    {
-      "description": "Aberdeen",
-      "objectID": "093204bbc7d05250acf3f1985dc93c4f",
-      "ref": "aberdeen-walking-route"
-    },
-    {
-      "description": "Craigievar Castle",
-      "objectID": "5cb7fef24b4ec4f207278d410d95f21d",
-      "ref": "craigievar-castle-walking-route"
-    },
-    {
-      "description": "Inverurie",
-      "objectID": "8ce79c0e1eaaa61f40b93be0c16723b9",
-      "ref": "inverurie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cf2cc5609f6bb3e5106cc511ecc10a50.gpx",
-  "_geoloc": {
-    "lat": 57.208387906,
-    "lng": -2.5731164848
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rose_Cottage%2C_Tillyfourie_-_geograph.org.uk_-_453857.jpg",
-      "title": "Stanley Howe / Rose Cottage, Tillyfourie",
-      "caption": "Rose Cottage, Tillyfourie"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Whitehills_Stone_Circle_-_geograph.org.uk_-_247004.jpg",
-      "title": "Chris Lodge / Whitehills Stone Circle",
-      "caption": "Whitehills Stone Circle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Tillyfourie_Hill_from_A944_-_geograph.org.uk_-_387578.jpg",
-      "title": "Stanley Howe / Tillyfourie Hill from A944",
-      "caption": "Tillyfourie Hill from A944"
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This walk visits the Whitehills Stone Circle and Bogmore Wood from Pitfichie Forest car park. It's a very peaceful area with woodland trails and an ancient site to see. You can start the walk from the Pitfichie Forest Car Park, just to the east of the site. Then follow footpaths west up past Tillyfourie Hill and the Whitehills Stone Circle. The circle dates from the late Neolithic period and was probably constructed for ceremonial purposes, from 2000-3000 B.C. It's a photogenic spot with some attractive heathland and moorland surrounding the stones. Head south east of the site and you can continue your walking around Aberdeenshire at the lovely Loch of Skene. **N.B Please do not go into the nearby Tillyfourie quarry as this is private land and unsafe. Please stick to the woodland trails leading to the stone circle.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "If you head east into nearby Monymusk you could enjoy some post walk refreshment at the Grant Arms Cafe. They have a good selection of cakes and a nice courtyard to relax in. You can find them at The Square, Monymusk with postcode AB51 7HJ."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head east and there's more fine cycling and walking trails to be found in the expansive Kirkhill Forest near Aberdeen. The historic Drum Castle is also nearby and well worth a visit. A few miles to the east there's the National Trust's Castle Fraser in Inverurie. The stunning 15th century castle is surrounded by some beautiful gardens and landscaped grounds. Just to the south west there's the 16th century Craigievar Castle. Here you can explore the attractive grounds of a pink fairytale castle, thought to have been the inspiration for Walt Disney\u2019s Cinderella Castle."
-    }
-  ],
-  "postcode": "AB51 7SS",
-  "county": "Aberdeenshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Whitehills Private Track, Aberdeenshire, Alba / Scotland, AB51 7SS, United Kingdom",
-  "district": null,
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "heathland",
-    "moorland"
-  ],
-  "points_of_interest": [
-    "stone circle",
-    "loch"
-  ],
-  "facilities": [
-    "car park",
-    "pub/cafe"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rose_Cottage%2C_Tillyfourie_-_geograph.org.uk_-_453857.jpg",
+            "title": "Stanley Howe / Rose Cottage, Tillyfourie",
+            "caption": "Rose Cottage, Tillyfourie"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Whitehills_Stone_Circle_-_geograph.org.uk_-_247004.jpg",
+            "title": "Chris Lodge / Whitehills Stone Circle",
+            "caption": "Whitehills Stone Circle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Tillyfourie_Hill_from_A944_-_geograph.org.uk_-_387578.jpg",
+            "title": "Stanley Howe / Tillyfourie Hill from A944",
+            "caption": "Tillyfourie Hill from A944"
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This walk visits the Whitehills Stone Circle and Bogmore Wood from Pitfichie Forest car park. It's a very peaceful area with woodland trails and an ancient site to see. You can start the walk from the Pitfichie Forest Car Park, just to the east of the site. Then follow footpaths west up past Tillyfourie Hill and the Whitehills Stone Circle. The circle dates from the late Neolithic period and was probably constructed for ceremonial purposes, from 2000-3000 B.C. It's a photogenic spot with some attractive heathland and moorland surrounding the stones. Head south east of the site and you can continue your walking around Aberdeenshire at the lovely Loch of Skene. **N.B Please do not go into the nearby Tillyfourie quarry as this is private land and unsafe. Please stick to the woodland trails leading to the stone circle.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "If you head east into nearby Monymusk you could enjoy some post walk refreshment at the Grant Arms Cafe. They have a good selection of cakes and a nice courtyard to relax in. You can find them at The Square, Monymusk with postcode AB51 7HJ."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head east and there's more fine cycling and walking trails to be found in the expansive Kirkhill Forest near Aberdeen. The historic Drum Castle is also nearby and well worth a visit. A few miles to the east there's the National Trust's Castle Fraser in Inverurie. The stunning 15th century castle is surrounded by some beautiful gardens and landscaped grounds. Just to the south west there's the 16th century Craigievar Castle. Here you can explore the attractive grounds of a pink fairytale castle, thought to have been the inspiration for Walt Disney\u2019s Cinderella Castle."
+        }
+    ],
+    "postcode": "AB51 7SS",
+    "county": "Aberdeenshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Whitehills Private Track, Aberdeenshire, Alba / Scotland, AB51 7SS, United Kingdom",
+    "district": null,
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "heathland", "moorland"],
+    "points_of_interest": ["stone circle", "loch"],
+    "facilities": ["car park", "pub/cafe"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

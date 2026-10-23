@@ -55,8 +55,8 @@
   "postcode": "BA11 2HE",
   "district": "Frome",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -75,5 +75,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "China Capital, 21, Fromefield, Frome, Somerset, England, BA11 2HE, United Kingdom",
+  "state": "England"
 }

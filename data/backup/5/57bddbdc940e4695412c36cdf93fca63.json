@@ -57,8 +57,8 @@
     }
   ],
   "county": "Surrey",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -75,5 +75,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Woodhill Lane, Stroud Common, Wonersh, Shamley Green, Waverley, Surrey, England, GU5 0SP, United Kingdom",
+  "postcode": "GU5 0SP",
+  "district": "Waverley",
+  "state": "England"
 }

@@ -83,8 +83,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/B7kQoIFESYI?si=0yNX4fjAQAwX3Qd2",
   "county": "Dorset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -102,5 +102,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Beach Road, Burton Bradstock, Dorset, England, DT6 4RF, United Kingdom",
+  "postcode": "DT6 4RF",
+  "district": "Burton Bradstock",
+  "state": "England"
 }

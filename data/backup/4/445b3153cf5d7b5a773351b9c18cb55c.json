@@ -47,8 +47,8 @@
   "description": "This is a nice peaceful woodland walk in the Bedfordshire village of Langford. The woods are located just to the west of the village and includes miles of pleasant woodland trails. The site also includes a pretty pond and countryside views from the edges. You can start the circular walk from the car park off Stanford Lane. It's a fine place for a peaceful dog walk.",
   "details": [],
   "county": "Central Bedfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 15 minutes",
@@ -67,5 +67,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Langford Road, Newtown, Henlow, Central Bedfordshire, England, SG16 6AG, United Kingdom",
+  "postcode": "SG16 6AG",
+  "district": "Henlow",
+  "state": "England"
 }

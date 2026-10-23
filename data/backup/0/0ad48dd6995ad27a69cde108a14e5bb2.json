@@ -93,8 +93,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/U4Urb03FrDE?si=cLWjHwVFKSJwM1rk",
   "county": "Dorset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -114,5 +114,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Stonebarrow Lane, Stanton St. Gabriel, Morcombelake, Charmouth, Dorset, England, DT6 6SD, United Kingdom",
+  "postcode": "DT6 6SD",
+  "district": "Morcombelake",
+  "state": "England"
 }

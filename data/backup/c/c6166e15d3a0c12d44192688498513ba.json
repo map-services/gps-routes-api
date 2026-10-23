@@ -57,10 +57,10 @@
   "description": "This walk takes you from Ramsgate to Sandwich and Deal on the Kent coast. The route runs for a distance of about 12.6 miles following the England Coast Path and the Thanet Coastal Path to the lovely Pegwell Bay Country Park. The next section follows roads south to the historic town of Sandwich. You then head east to the coast where you can pick up the coast path to take you into Deal where you can explore the historic castle. Along the way you can enjoy some fine coastal and countryside views.",
   "details": [],
   "postcode": "CT11 8LJ",
-  "district": "Ramsgate",
+  "district": "Thanet",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5-6 hours",
@@ -77,5 +77,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "CT11 25, Military Road, East Cliff, Ramsgate, Pegwell, Thanet, Kent, England, CT11 8LJ, United Kingdom",
+  "state": "England"
 }

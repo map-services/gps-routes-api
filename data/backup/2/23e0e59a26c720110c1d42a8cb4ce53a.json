@@ -63,8 +63,8 @@
   "details": [],
   "district": "Eastleigh",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -80,5 +80,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "56, Pitmore Road, Broom Hill, Allbrook, Eastleigh, Hampshire, England, SO50 4LW, United Kingdom",
+  "postcode": "SO50 4LW",
+  "state": "England"
 }

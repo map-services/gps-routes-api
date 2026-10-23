@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/gXBXZRERLtY?si=XmcvTR4SCwVkEs9V",
   "county": "Staffordshire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 40 minutes",
@@ -69,5 +69,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "McClean Way, Darwin Park, Lichfield, Staffordshire, England, WS14 0GN, United Kingdom",
+  "postcode": "WS14 0GN",
+  "district": "Lichfield",
+  "state": "England"
 }

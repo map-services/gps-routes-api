@@ -47,10 +47,10 @@
   "description": "This walk takes you from Richmond Upon Thames in London to the pretty Box Hill Country Park in Surrey. The route runs for just over 20 miles following the Thames Path and the Thames Down Link waymarked trails. You'll pass through a varied landscape of countryside, woodland and common land.The walk starts in Richmond upon Thames and heads south to Kingston Upon Thames along the Thames Path. At Kingston you pick up theHogsmill Riverand follow it south toEpsom Common,Ashtead Common National Nature Reserve,Horton Country Parkand Mickelham Downs. The route then finishes at Box Hill Country Park where there are some excellent walking trails with fine views over the North Downs Hills. You can also pick up the andNorth Downs WayNational Trail here.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/6o2JqvXgZnM?si=ANRnj8uWxwrs0hyS",
-  "district": "Richmond upon Thames",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
+  "district": "Greater London",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "10 hours",
@@ -70,5 +70,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Richmond Bridge, East Twickenham, Petersham, London Borough of Richmond upon Thames, Greater London, England, TW1 2HY, United Kingdom",
+  "postcode": "TW1 2HY",
+  "state": "England"
 }

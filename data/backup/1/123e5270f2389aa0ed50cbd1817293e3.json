@@ -62,9 +62,9 @@
   "description": "This circular walk explores Glasfynydd Forest in the Brecon Beacons National Park. The expansive forest is located next to the lovely Usk Reservoir. You can follow a series of woodland trails through the woods and along the River Usk, which flows the woods.Look out for Welsh Mountain Ponies and Red Kites as you make our way through this peaceful area.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/6-7U1osjcVQ?si=N6uiXeCitHDr1kvD",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -79,5 +79,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Roman Road, Llywel, Powys, Cymru / Wales, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Cymru / Wales"
 }

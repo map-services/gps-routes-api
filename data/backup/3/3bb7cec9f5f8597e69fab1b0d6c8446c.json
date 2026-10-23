@@ -57,11 +57,11 @@
   "description": "This circular walk visits Yarwell Mill Country Park and Sulehay Woods on the Cambridgeshire/Northamptonshire border. It's a great area for a walk with riverside paths along the River Nene, fine countryside views and peaceful woodland trails to enjoy. You can start the walk from the car park at Yarwell Country Park where there's a weir and a picturesque lock on the River Nene. The route then heads past Nassington before passing through the Old Sulehay Forest Nature Reserve where you can look out for a variety of wildlife. The route then passes the pretty village of Wansford before picking up the Nene Way and returning to the car park.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/h4APcsc60wE?si=KxQMjHPEj2vCH5vW",
-  "postcode": "PE8 6PU",
+  "postcode": "PE8 6ET",
   "district": "Yarwell",
   "county": "North Northamptonshire",
-  "region": "East Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 15 minutes",
@@ -80,5 +80,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Mill Lane, Yarwell Mill Country Park, Yarwell, North Northamptonshire, England, PE8 6ET, United Kingdom",
+  "state": "England"
 }

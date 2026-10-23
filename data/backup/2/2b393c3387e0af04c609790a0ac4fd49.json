@@ -52,9 +52,9 @@
   "description": "This circular walk climbs to Hatterrall Hill which lies in an interesting spot on the England/Wales border in the Black Mountains. The route starts from a small rural access point and gradually ascends through a landscape of open moorland interspersed with rocky outcrops and patches of scrubby vegetation. As you climb, the path reveals dramatic panoramas of the surrounding hills and valleys, with expansive views stretching across the rugged Black Mountains and, on clear days, distant glimpses of the Brecon Beacons and the rolling countryside beyond the border. The location itself is steeped in history and offers a sense of remoteness, where the natural border between two nations adds an extra dimension to the experience. You can continue your walking along the Offa's Dyke Path which runs past the hill.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/Kf2wQ-15Rxs?si=2xN_sw2XzpikjcZx",
-  "county": "Sir Fynwy - Monmouthshire",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Monmouthshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -72,5 +72,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Cwmyoy, Crucorney, Monmouthshire, Cymru / Wales, NP7 7NT, United Kingdom",
+  "postcode": "NP7 7NT",
+  "district": null,
+  "state": "Cymru / Wales"
 }

@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/h4wvxkBvtRs?si=_zKijx8nYWop9r8N",
   "district": "Erlestoke",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -65,5 +65,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B3098, Erlestoke, Wiltshire, England, SN10 5TX, United Kingdom",
+  "postcode": "SN10 5TX",
+  "state": "England"
 }

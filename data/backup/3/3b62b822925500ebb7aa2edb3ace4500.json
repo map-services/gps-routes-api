@@ -43,8 +43,8 @@
   "details": [],
   "postcode": "BH19 3BA",
   "county": "Dorset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "multiple days",
@@ -62,5 +62,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Ferry Road, Studland, Dorset, England, BH19 3BA, United Kingdom",
+  "district": null,
+  "state": "England"
 }

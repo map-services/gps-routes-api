@@ -1,131 +1,120 @@
 {
-  "created_at": "2025-01-06T02:57:28.791152+00:00",
-  "objectID": "d99bba3166f1203674db651b1c417d29",
-  "ref": "grafham-water-circular-ride-walking-and-cycle-route",
-  "title": "Grafham Water Circular Ride Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Grafham_Water_-_geograph.org.uk_-_536564.jpg",
-  "nearby": [
-    {
-      "description": "Brampton Wood",
-      "objectID": "b924924c598626d8d2a8a64881ee4b15",
-      "ref": "brampton-wood-walking-route "
+    "created_at": "2025-01-06T02:57:28.791152+00:00",
+    "objectID": "d99bba3166f1203674db651b1c417d29",
+    "ref": "grafham-water-circular-ride-walking-and-cycle-route",
+    "title": "Grafham Water Circular Ride Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Grafham_Water_-_geograph.org.uk_-_536564.jpg",
+    "nearby": [
+        {
+            "description": "Brampton Wood",
+            "objectID": "b924924c598626d8d2a8a64881ee4b15",
+            "ref": "brampton-wood-walking-route-"
+        },
+        {
+            "description": "The Three Shires Way",
+            "objectID": "acbe1acfa6e06f07542a036e2866c18c",
+            "ref": "the-three-shires-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Paxton Pits",
+            "objectID": "7bb52ab81d3ee4aa1fc3bdb4c5668704",
+            "ref": "paxton-pits-walking-route"
+        },
+        {
+            "description": "Kimbolton",
+            "objectID": "20e32d686bbf5c9b5fd97488d4f77bde",
+            "ref": "kimbolton-walking-route"
+        },
+        {
+            "description": "Huntingdon",
+            "objectID": "86d999d7cfbc0e6601832a8e70678876",
+            "ref": "huntingdon-walking-route"
+        },
+        {
+            "description": "St Neots",
+            "objectID": "16c48ff4ff3923e2b952bb9976eb0cef",
+            "ref": "st-neots-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d99bba3166f1203674db651b1c417d29.gpx",
+    "_geoloc": {
+        "lat": 52.2969733512,
+        "lng": -0.2893743724
     },
-    {
-      "description": "The Three Shires Way",
-      "objectID": "acbe1acfa6e06f07542a036e2866c18c",
-      "ref": "the-three-shires-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Paxton Pits",
-      "objectID": "7bb52ab81d3ee4aa1fc3bdb4c5668704",
-      "ref": "paxton-pits-walking-route"
-    },
-    {
-      "description": "Kimbolton",
-      "objectID": "20e32d686bbf5c9b5fd97488d4f77bde",
-      "ref": "kimbolton-walking-route"
-    },
-    {
-      "description": "Huntingdon",
-      "objectID": "86d999d7cfbc0e6601832a8e70678876",
-      "ref": "huntingdon-walking-route"
-    },
-    {
-      "description": "St Neots",
-      "objectID": "16c48ff4ff3923e2b952bb9976eb0cef",
-      "ref": "st-neots-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d99bba3166f1203674db651b1c417d29.gpx",
-  "_geoloc": {
-    "lat": 52.2969733512,
-    "lng": -0.2893743724
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Grafham_Water_-_geograph.org.uk_-_536564.jpg",
-      "title": "Bob Jones / Grafham Water, via Wikimedia Commons",
-      "caption": "Grafham Water. Looking eastwards towards Hill Farm. Grafham is the eighth largest reservoir in England by volume and the third largest by area"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ducklings_-_Grafham_Water_-_reflected.jpg",
-      "title": "Airwolfhound from Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Ducklings"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Grafham_Water_-_geograph.org.uk_-_222232.jpg",
-      "title": "Paul Glazzard / Grafham Water, via Wikimedia Commons",
-      "caption": "Anglian Water's reservoir near Huntingdon and St Neots is the third largest area of inland water in England with approximately nine miles of shoreline. Work on the dam began in 1962 but the lake was not filled to its current level until 1966."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shoreline%2C_Grafham_Water_-_geograph.org.uk_-_1495981.jpg",
-      "title": "Christine Matthews / Shoreline, Grafham Water, via Wikimedia Commons",
-      "caption": "Shoreline, Grafham Water"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Wheatsheaf_pub%2C_East_Perry_-_geograph.org.uk_-_3483745.jpg/500px-The_Wheatsheaf_pub%2C_East_Perry_-_geograph.org.uk_-_3483745.jpg",
-      "title": "The Wheatsheaf pub, East Perry by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Wheatsheaf pub, East Perry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bird_hide_at_Valley_Creek_-_geograph.org.uk_-_2316265.jpg/500px-Bird_hide_at_Valley_Creek_-_geograph.org.uk_-_2316265.jpg",
-      "title": "Bird hide at Valley Creek by Simon Judd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bird hide at Valley Creek"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cottages_on_Church_Road%2C_Grafham_-_geograph.org.uk_-_5341668.jpg/500px-Cottages_on_Church_Road%2C_Grafham_-_geograph.org.uk_-_5341668.jpg",
-      "title": "Cottages on Church Road, Grafham by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cottages on Church Road, in Grafham village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Grafham_Water_-_geograph.org.uk_-_1559987.jpg",
-      "title": "John Webber / Grafham Water",
-      "caption": "A series of small bays along the eastern shore of Grafham Water."
-    }
-  ],
-  "distance_km": 18.0,
-  "description": "A cycle and walking route around the beautiful Grafham Water in Cambridgeshire. The route passes through woodland and the villages of Grafton and West Perry. There is also a nature reserve at the western end of the lake where you will see a variety of birdlife. Sailboats are also common during the warmer months of the year. Cycle hire is available at the start of the route at the eastern end of the reservoir. It's possible to create a longer circular walk around the lake using The Three Shires Way long distance trail. The waymarked footpath runs towards Great Staughton on the southern side of the reservoir. It will take you through some nice countryside before returning to the lakeside. To extend your walking in the area you could visit the nearby Brampton Wood. The woods are located less than a mile from Grafham and can be reached by cycling along National Cycle Route 12 .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Head to the Wheatsheaf for some well earned refreshments after your exercise. There's a good selection of beers, a good menu and outdoor seating to relax in. The pub is located on the southern side of the water in the village of Perry at postcode PE28 0BX. In nearby St Neots you can visit the splendid River Mill pub. The riverside pub has dining area opening out on to the lower mill pond viewing deck. Outside there are lots of picnic tables alongside the upper mill pond and the marina. It's a lovely place to relax on a summer day. You can find it about 1 mile south of the reserve at postcode PE19 8GW."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The lake is a great place for dog walking but please make sure they are always on the lead and do not go into the water as they can disturb the wildlife."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you head a couple of miles east of the lake you can visit the lovely Paxton Pits where there's a series of nice ponds and lakes. In all there's 200 acres to explore with habitats including meadow, reedbed, scrub and woodland. It's another good option if you are looking for some more waterside walking nearby. Just to the west is the interesting town of Kimbolton where you can visit the historic Kimbolton Castle. The castle is notable as the final home of King Henry VIII's first wife, Catherine of Aragon. For more walking ideas in the area see the Cambridgeshire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/cDj4IE3mAwM",
-  "postcode": "PE28 0BH",
-  "county": "Cambridgeshire",
-  "region": "Cambridgeshire and Peterborough",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Buckden Road, Model Farm, Grafham, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 0BH, United Kingdom",
-  "district": "Huntingdonshire",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Grafham_Water_-_geograph.org.uk_-_536564.jpg",
+            "title": "Bob Jones / Grafham Water, via Wikimedia Commons",
+            "caption": "Grafham Water. Looking eastwards towards Hill Farm. Grafham is the eighth largest reservoir in England by volume and the third largest by area"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ducklings_-_Grafham_Water_-_reflected.jpg",
+            "title": "Airwolfhound from Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Ducklings"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Grafham_Water_-_geograph.org.uk_-_222232.jpg",
+            "title": "Paul Glazzard / Grafham Water, via Wikimedia Commons",
+            "caption": "Anglian Water's reservoir near Huntingdon and St Neots is the third largest area of inland water in England with approximately nine miles of shoreline. Work on the dam began in 1962 but the lake was not filled to its current level until 1966."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shoreline%2C_Grafham_Water_-_geograph.org.uk_-_1495981.jpg",
+            "title": "Christine Matthews / Shoreline, Grafham Water, via Wikimedia Commons",
+            "caption": "Shoreline, Grafham Water"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Wheatsheaf_pub%2C_East_Perry_-_geograph.org.uk_-_3483745.jpg/500px-The_Wheatsheaf_pub%2C_East_Perry_-_geograph.org.uk_-_3483745.jpg",
+            "title": "The Wheatsheaf pub, East Perry by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Wheatsheaf pub, East Perry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bird_hide_at_Valley_Creek_-_geograph.org.uk_-_2316265.jpg/500px-Bird_hide_at_Valley_Creek_-_geograph.org.uk_-_2316265.jpg",
+            "title": "Bird hide at Valley Creek by Simon Judd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bird hide at Valley Creek"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cottages_on_Church_Road%2C_Grafham_-_geograph.org.uk_-_5341668.jpg/500px-Cottages_on_Church_Road%2C_Grafham_-_geograph.org.uk_-_5341668.jpg",
+            "title": "Cottages on Church Road, Grafham by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cottages on Church Road, in Grafham village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Grafham_Water_-_geograph.org.uk_-_1559987.jpg",
+            "title": "John Webber / Grafham Water",
+            "caption": "A series of small bays along the eastern shore of Grafham Water."
+        }
+    ],
+    "distance_km": 18.0,
+    "description": "A cycle and walking route around the beautiful Grafham Water in Cambridgeshire. The route passes through woodland and the villages of Grafton and West Perry. There is also a nature reserve at the western end of the lake where you will see a variety of birdlife. Sailboats are also common during the warmer months of the year. Cycle hire is available at the start of the route at the eastern end of the reservoir. It's possible to create a longer circular walk around the lake using The Three Shires Way long distance trail. The waymarked footpath runs towards Great Staughton on the southern side of the reservoir. It will take you through some nice countryside before returning to the lakeside. To extend your walking in the area you could visit the nearby Brampton Wood. The woods are located less than a mile from Grafham and can be reached by cycling along National Cycle Route 12 .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Head to the Wheatsheaf for some well earned refreshments after your exercise. There's a good selection of beers, a good menu and outdoor seating to relax in. The pub is located on the southern side of the water in the village of Perry at postcode PE28 0BX. In nearby St Neots you can visit the splendid River Mill pub. The riverside pub has dining area opening out on to the lower mill pond viewing deck. Outside there are lots of picnic tables alongside the upper mill pond and the marina. It's a lovely place to relax on a summer day. You can find it about 1 mile south of the reserve at postcode PE19 8GW."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The lake is a great place for dog walking but please make sure they are always on the lead and do not go into the water as they can disturb the wildlife."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you head a couple of miles east of the lake you can visit the lovely Paxton Pits where there's a series of nice ponds and lakes. In all there's 200 acres to explore with habitats including meadow, reedbed, scrub and woodland. It's another good option if you are looking for some more waterside walking nearby. Just to the west is the interesting town of Kimbolton where you can visit the historic Kimbolton Castle. The castle is notable as the final home of King Henry VIII's first wife, Catherine of Aragon. For more walking ideas in the area see the Cambridgeshire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/cDj4IE3mAwM",
+    "postcode": "PE28 0BH",
+    "county": "Cambridgeshire",
+    "region": "Cambridgeshire and Peterborough",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Buckden Road, Model Farm, Grafham, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 0BH, United Kingdom",
+    "district": "Huntingdonshire",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["nature reserve", "viewpoint"],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling"]
 }

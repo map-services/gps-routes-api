@@ -33,8 +33,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/olBH4yzNfhs?si=x3JtIjKIA5bX99H8",
   "county": "East Dunbartonshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -52,5 +52,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Crow Road, Clachan of Campsie, East Dunbartonshire, Alba / Scotland, G66 7AD, United Kingdom",
+  "postcode": "G66 7AD",
+  "district": "Clachan of Campsie",
+  "state": "Alba / Scotland"
 }

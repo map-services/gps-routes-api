@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/6y7kFkqh_Os?si=HAVuSZy7XdjsBsEp",
   "district": "West Ilsley",
   "county": "West Berkshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -63,5 +63,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bury Lane, West Ilsley, West Berkshire, England, RG20 7AQ, United Kingdom",
+  "postcode": "RG20 7AQ",
+  "state": "England"
 }

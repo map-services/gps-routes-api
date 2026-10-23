@@ -1,79 +1,72 @@
 {
-  "created_at": "2026-10-22T21:12:23.811262+00:00",
-  "objectID": "02ecd451b641cf2a6f96bb09bb68e041",
-  "ref": "bakethin\u00a0reservoir-and-kielder-viaduct-walk",
-  "title": "Bakethin\u00a0Reservoir and Kielder Viaduct Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kielder_Viaduct_-_geograph.org.uk_-_168396.jpg?20100131102711",
-  "nearby": [
-    {
-      "description": "Kielder Forest Lakeside Way",
-      "objectID": "be2762addb52304da14635e5d0df98cb",
-      "ref": "kielder-forest-lakeside-way-walking-and-cycle-route"
+    "created_at": "2026-10-22T21:12:23.811262+00:00",
+    "objectID": "02ecd451b641cf2a6f96bb09bb68e041",
+    "ref": "bakethin-reservoir-and-kielder-viaduct-walk",
+    "title": "Bakethin Reservoir and Kielder Viaduct Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kielder_Viaduct_-_geograph.org.uk_-_168396.jpg?20100131102711",
+    "nearby": [
+        {
+            "description": "Kielder Forest Lakeside Way",
+            "objectID": "be2762addb52304da14635e5d0df98cb",
+            "ref": "kielder-forest-lakeside-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Kielder Reservoir",
+            "objectID": "5ad9000a2c5b47ec9788085130f7cd21",
+            "ref": "kielder-reservoir-walking-route"
+        },
+        {
+            "description": "Deadwater Fell",
+            "objectID": "2a269399b95e92f4cb56f9b15643a43f",
+            "ref": "deadwater-fell-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02ecd451b641cf2a6f96bb09bb68e041.gpx",
+    "_geoloc": {
+        "lat": 55.226724914,
+        "lng": -2.5818815652
     },
-    {
-      "description": "Kielder Reservoir",
-      "objectID": "5ad9000a2c5b47ec9788085130f7cd21",
-      "ref": "kielder-reservoir-walking-route"
-    },
-    {
-      "description": "Deadwater Fell",
-      "objectID": "2a269399b95e92f4cb56f9b15643a43f",
-      "ref": "deadwater-fell-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02ecd451b641cf2a6f96bb09bb68e041.gpx",
-  "_geoloc": {
-    "lat": 55.226724914,
-    "lng": -2.5818815652
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kielder_Viaduct_-_geograph.org.uk_-_168396.jpg?20100131102711",
-      "title": "Brian Norman / Kielder Viaduct",
-      "caption": "Kielder Viaduct. Kielder Viaduct consists of seven semi-circular masonry skew arches and was built in 1862 by the North British Railway to carry the Border Counties Line across marshy land, which following flooding to create Kielder Water, became the place where Deadwater Burn joins Bakethin Reservoir. Now closed to rail traffic, the bridge is currently used as a footpath."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bakethin_Reservoir%2C_Kielder_-_geograph.org.uk_-_203798.jpg?20100131170740",
-      "title": "Iain Thompson / Bakethin Reservoir, Kielder",
-      "caption": "Bakethin Reservoir, Kielder"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Old_railway_embankment_by_the_Bakethin_Reservoir_-_geograph.org.uk_-_1361470.jpg?20110228115421",
-      "title": "Oliver Dixon / Old railway embankment by the Bakethin Reservoir",
-      "caption": "Old railway embankment by the Bakethin Reservoir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Butteryhaugh_-_geograph.org.uk_-_1144534.jpg?20110225063639",
-      "title": "Peter McDermott / Butteryhaugh",
-      "caption": "Butteryhaugh. View looking up the river North Tyne above Bakethin Reservoir as seen from Kielder Viaduct. In the far distance (to the left) is Deadwater Fell and in the middle distance is Ravenshill Moor."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "This walk visits the Bakethin Reservoir and Kielder Viaduct at Kielder Water in Northumberland. You can start the walk from the car park just south of Butteryhaugh Bridge. From here you can pick up trails heading over the 19th century railway viaduct and then along the eastern side of the reservoir. On the way there's peaceful woodland trails, pleasant waterside paths and great views across the lake to the surrounding hills and countryside from the elevated path across the viaduct. The area is also great for wildlife so keep a look out for osprey over the lake and red squirrels in the woods. To continue your walking you could pick up the Kielder Reservoir Walk or head north to climb Deadwater Fell and enjoy some wonderful views over the area.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/ghjMjbbAGSg?si=BMcxmlh9GsiN07S-",
-  "postcode": "NE48 1HD",
-  "county": "Northumberland",
-  "region": "North East",
-  "country": "England",
-  "gazetteer_found": true,
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 20 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "waterside"
-  ],
-  "points_of_interest": [
-    "reservoir",
-    "viaduct",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kielder_Viaduct_-_geograph.org.uk_-_168396.jpg?20100131102711",
+            "title": "Brian Norman / Kielder Viaduct",
+            "caption": "Kielder Viaduct. Kielder Viaduct consists of seven semi-circular masonry skew arches and was built in 1862 by the North British Railway to carry the Border Counties Line across marshy land, which following flooding to create Kielder Water, became the place where Deadwater Burn joins Bakethin Reservoir. Now closed to rail traffic, the bridge is currently used as a footpath."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bakethin_Reservoir%2C_Kielder_-_geograph.org.uk_-_203798.jpg?20100131170740",
+            "title": "Iain Thompson / Bakethin Reservoir, Kielder",
+            "caption": "Bakethin Reservoir, Kielder"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Old_railway_embankment_by_the_Bakethin_Reservoir_-_geograph.org.uk_-_1361470.jpg?20110228115421",
+            "title": "Oliver Dixon / Old railway embankment by the Bakethin Reservoir",
+            "caption": "Old railway embankment by the Bakethin Reservoir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Butteryhaugh_-_geograph.org.uk_-_1144534.jpg?20110225063639",
+            "title": "Peter McDermott / Butteryhaugh",
+            "caption": "Butteryhaugh. View looking up the river North Tyne above Bakethin Reservoir as seen from Kielder Viaduct. In the far distance (to the left) is Deadwater Fell and in the middle distance is Ravenshill Moor."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "This walk visits the Bakethin Reservoir and Kielder Viaduct at Kielder Water in Northumberland. You can start the walk from the car park just south of Butteryhaugh Bridge. From here you can pick up trails heading over the 19th century railway viaduct and then along the eastern side of the reservoir. On the way there's peaceful woodland trails, pleasant waterside paths and great views across the lake to the surrounding hills and countryside from the elevated path across the viaduct. The area is also great for wildlife so keep a look out for osprey over the lake and red squirrels in the woods. To continue your walking you could pick up the Kielder Reservoir Walk or head north to climb Deadwater Fell and enjoy some wonderful views over the area.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/ghjMjbbAGSg?si=BMcxmlh9GsiN07S-",
+    "postcode": null,
+    "county": "Northumberland",
+    "region": "North East",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 20 minutes",
+    "difficulty": "easy",
+    "terrain": ["woodland", "waterside"],
+    "points_of_interest": ["reservoir", "viaduct", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "out and back",
+    "activities": ["walking"],
+    "nominatim_found": true,
+    "display_address": "Lakeside Way, Kielder, Northumberland, North East, England, United Kingdom",
+    "district": null,
+    "state": "England"
 }

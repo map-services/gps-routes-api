@@ -1,149 +1,135 @@
 {
-  "created_at": "2025-01-06T02:44:22.640117+00:00",
-  "objectID": "18675c2039efd4bcb066b3830ca1c014",
-  "ref": "dores-beach-walking-route",
-  "title": "Dores Beach Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dores_Beach_and_Tor_Point_-_geograph.org.uk_-_1092879.jpg",
-  "nearby": [
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
+    "created_at": "2025-01-06T02:44:22.640117+00:00",
+    "objectID": "18675c2039efd4bcb066b3830ca1c014",
+    "ref": "dores-beach-walking-route",
+    "title": "Dores Beach Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dores_Beach_and_Tor_Point_-_geograph.org.uk_-_1092879.jpg",
+    "nearby": [
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Culloden Battlefield",
+            "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
+            "ref": "culloden-battlefield-walking-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Urquhart Castle",
+            "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+            "ref": "urquhart-castle-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Invermoriston Falls",
+            "objectID": "1bdf953c4afe1c32fd859340da94f9c1",
+            "ref": "invermoriston-falls-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/18675c2039efd4bcb066b3830ca1c014.gpx",
+    "_geoloc": {
+        "lat": 57.3816123551,
+        "lng": -4.3332520104
     },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Culloden Battlefield",
-      "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
-      "ref": "culloden-battlefield-walking-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Urquhart Castle",
-      "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-      "ref": "urquhart-castle-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Invermoriston Falls",
-      "objectID": "1bdf953c4afe1c32fd859340da94f9c1",
-      "ref": "invermoriston-falls-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/18675c2039efd4bcb066b3830ca1c014.gpx",
-  "_geoloc": {
-    "lat": 57.3816123551,
-    "lng": -4.3332520104
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dores_Beach_and_Tor_Point_-_geograph.org.uk_-_1092879.jpg",
-      "title": "Anne Burgess / Dores Beach and Tor Point",
-      "caption": "Dores Beach and Tor Point. The pebble beach in a bay near the foot of Loch Ness."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_colours_of_nature_-_geograph.org.uk_-_1303478.jpg",
-      "title": "Alasdair MacNeill / The colours of nature",
-      "caption": "The colours of nature I liked this picture due to the vivid yellow of the whin clashing with the blues and greens of the Loch and surrounding mountains."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dores_beach_from_south_of_Dores_-_geograph.org.uk_-_608083.jpg",
-      "title": "John Hedger / Dores beach from south of Dores",
-      "caption": "Dores beach from south. Taken in the spring."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dores_-_geograph.org.uk_-_1092886.jpg",
-      "title": "Anne Burgess / Dores",
-      "caption": "Almost horizontal light from the setting sun gives a slightly unreal look to the village of Dores."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Torr_Point_-_geograph.org.uk_-_608071.jpg",
-      "title": "John Hedger / Torr Point",
-      "caption": "Torr Point. Taken from the village on a snowy day in March."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dores_Inn_-_geograph.org.uk_-_884667.jpg",
-      "title": "Colin Smith / Dores Inn",
-      "caption": "Dores Inn. Superb historic village inn and restaurant on the shores of Loch Ness."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dores_Bay_-_geograph.org.uk_-_749529.jpg",
-      "title": "Alasdair MacNeill / Dores Bay",
-      "caption": "The view across Dores Bay to Tor Point. The Rockness music festival is held on the fields slightly to the right of this photograph."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dores_Beach_-_geograph.org.uk_-_884678.jpg",
-      "title": "Colin Smith / Dores Beach",
-      "caption": "At the head of Strath Dores, heading alongside a shingly Loch Ness beach towards wooded Tor Point."
-    }
-  ],
-  "distance_km": 1.6,
-  "description": "This walk visits the lovely Dores Beach and Tor Point on the north eastern shores of the famous Loch Ness. You can start your walk from the parking area at the beach. From here you can pick up the shoreline and follow it west along the beach to Tor Point. It's just over a mile walk there and back, so should take around 30 minutes. Along the way there's excellent views over Dores Bay to the surrounding hills. You can extend the walk by continuing north through the woodland around Tor Point to visit Aldourie Castle.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The excellent Dores Inn is located right next to the beach. The inn serves quality food and has an outdoor area with views across the water."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The lochside paths make for a fine dog walk and the Dores Inn mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the east there's Loch Ashie and Loch Duntelchaig to visit. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers.The 12 mile Loch Ness will take you along a section of the Great Glen Way from Invermoriston to Drumnadrochit. Here you can enjoy a view of Invermoriston Falls from the 19th century Thomas Telford bridge. The old bridge is located just south west of the village and provides fine views over the rushing falls. The Affric Kintail Way can also be picked up at Drumnadrochit. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. On the western side of the loch you can visit the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. To the north east there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/tyiFjGYMs40",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Dores Inn, B862, Dores, Highland, Alba / Scotland, IV2 6TR, United Kingdom",
-  "postcode": "IV2 6TR",
-  "district": "Dores",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "30 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "beach",
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dores_Beach_and_Tor_Point_-_geograph.org.uk_-_1092879.jpg",
+            "title": "Anne Burgess / Dores Beach and Tor Point",
+            "caption": "Dores Beach and Tor Point. The pebble beach in a bay near the foot of Loch Ness."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_colours_of_nature_-_geograph.org.uk_-_1303478.jpg",
+            "title": "Alasdair MacNeill / The colours of nature",
+            "caption": "The colours of nature I liked this picture due to the vivid yellow of the whin clashing with the blues and greens of the Loch and surrounding mountains."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dores_beach_from_south_of_Dores_-_geograph.org.uk_-_608083.jpg",
+            "title": "John Hedger / Dores beach from south of Dores",
+            "caption": "Dores beach from south. Taken in the spring."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dores_-_geograph.org.uk_-_1092886.jpg",
+            "title": "Anne Burgess / Dores",
+            "caption": "Almost horizontal light from the setting sun gives a slightly unreal look to the village of Dores."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Torr_Point_-_geograph.org.uk_-_608071.jpg",
+            "title": "John Hedger / Torr Point",
+            "caption": "Torr Point. Taken from the village on a snowy day in March."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dores_Inn_-_geograph.org.uk_-_884667.jpg",
+            "title": "Colin Smith / Dores Inn",
+            "caption": "Dores Inn. Superb historic village inn and restaurant on the shores of Loch Ness."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dores_Bay_-_geograph.org.uk_-_749529.jpg",
+            "title": "Alasdair MacNeill / Dores Bay",
+            "caption": "The view across Dores Bay to Tor Point. The Rockness music festival is held on the fields slightly to the right of this photograph."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dores_Beach_-_geograph.org.uk_-_884678.jpg",
+            "title": "Colin Smith / Dores Beach",
+            "caption": "At the head of Strath Dores, heading alongside a shingly Loch Ness beach towards wooded Tor Point."
+        }
+    ],
+    "distance_km": 1.6,
+    "description": "This walk visits the lovely Dores Beach and Tor Point on the north eastern shores of the famous Loch Ness. You can start your walk from the parking area at the beach. From here you can pick up the shoreline and follow it west along the beach to Tor Point. It's just over a mile walk there and back, so should take around 30 minutes. Along the way there's excellent views over Dores Bay to the surrounding hills. You can extend the walk by continuing north through the woodland around Tor Point to visit Aldourie Castle.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The excellent Dores Inn is located right next to the beach. The inn serves quality food and has an outdoor area with views across the water."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The lochside paths make for a fine dog walk and the Dores Inn mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the east there's Loch Ashie and Loch Duntelchaig to visit. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers.The 12 mile Loch Ness will take you along a section of the Great Glen Way from Invermoriston to Drumnadrochit. Here you can enjoy a view of Invermoriston Falls from the 19th century Thomas Telford bridge. The old bridge is located just south west of the village and provides fine views over the rushing falls. The Affric Kintail Way can also be picked up at Drumnadrochit. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. On the western side of the loch you can visit the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. To the north east there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/tyiFjGYMs40",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Dores Inn, B862, Dores, Highland, Alba / Scotland, IV2 6TR, United Kingdom",
+    "postcode": "IV2 6TR",
+    "district": "Dores",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "30 minutes",
+    "difficulty": "easy",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": ["beach", "viewpoint", "historical site"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "out and back",
+    "activities": ["walking", "dog walking"]
 }

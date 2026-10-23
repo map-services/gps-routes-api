@@ -67,9 +67,9 @@
   "description": "This walk follows the Thames Path from Reading to Pangbourne. The riverside route runs for about 7 miles, starting on Reading Bridge and heading west to Mapledurham House and lock. You'll pass Purley on Thames before continuing on to Pangbourne.The route passes through a pleasant stretch of the Thames Valley, with the river bordered by meadows, woodland and attractive countryside. Reading gradually gives way to a more rural landscape, with the river providing a peaceful setting for much of the walk.Mapledurham House is one of the main highlights, with the historic house and its working watermill standing beside the Thames. The surrounding estate adds parkland and woodland to the scenery, while Mapledurham Lock is an attractive spot to watch boats navigating this section of the river.Beyond Mapledurham, the landscape around Purley-on-Thames becomes increasingly rural, with open riverside meadows and views towards the wooded hills on either side of the valley. The walk eventually reaches Pangbourne, a picturesque village on the Thames with a historic centre and strong literary connections, having been associated with the author Kenneth Grahame and his book The Wind in the Willows.",
   "details": [],
   "district": "Reading",
-  "county": "Reading",
-  "region": "South East",
-  "country": "England",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3.5 hours",
@@ -87,5 +87,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Thames Water, Vastern Road, Caversham, Reading, England, RG1 8DB, United Kingdom",
+  "postcode": "RG1 8DB",
+  "state": "England"
 }

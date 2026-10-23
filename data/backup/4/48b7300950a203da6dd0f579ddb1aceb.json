@@ -1,151 +1,141 @@
 {
-  "created_at": "2025-01-06T01:17:05.325584+00:00",
-  "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-  "ref": "leeds-country-way-walking-route",
-  "title": "Leeds Country Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Saw_Wood%2C_Leeds_Country_Way_-_geograph.org.uk_-_140439.jpg",
-  "nearby": [
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
+    "created_at": "2025-01-06T01:17:05.325584+00:00",
+    "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+    "ref": "leeds-country-way-walking-route",
+    "title": "Leeds Country Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Saw_Wood%2C_Leeds_Country_Way_-_geograph.org.uk_-_140439.jpg",
+    "nearby": [
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Harewood House",
+            "objectID": "9ae5294687aac3c9a44ba436873002b5",
+            "ref": "harewood-house-walking-route"
+        },
+        {
+            "description": "Ebor Way",
+            "objectID": "460b6eaefa835488435e3937ef49f82d",
+            "ref": "ebor-way-walking-route"
+        },
+        {
+            "description": "Dales Way",
+            "objectID": "605d1dad48e02d248ecb985988bc777c",
+            "ref": "dales-way-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Ardsley Reservoir",
+            "objectID": "5bb5235374745eff7c8ac6ad275fe765",
+            "ref": "ardsley-reservoir-walking-route"
+        },
+        {
+            "description": "Garforth",
+            "objectID": "77b94fd96bb8195702c06a0ffe84ca2f",
+            "ref": "garforth-walking-route"
+        },
+        {
+            "description": "Pudsey",
+            "objectID": "6347abac06165a53b99e6cf8300f197c",
+            "ref": "pudsey-walking-route"
+        },
+        {
+            "description": "Ossett",
+            "objectID": "ad9bed919f8e4384c62230f6d4566d1c",
+            "ref": "ossett-walking-route"
+        },
+        {
+            "description": "Morley",
+            "objectID": "336510dba6998961b7aac6f022562a80",
+            "ref": "morley-walks"
+        },
+        {
+            "description": "East Keswick",
+            "objectID": "374b1349f29d161204209c92c1b3d171",
+            "ref": "east-keswick-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/48b7300950a203da6dd0f579ddb1aceb.gpx",
+    "_geoloc": {
+        "lat": 53.870486054,
+        "lng": -1.5810201503
     },
-    {
-      "description": "Harewood House",
-      "objectID": "9ae5294687aac3c9a44ba436873002b5",
-      "ref": "harewood-house-walking-route"
-    },
-    {
-      "description": "Ebor Way",
-      "objectID": "460b6eaefa835488435e3937ef49f82d",
-      "ref": "ebor-way-walking-route"
-    },
-    {
-      "description": "Dales Way",
-      "objectID": "605d1dad48e02d248ecb985988bc777c",
-      "ref": "dales-way-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Ardsley Reservoir",
-      "objectID": "5bb5235374745eff7c8ac6ad275fe765",
-      "ref": "ardsley-reservoir-walking-route"
-    },
-    {
-      "description": "Garforth",
-      "objectID": "77b94fd96bb8195702c06a0ffe84ca2f",
-      "ref": "garforth-walking-route"
-    },
-    {
-      "description": "Pudsey",
-      "objectID": "6347abac06165a53b99e6cf8300f197c",
-      "ref": "pudsey-walking-route"
-    },
-    {
-      "description": "Ossett",
-      "objectID": "ad9bed919f8e4384c62230f6d4566d1c",
-      "ref": "ossett-walking-route"
-    },
-    {
-      "description": "Morley",
-      "objectID": "336510dba6998961b7aac6f022562a80",
-      "ref": "morley-walks"
-    },
-    {
-      "description": "East Keswick",
-      "objectID": "374b1349f29d161204209c92c1b3d171",
-      "ref": "east-keswick-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/48b7300950a203da6dd0f579ddb1aceb.gpx",
-  "_geoloc": {
-    "lat": 53.870486054,
-    "lng": -1.5810201503
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Saw_Wood%2C_Leeds_Country_Way_-_geograph.org.uk_-_140439.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Saw Wood, Leeds Country Way. This is the entrance to Saw Wood from the north, on the Leeds Country Way, a 60 mile footpath which encircles Leeds."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Leeds_Country_Way_Marker_-_geograph.org.uk_-_39771.jpg",
-      "title": "Mick Melvin / Leeds Country Way Marker",
-      "caption": "A handsome carved stone marker on the Leeds Country Way close to Cheesecake Farm"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Stile_on_the_Leeds_Country_Way_-_geograph.org.uk_-_958612.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Stile on the trail. Here it follows Pudsey Beck, which is out of the picture to the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Austhorpe_-_Leeds_Country_Way.jpg",
-      "title": "Lis Burke [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Looking east across fields towards Garforth from an old track which now forms part of the trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Leeds_Country_Way_at_Bankhouse_Bottom_-_geograph.org.uk_-_1145954.jpg",
-      "title": "Chris Heaton / Leeds Country Way at Bankhouse Bottom",
-      "caption": "Bankhouse Bottom. Following the long distance footpath north westwards toward Black Carr Woods."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Leeds_Country_Way%2C_Hunger_Hills%2C_Horsforth_-_geograph.org.uk_-_288471.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Hunger Hills, Horsforth. The sign marks the Leeds Country Way as it skirts the western edge of Horsforth"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leeds_Country_Way_near_East_Keswick_-_geograph.org.uk_-_1403597.jpg",
-      "title": "Chris Heaton / Leeds Country Way near East Keswick",
-      "caption": "Near East Keswick The long distance footpath about a mile west of Bardsey. It is closer to East Keswick at this point, but does not actually visit this village."
-    }
-  ],
-  "distance_km": 99.0,
-  "description": "A super circular walk through the countryside surrounding this major Yorkshire city. The walk has been split into 4 manageable sections: Golden Acre Park to Barwick-in-Elmet Barwick-in-Elmet to Carlton Carlton to Cockersdale Cockersdale to Golden Acre Park. Highlights on the route include",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Near Eccup Reservoir you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the water. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs. In West Ardsley, near Wakefield, you can visit the Hare and Hounds. There's a lovely large beer garden here which is the perfect spot for relaxing on a summer afternoon. You can find the pub in West Ardsley at 7 Batley Road with a postcode of WF2 0AA for your sat navs. The pub is located very close to Ardsley Reservoir which is worth a small detour from the route if you have time. There's a nice, easy circular footpath running round the water with good views of Haigh Moor and Emley Moor. In Garforth a visit to the Gaping Goose is recommended. It's a friendly place with a good selection of real ales and an outdoor seating area. You can find them at 41 Selby Rd with a postcode of LS25 1LR for your sat navs. They are also dog friendly. In Ossett there's the Brewers Pride located right next to Osset brewery. There's a great selection of ales and fine home cooked food here. You can find them on Low Mill Road at postcode WF5 8ND. In Bardsey village and you could visit the noteworthy Bingley Arms Pub. It's a significant establishment, thought to be the oldest pub in Britain and dating back over 1000 years to a time when Vikings were conquering parts of the country and before England had its first King. There's a charming old interior with an original Dutch oven in the lounge and ancient priest holes hidden in the chimney. Outside there's a lovely garden area with a yew tree that pre-dates the pub. You can find them at Church Ln, Bardsey, LS17 9DR."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the east of Leeds around Thorner the route passes close to the noteworthy Bramham Park. There are hundreds of acres of parkland, gardens, woodland and countryside to explore on the expansive estate. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/MaxKRZg_45w",
-  "postcode": "LS16 8LZ",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "King Lane, Alwoodley, Leeds, West Yorkshire, England, LS16 8LZ, United Kingdom",
-  "district": "Leeds",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "multiple days",
-  "difficulty": "moderate",
-  "terrain": [
-    "countryside"
-  ],
-  "points_of_interest": [
-    "reservoir",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Saw_Wood%2C_Leeds_Country_Way_-_geograph.org.uk_-_140439.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Saw Wood, Leeds Country Way. This is the entrance to Saw Wood from the north, on the Leeds Country Way, a 60 mile footpath which encircles Leeds."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Leeds_Country_Way_Marker_-_geograph.org.uk_-_39771.jpg",
+            "title": "Mick Melvin / Leeds Country Way Marker",
+            "caption": "A handsome carved stone marker on the Leeds Country Way close to Cheesecake Farm"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Stile_on_the_Leeds_Country_Way_-_geograph.org.uk_-_958612.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Stile on the trail. Here it follows Pudsey Beck, which is out of the picture to the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Austhorpe_-_Leeds_Country_Way.jpg",
+            "title": "Lis Burke [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Looking east across fields towards Garforth from an old track which now forms part of the trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Leeds_Country_Way_at_Bankhouse_Bottom_-_geograph.org.uk_-_1145954.jpg",
+            "title": "Chris Heaton / Leeds Country Way at Bankhouse Bottom",
+            "caption": "Bankhouse Bottom. Following the long distance footpath north westwards toward Black Carr Woods."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Leeds_Country_Way%2C_Hunger_Hills%2C_Horsforth_-_geograph.org.uk_-_288471.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Hunger Hills, Horsforth. The sign marks the Leeds Country Way as it skirts the western edge of Horsforth"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leeds_Country_Way_near_East_Keswick_-_geograph.org.uk_-_1403597.jpg",
+            "title": "Chris Heaton / Leeds Country Way near East Keswick",
+            "caption": "Near East Keswick The long distance footpath about a mile west of Bardsey. It is closer to East Keswick at this point, but does not actually visit this village."
+        }
+    ],
+    "distance_km": 99.0,
+    "description": "A super circular walk through the countryside surrounding this major Yorkshire city. The walk has been split into 4 manageable sections: Golden Acre Park to Barwick-in-Elmet Barwick-in-Elmet to Carlton Carlton to Cockersdale Cockersdale to Golden Acre Park. Highlights on the route include",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Near Eccup Reservoir you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the water. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs. In West Ardsley, near Wakefield, you can visit the Hare and Hounds. There's a lovely large beer garden here which is the perfect spot for relaxing on a summer afternoon. You can find the pub in West Ardsley at 7 Batley Road with a postcode of WF2 0AA for your sat navs. The pub is located very close to Ardsley Reservoir which is worth a small detour from the route if you have time. There's a nice, easy circular footpath running round the water with good views of Haigh Moor and Emley Moor. In Garforth a visit to the Gaping Goose is recommended. It's a friendly place with a good selection of real ales and an outdoor seating area. You can find them at 41 Selby Rd with a postcode of LS25 1LR for your sat navs. They are also dog friendly. In Ossett there's the Brewers Pride located right next to Osset brewery. There's a great selection of ales and fine home cooked food here. You can find them on Low Mill Road at postcode WF5 8ND. In Bardsey village and you could visit the noteworthy Bingley Arms Pub. It's a significant establishment, thought to be the oldest pub in Britain and dating back over 1000 years to a time when Vikings were conquering parts of the country and before England had its first King. There's a charming old interior with an original Dutch oven in the lounge and ancient priest holes hidden in the chimney. Outside there's a lovely garden area with a yew tree that pre-dates the pub. You can find them at Church Ln, Bardsey, LS17 9DR."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the east of Leeds around Thorner the route passes close to the noteworthy Bramham Park. There are hundreds of acres of parkland, gardens, woodland and countryside to explore on the expansive estate. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/MaxKRZg_45w",
+    "postcode": "LS16 8LZ",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "King Lane, Alwoodley, Leeds, West Yorkshire, England, LS16 8LZ, United Kingdom",
+    "district": "Leeds",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "multiple days",
+    "difficulty": "moderate",
+    "terrain": ["countryside"],
+    "points_of_interest": ["reservoir", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

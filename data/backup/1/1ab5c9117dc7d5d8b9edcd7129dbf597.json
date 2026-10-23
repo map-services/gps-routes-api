@@ -70,8 +70,8 @@
   "postcode": "SP3 5JB",
   "district": "Fovant",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1.5 hours",
@@ -89,5 +89,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Brook Street, Fovant, Wiltshire, England, SP3 5JB, United Kingdom",
+  "state": "England"
 }

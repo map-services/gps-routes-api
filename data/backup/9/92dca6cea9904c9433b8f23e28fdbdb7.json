@@ -63,8 +63,8 @@
   "details": [],
   "district": "Weston-super-Mare",
   "county": "North Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5 hours",
@@ -84,5 +84,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Clifton Sands Car Park, Marine Parade, Whitecross Village, Uphill, Weston-super-Mare, North Somerset, England, BS23 4NH, United Kingdom",
+  "postcode": "BS23 4NH",
+  "state": "England"
 }

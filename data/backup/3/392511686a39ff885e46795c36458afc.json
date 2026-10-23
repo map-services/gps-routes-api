@@ -83,8 +83,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/YhZhjQzG7BU?si=kqhOfsYc8uqxRYD0",
   "county": "Perth and Kinross",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5-6 hours",
@@ -104,5 +104,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Stan Salvador, Perth and Kinross, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Alba / Scotland"
 }

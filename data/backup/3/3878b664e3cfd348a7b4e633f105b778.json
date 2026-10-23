@@ -70,8 +70,8 @@
   "postcode": "WR1 2PB",
   "district": "Worcester",
   "county": "Worcestershire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -90,5 +90,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Lowesmoor Place, Red Hill, Worcester, Worcestershire, England, WR1 2PB, United Kingdom",
+  "state": "England"
 }

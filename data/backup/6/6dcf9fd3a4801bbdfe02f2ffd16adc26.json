@@ -67,10 +67,10 @@
   "description": "This circular walk explores the Fishlake Meadows Nature Reserve in Romsey. The reserve lies just north of the town and includes pleasant walking trails taking you around a series of pretty lakes. There's also waterside paths along canals and streams, with lots of wildlife to look out for on the way. Keep your eyes peeled for rarer birds such as bitterns and ospreys.You can continue your walking on theRomsey Canalwhich runs into the town from the reserve. There's also theThe Causeway Walkin the town.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/NEQYDWheGS4?si=8TERvWiKbq-t09V8",
-  "district": "Romsey",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -87,5 +87,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Fishlake Meadows, Oxlease Meadows, Oxleaze Meadows, Cupernham, Romsey, Crampmoor, Test Valley, Hampshire, England, SO51 7AJ, United Kingdom",
+  "postcode": "SO51 7AJ",
+  "state": "England"
 }

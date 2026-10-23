@@ -24,10 +24,10 @@
   "distance_km": 7.25,
   "description": "The Beaumaris to Penmon Point walk is a popular 4.5-mile (7.25 km) coastal route on the Isle of Anglesey, offering stunning views of the Menai Strait and Puffin Island. The walk begins in Beaumaris, where you can explore the castle and Georgian architecture, before heading along the coast to Penmon Point. At Penmon Point, you can see Puffin Island, which is a protected habitat known for its large cormorant population. The route follows the Wales Coast Path so is well signposted.",
   "details": [],
-  "district": "Biwmares / Beaumaris",
-  "county": "Sir Ynys Mon - Isle of Anglesey",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Beaumaris",
+  "county": "Ynys M\u00f4n",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -43,5 +43,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "62, Castle Street, Beaumaris, Ynys M\u00f4n, Cymru / Wales, LL58 8BB, United Kingdom",
+  "postcode": "LL58 8BB",
+  "state": "Cymru / Wales"
 }

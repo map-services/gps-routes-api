@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/rDhUK2CKXaM?si=xxvhQ1cp8Tif1H0z",
   "postcode": "CW8 2JD",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 10 minutes",
@@ -61,5 +61,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pale Heights Access Road, Delamere and Oakmere, Delamere, Cheshire West and Chester, England, CW8 2JD, United Kingdom",
+  "district": "Delamere",
+  "state": "England"
 }

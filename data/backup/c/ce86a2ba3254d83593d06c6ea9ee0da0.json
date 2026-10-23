@@ -59,8 +59,8 @@
   "postcode": "TA24 8LB",
   "district": "Porlock",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5-6 hours",
@@ -76,5 +76,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "St Dubricius Church, The Drang, Porlock, Somerset, England, TA24 8LB, United Kingdom",
+  "state": "England"
 }

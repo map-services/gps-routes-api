@@ -31,10 +31,10 @@
   "distance_km": 4.6,
   "description": "This walk follows a section of the Pembrokeshire Coast Path from Newgale to Nolton Haven. The route follows a good waymarked path for a distance of about 3 miles between the two settlements. It's a reasonably easy cliff top path with excellent coastal views throughout. There are nice cafes for refreshments at both ends of the trail. Starting from Newgale you head south along the lovely beaches of Newgale Sands before coming to Nolton Haven where there's a picturesque cove and beach. You can extend the walk by continuing south to Broad Haven .",
   "details": [],
-  "district": "Newgale / Niwgwl",
-  "county": "Sir Benfro - Pembrokeshire",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Newgale",
+  "county": "Pembrokeshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -52,5 +52,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Newgale Hill, Penycwm, Brawdy, Newgale, Pembrokeshire, Cymru / Wales, SA62 6AS, United Kingdom",
+  "postcode": "SA62 6AS",
+  "state": "Cymru / Wales"
 }

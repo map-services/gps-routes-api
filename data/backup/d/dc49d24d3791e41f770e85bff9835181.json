@@ -1,167 +1,155 @@
 {
-  "created_at": "2025-01-06T02:05:21.153790+00:00",
-  "objectID": "dc49d24d3791e41f770e85bff9835181",
-  "ref": "loch-ness-walking-and-cycle-route",
-  "title": "Loch Ness Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Loch_Ness_shoreline_-_geograph.org.uk_-_405403.jpg",
-  "nearby": [
-    {
-      "description": "Fort William to Fort Augustus",
-      "objectID": "b7ff84a69d9be3368b194dd3c37e7faa",
-      "ref": "fort-william-to-fort-augustus-cycle-route"
+    "created_at": "2025-01-06T02:05:21.153790+00:00",
+    "objectID": "dc49d24d3791e41f770e85bff9835181",
+    "ref": "loch-ness-walking-and-cycle-route",
+    "title": "Loch Ness Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Loch_Ness_shoreline_-_geograph.org.uk_-_405403.jpg",
+    "nearby": [
+        {
+            "description": "Fort William to Fort Augustus",
+            "objectID": "b7ff84a69d9be3368b194dd3c37e7faa",
+            "ref": "fort-william-to-fort-augustus-cycle-route"
+        },
+        {
+            "description": "Great Glen Way",
+            "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
+            "ref": "great-glen-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Dores Beach",
+            "objectID": "18675c2039efd4bcb066b3830ca1c014",
+            "ref": "dores-beach-walking-route"
+        },
+        {
+            "description": "Loch Duntelchaig",
+            "objectID": "a64789ee55d0707936bec88febbdb542",
+            "ref": "loch-duntelchaig-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Culloden Battlefield",
+            "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
+            "ref": "culloden-battlefield-walking-route"
+        },
+        {
+            "description": "Caledonia Way",
+            "objectID": "54829c63f65d46df58c0c9c92d922218",
+            "ref": "caledonia-way-cycle-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Urquhart Castle",
+            "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+            "ref": "urquhart-castle-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Invermoriston Falls",
+            "objectID": "1bdf953c4afe1c32fd859340da94f9c1",
+            "ref": "invermoriston-falls-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc49d24d3791e41f770e85bff9835181.gpx",
+    "_geoloc": {
+        "lat": 57.2153109259,
+        "lng": -4.6166132049
     },
-    {
-      "description": "Great Glen Way",
-      "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
-      "ref": "great-glen-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
-    },
-    {
-      "description": "Dores Beach",
-      "objectID": "18675c2039efd4bcb066b3830ca1c014",
-      "ref": "dores-beach-walking-route"
-    },
-    {
-      "description": "Loch Duntelchaig",
-      "objectID": "a64789ee55d0707936bec88febbdb542",
-      "ref": "loch-duntelchaig-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Culloden Battlefield",
-      "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
-      "ref": "culloden-battlefield-walking-route"
-    },
-    {
-      "description": "Caledonia Way",
-      "objectID": "54829c63f65d46df58c0c9c92d922218",
-      "ref": "caledonia-way-cycle-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Urquhart Castle",
-      "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-      "ref": "urquhart-castle-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Invermoriston Falls",
-      "objectID": "1bdf953c4afe1c32fd859340da94f9c1",
-      "ref": "invermoriston-falls-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc49d24d3791e41f770e85bff9835181.gpx",
-  "_geoloc": {
-    "lat": 57.2153109259,
-    "lng": -4.6166132049
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Loch_Ness_shoreline_-_geograph.org.uk_-_405403.jpg",
-      "title": "David Saunders / Loch Ness shoreline, via Wikimedia Commons",
-      "caption": "Loch Ness shoreline. Tree-fringed shoreline of Loch Ness from pier south of Aldourie Castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Misty_day_over_Loch_Ness_-_geograph.org.uk_-_250770.jpg",
-      "title": "Johnny Durnan / Misty day over Loch Ness, via Wikimedia Commons",
-      "caption": "Misty day over Loch Ness"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Loch_of_Ness_-_geograph.org.uk_-_28246.jpg",
-      "title": "Shirley Grant / Loch of Ness, via Wikimedia Commons",
-      "caption": "The Loch of Ness and the bay of North Wick beyond, on Papay (Papa Westray), Orkney."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/South_of_Temple_pier%2C_Loch_Ness._-_geograph.org.uk_-_209676.jpg",
-      "title": "Des Colhoun / South of Temple pier, Loch Ness., via Wikimedia Commons",
-      "caption": "South of Temple pier, Loch Ness."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Telford%27s_Bridge%2C_Invermoriston_-_geograph.org.uk_-_412570.jpg",
-      "title": "Raymond Chisholm / Telford's Bridge, Invermoriston",
-      "caption": "Telford's Bridge, Invermoriston"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Loch_Ness%2C_just_north_of_Invermoriston_-_geograph.org.uk_-_412606.jpg",
-      "title": "Raymond Chisholm / Loch Ness, just north of Invermoriston",
-      "caption": "Loch Ness, just north of Invermoriston"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Loch_Ness_Monster_-_geograph.org.uk_-_1337893.jpg",
-      "title": "don cload / Loch Ness Monster",
-      "caption": "Loch Ness Monster. The Loch Ness Monster spotted through the window of the summer house at the Abriachan Gardens. The \"monster\" is already part of the gardens. That is, it is already on the summer house window. There are various other quirky creatures spread about the gardens. It was just a bit of fun!"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Official_Loch_Ness_Visitor_Exhibition_-_geograph.org.uk_-_185221.jpg",
-      "title": "Gary Rogers / Official Loch Ness Visitor Exhibition",
-      "caption": "Official Loch Ness Visitor Exhibition in Drumnadrochit, just west of the loch. The rooms in this old building have been converted into exhibition rooms in which the evidence for and against the existence of a \"loch ness monster\" is presented along with the geological history of the area and the environmental importance of the loch. Sediments in the loch contain traces of mankind's impact on the environment. Worth a visit."
-    }
-  ],
-  "distance_km": 19.0,
-  "description": "This cycling and walking route follows cycle tracks and the Great Glen Way from Invermoriston to Drumnadrochit. The track runs through Creag Nan Eun Forest with splendid views of Loch Ness as you go. It's a 12 mile walk with some moderate climbs on the way, so a good level of fitness is required. The loch is the second largest Scottish loch by surface area at 56 km2 (22 sq mi) after Loch Lomond, but due to its great depth, it is the largest by volume in the British Isles. However it is best known for alleged sightings of the famous Loch Ness Monster, also known affectionately as \"Nessie\". At the start of the walk you can enjoy a view of Invermoriston Falls from the 19th century Thomas Telford bridge. The old bridge is located just south west of the village and provides fine views over the rushing falls. The Caledonia Way also runs along the loch. This epic cycle route runs for 234 miles from Campbeltown to Inverness. It's a great way of continuing your cycling or walking in the area.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Glenmoriston Arms Hotel in Invermoriston is a fine place for some refreshments. The hotel has an interesting history being set in a former drover's inn dating from 1740. The old stags head on the wall looks over you as you enter and has welcomed travellers from all over the word for decades. They have a cosy bar area and a nice restaurant which does very good food. There's also a nice garden area to relax in on warmer days and good quality accommodation if you need to stay over."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The woodland and lochside trails make for a great dog walk. The Glenmoriston hotel mentioned above also welcomes dogs in the bar area."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "You can also follow the Great Glen Way from Fort Augustus to Invermoriston. You would pick up the trail at the southern end of the loch and then follow it north past the Portclair Forest. Just to the west you'll find the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. On the north eastern side of the loch there's the lovely Dores Beach to visit. The delightful beach includes a fine lochside pub and forest trails to the finely positioned Aldourie Castle. Near here there's also Loch Duntelchaig and Loch Ashie. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers. To the north of the loch there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. The site includes an informative visitor centre where you can learn all about this fascinating conflict. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. On the western side of the loch near Drumnadrochit you can visit the historic Urquhart Castle. The 13th century castle ruins are positioned in a dramatic spot overlooking the loch. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/_j57KshHrQA",
-  "postcode": "IV63 7YA",
-  "district": "Invermoriston",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Achnaconeran Road, Invermoriston, Highland, Alba / Scotland, IV63 7YA, United Kingdom",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "coastal"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Loch_Ness_shoreline_-_geograph.org.uk_-_405403.jpg",
+            "title": "David Saunders / Loch Ness shoreline, via Wikimedia Commons",
+            "caption": "Loch Ness shoreline. Tree-fringed shoreline of Loch Ness from pier south of Aldourie Castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Misty_day_over_Loch_Ness_-_geograph.org.uk_-_250770.jpg",
+            "title": "Johnny Durnan / Misty day over Loch Ness, via Wikimedia Commons",
+            "caption": "Misty day over Loch Ness"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Loch_of_Ness_-_geograph.org.uk_-_28246.jpg",
+            "title": "Shirley Grant / Loch of Ness, via Wikimedia Commons",
+            "caption": "The Loch of Ness and the bay of North Wick beyond, on Papay (Papa Westray), Orkney."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/South_of_Temple_pier%2C_Loch_Ness._-_geograph.org.uk_-_209676.jpg",
+            "title": "Des Colhoun / South of Temple pier, Loch Ness., via Wikimedia Commons",
+            "caption": "South of Temple pier, Loch Ness."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Telford%27s_Bridge%2C_Invermoriston_-_geograph.org.uk_-_412570.jpg",
+            "title": "Raymond Chisholm / Telford's Bridge, Invermoriston",
+            "caption": "Telford's Bridge, Invermoriston"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Loch_Ness%2C_just_north_of_Invermoriston_-_geograph.org.uk_-_412606.jpg",
+            "title": "Raymond Chisholm / Loch Ness, just north of Invermoriston",
+            "caption": "Loch Ness, just north of Invermoriston"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Loch_Ness_Monster_-_geograph.org.uk_-_1337893.jpg",
+            "title": "don cload / Loch Ness Monster",
+            "caption": "Loch Ness Monster. The Loch Ness Monster spotted through the window of the summer house at the Abriachan Gardens. The \"monster\" is already part of the gardens. That is, it is already on the summer house window. There are various other quirky creatures spread about the gardens. It was just a bit of fun!"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Official_Loch_Ness_Visitor_Exhibition_-_geograph.org.uk_-_185221.jpg",
+            "title": "Gary Rogers / Official Loch Ness Visitor Exhibition",
+            "caption": "Official Loch Ness Visitor Exhibition in Drumnadrochit, just west of the loch. The rooms in this old building have been converted into exhibition rooms in which the evidence for and against the existence of a \"loch ness monster\" is presented along with the geological history of the area and the environmental importance of the loch. Sediments in the loch contain traces of mankind's impact on the environment. Worth a visit."
+        }
+    ],
+    "distance_km": 19.0,
+    "description": "This cycling and walking route follows cycle tracks and the Great Glen Way from Invermoriston to Drumnadrochit. The track runs through Creag Nan Eun Forest with splendid views of Loch Ness as you go. It's a 12 mile walk with some moderate climbs on the way, so a good level of fitness is required. The loch is the second largest Scottish loch by surface area at 56 km2 (22 sq mi) after Loch Lomond, but due to its great depth, it is the largest by volume in the British Isles. However it is best known for alleged sightings of the famous Loch Ness Monster, also known affectionately as \"Nessie\". At the start of the walk you can enjoy a view of Invermoriston Falls from the 19th century Thomas Telford bridge. The old bridge is located just south west of the village and provides fine views over the rushing falls. The Caledonia Way also runs along the loch. This epic cycle route runs for 234 miles from Campbeltown to Inverness. It's a great way of continuing your cycling or walking in the area.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Glenmoriston Arms Hotel in Invermoriston is a fine place for some refreshments. The hotel has an interesting history being set in a former drover's inn dating from 1740. The old stags head on the wall looks over you as you enter and has welcomed travellers from all over the word for decades. They have a cosy bar area and a nice restaurant which does very good food. There's also a nice garden area to relax in on warmer days and good quality accommodation if you need to stay over."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The woodland and lochside trails make for a great dog walk. The Glenmoriston hotel mentioned above also welcomes dogs in the bar area."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "You can also follow the Great Glen Way from Fort Augustus to Invermoriston. You would pick up the trail at the southern end of the loch and then follow it north past the Portclair Forest. Just to the west you'll find the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. On the north eastern side of the loch there's the lovely Dores Beach to visit. The delightful beach includes a fine lochside pub and forest trails to the finely positioned Aldourie Castle. Near here there's also Loch Duntelchaig and Loch Ashie. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers. To the north of the loch there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. The site includes an informative visitor centre where you can learn all about this fascinating conflict. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. On the western side of the loch near Drumnadrochit you can visit the historic Urquhart Castle. The 13th century castle ruins are positioned in a dramatic spot overlooking the loch. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/_j57KshHrQA",
+    "postcode": "IV63 7YA",
+    "district": "Invermoriston",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Achnaconeran Road, Invermoriston, Highland, Alba / Scotland, IV63 7YA, United Kingdom",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "moderate",
+    "terrain": ["woodland", "coastal"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

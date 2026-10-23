@@ -53,8 +53,8 @@
   "details": [],
   "postcode": "KY14 6JB",
   "county": "Fife",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -72,5 +72,9 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B937, Inchrye, Lindores, Fife, Alba / Scotland, KY14 6JB, United Kingdom",
+  "district": "Lindores",
+  "state": "Alba / Scotland"
 }

@@ -41,11 +41,11 @@
   "distance_km": 12.0,
   "description": "This New Forest walk takes you from Brockenhurst to Beaulieu. The walk runs about 7.5 miles following country lanes and forest tracks between the two popular settlements. It's a fairly flat and peaceful walk, passing East Boldre and the lovely Hatchet Pond where there are some nice waterside trails. At the end of the route you can pick up the Beaulieu to Bucklers Hard Circular Walk and enjoy some pleasant riverside trails.",
   "details": [],
-  "postcode": "SO42 7AE",
-  "district": "Brockenhurst",
+  "postcode": "SO42 7AD",
+  "district": "New Forest",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -61,5 +61,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "36, Brookley Road, Brockenhurst, New Forest, Hampshire, England, SO42 7AD, United Kingdom",
+  "state": "England"
 }

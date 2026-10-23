@@ -83,8 +83,8 @@
   "details": [],
   "district": "Sandown",
   "county": "Isle of Wight",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -103,5 +103,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Esplanade, Yaverland, Sandown, Isle of Wight, England, PO36 8JP, United Kingdom",
+  "postcode": "PO36 8JP",
+  "state": "England"
 }

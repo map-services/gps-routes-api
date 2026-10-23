@@ -1,129 +1,120 @@
 {
-  "created_at": "2025-01-06T03:29:06.871959+00:00",
-  "objectID": "33586e165cfe50763a57309b7096fa34",
-  "ref": "porthtowan-walking-route",
-  "title": "Porthtowan Walk - Coastal Circular to Chapel\u00a0Porth Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Porthtowan_sand_dunes_and_clifftop_buildings_-_geograph.org.uk_-_534526.jpg",
-  "nearby": [
-    {
-      "description": "South West Coast Path",
-      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-      "ref": "south-west-coast-path-walking-route"
+    "created_at": "2025-01-06T03:29:06.871959+00:00",
+    "objectID": "33586e165cfe50763a57309b7096fa34",
+    "ref": "porthtowan-walking-route",
+    "title": "Porthtowan Walk - Coastal Circular to Chapel Porth Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Porthtowan_sand_dunes_and_clifftop_buildings_-_geograph.org.uk_-_534526.jpg",
+    "nearby": [
+        {
+            "description": "South West Coast Path",
+            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+            "ref": "south-west-coast-path-walking-route"
+        },
+        {
+            "description": "St Agnes Head - St Agnes Beacon - Wheal Coates",
+            "objectID": "fea68a666fe47a092d0dd957c153b958",
+            "ref": "st-agnes-head---st-agnes-beacon---wheal-coates-walking-route"
+        },
+        {
+            "description": "Perranporth to St Agnes Walk",
+            "objectID": "badf8364c166bab4e5c8896e734f6c5e",
+            "ref": "perranporth-to-st-agnes-walk-walking-route"
+        },
+        {
+            "description": "Perranporth to Holywell Bay Coastal Walk",
+            "objectID": "cc8777d9e60c1e263dce27db6be38b64",
+            "ref": "perranporth-to-holywell-bay-coastal-walk"
+        },
+        {
+            "description": "Porthtowan to St Agnes Coastal Walk",
+            "objectID": "64735e4f2d18216541dbfbb342dc5ff7",
+            "ref": "porthtowan-to-st-agnes-coastal-walk"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33586e165cfe50763a57309b7096fa34.gpx",
+    "_geoloc": {
+        "lat": 50.2879189379,
+        "lng": -5.2415849227
     },
-    {
-      "description": "St Agnes Head - St Agnes Beacon - Wheal Coates",
-      "objectID": "fea68a666fe47a092d0dd957c153b958",
-      "ref": "st-agnes-head---st-agnes-beacon---wheal-coates-walking-route"
-    },
-    {
-      "description": "Perranporth to St Agnes Walk",
-      "objectID": "badf8364c166bab4e5c8896e734f6c5e",
-      "ref": "perranporth-to-st-agnes-walk-walking-route"
-    },
-    {
-      "description": "Perranporth to Holywell Bay Coastal Walk",
-      "objectID": "cc8777d9e60c1e263dce27db6be38b64",
-      "ref": "perranporth-to-holywell-bay-coastal-walk"
-    },
-    {
-      "description": "Porthtowan to St Agnes Coastal Walk",
-      "objectID": "64735e4f2d18216541dbfbb342dc5ff7",
-      "ref": "porthtowan-to-st-agnes-coastal-walk"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33586e165cfe50763a57309b7096fa34.gpx",
-  "_geoloc": {
-    "lat": 50.2879189379,
-    "lng": -5.2415849227
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Porthtowan_sand_dunes_and_clifftop_buildings_-_geograph.org.uk_-_534526.jpg",
-      "title": "Niki Walton / Porthtowan sand dunes and clifftop buildings",
-      "caption": "Porthtowan sand dunes and clifftop buildings"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Village_Store_and_Post_Office%2C_Porthtowan_-_geograph.org.uk_-_534502.jpg",
-      "title": "Niki Walton / Village Store and Post Office, Porthtowan",
-      "caption": "Village Store and Post Office"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Housing_above_Porthtowan_-_geograph.org.uk_-_186609.jpg",
-      "title": "Tony Atkin / Housing above Porthtowan",
-      "caption": "Housing above the village. This loose cluster of houses has developed around the head of a steep coombe which runs down to the main valley."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Behind_Porthtowan_Beach_-_geograph.org.uk_-_186518.jpg",
-      "title": "Tony Atkin / Behind Porthtowan Beach",
-      "caption": "Behind Porthtowan Beach. Note the mine engine house that has been converted to residential accommodation."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_down_Chapel_Combe_-_geograph.org.uk_-_366951.jpg",
-      "title": "Tony Atkin / View down Chapel Combe",
-      "caption": "View down Chapel Combe. Looking down the steep valley towards the sea."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chapel_Porth_-_geograph.org.uk_-_471377.jpg",
-      "title": "Tony Atkin / Chapel Porth",
-      "caption": "Chapel Porth. There is no settlement here, just a car park, a cafe and a beach with lifeguards."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Cafe_at_Chapel_Porth_-_geograph.org.uk_-_471444.jpg",
-      "title": "Tony Atkin / The Cafe at Chapel Porth",
-      "caption": "The Cafe at Chapel Porth. Some really good food to be had here. If you are walking the coast path this is an excellent refuelling stop."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coastline_beyond_Chapel_Porth_-_geograph.org.uk_-_2569277.jpg",
-      "title": "Coastline beyond Chapel Porth by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Coastline beyond Chapel Porth"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This circular walk explores the coast and countryside surrounding the lovely village of Porthtowan. It's a popular place with a beautiful beach, exhilirating cliff top paths and a series of mine stacks and engine houses dotting the landscape. This 3 mile circular walk starts at the coastal car park and takes you along the South West Coast Path towards Chapel Porth which has a nice little beach. The path then heads through the Chapel Combe valley with views to the passing Great Wheal Charlotte Mine. At Towan Cross you pick up another path taking you through the countryside to the car park. You can extend the walk by following country lanes to Mount Hawke where there is a nice path along a stream. To continue your walking in the area you could follow the South West Coast Path north to St Agnes Head. There's some lovely coastal heathland in this area and the fascinating Wheal Coates former tin mine. You can visit these locations on our St Agnes Head - St Agnes Beacon - Wheal Coates Walk .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Near the front there's the Unicorn Inn for some post walk refreshment. It's in a great location next to the beach with great views of the sea. They serve delicious sea food and can be found at postcode TR4 8AD. The Victory Inn is located close to the village at Towan Cross. They have a splendid decking area in their garden and serve a fine Sunday roast. You can find them just north east of the village at postcode TR4 8BN for your sat navs. On the route you could also stop off at the Chapel Porth Beach Cafe where there's some particularly tasty ice cream and clotted cream."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The coastal and country trails make for a fine dog walk. The Victory Inn and the Unicorn Inn mentioned above are also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "At St Agnes Head you can pick up the Perranporth to St Agnes Walk and visit the attractive town to the north. Right on the beach in Perranporth there's the noteworthy Watering Hole which is described as 'the UK\u2019s only bar on the beach'.  For more walking ideas in the area see the Cornwall Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/KgaKRpVExoM",
-  "postcode": "TR4 8AW",
-  "district": "Porthtowan",
-  "county": "Cornwall",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Studio, Beach Road, Porthtowan, St. Agnes, Porthtowan, Cornwall, England, TR4 8AW, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "countryside"
-  ],
-  "points_of_interest": [
-    "beach",
-    "mine stack",
-    "engine house",
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Porthtowan_sand_dunes_and_clifftop_buildings_-_geograph.org.uk_-_534526.jpg",
+            "title": "Niki Walton / Porthtowan sand dunes and clifftop buildings",
+            "caption": "Porthtowan sand dunes and clifftop buildings"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Village_Store_and_Post_Office%2C_Porthtowan_-_geograph.org.uk_-_534502.jpg",
+            "title": "Niki Walton / Village Store and Post Office, Porthtowan",
+            "caption": "Village Store and Post Office"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Housing_above_Porthtowan_-_geograph.org.uk_-_186609.jpg",
+            "title": "Tony Atkin / Housing above Porthtowan",
+            "caption": "Housing above the village. This loose cluster of houses has developed around the head of a steep coombe which runs down to the main valley."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Behind_Porthtowan_Beach_-_geograph.org.uk_-_186518.jpg",
+            "title": "Tony Atkin / Behind Porthtowan Beach",
+            "caption": "Behind Porthtowan Beach. Note the mine engine house that has been converted to residential accommodation."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_down_Chapel_Combe_-_geograph.org.uk_-_366951.jpg",
+            "title": "Tony Atkin / View down Chapel Combe",
+            "caption": "View down Chapel Combe. Looking down the steep valley towards the sea."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chapel_Porth_-_geograph.org.uk_-_471377.jpg",
+            "title": "Tony Atkin / Chapel Porth",
+            "caption": "Chapel Porth. There is no settlement here, just a car park, a cafe and a beach with lifeguards."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Cafe_at_Chapel_Porth_-_geograph.org.uk_-_471444.jpg",
+            "title": "Tony Atkin / The Cafe at Chapel Porth",
+            "caption": "The Cafe at Chapel Porth. Some really good food to be had here. If you are walking the coast path this is an excellent refuelling stop."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coastline_beyond_Chapel_Porth_-_geograph.org.uk_-_2569277.jpg",
+            "title": "Coastline beyond Chapel Porth by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Coastline beyond Chapel Porth"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This circular walk explores the coast and countryside surrounding the lovely village of Porthtowan. It's a popular place with a beautiful beach, exhilirating cliff top paths and a series of mine stacks and engine houses dotting the landscape. This 3 mile circular walk starts at the coastal car park and takes you along the South West Coast Path towards Chapel Porth which has a nice little beach. The path then heads through the Chapel Combe valley with views to the passing Great Wheal Charlotte Mine. At Towan Cross you pick up another path taking you through the countryside to the car park. You can extend the walk by following country lanes to Mount Hawke where there is a nice path along a stream. To continue your walking in the area you could follow the South West Coast Path north to St Agnes Head. There's some lovely coastal heathland in this area and the fascinating Wheal Coates former tin mine. You can visit these locations on our St Agnes Head - St Agnes Beacon - Wheal Coates Walk .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Near the front there's the Unicorn Inn for some post walk refreshment. It's in a great location next to the beach with great views of the sea. They serve delicious sea food and can be found at postcode TR4 8AD. The Victory Inn is located close to the village at Towan Cross. They have a splendid decking area in their garden and serve a fine Sunday roast. You can find them just north east of the village at postcode TR4 8BN for your sat navs. On the route you could also stop off at the Chapel Porth Beach Cafe where there's some particularly tasty ice cream and clotted cream."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The coastal and country trails make for a fine dog walk. The Victory Inn and the Unicorn Inn mentioned above are also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "At St Agnes Head you can pick up the Perranporth to St Agnes Walk and visit the attractive town to the north. Right on the beach in Perranporth there's the noteworthy Watering Hole which is described as 'the UK\u2019s only bar on the beach'.  For more walking ideas in the area see the Cornwall Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/KgaKRpVExoM",
+    "postcode": "TR4 8AW",
+    "district": "Porthtowan",
+    "county": "Cornwall",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Studio, Beach Road, Porthtowan, St. Agnes, Porthtowan, Cornwall, England, TR4 8AW, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["coastal", "countryside"],
+    "points_of_interest": [
+        "beach",
+        "mine stack",
+        "engine house",
+        "historical site"
+    ],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

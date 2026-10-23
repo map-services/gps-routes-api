@@ -47,11 +47,11 @@
   "description": "This walk takes you along a section of the Ayrshire Coastal Path from Troon to Prestwick. The waymarked route runs for just over 4 miles, passing some lovely beaches and the famous Royal Troon golf course. Along the way there are excellent coastal views over the Firth of Clyde towards Arran. You can continue your coastal walking on theIrvine to Troon Beach Walk.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/MPEL6W4nXM0?si=H1Zyyf_ItP6ZL0dJ",
-  "postcode": "KA10 6AN",
+  "postcode": "KA10 6AL",
   "district": "Troon",
   "county": "South Ayrshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -68,5 +68,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "NCN7, Muirhead, Troon, South Ayrshire, Alba / Scotland, KA10 6AL, United Kingdom",
+  "state": "Alba / Scotland"
 }

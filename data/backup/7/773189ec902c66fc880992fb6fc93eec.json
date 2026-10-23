@@ -85,8 +85,8 @@
   "postcode": "PO38 2AT",
   "district": "Niton",
   "county": "Isle of Wight",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 15 minutes",
@@ -103,5 +103,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "High Street, Niton and Whitwell, Niton, Isle of Wight, England, PO38 2AT, United Kingdom",
+  "state": "England"
 }

@@ -63,10 +63,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/RsEjHOzIk_w?si=883pLpKUJPk5Wrtf",
   "postcode": "IP13 6DS",
-  "district": "Ufford",
+  "district": "East Suffolk",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -85,5 +85,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Church Lane, Ufford, East Suffolk, Suffolk, England, IP13 6DS, United Kingdom",
+  "state": "England"
 }

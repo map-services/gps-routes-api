@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/CRzVd27OJHY?si=qDhNRnQRpvoyfVAg",
   "county": "Cheshire East",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 10 minutes",
@@ -65,5 +65,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Falls, Wincle, Cheshire East, England, SK11 0QE, United Kingdom",
+  "postcode": "SK11 0QE",
+  "district": "Wincle",
+  "state": "England"
 }

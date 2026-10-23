@@ -1,110 +1,102 @@
 {
-  "created_at": "2025-01-06T18:50:31.696806+00:00",
-  "objectID": "0367d63aaf753b4176f62fbeef1c672b",
-  "ref": "ballina-walking-route",
-  "title": "Ballina\u00a0Riverside Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_quayside_at_Ballina_-_geograph.org.uk_-_5526027.jpg",
-  "nearby": [
-    {
-      "description": "O'Briensbridge Riverside Walk",
-      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-      "ref": "obriensbridge-riverside-walk-walking-route"
+    "created_at": "2025-01-06T18:50:31.696806+00:00",
+    "objectID": "0367d63aaf753b4176f62fbeef1c672b",
+    "ref": "ballina-walking-route",
+    "title": "Ballina Riverside Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_quayside_at_Ballina_-_geograph.org.uk_-_5526027.jpg",
+    "nearby": [
+        {
+            "description": "O'Briensbridge Riverside Walk",
+            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+            "ref": "obriensbridge-riverside-walk-walking-route"
+        },
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "Lough Derg Way",
+            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+            "ref": "lough-derg-way-walking-route"
+        },
+        {
+            "description": "Limerick 3 Bridges Walk",
+            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+            "ref": "limerick-3-bridges-walking-route"
+        },
+        {
+            "description": "Adare",
+            "objectID": "8e348d955193556ee256931d689b4080",
+            "ref": "adare-walking-route"
+        },
+        {
+            "description": "Cratloe Woods",
+            "objectID": "627fa9c668b89b290f080d79c1d0408f",
+            "ref": "cratloe-woods-walking-route"
+        },
+        {
+            "description": "Castleconnell River Walk",
+            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+            "ref": "castleconnell-river-walk"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0367d63aaf753b4176f62fbeef1c672b.gpx",
+    "_geoloc": {
+        "lat": 52.80739,
+        "lng": -8.44022
     },
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
-    },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "Lough Derg Way",
-      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-      "ref": "lough-derg-way-walking-route"
-    },
-    {
-      "description": "Limerick 3 Bridges Walk",
-      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-      "ref": "limerick-3-bridges-walking-route"
-    },
-    {
-      "description": "Adare",
-      "objectID": "8e348d955193556ee256931d689b4080",
-      "ref": "adare-walking-route"
-    },
-    {
-      "description": "Cratloe Woods",
-      "objectID": "627fa9c668b89b290f080d79c1d0408f",
-      "ref": "cratloe-woods-walking-route"
-    },
-    {
-      "description": "Castleconnell River Walk",
-      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell\u00a0river-walk"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0367d63aaf753b4176f62fbeef1c672b.gpx",
-  "_geoloc": {
-    "lat": 52.80739,
-    "lng": -8.44022
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_quayside_at_Ballina_-_geograph.org.uk_-_5526027.jpg",
-      "title": "The quayside at Ballina by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The quayside at Ballina. Ballina was, along with Killaloe on the other bank, an important stopping point for barges traveling up the River Shannon. In the 19th and early 20th centuries, bargemen would pass through Ballina on their way to deliver goods to Dublin. However, this began to decline when train lines were set up to link it to other major lines, making the transport of goods cheaper. As a result, the barges, while returning for a brief period during the Emergency (1939\u20131945), had disappeared by the 1920s and 1930s. Having been replaced by new lines which linked Limerick directly to Dublin and falling into disrepair, the railway tracks were removed in the 1950s."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Killaloe_from_the_banks_of_the_Shannon.jpg/500px-Killaloe_from_the_banks_of_the_Shannon.jpg",
-      "title": "Blazenkerry23, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Killaloe from the banks of the Shannon"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Washer_Woman%27s_Bridge_-_geograph.org.uk_-_5526411.jpg",
-      "title": "Washer Woman's Bridge by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Washer Woman's Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Killaloe_Bridge_over_the_River_Shannon_-_geograph.org.uk_-_5021782.jpg/500px-Killaloe_Bridge_over_the_River_Shannon_-_geograph.org.uk_-_5021782.jpg",
-      "title": "Killaloe Bridge over the River Shannon by Antony Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Killaloe Bridge over the River Shannon. The eighteenth-century bridge has thirteen arches and includes a lifting section that was added in 1929. The bridge has only one vehicular lane, with traffic lights to control vehicle movement."
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This pleasant riverside stroll takes you along the River Shannon in the town of Ballina in County Tipperary. The walk starts on the bridge that links the town to neighbouring Killaloe. You can then cross the bridge and follow a riverside path south towards the park on the eastern side of Ballina. There are lovely views across the river to the surrounding hills and countryside. You could also cross over to Killaloe where you can visit the historic St Flannan's Cathedral. To continue your walking in the area head south to the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. The village can be reached by following the Lough Derg Way .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. In Limerick itself there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/ptOufIVgr4Y?si=FstvF6nkCQj7cJlA",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Killaloe Bridge, Killaloe, Killaloe ED, Killaloe Municipal District, County Clare, Munster, V94 TRD7, \u00c9ire / Ireland",
-  "postcode": "V94 TRD7",
-  "district": "Killaloe",
-  "county": "County Clare",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "riverside"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_quayside_at_Ballina_-_geograph.org.uk_-_5526027.jpg",
+            "title": "The quayside at Ballina by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The quayside at Ballina. Ballina was, along with Killaloe on the other bank, an important stopping point for barges traveling up the River Shannon. In the 19th and early 20th centuries, bargemen would pass through Ballina on their way to deliver goods to Dublin. However, this began to decline when train lines were set up to link it to other major lines, making the transport of goods cheaper. As a result, the barges, while returning for a brief period during the Emergency (1939\u20131945), had disappeared by the 1920s and 1930s. Having been replaced by new lines which linked Limerick directly to Dublin and falling into disrepair, the railway tracks were removed in the 1950s."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Killaloe_from_the_banks_of_the_Shannon.jpg/500px-Killaloe_from_the_banks_of_the_Shannon.jpg",
+            "title": "Blazenkerry23, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Killaloe from the banks of the Shannon"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Washer_Woman%27s_Bridge_-_geograph.org.uk_-_5526411.jpg",
+            "title": "Washer Woman's Bridge by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Washer Woman's Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Killaloe_Bridge_over_the_River_Shannon_-_geograph.org.uk_-_5021782.jpg/500px-Killaloe_Bridge_over_the_River_Shannon_-_geograph.org.uk_-_5021782.jpg",
+            "title": "Killaloe Bridge over the River Shannon by Antony Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Killaloe Bridge over the River Shannon. The eighteenth-century bridge has thirteen arches and includes a lifting section that was added in 1929. The bridge has only one vehicular lane, with traffic lights to control vehicle movement."
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This pleasant riverside stroll takes you along the River Shannon in the town of Ballina in County Tipperary. The walk starts on the bridge that links the town to neighbouring Killaloe. You can then cross the bridge and follow a riverside path south towards the park on the eastern side of Ballina. There are lovely views across the river to the surrounding hills and countryside. You could also cross over to Killaloe where you can visit the historic St Flannan's Cathedral. To continue your walking in the area head south to the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. The village can be reached by following the Lough Derg Way .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. In Limerick itself there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/ptOufIVgr4Y?si=FstvF6nkCQj7cJlA",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Killaloe Bridge, Killaloe, Killaloe ED, Killaloe Municipal District, County Clare, Munster, V94 TRD7, \u00c9ire / Ireland",
+    "postcode": "V94 TRD7",
+    "district": "Killaloe",
+    "county": "County Clare",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["riverside"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["pub/cafe"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

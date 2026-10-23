@@ -27,8 +27,8 @@
   "video_url": "https://www.youtube.com/embed/vq04BsTvbCY?si=hLkWtMW6jtoG_VHY",
   "postcode": "RG12 7QW",
   "county": "Bracknell Forest",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -51,5 +51,9 @@
     "cycling",
     "dog friendly",
     "horse riding"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Look Out Discovery Centre Play Area, Psyclo Path, Crowthorne, Bracknell Forest, England, RG12 7QW, United Kingdom",
+  "district": "Crowthorne",
+  "state": "England"
 }

@@ -36,9 +36,9 @@
   "distance_km": 1.1,
   "description": "This short walk visits Llyn Tryweryn in Gwynedd, North Wales. The small lake is very beautiful with great views across the water to the surrounding mountains of Snowdonia. There is a parking area just west of the lake. You can then follow a pleasant footpath along the northern end of the water.TheCwm Prysor Viaduct Walkstarts near the lake and is a good way to further explore the area.",
   "details": [],
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -56,5 +56,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A4212, Trawsfynydd, Gwynedd, Cymru / Wales, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Cymru / Wales"
 }

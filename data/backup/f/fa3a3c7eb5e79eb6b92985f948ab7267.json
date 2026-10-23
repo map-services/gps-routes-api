@@ -50,7 +50,7 @@
   "postcode": "DL17 9DP",
   "county": "County Durham",
   "region": "North East",
-  "country": "England",
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "30 minutes",
@@ -69,5 +69,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bishop Middleham, County Durham, North East, England, DL17 9DP, United Kingdom",
+  "district": "Bishop Middleham",
+  "state": "England"
 }

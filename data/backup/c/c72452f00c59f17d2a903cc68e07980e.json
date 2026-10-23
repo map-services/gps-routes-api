@@ -69,8 +69,8 @@
   "video_url": "https://www.youtube.com/embed/Fr3ogeEwJQw?si=X4VSXMTnb-VZoteu",
   "postcode": "NR17 1DP",
   "county": "Norfolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3.5 - 4 hours",
@@ -89,5 +89,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pingo Trail, Stow Bedon, Caston, Breckland, Norfolk, England, NR17 1DP, United Kingdom",
+  "district": "Breckland",
+  "state": "England"
 }

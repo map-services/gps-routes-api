@@ -31,10 +31,10 @@
   "distance_km": 4.5,
   "description": "A walk along the South West Coast Path from Shaldon to Maidencombe in Devon. The route runs for a distance of just under 3 miles, following the cliff top path south along the coast. The walk starts at the pretty village of Shaldon which overlooks the River Teign Estuary, opposite Teigmouth. You then head past Bundle Head and Labrador Bay before finishing at Maidencombe Beach.",
   "details": [],
-  "district": "Shaldon",
+  "district": "Teignbridge",
   "county": "Devon",
-  "region": "South West",
-  "country": "England",
+  "region": "Devon and Torbay",
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -50,5 +50,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Ness Drive, Shaldon, Teignbridge, Devon, Devon and Torbay, England, TQ14 0BJ, United Kingdom",
+  "postcode": "TQ14 0BJ",
+  "state": "England"
 }

@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/yP_zUIOzk7c?si=8mAZde8zCLwkqrM4",
   "county": "North Lanarkshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -78,5 +78,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Tak Ma Doon Road, Highland Park, Berryhill, Kilsyth, North Lanarkshire, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": "Kilsyth",
+  "state": "Alba / Scotland"
 }

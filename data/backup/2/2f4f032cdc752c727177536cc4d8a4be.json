@@ -54,9 +54,9 @@
   "video_url": "https://www.youtube.com/embed/HORUx2-3-7Q?si=nC14WcPy0LJA5h-H",
   "postcode": "EX23 8RA",
   "district": "Bude",
-  "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
+  "county": "Kernow / Cornwall",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -73,5 +73,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bencoolen Road, Lynstone, Bude\u2013Stratton, Bude, Kernow / Cornwall, England, EX23 8RA, United Kingdom",
+  "state": "England"
 }

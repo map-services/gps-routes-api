@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/irSJdOplheM?si=nKP7v4B1LqhFy33Y",
   "postcode": "SN8 4PA",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 20 minutes",
@@ -68,5 +68,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Martinsell Hill car park, Mud Lane, Milton Lilbourne, Wootton Rivers, Wiltshire, England, SN8 4PA, United Kingdom",
+  "district": "Wootton Rivers",
+  "state": "England"
 }

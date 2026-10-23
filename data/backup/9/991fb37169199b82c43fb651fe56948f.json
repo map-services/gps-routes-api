@@ -51,11 +51,11 @@
   "distance_km": 19.7,
   "description": "This circular walk explores the countryside and woodland to the north east of the Suffolk village of Icklingham. The route uses sections of the Icknield Way Path, the St Edmund Way and the Lark Valley Path. These waymarked trails run along bridlepaths, local footpaths and forest trails. On the way you will pass the King's Forest and the lovely Lackford Lakes Nature Reserve. The reserve includes a series of pretty lakes, riverside trails along the River Lark and large variety of wildfowl. In this area you also pass West Stow Country Park which includes a fascinating Anglo-Saxon village.",
   "details": [],
-  "postcode": "IP28 6PU",
-  "district": "Icklingham",
+  "postcode": "IP28 6PT",
+  "district": "West Suffolk",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "6-7 hours",
@@ -72,5 +72,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Astra Cottage, 3, The Street, Icklingham, West Suffolk, Suffolk, England, IP28 6PT, United Kingdom",
+  "state": "England"
 }

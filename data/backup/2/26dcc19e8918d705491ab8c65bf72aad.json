@@ -1,8 +1,8 @@
 {
   "created_at": "2026-10-22T21:36:47.866845+00:00",
   "objectID": "26dcc19e8918d705491ab8c65bf72aad",
-  "ref": "glympton-and-kiddington\u00a0park-estates-walk",
-  "title": "Glympton and Kiddington\u00a0Park Estates Walk Route",
+  "ref": "glympton-and-kiddington-park-estates-walk",
+  "title": "Glympton and Kiddington Park Estates Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Houses_and_Post_Office%2C_Glympton_-_geograph.org.uk_-_7593511.jpg/500px-Houses_and_Post_Office%2C_Glympton_-_geograph.org.uk_-_7593511.jpg?20250426223556",
   "nearby": [
     {
@@ -73,8 +73,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/x482CudCxok?si=tScAitGddbT1pWim",
   "county": "Oxfordshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -90,5 +90,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Glympton, West Oxfordshire, Oxfordshire, England, OX20 1AW, United Kingdom",
+  "postcode": "OX20 1AW",
+  "district": "West Oxfordshire",
+  "state": "England"
 }

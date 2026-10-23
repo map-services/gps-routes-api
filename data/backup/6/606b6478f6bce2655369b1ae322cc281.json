@@ -47,10 +47,10 @@
   "description": "This circular walk visits the Hertfordshire villages of Burnham Green, Digswell and Tewin. On the way you will enjoy pleasant views of the River Mimram which runs through the area. You can start and finish the walk from Digswell which has a train station just to the north of Welwyn Garden City. The route runs for just over 6 miles, passing along a series of public footpaths and quiet country lanes. There are some small climbs with great views over the surrounding countryside from the high points. You can continue your walking in the area by picking up the circular Welwyn Garden City Centenary Walk which also starts from Digswell train station.",
   "details": [],
   "postcode": "AL6 0AU",
-  "district": "Welwyn Garden City",
+  "district": "Welwyn Hatfield",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours 20 minutes",
@@ -67,5 +67,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "14,16, Adele Avenue, Welwyn, Digswell, Welwyn Hatfield, Hertfordshire, England, AL6 0AU, United Kingdom",
+  "state": "England"
 }

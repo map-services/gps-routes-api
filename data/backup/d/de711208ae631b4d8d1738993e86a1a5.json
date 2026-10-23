@@ -1,104 +1,102 @@
 {
-  "created_at": "2026-10-22T21:11:21.772074+00:00",
-  "objectID": "de711208ae631b4d8d1738993e86a1a5",
-  "ref": "antrim-six-mile-water-walking-and-cycle-route",
-  "title": "Antrim Six Mile Water River Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lough_Neagh_and_the_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_2096062.jpg?20210601113547",
-  "nearby": [
-    {
-      "description": "Ballyboley Forest",
-      "objectID": "36cf56747e4c24c1a98c584d8aa28d74",
-      "ref": "ballyboley-forest-walking-route"
+    "created_at": "2026-10-22T21:11:21.772074+00:00",
+    "objectID": "de711208ae631b4d8d1738993e86a1a5",
+    "ref": "antrim-six-mile-water-walking-and-cycle-route",
+    "title": "Antrim Six Mile Water River Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lough_Neagh_and_the_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_2096062.jpg?20210601113547",
+    "nearby": [
+        {
+            "description": "Ballyboley Forest",
+            "objectID": "36cf56747e4c24c1a98c584d8aa28d74",
+            "ref": "ballyboley-forest-walking-route"
+        },
+        {
+            "description": "Black Mountain",
+            "objectID": "4e1ba80745688d4ffeac9b39d94ee7cd",
+            "ref": "black-mountain-walking-route"
+        },
+        {
+            "description": "Toome Canal",
+            "objectID": "b668018e50a0f50bac5588ff9a885129",
+            "ref": "toome-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Ballyronan Wood",
+            "objectID": "a8530080603954617e8cfe8b75879c3a",
+            "ref": "ballyronan-wood-walking-route"
+        },
+        {
+            "description": "Tardree Forest",
+            "objectID": "9ad95e14c8f16a878f497ed989e1931d",
+            "ref": "tardree-forest-walking-route"
+        },
+        {
+            "description": "Antrim Loughshore Walk",
+            "objectID": "ca2e4dfe2595435a7afd62c5b030ab07",
+            "ref": "antrim-loughshore-walk"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/de711208ae631b4d8d1738993e86a1a5.gpx",
+    "_geoloc": {
+        "lat": 54.71557,
+        "lng": -6.23983
     },
-    {
-      "description": "Black Mountain",
-      "objectID": "4e1ba80745688d4ffeac9b39d94ee7cd",
-      "ref": "black-mountain-walking-route"
-    },
-    {
-      "description": "Toome Canal",
-      "objectID": "b668018e50a0f50bac5588ff9a885129",
-      "ref": "toome-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Ballyronan Wood",
-      "objectID": "a8530080603954617e8cfe8b75879c3a",
-      "ref": "ballyronan\u00a0wood-walking-route"
-    },
-    {
-      "description": "Tardree Forest",
-      "objectID": "9ad95e14c8f16a878f497ed989e1931d",
-      "ref": "tardree-forest-walking-route"
-    },
-    {
-      "description": "Antrim Loughshore Walk",
-      "objectID": "ca2e4dfe2595435a7afd62c5b030ab07",
-      "ref": "antrim-loughshore-walk"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/de711208ae631b4d8d1738993e86a1a5.gpx",
-  "_geoloc": {
-    "lat": 54.71557,
-    "lng": -6.23983
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lough_Neagh_and_the_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_2096062.jpg?20210601113547",
-      "title": "Lough Neagh and the Sixmilewater, Antrim by Albert Bridge, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lough Neagh and the Sixmilewater, Antrim. Lough Neagh itself is a stunning natural feature, its vast expanse of water stretching to the horizon and surrounded by reed beds and wetlands. It is the largest lake in the British Isles and a vital habitat for a range of wildlife. During your walk, you may spot wading birds like curlews, redshanks, and lapwings, particularly in the migratory seasons when the lough becomes a hub for waterfowl. In the summer, the wetland plants such as reedmace and flowering rush add splashes of green and pink to the landscape, while the open skies often reveal soaring birds of prey like kestrels or buzzards."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Antrim_marina%2C_Sixmilewater_-_geograph.org.uk_-_257199.jpg?20100825163405",
-      "title": "Albert Bridge / Antrim marina, Sixmilewater",
-      "caption": "Antrim marina, Sixmilewater. The northern bank of the river forms Antrim marina. The small yachts seem to add to the character of the river as it meanders the last few hundred yards to Lough Neagh. Otters, though elusive, are known to inhabit these waters, and their presence may be marked by spraints along the banks. As you continue along the trail, you will likely see grey herons standing motionless in search of fish or hear the cheerful songs of robins and blackbirds in the nearby trees."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_880325.jpg?20110221135130",
-      "title": "Albert Bridge / The Sixmilewater, Antrim",
-      "caption": "The Sixmilewater, seen from the Dublin Road bridge, as it flows past the Castle Gardens. The ruins of Antrim Castleare at middle top. There is a glimpse of Antrim Forum leisure centre at top left."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Antrim_Castle_%28ruin%29_-_geograph.org.uk_-_588779.jpg?20110206130401",
-      "title": "Albert Bridge / Antrim Castle (ruin)",
-      "caption": "Antrim Castle (ruin). The 17th century Antrim Castle was destroyed by fire in 1922. This Italian tower, built in 1887, is all that remains."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Six_Mile_Water_and_Deer_Park_Bridge_-_geograph.org.uk_-_5358759.jpg?20230831035117",
-      "title": "Six Mile Water and Deer Park Bridge by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Six Mile Water and Deer Park Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Motte%2C_Antrim_-_geograph.org.uk_-_3339790.jpg",
-      "title": "The Motte, Antrim by Robert Ashby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Motte, Antrim"
-    }
-  ],
-  "distance_km": 2.3,
-  "description": "This shared cycling and walking route takes you along the Six Mile Water River in Antrim. The route includes a visit to the delightful Antrim Castle Gardens and Lough Neagh. You can start off at the Lough Shore car park at Lough Neagh where you can enjoy fine views over the large lake. The trail then heads north and then east along the Six Mile Water before finishing at the historic castle gardens on the river. The Six Mile Water River provides a tranquil companion as the path winds alongside it. The riverbanks are lined with willows and alders, their roots creating habitats for aquatic insects and small fish. Kingfishers can sometimes be glimpsed, their vibrant plumage a striking contrast to the calm waters. Reaching Antrim Castle Gardens, you step into a historic landscape that combines natural beauty with cultural heritage. The gardens are a beautifully restored 17th-century designed landscape, featuring elegant pathways, manicured lawns, and ornamental water features. The site includes the remnants of the original Antrim Castle, which was destroyed by fire in 1922. The remains of the castle tower and stonework provide a striking glimpse into the grandeur of the past. Nearby, the Clotworthy House, once part of the castle estate, has been repurposed into a cultural and visitor centre, adding to the richness of the experience. The gardens themselves are a haven for flora and fauna, with formal flowerbeds, ancient trees, and a variety of shrubs. The Long Canal and the Round Pond attract waterbirds such as swans and moorhens, while the surrounding woodlands are home to squirrels and bats. Seasonal planting ensures that the gardens offer changing colours and fragrances throughout the year, making them a delightful place to explore at any time. You can continue your walking on the Antrim Loughshore Walk .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To continue your walking near Antrim you could visit the peaceful woodland trails at Tardree Forest and Ballyboley Forest or enjoy a climb to the wonderful viewpoints on Black Mountain. To the west there's another waterside walk along the Toome Canal to a fine viewpoint over Lough Neagh. Near here there's also the peaceful woodland trails at Ballyronan Wood."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/8hBR1O0d57Y?si=8G_W6-8n4W3gNkAc",
-  "gazetteer_found": false,
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lough_Neagh_and_the_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_2096062.jpg?20210601113547",
+            "title": "Lough Neagh and the Sixmilewater, Antrim by Albert Bridge, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lough Neagh and the Sixmilewater, Antrim. Lough Neagh itself is a stunning natural feature, its vast expanse of water stretching to the horizon and surrounded by reed beds and wetlands. It is the largest lake in the British Isles and a vital habitat for a range of wildlife. During your walk, you may spot wading birds like curlews, redshanks, and lapwings, particularly in the migratory seasons when the lough becomes a hub for waterfowl. In the summer, the wetland plants such as reedmace and flowering rush add splashes of green and pink to the landscape, while the open skies often reveal soaring birds of prey like kestrels or buzzards."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Antrim_marina%2C_Sixmilewater_-_geograph.org.uk_-_257199.jpg?20100825163405",
+            "title": "Albert Bridge / Antrim marina, Sixmilewater",
+            "caption": "Antrim marina, Sixmilewater. The northern bank of the river forms Antrim marina. The small yachts seem to add to the character of the river as it meanders the last few hundred yards to Lough Neagh. Otters, though elusive, are known to inhabit these waters, and their presence may be marked by spraints along the banks. As you continue along the trail, you will likely see grey herons standing motionless in search of fish or hear the cheerful songs of robins and blackbirds in the nearby trees."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Sixmilewater%2C_Antrim_-_geograph.org.uk_-_880325.jpg?20110221135130",
+            "title": "Albert Bridge / The Sixmilewater, Antrim",
+            "caption": "The Sixmilewater, seen from the Dublin Road bridge, as it flows past the Castle Gardens. The ruins of Antrim Castleare at middle top. There is a glimpse of Antrim Forum leisure centre at top left."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Antrim_Castle_%28ruin%29_-_geograph.org.uk_-_588779.jpg?20110206130401",
+            "title": "Albert Bridge / Antrim Castle (ruin)",
+            "caption": "Antrim Castle (ruin). The 17th century Antrim Castle was destroyed by fire in 1922. This Italian tower, built in 1887, is all that remains."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Six_Mile_Water_and_Deer_Park_Bridge_-_geograph.org.uk_-_5358759.jpg?20230831035117",
+            "title": "Six Mile Water and Deer Park Bridge by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Six Mile Water and Deer Park Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Motte%2C_Antrim_-_geograph.org.uk_-_3339790.jpg",
+            "title": "The Motte, Antrim by Robert Ashby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Motte, Antrim"
+        }
+    ],
+    "distance_km": 2.3,
+    "description": "This shared cycling and walking route takes you along the Six Mile Water River in Antrim. The route includes a visit to the delightful Antrim Castle Gardens and Lough Neagh. You can start off at the Lough Shore car park at Lough Neagh where you can enjoy fine views over the large lake. The trail then heads north and then east along the Six Mile Water before finishing at the historic castle gardens on the river. The Six Mile Water River provides a tranquil companion as the path winds alongside it. The riverbanks are lined with willows and alders, their roots creating habitats for aquatic insects and small fish. Kingfishers can sometimes be glimpsed, their vibrant plumage a striking contrast to the calm waters. Reaching Antrim Castle Gardens, you step into a historic landscape that combines natural beauty with cultural heritage. The gardens are a beautifully restored 17th-century designed landscape, featuring elegant pathways, manicured lawns, and ornamental water features. The site includes the remnants of the original Antrim Castle, which was destroyed by fire in 1922. The remains of the castle tower and stonework provide a striking glimpse into the grandeur of the past. Nearby, the Clotworthy House, once part of the castle estate, has been repurposed into a cultural and visitor centre, adding to the richness of the experience. The gardens themselves are a haven for flora and fauna, with formal flowerbeds, ancient trees, and a variety of shrubs. The Long Canal and the Round Pond attract waterbirds such as swans and moorhens, while the surrounding woodlands are home to squirrels and bats. Seasonal planting ensures that the gardens offer changing colours and fragrances throughout the year, making them a delightful place to explore at any time. You can continue your walking on the Antrim Loughshore Walk .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To continue your walking near Antrim you could visit the peaceful woodland trails at Tardree Forest and Ballyboley Forest or enjoy a climb to the wonderful viewpoints on Black Mountain. To the west there's another waterside walk along the Toome Canal to a fine viewpoint over Lough Neagh. Near here there's also the peaceful woodland trails at Ballyronan Wood."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/8hBR1O0d57Y?si=8G_W6-8n4W3gNkAc",
+    "gazetteer_found": false,
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"],
+    "nominatim_found": true,
+    "display_address": "Millennium Milepost, Lough Road, Antrim, Antrim and Newtownabbey District, County Antrim, Northern Ireland / Tuaisceart \u00c9ireann, BT41 4LH, United Kingdom",
+    "postcode": "BT41 4LH",
+    "district": "Antrim",
+    "county": "County Antrim",
+    "region": null,
+    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+    "country": "United Kingdom"
 }

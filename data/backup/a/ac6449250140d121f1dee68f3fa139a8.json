@@ -91,11 +91,11 @@
   "distance_km": 12.4,
   "description": "This splendid coastal walk takes you from Seaford to East Dean in West Sussex. The route runs for a distance of just under 8 miles, taking you along sections of the Vanguard Way and the The South Downs Way. The route includes cliff top coastal paths and riverside trails with fine views throughout. On the way you will pass several of the local scenic highlights including Cuckmere River and Cuckmere Haven, the popular Seven Sisters Country Park and Birling Gap near East Dean.",
   "details": [],
-  "postcode": "BN25 1JH",
+  "postcode": "BN25 1EB",
   "district": "Seaford",
   "county": "East Sussex",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -115,5 +115,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Marine Parade, East Blatchington, Seaford, Lewes, East Sussex, England, BN25 1EB, United Kingdom",
+  "state": "England"
 }

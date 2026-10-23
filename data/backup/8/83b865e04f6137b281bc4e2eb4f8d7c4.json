@@ -69,8 +69,8 @@
   "video_url": "https://www.youtube.com/embed/6_ykyBo45lU?si=_VN4Moackz63TyXW",
   "district": "Portbury",
   "county": "North Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -88,5 +88,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Station Road, Portbury, North Somerset, England, BS20 7TN, United Kingdom",
+  "postcode": "BS20 7TN",
+  "state": "England"
 }

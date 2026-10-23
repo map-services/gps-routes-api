@@ -55,8 +55,8 @@
   "postcode": "AB56 4NP",
   "district": "Portknockie",
   "county": "Moray",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -74,5 +74,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Portknockie, Moray, Alba / Scotland, AB56 4NP, United Kingdom",
+  "state": "Alba / Scotland"
 }

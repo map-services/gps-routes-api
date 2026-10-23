@@ -33,8 +33,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/b_ZwmLK4P1I?si=Cuy2HNxsCaHf4szW",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -53,5 +53,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Tower Road, Kilmington Common, Kilmington, Wiltshire, England, United Kingdom",
+  "postcode": null,
+  "district": "Kilmington",
+  "state": "England"
 }

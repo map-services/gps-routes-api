@@ -58,8 +58,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/FRm4asydp7U?si=eZ-yXmgqmFdoeRPi",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -79,5 +79,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Ridgeway, Broad Hinton, Winterbourne Bassett, Wiltshire, England, United Kingdom",
+  "postcode": null,
+  "district": "Winterbourne Bassett",
+  "state": "England"
 }

@@ -36,10 +36,10 @@
   "distance_km": 8.7,
   "description": "This circular walk visits Idlicote Hill and the bluebell woodland to the south west of the village of Whatcote. You can follow the Warwickshire Centenary Way south west from the village to Hell Brake and Oak Tree Coppice, where the bluebells grow during the spring months. The route also includes a climb to Idlicote Hill where you can enjoy some fine views over the surrounding Warwickshire countryside.  You can extend the walk by continuing west to visit Shipston on Stour.",
   "details": [],
-  "district": "Whatcote",
+  "district": "Stratford-on-Avon",
   "county": "Warwickshire",
-  "region": "West Midlands",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -55,5 +55,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Rectory Lane, Whatcote CP, Shipston-on-Stour, Stratford-on-Avon, Warwickshire, England, CV36 5EB, United Kingdom",
+  "postcode": "CV36 5EB",
+  "state": "England"
 }

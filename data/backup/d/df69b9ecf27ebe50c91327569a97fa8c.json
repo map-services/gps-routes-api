@@ -32,8 +32,8 @@
   "description": "This circular walk explores the countryside and wood surrounding the Berkshire village of Tidmarsh. The trail includes views of the River Pang and peaceful trails through the nearby Sulham Woods. There are lots of pretty bluebells in the spring months and great trails for dog walkers. You can start and finish the walk from the car park in Sulham Woods. Just south of the route you could visit the Moor Copse Nature Reserve where there's wildflower meadows surrounded by wet woodland.",
   "details": [],
   "county": "West Berkshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
@@ -51,5 +51,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Sulham, West Berkshire, England, RG8 8EE, United Kingdom",
+  "postcode": "RG8 8EE",
+  "district": null,
+  "state": "England"
 }

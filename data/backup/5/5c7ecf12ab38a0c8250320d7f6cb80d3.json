@@ -36,10 +36,10 @@
   "distance_km": 4.2,
   "description": "This walk follows a section of the Kennet and Avon Canal Walk to Avoncliff where you can enjoy views of the Avoncliff Aqueduct. The route runs for a distance of 2.6 miles following the canal towpath west from the town. On the way you can enjoy some fine views over the waters to the surrounding countryside. From the top of the viaduct there are also excellent views over the village. The aqueduct is a peaceful spot for observing canal boats, local wildlife, and the scenic valley below. Nearby, Avoncliff railway station provides easy access for visitors, and the Cross Guns pub beside the canal offers a popular place to rest and take in the view. The surrounding area is rich in walking and cycling opportunities, including trails along the canal and through the wooded Avon valley.",
   "details": [],
-  "district": "Bradford-on-Avon",
+  "district": "Bradford on Avon",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -59,5 +59,9 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Three Horseshoes, 55, Frome Road, Bradford on Avon, Wiltshire, England, BA15 1LA, United Kingdom",
+  "postcode": "BA15 1LA",
+  "state": "England"
 }

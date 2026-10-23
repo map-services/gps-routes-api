@@ -47,10 +47,10 @@
   "description": "This walk follows a section of the Wales Coast Path from Holyhead to Trearddur Bay on the Isle of Anglesey. The route runs for about 12 miles, running along a spectacular coastal path with wonderful sea views throughout. You'll pass Gogarth Bay and the famous South Stack Lighthouse before finishing at the beautiful beach at Trearddur Bay. Along the way there's some fine cliff top sections with amazing views over the island.",
   "details": [],
   "postcode": "LL65 2BU",
-  "district": "Caergybi / Holyhead",
-  "county": "Sir Ynys Mon - Isle of Anglesey",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Holyhead",
+  "county": "Ynys M\u00f4n",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5-6 hours",
@@ -67,5 +67,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "E 22, Porth-y-Felin, Holyhead, Ynys M\u00f4n, Cymru / Wales, LL65 2BU, United Kingdom",
+  "state": "Cymru / Wales"
 }

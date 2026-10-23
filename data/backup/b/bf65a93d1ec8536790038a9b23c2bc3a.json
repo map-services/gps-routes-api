@@ -1,97 +1,87 @@
 {
-  "created_at": "2025-01-06T02:49:20.137927+00:00",
-  "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
-  "ref": "white-coppice-waterfall-walk-walking-route",
-  "title": "White Coppice Hatch Brook Waterfall Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg/500px-Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg",
-  "nearby": [
-    {
-      "description": "White Coppice",
-      "objectID": "2a09384e17be0565145f562cb75469d2",
-      "ref": "white-coppice-walking-route"
+    "created_at": "2025-01-06T02:49:20.137927+00:00",
+    "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
+    "ref": "white-coppice-waterfall-walk-walking-route",
+    "title": "White Coppice Hatch Brook Waterfall Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg/500px-Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg",
+    "nearby": [
+        {
+            "description": "White Coppice",
+            "objectID": "2a09384e17be0565145f562cb75469d2",
+            "ref": "white-coppice-walking-route"
+        },
+        {
+            "description": "Brinscall",
+            "objectID": "14b0afb57501731023cc69b869f18fee",
+            "ref": "brinscall-walking-route"
+        },
+        {
+            "description": "Withnell Nature Reserve",
+            "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+            "ref": "withnell-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bf65a93d1ec8536790038a9b23c2bc3a.gpx",
+    "_geoloc": {
+        "lat": 53.6669875547,
+        "lng": -2.5773896556
     },
-    {
-      "description": "Brinscall",
-      "objectID": "14b0afb57501731023cc69b869f18fee",
-      "ref": "brinscall-walking-route"
-    },
-    {
-      "description": "Withnell Nature Reserve",
-      "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell\u00a0nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bf65a93d1ec8536790038a9b23c2bc3a.gpx",
-  "_geoloc": {
-    "lat": 53.6669875547,
-    "lng": -2.5773896556
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg/500px-Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg",
-      "title": "Hatch Brook in Wheelton Plantation by Ian Greig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Hatch Brook in Wheelton Plantation"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/White_Coppice_-_geograph.org.uk_-_3675228.jpg/500px-White_Coppice_-_geograph.org.uk_-_3675228.jpg",
-      "title": "White Coppice by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cottages in White Coppice village in late summer"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_path_alongside_the_Goit_near_White_Coppice_-_geograph.org.uk_-_2426668.jpg/500px-The_path_alongside_the_Goit_near_White_Coppice_-_geograph.org.uk_-_2426668.jpg",
-      "title": "The path alongside the Goit near White Coppice by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The path alongside the Goit near White Coppice"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Footbridge_over_the_Goit_-_geograph.org.uk_-_2895075.jpg/500px-Footbridge_over_the_Goit_-_geograph.org.uk_-_2895075.jpg",
-      "title": "Footbridge over the Goit by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge over the Goit"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Goit_at_Brinscall_-_geograph.org.uk_-_5764774.jpg/500px-The_Goit_at_Brinscall_-_geograph.org.uk_-_5764774.jpg",
-      "title": "The Goit at Brinscall by Phil and Juliette Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Goit at Brinscall"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ruins_of_Blackhurst_Hall_-_geograph.org.uk_-_2895119.jpg/500px-Ruins_of_Blackhurst_Hall_-_geograph.org.uk_-_2895119.jpg",
-      "title": "Ruins of Blackhurst Hall by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ruins of Blackhurst Hall"
-    }
-  ],
-  "distance_km": 5.5,
-  "description": "This popular walk takes you to the delightful Hatch Brook Waterfall from the Lancashire village of White Coppice. You can start the walk from the parking area next to the picturesque cricket pitch in White Coppice. From here you can follow riverside footpaths north along the River Goit to the Wheeldon Plantation. Cross the little bridge and it will take you into the woodland area where you will find the secluded little waterfall on the Hatch Brook. It's a lovely little spot which is particularly impressive after rainfall. After admiring the falls you can follow peaceful woodland trails back to the river and return to the village. If you would like to extend the walk then continue north to visit the Withnell Nature Reserve. There's a nice nature trail with lots of woodland wildlife to see here. For an alternative walk from the same start point see the White Coppice Walk. This will take you west to explore a series of pretty reservoirs.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In Brinscall you could enjoy a pit stop at The Cricketers Arms. There's a good sized outdoor area here with a raised beer garden which consists of a lawned area, paved patio to the rear and a number of picnic benches. You can find them at 94 School Lane with a postcode of PR6 8QP for your sat navs."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/rhErbxY_FD8",
-  "postcode": "PR6 9DF",
-  "district": "Chorley",
-  "county": "Lancashire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Coppice Lane, White Coppice, Heapey, Chorley, Lancashire, England, PR6 9DF, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "waterfall",
-    "nature reserve"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg/500px-Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg",
+            "title": "Hatch Brook in Wheelton Plantation by Ian Greig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Hatch Brook in Wheelton Plantation"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/White_Coppice_-_geograph.org.uk_-_3675228.jpg/500px-White_Coppice_-_geograph.org.uk_-_3675228.jpg",
+            "title": "White Coppice by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cottages in White Coppice village in late summer"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_path_alongside_the_Goit_near_White_Coppice_-_geograph.org.uk_-_2426668.jpg/500px-The_path_alongside_the_Goit_near_White_Coppice_-_geograph.org.uk_-_2426668.jpg",
+            "title": "The path alongside the Goit near White Coppice by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The path alongside the Goit near White Coppice"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Footbridge_over_the_Goit_-_geograph.org.uk_-_2895075.jpg/500px-Footbridge_over_the_Goit_-_geograph.org.uk_-_2895075.jpg",
+            "title": "Footbridge over the Goit by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge over the Goit"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Goit_at_Brinscall_-_geograph.org.uk_-_5764774.jpg/500px-The_Goit_at_Brinscall_-_geograph.org.uk_-_5764774.jpg",
+            "title": "The Goit at Brinscall by Phil and Juliette Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Goit at Brinscall"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ruins_of_Blackhurst_Hall_-_geograph.org.uk_-_2895119.jpg/500px-Ruins_of_Blackhurst_Hall_-_geograph.org.uk_-_2895119.jpg",
+            "title": "Ruins of Blackhurst Hall by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Ruins of Blackhurst Hall"
+        }
+    ],
+    "distance_km": 5.5,
+    "description": "This popular walk takes you to the delightful Hatch Brook Waterfall from the Lancashire village of White Coppice. You can start the walk from the parking area next to the picturesque cricket pitch in White Coppice. From here you can follow riverside footpaths north along the River Goit to the Wheeldon Plantation. Cross the little bridge and it will take you into the woodland area where you will find the secluded little waterfall on the Hatch Brook. It's a lovely little spot which is particularly impressive after rainfall. After admiring the falls you can follow peaceful woodland trails back to the river and return to the village. If you would like to extend the walk then continue north to visit the Withnell Nature Reserve. There's a nice nature trail with lots of woodland wildlife to see here. For an alternative walk from the same start point see the White Coppice Walk. This will take you west to explore a series of pretty reservoirs.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In Brinscall you could enjoy a pit stop at The Cricketers Arms. There's a good sized outdoor area here with a raised beer garden which consists of a lawned area, paved patio to the rear and a number of picnic benches. You can find them at 94 School Lane with a postcode of PR6 8QP for your sat navs."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/rhErbxY_FD8",
+    "postcode": "PR6 9DF",
+    "district": "Chorley",
+    "county": "Lancashire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Coppice Lane, White Coppice, Heapey, Chorley, Lancashire, England, PR6 9DF, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["waterfall", "nature reserve"],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

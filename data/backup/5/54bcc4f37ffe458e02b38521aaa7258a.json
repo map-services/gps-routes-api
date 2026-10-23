@@ -50,7 +50,7 @@
   "postcode": "DL12 0XE",
   "county": "County Durham",
   "region": "North East",
-  "country": "England",
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -71,5 +71,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B6277, Bowlees, Newbiggin, County Durham, North East, England, DL12 0XE, United Kingdom",
+  "district": "Newbiggin",
+  "state": "England"
 }

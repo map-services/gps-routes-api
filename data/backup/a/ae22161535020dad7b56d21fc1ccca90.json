@@ -1,114 +1,102 @@
 {
-  "created_at": "2025-01-06T04:40:52.697627+00:00",
-  "objectID": "ae22161535020dad7b56d21fc1ccca90",
-  "ref": "meanwood-valley-trail-walking-route",
-  "title": "Meanwood Valley Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meanwood_Beck_-_geograph.org.uk_-_686526.jpg",
-  "nearby": [
-    {
-      "description": "Leeds Country Way",
-      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-      "ref": "leeds-country-way-walking-route"
+    "created_at": "2025-01-06T04:40:52.697627+00:00",
+    "objectID": "ae22161535020dad7b56d21fc1ccca90",
+    "ref": "meanwood-valley-trail-walking-route",
+    "title": "Meanwood Valley Trail Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meanwood_Beck_-_geograph.org.uk_-_686526.jpg",
+    "nearby": [
+        {
+            "description": "Leeds Country Way",
+            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+            "ref": "leeds-country-way-walking-route"
+        },
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Dales Way",
+            "objectID": "605d1dad48e02d248ecb985988bc777c",
+            "ref": "dales-way-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Horsforth",
+            "objectID": "04da0fbe38675e2911c8b8afd3b3c322",
+            "ref": "horsforth-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae22161535020dad7b56d21fc1ccca90.gpx",
+    "_geoloc": {
+        "lat": 53.8115058355,
+        "lng": -1.5564013018
     },
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
-    },
-    {
-      "description": "Dales Way",
-      "objectID": "605d1dad48e02d248ecb985988bc777c",
-      "ref": "dales-way-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Horsforth",
-      "objectID": "04da0fbe38675e2911c8b8afd3b3c322",
-      "ref": "horsforth-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae22161535020dad7b56d21fc1ccca90.gpx",
-  "_geoloc": {
-    "lat": 53.8115058355,
-    "lng": -1.5564013018
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meanwood_Beck_-_geograph.org.uk_-_686526.jpg",
-      "title": "Chris Brierly / Meanwood Beck",
-      "caption": "Meanwood Beck. Pedestrian bridge on the Meanwood Valley Trail close to the entrance to the Hollies. Small weir in the foreground."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Meanwood_Valley_Trail_-_geograph.org.uk_-_98650.jpg/330px-Meanwood_Valley_Trail_-_geograph.org.uk_-_98650.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Trail at the north end of Meanwood Park near the Leeds Ring Road, on a muddy New Years Day"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Weir_on_Meanwood_Beck_-_geograph.org.uk_-_686520.jpg",
-      "title": "Chris Brierly / Weir on Meanwood Beck",
-      "caption": "Weir on Meanwood Beck. Looking towards Meanwood Park on the Trail by The Hollies"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Seven_Arches_Aqueduct%2C_Adel_Woods_-_geograph.org.uk_-_92550.jpg",
-      "title": "Chris Yeates / Seven Arches Aqueduct, Adel Woods",
-      "caption": "Seven Arches Aqueduct, Adel Woods. Two of the seven arches of this Victorian aqueduct which carried water from Eccup Reservoir to the treatment works at Far Headingley over the beck near Adel. The Meanwood Valley Trail passes this and many other interesting natural and man-made sites."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Acre_Park_%28July_2010%29_geograph.jpg/500px-Golden_Acre_Park_%28July_2010%29_geograph.jpg",
-      "title": "Flickr user:Tim Green aka atouch [CC BY (https://creativecommons.org/licenses/by/2.0)]",
-      "caption": "Gardens in Golden Acre Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Meanwood_Beck%2C_Meanwood%2C_Leeds_-_geograph.org.uk_-_98648.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Meanwood Beck, at the north end of Meanwood Park near the Ring Road. New Year's Day 2006"
-    }
-  ],
-  "distance_km": 10.0,
-  "description": "Follow the Meanwood Valley Trail from the city centre in Leeds to Golden Acre Park on this waymarked footpath. The trail starts on Woodhouse Moor next to the statue of Henry Rowland Marsden, the Mayor of Leeds for 1873 to 1875. You then follow roads to Woodhouse Ridge where you follow the path through mature woodland with wild garlic, wood anemone and bluebells to look out for. The path continues along the pretty Meanwood Beck to Meanwood Park. The trail passes right through the 72 acre park with its lovely rhododendrons and azaleas. It's a delightful area with the beck meandering through the park dotted with stone bridges and surrounded by attractive oak and hazel woodland. The next section takes you along Adel Beck and through Adel Woods. Look out for common lizards and the 19th century carved water spout known as the 'Slabbering Baby'. The final section takes you past Headingley Golf Course before finishing at Golden Acre Park. The popular country park consists of beautiful gardens, a lake, streams, ponds, woodland and the Breary Marsh Nature Reserve. The trail follows the route of the Dales Way so you can continue along this path to extend your walk. If you follow if west it will take you into Horsforth. Near the end of the route the trail meets with the Leeds Country Way. You can follow this to the nearby Eccup Reservoir and enjoy a waterside walk around the lake.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "At the end of the route you could reward yourself with refreshments at the on site cafe in Golden Acre Park. There's a nice outdoor seating area where you can relax on a fine day and enjoy the views of the park. There's also a decent cafe in Meanwood Park if you get hungry before! A short distance north east of the park you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the nearby Eccup Reservoir. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/lLjfMr-LQCU",
-  "district": "Leeds",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Hu Nan Chinese Resturant, 69A, Raglan Road, Woodhouse Cliff, Woodhouse, Leeds, West Yorkshire, England, LS2 9DZ, United Kingdom",
-  "postcode": "LS2 9DZ",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "coastal"
-  ],
-  "points_of_interest": [
-    "statue",
-    "park",
-    "nature reserve",
-    "lake"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meanwood_Beck_-_geograph.org.uk_-_686526.jpg",
+            "title": "Chris Brierly / Meanwood Beck",
+            "caption": "Meanwood Beck. Pedestrian bridge on the Meanwood Valley Trail close to the entrance to the Hollies. Small weir in the foreground."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Meanwood_Valley_Trail_-_geograph.org.uk_-_98650.jpg/330px-Meanwood_Valley_Trail_-_geograph.org.uk_-_98650.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Trail at the north end of Meanwood Park near the Leeds Ring Road, on a muddy New Years Day"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Weir_on_Meanwood_Beck_-_geograph.org.uk_-_686520.jpg",
+            "title": "Chris Brierly / Weir on Meanwood Beck",
+            "caption": "Weir on Meanwood Beck. Looking towards Meanwood Park on the Trail by The Hollies"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Seven_Arches_Aqueduct%2C_Adel_Woods_-_geograph.org.uk_-_92550.jpg",
+            "title": "Chris Yeates / Seven Arches Aqueduct, Adel Woods",
+            "caption": "Seven Arches Aqueduct, Adel Woods. Two of the seven arches of this Victorian aqueduct which carried water from Eccup Reservoir to the treatment works at Far Headingley over the beck near Adel. The Meanwood Valley Trail passes this and many other interesting natural and man-made sites."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Acre_Park_%28July_2010%29_geograph.jpg/500px-Golden_Acre_Park_%28July_2010%29_geograph.jpg",
+            "title": "Flickr user:Tim Green aka atouch [CC BY (https://creativecommons.org/licenses/by/2.0)]",
+            "caption": "Gardens in Golden Acre Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Meanwood_Beck%2C_Meanwood%2C_Leeds_-_geograph.org.uk_-_98648.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Meanwood Beck, at the north end of Meanwood Park near the Ring Road. New Year's Day 2006"
+        }
+    ],
+    "distance_km": 10.0,
+    "description": "Follow the Meanwood Valley Trail from the city centre in Leeds to Golden Acre Park on this waymarked footpath. The trail starts on Woodhouse Moor next to the statue of Henry Rowland Marsden, the Mayor of Leeds for 1873 to 1875. You then follow roads to Woodhouse Ridge where you follow the path through mature woodland with wild garlic, wood anemone and bluebells to look out for. The path continues along the pretty Meanwood Beck to Meanwood Park. The trail passes right through the 72 acre park with its lovely rhododendrons and azaleas. It's a delightful area with the beck meandering through the park dotted with stone bridges and surrounded by attractive oak and hazel woodland. The next section takes you along Adel Beck and through Adel Woods. Look out for common lizards and the 19th century carved water spout known as the 'Slabbering Baby'. The final section takes you past Headingley Golf Course before finishing at Golden Acre Park. The popular country park consists of beautiful gardens, a lake, streams, ponds, woodland and the Breary Marsh Nature Reserve. The trail follows the route of the Dales Way so you can continue along this path to extend your walk. If you follow if west it will take you into Horsforth. Near the end of the route the trail meets with the Leeds Country Way. You can follow this to the nearby Eccup Reservoir and enjoy a waterside walk around the lake.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "At the end of the route you could reward yourself with refreshments at the on site cafe in Golden Acre Park. There's a nice outdoor seating area where you can relax on a fine day and enjoy the views of the park. There's also a decent cafe in Meanwood Park if you get hungry before! A short distance north east of the park you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the nearby Eccup Reservoir. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/lLjfMr-LQCU",
+    "district": "Leeds",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Hu Nan Chinese Resturant, 69A, Raglan Road, Woodhouse Cliff, Woodhouse, Leeds, West Yorkshire, England, LS2 9DZ, United Kingdom",
+    "postcode": "LS2 9DZ",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland", "coastal"],
+    "points_of_interest": ["statue", "park", "nature reserve", "lake"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

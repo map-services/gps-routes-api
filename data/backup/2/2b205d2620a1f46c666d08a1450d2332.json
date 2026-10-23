@@ -1,123 +1,112 @@
 {
-  "created_at": "2025-01-06T18:59:27.570693+00:00",
-  "objectID": "2b205d2620a1f46c666d08a1450d2332",
-  "ref": "drogheda-boyne-greenway-walking-route",
-  "title": "Drogheda\u00a0Boardwalk and the Boyne Greenway Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/River_Boyne%2C_west_of_Drogheda_-_geograph.org.uk_-_455500.jpg?20110204155809",
-  "nearby": [
-    {
-      "description": "Battle of the Boyne",
-      "objectID": "1f4fc611255de6d4c4d2b3922063ba22",
-      "ref": "battle-of-the-boyne-walking-route"
+    "created_at": "2025-01-06T18:59:27.570693+00:00",
+    "objectID": "2b205d2620a1f46c666d08a1450d2332",
+    "ref": "drogheda-boyne-greenway-walking-route",
+    "title": "Drogheda Boardwalk and the Boyne Greenway Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/River_Boyne%2C_west_of_Drogheda_-_geograph.org.uk_-_455500.jpg?20110204155809",
+    "nearby": [
+        {
+            "description": "Battle of the Boyne",
+            "objectID": "1f4fc611255de6d4c4d2b3922063ba22",
+            "ref": "battle-of-the-boyne-walking-route"
+        },
+        {
+            "description": "Boyne Valley",
+            "objectID": "adfc6d0cd47ccdc61aae81882b72bd16",
+            "ref": "boyne-valley-walking-route"
+        },
+        {
+            "description": "Hill Of Tara",
+            "objectID": "f11eea7b9c6b5fe59550167a64a1de42",
+            "ref": "hill-of-tara-walking-route"
+        },
+        {
+            "description": "Royal Canal",
+            "objectID": "0da0204a852002aa75196eb65ca852d5",
+            "ref": "royal-canal-walking-route"
+        },
+        {
+            "description": "Fore Abbey",
+            "objectID": "ad6b2070da2e4cd974c30279364e9fcd",
+            "ref": "fore-abbey-walking-route"
+        },
+        {
+            "description": "Belvedere House and Lough Ennell",
+            "objectID": "d503c01fb830b414e92ae1fb776170e0",
+            "ref": "belvedere-house-and-lough-ennell-walking-route"
+        },
+        {
+            "description": "Skerries Beach Walk",
+            "objectID": "fca997ed331c3d686d7905214a132d9b",
+            "ref": "skerries-beach-walk-walking-route"
+        },
+        {
+            "description": "Rathescar Lakeside Walk",
+            "objectID": "a66639c14d1ea54c787764d30f234d2f",
+            "ref": "rathescar-lakeside-walk-walking-route"
+        },
+        {
+            "description": "Loughcrew",
+            "objectID": "6f88f809f1ae4511ccdffc3ec70a600f",
+            "ref": "loughcrew-walking-route"
+        },
+        {
+            "description": "Trim Castle",
+            "objectID": "19fa1c73f7244fd3bebb01eb804b4382",
+            "ref": "trim-castle-walking-route"
+        },
+        {
+            "description": "Ardgillan Castle",
+            "objectID": "6b7cad17404ad9c045feb31e320a15b1",
+            "ref": "ardgillan-castle-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b205d2620a1f46c666d08a1450d2332.gpx",
+    "_geoloc": {
+        "lat": 53.71458,
+        "lng": -6.35846
     },
-    {
-      "description": "Boyne Valley",
-      "objectID": "adfc6d0cd47ccdc61aae81882b72bd16",
-      "ref": "boyne-valley-walking-route"
-    },
-    {
-      "description": "Hill Of Tara",
-      "objectID": "f11eea7b9c6b5fe59550167a64a1de42",
-      "ref": "hill-of-tara-walking-route"
-    },
-    {
-      "description": "Royal Canal",
-      "objectID": "0da0204a852002aa75196eb65ca852d5",
-      "ref": "royal-canal-walking-route"
-    },
-    {
-      "description": "Fore Abbey",
-      "objectID": "ad6b2070da2e4cd974c30279364e9fcd",
-      "ref": "fore-abbey-walking-route"
-    },
-    {
-      "description": "Belvedere House and Lough Ennell",
-      "objectID": "d503c01fb830b414e92ae1fb776170e0",
-      "ref": "belvedere-house-and-lough-ennell-walking-route"
-    },
-    {
-      "description": "Skerries Beach Walk",
-      "objectID": "fca997ed331c3d686d7905214a132d9b",
-      "ref": "skerries-beach-walk-walking-route"
-    },
-    {
-      "description": "Rathescar Lakeside Walk",
-      "objectID": "a66639c14d1ea54c787764d30f234d2f",
-      "ref": "rathescar-lakeside-walk-walking-route"
-    },
-    {
-      "description": "Loughcrew",
-      "objectID": "6f88f809f1ae4511ccdffc3ec70a600f",
-      "ref": "loughcrew-walking-route"
-    },
-    {
-      "description": "Trim Castle",
-      "objectID": "19fa1c73f7244fd3bebb01eb804b4382",
-      "ref": "trim-castle-walking-route"
-    },
-    {
-      "description": "Ardgillan Castle",
-      "objectID": "6b7cad17404ad9c045feb31e320a15b1",
-      "ref": "ardgillan-castle-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b205d2620a1f46c666d08a1450d2332.gpx",
-  "_geoloc": {
-    "lat": 53.71458,
-    "lng": -6.35846
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/River_Boyne%2C_west_of_Drogheda_-_geograph.org.uk_-_455500.jpg?20110204155809",
-      "title": "Jonathan Billinger / River Boyne, west of Drogheda",
-      "caption": "River Boyne, west of Drogheda. The spire of St. Peter's cathedral is just visible in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Drogheda_%5E_R_Boyne_-_view_towards_Boyne_Viaduct_-_geograph.org.uk_-_6375414.jpg/500px-Drogheda_%5E_R_Boyne_-_view_towards_Boyne_Viaduct_-_geograph.org.uk_-_6375414.jpg?20240527090821",
-      "title": "Drogheda & R Boyne - view towards Boyne Viaduct by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Drogheda & River Boyne"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Boyne_River_below_the_Boyne_Bridge_-_geograph.org.uk_-_1753432.jpg/500px-The_Boyne_River_below_the_Boyne_Bridge_-_geograph.org.uk_-_1753432.jpg?20110306004633",
-      "title": "Eric Jones / The Boyne River below the Boyne Bridge",
-      "caption": "The Boyne River below the Boyne Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Battle_of_the_Boyne_Visitor_Centre_-_Gardens_-_geograph.org.uk_-_4637147.jpg/500px-Battle_of_the_Boyne_Visitor_Centre_-_Gardens_-_geograph.org.uk_-_4637147.jpg",
-      "title": "Battle of the Boyne Visitor Centre - Gardens by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Battle of the Boyne Visitor Centre"
-    }
-  ],
-  "distance_km": 4.8,
-  "description": "This shared cycling and walking route takes you along the River Boyne in the town of Drogheda in County Louth on the east coast of Ireland. Known as the Boyne Greenway the trail utilises sections of boardwalk and riverside paths along the River Boyne. It provides a scenic route that connects Drogheda\u2019s town centre to the historic Oldbridge Estate, home to the famous Battle of the Boyne site. The path follows the existing ramparts and includes informative heritage signs that delve into Irish mythology, particularly stories relevant to the Boyne Valley. One of the highlights of the trail is its proximity to the Mary McAleese Cable Bridge, a striking structure that spans the River Boyne. As the trail continues, it follows the Boyne Canal, offering picturesque views of the river and the surrounding landscapes. Once at the Oldbridge Estate, visitors can enjoy several self-guided walks through the estate\u2019s parkland, making it a versatile route for both casual strolls and more extensive explorations of the area\u2019s rich history and natural beauty. This trail not only enhances connectivity between key historical and natural sites but also provides an educational experience through its well-placed heritage signs, making it a valuable resource for both locals and visitors. At the end of the route you can explore the historic site of the Battle of the Boyne. The area includes an excellent visitor centre and a number of walkways taking you around the site of the 17th century battle. There are also pretty gardens and more walks along the River Boyne and the Boyne Canal.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/HXMK8PvWPfE?si=7_5MNzNRR7fTbeNr",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Bridge of Peace, West Gate ED, The Borough District of Drogheda, County Louth, Leinster, A92 YX52, \u00c9ire / Ireland",
-  "postcode": "A92 YX52",
-  "district": null,
-  "county": "County Louth",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "riverside",
-    "parkland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "visitor centre"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/River_Boyne%2C_west_of_Drogheda_-_geograph.org.uk_-_455500.jpg?20110204155809",
+            "title": "Jonathan Billinger / River Boyne, west of Drogheda",
+            "caption": "River Boyne, west of Drogheda. The spire of St. Peter's cathedral is just visible in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Drogheda_%5E_R_Boyne_-_view_towards_Boyne_Viaduct_-_geograph.org.uk_-_6375414.jpg/500px-Drogheda_%5E_R_Boyne_-_view_towards_Boyne_Viaduct_-_geograph.org.uk_-_6375414.jpg?20240527090821",
+            "title": "Drogheda & R Boyne - view towards Boyne Viaduct by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Drogheda & River Boyne"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Boyne_River_below_the_Boyne_Bridge_-_geograph.org.uk_-_1753432.jpg/500px-The_Boyne_River_below_the_Boyne_Bridge_-_geograph.org.uk_-_1753432.jpg?20110306004633",
+            "title": "Eric Jones / The Boyne River below the Boyne Bridge",
+            "caption": "The Boyne River below the Boyne Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Battle_of_the_Boyne_Visitor_Centre_-_Gardens_-_geograph.org.uk_-_4637147.jpg/500px-Battle_of_the_Boyne_Visitor_Centre_-_Gardens_-_geograph.org.uk_-_4637147.jpg",
+            "title": "Battle of the Boyne Visitor Centre - Gardens by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Battle of the Boyne Visitor Centre"
+        }
+    ],
+    "distance_km": 4.8,
+    "description": "This shared cycling and walking route takes you along the River Boyne in the town of Drogheda in County Louth on the east coast of Ireland. Known as the Boyne Greenway the trail utilises sections of boardwalk and riverside paths along the River Boyne. It provides a scenic route that connects Drogheda\u2019s town centre to the historic Oldbridge Estate, home to the famous Battle of the Boyne site. The path follows the existing ramparts and includes informative heritage signs that delve into Irish mythology, particularly stories relevant to the Boyne Valley. One of the highlights of the trail is its proximity to the Mary McAleese Cable Bridge, a striking structure that spans the River Boyne. As the trail continues, it follows the Boyne Canal, offering picturesque views of the river and the surrounding landscapes. Once at the Oldbridge Estate, visitors can enjoy several self-guided walks through the estate\u2019s parkland, making it a versatile route for both casual strolls and more extensive explorations of the area\u2019s rich history and natural beauty. This trail not only enhances connectivity between key historical and natural sites but also provides an educational experience through its well-placed heritage signs, making it a valuable resource for both locals and visitors. At the end of the route you can explore the historic site of the Battle of the Boyne. The area includes an excellent visitor centre and a number of walkways taking you around the site of the 17th century battle. There are also pretty gardens and more walks along the River Boyne and the Boyne Canal.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/HXMK8PvWPfE?si=7_5MNzNRR7fTbeNr",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Bridge of Peace, West Gate ED, The Borough District of Drogheda, County Louth, Leinster, A92 YX52, \u00c9ire / Ireland",
+    "postcode": "A92 YX52",
+    "district": null,
+    "county": "County Louth",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["riverside", "parkland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["visitor centre"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

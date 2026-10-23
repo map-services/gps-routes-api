@@ -62,8 +62,8 @@
   "description": "This walk follows the Two Moors Way from Simonsbath to Withypool in Exmoor. It's a 6 mile walk heading south east along the waymarked path with some small climbs along the way. The route includes a lovely waterside walk along the River Barle taking you to this historic Cow Castle. The ancient Iron Age hillfort is perched on a dramatic gritstone outcrop a few miles south east of Simonsbath. The ancient site offers a commanding view of the surrounding moorland, as it is naturally protected by a steep drop-off and the bend of the river below.Further along the trail, the path leads to the iconic Landacre Bridge, a Grade II listed structure featuring five elegant pointed arches. This medieval stone bridge is one of the most photographed landmarks in the National Park, spanning a wide, shallow stretch of the Barle that is popular with paddlers and picnickers.The final stage follows Kitridge Lane into Withypool where you can enjoy some refreshments by the river. Here you can pick up the popularWithypool to Tarr Steps Circular Walkif you would like to extend your walk.",
   "details": [],
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -82,5 +82,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Simonsbath, Exmoor, Simonsbath, Somerset, England, TA24 7SH, United Kingdom",
+  "postcode": "TA24 7SH",
+  "district": "Simonsbath",
+  "state": "England"
 }

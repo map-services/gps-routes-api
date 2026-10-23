@@ -78,8 +78,8 @@
   ],
   "video_url": "https://www.youtube.com/embed/aG7h4HzUL3s?si=2cNQ7TXmn7heXerk",
   "county": "Perth and Kinross",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -98,5 +98,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "TTApeworm, Perth, Perth and Kinross, Alba / Scotland, PH2 9LT, United Kingdom",
+  "postcode": "PH2 9LT",
+  "district": "Perth",
+  "state": "Alba / Scotland"
 }

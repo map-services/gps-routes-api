@@ -1,126 +1,117 @@
 {
-  "created_at": "2025-01-06T00:07:55.461134+00:00",
-  "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-  "ref": "loch-ruthven-walking-route",
-  "title": "Loch Ruthven Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Loch_Ruthven_-_geograph.org.uk_-_370759.jpg",
-  "nearby": [
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
+    "created_at": "2025-01-06T00:07:55.461134+00:00",
+    "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+    "ref": "loch-ruthven-walking-route",
+    "title": "Loch Ruthven Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Loch_Ruthven_-_geograph.org.uk_-_370759.jpg",
+    "nearby": [
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Great Glen Way",
+            "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
+            "ref": "great-glen-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Dores Beach",
+            "objectID": "18675c2039efd4bcb066b3830ca1c014",
+            "ref": "dores-beach-walking-route"
+        },
+        {
+            "description": "Loch Duntelchaig",
+            "objectID": "a64789ee55d0707936bec88febbdb542",
+            "ref": "loch-duntelchaig-walking-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Urquhart Castle",
+            "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+            "ref": "urquhart-castle-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/404fdf3c3f9ef74d81137209a609afb2.gpx",
+    "_geoloc": {
+        "lat": 57.3224934189,
+        "lng": -4.262810449
     },
-    {
-      "description": "Great Glen Way",
-      "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
-      "ref": "great-glen-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan forest-walking-route"
-    },
-    {
-      "description": "Dores Beach",
-      "objectID": "18675c2039efd4bcb066b3830ca1c014",
-      "ref": "dores-beach-walking-route"
-    },
-    {
-      "description": "Loch Duntelchaig",
-      "objectID": "a64789ee55d0707936bec88febbdb542",
-      "ref": "loch-duntelchaig-walking-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Urquhart Castle",
-      "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-      "ref": "urquhart-castle-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/404fdf3c3f9ef74d81137209a609afb2.gpx",
-  "_geoloc": {
-    "lat": 57.3224934189,
-    "lng": -4.262810449
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Loch_Ruthven_-_geograph.org.uk_-_370759.jpg",
-      "title": "John S Ross / Loch Ruthven",
-      "caption": "Loch Ruthven"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Slavonian_grebes_at_RSPB_Loch_Ruthven._-_geograph.org.uk_-_1322162.jpg",
-      "title": "sylvia duckworth / Slavonian grebes at RSPB Loch Ruthven.",
-      "caption": "Slavonian grebes."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Loch_Ruthven_-_geograph.org.uk_-_1935987.jpg",
-      "title": "Loch Ruthven by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Loch Ruthven"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Loch_Ruthven_from_Stac_Gorm_-_geograph.org.uk_-_370753.jpg",
-      "title": "John S Ross / Loch Ruthven from Stac Gorm",
-      "caption": "The loch from the viewpoint at Stac Gorm"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Stac_Gorm_430_mts_-_geograph.org.uk_-_192154.jpg",
-      "title": "Jim Bain / Stac Gorm 430 mts",
-      "caption": "Stac Gorm"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Loch_Ruthven_from_N.E.%2C_Tullich_-_geograph.org.uk_-_908082.jpg",
-      "title": "djmacpherson / Loch Ruthven from N.E., Tullich",
-      "caption": "Misty Loch Ruthven from N.E., Tullich"
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "This walk visits the Loch Ruthven Nature Reserve in the Scottish Highlands. The loch is an RSPB Nature Reserve with lots of wildlife to look out for. Keep your eyes peeled for Slavonian grebes, osprey and black-throated divers. You can start the walk from the car park at the eastern end of the loch and then follow nature trails down to the water. To extend the walk you could climb Stac Gorm to the south and enjoy excellent views across the loch. It's easy to continue your walking by heading to the nearby Loch Duntelchaig, Loch Ashie and the pretty Dores Beach at Loch Ness .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the north there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies on the western side of Loch Ness. This long distance trail runs from the loch to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/Xm2QOjil3AY",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Elrig, Highland, Alba / Scotland, IV2 6UE, United Kingdom",
-  "postcode": "IV2 6UE",
-  "district": null,
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "nature trail"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Loch_Ruthven_-_geograph.org.uk_-_370759.jpg",
+            "title": "John S Ross / Loch Ruthven",
+            "caption": "Loch Ruthven"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Slavonian_grebes_at_RSPB_Loch_Ruthven._-_geograph.org.uk_-_1322162.jpg",
+            "title": "sylvia duckworth / Slavonian grebes at RSPB Loch Ruthven.",
+            "caption": "Slavonian grebes."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Loch_Ruthven_-_geograph.org.uk_-_1935987.jpg",
+            "title": "Loch Ruthven by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Loch Ruthven"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Loch_Ruthven_from_Stac_Gorm_-_geograph.org.uk_-_370753.jpg",
+            "title": "John S Ross / Loch Ruthven from Stac Gorm",
+            "caption": "The loch from the viewpoint at Stac Gorm"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Stac_Gorm_430_mts_-_geograph.org.uk_-_192154.jpg",
+            "title": "Jim Bain / Stac Gorm 430 mts",
+            "caption": "Stac Gorm"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Loch_Ruthven_from_N.E.%2C_Tullich_-_geograph.org.uk_-_908082.jpg",
+            "title": "djmacpherson / Loch Ruthven from N.E., Tullich",
+            "caption": "Misty Loch Ruthven from N.E., Tullich"
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "This walk visits the Loch Ruthven Nature Reserve in the Scottish Highlands. The loch is an RSPB Nature Reserve with lots of wildlife to look out for. Keep your eyes peeled for Slavonian grebes, osprey and black-throated divers. You can start the walk from the car park at the eastern end of the loch and then follow nature trails down to the water. To extend the walk you could climb Stac Gorm to the south and enjoy excellent views across the loch. It's easy to continue your walking by heading to the nearby Loch Duntelchaig, Loch Ashie and the pretty Dores Beach at Loch Ness .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the north there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies on the western side of Loch Ness. This long distance trail runs from the loch to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/Xm2QOjil3AY",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Elrig, Highland, Alba / Scotland, IV2 6UE, United Kingdom",
+    "postcode": "IV2 6UE",
+    "district": null,
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["nature trail"],
+    "points_of_interest": ["nature reserve", "viewpoint"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

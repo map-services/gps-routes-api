@@ -45,8 +45,8 @@
   "postcode": "MK40 1RN",
   "district": "Bedford",
   "county": "Bedford",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -64,5 +64,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Embankment, Cauldwell, Bedford, England, MK40 1RN, United Kingdom",
+  "state": "England"
 }

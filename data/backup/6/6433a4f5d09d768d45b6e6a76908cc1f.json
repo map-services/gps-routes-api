@@ -37,9 +37,9 @@
   "description": "This walk takes you from the coastal resort of Llanfairfechan to the wonderful Aber Falls. The route runs for a distance of about 5 miles so 10 miles there and back. Along the way you will enjoy some wonderful sea views before heading inland for a riverside walk to the spectacular 120ft high falls. Starting at the car park on the sea front in Llanfairfechan the walk picks up the Wales Coast Path and follows it west to the Pentre Du Crossing. You'll then pass through the village of Abergwyngregyn before picking up the popular path to the picturesque falls.",
   "details": [],
   "district": "Llanfairfechan",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -58,5 +58,9 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Caradog Place, Llanfairfechan, Conwy, Cymru / Wales, LL33 0DA, United Kingdom",
+  "postcode": "LL33 0DA",
+  "state": "Cymru / Wales"
 }

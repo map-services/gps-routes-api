@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/q7dlE-00qy0?si=CwG9ofS5GDIzm_Sr",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -69,5 +69,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Scourie More Road, Scourie, Highland, Alba / Scotland, IV27 4TG, United Kingdom",
+  "postcode": "IV27 4TG",
+  "district": "Scourie",
+  "state": "Alba / Scotland"
 }

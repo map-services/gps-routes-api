@@ -43,8 +43,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/aozPnMGkiqY?si=I9ZUu6_jTvKUvUo9",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -61,5 +61,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "The Avenue, Whisstocks Place, Mill Hills, Woodbridge, East Suffolk, Suffolk, England, IP12 4BA, United Kingdom",
+  "postcode": "IP12 4BA",
+  "district": "East Suffolk",
+  "state": "England"
 }

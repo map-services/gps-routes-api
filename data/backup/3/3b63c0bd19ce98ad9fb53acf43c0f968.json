@@ -58,10 +58,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/gmAxh0UuJLc?si=gO0fe6ugcIoNQZ6v",
   "postcode": "GU25 4QF",
-  "district": "Wentworth",
+  "district": "Runnymede",
   "county": "Surrey",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -79,5 +79,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "London Road cycle path (north), Virginia Water, Runnymede, Surrey, England, GU25 4QF, United Kingdom",
+  "state": "England"
 }

@@ -47,10 +47,10 @@
   "description": "This walk takes you along the Monmouthshire and Brecon Canal from Pontypool to Abergavenny. The route runs for about 12.5 miles passing along the flat canal towpath. On the way you will pass Mamhilad and Llanfoist before arriving at the lovely Linda Vista Gardens in Abergavenny. Along the way there are some splendid views of the Torfaen countryside and the mountains of the Brecon Beacons. You could stop off for refreshments at the attractive Goytre Wharf where there's boat hire, a heritage centre and a good cafe.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/4Vk9pO0nOmg?si=ppmAYiv5jBzxKvRx",
-  "district": "Pontypool / Pont-y-p\u0175l",
-  "county": "Torfaen - Torfaen",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Pontypool",
+  "county": "Torfaen",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -69,5 +69,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Fountain Road, Griffithstown, Pontymoile, Pontypool, Torfaen, Cymru / Wales, NP4 8ER, United Kingdom",
+  "postcode": "NP4 8ER",
+  "state": "Cymru / Wales"
 }

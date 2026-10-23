@@ -53,10 +53,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/eW_Qz2etlHY?si=ppApeDK5GMi8XIuo",
   "postcode": "NP7 5NE",
-  "district": "Abergavenny / Y Fenni",
-  "county": "Sir Fynwy - Monmouthshire",
-  "region": "Wales",
-  "country": "Wales",
+  "district": "Abergavenny",
+  "county": "Monmouthshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "10 hours",
@@ -72,5 +72,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Beili Priory, Abergavenny, Monmouthshire, Cymru / Wales, NP7 5NE, United Kingdom",
+  "state": "Cymru / Wales"
 }

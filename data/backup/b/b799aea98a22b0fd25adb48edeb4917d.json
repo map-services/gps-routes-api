@@ -38,8 +38,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/kIV7D7MTtyw?si=gNtQ1EfKAI_UFKh-",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -58,5 +58,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Ardery, A861, Camusaine, Highland, Alba / Scotland, PH36 4HX, United Kingdom",
+  "postcode": "PH36 4HX",
+  "district": null,
+  "state": "Alba / Scotland"
 }

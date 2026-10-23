@@ -1,108 +1,97 @@
 {
-  "created_at": "2025-01-06T18:44:29.160058+00:00",
-  "objectID": "33e5af8be595d8ccbe0b56f048f58173",
-  "ref": "dunbar-bear-walking-route",
-  "title": "Dunbar Bear Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg/330px-FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg",
-  "nearby": [
-    {
-      "description": "John Muir Way",
-      "objectID": "003c712c8320e6d0880db2081ffe01bb",
-      "ref": "john-muir-way-walking-route"
+    "created_at": "2025-01-06T18:44:29.160058+00:00",
+    "objectID": "33e5af8be595d8ccbe0b56f048f58173",
+    "ref": "dunbar-bear-walking-route",
+    "title": "Dunbar Bear Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg/330px-FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg",
+    "nearby": [
+        {
+            "description": "John Muir Way",
+            "objectID": "003c712c8320e6d0880db2081ffe01bb",
+            "ref": "john-muir-way-walking-route"
+        },
+        {
+            "description": "John Muir Country Park",
+            "objectID": "f4a96a547be083e570ce6f3f22d3c2a9",
+            "ref": "john-muir-country-park-walking-route"
+        },
+        {
+            "description": "Pressmennan Wood",
+            "objectID": "12dfc5f11327fdd13087ee8879ab20ce",
+            "ref": "pressmennan-wood-walking-route"
+        },
+        {
+            "description": "Haddington to Longniddry Railway Walk",
+            "objectID": "23ebc7e92ec418ffefec44d2473444c3",
+            "ref": "haddington-to-longniddry-railway-walk-walking-and-cycle-route"
+        },
+        {
+            "description": "Haddington to East Linton Walk",
+            "objectID": "5676d78273affdd89f94224abab51697",
+            "ref": "haddington-to-east-linton-walk"
+        },
+        {
+            "description": "Traprain Law",
+            "objectID": "bff9dfa1f1befaec61c03cdc70c3694c",
+            "ref": "traprain-law-walking-route"
+        },
+        {
+            "description": "Tyninghame Beach",
+            "objectID": "737a15d5655a7e4aeaf79e93090fc85f",
+            "ref": "tyninghame-beach-walking-route"
+        },
+        {
+            "description": "Dirleton Solar Walk",
+            "objectID": "3c627f31a161c933c5c72af92d425ea6",
+            "ref": "dirleton-solar-walk"
+        },
+        {
+            "description": "Seacliff Beach",
+            "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
+            "ref": "seacliff-beach-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33e5af8be595d8ccbe0b56f048f58173.gpx",
+    "_geoloc": {
+        "lat": 55.99061,
+        "lng": -2.51048
     },
-    {
-      "description": "John Muir Country Park",
-      "objectID": "f4a96a547be083e570ce6f3f22d3c2a9",
-      "ref": "john-muir-country-park-walking-route"
-    },
-    {
-      "description": "Pressmennan Wood",
-      "objectID": "12dfc5f11327fdd13087ee8879ab20ce",
-      "ref": "pressmennan-wood-walking-route"
-    },
-    {
-      "description": "Haddington to Longniddry Railway Walk",
-      "objectID": "23ebc7e92ec418ffefec44d2473444c3",
-      "ref": "haddington-to-longniddry-railway-walk-walking-and-cycle-route"
-    },
-    {
-      "description": "Haddington to East Linton Walk",
-      "objectID": "5676d78273affdd89f94224abab51697",
-      "ref": "haddington-to-east-linton-walk"
-    },
-    {
-      "description": "Traprain Law",
-      "objectID": "bff9dfa1f1befaec61c03cdc70c3694c",
-      "ref": "traprain-law-walking-route"
-    },
-    {
-      "description": "Tyninghame Beach",
-      "objectID": "737a15d5655a7e4aeaf79e93090fc85f",
-      "ref": "tyninghame-beach-walking-route"
-    },
-    {
-      "description": "Dirleton Solar Walk",
-      "objectID": "3c627f31a161c933c5c72af92d425ea6",
-      "ref": "dirleton-solar-walk"
-    },
-    {
-      "description": "Seacliff Beach",
-      "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
-      "ref": "seacliff\u00a0beach-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33e5af8be595d8ccbe0b56f048f58173.gpx",
-  "_geoloc": {
-    "lat": 55.99061,
-    "lng": -2.51048
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg/330px-FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg",
-      "title": "Ariadnaroca1995, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "The DunBear was named by a pupil at Dunbar Grammar School in a competition."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andy_Scott_Giant_Bear_Sculpture_Dunbar_.jpg/330px-Andy_Scott_Giant_Bear_Sculpture_Dunbar_.jpg",
-      "title": "Ariadnaroca1995, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "The sculpture symbolises the role Muir played in establishing the Yosemite and Sequoia National Parks where the brown bear has survived and thrived."
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "This walk visits the Dunbear, a giant sculpture above Dunbar in East Lothian. The 5 metre high bear sculpture celebrates the life of the locally born John Muir known as the father of national parks. Muir was a key person involved in implementing National Parks in the USA. You can park at the Asda/Garden Centre and then follow a winding surfaced footpath up to the bear sculpture. The sculpture is the work of Andy Scott, a Scottish sculptor whose other public artworks include Kelpies in Falkirk and the Beacon of Hope in Belfast. From the top there are some lovely views over the surrounding fields. To continue your walking you could pick up the long distance John Muir Way and visit the nearby John Muir Country Park and Tyninghame Beach .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head into nearby Dirleton and you could try the interesting Dirleton Solar Walk. The educational walk will take you along a wonderful scale model of the Solar System with some splendid countryside views to enjoy too."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/6xktISmneVk",
-  "postcode": "EH42 1WL",
-  "district": "Dunbar",
-  "county": "East Lothian",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Spott Road, Dunbar, East Lothian, Alba / Scotland, EH42 1WL, United Kingdom",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "20 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "surfaced footpath"
-  ],
-  "points_of_interest": [
-    "sculpture",
-    "viewpoint",
-    "country park",
-    "beach"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg/330px-FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg",
+            "title": "Ariadnaroca1995, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "The DunBear was named by a pupil at Dunbar Grammar School in a competition."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andy_Scott_Giant_Bear_Sculpture_Dunbar_.jpg/330px-Andy_Scott_Giant_Bear_Sculpture_Dunbar_.jpg",
+            "title": "Ariadnaroca1995, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "The sculpture symbolises the role Muir played in establishing the Yosemite and Sequoia National Parks where the brown bear has survived and thrived."
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "This walk visits the Dunbear, a giant sculpture above Dunbar in East Lothian. The 5 metre high bear sculpture celebrates the life of the locally born John Muir known as the father of national parks. Muir was a key person involved in implementing National Parks in the USA. You can park at the Asda/Garden Centre and then follow a winding surfaced footpath up to the bear sculpture. The sculpture is the work of Andy Scott, a Scottish sculptor whose other public artworks include Kelpies in Falkirk and the Beacon of Hope in Belfast. From the top there are some lovely views over the surrounding fields. To continue your walking you could pick up the long distance John Muir Way and visit the nearby John Muir Country Park and Tyninghame Beach .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head into nearby Dirleton and you could try the interesting Dirleton Solar Walk. The educational walk will take you along a wonderful scale model of the Solar System with some splendid countryside views to enjoy too."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/6xktISmneVk",
+    "postcode": "EH42 1WL",
+    "district": "Dunbar",
+    "county": "East Lothian",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Spott Road, Dunbar, East Lothian, Alba / Scotland, EH42 1WL, United Kingdom",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "20 minutes",
+    "difficulty": "easy",
+    "terrain": ["surfaced footpath"],
+    "points_of_interest": ["sculpture", "viewpoint", "country park", "beach"],
+    "facilities": ["car park"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

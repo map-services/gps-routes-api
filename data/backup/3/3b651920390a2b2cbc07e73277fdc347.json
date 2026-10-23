@@ -49,8 +49,8 @@
   "postcode": "CA17 4QT",
   "district": "Kirkby Stephen",
   "county": "Westmorland and Furness",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -69,5 +69,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Cumbria Smiles, 25, Market Square, Kirkby Stephen, Westmorland and Furness, England, CA17 4QT, United Kingdom",
+  "state": "England"
 }

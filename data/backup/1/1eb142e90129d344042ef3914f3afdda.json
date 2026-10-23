@@ -82,10 +82,10 @@
   "description": "This walk follows a section of the St Bernard's Way from London to Canterbury. The route starts at Southwark Bridge on the Thames in London and then follows the waymarked pilgrimage trail east to Canterbury and the famous cathedral.You will also pass along long sections of thePilgrims Wayand theNorth Downs Way.The route starts in central London at Southwark Bridge and heads east along the River Thames to Erith. Near here you turn south along the River Darent towards Dartford before heading through the North Downs toRochesterand Charing. The route finishes at the historic Cathedral in Canterbury.Along the way there are nice riverside paths, several pretty villages and fine views across the rolling hills of the North Downs.The full route of the St Bernard's Way pilgrimage trail runs from Rievaulx Abbey, North Yorkshire, to Citeaux Abbey, south of Dijon in France.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/8u-dMt3KSGA?si=V3d-K4He6ySRd30I",
-  "district": "Southwark",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
+  "district": "Greater London",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "multiple days",
@@ -101,5 +101,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bankside, Southwark, London Borough of Southwark, Greater London, England, SE1 9JE, United Kingdom",
+  "postcode": "SE1 9JE",
+  "state": "England"
 }

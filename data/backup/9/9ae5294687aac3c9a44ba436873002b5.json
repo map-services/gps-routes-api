@@ -1,140 +1,130 @@
 {
-  "created_at": "2025-01-06T05:20:58.690331+00:00",
-  "objectID": "9ae5294687aac3c9a44ba436873002b5",
-  "ref": "harewood-house-walking-route",
-  "title": "Harewood House Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harewood_House_-_geograph.org.uk_-_252613.jpg",
-  "nearby": [
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
+    "created_at": "2025-01-06T05:20:58.690331+00:00",
+    "objectID": "9ae5294687aac3c9a44ba436873002b5",
+    "ref": "harewood-house-walking-route",
+    "title": "Harewood House Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harewood_House_-_geograph.org.uk_-_252613.jpg",
+    "nearby": [
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Ebor Way",
+            "objectID": "460b6eaefa835488435e3937ef49f82d",
+            "ref": "ebor-way-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Leeds Country Way",
+            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+            "ref": "leeds-country-way-walking-route"
+        },
+        {
+            "description": "Dales Way",
+            "objectID": "605d1dad48e02d248ecb985988bc777c",
+            "ref": "dales-way-walking-route"
+        },
+        {
+            "description": "Roundhay Park",
+            "objectID": "1345bf0f785855b502ce429381b60ec9",
+            "ref": "roundhay-park-walking-and-cycle-route"
+        },
+        {
+            "description": "East Keswick",
+            "objectID": "374b1349f29d161204209c92c1b3d171",
+            "ref": "east-keswick-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Adel Woods",
+            "objectID": "684f34bab03b4788d68e95ec09d0c762",
+            "ref": "adel-woods-walking-route"
+        },
+        {
+            "description": "Arthington Viaduct",
+            "objectID": "bbe088a78a459023f196e957b3474685",
+            "ref": "arthington-viaduct-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9ae5294687aac3c9a44ba436873002b5.gpx",
+    "_geoloc": {
+        "lat": 53.8968574005,
+        "lng": -1.535064266
     },
-    {
-      "description": "Ebor Way",
-      "objectID": "460b6eaefa835488435e3937ef49f82d",
-      "ref": "ebor-way-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Leeds Country Way",
-      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-      "ref": "leeds-country-way-walking-route"
-    },
-    {
-      "description": "Dales Way",
-      "objectID": "605d1dad48e02d248ecb985988bc777c",
-      "ref": "dales-way-walking-route"
-    },
-    {
-      "description": "Roundhay Park",
-      "objectID": "1345bf0f785855b502ce429381b60ec9",
-      "ref": "roundhay-park-walking-and-cycle-route"
-    },
-    {
-      "description": "East Keswick",
-      "objectID": "374b1349f29d161204209c92c1b3d171",
-      "ref": "east-keswick-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    },
-    {
-      "description": "Adel Woods",
-      "objectID": "684f34bab03b4788d68e95ec09d0c762",
-      "ref": "adel-woods-walking-route"
-    },
-    {
-      "description": "Arthington Viaduct",
-      "objectID": "bbe088a78a459023f196e957b3474685",
-      "ref": "arthington-viaduct-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9ae5294687aac3c9a44ba436873002b5.gpx",
-  "_geoloc": {
-    "lat": 53.8968574005,
-    "lng": -1.535064266
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harewood_House_-_geograph.org.uk_-_252613.jpg",
-      "title": "Pam Nash / Harewood House",
-      "caption": "Harewood House. Brilliant blue hyacinth beds at the rear of Harewood House, on a glorious spring day."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gardens_Harewood_House_-_geograph.org.uk_-_93984.jpg",
-      "title": "Nigel Homer / Gardens Harewood House",
-      "caption": "Terrace Garden with parterres"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Stork_at_Harewood_House_-_geograph.org.uk_-_67465.jpg",
-      "title": "Hywel Williams / Stork at Harewood House",
-      "caption": "This stork parent and young were to be seen in the Bird Garden at Harewood House."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/The_fishpond%2C_Harewood_House_-_geograph.org.uk_-_1016890.jpg",
-      "title": "SMJ / The fishpond, Harewood House",
-      "caption": "The fishpond"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harewood_House_entrance_-_geograph.org.uk_-_51215.jpg",
-      "title": "John Davidson / Harewood House entrance",
-      "caption": "Entrance on the A61 at Harewood village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Fish_Pond_at_Harewood_House_-_geograph.org.uk_-_780248.jpg/500px-The_Fish_Pond_at_Harewood_House_-_geograph.org.uk_-_780248.jpg",
-      "title": "Trevor Rickard / The Fish Pond at Harewood House",
-      "caption": "The Fish Pond at the house. View south-west across the pond. In early summer the woods have a good display of rhododendrons."
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "Explore the 100 acres of beautiful landscaped gardens surrounding this 18th century country house in Leeds. A series of well laid out footpaths take you to the Terrace, the Lakeside Garden, the Himalayan Garden and the Walled Garden. The wider estate is also a deer park with 155 Red, 45 Fallow and 45 Roe deer to look out for. From the Terrace there are wonderful views of the surrounding Yorkshire countryside. It also includes a stunning Parterre with 20000 plants and bulbs and ornate fountains. The 32 acre lake is another major feature in the grounds. You can stroll alongside the lake then head into the surrounding woodland on either side of the water. Here you will find peaceful wooded glades and a large collection of colourful rhododendrons. From here you can easily access the stunning Himalayan Garden. Footpaths will take you through a gorge and over a bridge across a beck to a garden with primulas, orchids, cobra lilies and blue poppies. You'll also find the Harewood Stupa, a Buddhist monument built by monks from the Himalayan kingdom of Bhutan. Another major attraction in the grounds is the marvellous bird garden. Here you'll see a number of exotic birds including Humboldt penguins, Snowy Owl, Red Kites, Chilean flamingos, Duyvenbode's lories, macaws, rainbow lorikeets and snow geese. Also look out for Kingfishers near the waterfall by the lake. You can also walk around the fascinating 18th century house and view a number of fine portraits, beautiful furniture, Renaissance masterpieces and a collection of Sevres china. This walk makes use of the Leeds Country Way long distance walk. If you'd like to continue your walking in the area you could follow this path west to Eccup Reservoir and on to Golden Acre Park which are only a few miles away. Hetchell Woods Nature Reserve is also very nearby and worth a visit. The site includes the fascinating historic site of Pompocali where there are extensive earthworks on the course of an old Roman Road.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The on site Courtyard Cafe has a good selection of snacks and meals to choose from. Throughout the summer months, the Courtyard incorporates produce grown in Harewood\u2019s historic Walled Garden in the menu. There's also the Terrace Cafe where there are stunning views over the grounds to the countryside surrounding the estate."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "Dogs are not allowed in the House, Bird Garden, Farm Experience or the Adventure Playground. However you are free to roam the rest of the 100 acre estate with your dog so there's still plenty to see."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For a similar walk in the area you could head to the nearby village of Bramham. Here you can visit the noteworthy Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building. You could also pick up the Leeds Country Way here and follow it to nearby Thorner. The circular walk from East Keswick visits the house from the village to the east. It uses sections of the Leeds Country Way and Ebor Way and additionally visits the River Wharfe. Just to the west you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the Wharfe to enjoy."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/MaxKRZg_45w",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "1a, Unit 1a, Sandy Gate, Harewood, West Yorkshire, England, LS17 9LR, United Kingdom",
-  "postcode": "LS17 9LR",
-  "district": "Harewood",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harewood_House_-_geograph.org.uk_-_252613.jpg",
+            "title": "Pam Nash / Harewood House",
+            "caption": "Harewood House. Brilliant blue hyacinth beds at the rear of Harewood House, on a glorious spring day."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gardens_Harewood_House_-_geograph.org.uk_-_93984.jpg",
+            "title": "Nigel Homer / Gardens Harewood House",
+            "caption": "Terrace Garden with parterres"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Stork_at_Harewood_House_-_geograph.org.uk_-_67465.jpg",
+            "title": "Hywel Williams / Stork at Harewood House",
+            "caption": "This stork parent and young were to be seen in the Bird Garden at Harewood House."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/The_fishpond%2C_Harewood_House_-_geograph.org.uk_-_1016890.jpg",
+            "title": "SMJ / The fishpond, Harewood House",
+            "caption": "The fishpond"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harewood_House_entrance_-_geograph.org.uk_-_51215.jpg",
+            "title": "John Davidson / Harewood House entrance",
+            "caption": "Entrance on the A61 at Harewood village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Fish_Pond_at_Harewood_House_-_geograph.org.uk_-_780248.jpg/500px-The_Fish_Pond_at_Harewood_House_-_geograph.org.uk_-_780248.jpg",
+            "title": "Trevor Rickard / The Fish Pond at Harewood House",
+            "caption": "The Fish Pond at the house. View south-west across the pond. In early summer the woods have a good display of rhododendrons."
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "Explore the 100 acres of beautiful landscaped gardens surrounding this 18th century country house in Leeds. A series of well laid out footpaths take you to the Terrace, the Lakeside Garden, the Himalayan Garden and the Walled Garden. The wider estate is also a deer park with 155 Red, 45 Fallow and 45 Roe deer to look out for. From the Terrace there are wonderful views of the surrounding Yorkshire countryside. It also includes a stunning Parterre with 20000 plants and bulbs and ornate fountains. The 32 acre lake is another major feature in the grounds. You can stroll alongside the lake then head into the surrounding woodland on either side of the water. Here you will find peaceful wooded glades and a large collection of colourful rhododendrons. From here you can easily access the stunning Himalayan Garden. Footpaths will take you through a gorge and over a bridge across a beck to a garden with primulas, orchids, cobra lilies and blue poppies. You'll also find the Harewood Stupa, a Buddhist monument built by monks from the Himalayan kingdom of Bhutan. Another major attraction in the grounds is the marvellous bird garden. Here you'll see a number of exotic birds including Humboldt penguins, Snowy Owl, Red Kites, Chilean flamingos, Duyvenbode's lories, macaws, rainbow lorikeets and snow geese. Also look out for Kingfishers near the waterfall by the lake. You can also walk around the fascinating 18th century house and view a number of fine portraits, beautiful furniture, Renaissance masterpieces and a collection of Sevres china. This walk makes use of the Leeds Country Way long distance walk. If you'd like to continue your walking in the area you could follow this path west to Eccup Reservoir and on to Golden Acre Park which are only a few miles away. Hetchell Woods Nature Reserve is also very nearby and worth a visit. The site includes the fascinating historic site of Pompocali where there are extensive earthworks on the course of an old Roman Road.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The on site Courtyard Cafe has a good selection of snacks and meals to choose from. Throughout the summer months, the Courtyard incorporates produce grown in Harewood\u2019s historic Walled Garden in the menu. There's also the Terrace Cafe where there are stunning views over the grounds to the countryside surrounding the estate."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "Dogs are not allowed in the House, Bird Garden, Farm Experience or the Adventure Playground. However you are free to roam the rest of the 100 acre estate with your dog so there's still plenty to see."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For a similar walk in the area you could head to the nearby village of Bramham. Here you can visit the noteworthy Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building. You could also pick up the Leeds Country Way here and follow it to nearby Thorner. The circular walk from East Keswick visits the house from the village to the east. It uses sections of the Leeds Country Way and Ebor Way and additionally visits the River Wharfe. Just to the west you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the Wharfe to enjoy."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/MaxKRZg_45w",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "1a, Unit 1a, Sandy Gate, Harewood, West Yorkshire, England, LS17 9LR, United Kingdom",
+    "postcode": "LS17 9LR",
+    "district": "Harewood",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

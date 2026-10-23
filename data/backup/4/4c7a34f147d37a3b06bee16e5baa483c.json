@@ -34,9 +34,9 @@
   "video_url": "https://www.youtube.com/embed/X_PFTBs7K0U?si=8zBvgYHP97bsiyWE",
   "postcode": "SA8 4AB",
   "district": "Pontardawe",
-  "county": "Castell-nedd Port Talbot - Neath Port Talbot",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Neath Port Talbot",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -53,5 +53,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A474, Trebanos, Pontardawe, Neath Port Talbot, Cymru / Wales, SA8 4AB, United Kingdom",
+  "state": "Cymru / Wales"
 }

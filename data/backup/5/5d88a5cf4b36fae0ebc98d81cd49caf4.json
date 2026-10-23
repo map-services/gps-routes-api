@@ -31,10 +31,10 @@
   "distance_km": 11.1,
   "description": "This walk takes you from Moreton in Marsh to Chipping Campden in the Cotswolds. The route runs for a distance of just under 7 miles, following waymarked footpaths between the two popular settlements. On the way there are some moderate climbs with some wonderful views over the surrounding countryside from the high points. The opening section of the walk follows the Heart of England Way to the neighbouring village of Blockley, passing one of the local highlights of Batsford Arboretum on the way. The route then continues to Broad Campden before finishing in Chipping Campden.",
   "details": [],
-  "district": "Moreton-in-Marsh",
+  "district": "Cotswold",
   "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -49,5 +49,9 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "High Street, Moreton-in-Marsh, Cotswold, Gloucestershire, England, GL56 0LE, United Kingdom",
+  "postcode": "GL56 0LE",
+  "state": "England"
 }

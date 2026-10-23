@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/nodnwW4Z7Vc?si=m9OV0WXshSKBh4Q8",
   "county": "Norfolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -68,5 +68,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Nature Reserve, opp, High Street, Thornham, King's Lynn and West Norfolk, Norfolk, England, PE36 6NF, United Kingdom",
+  "postcode": "PE36 6NF",
+  "district": "King's Lynn and West Norfolk",
+  "state": "England"
 }

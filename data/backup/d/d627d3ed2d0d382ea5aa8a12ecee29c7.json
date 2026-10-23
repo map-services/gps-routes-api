@@ -43,8 +43,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/LZOJItMA5MI?si=j6soR2zlk2xmNEXu",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "4 hours",
@@ -61,5 +61,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Three Sisters Carpark, A82, Highland, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "state": "Alba / Scotland"
 }

@@ -43,8 +43,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/awaxoiiPK2U?si=pPm9Hu6PyUnc_6H6",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -60,5 +60,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Old Bristol Road, Chewton Mendip, Priddy, Somerset, England, BA5 3AS, United Kingdom",
+  "postcode": "BA5 3AS",
+  "district": "Priddy",
+  "state": "England"
 }

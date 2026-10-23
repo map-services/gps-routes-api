@@ -49,7 +49,7 @@
   "video_url": "https://www.youtube.com/embed/RdAVRAinisE?si=VXGS35xfxrNbU1cJ",
   "district": "Birmingham",
   "region": "West Midlands",
-  "country": "England",
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -65,5 +65,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Bourn Brook Walkway, Selly Oak, Metchley, Birmingham, West Midlands, England, B15 2SS, United Kingdom",
+  "postcode": "B15 2SS",
+  "county": null,
+  "state": "England"
 }

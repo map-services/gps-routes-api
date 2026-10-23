@@ -44,8 +44,8 @@
   "video_url": "https://www.youtube.com/embed/8ZfZTNE49tM?si=RPZ-cWE9h-v-nNOS",
   "district": "Pewsey",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -64,5 +64,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Marlborough Street, Prospect, Pewsey, Wiltshire, England, SN9 5NU, United Kingdom",
+  "postcode": "SN9 5NU",
+  "state": "England"
 }

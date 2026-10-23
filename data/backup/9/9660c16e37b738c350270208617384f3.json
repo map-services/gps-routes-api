@@ -53,9 +53,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/OzYLhygQMe8?si=moFISsC6WlQxFAzv",
   "postcode": "SY20 8UB",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -73,5 +73,9 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Cadfarch, Machynlleth, Powys, Cymru / Wales, SY20 8UB, United Kingdom",
+  "district": "Machynlleth",
+  "state": "Cymru / Wales"
 }

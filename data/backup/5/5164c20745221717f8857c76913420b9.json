@@ -2,7 +2,7 @@
   "created_at": "2026-10-22T21:36:12.452860+00:00",
   "objectID": "5164c20745221717f8857c76913420b9",
   "ref": "glen-tromie-walking-route",
-  "title": "Glen Tromie\u00a0Walk and Cycle Walking Route",
+  "title": "Glen Tromie Walk and Cycle Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Glen_Tromie_-_geograph.org.uk_-_1061393.jpg?20110224040918",
   "nearby": [
     {
@@ -78,8 +78,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/S7o5IRvIDrw?si=obgCBasA3Dg4dDDt",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -99,5 +99,10 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "B970, Tromie Mills, Kingussie, Highland, Alba / Scotland, PH21 1NS, United Kingdom",
+  "postcode": "PH21 1NS",
+  "district": "Kingussie",
+  "state": "Alba / Scotland"
 }

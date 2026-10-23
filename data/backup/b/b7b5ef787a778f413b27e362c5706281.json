@@ -18,7 +18,7 @@
     {
       "description": "Abriachan Forest",
       "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
+      "ref": "abriachan-forest-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b7b5ef787a778f413b27e362c5706281.gpx",
@@ -55,8 +55,8 @@
   "postcode": "IV4 7JT",
   "district": "Struy",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2.5 to 3 hours",
@@ -73,5 +73,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A831, Struy, Highland, Alba / Scotland, IV4 7JT, United Kingdom",
+  "state": "Alba / Scotland"
 }

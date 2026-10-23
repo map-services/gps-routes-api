@@ -48,10 +48,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/5LNoSFj2Di0?si=FRNwYkfgMZPGQh5z",
   "postcode": "SO51 6DF",
-  "district": "Canada Common",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -68,5 +68,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Canada Common, Canada, Wellow, Test Valley, Hampshire, England, SO51 6DF, United Kingdom",
+  "state": "England"
 }

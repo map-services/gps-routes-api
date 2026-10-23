@@ -48,8 +48,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/FMEuKpZJdpc?si=QFacZVyz-2VfX57j",
   "county": "Westmorland and Furness",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -67,5 +67,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Christy Bridge, Howsteadbrow, Martindale, Westmorland and Furness, England, CA10 2NF, United Kingdom",
+  "postcode": "CA10 2NF",
+  "district": null,
+  "state": "England"
 }

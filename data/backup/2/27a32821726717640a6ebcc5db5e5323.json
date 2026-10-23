@@ -42,9 +42,9 @@
   "description": "This circular walk takes you along the Old Railway Line and the Llangollen Canal in Trevor, Wrexham County. The walk starts from Trevor Old Station and takes you along the old Ruabon to Barmouth railway line before linking up with the canal. This will lead you towards the famous Pontcysyllte Aqueduct before returning to the old station. There's a good mix of local history and pleasant rural scenery as you make your way along the trails. You can extend your outing on theTrevor to Llangollen Canal Walk.",
   "details": [],
   "district": "Trevor",
-  "county": "Wrecsam - Wrexham",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Wrexham",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -60,5 +60,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Railway Line, Llangollen Rural, Trevor, Wrexham, Cymru / Wales, LL20 7UB, United Kingdom",
+  "postcode": "LL20 7UB",
+  "state": "Cymru / Wales"
 }

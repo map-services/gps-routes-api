@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/7h5wyxaohiE?si=TiSaJEvyYXbAc3mZ",
   "district": "Auchencairn",
   "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -74,5 +74,9 @@
   "activities": [
     "walking",
     "birdwatching"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Hugh Paton path, Collin Mill, Auchencairn, Dumfries and Galloway, Alba / Scotland, DG7 1QY, United Kingdom",
+  "postcode": "DG7 1QY",
+  "state": "Alba / Scotland"
 }

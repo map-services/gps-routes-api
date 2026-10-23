@@ -53,9 +53,9 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/nCUB451AHYU?si=eDGrSKVnKjg3a2dl",
   "postcode": "PL24 2TN",
-  "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
+  "county": "Kernow / Cornwall",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -75,5 +75,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Trenant, Fowey, Kernow / Cornwall, England, PL24 2TN, United Kingdom",
+  "district": "Fowey",
+  "state": "England"
 }

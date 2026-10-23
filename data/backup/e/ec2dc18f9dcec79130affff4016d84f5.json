@@ -59,8 +59,8 @@
   "postcode": "IV19 1JA",
   "district": "Tain",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1.5 to 2 hours",
@@ -78,5 +78,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Station Road, Tain, Highland, Alba / Scotland, IV19 1JA, United Kingdom",
+  "state": "Alba / Scotland"
 }

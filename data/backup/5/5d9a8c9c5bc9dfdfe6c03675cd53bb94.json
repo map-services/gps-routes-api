@@ -63,8 +63,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/2mqH-Yymijs?si=yL3pysEaB6LyvNnh",
   "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -84,5 +84,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Balcary, Rascarrel, Dumfries and Galloway, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": "Rascarrel",
+  "state": "Alba / Scotland"
 }

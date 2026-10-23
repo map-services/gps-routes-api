@@ -42,11 +42,11 @@
   "description": "This walk takes you from Ratho to Linlithgow via Winchburgh along the Union Canal. It's about a 14 mile walk along the flat canal towpath with fine views of the surrounding countryside to enjoy along the way. You'll pass aqueducts and old bridges before coming to the lovely Linlithgow Loch where there are more fine waterside walking trails.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/YU75pUTKfj0?si=0YVobKtbYQv98XgV&start=146",
-  "postcode": "EH28 8JA",
-  "district": "Ratho",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland",
+  "postcode": "EH28 8SA",
+  "district": "City of Edinburgh",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -63,5 +63,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Union Canal Towpath, Hillend, Ratho, City of Edinburgh, Alba / Scotland, EH28 8SA, United Kingdom",
+  "state": "Alba / Scotland"
 }

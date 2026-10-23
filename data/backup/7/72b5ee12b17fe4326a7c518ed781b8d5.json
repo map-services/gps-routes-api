@@ -33,8 +33,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/QcZT-hEbcQQ?si=9hbKFjar5Ttn03uq",
   "county": "Norfolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -52,5 +52,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Shoals Road, Barton Turf, Irstead, North Norfolk, Norfolk, England, NR12 8XS, United Kingdom",
+  "postcode": "NR12 8XS",
+  "district": "North Norfolk",
+  "state": "England"
 }

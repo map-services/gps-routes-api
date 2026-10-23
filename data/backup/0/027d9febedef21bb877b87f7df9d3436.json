@@ -1,70 +1,62 @@
 {
-  "created_at": "2026-10-22T22:32:56.686974+00:00",
-  "objectID": "027d9febedef21bb877b87f7df9d3436",
-  "ref": "carreg-goch-wellington-crash-site-walk",
-  "title": "Carreg Goch Wellington\u00a0Crash Site Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg/500px-Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg?20220213043551",
-  "nearby": [
-    {
-      "description": "Craig-y-Nos Country Park",
-      "objectID": "225d30de025311287922fc36b00847d1",
-      "ref": "craig-y-nos-country-park-walking-route"
+    "created_at": "2026-10-22T22:32:56.686974+00:00",
+    "objectID": "027d9febedef21bb877b87f7df9d3436",
+    "ref": "carreg-goch-wellington-crash-site-walk",
+    "title": "Carreg Goch Wellington Crash Site Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg/500px-Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg?20220213043551",
+    "nearby": [
+        {
+            "description": "Craig-y-Nos Country Park",
+            "objectID": "225d30de025311287922fc36b00847d1",
+            "ref": "craig-y-nos-country-park-walking-route"
+        },
+        {
+            "description": "Cray Reservoir",
+            "objectID": "8d3af08fdb17f1c11ce3bba762c2353b",
+            "ref": "cray-reservoir-walking-route"
+        },
+        {
+            "description": "Pen Arthur Forest Walk",
+            "objectID": "cb676380468ae10805bdd285ad6b1112",
+            "ref": "pen-arthur-forest-walk"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/027d9febedef21bb877b87f7df9d3436.gpx",
+    "_geoloc": {
+        "lat": 51.834159948,
+        "lng": -3.6817917057
     },
-    {
-      "description": "Cray Reservoir",
-      "objectID": "8d3af08fdb17f1c11ce3bba762c2353b",
-      "ref": "cray-reservoir-walking-route"
-    },
-    {
-      "description": "Pen Arthur Forest Walk",
-      "objectID": "cb676380468ae10805bdd285ad6b1112",
-      "ref": "pen-arthur-forest-walk"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/027d9febedef21bb877b87f7df9d3436.gpx",
-  "_geoloc": {
-    "lat": 51.834159948,
-    "lng": -3.6817917057
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg",
-      "title": "Crash site of Wellington MF509 by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Crash site of Wellington MF509"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/View_ENE_from_Carreg_Goch_-_geograph.org.uk_-_3210298.jpg",
-      "title": "View ENE from Carreg Goch by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View ENE from Carreg Goch"
-    }
-  ],
-  "distance_km": 8.1,
-  "description": "This walk from Glyn-tawe heads west towards the Carreg Goch summit and the Wellington MF509 crash site. You start off near the A4067 road, typically from a lay-by or parking area such as the one at the Brecon Beacons Camping and Caravan Park or near the Tafarn y Garreg pub.You will start by heading through a gate and beginning a steep ascent up the hillside, with initial views over the Tawe Valley.The initial climb is challenging and involves rough, uneven ground where the path can be hard to discern in places. As you gain elevation and reach the plateau area, the gradient eases. The route traverses open moorland, where you will pass some small tarns or lakes.Navigation across the open moorland requires careful attention to a map and compass or a downloaded GPS route, as the path is often faint or non-existent. The crash site itself is located slightly below and to the west of the Carreg Goch summit, around grid reference SN817168. The wreckage is scattered in two main piles of twisted metal, which can blend into the rocky landscape, but a small memorial or Canadian flag often marks the main concentration of debris. This site offers a poignant reminder of the six Canadian crew who perished there in 1944.You can continue your walking in the area by visiting the nearbyCraig-y-Nos Country Park.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/bsPq6Vr7ut8?si=590ioHIXPKlDV5ix",
-  "postcode": "SA9 1GJ",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true,
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "moorland",
-    "hillside"
-  ],
-  "points_of_interest": [
-    "crash site",
-    "memorial",
-    "country park"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Crash_site_of_Wellington_MF509_-_geograph.org.uk_-_3210351.jpg",
+            "title": "Crash site of Wellington MF509 by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Crash site of Wellington MF509"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/View_ENE_from_Carreg_Goch_-_geograph.org.uk_-_3210298.jpg",
+            "title": "View ENE from Carreg Goch by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View ENE from Carreg Goch"
+        }
+    ],
+    "distance_km": 8.1,
+    "description": "This walk from Glyn-tawe heads west towards the Carreg Goch summit and the Wellington MF509 crash site. You start off near the A4067 road, typically from a lay-by or parking area such as the one at the Brecon Beacons Camping and Caravan Park or near the Tafarn y Garreg pub.You will start by heading through a gate and beginning a steep ascent up the hillside, with initial views over the Tawe Valley.The initial climb is challenging and involves rough, uneven ground where the path can be hard to discern in places. As you gain elevation and reach the plateau area, the gradient eases. The route traverses open moorland, where you will pass some small tarns or lakes.Navigation across the open moorland requires careful attention to a map and compass or a downloaded GPS route, as the path is often faint or non-existent. The crash site itself is located slightly below and to the west of the Carreg Goch summit, around grid reference SN817168. The wreckage is scattered in two main piles of twisted metal, which can blend into the rocky landscape, but a small memorial or Canadian flag often marks the main concentration of debris. This site offers a poignant reminder of the six Canadian crew who perished there in 1944.You can continue your walking in the area by visiting the nearbyCraig-y-Nos Country Park.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/bsPq6Vr7ut8?si=590ioHIXPKlDV5ix",
+    "postcode": "SA9 1GJ",
+    "county": "Powys",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "moderate",
+    "terrain": ["moorland", "hillside"],
+    "points_of_interest": ["crash site", "memorial", "country park"],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "out and back",
+    "activities": ["walking"],
+    "nominatim_found": true,
+    "display_address": "Brecon Beacons Camping & Caravan Park, A4067, Penwyllt, Tawe-Uchaf, Powys, Cymru / Wales, SA9 1GJ, United Kingdom",
+    "district": null,
+    "state": "Cymru / Wales"
 }

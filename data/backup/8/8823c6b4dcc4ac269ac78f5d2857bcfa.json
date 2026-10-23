@@ -49,8 +49,8 @@
   "video_url": "https://www.youtube.com/embed/G89IMq6EMho?si=fUzsZT5WBU9NH9_u",
   "district": "Fortrose",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours 30 minutes",
@@ -67,5 +67,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A832, Fortrose, Highland, Alba / Scotland, IV10 8TF, United Kingdom",
+  "postcode": "IV10 8TF",
+  "state": "Alba / Scotland"
 }

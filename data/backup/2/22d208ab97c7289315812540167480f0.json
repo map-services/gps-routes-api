@@ -68,8 +68,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/6b9ihL-tJJU?si=cyzCqhf7rCA-WF1w",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -87,5 +87,10 @@
   "route_type": "out and back",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Tain (Quarry) Hill, Tain, Highland, Alba / Scotland, United Kingdom",
+  "postcode": null,
+  "district": "Tain",
+  "state": "Alba / Scotland"
 }

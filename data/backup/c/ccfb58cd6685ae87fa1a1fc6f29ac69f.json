@@ -42,10 +42,10 @@
   "description": "This pleasant circular walk explores the area around the Oxfordshire villages of Fringford, Hethe and Cottisford. On the way you will also pass through the Shelswell Park and the Tusmore Park Estate. It's a varied walk with pretty villages, woodland sections, lovely countryside views and a visit to the Tusmore Estate. The estate includes a 17th century house and some picturesque gardens.",
   "details": [],
   "postcode": "OX27 8EN",
-  "district": "Fringford",
+  "district": "Cherwell",
   "county": "Oxfordshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "5 hours 10 minutes",
@@ -62,5 +62,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Jubilee Ride, Cherwell, Oxfordshire, England, OX27 8EN, United Kingdom",
+  "state": "England"
 }

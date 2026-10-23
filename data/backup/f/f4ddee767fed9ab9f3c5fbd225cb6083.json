@@ -44,8 +44,8 @@
   "postcode": "RG7 6LS",
   "district": "Stanford Dingley",
   "county": "West Berkshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "half day",
@@ -65,5 +65,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Cock Lane, Stanford Dingley, West Berkshire, England, RG7 6LS, United Kingdom",
+  "state": "England"
 }

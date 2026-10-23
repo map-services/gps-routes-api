@@ -44,8 +44,8 @@
   "postcode": "TA4 4DS",
   "district": "West Quantoxhead",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -65,5 +65,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "A39, West Quantoxhead, Somerset, England, TA4 4DS, United Kingdom",
+  "state": "England"
 }

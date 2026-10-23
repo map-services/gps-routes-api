@@ -31,9 +31,9 @@
   "distance_km": 6.2,
   "description": "This circular walk takes you from St David's to Whitesands Bay using a mixture of country lanes and public footpaths. The route takes you through the attractive coastal countryside around St Davids, with a mixture of open farmland, quiet lanes and sections of the Pembrokeshire Coast Path. As you approach Whitesands Bay the landscape becomes more rugged, with views across the coastline and the surrounding headlands.Whitesands Bay is one of the best known beaches on the Pembrokeshire coast, backed by low dunes and surrounded by dramatic coastal scenery. The area is also close to St Davids Head, where there are impressive cliffs, rocky outcrops and views across the sea towards Ramsey Island.The walk provides a good way to combine the historic city of St Davids with one of Pembrokeshire's most scenic coastal destinations. St Davids Cathedral and the ruins of the Bishop's Palace are also worth exploring before or after the walk, while Whitesands provides a particularly attractive finish to the route.",
   "details": [],
-  "county": "Sir Benfro - Pembrokeshire",
-  "region": "Wales",
-  "country": "Wales",
+  "county": "Pembrokeshire",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -50,5 +50,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Pit Street, St. David's and the Cathedral Close, St Davids, Pembrokeshire, Cymru / Wales, SA62 6PX, United Kingdom",
+  "postcode": "SA62 6PX",
+  "district": "St Davids",
+  "state": "Cymru / Wales"
 }

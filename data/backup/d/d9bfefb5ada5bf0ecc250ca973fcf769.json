@@ -89,8 +89,8 @@
   "postcode": "SN10 2DE",
   "district": "Devizes",
   "county": "Wiltshire",
-  "region": "South West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "10 hours",
@@ -107,5 +107,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Out Patients, Couch Lane, Devizes, Wiltshire, England, SN10 2DE, United Kingdom",
+  "state": "England"
 }

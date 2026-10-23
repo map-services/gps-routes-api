@@ -48,8 +48,8 @@
   ],
   "video_url": "https://www.youtube.com/embed/40pQvToJIZ8?si=LUVO6_Sblc8NzHoi",
   "county": "West Lothian",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -65,5 +65,10 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Linn Jaw Path, Livingston, West Lothian, Alba / Scotland, EH54 9AN, United Kingdom",
+  "postcode": "EH54 9AN",
+  "district": "Livingston",
+  "state": "Alba / Scotland"
 }

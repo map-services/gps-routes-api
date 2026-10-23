@@ -43,10 +43,10 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/7OGOL2m5juQ?si=gs8-oM6HMb-d2r38",
   "postcode": "IP11 3TW",
-  "district": "Felixstowe",
+  "district": "East Suffolk",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -65,5 +65,8 @@
   "route_type": "one-way",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Viewpoint Road, Felixstowe, East Suffolk, Suffolk, England, IP11 3TW, United Kingdom",
+  "state": "England"
 }

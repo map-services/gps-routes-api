@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/YPMad3J2JzQ?si=auwjsLR-soFSbW0U",
   "district": "Collieston",
   "county": "Aberdeenshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -76,5 +76,9 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Forvie National Nature Reserve Visitor Centre, B9003, Cotehill, Collieston, Aberdeenshire, Alba / Scotland, AB41 8RU, United Kingdom",
+  "postcode": "AB41 8RU",
+  "state": "Alba / Scotland"
 }

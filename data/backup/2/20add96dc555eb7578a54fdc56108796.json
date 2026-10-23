@@ -54,8 +54,8 @@
   "video_url": "https://www.youtube.com/embed/pUtkA3WGT98?si=xa4aDeb-f1vldYSq",
   "postcode": "ML8 5QP",
   "county": "South Lanarkshire",
-  "region": "Scotland",
-  "country": "Scotland",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour",
@@ -74,5 +74,9 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Corra Mill Road, Tillietudlem, Crossford, South Lanarkshire, Alba / Scotland, ML8 5QP, United Kingdom",
+  "district": "Crossford",
+  "state": "Alba / Scotland"
 }

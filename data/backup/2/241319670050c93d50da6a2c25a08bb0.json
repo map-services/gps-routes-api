@@ -34,8 +34,8 @@
   "video_url": "https://www.youtube.com/embed/YslhgVJtGbQ?si=f5Qx4VIUG2ifWzBk",
   "postcode": "SG6 1AN",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
@@ -57,5 +57,9 @@
     "walking",
     "cycling",
     "dog friendly"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Norton Bury Lane, Jubilee Industrial Centre, Norton, North Hertfordshire, Hertfordshire, England, SG6 1AN, United Kingdom",
+  "district": "North Hertfordshire",
+  "state": "England"
 }

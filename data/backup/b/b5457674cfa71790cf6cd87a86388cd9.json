@@ -63,8 +63,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/m_l7fe73lXo?si=Nc9X8CRdp2iXCJ1b",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "3 hours",
@@ -83,5 +83,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Ellingham, Harbridge and Ibsley, New Forest, Hampshire, England, BH24 3QY, United Kingdom",
+  "postcode": "BH24 3QY",
+  "district": "New Forest",
+  "state": "England"
 }

@@ -54,8 +54,8 @@
   "postcode": "WA6 9EL",
   "district": "Manley",
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "2 hours",
@@ -72,5 +72,8 @@
   "activities": [
     "walking",
     "cycling"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Manley Crown Green Bowls Club, Tarvin Road, Manley Common, Manley, Cheshire West and Chester, England, WA6 9EL, United Kingdom",
+  "state": "England"
 }

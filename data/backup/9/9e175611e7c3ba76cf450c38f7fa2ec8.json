@@ -38,8 +38,8 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/pGD4TsV196o?si=FGMjWouHmStDI64O",
   "county": "Surrey",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "less than 1 hour",
@@ -56,5 +56,10 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Broadmoor Road, Broadmoor, Wotton, Abinger, Mole Valley, Surrey, England, RH5 6JY, United Kingdom",
+  "postcode": "RH5 6JY",
+  "district": "Mole Valley",
+  "state": "England"
 }

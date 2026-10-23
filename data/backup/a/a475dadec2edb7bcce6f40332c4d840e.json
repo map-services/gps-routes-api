@@ -60,8 +60,8 @@
   "postcode": "BR8 7YL",
   "district": "Swanley",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
+  "region": null,
+  "country": "United Kingdom",
   "gazetteer_found": true,
   "llama_cpp": true,
   "estimated_duration": "30 to 50 minutes",
@@ -85,5 +85,8 @@
   "route_type": "circular",
   "activities": [
     "walking"
-  ]
+  ],
+  "nominatim_found": true,
+  "display_address": "Dawn to Dusk Day Nursery, The Birches, White Oak, Swanley, Sevenoaks, Kent, England, BR8 7YL, United Kingdom",
+  "state": "England"
 }
