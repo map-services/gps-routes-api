@@ -75,7 +75,9 @@ for file in tqdm(
     with open(file, "r") as fp:
         record: dict = json.load(fp)
 
-        if record.get("llama_cpp", False):
+        already_processed = record.get("llama_cpp", False)
+
+        if already_processed:
             continue
 
         document = f"""
