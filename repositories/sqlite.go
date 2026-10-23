@@ -389,6 +389,17 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 		selectPart += " JOIN routes_fts ON routes.rowid = routes_fts.rowid"
 	}
 
+	// Determine the GROUP BY expression and the NULL-check expression.
+	// SQLite does not group correctly on SELECT-list aliases from table-valued
+	// functions (e.g. "json_each.value AS key" — GROUP BY key produces duplicate
+	// buckets). Always reference the actual expression instead.
+	groupByExpr := facetField
+	nullCheckExpr := facetField
+	if unnest {
+		groupByExpr = "json_each.value"
+		nullCheckExpr = "json_each.value"
+	}
+
 	query, params := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).
 		// Exclude both NULL and empty string. The SQLite JSON import path stores
@@ -396,9 +407,9 @@ func (repo *SQLiteDbRepository) FacetCounts(ctx context.Context, criteria *reque
 		// empty-string bucket. Array facets go through json_each; a non-empty
 		// JSON column is never == '', so this filter is a no-op there.
 		// Also exclude NULL keys from json_each results when array elements are null.
-		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> '' AND key IS NOT NULL", facetField, facetField)).
+		WithWhereClause(fmt.Sprintf("%s IS NOT NULL AND %s <> '' AND %s IS NOT NULL", facetField, facetField, nullCheckExpr)).
 		WithExcludeFacets(excludeFacets...).
-		WithGroupBy("key").
+		WithGroupBy(groupByExpr).
 		WithOrderBy("value DESC").
 		WithLimit(limit).
 		Build()
