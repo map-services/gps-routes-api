@@ -3,10 +3,13 @@ package routes
 import (
 	"fmt"
 	"net/http"
+	"strconv"
+	"strings"
 
 	"github.com/gin-gonic/gin"
 
 	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/map-services/gps-routes-api/services"
 )
@@ -78,6 +81,22 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	matches, err := api.Service.Search(&payload)
 	if err != nil {
 		c.Error(err) //nolint:errcheck
+		return
+	}
+
+	// Check Accept header for GeoJSON content negotiation
+	if strings.Contains(c.GetHeader("Accept"), "application/geo+json") {
+		fc := domain.ToFeatureCollection(matches)
+
+		// Set pagination metadata via HTTP response headers
+		c.Header("X-Total-Count", strconv.FormatInt(matches.Total, 10))
+		c.Header("X-Has-More", strconv.FormatBool(matches.HasMore))
+		if matches.HasMore {
+			c.Header("X-Next-Offset", strconv.FormatInt(int64(matches.NextOffset), 10))
+		}
+
+		c.Header("Content-Type", "application/geo+json")
+		c.JSON(http.StatusOK, fc)
 		return
 	}
 

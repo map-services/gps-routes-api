@@ -22,7 +22,13 @@ paths:
       operationId: search
       summary: Search for routes according to various criteria
       description: |
-        Returns multiple matching summary results in JSON format.
+        Returns multiple matching summary results. By default the response is
+        JSON (`SearchResults`). If the `Accept` header is set to
+        `application/geo+json`, the response is a GeoJSON
+        `FeatureCollection` with `Point` geometry (from each route's start
+        position). When returning GeoJSON, pagination metadata is carried in
+        HTTP response headers (`X-Total-Count`, `X-Has-More`, `X-Next-Offset`)
+        so the body remains standard-compliant.
 
         If `limit` is not specified it defaults to 10. The `offset` and
         `limit` values are range-checked: `offset` must be in `0..100000` and
@@ -43,10 +49,34 @@ paths:
       responses:
         "200":
           description: Successful response
+          headers:
+            X-Total-Count:
+              description: >-
+                The total number of matching routes. Present only when
+                `Accept: application/geo+json`.
+              schema:
+                type: integer
+                format: int64
+            X-Has-More:
+              description: >-
+                "true" when more results are available beyond this page.
+                Present only when `Accept: application/geo+json`.
+              schema:
+                type: boolean
+            X-Next-Offset:
+              description: >-
+                The offset for the next page of results. Present only when
+                `Accept: application/geo+json` and `X-Has-More` is true.
+              schema:
+                type: integer
+                format: int32
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/SearchResults"
+            application/geo+json:
+              schema:
+                $ref: "#/components/schemas/GeoJSONFeatureCollection"
         "400":
           description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, or an unknown facet field.
           content:
@@ -591,3 +621,104 @@ components:
                 The request field that caused the validation error (present only
                 when code is `VALIDATION_ERROR`).
               example: limit
+
+    # --- GeoJSON schemas for `Accept: application/geo+json` on the Search endpoint ---
+
+    GeoJSONPointGeometry:
+      type: object
+      description: A GeoJSON Point geometry representing the route start position
+      required:
+        - type
+        - coordinates
+      properties:
+        type:
+          type: string
+          enum:
+            - Point
+          description: Always "Point"
+        coordinates:
+          type: array
+          description: >-
+            Coordinates in `[longitude, latitude]` order (GeoJSON convention).
+            The point corresponds to the route's start position.
+          items:
+            type: number
+            format: float
+          minItems: 2
+          maxItems: 2
+
+    GeoJSONFeatureProperties:
+      type: object
+      description: Route-specific properties attached to each GeoJSON Feature
+      required:
+        - objectID
+        - ref
+        - title
+        - description
+      properties:
+        objectID:
+          type: string
+          description: The object ID identifying the GPS route
+          example: 0a0cafcd50f17284dc578271968f8341
+        ref:
+          type: string
+          description: A human-friendly unique identifier for the route
+          example: daneshill-lakes-walking-route
+        title:
+          type: string
+          description: The route title
+          example: Daneshill Lakes - Retford Walking Route
+        description:
+          type: string
+          description: A description of the route
+          example: This easy walk takes you around the lovely Daneshill Lakes Nature Reserve near Retford.
+        headline_image_url:
+          type: string
+          format: url
+          nullable: true
+          description: The main image URL associated with the route
+        distance_km:
+          type: number
+          format: float
+          description: A rough distance indicating the length of the route
+          example: 1.7
+
+    GeoJSONFeature:
+      type: object
+      description: A single GeoJSON Feature representing one route
+      required:
+        - type
+        - geometry
+        - properties
+      properties:
+        type:
+          type: string
+          enum:
+            - Feature
+          description: Always "Feature"
+        geometry:
+          $ref: "#/components/schemas/GeoJSONPointGeometry"
+        properties:
+          $ref: "#/components/schemas/GeoJSONFeatureProperties"
+
+    GeoJSONFeatureCollection:
+      type: object
+      description: >-
+        A GeoJSON FeatureCollection containing route Features. Pagination
+        metadata (total, hasMore, nextOffset) is returned via HTTP response
+        headers (`X-Total-Count`, `X-Has-More`, `X-Next-Offset`) to keep the
+        body standard-compliant.
+      required:
+        - type
+        - features
+      properties:
+        type:
+          type: string
+          enum:
+            - FeatureCollection
+          description: Always "FeatureCollection"
+        features:
+          type: array
+          description: The matching route Features
+          items:
+            $ref: "#/components/schemas/GeoJSONFeature"

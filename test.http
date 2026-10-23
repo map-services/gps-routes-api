@@ -16,7 +16,12 @@ X-API-Key: {{API_KEY}}
 Content-Type: application/json
 
 {
-  "boundingBox": [-2.984805, 54.418630, -2.947941, 54.438327]
+  "boundingBox": {
+    "minLng": -2.984805,
+    "minLat": 54.418630,
+    "maxLng": -2.947941,
+    "maxLat": 54.438327
+  }
 }
 
 
@@ -55,13 +60,34 @@ Content-Type: application/json
 }
 
 
+### Search Routes (GeoJSON Output)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: ab384f13-393c-4783-883b-50ec2721b8d8
+Content-Type: application/json
+Accept: application/geo+json
+
+{
+  "boundingBox": {
+    "minLng": -2.984805,
+    "minLat": 54.418630,
+    "maxLng": -2.947941,
+    "maxLat": 54.438327
+  }
+}
+
+
 ### Count All Routes
 POST http://localhost:8080/v1/gps-routes/count
 X-API-Key: {{API_KEY}}
 Content-Type: application/json
 
 {
-  "boundingBox": [-2.984805, 54.418630, -2.947941, 54.438327]
+  "boundingBox": {
+    "minLng": -2.984805,
+    "minLat": 54.418630,
+    "maxLng": -2.947941,
+    "maxLat": 54.438327
+  }
 }
 
 
