@@ -115,6 +115,7 @@ make import-data
 | `GPS_ROUTES_API_KEY` | Yes | — | API key sent via `X-API-Key` header |
 | `SQLITE_DB_PATH` | No | `./data/routes.db` | Path to the SQLite database |
 | `OS_NAMES_API_KEY` | No | — | API key for OSM names lookup (faceted search) |
+| `SEARCH_TIMEOUT_SECONDS` | No | `10` | Search query timeout in seconds |
 
 ## Build Commands
 

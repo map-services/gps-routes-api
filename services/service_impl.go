@@ -3,6 +3,8 @@ package services
 import (
 	"context"
 	"fmt"
+	"os"
+	"strconv"
 	"time"
 
 	"github.com/map-services/gps-routes-api/models/common"
@@ -194,10 +196,28 @@ func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {
 	}, nil
 }
 
+// defaultSearchTimeout is the fallback when SEARCH_TIMEOUT_SECONDS is not set.
+const defaultSearchTimeout = 10 * time.Second
+
+// GetSearchTimeout reads the SEARCH_TIMEOUT_SECONDS environment variable and
+// returns the parsed duration.  It falls back to 10 seconds when the variable
+// is unset, empty, or contains an invalid value.
+func GetSearchTimeout() time.Duration {
+	val := os.Getenv("SEARCH_TIMEOUT_SECONDS")
+	if val == "" {
+		return defaultSearchTimeout
+	}
+	seconds, err := strconv.Atoi(val)
+	if err != nil || seconds <= 0 {
+		return defaultSearchTimeout
+	}
+	return time.Duration(seconds) * time.Second
+}
+
 func NewRoutesService(repo repo.DbRepository, namesApi osdatahub.NamesApi) *RoutesServiceImpl {
 	return &RoutesServiceImpl{
 		repository:    repo,
 		namesApi:      namesApi,
-		searchTimeout: 10 * time.Second, // TODO: Consider changing to configurable options
+		searchTimeout: GetSearchTimeout(),
 	}
 }
