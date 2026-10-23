@@ -178,6 +178,39 @@ components:
           description: Longitude
           example: -1.62343
 
+    # A bounding box that encompasses all hits in a search result set.
+    # It is computed from the `_geoloc` values of each hit, giving the
+    # minimum and maximum latitude/longitude across all results.
+    BoundingBox:
+      type: object
+      description: A bounding box encompassing all hits in the search results
+      required:
+        - minLat
+        - minLng
+        - maxLat
+        - maxLng
+      properties:
+        minLat:
+          type: number
+          format: float
+          description: Minimum latitude across all hits
+          example: 50.715
+        minLng:
+          type: number
+          format: float
+          description: Minimum longitude across all hits
+          example: -5.537
+        maxLat:
+          type: number
+          format: float
+          description: Maximum latitude across all hits
+          example: 58.582
+        maxLng:
+          type: number
+          format: float
+          description: Maximum longitude across all hits
+          example: 1.947
+
     RouteSummary:
       type: object
       required:
@@ -426,18 +459,8 @@ components:
           default: 10
           description: The maximum number of results to return. Defaults to 10 when omitted or 0.
         boundingBox:
-          type: array
-          description: The bounding box with bottom-left lng/lat, followed by top-right lng/lat. Mutually exclusive with `nearby`.
-          items:
-            type: number
-            format: float
-          example:
-            [
-              -2.9769945144653325,
-              54.41890499817318,
-              -2.945623397827149,
-              54.43847718997843,
-            ]
+          $ref: "#/components/schemas/BoundingBox"
+          description: A bounding box filter for proximity search. Mutually exclusive with `nearby`.
         facets:
           type: object
           description: Filtering by facet values. Each key must be a supported facet field.
@@ -479,6 +502,11 @@ components:
           description: The matching route summaries (page of results)
           items:
             $ref: "#/components/schemas/RouteSummary"
+        boundingBox:
+          $ref: "#/components/schemas/BoundingBox"
+          description: >-
+            A bounding box encompassing all hits' `_geoloc` coordinates in the
+            result set. Omitted when there are no hits.
         facets:
           type: object
           description: A map of facet field name to a map of facet-value -> count

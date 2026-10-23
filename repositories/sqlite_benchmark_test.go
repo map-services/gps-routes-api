@@ -305,7 +305,7 @@ func BenchmarkSearchBbox(b *testing.B) {
 	ctx := context.Background()
 	// Box around London area
 	criteria := &request.SearchRequest{
-		BoundingBox: []float64{-0.5, 51.3, 0.1, 51.7},
+		BoundingBox: &common.BoundingBox{MinLng: -0.5, MinLat: 51.3, MaxLng: 0.1, MaxLat: 51.7},
 		Limit:       10,
 	}
 
@@ -343,7 +343,7 @@ func BenchmarkSearchFTSWithBbox(b *testing.B) {
 	ctx := context.Background()
 	criteria := &request.SearchRequest{
 		Query:       "countryside",
-		BoundingBox: []float64{-3.0, 51.0, 2.0, 58.0},
+		BoundingBox: &common.BoundingBox{MinLng: -3.0, MinLat: 51.0, MaxLng: 2.0, MaxLat: 58.0},
 		Limit:       10,
 	}
 
@@ -505,7 +505,7 @@ func BenchmarkSearchLargeDataset(b *testing.B) {
 
 	b.Run("Bbox", func(b *testing.B) {
 		criteria := &request.SearchRequest{
-			BoundingBox: []float64{-3.0, 51.0, 2.0, 58.0},
+			BoundingBox: &common.BoundingBox{MinLng: -3.0, MinLat: 51.0, MaxLng: 2.0, MaxLat: 58.0},
 			Limit:       10,
 		}
 		b.ResetTimer()
@@ -531,7 +531,7 @@ func BenchmarkSearchLargeDataset(b *testing.B) {
 	b.Run("FTS+Bbox", func(b *testing.B) {
 		criteria := &request.SearchRequest{
 			Query:       "countryside",
-			BoundingBox: []float64{-3.0, 51.0, 2.0, 58.0},
+			BoundingBox: &common.BoundingBox{MinLng: -3.0, MinLat: 51.0, MaxLng: 2.0, MaxLat: 58.0},
 			Limit:       10,
 		}
 		b.ResetTimer()

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
 	repo "github.com/map-services/gps-routes-api/repositories"
@@ -130,8 +131,19 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		nextOffset = criteria.Offset + effectiveLimit
 	}
 
+	// Compute bounding box encompassing all hits
+	var boundingBox *common.BoundingBox
+	for i, hit := range results {
+		if i == 0 {
+			boundingBox = common.NewBoundingBox(hit.StartPosition)
+		} else {
+			boundingBox.Expand(hit.StartPosition)
+		}
+	}
+
 	return &domain.SearchResults{
 		Hits:        results,
+		BoundingBox: boundingBox,
 		Total:       total,
 		Facets:      facets,
 		Attribution: ATTRIBUTION,

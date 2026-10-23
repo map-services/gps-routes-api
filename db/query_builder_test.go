@@ -73,10 +73,11 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "bounding box",
-			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				BoundingBox: &common.BoundingBox{MinLng: 1.9, MinLat: 2.8, MaxLng: 3.7, MaxLat: 4.6},
+			}),
 			// R*Tree bbox predicate: min_lat <= latMax AND max_lat >= latMin
 			// AND min_lon <= lonMax AND max_lon >= lonMin.
-			// boundingBox is [lngMin, latMin, lngMax, latMax] = {1.9, 2.8, 3.7, 4.6}.
 			// Values are embedded directly (no '?' params) by BuildSTWithinQuery.
 			want: Result{
 				sql:    fmt.Sprintf("SELECT * FROM routes WHERE routes.rowid IN (SELECT id FROM routes_rtree WHERE min_lat <= %f AND max_lat >= %f AND min_lon <= %f AND max_lon >= %f)", 4.6, 2.8, 3.7, 1.9),
