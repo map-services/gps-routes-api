@@ -1,54 +1,71 @@
 {
-    "created_at": "2026-10-22T21:29:01.082091+00:00",
-    "objectID": "9b4ac5cc57d31cf13f8af4a3e683f01d",
-    "ref": "clovelly-to-hartland-quay-walk",
-    "title": "Clovelly to Hartland Quay Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg/500px-Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg?20240506011739",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Hartland Quay to Spekes Mill Waterfall Walk",
-            "objectID": "e3a7f445d0f0acb07ba76f4219ef0595",
-            "ref": "hartland-quay-to-spekes-mill-waterfall-walk"
-        },
-        {
-            "description": "Hartland Quay to Bude Walk",
-            "objectID": "1d07dfa8fa572b8d65918dfd6a79c20d",
-            "ref": "hartland-quay-to-bude-walk"
-        },
-        {
-            "description": "Brownsham to Clovelly Circular Walk",
-            "objectID": "ac3bed6dce34bd32834b06fc436c8388",
-            "ref": "brownsham-to-clovelly-circular-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9b4ac5cc57d31cf13f8af4a3e683f01d.gpx",
-    "_geoloc": {
-        "lat": 50.9979285529,
-        "lng": -4.4009908984
+  "created_at": "2026-10-22T21:29:01.082091+00:00",
+  "objectID": "9b4ac5cc57d31cf13f8af4a3e683f01d",
+  "ref": "clovelly-to-hartland-quay-walk",
+  "title": "Clovelly to Hartland Quay Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg/500px-Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg?20240506011739",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg",
-            "title": "Clovelly Harbour by Peter Jeffery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Clovelly Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Hartland_Quay_-_geograph.org.uk_-_1521919.jpg?20110303032244",
-            "title": "Philip Halling / Hartland Quay",
-            "caption": "Hartland Quay"
-        }
-    ],
-    "distance_km": 13.6,
-    "description": "This walk follows a fine section of the South West Coast Path from Clovelly to Hartland Quay. The route runs for a distance of 8.5 miles following the undulating cliff top path in a westerly direction. You can start the walk from the car park and visitor centre at Clovelly and head north west to Chapman Rock and Beckland Bay. You'll continue round to Hartland Point before turning south to the picturesque Hartland Quay. Along the way there are wonderful sea views, pretty bays, secluded beaches and lots of coastal wildlife to see.",
-    "details": [],
-    "district": "Clovelly",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Hartland Quay to Spekes Mill Waterfall Walk",
+      "objectID": "e3a7f445d0f0acb07ba76f4219ef0595",
+      "ref": "hartland-quay-to-spekes-mill-waterfall-walk"
+    },
+    {
+      "description": "Hartland Quay to Bude Walk",
+      "objectID": "1d07dfa8fa572b8d65918dfd6a79c20d",
+      "ref": "hartland-quay-to-bude-walk"
+    },
+    {
+      "description": "Brownsham to Clovelly Circular Walk",
+      "objectID": "ac3bed6dce34bd32834b06fc436c8388",
+      "ref": "brownsham-to-clovelly-circular-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9b4ac5cc57d31cf13f8af4a3e683f01d.gpx",
+  "_geoloc": {
+    "lat": 50.9979285529,
+    "lng": -4.4009908984
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Clovelly_Harbour_-_geograph.org.uk_-_6294765.jpg",
+      "title": "Clovelly Harbour by Peter Jeffery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Clovelly Harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Hartland_Quay_-_geograph.org.uk_-_1521919.jpg?20110303032244",
+      "title": "Philip Halling / Hartland Quay",
+      "caption": "Hartland Quay"
+    }
+  ],
+  "distance_km": 13.6,
+  "description": "This walk follows a fine section of the South West Coast Path from Clovelly to Hartland Quay. The route runs for a distance of 8.5 miles following the undulating cliff top path in a westerly direction. You can start the walk from the car park and visitor centre at Clovelly and head north west to Chapman Rock and Beckland Bay. You'll continue round to Hartland Point before turning south to the picturesque Hartland Quay. Along the way there are wonderful sea views, pretty bays, secluded beaches and lots of coastal wildlife to see.",
+  "details": [],
+  "district": "Clovelly",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "beach"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -49,7 +49,7 @@
     }
   ],
   "distance_km": 6.3,
-  "description": "This walk visits the lovely Pen Pych Waterfall in Rhondda. The walk begins from the car parking area a few miles west of Aberdare. The trail then heads west meandering through a quiet, mature woodland where the path is gently paved by natural tracks worn into the soft earth over time. As you progress, you are treated to the soothing sound of a stream that gradually builds to a beautiful waterfall cascading over ancient, moss–clad rocks. Along the route, the woodland is alive with native flora; ferns and mosses blanket the damp banks, while seasonal wildflowers—true to the character of Welsh countryside—add bursts of color amid the subdued greens and browns. The path eventually leads to the delightful falls with splendid views over the area from the elevated trail. The Coed Morgannwg Way runs through the area. You could pick up this long distance trail to continue your walking.",
+  "description": "This walk visits the lovely Pen Pych Waterfall in Rhondda. The walk begins from the car parking area a few miles west of Aberdare. The trail then heads west meandering through a quiet, mature woodland where the path is gently paved by natural tracks worn into the soft earth over time. As you progress, you are treated to the soothing sound of a stream that gradually builds to a beautiful waterfall cascading over ancient, moss\u2013clad rocks. Along the route, the woodland is alive with native flora; ferns and mosses blanket the damp banks, while seasonal wildflowers\u2014true to the character of Welsh countryside\u2014add bursts of color amid the subdued greens and browns. The path eventually leads to the delightful falls with splendid views over the area from the elevated trail. The Coed Morgannwg Way runs through the area. You could pick up this long distance trail to continue your walking.",
   "details": [
     {
       "subtitle": "Further Information and Other Local Ideas",
@@ -60,5 +60,22 @@
   "county": "Rhondda Cynon Taf - Rhondda Cynon Taf",
   "region": "Wales",
   "country": "Wales",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

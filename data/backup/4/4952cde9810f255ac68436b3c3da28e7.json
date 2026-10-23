@@ -1,54 +1,69 @@
 {
-    "created_at": "2026-10-22T22:40:00.352373+00:00",
-    "objectID": "4952cde9810f255ac68436b3c3da28e7",
-    "ref": "harpur-hill-buxton-blue-lagoon-quarry-walk",
-    "title": "Harpur Hill Buxton Blue Lagoon Quarry Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg/500px-The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg?20200326132802",
-    "nearby": [
-        {
-            "description": "Circular Walk From Buxton",
-            "objectID": "a64089f68ba08d5955baecab3e6efc0b",
-            "ref": "circular-walk-from-buxton-walking-route"
-        },
-        {
-            "description": "Poole's Cavern and Buxton Country Park",
-            "objectID": "ebf0685cb2220d0779925bc2eb5b034a",
-            "ref": "pooles-cavern-and-buxton-country-park-walking-route"
-        },
-        {
-            "description": "Buxton Ring Of Trees",
-            "objectID": "1eecfb00bf0ed32907c006d9ae0bd19d",
-            "ref": "buxton-ring-of-trees-walking-route"
-        },
-        {
-            "description": "Buxton",
-            "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
-            "ref": "buxton-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4952cde9810f255ac68436b3c3da28e7.gpx",
-    "_geoloc": {
-        "lat": 53.2371492825,
-        "lng": -1.9067288954
+  "created_at": "2026-10-22T22:40:00.352373+00:00",
+  "objectID": "4952cde9810f255ac68436b3c3da28e7",
+  "ref": "harpur-hill-buxton-blue-lagoon-quarry-walk",
+  "title": "Harpur Hill Buxton Blue Lagoon Quarry Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg/500px-The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg?20200326132802",
+  "nearby": [
+    {
+      "description": "Circular Walk From Buxton",
+      "objectID": "a64089f68ba08d5955baecab3e6efc0b",
+      "ref": "circular-walk-from-buxton-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg",
-            "title": "Simon Harrod, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "The Blue Lagoon at Harpur Hill Quarry, off Burlow Road, Buxton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Quarry_spoil_above_Harpur_Hill_-_geograph.org.uk_-_203441.jpg?20100131204738",
-            "title": "John Darch / Quarry spoil above Harpur Hill",
-            "caption": "Quarry spoil above Harpur Hill"
-        }
-    ],
-    "distance_km": 5.5,
-    "description": "This circular walk near Buxton takes you to the Harpur Hill Quarry where you can view the photogenic quarry lake, known as the Blue Lagoon. The lake water has a vivid blue colour due to the scattering of light by finely dispersed particles of calcium carbonate.  The route climbs above the quarry to a splendid, elevated spot where you can enjoy fine views down to the lake and across to the surrounding hills of the Peak District. Please note, the lake is toxic and should not be entered. You can discover more about the interesting geology of the area by visiting Poole's Cavern and Buxton Country Park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/hBc5fzMq3X8?si=V6yn9uPy9m_pboWK",
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Poole's Cavern and Buxton Country Park",
+      "objectID": "ebf0685cb2220d0779925bc2eb5b034a",
+      "ref": "pooles-cavern-and-buxton-country-park-walking-route"
+    },
+    {
+      "description": "Buxton Ring Of Trees",
+      "objectID": "1eecfb00bf0ed32907c006d9ae0bd19d",
+      "ref": "buxton-ring-of-trees-walking-route"
+    },
+    {
+      "description": "Buxton",
+      "objectID": "8f661296a4e61112f48f62fcbf2dd9b6",
+      "ref": "buxton-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4952cde9810f255ac68436b3c3da28e7.gpx",
+  "_geoloc": {
+    "lat": 53.2371492825,
+    "lng": -1.9067288954
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Blue_Lagoon_at_Harpur_Hill_Quarry.jpg",
+      "title": "Simon Harrod, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "The Blue Lagoon at Harpur Hill Quarry, off Burlow Road, Buxton"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Quarry_spoil_above_Harpur_Hill_-_geograph.org.uk_-_203441.jpg?20100131204738",
+      "title": "John Darch / Quarry spoil above Harpur Hill",
+      "caption": "Quarry spoil above Harpur Hill"
+    }
+  ],
+  "distance_km": 5.5,
+  "description": "This circular walk near Buxton takes you to the Harpur Hill Quarry where you can view the photogenic quarry lake, known as the Blue Lagoon. The lake water has a vivid blue colour due to the scattering of light by finely dispersed particles of calcium carbonate.  The route climbs above the quarry to a splendid, elevated spot where you can enjoy fine views down to the lake and across to the surrounding hills of the Peak District. Please note, the lake is toxic and should not be entered. You can discover more about the interesting geology of the area by visiting Poole's Cavern and Buxton Country Park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/hBc5fzMq3X8?si=V6yn9uPy9m_pboWK",
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "quarry lake",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

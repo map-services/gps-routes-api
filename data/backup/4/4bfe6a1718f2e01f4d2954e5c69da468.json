@@ -1,28 +1,43 @@
 {
-    "created_at": "2026-10-22T21:44:56.314780+00:00",
-    "objectID": "4bfe6a1718f2e01f4d2954e5c69da468",
-    "ref": "lowell-northern-canal-walkway",
-    "title": "Lowell Northern Canal Walkway Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg/500px-Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg?20210517010841",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4bfe6a1718f2e01f4d2954e5c69da468.gpx",
-    "_geoloc": {
-        "lat": 42.65159,
-        "lng": -71.32096
+  "created_at": "2026-10-22T21:44:56.314780+00:00",
+  "objectID": "4bfe6a1718f2e01f4d2954e5c69da468",
+  "ref": "lowell-northern-canal-walkway",
+  "title": "Lowell Northern Canal Walkway Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg/500px-Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg?20210517010841",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4bfe6a1718f2e01f4d2954e5c69da468.gpx",
+  "_geoloc": {
+    "lat": 42.65159,
+    "lng": -71.32096
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg",
+      "title": "English: NPS, Public domain, via Wikimedia Commons",
+      "caption": "Northern Canal Walkway today"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Northern_Canal_Walkway_today_%2876fe2e5e-545e-427c-8ea1-0af4f69e1f3e%29.jpg",
-            "title": "English: NPS, Public domain, via Wikimedia Commons",
-            "caption": "Northern Canal Walkway today"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Trees_along_the_Northern_Canal_Walkway_%28d8f5b0c0-25b3-4398-b9e7-04e5b081e25a%29.JPG",
-            "title": "English: NPS, Public domain, via Wikimedia Commons",
-            "caption": "Trees along the Northern Canal Walkway"
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "This short route follows the Northern Canal Walkway in Lowell, Massachusetts. The Northern Canal, completed in 1847, runs alongside the Merrimack River and is separated from it by a 36-foot-high granite barrier later known as the \"Great River Wall.\" The Walkway, which includes the Great River Wall, offers striking views of the Merrimack River, the canal, and the surrounding landscape. The walkway is usually open from May 15 to October 15, depending on water levels and any construction work. During this season, it operates daily from 9 a.m. to 5 p.m. The path is paved, partially bordered by railings, and is generally smooth and at least 4 feet wide. It is not open to cyclists.",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Trees_along_the_Northern_Canal_Walkway_%28d8f5b0c0-25b3-4398-b9e7-04e5b081e25a%29.JPG",
+      "title": "English: NPS, Public domain, via Wikimedia Commons",
+      "caption": "Trees along the Northern Canal Walkway"
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "This short route follows the Northern Canal Walkway in Lowell, Massachusetts. The Northern Canal, completed in 1847, runs alongside the Merrimack River and is separated from it by a 36-foot-high granite barrier later known as the \"Great River Wall.\" The Walkway, which includes the Great River Wall, offers striking views of the Merrimack River, the canal, and the surrounding landscape. The walkway is usually open from May 15 to October 15, depending on water levels and any construction work. During this season, it operates daily from 9 a.m. to 5 p.m. The path is paved, partially bordered by railings, and is generally smooth and at least 4 feet wide. It is not open to cyclists.",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

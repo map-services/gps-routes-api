@@ -1,50 +1,66 @@
 {
-    "created_at": "2026-10-22T21:56:14.654919+00:00",
-    "objectID": "451369f13fc50f7cf763be28c97ed238",
-    "ref": "someries-castle-walk",
-    "title": "Someries Castle Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg/500px-Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg?20240811194859",
-    "nearby": [
-        {
-            "description": "Harpenden-Luton Greenway Cycle and Walk",
-            "objectID": "0660de9a342889fc6d936add4a979afd",
-            "ref": "harpenden-luton-greenway-cycle-and-walk"
-        },
-        {
-            "description": "Luton Warden Hill and River Lea Walk",
-            "objectID": "19badb25d39cdd785187a16dc56d8428",
-            "ref": "luton-walking-route"
-        },
-        {
-            "description": "Luton Dunstable Busway Cycle Path",
-            "objectID": "7059f3e54afa69fd751a2056cbe4225a",
-            "ref": "luton-dunstable-busway-cycle-path"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/451369f13fc50f7cf763be28c97ed238.gpx",
-    "_geoloc": {
-        "lat": 51.8711233854,
-        "lng": -0.3954602133
+  "created_at": "2026-10-22T21:56:14.654919+00:00",
+  "objectID": "451369f13fc50f7cf763be28c97ed238",
+  "ref": "someries-castle-walk",
+  "title": "Someries Castle Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg/500px-Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg?20240811194859",
+  "nearby": [
+    {
+      "description": "Harpenden-Luton Greenway Cycle and Walk",
+      "objectID": "0660de9a342889fc6d936add4a979afd",
+      "ref": "harpenden-luton-greenway-cycle-and-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg",
-            "title": "Doyle of London, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "A view in the interior of Someries Castle, Bedfordshire facing towards the eastern wall. The name of it comes from William de Somery (of Dudley), whose residence stood here in the 13th century, but the building could not have been described as a \"castle\". It is one of the earliest brick buildings in England."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/GOC_Breachwood_Green_083_Someries_Castle%2C_Hyde_%2851160165205%29.jpg",
-            "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": ""
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This circular walk visits the historic ruins of Someries Castle near Luton in Bedfordshire. The 15th century castle ruins can be found just to the south east of Luton. It is a Scheduled Ancient Monument. On the walk there's also nice views of the surrounding farmland and pockets of woodland. To continue your walking in the area you could continue on the Harpenden-Luton Greenway Cycle and Walk which runs just to the west of the castle.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/A8PU3n2iAYI?si=373XYH2bbiEvlHKw",
-    "district": "Luton",
-    "county": "Luton",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Luton Warden Hill and River Lea Walk",
+      "objectID": "19badb25d39cdd785187a16dc56d8428",
+      "ref": "luton-walking-route"
+    },
+    {
+      "description": "Luton Dunstable Busway Cycle Path",
+      "objectID": "7059f3e54afa69fd751a2056cbe4225a",
+      "ref": "luton-dunstable-busway-cycle-path"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/451369f13fc50f7cf763be28c97ed238.gpx",
+  "_geoloc": {
+    "lat": 51.8711233854,
+    "lng": -0.3954602133
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Someries_Castle_-_East_Facing_Internal_View_%2801%29.jpg",
+      "title": "Doyle of London, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "A view in the interior of Someries Castle, Bedfordshire facing towards the eastern wall. The name of it comes from William de Somery (of Dudley), whose residence stood here in the 13th century, but the building could not have been described as a \"castle\". It is one of the earliest brick buildings in England."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/GOC_Breachwood_Green_083_Someries_Castle%2C_Hyde_%2851160165205%29.jpg",
+      "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": ""
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This circular walk visits the historic ruins of Someries Castle near Luton in Bedfordshire. The 15th century castle ruins can be found just to the south east of Luton. It is a Scheduled Ancient Monument. On the walk there's also nice views of the surrounding farmland and pockets of woodland. To continue your walking in the area you could continue on the Harpenden-Luton Greenway Cycle and Walk which runs just to the west of the castle.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/A8PU3n2iAYI?si=373XYH2bbiEvlHKw",
+  "district": "Luton",
+  "county": "Luton",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

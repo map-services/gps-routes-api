@@ -1,29 +1,45 @@
 {
-    "created_at": "2026-10-22T21:53:17.358177+00:00",
-    "objectID": "25344e843a926c90a98be751803063df",
-    "ref": "rochester-canal-trail-walking-route",
-    "title": "Rochester Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg/500px-2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg?20170930225701",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/25344e843a926c90a98be751803063df.gpx",
-    "_geoloc": {
-        "lat": 43.12256,
-        "lng": -77.6452
+  "created_at": "2026-10-22T21:53:17.358177+00:00",
+  "objectID": "25344e843a926c90a98be751803063df",
+  "ref": "rochester-canal-trail-walking-route",
+  "title": "Rochester Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg/500px-2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg?20170930225701",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/25344e843a926c90a98be751803063df.gpx",
+  "_geoloc": {
+    "lat": 43.12256,
+    "lng": -77.6452
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg",
+      "title": "Harvey Botzman, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Erie Canal at Genesee River"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/2010_Erie_Canal_at_Genesee_River_by_Harvey_Botzman.jpg",
-            "title": "Harvey Botzman, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Erie Canal at Genesee River"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/CrossingOfTheErieCanalWithTheGeneseeRiverLookingWest.jpg",
-            "title": "DanielPenfield, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Crossing Of The Erie Canal With The Genesee River Looking West"
-        }
-    ],
-    "distance_km": 12.5,
-    "description": "This walk or cycle takes you along the Erie Canal Heritage Trail in Rochester, New York. The trail starts in Rochester in the Genesee Valley Park.The park is located in the south side of Rochester along the shores of the Genesee River. The New York State Barge Canal (the currently in-use portion of the Erie Canal) crosses the Genesee River within the park. The University of Rochester is also located near the park's north entrance. From here the trail heads north west past North Gates to finish at the Greece Canal Park in South Greece.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/KA6t9qAd-zQ?si=q7MicKyAphRQWexP",
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/CrossingOfTheErieCanalWithTheGeneseeRiverLookingWest.jpg",
+      "title": "DanielPenfield, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Crossing Of The Erie Canal With The Genesee River Looking West"
+    }
+  ],
+  "distance_km": 12.5,
+  "description": "This walk or cycle takes you along the Erie Canal Heritage Trail in Rochester, New York. The trail starts in Rochester in the Genesee Valley Park.The park is located in the south side of Rochester along the shores of the Genesee River. The New York State Barge Canal (the currently in-use portion of the Erie Canal) crosses the Genesee River within the park. The University of Rochester is also located near the park's north entrance. From here the trail heads north west past North Gates to finish at the Greece Canal Park in South Greece.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/KA6t9qAd-zQ?si=q7MicKyAphRQWexP",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "4 hours 10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath"
+  ],
+  "points_of_interest": [
+    "park",
+    "river"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

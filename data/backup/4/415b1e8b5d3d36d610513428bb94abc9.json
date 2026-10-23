@@ -1,55 +1,74 @@
 {
-    "created_at": "2026-10-22T21:59:07.610612+00:00",
-    "objectID": "415b1e8b5d3d36d610513428bb94abc9",
-    "ref": "torquay-to-teignmouth-coastal-walk",
-    "title": "Torquay to Teignmouth Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Torquay_harbour_october_2012.jpg/500px-Torquay_harbour_october_2012.jpg?20121013174950",
-    "nearby": [
-        {
-            "description": "Torquay to Babbacombe",
-            "objectID": "d4b6bd43a51e2ec3879fdf163191a51c",
-            "ref": "torquay-to-babbacombe-walking-route"
-        },
-        {
-            "description": "Babbacombe to Teignmouth Walk",
-            "objectID": "8ba6b1e39a2b1cdd4387b82e3bac6ed0",
-            "ref": "babbacombe-to-teignmouth-walk"
-        },
-        {
-            "description": "Thatchers Rock Anstey Cove and Hopes Nose Walk",
-            "objectID": "269b9c6623bde881a9d2a081ffa4e6c5",
-            "ref": "hopes-nose-walk"
-        },
-        {
-            "description": "Broadsands to Brixham Coastal Walk",
-            "objectID": "831e4118b2f14c4d9d5be5d088ae62cb",
-            "ref": "broadsands-to-brixham-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/415b1e8b5d3d36d610513428bb94abc9.gpx",
-    "_geoloc": {
-        "lat": 50.4614213035,
-        "lng": -3.5312027545
+  "created_at": "2026-10-22T21:59:07.610612+00:00",
+  "objectID": "415b1e8b5d3d36d610513428bb94abc9",
+  "ref": "torquay-to-teignmouth-coastal-walk",
+  "title": "Torquay to Teignmouth Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Torquay_harbour_october_2012.jpg/500px-Torquay_harbour_october_2012.jpg?20121013174950",
+  "nearby": [
+    {
+      "description": "Torquay to Babbacombe",
+      "objectID": "d4b6bd43a51e2ec3879fdf163191a51c",
+      "ref": "torquay-to-babbacombe-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Torquay_harbour_october_2012.jpg",
-            "title": "User:ianmacm, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Torquay harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coastline_at_Teignmouth_-_geograph.org.uk_-_4905986.jpg?20230610115347",
-            "title": "Coastline at Teignmouth by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Coastline at Teignmouth"
-        }
-    ],
-    "distance_km": 16.9,
-    "description": "This popular coastal walk follows a section of the South West Coast Path from Torquay to Teignmouth in Devon. That walk runs for 10.5 miles, following the waymarked path along the beaches and cliff tops of the area. The first section runs from Torquay to Babbacombe starting from the attractive harbour in Torquay. You then head east passing Thatchers Rock and Hope's Nose and Black Head before arriving at Babbacombe. It's a lovely spot with attractions including the Babbacombe Model Village, a cliff top green and the Babbacombe Cliff Railway which will take you down to Oddicombe Beach. The route continues to Maidencombe before coming to Shaldon where you catch the ferry over the Teign Estuary to Teignmouth.",
-    "details": [],
-    "postcode": "TQ2 5HA",
-    "district": "Torquay",
-    "county": "Torbay",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Babbacombe to Teignmouth Walk",
+      "objectID": "8ba6b1e39a2b1cdd4387b82e3bac6ed0",
+      "ref": "babbacombe-to-teignmouth-walk"
+    },
+    {
+      "description": "Thatchers Rock Anstey Cove and Hopes Nose Walk",
+      "objectID": "269b9c6623bde881a9d2a081ffa4e6c5",
+      "ref": "hopes-nose-walk"
+    },
+    {
+      "description": "Broadsands to Brixham Coastal Walk",
+      "objectID": "831e4118b2f14c4d9d5be5d088ae62cb",
+      "ref": "broadsands-to-brixham-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/415b1e8b5d3d36d610513428bb94abc9.gpx",
+  "_geoloc": {
+    "lat": 50.4614213035,
+    "lng": -3.5312027545
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Torquay_harbour_october_2012.jpg",
+      "title": "User:ianmacm, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Torquay harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coastline_at_Teignmouth_-_geograph.org.uk_-_4905986.jpg?20230610115347",
+      "title": "Coastline at Teignmouth by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Coastline at Teignmouth"
+    }
+  ],
+  "distance_km": 16.9,
+  "description": "This popular coastal walk follows a section of the South West Coast Path from Torquay to Teignmouth in Devon. That walk runs for 10.5 miles, following the waymarked path along the beaches and cliff tops of the area. The first section runs from Torquay to Babbacombe starting from the attractive harbour in Torquay. You then head east passing Thatchers Rock and Hope's Nose and Black Head before arriving at Babbacombe. It's a lovely spot with attractions including the Babbacombe Model Village, a cliff top green and the Babbacombe Cliff Railway which will take you down to Oddicombe Beach. The route continues to Maidencombe before coming to Shaldon where you catch the ferry over the Teign Estuary to Teignmouth.",
+  "details": [],
+  "postcode": "TQ2 5HA",
+  "district": "Torquay",
+  "county": "Torbay",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "harbour",
+    "model village",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

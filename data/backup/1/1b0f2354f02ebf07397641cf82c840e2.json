@@ -1,40 +1,55 @@
 {
-    "created_at": "2026-10-22T21:49:44.567586+00:00",
-    "objectID": "1b0f2354f02ebf07397641cf82c840e2",
-    "ref": "north-bovey-to-lustleigh-walk",
-    "title": "North Bovey to Lustleigh Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg/500px-Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg?20221109185626",
-    "nearby": [
-        {
-            "description": "Dartmoor Way",
-            "objectID": "517935ba149ba09e2129f15985e29886",
-            "ref": "dartmoor-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b0f2354f02ebf07397641cf82c840e2.gpx",
-    "_geoloc": {
-        "lat": 50.6390151761,
-        "lng": -3.7813170642
+  "created_at": "2026-10-22T21:49:44.567586+00:00",
+  "objectID": "1b0f2354f02ebf07397641cf82c840e2",
+  "ref": "north-bovey-to-lustleigh-walk",
+  "title": "North Bovey to Lustleigh Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg/500px-Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg?20221109185626",
+  "nearby": [
+    {
+      "description": "Dartmoor Way",
+      "objectID": "517935ba149ba09e2129f15985e29886",
+      "ref": "dartmoor-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b0f2354f02ebf07397641cf82c840e2.gpx",
+  "_geoloc": {
+    "lat": 50.6390151761,
+    "lng": -3.7813170642
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg",
+      "title": "Entering North Bovey by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entering North Bovey"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Entering_North_Bovey_-_geograph.org.uk_-_3975440.jpg",
-            "title": "Entering North Bovey by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entering North Bovey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bridleway%2C_Lustleigh_Cleave_-_geograph.org.uk_-_3247071.jpg?20220301152539",
-            "title": "Bridleway, Lustleigh Cleave by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bridleway, Lustleigh Cleave"
-        }
-    ],
-    "distance_km": 7.5,
-    "description": "This walk takes you from the Dartmoor village of North Bovey to the neighbouring village of Lustleigh via the popular Lustleigh Cleave. The route runs for a distance of just under 5 miles, passing along the waymarked Dartmoor Way. You'll follow a mixture of quiet country lanes and peaceful woodland paths before arriving at picturesque Lustleigh. See the North Bovey Walks page for more walks from the village.",
-    "details": [],
-    "postcode": "TQ13 8RB",
-    "district": "North Bovey",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bridleway%2C_Lustleigh_Cleave_-_geograph.org.uk_-_3247071.jpg?20220301152539",
+      "title": "Bridleway, Lustleigh Cleave by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bridleway, Lustleigh Cleave"
+    }
+  ],
+  "distance_km": 7.5,
+  "description": "This walk takes you from the Dartmoor village of North Bovey to the neighbouring village of Lustleigh via the popular Lustleigh Cleave. The route runs for a distance of just under 5 miles, passing along the waymarked Dartmoor Way. You'll follow a mixture of quiet country lanes and peaceful woodland paths before arriving at picturesque Lustleigh. See the North Bovey Walks page for more walks from the village.",
+  "details": [],
+  "postcode": "TQ13 8RB",
+  "district": "North Bovey",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "village"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

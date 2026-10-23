@@ -1,61 +1,78 @@
 {
-    "created_at": "2026-10-22T21:45:22.858754+00:00",
-    "objectID": "65c170160d59bad941fa1b642d38e476",
-    "ref": "macroom-castle-and-river-walk",
-    "title": "Macroom Castle and River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg/500px-Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg?20250513094348",
-    "nearby": [
-        {
-            "description": "Gougane Barra",
-            "objectID": "4dcd1eff7fff6943d9aab50ee74367c2",
-            "ref": "gougane-barra-walking-route"
-        },
-        {
-            "description": "Blarney Castle",
-            "objectID": "f54bf95ceeebc6f3ccf1215760eb9760",
-            "ref": "blarney-castle-walking-route"
-        },
-        {
-            "description": "Garryduff Woods Loop Walk",
-            "objectID": "4f81a14cdff6cabecb11e3ebdfaaea38",
-            "ref": "garryduff-woods-loop-walk"
-        },
-        {
-            "description": "Lough Allua Walk",
-            "objectID": "0e8acd04b8bb8de6a674d10c8193ddef",
-            "ref": "lough-allua-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/65c170160d59bad941fa1b642d38e476.gpx",
-    "_geoloc": {
-        "lat": 51.904844,
-        "lng": -8.9622152
+  "created_at": "2026-10-22T21:45:22.858754+00:00",
+  "objectID": "65c170160d59bad941fa1b642d38e476",
+  "ref": "macroom-castle-and-river-walk",
+  "title": "Macroom Castle and River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg/500px-Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg?20250513094348",
+  "nearby": [
+    {
+      "description": "Gougane Barra",
+      "objectID": "4dcd1eff7fff6943d9aab50ee74367c2",
+      "ref": "gougane-barra-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg",
-            "title": "Macroom Castle Arch, Co Cork by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Macroom Castle Arch, Co Cork"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bridge_over_the_River_Sullane%2C_Macroom_from_the_new_riverside_walk._-_geograph.org.uk_-_1239799.jpg?20110226123942",
-            "title": "Richard Fensome / Bridge over the River Sullane, Macroom from the new riverside walk.",
-            "caption": "Bridge over the River Sullane, Macroom from the new riverside walk."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_River_Sullane%2C_Macroom_from_the_riverside_walk_-_geograph.org.uk_-_1239814.jpg?20110226143401",
-            "title": "Richard Fensome / The River Sullane, Macroom from the riverside walk",
-            "caption": "The River Sullane."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Macroom_-_Square_-_geograph.org.uk_-_7673156.jpg",
-            "title": "Macroom - Square by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Macroom"
-        }
-    ],
-    "distance_km": 2.1,
-    "description": "This circular walk visits Macroom Castle and the River Sullane in County Cork. Starting from the historic castle the route first heads west along the river before crossing to the other side after about 1km. You then return to Castle Street on the other side of the river. Macroom Castle, originally a medieval stronghold later remodelled in the 17th century, stands at the heart of the town overlooking the river. The grounds provide a starting point with views of the remaining castle walls and gatehouse, reminders of its long history. From here the walk follows the River Sullane, a tributary of the River Lee, which winds its way through the town with stretches of riverside greenery and occasional fishing spots. After crossing the river, the path continues back towards the town centre with views across to the castle grounds from the opposite bank. The riverside route offers a quieter perspective away from the streets, before rejoining Castle Street where the walk ends among Macroom’s shops, cafés, and historic buildings. The combination of heritage, riverside scenery, and town centre atmosphere makes this a short but varied loop.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/KXV5E43NAGs?si=aTGknCTo-6kgLmqK",
-    "gazetteer_found": false
+    {
+      "description": "Blarney Castle",
+      "objectID": "f54bf95ceeebc6f3ccf1215760eb9760",
+      "ref": "blarney-castle-walking-route"
+    },
+    {
+      "description": "Garryduff Woods Loop Walk",
+      "objectID": "4f81a14cdff6cabecb11e3ebdfaaea38",
+      "ref": "garryduff-woods-loop-walk"
+    },
+    {
+      "description": "Lough Allua Walk",
+      "objectID": "0e8acd04b8bb8de6a674d10c8193ddef",
+      "ref": "lough-allua-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/65c170160d59bad941fa1b642d38e476.gpx",
+  "_geoloc": {
+    "lat": 51.904844,
+    "lng": -8.9622152
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Macroom_Castle_Arch%2C_Co_Cork_-_geograph.org.uk_-_7673154.jpg",
+      "title": "Macroom Castle Arch, Co Cork by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Macroom Castle Arch, Co Cork"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bridge_over_the_River_Sullane%2C_Macroom_from_the_new_riverside_walk._-_geograph.org.uk_-_1239799.jpg?20110226123942",
+      "title": "Richard Fensome / Bridge over the River Sullane, Macroom from the new riverside walk.",
+      "caption": "Bridge over the River Sullane, Macroom from the new riverside walk."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_River_Sullane%2C_Macroom_from_the_riverside_walk_-_geograph.org.uk_-_1239814.jpg?20110226143401",
+      "title": "Richard Fensome / The River Sullane, Macroom from the riverside walk",
+      "caption": "The River Sullane."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Macroom_-_Square_-_geograph.org.uk_-_7673156.jpg",
+      "title": "Macroom - Square by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Macroom"
+    }
+  ],
+  "distance_km": 2.1,
+  "description": "This circular walk visits Macroom Castle and the River Sullane in County Cork. Starting from the historic castle the route first heads west along the river before crossing to the other side after about 1km. You then return to Castle Street on the other side of the river. Macroom Castle, originally a medieval stronghold later remodelled in the 17th century, stands at the heart of the town overlooking the river. The grounds provide a starting point with views of the remaining castle walls and gatehouse, reminders of its long history. From here the walk follows the River Sullane, a tributary of the River Lee, which winds its way through the town with stretches of riverside greenery and occasional fishing spots. After crossing the river, the path continues back towards the town centre with views across to the castle grounds from the opposite bank. The riverside route offers a quieter perspective away from the streets, before rejoining Castle Street where the walk ends among Macroom\u2019s shops, caf\u00e9s, and historic buildings. The combination of heritage, riverside scenery, and town centre atmosphere makes this a short but varied loop.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/KXV5E43NAGs?si=aTGknCTo-6kgLmqK",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

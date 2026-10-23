@@ -18,7 +18,7 @@
     {
       "description": "Glen Rosa Waterfall",
       "objectID": "e9ed0c8edd5d57f465a45c3730615375",
-      "ref": "glen-rosa waterfall-walking-route"
+      "ref": "glen-rosa\u00a0waterfall-walking-route"
     },
     {
       "description": "Arran Coastal Way",
@@ -54,11 +54,30 @@
     }
   ],
   "distance_km": 25.7,
-  "description": "This challenging circular walk explores Glen Sannox and Goatfell on the Isle of Arran, offering some of the finest mountain scenery in the Scottish islands. The route begins from the car park in the village of Sannox on the island’s northeast coast. From here, the trail heads southwest along the banks of the Sannox Burn, following a glen enclosed by steep, rugged hillsides. The track gradually gains height as it winds through heather and bracken, with views back towards the sea and the surrounding peaks.At the head of Glen Sannox, the path turns south to meet the Glenrosa Burn. The route continues upstream through Glen Rosa, a wild and open valley framed by dramatic mountain slopes. As you follow the burn, you pass the scenicGlen Rosa Waterfall, a pleasant spot to pause before the terrain begins to rise more steeply. The trail then continues south-eastward, entering the wooded grounds ofBrodick CastleCountry Park, where the landscape softens briefly before the main climb begins. The park is a good spot to rest and take in some refreshments.From the park, the path turns north and begins the ascent of Goat Fell, the highest peak on Arran at 874 metres. The climb is steep but rewarded with expansive views across the island, the Firth of Clyde, and on clear days, as far as the Ayrshire coast and the Highlands beyond. The route continues over North Goat Fell and Mullach Buidhe, giving a superb ridge walk with striking views of the jagged granite summits. The descent leads northeast, gradually dropping back towards the coast and the car park at Sannox, completing a long and rewarding circuit through some of Arran’s most dramatic scenery.",
+  "description": "This challenging circular walk explores Glen Sannox and Goatfell on the Isle of Arran, offering some of the finest mountain scenery in the Scottish islands. The route begins from the car park in the village of Sannox on the island\u2019s northeast coast. From here, the trail heads southwest along the banks of the Sannox Burn, following a glen enclosed by steep, rugged hillsides. The track gradually gains height as it winds through heather and bracken, with views back towards the sea and the surrounding peaks.At the head of Glen Sannox, the path turns south to meet the Glenrosa Burn. The route continues upstream through Glen Rosa, a wild and open valley framed by dramatic mountain slopes. As you follow the burn, you pass the scenicGlen Rosa Waterfall, a pleasant spot to pause before the terrain begins to rise more steeply. The trail then continues south-eastward, entering the wooded grounds ofBrodick CastleCountry Park, where the landscape softens briefly before the main climb begins. The park is a good spot to rest and take in some refreshments.From the park, the path turns north and begins the ascent of Goat Fell, the highest peak on Arran at 874 metres. The climb is steep but rewarded with expansive views across the island, the Firth of Clyde, and on clear days, as far as the Ayrshire coast and the Highlands beyond. The route continues over North Goat Fell and Mullach Buidhe, giving a superb ridge walk with striking views of the jagged granite summits. The descent leads northeast, gradually dropping back towards the coast and the car park at Sannox, completing a long and rewarding circuit through some of Arran\u2019s most dramatic scenery.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/GYyu7QSf5ZA?si=lJ-T40zzjTzNPY8f",
   "county": "North Ayrshire",
   "region": "Scotland",
   "country": "Scotland",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "6-8 hours",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "castle"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

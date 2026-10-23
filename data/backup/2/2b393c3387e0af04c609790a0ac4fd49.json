@@ -1,59 +1,76 @@
 {
-    "created_at": "2026-10-22T21:38:24.364812+00:00",
-    "objectID": "2b393c3387e0af04c609790a0ac4fd49",
-    "ref": "hatterrall-hill-walking-route",
-    "title": "Hatterrall Hill Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg/500px-Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg?20210605215109",
-    "nearby": [
-        {
-            "description": "Mynydd Du Forest",
-            "objectID": "3e8623668dc6c190e6bd54c0e28f057e",
-            "ref": "mynydd-du-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Offa's Dyke Path",
-            "objectID": "0ee8e8143856fd9ce9c8286e5ac3ebbd",
-            "ref": "offas-dyke-path-walking-route"
-        },
-        {
-            "description": "Llanthony Priory Circular Walk",
-            "objectID": "029e6e001ec815c67266a8077eee139a",
-            "ref": "llanthony-priory-circular-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b393c3387e0af04c609790a0ac4fd49.gpx",
-    "_geoloc": {
-        "lat": 51.9034909539,
-        "lng": -3.0196617577
+  "created_at": "2026-10-22T21:38:24.364812+00:00",
+  "objectID": "2b393c3387e0af04c609790a0ac4fd49",
+  "ref": "hatterrall-hill-walking-route",
+  "title": "Hatterrall Hill Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg/500px-Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg?20210605215109",
+  "nearby": [
+    {
+      "description": "Mynydd Du Forest",
+      "objectID": "3e8623668dc6c190e6bd54c0e28f057e",
+      "ref": "mynydd-du-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg",
-            "title": "Hatterrall Hill by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hatterrall Hill. The summit reaches an elevation of 531 meters (1,742 feet), making it the highest point of a peat-covered plateau that descends steeply on all sides. Broad ridges extend to the north, southeast, and southwest from the summit. To the north, the ridge, referred to as Hatterrall Ridge, dips to a col at approximately 485 meters before gradually ascending over several kilometers toward Crib y Garth (Black Hill) and Hay Bluff. The southwestern ridge terminates abruptly at a sheer cliff known as the Darren, below which lies a significant landslip area extending south to the hamlet of Cwmyoy, noted for its uniquely misshapen church. The Welsh portion of the hill falls within the Brecon Beacons National Park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hatterrall_Hill_%283%29_-_geograph.org.uk_-_168389.jpg?20100131100531",
-            "title": "Chris Heaton / Hatterrall Hill (3)",
-            "caption": "Walking the Offa's Dyke National Trail on this extended area of upland. The photograph shows a good path heading northwards. towards a narrowing ridge. The path also marks the boundary between England on the right and Wales on the left. The upper regions of Hatterrall Hill are designated as open country, granting walkers free access. Several public footpaths and rights of way lead onto the open land from the Vale of Ewyas (Llanthony Valley) to the west and the Monnow Valley to the east. Notably, the Offa's Dyke Path, a long-distance trail, traverses the hill from north to south, as does the Beacons Way."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Footpath_to_Hatterrall_Hill_-_geograph.org.uk_-_1849982.jpg?20210331221541",
-            "title": "Footpath to Hatterrall Hill by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath to Hatterrall Hill. Along the way and at the summit, the flora is typical of upland moorland environments; hardy species such as heather, bilberry, and wild thyme cling to the stony slopes, while pockets of gorse and low-growing cushion plants add bursts of colour during the warmer months. The exposed conditions also encourage the growth of various mosses and lichens that cover the rocks, creating a textured, ancient carpet that speaks to the resilience of life at altitude. The fauna is equally varied, with birds of prey like buzzards and kestrels soaring overhead, and smaller birds such as wheatears and skylarks flitting between the heather clumps. Mammals such as foxes and badgers may be spotted along the lower slopes, and the rich insect life—including butterflies and dragonflies—thrives in the moist microhabitats provided by the upland terrain."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Horses_on_Hatterrall_Hill_-_geograph.org.uk_-_3121944.jpg?20220125065021",
-            "title": "Horses on Hatterrall Hill by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Horses on Hatterrall Hill. Geologically, Hatterrall Hill comprises sandstones and mudstones from the Senni Beds Formation of the Old Red Sandstone, dating back to the Devonian period. Numerous small, now-abandoned quarries dot its slopes. The Vale of Ewyas was once occupied by glaciers during the ice ages, though the plateau itself likely remained ice-free."
-        }
-    ],
-    "distance_km": 5.6,
-    "description": "This circular walk climbs to Hatterrall Hill which lies in an interesting spot on the England/Wales border in the Black Mountains. The route starts from a small rural access point and gradually ascends through a landscape of open moorland interspersed with rocky outcrops and patches of scrubby vegetation. As you climb, the path reveals dramatic panoramas of the surrounding hills and valleys, with expansive views stretching across the rugged Black Mountains and, on clear days, distant glimpses of the Brecon Beacons and the rolling countryside beyond the border. The location itself is steeped in history and offers a sense of remoteness, where the natural border between two nations adds an extra dimension to the experience. You can continue your walking along the Offa's Dyke Path which runs past the hill.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/Kf2wQ-15Rxs?si=2xN_sw2XzpikjcZx",
-    "county": "Sir Fynwy - Monmouthshire",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Offa's Dyke Path",
+      "objectID": "0ee8e8143856fd9ce9c8286e5ac3ebbd",
+      "ref": "offas-dyke-path-walking-route"
+    },
+    {
+      "description": "Llanthony Priory Circular Walk",
+      "objectID": "029e6e001ec815c67266a8077eee139a",
+      "ref": "llanthony-priory-circular-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b393c3387e0af04c609790a0ac4fd49.gpx",
+  "_geoloc": {
+    "lat": 51.9034909539,
+    "lng": -3.0196617577
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hatterrall_Hill_-_geograph.org.uk_-_2119778.jpg",
+      "title": "Hatterrall Hill by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hatterrall Hill. The summit reaches an elevation of 531 meters (1,742 feet), making it the highest point of a peat-covered plateau that descends steeply on all sides. Broad ridges extend to the north, southeast, and southwest from the summit. To the north, the ridge, referred to as Hatterrall Ridge, dips to a col at approximately 485 meters before gradually ascending over several kilometers toward Crib y Garth (Black Hill) and Hay Bluff. The southwestern ridge terminates abruptly at a sheer cliff known as the Darren, below which lies a significant landslip area extending south to the hamlet of Cwmyoy, noted for its uniquely misshapen church. The Welsh portion of the hill falls within the Brecon Beacons National Park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hatterrall_Hill_%283%29_-_geograph.org.uk_-_168389.jpg?20100131100531",
+      "title": "Chris Heaton / Hatterrall Hill (3)",
+      "caption": "Walking the Offa's Dyke National Trail on this extended area of upland. The photograph shows a good path heading northwards. towards a narrowing ridge. The path also marks the boundary between England on the right and Wales on the left. The upper regions of Hatterrall Hill are designated as open country, granting walkers free access. Several public footpaths and rights of way lead onto the open land from the Vale of Ewyas (Llanthony Valley) to the west and the Monnow Valley to the east. Notably, the Offa's Dyke Path, a long-distance trail, traverses the hill from north to south, as does the Beacons Way."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Footpath_to_Hatterrall_Hill_-_geograph.org.uk_-_1849982.jpg?20210331221541",
+      "title": "Footpath to Hatterrall Hill by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath to Hatterrall Hill. Along the way and at the summit, the flora is typical of upland moorland environments; hardy species such as heather, bilberry, and wild thyme cling to the stony slopes, while pockets of gorse and low-growing cushion plants add bursts of colour during the warmer months. The exposed conditions also encourage the growth of various mosses and lichens that cover the rocks, creating a textured, ancient carpet that speaks to the resilience of life at altitude. The fauna is equally varied, with birds of prey like buzzards and kestrels soaring overhead, and smaller birds such as wheatears and skylarks flitting between the heather clumps. Mammals such as foxes and badgers may be spotted along the lower slopes, and the rich insect life\u2014including butterflies and dragonflies\u2014thrives in the moist microhabitats provided by the upland terrain."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Horses_on_Hatterrall_Hill_-_geograph.org.uk_-_3121944.jpg?20220125065021",
+      "title": "Horses on Hatterrall Hill by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Horses on Hatterrall Hill. Geologically, Hatterrall Hill comprises sandstones and mudstones from the Senni Beds Formation of the Old Red Sandstone, dating back to the Devonian period. Numerous small, now-abandoned quarries dot its slopes. The Vale of Ewyas was once occupied by glaciers during the ice ages, though the plateau itself likely remained ice-free."
+    }
+  ],
+  "distance_km": 5.6,
+  "description": "This circular walk climbs to Hatterrall Hill which lies in an interesting spot on the England/Wales border in the Black Mountains. The route starts from a small rural access point and gradually ascends through a landscape of open moorland interspersed with rocky outcrops and patches of scrubby vegetation. As you climb, the path reveals dramatic panoramas of the surrounding hills and valleys, with expansive views stretching across the rugged Black Mountains and, on clear days, distant glimpses of the Brecon Beacons and the rolling countryside beyond the border. The location itself is steeped in history and offers a sense of remoteness, where the natural border between two nations adds an extra dimension to the experience. You can continue your walking along the Offa's Dyke Path which runs past the hill.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/Kf2wQ-15Rxs?si=2xN_sw2XzpikjcZx",
+  "county": "Sir Fynwy - Monmouthshire",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "rocky outcrop",
+    "scrubby vegetation"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

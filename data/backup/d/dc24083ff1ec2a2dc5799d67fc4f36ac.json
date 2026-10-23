@@ -1,59 +1,79 @@
 {
-    "created_at": "2026-10-22T22:48:50.029797+00:00",
-    "objectID": "dc24083ff1ec2a2dc5799d67fc4f36ac",
-    "ref": "pistyll-cain-waterfall-walk",
-    "title": "Pistyll Cain Waterfall Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pistyll_Cain_%2820973783055%29.jpg/500px-Pistyll_Cain_%2820973783055%29.jpg?20181116092327",
-    "nearby": [
-        {
-            "description": "Coed Y Brenin Forest Park",
-            "objectID": "5bc4b009e5f55291cb1ecca1d63040a5",
-            "ref": "coed-y-brenin-forest-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Precipice Walk Dolgellau",
-            "objectID": "9ec2f2c977032eee1270654ff68770df",
-            "ref": "precipice-walk-dolgellau-walking-route"
-        },
-        {
-            "description": "Mawddach Trail",
-            "objectID": "e02916b5aa92bfacf3a1ccdc36a9baa0",
-            "ref": "mawddach-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Panorama Walk Barmouth",
-            "objectID": "60177b109537918a13d4646a00a56e2b",
-            "ref": "panorama-walk-barmouth-walking-route"
-        },
-        {
-            "description": "New Precipice Walk",
-            "objectID": "c0f5197b64291ab640c21e94409f357f",
-            "ref": "new-precipice-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc24083ff1ec2a2dc5799d67fc4f36ac.gpx",
-    "_geoloc": {
-        "lat": 52.8232105922,
-        "lng": -3.8948370966
+  "created_at": "2026-10-22T22:48:50.029797+00:00",
+  "objectID": "dc24083ff1ec2a2dc5799d67fc4f36ac",
+  "ref": "pistyll-cain-waterfall-walk",
+  "title": "Pistyll Cain Waterfall Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pistyll_Cain_%2820973783055%29.jpg/500px-Pistyll_Cain_%2820973783055%29.jpg?20181116092327",
+  "nearby": [
+    {
+      "description": "Coed Y Brenin Forest Park",
+      "objectID": "5bc4b009e5f55291cb1ecca1d63040a5",
+      "ref": "coed-y-brenin-forest-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pistyll_Cain_%2820973783055%29.jpg",
-            "title": "Markus Trienke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Pistyll Cain"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rhaeadr_Mawddach_in_winter_-_geograph.org.uk_-_2745320.jpg?20211116183152",
-            "title": "Rhaeadr Mawddach in winter by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rhaeadr Mawddach in winter"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This circular walk visits the Pistyll Cain Waterfall and the Rhaeadr Mawddach Waterfall in the Coed Y Brenin Forest Park of Snowdonia. The trail begins at the Coed y Brenin visitor centre beside the River Eden. It climbs steadily over higher ground, passing the Cefndeuddwr viewpoint and briefly joining Sarn Helen, a surviving section of Roman road that once formed part of the route between Aberconwy and Carmarthen. In places, the original stone surface of the road can still be seen, giving a strong sense of its age and historic importance.After continuing over the hill, the path crosses the River Gain and descends towards its meeting point with the River Mawddach. Here the twin waterfalls come into view, tumbling through a wooded gorge and providing one of the most striking highlights of the walk. The descent towards the rivers can be steep and rocky, so care is needed on this section.The return leg crosses the river again and follows paths along the south-western slopes back towards the car park. This part of the route alternates between narrower woodland paths and wider forest tracks, with some uneven ground and steeper sections, making sturdy footwear advisable throughout.Facilities are available at the visitor centre near the start and finish, including a café, and parking is available for a small charge. The fee contributes to the upkeep of the trails, which are managed by Natural Resources Wales.To continue your walking in the area you could pick up the popularPrecipice Walk in Dolgellau.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/DOeJSna9Zwc?si=LcDitgAyo3WqBZy3",
-    "county": "Gwynedd - Gwynedd",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Precipice Walk Dolgellau",
+      "objectID": "9ec2f2c977032eee1270654ff68770df",
+      "ref": "precipice-walk-dolgellau-walking-route"
+    },
+    {
+      "description": "Mawddach Trail",
+      "objectID": "e02916b5aa92bfacf3a1ccdc36a9baa0",
+      "ref": "mawddach-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Panorama Walk Barmouth",
+      "objectID": "60177b109537918a13d4646a00a56e2b",
+      "ref": "panorama-walk-barmouth-walking-route"
+    },
+    {
+      "description": "New Precipice Walk",
+      "objectID": "c0f5197b64291ab640c21e94409f357f",
+      "ref": "new-precipice-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dc24083ff1ec2a2dc5799d67fc4f36ac.gpx",
+  "_geoloc": {
+    "lat": 52.8232105922,
+    "lng": -3.8948370966
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pistyll_Cain_%2820973783055%29.jpg",
+      "title": "Markus Trienke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Pistyll Cain"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rhaeadr_Mawddach_in_winter_-_geograph.org.uk_-_2745320.jpg?20211116183152",
+      "title": "Rhaeadr Mawddach in winter by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rhaeadr Mawddach in winter"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This circular walk visits the Pistyll Cain Waterfall and the Rhaeadr Mawddach Waterfall in the Coed Y Brenin Forest Park of Snowdonia. The trail begins at the Coed y Brenin visitor centre beside the River Eden. It climbs steadily over higher ground, passing the Cefndeuddwr viewpoint and briefly joining Sarn Helen, a surviving section of Roman road that once formed part of the route between Aberconwy and Carmarthen. In places, the original stone surface of the road can still be seen, giving a strong sense of its age and historic importance.After continuing over the hill, the path crosses the River Gain and descends towards its meeting point with the River Mawddach. Here the twin waterfalls come into view, tumbling through a wooded gorge and providing one of the most striking highlights of the walk. The descent towards the rivers can be steep and rocky, so care is needed on this section.The return leg crosses the river again and follows paths along the south-western slopes back towards the car park. This part of the route alternates between narrower woodland paths and wider forest tracks, with some uneven ground and steeper sections, making sturdy footwear advisable throughout.Facilities are available at the visitor centre near the start and finish, including a caf\u00e9, and parking is available for a small charge. The fee contributes to the upkeep of the trails, which are managed by Natural Resources Wales.To continue your walking in the area you could pick up the popularPrecipice Walk in Dolgellau.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/DOeJSna9Zwc?si=LcDitgAyo3WqBZy3",
+  "county": "Gwynedd - Gwynedd",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rocky"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

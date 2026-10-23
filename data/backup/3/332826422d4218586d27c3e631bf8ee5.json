@@ -1,41 +1,57 @@
 {
-    "created_at": "2026-10-22T22:35:59.089315+00:00",
-    "objectID": "332826422d4218586d27c3e631bf8ee5",
-    "ref": "derroura-woods-walking-route",
-    "title": "Derroura Woods Walks and Mountain Bike Trails",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Connemara_National_Park_11.jpg/500px-Connemara_National_Park_11.jpg?20220626155328",
-    "nearby": [
-        {
-            "description": "Oughterard Wind Farm Walk",
-            "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
-            "ref": "oughterard-wind-farm-walk-walking-route"
-        },
-        {
-            "description": "Lough Bofin and The Quiet Man Bridge",
-            "objectID": "77efc5e5467d5972042ed15eb8a2d5b4",
-            "ref": "lough-bofin-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/332826422d4218586d27c3e631bf8ee5.gpx",
-    "_geoloc": {
-        "lat": 53.441615,
-        "lng": -9.450499
+  "created_at": "2026-10-22T22:35:59.089315+00:00",
+  "objectID": "332826422d4218586d27c3e631bf8ee5",
+  "ref": "derroura-woods-walking-route",
+  "title": "Derroura Woods Walks and Mountain Bike Trails",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Connemara_National_Park_11.jpg/500px-Connemara_National_Park_11.jpg?20220626155328",
+  "nearby": [
+    {
+      "description": "Oughterard Wind Farm Walk",
+      "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
+      "ref": "oughterard-wind-farm-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Connemara_National_Park_11.jpg",
-            "title": "Derroura Woods",
-            "caption": "Derroura Woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Maam_Cross_Lough_Bofin_geograph-3178801-by-Ben-Brooksbank.jpg",
-            "title": "Ben Brooksbank / Eastward along Lough Bofin, between Oughterard and Maam Cross",
-            "caption": "Eastward along Lough Bofin, between Oughterard and Maam Cross"
-        }
-    ],
-    "distance_km": 15.0,
-    "description": "This circular walk or cycle explores Derroura Woods in the Connemara National Park in County Galway. The forest sits just to the south of Lough Corrib with some excellent views over the lake from the trail. There's mile of trails suitable for hiking or mountain biking.  On the southern side of the woods you can also visit Lough Bofin and The Quiet Man Bridge. The bridge is a significant local landmark having featured in the famous 1952 film “The Quiet Man” starring John Wayne and Maureen O’Hara. The film tells the story of an Irish-American boxer who returns to Ireland to reclaim his family’s farm and falls in love with a local woman.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/uE8vC-hKR4M?si=yY4GY0Qk1dYPqcBz",
-    "gazetteer_found": false
+    {
+      "description": "Lough Bofin and The Quiet Man Bridge",
+      "objectID": "77efc5e5467d5972042ed15eb8a2d5b4",
+      "ref": "lough-bofin-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/332826422d4218586d27c3e631bf8ee5.gpx",
+  "_geoloc": {
+    "lat": 53.441615,
+    "lng": -9.450499
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Connemara_National_Park_11.jpg",
+      "title": "Derroura Woods",
+      "caption": "Derroura Woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Maam_Cross_Lough_Bofin_geograph-3178801-by-Ben-Brooksbank.jpg",
+      "title": "Ben Brooksbank / Eastward along Lough Bofin, between Oughterard and Maam Cross",
+      "caption": "Eastward along Lough Bofin, between Oughterard and Maam Cross"
+    }
+  ],
+  "distance_km": 15.0,
+  "description": "This circular walk or cycle explores Derroura Woods in the Connemara National Park in County Galway. The forest sits just to the south of Lough Corrib with some excellent views over the lake from the trail. There's mile of trails suitable for hiking or mountain biking.  On the southern side of the woods you can also visit Lough Bofin and The Quiet Man Bridge. The bridge is a significant local landmark having featured in the famous 1952 film \u201cThe Quiet Man\u201d starring John Wayne and Maureen O\u2019Hara. The film tells the story of an Irish-American boxer who returns to Ireland to reclaim his family\u2019s farm and falls in love with a local woman.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/uE8vC-hKR4M?si=yY4GY0Qk1dYPqcBz",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -28,7 +28,7 @@
     {
       "description": "Castleconnell River Walk",
       "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell river-walk"
+      "ref": "castleconnell\u00a0river-walk"
     },
     {
       "description": "Clare Glens Forest Loop Walk",
@@ -55,5 +55,23 @@
   "description": "This loop walk follows the Blue Trail in the 12 O'clock Hills in County Clare. It's a popular route, well-marked with blue-tipped posts that guide you up the mountain of Knockanuarha. The walk begins on a forest track, a gentle and clear path that leads you through a peaceful forest. After about 1.5 km, the trail begins a steady ascent up the slopes of the hill. The path is a mix of gravel tracks and more rugged, natural ground. As you climb higher, the forest gives way to open terrain, and the views begin to open up. The final stretch takes you to the summit, which is a key part of the trail. From the top, you are rewarded with a magnificent 360-degree panorama. On a clear day, the views stretch across County Clare, and you can see the distinctive features of the Burren, the Shannon Estuary, and the Galtee Mountains in the distance. The walk is a great choice for those seeking a good workout with a fantastic reward at the end. To continue your walking in the area head south to explore Cratloe Woods .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/p4j6sjAfQSY?si=lI55vI1KtkTFml68&start=42",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "gravel track",
+    "natural ground",
+    "open terrain"
+  ],
+  "points_of_interest": [
+    "summit",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

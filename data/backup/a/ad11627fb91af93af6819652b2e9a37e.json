@@ -1,48 +1,65 @@
 {
-    "created_at": "2026-10-22T21:51:19.383107+00:00",
-    "objectID": "ad11627fb91af93af6819652b2e9a37e",
-    "ref": "plymouth-to-wembury-coastal-path-walking-route",
-    "title": "Plymouth to Wembury Coastal Path Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Smeatons_tower_-_Plymouth_Hoe.jpg/500px-Smeatons_tower_-_Plymouth_Hoe.jpg?20100517135840",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Wembury Point",
-            "objectID": "e1fb225095debbbb6595f33e72fceb82",
-            "ref": "wembury-point-walking-route"
-        },
-        {
-            "description": "Wembury to Newton Ferrers Walk",
-            "objectID": "39e275891d02cc6ee4cab0218908c7ce",
-            "ref": "wembury-to-newton-ferrers-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad11627fb91af93af6819652b2e9a37e.gpx",
-    "_geoloc": {
-        "lat": 50.3642549063,
-        "lng": -4.1436938597
+  "created_at": "2026-10-22T21:51:19.383107+00:00",
+  "objectID": "ad11627fb91af93af6819652b2e9a37e",
+  "ref": "plymouth-to-wembury-coastal-path-walking-route",
+  "title": "Plymouth to Wembury Coastal Path Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Smeatons_tower_-_Plymouth_Hoe.jpg/500px-Smeatons_tower_-_Plymouth_Hoe.jpg?20100517135840",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Smeatons_tower_-_Plymouth_Hoe.jpg",
-            "title": "Herbythyme, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Smeaton tower"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Wembury%2C_near_Wembury_Point_-_geograph.org.uk_-_613406.jpg?20110207041621",
-            "title": "Martin Bodman / Wembury: near Wembury Point",
-            "caption": "Wembury: near Wembury Point"
-        }
-    ],
-    "distance_km": 15.3,
-    "description": "This walk takes you from Plymouth to Wembury Point along a section of the South West Coast Path. The walk runs for a distance of 9.5 miles, passing along the waymarked coastal path. On the way there are some splendid cliff top views, picturesque bays and pretty beaches to enjoy. The walk starts on the seafront in Plymouth next to the Smeaton Tower. You then head east to Laira Bridge where you cross the River Plym. Follow the trail south west and it will take you past the Mountbatten Waterside Park and Heybrook Bay before finishing at Wembury Point. Here you can enjoy splendid views of the Yealm Estuary, the Mewstone and Plymouth Breakwater. There is also a wide variety of sea birds and Dartmoor Ponies to look out for. You can continue your walking on the Wembury to Newton Ferrers Walk .",
-    "details": [],
-    "county": "City of Plymouth",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Wembury Point",
+      "objectID": "e1fb225095debbbb6595f33e72fceb82",
+      "ref": "wembury-point-walking-route"
+    },
+    {
+      "description": "Wembury to Newton Ferrers Walk",
+      "objectID": "39e275891d02cc6ee4cab0218908c7ce",
+      "ref": "wembury-to-newton-ferrers-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad11627fb91af93af6819652b2e9a37e.gpx",
+  "_geoloc": {
+    "lat": 50.3642549063,
+    "lng": -4.1436938597
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Smeatons_tower_-_Plymouth_Hoe.jpg",
+      "title": "Herbythyme, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Smeaton tower"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Wembury%2C_near_Wembury_Point_-_geograph.org.uk_-_613406.jpg?20110207041621",
+      "title": "Martin Bodman / Wembury: near Wembury Point",
+      "caption": "Wembury: near Wembury Point"
+    }
+  ],
+  "distance_km": 15.3,
+  "description": "This walk takes you from Plymouth to Wembury Point along a section of the South West Coast Path. The walk runs for a distance of 9.5 miles, passing along the waymarked coastal path. On the way there are some splendid cliff top views, picturesque bays and pretty beaches to enjoy. The walk starts on the seafront in Plymouth next to the Smeaton Tower. You then head east to Laira Bridge where you cross the River Plym. Follow the trail south west and it will take you past the Mountbatten Waterside Park and Heybrook Bay before finishing at Wembury Point. Here you can enjoy splendid views of the Yealm Estuary, the Mewstone and Plymouth Breakwater. There is also a wide variety of sea birds and Dartmoor Ponies to look out for. You can continue your walking on the Wembury to Newton Ferrers Walk .",
+  "details": [],
+  "county": "City of Plymouth",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

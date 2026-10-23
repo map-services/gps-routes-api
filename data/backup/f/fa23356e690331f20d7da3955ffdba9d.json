@@ -1,66 +1,83 @@
 {
-    "created_at": "2026-10-22T21:46:48.266493+00:00",
-    "objectID": "fa23356e690331f20d7da3955ffdba9d",
-    "ref": "montpelier-hill-and-hellfire-forest-loop-walk",
-    "title": "Montpelier Hill and Hellfire Forest Loop Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hell_Fire_Club_Dublin_at_Dawn.jpg/500px-Hell_Fire_Club_Dublin_at_Dawn.jpg?20100814163103",
-    "nearby": [
-        {
-            "description": "Ticknock Forest",
-            "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
-            "ref": "ticknock-forest-walking-route"
-        },
-        {
-            "description": "Bohernabreena Reservoir",
-            "objectID": "ee1663c24d67e292136e548a302d41e8",
-            "ref": "bohernabreena-reservoir-walking-route"
-        },
-        {
-            "description": "Tibradden Wood and Two Rock Mountain Walk",
-            "objectID": "740964f189adb6659e9260aabd21612b",
-            "ref": "tibradden-wood-and-two-rock-mountain-walk"
-        },
-        {
-            "description": "Montpelier Hill and Hellfire Forest Loop Walk",
-            "objectID": "fa23356e690331f20d7da3955ffdba9d",
-            "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
-        },
-        {
-            "description": "Cruagh Woods Walk",
-            "objectID": "b55c54dd335b35f0d5360c520bf0e017",
-            "ref": "cruagh-woods-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa23356e690331f20d7da3955ffdba9d.gpx",
-    "_geoloc": {
-        "lat": 53.2519621371,
-        "lng": -6.3215707769
+  "created_at": "2026-10-22T21:46:48.266493+00:00",
+  "objectID": "fa23356e690331f20d7da3955ffdba9d",
+  "ref": "montpelier-hill-and-hellfire-forest-loop-walk",
+  "title": "Montpelier Hill and Hellfire Forest Loop Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hell_Fire_Club_Dublin_at_Dawn.jpg/500px-Hell_Fire_Club_Dublin_at_Dawn.jpg?20100814163103",
+  "nearby": [
+    {
+      "description": "Ticknock Forest",
+      "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
+      "ref": "ticknock-forest-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hell_Fire_Club_Dublin_at_Dawn.jpg",
-            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Hell Fire Club Dublin at Dawn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Remains_of_Cairn_on_Montpelier_Hill.jpg",
-            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Remains of Cairn on Montpelier Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Forest_Path%2C_Co_Dublin_-_geograph.org.uk_-_1878088.jpg?20210414223603",
-            "title": "Forest Path, Co Dublin by C O'Flanagan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forest Path, Co Dublin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Memorial_Stone_The_Hellfire_Club.jpg",
-            "title": "Governorkeagan, CC0, via Wikimedia Commons",
-            "caption": "A stone with a memorial plaque next to The Hellfire Club."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "A walk to Montpelier Hill through Hellfire Woods is a popular and rewarding hike in the Dublin Mountains, known for its mix of dense forest, historical mystery, and spectacular views. The main trail begins at the Hellfire Club car park and takes you through a forest of Sitka spruce, larch, and beech. The initial part of the walk is a steady uphill climb that leads you onto the hill's slopes. The path is generally well-maintained, but the incline can be a bit of a workout. As you ascend, the trees begin to thin, giving you a sense of the views that are to come. The highlight of the walk is reaching the summit of Montpelier Hill, where you'll find the ruins of an old hunting lodge. The building is known as the Hellfire Club and has a number of spooky legends associated with it, including tales of the devil appearing during raucous gatherings. From the top, you're rewarded with a breathtaking panoramic view of Dublin city, Dublin Bay, and the surrounding countryside. This is a perfect spot for photos or just to take in the impressive scenery. After exploring the ruins and enjoying the view, you can descend back to the car park via a different route for a full loop. To continue your woodland walking in the area head east to visit Ticknock Forest .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/kZWNbUQ_AD4?si=Gb3Dpd0TQtnDq9dF",
-    "gazetteer_found": false
+    {
+      "description": "Bohernabreena Reservoir",
+      "objectID": "ee1663c24d67e292136e548a302d41e8",
+      "ref": "bohernabreena-reservoir-walking-route"
+    },
+    {
+      "description": "Tibradden Wood and Two Rock Mountain Walk",
+      "objectID": "740964f189adb6659e9260aabd21612b",
+      "ref": "tibradden-wood-and-two-rock-mountain-walk"
+    },
+    {
+      "description": "Montpelier Hill and Hellfire Forest Loop Walk",
+      "objectID": "fa23356e690331f20d7da3955ffdba9d",
+      "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
+    },
+    {
+      "description": "Cruagh Woods Walk",
+      "objectID": "b55c54dd335b35f0d5360c520bf0e017",
+      "ref": "cruagh-woods-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa23356e690331f20d7da3955ffdba9d.gpx",
+  "_geoloc": {
+    "lat": 53.2519621371,
+    "lng": -6.3215707769
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hell_Fire_Club_Dublin_at_Dawn.jpg",
+      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Hell Fire Club Dublin at Dawn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Remains_of_Cairn_on_Montpelier_Hill.jpg",
+      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Remains of Cairn on Montpelier Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Forest_Path%2C_Co_Dublin_-_geograph.org.uk_-_1878088.jpg?20210414223603",
+      "title": "Forest Path, Co Dublin by C O'Flanagan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forest Path, Co Dublin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Memorial_Stone_The_Hellfire_Club.jpg",
+      "title": "Governorkeagan, CC0, via Wikimedia Commons",
+      "caption": "A stone with a memorial plaque next to The Hellfire Club."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "A walk to Montpelier Hill through Hellfire Woods is a popular and rewarding hike in the Dublin Mountains, known for its mix of dense forest, historical mystery, and spectacular views. The main trail begins at the Hellfire Club car park and takes you through a forest of Sitka spruce, larch, and beech. The initial part of the walk is a steady uphill climb that leads you onto the hill's slopes. The path is generally well-maintained, but the incline can be a bit of a workout. As you ascend, the trees begin to thin, giving you a sense of the views that are to come. The highlight of the walk is reaching the summit of Montpelier Hill, where you'll find the ruins of an old hunting lodge. The building is known as the Hellfire Club and has a number of spooky legends associated with it, including tales of the devil appearing during raucous gatherings. From the top, you're rewarded with a breathtaking panoramic view of Dublin city, Dublin Bay, and the surrounding countryside. This is a perfect spot for photos or just to take in the impressive scenery. After exploring the ruins and enjoying the view, you can descend back to the car park via a different route for a full loop. To continue your woodland walking in the area head east to visit Ticknock Forest .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/kZWNbUQ_AD4?si=Gb3Dpd0TQtnDq9dF",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

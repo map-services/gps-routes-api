@@ -23,7 +23,7 @@
     {
       "description": "Tullamore Canal Walk",
       "objectID": "f0736e0826d7e480685db9002470dc92",
-      "ref": "tullamore canal-walk"
+      "ref": "tullamore\u00a0canal-walk"
     },
     {
       "description": "Newcastle Wood",
@@ -49,5 +49,21 @@
   "distance_km": 3.0,
   "description": "This walk explores the Esker Bluebell Trail near Kilbeggan in County Westmeath. The trail takes you through some lovely peaceful woodland with pretty bluebells in spring and lots of wildlife to see. There's a parking area off the R446 where you can start the walk. From here you can pick up the trails heading north west through the woods. To continue your walking in the area you could pick up the Kilbeggan Greenway or head north to visit Belvedere House and Lough Ennell. TheCroghan Hill Walkis also nearby.",
   "details": [],
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

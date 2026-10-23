@@ -1,61 +1,81 @@
 {
-    "created_at": "2026-10-22T21:29:34.770150+00:00",
-    "objectID": "4b521932497ade986c37304288aae9a6",
-    "ref": "cooley-peninsula-walking-route",
-    "title": "Cooley Peninsula Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg/500px-The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg?20231130212340",
-    "nearby": [
-        {
-            "description": "Carlingford Lough and Slieve Foye Mountain Loop",
-            "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
-            "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
-        },
-        {
-            "description": "Carlingford Lough Greenway",
-            "objectID": "48b49184a8cb039865eb74b4645242c2",
-            "ref": "carlingford-lough-greenway-walking-route"
-        },
-        {
-            "description": "Ravensdale Forest Loop",
-            "objectID": "b62ee155e8795ba327368296e47076b1",
-            "ref": "ravensdale-forest-loop-walking-route"
-        },
-        {
-            "description": "Tain Way",
-            "objectID": "fa363516369fcdf786480e51a8667182",
-            "ref": "tain-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4b521932497ade986c37304288aae9a6.gpx",
-    "_geoloc": {
-        "lat": 53.98565,
-        "lng": -6.23662
+  "created_at": "2026-10-22T21:29:34.770150+00:00",
+  "objectID": "4b521932497ade986c37304288aae9a6",
+  "ref": "cooley-peninsula-walking-route",
+  "title": "Cooley Peninsula Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg/500px-The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg?20231130212340",
+  "nearby": [
+    {
+      "description": "Carlingford Lough and Slieve Foye Mountain Loop",
+      "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
+      "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg",
-            "title": "The pier at Gyles Quay by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The pier at Gyles Quay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Farm_road_along_the_seaward_edge_of_a_raised_beach_-_geograph.org.uk_-_5840802.jpg",
-            "title": "Farm road along the seaward edge of a raised beach by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Farm road along the seaward edge of a raised beach. This walk is also steeped in history, as the Cooley Peninsula is associated with Irish mythology, particularly the Táin Bó Cúailnge (The Cattle Raid of Cooley). You may wish to explore some of the nearby historical sites, such as Proleek Dolmen or the ruins of Carlingford Abbey, to further enrich your visit."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Fords_at_the_estuary_of_the_Castletown_River_-_geograph.org.uk_-_5840766.jpg",
-            "title": "Fords at the estuary of the Castletown River by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fords at the estuary of the Castletown River. At the river, keep an eye out for grey herons and little egrets that are often seen feeding in the estuarine waters. The river is an important ecological area, supporting a range of aquatic species. The nearby Carlingford Lough is home to seals and occasionally dolphins, which may be spotted if you're lucky."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/View_east_along_the_coastline_from_Gyles_Quay_Pier_-_geograph.org.uk_-_5841525.jpg",
-            "title": "View east along the coastline from Gyles Quay Pier by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View east along the coastline from Gyles Quay Pier"
-        }
-    ],
-    "distance_km": 2.3,
-    "description": "This walk takes you along a coastal section of the Cooley Peninsula in the north of County Louth. You can start the walk from the car park at Gyles' Quay and follow the footpath east along the pretty beach towards the Castletown River. The route offers expansive views of Dundalk Bay and the Mourne Mountains to the north, providing a stunning backdrop as you walk. The beach is a mixture of sand and shingle, with rock pools exposed at low tide. These pools are often teeming with marine life, including small crabs, shrimps, and various species of shellfish. Seabirds such as oystercatchers, curlews, and terns are commonly spotted along the shoreline, particularly during migration seasons. The surrounding landscape includes low sand dunes and salt marshes, which support a variety of coastal flora, including sea thrift, marsh samphire, and sea lavender. Further inland, the Cooley Peninsula is known for its rolling hills and farmland, which provide habitat for species like hares, kestrels, and buzzards. To continue your walking in the area head north to pick up the popular Carlingford Lough and Slieve Foye Mountain Loop .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/lhWzFMkM11A?si=bNACKUjC7vN-USzh",
-    "gazetteer_found": false
+    {
+      "description": "Carlingford Lough Greenway",
+      "objectID": "48b49184a8cb039865eb74b4645242c2",
+      "ref": "carlingford-lough-greenway-walking-route"
+    },
+    {
+      "description": "Ravensdale Forest Loop",
+      "objectID": "b62ee155e8795ba327368296e47076b1",
+      "ref": "ravensdale-forest-loop-walking-route"
+    },
+    {
+      "description": "Tain Way",
+      "objectID": "fa363516369fcdf786480e51a8667182",
+      "ref": "tain-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4b521932497ade986c37304288aae9a6.gpx",
+  "_geoloc": {
+    "lat": 53.98565,
+    "lng": -6.23662
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_pier_at_Gyles_Quay_-_geograph.org.uk_-_5841426.jpg",
+      "title": "The pier at Gyles Quay by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The pier at Gyles Quay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Farm_road_along_the_seaward_edge_of_a_raised_beach_-_geograph.org.uk_-_5840802.jpg",
+      "title": "Farm road along the seaward edge of a raised beach by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Farm road along the seaward edge of a raised beach. This walk is also steeped in history, as the Cooley Peninsula is associated with Irish mythology, particularly the T\u00e1in B\u00f3 C\u00faailnge (The Cattle Raid of Cooley). You may wish to explore some of the nearby historical sites, such as Proleek Dolmen or the ruins of Carlingford Abbey, to further enrich your visit."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Fords_at_the_estuary_of_the_Castletown_River_-_geograph.org.uk_-_5840766.jpg",
+      "title": "Fords at the estuary of the Castletown River by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fords at the estuary of the Castletown River. At the river, keep an eye out for grey herons and little egrets that are often seen feeding in the estuarine waters. The river is an important ecological area, supporting a range of aquatic species. The nearby Carlingford Lough is home to seals and occasionally dolphins, which may be spotted if you're lucky."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/View_east_along_the_coastline_from_Gyles_Quay_Pier_-_geograph.org.uk_-_5841525.jpg",
+      "title": "View east along the coastline from Gyles Quay Pier by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View east along the coastline from Gyles Quay Pier"
+    }
+  ],
+  "distance_km": 2.3,
+  "description": "This walk takes you along a coastal section of the Cooley Peninsula in the north of County Louth. You can start the walk from the car park at Gyles' Quay and follow the footpath east along the pretty beach towards the Castletown River. The route offers expansive views of Dundalk Bay and the Mourne Mountains to the north, providing a stunning backdrop as you walk. The beach is a mixture of sand and shingle, with rock pools exposed at low tide. These pools are often teeming with marine life, including small crabs, shrimps, and various species of shellfish. Seabirds such as oystercatchers, curlews, and terns are commonly spotted along the shoreline, particularly during migration seasons. The surrounding landscape includes low sand dunes and salt marshes, which support a variety of coastal flora, including sea thrift, marsh samphire, and sea lavender. Further inland, the Cooley Peninsula is known for its rolling hills and farmland, which provide habitat for species like hares, kestrels, and buzzards. To continue your walking in the area head north to pick up the popular Carlingford Lough and Slieve Foye Mountain Loop .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/lhWzFMkM11A?si=bNACKUjC7vN-USzh",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach",
+    "sand dune",
+    "salt marsh"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "rock pool"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

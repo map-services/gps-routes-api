@@ -1,33 +1,47 @@
 {
-    "created_at": "2026-10-22T21:43:09.250286+00:00",
-    "objectID": "c1082148c008e25a1d89e8eb4c7bcade",
-    "ref": "lifton-walking-route",
-    "title": "Walks around Lifton Devon Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg/500px-Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg?20220629162454",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c1082148c008e25a1d89e8eb4c7bcade.gpx",
-    "_geoloc": {
-        "lat": 50.6433486421,
-        "lng": -4.284170442
+  "created_at": "2026-10-22T21:43:09.250286+00:00",
+  "objectID": "c1082148c008e25a1d89e8eb4c7bcade",
+  "ref": "lifton-walking-route",
+  "title": "Walks around Lifton Devon Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg/500px-Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg?20220629162454",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c1082148c008e25a1d89e8eb4c7bcade.gpx",
+  "_geoloc": {
+    "lat": 50.6433486421,
+    "lng": -4.284170442
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg",
+      "title": "Cottages at Lifton by Mike Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cottages at Lifton"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cottages_at_Lifton_-_geograph.org.uk_-_3634633.jpg",
-            "title": "Cottages at Lifton by Mike Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cottages at Lifton"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/River_Lyd_at_Lifton_-_geograph.org.uk_-_6845909.jpg",
-            "title": "River Lyd at Lifton by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Lyd at Lifton"
-        }
-    ],
-    "distance_km": 20.7,
-    "description": "This pretty Devon based village is located near the confluence of the rivers Wolf and Lyd and also the border with Cornwall. This walk from the village takes you along the Two Castles Trail and the West Devon Way to visit the neighbouring village of Lydford. Here you can visit the wonderful Lydford Gorge, one of the walking highlights of the area. Please scroll down for the full list of walks near and around Lifton. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
-    "details": [],
-    "postcode": "PL16 0BH",
-    "district": "Lifton",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/River_Lyd_at_Lifton_-_geograph.org.uk_-_6845909.jpg",
+      "title": "River Lyd at Lifton by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Lyd at Lifton"
+    }
+  ],
+  "distance_km": 20.7,
+  "description": "This pretty Devon based village is located near the confluence of the rivers Wolf and Lyd and also the border with Cornwall. This walk from the village takes you along the Two Castles Trail and the West Devon Way to visit the neighbouring village of Lydford. Here you can visit the wonderful Lydford Gorge, one of the walking highlights of the area. Please scroll down for the full list of walks near and around Lifton. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [],
+  "postcode": "PL16 0BH",
+  "district": "Lifton",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 25 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "gorge"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

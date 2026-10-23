@@ -1,70 +1,85 @@
 {
-    "created_at": "2026-10-22T21:32:44.578662+00:00",
-    "objectID": "53692d8fd034293a0f89ada74a15f30e",
-    "ref": "dunning-glen-walking-route",
-    "title": "Dunning Glen Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg/500px-View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg?20230212133154",
-    "nearby": [
-        {
-            "description": "Glenfarg Tunnels",
-            "objectID": "ebec39c711857561502515a970192d1b",
-            "ref": "glenfarg-tunnels-walking-route"
-        },
-        {
-            "description": "Glenfarg Reservoir",
-            "objectID": "293a48a4c068b905383d65236ae17aad",
-            "ref": "glenfarg-reservoir-walking-route"
-        },
-        {
-            "description": "Pitmedden Forest",
-            "objectID": "d21cbb293a8385b095a2b8b7a4ead7d8",
-            "ref": "pitmedden-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Glen Vale Waterfalls and John Knox's Pulpit Walk",
-            "objectID": "346151259ee04209ff4a38833d741ee3",
-            "ref": "glen-vale-waterfalls-and-john-knoxs-pulpit-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/53692d8fd034293a0f89ada74a15f30e.gpx",
-    "_geoloc": {
-        "lat": 56.31266,
-        "lng": -3.58903
+  "created_at": "2026-10-22T21:32:44.578662+00:00",
+  "objectID": "53692d8fd034293a0f89ada74a15f30e",
+  "ref": "dunning-glen-walking-route",
+  "title": "Dunning Glen Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg/500px-View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg?20230212133154",
+  "nearby": [
+    {
+      "description": "Glenfarg Tunnels",
+      "objectID": "ebec39c711857561502515a970192d1b",
+      "ref": "glenfarg-tunnels-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg",
-            "title": "View towards Dunning by Leslie Barrie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View towards Dunning. The village of Dunning has its own points of interest, including the 12th century St Serf's Church, which houses the Dupplin Cross, a remarkable Pictish artefact. The combination of natural beauty and historical significance makes this walk a rewarding experience for those exploring the heart of Perthshire."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Oakwood_in_Dunning_Glen_-_geograph.org.uk_-_2577873.jpg?20210905210543",
-            "title": "Oakwood in Dunning Glen by William Starkey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Oakwood in Dunning Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Path_in_Dunning_Glen_-_geograph.org.uk_-_2577891.jpg?20210905211048",
-            "title": "Path in Dunning Glen by William Starkey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Path in Dunning Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Valley_of_Dunning_Burn_-_geograph.org.uk_-_2785480.jpg",
-            "title": "Valley of Dunning Burn by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Valley of Dunning Burn"
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "This walk explores the Dunning Glen in the village of Dunning in Perth and Kinross. The walk starts in the village centre and follows the Dunning Burn path south east into the glen. Here you'll find pleasant woodland paths taking you along the pretty burn. As you follow the burn, the sound of running water adds to the tranquil atmosphere of the glen. The surrounding woodlands are a mix of native species such as oak, ash, and birch, creating a vibrant and rich canopy. In spring, the woodland floor is carpeted with wildflowers, including bluebells, wood anemones, and primroses, while the ferns and mosses add a lush green texture throughout the year. The area is also home to a variety of birds, including chaffinches, warblers, and wrens, whose songs fill the air. Along the water's edge, you might spot dippers and wagtails darting about or see evidence of otters that inhabit the burn. The glen itself is a serene haven with gently undulating paths that offer occasional views of the surrounding Perthshire countryside. The Dunning Burn meanders through the glen, creating small pools and cascades that enhance the scenic beauty. The woodland edges provide habitats for roe deer and red squirrels, which may be seen darting among the trees. In autumn, the area transforms into a tapestry of golds, oranges, and reds, making it particularly picturesque. To continue your walking in the area head east to visit the atmospheric Glenfarg Tunnels and the photogenic Glenfarg Reservoir .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Pitmedden Forest includes some fine walking and mountain bike trails. It can be found just south of Abernethy. Near here there's the Glen Vale Waterfalls and John Knox's Pulpit Walk where you can enjoy a walk along the pretty Glen Burn to the historic natural pulpit of preacher John Knox."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/l6Ms-5kwZVY?si=mijzY5MraCaftQjA",
-    "district": "Dunning",
-    "county": "Perth and Kinross",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Glenfarg Reservoir",
+      "objectID": "293a48a4c068b905383d65236ae17aad",
+      "ref": "glenfarg-reservoir-walking-route"
+    },
+    {
+      "description": "Pitmedden Forest",
+      "objectID": "d21cbb293a8385b095a2b8b7a4ead7d8",
+      "ref": "pitmedden-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Glen Vale Waterfalls and John Knox's Pulpit Walk",
+      "objectID": "346151259ee04209ff4a38833d741ee3",
+      "ref": "glen-vale-waterfalls-and-john-knoxs-pulpit-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/53692d8fd034293a0f89ada74a15f30e.gpx",
+  "_geoloc": {
+    "lat": 56.31266,
+    "lng": -3.58903
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_towards_Dunning_-_geograph.org.uk_-_4411408.jpg",
+      "title": "View towards Dunning by Leslie Barrie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View towards Dunning. The village of Dunning has its own points of interest, including the 12th century St Serf's Church, which houses the Dupplin Cross, a remarkable Pictish artefact. The combination of natural beauty and historical significance makes this walk a rewarding experience for those exploring the heart of Perthshire."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Oakwood_in_Dunning_Glen_-_geograph.org.uk_-_2577873.jpg?20210905210543",
+      "title": "Oakwood in Dunning Glen by William Starkey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Oakwood in Dunning Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Path_in_Dunning_Glen_-_geograph.org.uk_-_2577891.jpg?20210905211048",
+      "title": "Path in Dunning Glen by William Starkey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Path in Dunning Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Valley_of_Dunning_Burn_-_geograph.org.uk_-_2785480.jpg",
+      "title": "Valley of Dunning Burn by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Valley of Dunning Burn"
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "This walk explores the Dunning Glen in the village of Dunning in Perth and Kinross. The walk starts in the village centre and follows the Dunning Burn path south east into the glen. Here you'll find pleasant woodland paths taking you along the pretty burn. As you follow the burn, the sound of running water adds to the tranquil atmosphere of the glen. The surrounding woodlands are a mix of native species such as oak, ash, and birch, creating a vibrant and rich canopy. In spring, the woodland floor is carpeted with wildflowers, including bluebells, wood anemones, and primroses, while the ferns and mosses add a lush green texture throughout the year. The area is also home to a variety of birds, including chaffinches, warblers, and wrens, whose songs fill the air. Along the water's edge, you might spot dippers and wagtails darting about or see evidence of otters that inhabit the burn. The glen itself is a serene haven with gently undulating paths that offer occasional views of the surrounding Perthshire countryside. The Dunning Burn meanders through the glen, creating small pools and cascades that enhance the scenic beauty. The woodland edges provide habitats for roe deer and red squirrels, which may be seen darting among the trees. In autumn, the area transforms into a tapestry of golds, oranges, and reds, making it particularly picturesque. To continue your walking in the area head east to visit the atmospheric Glenfarg Tunnels and the photogenic Glenfarg Reservoir .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Pitmedden Forest includes some fine walking and mountain bike trails. It can be found just south of Abernethy. Near here there's the Glen Vale Waterfalls and John Knox's Pulpit Walk where you can enjoy a walk along the pretty Glen Burn to the historic natural pulpit of preacher John Knox."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/l6Ms-5kwZVY?si=mijzY5MraCaftQjA",
+  "district": "Dunning",
+  "county": "Perth and Kinross",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,61 +1,79 @@
 {
-    "created_at": "2026-10-22T22:45:18.586767+00:00",
-    "objectID": "2875c540816d1db45c53d2fc6723e4b8",
-    "ref": "lough-macnean-walking-route",
-    "title": "Lough MacNean Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg/500px-Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg?_=20230618120107",
-    "nearby": [
-        {
-            "description": "Stairway to Heaven",
-            "objectID": "07a9d0ada9a37209038a666d166cffce",
-            "ref": "stairway-to-heaven-walking-route"
-        },
-        {
-            "description": "Cuilcagh Mountain",
-            "objectID": "db899ef581dee0eb272771b9761dcdaf",
-            "ref": "cuilcagh-mountain-walking-route"
-        },
-        {
-            "description": "Cladagh Glen and Marble Arch Caves Walk",
-            "objectID": "e7c5fb80ca767e4c5dd55b9c26b96090",
-            "ref": "cladagh-glen-and-marble-arch-caves-walking-route"
-        },
-        {
-            "description": "Fowleys Falls and Glenaniff River Walk",
-            "objectID": "657b9651dac61ec3675a495fdeebf068",
-            "ref": "fowleys-falls-and-glenaniff-river-walk"
-        },
-        {
-            "description": "Lough Melvin",
-            "objectID": "e6120a05773b58e11aeb557c97f5817c",
-            "ref": "lough-melvin-walking-route"
-        },
-        {
-            "description": "Castle Caldwell Forest Walk",
-            "objectID": "6d7657254cbf262de74388f8bddef032",
-            "ref": "castle-caldwell-forest-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2875c540816d1db45c53d2fc6723e4b8.gpx",
-    "_geoloc": {
-        "lat": 54.299925,
-        "lng": -7.964058
+  "created_at": "2026-10-22T22:45:18.586767+00:00",
+  "objectID": "2875c540816d1db45c53d2fc6723e4b8",
+  "ref": "lough-macnean-walking-route",
+  "title": "Lough MacNean Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg/500px-Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg?_=20230618120107",
+  "nearby": [
+    {
+      "description": "Stairway to Heaven",
+      "objectID": "07a9d0ada9a37209038a666d166cffce",
+      "ref": "stairway-to-heaven-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg",
-            "title": "Lough Macnean Upper by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lough Macnean Upper. On the strip of land between the two lakes are the villages of Belcoo, County Fermanagh and Blacklion, County Cavan. A river, named the Belcoo River, runs between the villages, linking the eastern and western lakes."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sculpture_Lough_McNean_-_geograph.org.uk_-_540199.jpg?_=20110206003111",
-            "title": "David Baird / Sculpture Lough McNean",
-            "caption": "Sculpture Lough McNean"
-        }
-    ],
-    "distance_km": 3.6,
-    "description": "This walk visits Lough MacNean on the border of Ireland and Northern Ireland. The pair of lakes straddle the borders of several counties including County Fermanagh, County Cavan and County Leitrim. On the western side of the upper lake you'll find a pleasant lakeside walking trail running for 3.6km. From here there's wonderful views across the water to the lakes many islands and the surrounding woodland and hills.In between the two lake's you can visit the village of Belcoo and enjoy views of the Belcoo River.To continue your walking in the area you could pick up theCuilcagh Mountain WalkandStairway to Heaven Walkwhere there's great views down to the lakes. The ancientAghanaglackcan be found just north of the lakes.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/vbuXm9SZBjo?si=ouf-zNYEGY_8k5fI",
-    "gazetteer_found": false
+    {
+      "description": "Cuilcagh Mountain",
+      "objectID": "db899ef581dee0eb272771b9761dcdaf",
+      "ref": "cuilcagh-mountain-walking-route"
+    },
+    {
+      "description": "Cladagh Glen and Marble Arch Caves Walk",
+      "objectID": "e7c5fb80ca767e4c5dd55b9c26b96090",
+      "ref": "cladagh-glen-and-marble-arch-caves-walking-route"
+    },
+    {
+      "description": "Fowleys Falls and Glenaniff River Walk",
+      "objectID": "657b9651dac61ec3675a495fdeebf068",
+      "ref": "fowleys-falls-and-glenaniff-river-walk"
+    },
+    {
+      "description": "Lough Melvin",
+      "objectID": "e6120a05773b58e11aeb557c97f5817c",
+      "ref": "lough-melvin-walking-route"
+    },
+    {
+      "description": "Castle Caldwell Forest Walk",
+      "objectID": "6d7657254cbf262de74388f8bddef032",
+      "ref": "castle-caldwell-forest-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2875c540816d1db45c53d2fc6723e4b8.gpx",
+  "_geoloc": {
+    "lat": 54.299925,
+    "lng": -7.964058
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lough_Macnean_Upper_-_geograph.org.uk_-_4954178.jpg",
+      "title": "Lough Macnean Upper by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lough Macnean Upper. On the strip of land between the two lakes are the villages of Belcoo, County Fermanagh and Blacklion, County Cavan. A river, named the Belcoo River, runs between the villages, linking the eastern and western lakes."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sculpture_Lough_McNean_-_geograph.org.uk_-_540199.jpg?_=20110206003111",
+      "title": "David Baird / Sculpture Lough McNean",
+      "caption": "Sculpture Lough McNean"
+    }
+  ],
+  "distance_km": 3.6,
+  "description": "This walk visits Lough MacNean on the border of Ireland and Northern Ireland. The pair of lakes straddle the borders of several counties including County Fermanagh, County Cavan and County Leitrim. On the western side of the upper lake you'll find a pleasant lakeside walking trail running for 3.6km. From here there's wonderful views across the water to the lakes many islands and the surrounding woodland and hills.In between the two lake's you can visit the village of Belcoo and enjoy views of the Belcoo River.To continue your walking in the area you could pick up theCuilcagh Mountain WalkandStairway to Heaven Walkwhere there's great views down to the lakes. The ancientAghanaglackcan be found just north of the lakes.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/vbuXm9SZBjo?si=ouf-zNYEGY_8k5fI",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "lakeside",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "lake",
+    "village",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

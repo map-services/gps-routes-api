@@ -1,40 +1,55 @@
 {
-    "created_at": "2026-10-22T21:45:52.736911+00:00",
-    "objectID": "debd7c7b6539f4f736cb8293af8836dd",
-    "ref": "massey-woods-walk",
-    "title": "Massey Woods Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Massey_Woods_-_geograph.org.uk_-_2128112.jpg/500px-Massey_Woods_-_geograph.org.uk_-_2128112.jpg?20210607100959",
-    "nearby": [
-        {
-            "description": "Montpelier Hill and Hellfire Forest Loop Walk",
-            "objectID": "fa23356e690331f20d7da3955ffdba9d",
-            "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
-        },
-        {
-            "description": "Cruagh Woods Walk",
-            "objectID": "b55c54dd335b35f0d5360c520bf0e017",
-            "ref": "cruagh-woods-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/debd7c7b6539f4f736cb8293af8836dd.gpx",
-    "_geoloc": {
-        "lat": 53.2392545,
-        "lng": -6.3148856
+  "created_at": "2026-10-22T21:45:52.736911+00:00",
+  "objectID": "debd7c7b6539f4f736cb8293af8836dd",
+  "ref": "massey-woods-walk",
+  "title": "Massey Woods Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Massey_Woods_-_geograph.org.uk_-_2128112.jpg/500px-Massey_Woods_-_geograph.org.uk_-_2128112.jpg?20210607100959",
+  "nearby": [
+    {
+      "description": "Montpelier Hill and Hellfire Forest Loop Walk",
+      "objectID": "fa23356e690331f20d7da3955ffdba9d",
+      "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Massey_Woods_-_geograph.org.uk_-_2128112.jpg",
-            "title": "Massey Woods by Alan James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Massey Woods"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Owendoher_stream_in_Massey_wood%2C_November_2023.jpg",
-            "title": "Laurel Lodged, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
-            "caption": "Owendoher stream in Massey wood"
-        }
-    ],
-    "distance_km": 2.4,
-    "description": "This loop walk takes you through Massey Woods near Dublin. In the woods you can follow a section of the Dublin Mountains Way along a pretty stream with lots of wildlife to look out for on the way. You can continue your walk in the adjacent Cruagh Woods Walk or by picking up the Montpelier Hill and Hellfire Forest Loop Walk .",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "description": "Cruagh Woods Walk",
+      "objectID": "b55c54dd335b35f0d5360c520bf0e017",
+      "ref": "cruagh-woods-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/debd7c7b6539f4f736cb8293af8836dd.gpx",
+  "_geoloc": {
+    "lat": 53.2392545,
+    "lng": -6.3148856
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Massey_Woods_-_geograph.org.uk_-_2128112.jpg",
+      "title": "Massey Woods by Alan James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Massey Woods"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Owendoher_stream_in_Massey_wood%2C_November_2023.jpg",
+      "title": "Laurel Lodged, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "caption": "Owendoher stream in Massey wood"
+    }
+  ],
+  "distance_km": 2.4,
+  "description": "This loop walk takes you through Massey Woods near Dublin. In the woods you can follow a section of the Dublin Mountains Way along a pretty stream with lots of wildlife to look out for on the way. You can continue your walk in the adjacent Cruagh Woods Walk or by picking up the Montpelier Hill and Hellfire Forest Loop Walk .",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "stream",
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

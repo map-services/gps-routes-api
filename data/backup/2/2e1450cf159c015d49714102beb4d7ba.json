@@ -1,51 +1,67 @@
 {
-    "created_at": "2026-10-22T22:43:20.236947+00:00",
-    "objectID": "2e1450cf159c015d49714102beb4d7ba",
-    "ref": "letterkeen-loop-walking-route",
-    "title": "Letterkeen Loop Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg/500px-Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg?_=20240515054442",
-    "nearby": [
-        {
-            "description": "Keenagh Loop Walk",
-            "objectID": "aa7b72b390ed3fa1e8c9386ecfc2213e",
-            "ref": "keenagh-loop-walk-walking-route"
-        },
-        {
-            "description": "Nephin Mountain Walk",
-            "objectID": "98d69a4e968581c52399c98c580284fa",
-            "ref": "nephin-mountain-walk"
-        },
-        {
-            "description": "Lough Conn",
-            "objectID": "85dbee16fd8480e49b0eae9a2b532d2c",
-            "ref": "lough-conn-walking-route"
-        },
-        {
-            "description": "Belleek Woods Walk",
-            "objectID": "c21013700462ca3fe40d8161b6d886e1",
-            "ref": "belleek-woods-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2e1450cf159c015d49714102beb4d7ba.gpx",
-    "_geoloc": {
-        "lat": 53.9893034,
-        "lng": -9.5729542
+  "created_at": "2026-10-22T22:43:20.236947+00:00",
+  "objectID": "2e1450cf159c015d49714102beb4d7ba",
+  "ref": "letterkeen-loop-walking-route",
+  "title": "Letterkeen Loop Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg/500px-Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg?_=20240515054442",
+  "nearby": [
+    {
+      "description": "Keenagh Loop Walk",
+      "objectID": "aa7b72b390ed3fa1e8c9386ecfc2213e",
+      "ref": "keenagh-loop-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg",
-            "title": "Track leading N from Letterkeen Loop Car Park, Nephin Beg Mtns by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track leading N from Letterkeen Loop Car Park. Starting from here the route uses forest tracks, old roads and open mountain paths to explore a landscape shaped by bog, rivers and upland terrain. Sections of the trail pass through former forestry before opening into wider views of blanket bog and surrounding hills typical of this remote national park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Letterkeen_Loop_Car_Park_%5E_Brogan_Carroll_Bothy%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330328.jpg",
-            "title": "Letterkeen Loop Car Park & Brogan Carroll Bothy, Nephin Beg Mtns by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Letterkeen Loop Car Park & Brogan Carroll Bothy, Nephin Beg Mtns. The loop follows parts of the Letterkeen bothy and old roadway network, crossing streams and passing small waterfalls as it heads deeper into the Nephin Beg range. The terrain varies between firm tracks and rougher ground, with quiet sections where the sense of remoteness becomes a defining feature of the walk. Higher points on the route provide views across the Nephin Beg Mountains and surrounding wilderness, while the return follows quieter tracks back towards the trailhead. The loop combines upland scenery, river features and the distinctive open landscapes that characterise Wild Nephin National Park."
-        }
-    ],
-    "distance_km": 10.0,
-    "description": "This circular walk follows the 10km Letterkeen Loop in the Wild Nephin National Park. The waymarked trail includes forest tracks and a lovely stretch along the Green Bridge River. There's excellent views of the surrounding mountains to enjoy for the duration of the route. You can start off from the Brogan Carroll Bothy car park.You can continue your walking on theKeenagh Loop Walkor theNephin Mountain Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/b85CIA1oqDM?si=RDj1Kw1RJ_6NsnvE",
-    "gazetteer_found": false
+    {
+      "description": "Nephin Mountain Walk",
+      "objectID": "98d69a4e968581c52399c98c580284fa",
+      "ref": "nephin-mountain-walk"
+    },
+    {
+      "description": "Lough Conn",
+      "objectID": "85dbee16fd8480e49b0eae9a2b532d2c",
+      "ref": "lough-conn-walking-route"
+    },
+    {
+      "description": "Belleek Woods Walk",
+      "objectID": "c21013700462ca3fe40d8161b6d886e1",
+      "ref": "belleek-woods-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2e1450cf159c015d49714102beb4d7ba.gpx",
+  "_geoloc": {
+    "lat": 53.9893034,
+    "lng": -9.5729542
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Track_leading_N_from_Letterkeen_Loop_Car_Park%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330333.jpg",
+      "title": "Track leading N from Letterkeen Loop Car Park, Nephin Beg Mtns by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track leading N from Letterkeen Loop Car Park. Starting from here the route uses forest tracks, old roads and open mountain paths to explore a landscape shaped by bog, rivers and upland terrain. Sections of the trail pass through former forestry before opening into wider views of blanket bog and surrounding hills typical of this remote national park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Letterkeen_Loop_Car_Park_%5E_Brogan_Carroll_Bothy%2C_Nephin_Beg_Mtns_-_geograph.org.uk_-_6330328.jpg",
+      "title": "Letterkeen Loop Car Park & Brogan Carroll Bothy, Nephin Beg Mtns by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Letterkeen Loop Car Park & Brogan Carroll Bothy, Nephin Beg Mtns. The loop follows parts of the Letterkeen bothy and old roadway network, crossing streams and passing small waterfalls as it heads deeper into the Nephin Beg range. The terrain varies between firm tracks and rougher ground, with quiet sections where the sense of remoteness becomes a defining feature of the walk. Higher points on the route provide views across the Nephin Beg Mountains and surrounding wilderness, while the return follows quieter tracks back towards the trailhead. The loop combines upland scenery, river features and the distinctive open landscapes that characterise Wild Nephin National Park."
+    }
+  ],
+  "distance_km": 10.0,
+  "description": "This circular walk follows the 10km Letterkeen Loop in the Wild Nephin National Park. The waymarked trail includes forest tracks and a lovely stretch along the Green Bridge River. There's excellent views of the surrounding mountains to enjoy for the duration of the route. You can start off from the Brogan Carroll Bothy car park.You can continue your walking on theKeenagh Loop Walkor theNephin Mountain Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/b85CIA1oqDM?si=RDj1Kw1RJ_6NsnvE",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

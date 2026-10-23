@@ -1,61 +1,79 @@
 {
-    "created_at": "2026-10-22T21:40:40.427294+00:00",
-    "objectID": "9040f884827cfa9ad9d7a45473b41f64",
-    "ref": "johnshaven-to-st-cyrus-walking-route",
-    "title": "Johnshaven to St Cyrus Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg/500px-Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg?20240825133438",
-    "nearby": [
-        {
-            "description": "St Cyrus Beach Walk",
-            "objectID": "85a0fbacba94241a5fcaa06a39945c80",
-            "ref": "st-cyrus-beach-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9040f884827cfa9ad9d7a45473b41f64.gpx",
-    "_geoloc": {
-        "lat": 56.79391,
-        "lng": -2.3364
+  "created_at": "2026-10-22T21:40:40.427294+00:00",
+  "objectID": "9040f884827cfa9ad9d7a45473b41f64",
+  "ref": "johnshaven-to-st-cyrus-walking-route",
+  "title": "Johnshaven to St Cyrus Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg/500px-Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg?20240825133438",
+  "nearby": [
+    {
+      "description": "St Cyrus Beach Walk",
+      "objectID": "85a0fbacba94241a5fcaa06a39945c80",
+      "ref": "st-cyrus-beach-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9040f884827cfa9ad9d7a45473b41f64.gpx",
+  "_geoloc": {
+    "lat": 56.79391,
+    "lng": -2.3364
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg",
+      "title": "Johnshaven Harbour by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Johnshaven Harbour"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Johnshaven_Harbour_-_geograph.org.uk_-_6610045.jpg",
-            "title": "Johnshaven Harbour by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Johnshaven Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sandstone_and_Path_-_geograph.org.uk_-_5333895.jpg",
-            "title": "Sandstone and Path by Andrew Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sandstone and Path"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/To_the_Narrows_-_geograph.org.uk_-_5332551.jpg",
-            "title": "To the Narrows by Andrew Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "To the Narrows"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/St_Cyrus_cliff_top_%282%29_-_geograph.org.uk_-_5030902.jpg",
-            "title": "St Cyrus cliff top [2] by Michael Dibb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "St Cyrus cliff top"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kaim_of_Mathers_Castle_and_Rock_Hall_Fishing_Station_-_geograph.org.uk_-_1283471.jpg?20110227062326",
-            "title": "Andrew Hamilton / Kaim of Mathers Castle and Rock Hall Fishing Station",
-            "caption": "Kaim of Mathers Castle and Rock Hall Fishing Station. Looking slightly north of east over the precarious ruins of the Kaim of Mathers castle atop a narrow rocky promontory, riven with passages and caves below, towards the restored former salmon fishing station at Rock Hall and then onwards to Milton Ness, the principal geographical feature of this grid square. The foreground is designated as an SSSI for its botanical interest and the background is a separate SSSI, designated for its geomorphological interest."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/St_Cyrus_Church_from_Rock_Hall_Fishing_Station_-_geograph.org.uk_-_1283478.jpg?20110227071247",
-            "title": "Andrew Hamilton / St Cyrus Church from Rock Hall Fishing Station",
-            "caption": "St Cyrus Church from Rock Hall Fishing Station. Looking west from the clifftop at the old fishing station at Rock Hall over the ruins of Kaim of Mathers Castle towards St Cyrus church, beach and nature reserve."
-        }
-    ],
-    "distance_km": 7.2,
-    "description": "This walk takes you along the Aberdeenshire coast from Johnshaven to St Cyrus Beach and nature reserve. Starting from the pretty harbour in Johnshaven the walk heads south west to Milton of Mathers and the remains of Kaim of Mathers Castle. The route then continues to St Cyrus where you will find a lovely beach, sand dunes and grasslands with a wonderful variety of flora and fauna. There are also lots of different bird species to see in this area. From the cliff top paths you will enjoy some glorious views over the surrounding coast and countryside.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/NonF1QOiT3Q?si=shEsucPDPEjGKFt1",
-    "postcode": "DD10 0EN",
-    "district": "Johnshaven",
-    "county": "Aberdeenshire",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sandstone_and_Path_-_geograph.org.uk_-_5333895.jpg",
+      "title": "Sandstone and Path by Andrew Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sandstone and Path"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/To_the_Narrows_-_geograph.org.uk_-_5332551.jpg",
+      "title": "To the Narrows by Andrew Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "To the Narrows"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/St_Cyrus_cliff_top_%282%29_-_geograph.org.uk_-_5030902.jpg",
+      "title": "St Cyrus cliff top [2] by Michael Dibb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "St Cyrus cliff top"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kaim_of_Mathers_Castle_and_Rock_Hall_Fishing_Station_-_geograph.org.uk_-_1283471.jpg?20110227062326",
+      "title": "Andrew Hamilton / Kaim of Mathers Castle and Rock Hall Fishing Station",
+      "caption": "Kaim of Mathers Castle and Rock Hall Fishing Station. Looking slightly north of east over the precarious ruins of the Kaim of Mathers castle atop a narrow rocky promontory, riven with passages and caves below, towards the restored former salmon fishing station at Rock Hall and then onwards to Milton Ness, the principal geographical feature of this grid square. The foreground is designated as an SSSI for its botanical interest and the background is a separate SSSI, designated for its geomorphological interest."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/St_Cyrus_Church_from_Rock_Hall_Fishing_Station_-_geograph.org.uk_-_1283478.jpg?20110227071247",
+      "title": "Andrew Hamilton / St Cyrus Church from Rock Hall Fishing Station",
+      "caption": "St Cyrus Church from Rock Hall Fishing Station. Looking west from the clifftop at the old fishing station at Rock Hall over the ruins of Kaim of Mathers Castle towards St Cyrus church, beach and nature reserve."
+    }
+  ],
+  "distance_km": 7.2,
+  "description": "This walk takes you along the Aberdeenshire coast from Johnshaven to St Cyrus Beach and nature reserve. Starting from the pretty harbour in Johnshaven the walk heads south west to Milton of Mathers and the remains of Kaim of Mathers Castle. The route then continues to St Cyrus where you will find a lovely beach, sand dunes and grasslands with a wonderful variety of flora and fauna. There are also lots of different bird species to see in this area. From the cliff top paths you will enjoy some glorious views over the surrounding coast and countryside.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/NonF1QOiT3Q?si=shEsucPDPEjGKFt1",
+  "postcode": "DD10 0EN",
+  "district": "Johnshaven",
+  "county": "Aberdeenshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach",
+    "dune"
+  ],
+  "points_of_interest": [
+    "harbour",
+    "castle remains",
+    "nature reserve"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

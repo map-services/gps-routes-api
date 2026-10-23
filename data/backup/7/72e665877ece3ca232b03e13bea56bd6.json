@@ -1,65 +1,80 @@
 {
-    "created_at": "2026-10-22T21:29:44.923997+00:00",
-    "objectID": "72e665877ece3ca232b03e13bea56bd6",
-    "ref": "cotswold-way-chipping-campden-to-stanton-walk",
-    "title": "Cotswold Way Chipping Campden to Stanton Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Market_Hall_-_Chipping_Campden.jpg/500px-Market_Hall_-_Chipping_Campden.jpg?20120730094603",
-    "nearby": [
-        {
-            "description": "Chipping Campden to Dover's Hill",
-            "objectID": "152731105f90384a0f1e77cdb26cd30b",
-            "ref": "chipping-campden-to-dovers-hill-walking-route"
-        },
-        {
-            "description": "Stanton",
-            "objectID": "f038622e453b6ded31662f971f73104f",
-            "ref": "stanton-walking-route"
-        },
-        {
-            "description": "Snowshill",
-            "objectID": "5482a31ed38fc6275f3c1d69e42b7f41",
-            "ref": "snowshill-walking-route"
-        },
-        {
-            "description": "Stanton to Snowshill Circular Walk",
-            "objectID": "f038622e453b6ded31662f971f73104f",
-            "ref": "stanton-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/72e665877ece3ca232b03e13bea56bd6.gpx",
-    "_geoloc": {
-        "lat": 52.0511988447,
-        "lng": -1.7795710874
+  "created_at": "2026-10-22T21:29:44.923997+00:00",
+  "objectID": "72e665877ece3ca232b03e13bea56bd6",
+  "ref": "cotswold-way-chipping-campden-to-stanton-walk",
+  "title": "Cotswold Way Chipping Campden to Stanton Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Market_Hall_-_Chipping_Campden.jpg/500px-Market_Hall_-_Chipping_Campden.jpg?20120730094603",
+  "nearby": [
+    {
+      "description": "Chipping Campden to Dover's Hill",
+      "objectID": "152731105f90384a0f1e77cdb26cd30b",
+      "ref": "chipping-campden-to-dovers-hill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Market_Hall_-_Chipping_Campden.jpg",
-            "title": "Mick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Market Hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Broadway_tower_edit.jpg",
-            "title": "The author is Newton2 (cropped by Yummifruitbat), CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons",
-            "caption": "Broadway Tower in Cotswolds, England"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dovers_Hill_-_geograph.org.uk_-_374517.jpg?20110104203023",
-            "title": "Richard Webb / Dovers Hill",
-            "caption": "Dovers Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cotswold_Way_entering_Stanton_-_geograph.org.uk_-_7357593.jpg",
-            "title": "Cotswold Way entering Stanton by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cotswold Way entering Stanton"
-        }
-    ],
-    "distance_km": 15.7,
-    "description": "This walk follows a section of the Cotswold Way from Chipping Campden to Stanton. The route runs for a distance of just under 10 miles, passing along the undulating waymarked path in a south westerly direction. On the way you will pass the neighbouring settlement of Broadway where you can climb to Broadway Tower for some wonderful views over the area. On this opening section you will also pass Dover's Hill, another fine local viewpoint. The route continues to the pretty village of Stanton, passing Snowshill on the way.",
-    "details": [],
-    "postcode": "GL55 6HB",
-    "district": "Chipping Campden",
-    "county": "Gloucestershire",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Stanton",
+      "objectID": "f038622e453b6ded31662f971f73104f",
+      "ref": "stanton-walking-route"
+    },
+    {
+      "description": "Snowshill",
+      "objectID": "5482a31ed38fc6275f3c1d69e42b7f41",
+      "ref": "snowshill-walking-route"
+    },
+    {
+      "description": "Stanton to Snowshill Circular Walk",
+      "objectID": "f038622e453b6ded31662f971f73104f",
+      "ref": "stanton-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/72e665877ece3ca232b03e13bea56bd6.gpx",
+  "_geoloc": {
+    "lat": 52.0511988447,
+    "lng": -1.7795710874
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Market_Hall_-_Chipping_Campden.jpg",
+      "title": "Mick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Market Hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Broadway_tower_edit.jpg",
+      "title": "The author is Newton2 (cropped by Yummifruitbat), CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons",
+      "caption": "Broadway Tower in Cotswolds, England"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dovers_Hill_-_geograph.org.uk_-_374517.jpg?20110104203023",
+      "title": "Richard Webb / Dovers Hill",
+      "caption": "Dovers Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cotswold_Way_entering_Stanton_-_geograph.org.uk_-_7357593.jpg",
+      "title": "Cotswold Way entering Stanton by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cotswold Way entering Stanton"
+    }
+  ],
+  "distance_km": 15.7,
+  "description": "This walk follows a section of the Cotswold Way from Chipping Campden to Stanton. The route runs for a distance of just under 10 miles, passing along the undulating waymarked path in a south westerly direction. On the way you will pass the neighbouring settlement of Broadway where you can climb to Broadway Tower for some wonderful views over the area. On this opening section you will also pass Dover's Hill, another fine local viewpoint. The route continues to the pretty village of Stanton, passing Snowshill on the way.",
+  "details": [],
+  "postcode": "GL55 6HB",
+  "district": "Chipping Campden",
+  "county": "Gloucestershire",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "undulating"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

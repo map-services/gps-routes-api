@@ -1,64 +1,79 @@
 {
-    "created_at": "2026-10-22T21:34:17.822521+00:00",
-    "objectID": "ea9f27bb11a17e2c0260ab6a9fcf9a1d",
-    "ref": "farnham-to-guildford-walk",
-    "title": "Farnham to Guildford Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg/500px-Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg?20221030020147",
-    "nearby": [
-        {
-            "description": "Farnham to Guidlford",
-            "objectID": "d04f547801929adaaf4bf5efd40c10ea",
-            "ref": "farnham-to-guidlford-cycle-route"
-        },
-        {
-            "description": "Puttenham Common",
-            "objectID": "478b16fb595a14fc69335a01acf178cc",
-            "ref": "puttenham-common-walking-route"
-        },
-        {
-            "description": "North Downs Way",
-            "objectID": "158891488846dc8d1f43a5eb9e491778",
-            "ref": "north-downs-way-walking-route"
-        },
-        {
-            "description": "Wey and Arun Canal Walk",
-            "objectID": "c73df34efb128fa3c8b0b0002d990b6a",
-            "ref": "wey-south-path-walking-route"
-        },
-        {
-            "description": "Farnham to Guildford Walk",
-            "objectID": "ea9f27bb11a17e2c0260ab6a9fcf9a1d",
-            "ref": "farnham-to-guildford-walk"
-        },
-        {
-            "description": "Guildford to Gomshall Walk",
-            "objectID": "a76a76b926501790fff52b6c5594aa66",
-            "ref": "guildford-to-gomshall-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea9f27bb11a17e2c0260ab6a9fcf9a1d.gpx",
-    "_geoloc": {
-        "lat": 51.2140150851,
-        "lng": -0.795858083
+  "created_at": "2026-10-22T21:34:17.822521+00:00",
+  "objectID": "ea9f27bb11a17e2c0260ab6a9fcf9a1d",
+  "ref": "farnham-to-guildford-walk",
+  "title": "Farnham to Guildford Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg/500px-Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg?20221030020147",
+  "nearby": [
+    {
+      "description": "Farnham to Guidlford",
+      "objectID": "d04f547801929adaaf4bf5efd40c10ea",
+      "ref": "farnham-to-guidlford-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg",
-            "title": "Gostrey Meadow, Farnham by David960, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Gostrey Meadow, Farnham"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/The_River_Wey_at_Guildford_-_geograph.org.uk_-_1441224.jpg?20110302032012",
-            "title": "Andy Beecroft / The River Wey at Guildford",
-            "caption": "The River Wey at Guildford"
-        }
-    ],
-    "distance_km": 18.5,
-    "description": "This walk runs along the North Downs Way from Farnham to Guildford in Surrey. The route runs for 11.5 miles heading east from Farnham along the waymarked trail, passing Puttenham village and Puttenham Common on the way. From the elevated path there are some excellent views over the surrounding countryside to enjoy. The final section includes a lovely waterside stretch along the Wey and Arun Canal Walk into Guildford. For a cycle route between the two towns see the Farnham to Guidlford Cycle Route page.",
-    "details": [],
-    "district": "Farnham",
-    "county": "Surrey",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Puttenham Common",
+      "objectID": "478b16fb595a14fc69335a01acf178cc",
+      "ref": "puttenham-common-walking-route"
+    },
+    {
+      "description": "North Downs Way",
+      "objectID": "158891488846dc8d1f43a5eb9e491778",
+      "ref": "north-downs-way-walking-route"
+    },
+    {
+      "description": "Wey and Arun Canal Walk",
+      "objectID": "c73df34efb128fa3c8b0b0002d990b6a",
+      "ref": "wey-south-path-walking-route"
+    },
+    {
+      "description": "Farnham to Guildford Walk",
+      "objectID": "ea9f27bb11a17e2c0260ab6a9fcf9a1d",
+      "ref": "farnham-to-guildford-walk"
+    },
+    {
+      "description": "Guildford to Gomshall Walk",
+      "objectID": "a76a76b926501790fff52b6c5594aa66",
+      "ref": "guildford-to-gomshall-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ea9f27bb11a17e2c0260ab6a9fcf9a1d.gpx",
+  "_geoloc": {
+    "lat": 51.2140150851,
+    "lng": -0.795858083
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gostrey_Meadow%2C_Farnham_-_geograph.org.uk_-_3940791.jpg",
+      "title": "Gostrey Meadow, Farnham by David960, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Gostrey Meadow, Farnham"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/The_River_Wey_at_Guildford_-_geograph.org.uk_-_1441224.jpg?20110302032012",
+      "title": "Andy Beecroft / The River Wey at Guildford",
+      "caption": "The River Wey at Guildford"
+    }
+  ],
+  "distance_km": 18.5,
+  "description": "This walk runs along the North Downs Way from Farnham to Guildford in Surrey. The route runs for 11.5 miles heading east from Farnham along the waymarked trail, passing Puttenham village and Puttenham Common on the way. From the elevated path there are some excellent views over the surrounding countryside to enjoy. The final section includes a lovely waterside stretch along the Wey and Arun Canal Walk into Guildford. For a cycle route between the two towns see the Farnham to Guidlford Cycle Route page.",
+  "details": [],
+  "district": "Farnham",
+  "county": "Surrey",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "upland",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

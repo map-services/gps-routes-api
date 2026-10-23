@@ -25,7 +25,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Triscombe_Stone_-_geograph.org.uk_-_1357344.jpg?20110228092136",
       "title": "Rick Sykes / Triscombe Stone",
-      "caption": "Triscombe Stone. The name comes from the Celtic word ‘tris’, meaning meeting."
+      "caption": "Triscombe Stone. The name comes from the Celtic word \u2018tris\u2019, meaning meeting."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Above_Triscombe_Quarry_-_geograph.org.uk_-_1610349.jpg?20110304085517",
@@ -50,5 +50,23 @@
   "county": "Somerset",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "standing stone",
+    "quarry",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

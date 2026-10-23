@@ -89,7 +89,7 @@
     }
   ],
   "distance_km": 1.7,
-  "description": "This circular loop walk explores the historic Dorset town of Shaftesbury. The walk starts off at the Bell Street Car Park at postcode SP7 8AP. At this spot you are standing on the site of the town's former cattle market where farmers once traded local cheese and butter. From here, walk west toward the edge of the plateau to reach Castle Hill, the site of 12th-century earthworks from a castle built during the civil war between King Stephen and Empress Matilda. This vantage point offers panoramic views north across the Blackmore Vale toward the Somerset and Wiltshire border.From the heights of Castle Hill, retrace your steps toward the town centre to visit the ruins of Shaftesbury Abbey, founded in 888 by King Alfred the Great. Once the wealthiest nunnery in England and a major site of pilgrimage following the arrival of St Edward the Martyr’s relics, the abbey was surrendered and largely dismantled during the Dissolution of the Monasteries in 1539. Today, you can explore the excavated foundations set within a peaceful walled garden and visit the museum to see medieval stonework and Anglo-Saxon carvings.Next, head toGold Hill, the iconic steep, cobbled street that runs alongside the ancient buttressed walls of the abbey precinct. This view is celebrated as one of the most romantic in England and gained national fame as the setting for the 1973 Hovis \"Boy on the Bike\" advertisement directed by Ridley Scott. Beside the top of the hill sits the 14th-century St Peter's Church, one of the few medieval buildings to survive the 18th-century redevelopment of the town.Finally, turn onto the High Street, the historic commercial heart of the Saxon \"burh\" or fortified town. As you walk past the Town Hall and the Grosvenor Arms, you are following the same irregular grid of streets that once hosted a massive 80-metre-long Market House where livestock were driven every Saturday. Look for the large bronze Hovis loaf statue near the Town Hall, a nod to the town's modern cultural legacy before you return to Bell Street.",
+  "description": "This circular loop walk explores the historic Dorset town of Shaftesbury. The walk starts off at the Bell Street Car Park at postcode SP7 8AP. At this spot you are standing on the site of the town's former cattle market where farmers once traded local cheese and butter. From here, walk west toward the edge of the plateau to reach Castle Hill, the site of 12th-century earthworks from a castle built during the civil war between King Stephen and Empress Matilda. This vantage point offers panoramic views north across the Blackmore Vale toward the Somerset and Wiltshire border.From the heights of Castle Hill, retrace your steps toward the town centre to visit the ruins of Shaftesbury Abbey, founded in 888 by King Alfred the Great. Once the wealthiest nunnery in England and a major site of pilgrimage following the arrival of St Edward the Martyr\u2019s relics, the abbey was surrendered and largely dismantled during the Dissolution of the Monasteries in 1539. Today, you can explore the excavated foundations set within a peaceful walled garden and visit the museum to see medieval stonework and Anglo-Saxon carvings.Next, head toGold Hill, the iconic steep, cobbled street that runs alongside the ancient buttressed walls of the abbey precinct. This view is celebrated as one of the most romantic in England and gained national fame as the setting for the 1973 Hovis \"Boy on the Bike\" advertisement directed by Ridley Scott. Beside the top of the hill sits the 14th-century St Peter's Church, one of the few medieval buildings to survive the 18th-century redevelopment of the town.Finally, turn onto the High Street, the historic commercial heart of the Saxon \"burh\" or fortified town. As you walk past the Town Hall and the Grosvenor Arms, you are following the same irregular grid of streets that once hosted a massive 80-metre-long Market House where livestock were driven every Saturday. Look for the large bronze Hovis loaf statue near the Town Hall, a nod to the town's modern cultural legacy before you return to Bell Street.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/KQ3CpQE8jwk?si=vxPf71Ew3wppKqHl",
   "postcode": "SP7 8JY",
@@ -97,5 +97,23 @@
   "county": "Dorset",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "plateau"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "ruin"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

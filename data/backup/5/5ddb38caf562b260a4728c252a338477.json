@@ -104,12 +104,30 @@
     }
   ],
   "distance_km": 4.6,
-  "description": "The stroll from Heacham to Hunstanton is a refreshing three-mile coastal journey that offers some of the most unique views in Norfolk. Starting at the wide, sandy expanse of Heacham North Beach, you can choose to walk directly on the firm sand at low tide or follow the level, paved sea defence path that runs parallel to the shore. As you head north, the open waters of The Wash stay to your left, providing a rare opportunity on the east coast to see the sun set directly over the sea. The landscape gradually transitions from the quiet, marram-grass dunes of Heacham toward the more bustling Victorian charm of Hunstanton. Along the way, you pass through the South Beach area before the striking striped cliffs—composed of layers of red and white chalk—begin to rise in the distance. The walk concludes as you reach the lively Hunstanton Promenade, where traditional gardens, amusements, and the town's historic pier site await.",
+  "description": "The stroll from Heacham to Hunstanton is a refreshing three-mile coastal journey that offers some of the most unique views in Norfolk. Starting at the wide, sandy expanse of Heacham North Beach, you can choose to walk directly on the firm sand at low tide or follow the level, paved sea defence path that runs parallel to the shore. As you head north, the open waters of The Wash stay to your left, providing a rare opportunity on the east coast to see the sun set directly over the sea. The landscape gradually transitions from the quiet, marram-grass dunes of Heacham toward the more bustling Victorian charm of Hunstanton. Along the way, you pass through the South Beach area before the striking striped cliffs\u2014composed of layers of red and white chalk\u2014begin to rise in the distance. The walk concludes as you reach the lively Hunstanton Promenade, where traditional gardens, amusements, and the town's historic pier site await.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/S0rX1b95C-Q?si=I1Hy_pZIjrLU5iy4",
   "postcode": "PE31 7BD",
   "county": "Norfolk",
   "region": "Eastern",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "sandy"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

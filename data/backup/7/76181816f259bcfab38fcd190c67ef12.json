@@ -1,29 +1,47 @@
 {
-    "created_at": "2026-10-22T21:33:34.617672+00:00",
-    "objectID": "76181816f259bcfab38fcd190c67ef12",
-    "ref": "erie-canal-trail-pittsford-to-fairport-walk",
-    "title": "Erie Canal Trail Pittsford to Fairport Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg/500px-Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg?20220912044009",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/76181816f259bcfab38fcd190c67ef12.gpx",
-    "_geoloc": {
-        "lat": 43.09272,
-        "lng": -77.51413
+  "created_at": "2026-10-22T21:33:34.617672+00:00",
+  "objectID": "76181816f259bcfab38fcd190c67ef12",
+  "ref": "erie-canal-trail-pittsford-to-fairport-walk",
+  "title": "Erie Canal Trail Pittsford to Fairport Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg/500px-Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg?20220912044009",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/76181816f259bcfab38fcd190c67ef12.gpx",
+  "_geoloc": {
+    "lat": 43.09272,
+    "lng": -77.51413
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg",
+      "title": "Andre Carrotflower, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Schoen Place from Carpenter Park, Pittsford, New York"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Schoen_Place_from_Carpenter_Park%2C_Pittsford%2C_New_York_-_20220904.jpg",
-            "title": "Andre Carrotflower, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Schoen Place from Carpenter Park, Pittsford, New York"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lift_Bridge_at_Fairport_on_the_Erie_Canal_%289279964518%29.jpg",
-            "title": "Adventure George, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Lift Bridge at Fairport on the Erie Canal"
-        }
-    ],
-    "distance_km": 11.5,
-    "description": "Begin your journey in the charming Village of Pittsford, where the towpath meets the historic stone Pittsford Aqueduct, one of the oldest surviving aqueducts on the Erie Canal. From here, follow the flat, well maintained path eastward alongside the canal, passing quaint lockhouses and the scenic Turtle Creek junction. Before you set off, you might explore the boutique shops and cafés of Pittsford Village or visit nearby Sonnenberg Gardens, a Gilded Age estate with formal gardens and conservatories. As you continue toward Fairport, the towpath skirts peaceful wetlands where you can spot herons and kingfishers. Midway, stop at the Erie Canal Museum in nearby Rochester to learn about the canal’s engineering marvels and 19th century history. The gentle scenery of rolling fields and historic canal infrastructure makes this section ideal for a leisurely stroll or a relaxed bike ride. Approaching Fairport, the canal’s industrial heritage gives way to the vibrant Fairport Village, known as the “Crown Jewel of the Erie Canal.” Here you can wander the marina, enjoy waterside dining at the lift bridge, or explore the Fairport Historical Museum for local tales of canal life. The route ends at the iconic Lift Bridge Park, where you can watch historic vessels pass through and reflect on a scenic 6 mile journey along one of America’s most famous waterways.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/4NgaR3H4DAY?si=BLiirFwd8dLaG57w",
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lift_Bridge_at_Fairport_on_the_Erie_Canal_%289279964518%29.jpg",
+      "title": "Adventure George, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Lift Bridge at Fairport on the Erie Canal"
+    }
+  ],
+  "distance_km": 11.5,
+  "description": "Begin your journey in the charming Village of Pittsford, where the towpath meets the historic stone Pittsford Aqueduct, one of the oldest surviving aqueducts on the Erie Canal. From here, follow the flat, well maintained path eastward alongside the canal, passing quaint lockhouses and the scenic Turtle Creek junction. Before you set off, you might explore the boutique shops and caf\u00e9s of Pittsford Village or visit nearby Sonnenberg Gardens, a Gilded Age estate with formal gardens and conservatories. As you continue toward Fairport, the towpath skirts peaceful wetlands where you can spot herons and kingfishers. Midway, stop at the Erie Canal Museum in nearby Rochester to learn about the canal\u2019s engineering marvels and 19th century history. The gentle scenery of rolling fields and historic canal infrastructure makes this section ideal for a leisurely stroll or a relaxed bike ride. Approaching Fairport, the canal\u2019s industrial heritage gives way to the vibrant Fairport Village, known as the \u201cCrown Jewel of the Erie Canal.\u201d Here you can wander the marina, enjoy waterside dining at the lift bridge, or explore the Fairport Historical Museum for local tales of canal life. The route ends at the iconic Lift Bridge Park, where you can watch historic vessels pass through and reflect on a scenic 6 mile journey along one of America\u2019s most famous waterways.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/4NgaR3H4DAY?si=BLiirFwd8dLaG57w",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "3.5 to 4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "flat"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

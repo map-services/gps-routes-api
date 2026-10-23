@@ -68,7 +68,7 @@
     {
       "description": "Letterkenny Corrvaddy Forest Loop Walk",
       "objectID": "8937942574d7742607334e59c6446a69",
-      "ref": "letterkenny-corrvaddy forest-loop-walk"
+      "ref": "letterkenny-corrvaddy\u00a0forest-loop-walk"
     },
     {
       "description": "Lough Fern",
@@ -137,5 +137,22 @@
   "description": "This walk visits Lough Finn on the Fintown Railway. The Fintown Railway (known in Irish as An Mhuc Dhubh or \"The Black Pig\") is the only operational heritage railway in County Donegal, Ireland.Located in the village of Fintown (Baile na Finne), it offers a scenic 5km (3-mile) return trip on a restored section of the former County Donegal Railway, running along the shores of Lough Finn beneath the Aghla and Screig Mountains. From the Fintown station you can enjoy a stroll around Lough Finn with fine views over the water to the surrounding mountains.You can continue your walking in the area on theDungloe River Walk.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ehYmX6mVrwg?si=EaD7WEctfHo-rP32",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "heritage railway",
+    "lough"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,61 +1,77 @@
 {
-    "created_at": "2026-10-22T21:52:20.956831+00:00",
-    "objectID": "fa84547d4002092735eabab86f30e66a",
-    "ref": "purple-mountain-hike-walking-route",
-    "title": "Purple Mountain Hike Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Purple_Mountain_View%2C_Killarney.jpg/500px-Purple_Mountain_View%2C_Killarney.jpg?20070722175521",
-    "nearby": [
-        {
-            "description": "Kate Kearney's Cottage to Lord Brandons Cottage Walk",
-            "objectID": "dd3c743d67d04b9ac3f9b62ee1016603",
-            "ref": "lord-brandons-cottage-walk"
-        },
-        {
-            "description": "Gap of Dunloe",
-            "objectID": "3a68930895146e982cfd67a8788447ad",
-            "ref": "gap-of-dunloe-walking-route"
-        },
-        {
-            "description": "Carrauntoohil",
-            "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
-            "ref": "carrauntoohil-walking-route"
-        },
-        {
-            "description": "Tomies Wood Walk",
-            "objectID": "0dac7cd423463223812c3bfd5e52d8de",
-            "ref": "tomies-wood-walk"
-        },
-        {
-            "description": "Governor's Rock Killarney Walk",
-            "objectID": "443c973ca4e641cdc73fc3b3ab69d698",
-            "ref": "governor’s-rock-killarney-walk"
-        },
-        {
-            "description": "Lough Leane and Ross Castle",
-            "objectID": "d4590c5479bee012cc65a06a1131f049",
-            "ref": "lough-leane-and-ross-castle-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa84547d4002092735eabab86f30e66a.gpx",
-    "_geoloc": {
-        "lat": 51.994501,
-        "lng": -9.64412
+  "created_at": "2026-10-22T21:52:20.956831+00:00",
+  "objectID": "fa84547d4002092735eabab86f30e66a",
+  "ref": "purple-mountain-hike-walking-route",
+  "title": "Purple Mountain Hike Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Purple_Mountain_View%2C_Killarney.jpg/500px-Purple_Mountain_View%2C_Killarney.jpg?20070722175521",
+  "nearby": [
+    {
+      "description": "Kate Kearney's Cottage to Lord Brandons Cottage Walk",
+      "objectID": "dd3c743d67d04b9ac3f9b62ee1016603",
+      "ref": "lord-brandons-cottage-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Purple_Mountain_View%2C_Killarney.jpg",
-            "title": "mozzercork from Republic of Ireland, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Purple Mountain View, Killarney"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Walking_towards_summit_of_Purple_Mountain%2C_Kerry.jpg?20181029120608",
-            "title": "Stephen Hocker / Purple Mountain",
-            "caption": "Purple Mountain"
-        }
-    ],
-    "distance_km": 5.2,
-    "description": "This walk climbs Purple Mountain, one of the most striking peaks in County Kerry, rising above the Lakes of Killarney. The route offers expansive views across the Gap of Dunloe, Lough Leane, and the rugged MacGillycuddy’s Reeks. The mountain takes its name from the distinctive purple hue that appears on its slopes, particularly when the heather is in bloom. Starting near the Head of the Gap, the path ascends steadily over rough ground and open moorland before reaching the summit ridge. From the top, there are sweeping views over Killarney National Park, the Black Valley, and the surrounding peaks, including Carrauntoohil. The terrain is rocky in places, but the reward is a wide panorama of lakes, valleys, and mountains. You can continue your walking in the area by heading east to visit Lough Leane and Ross Castle .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/VW8jzdZaMiQ?si=Am5qxfZoeZnjFD_Z",
-    "gazetteer_found": false
+    {
+      "description": "Gap of Dunloe",
+      "objectID": "3a68930895146e982cfd67a8788447ad",
+      "ref": "gap-of-dunloe-walking-route"
+    },
+    {
+      "description": "Carrauntoohil",
+      "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
+      "ref": "carrauntoohil-walking-route"
+    },
+    {
+      "description": "Tomies Wood Walk",
+      "objectID": "0dac7cd423463223812c3bfd5e52d8de",
+      "ref": "tomies-wood-walk"
+    },
+    {
+      "description": "Governor's Rock Killarney Walk",
+      "objectID": "443c973ca4e641cdc73fc3b3ab69d698",
+      "ref": "governor\u2019s-rock-killarney-walk"
+    },
+    {
+      "description": "Lough Leane and Ross Castle",
+      "objectID": "d4590c5479bee012cc65a06a1131f049",
+      "ref": "lough-leane-and-ross-castle-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa84547d4002092735eabab86f30e66a.gpx",
+  "_geoloc": {
+    "lat": 51.994501,
+    "lng": -9.64412
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Purple_Mountain_View%2C_Killarney.jpg",
+      "title": "mozzercork from Republic of Ireland, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Purple Mountain View, Killarney"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Walking_towards_summit_of_Purple_Mountain%2C_Kerry.jpg?20181029120608",
+      "title": "Stephen Hocker / Purple Mountain",
+      "caption": "Purple Mountain"
+    }
+  ],
+  "distance_km": 5.2,
+  "description": "This walk climbs Purple Mountain, one of the most striking peaks in County Kerry, rising above the Lakes of Killarney. The route offers expansive views across the Gap of Dunloe, Lough Leane, and the rugged MacGillycuddy\u2019s Reeks. The mountain takes its name from the distinctive purple hue that appears on its slopes, particularly when the heather is in bloom. Starting near the Head of the Gap, the path ascends steadily over rough ground and open moorland before reaching the summit ridge. From the top, there are sweeping views over Killarney National Park, the Black Valley, and the surrounding peaks, including Carrauntoohil. The terrain is rocky in places, but the reward is a wide panorama of lakes, valleys, and mountains. You can continue your walking in the area by heading east to visit Lough Leane and Ross Castle .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/VW8jzdZaMiQ?si=Am5qxfZoeZnjFD_Z",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "rocky"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

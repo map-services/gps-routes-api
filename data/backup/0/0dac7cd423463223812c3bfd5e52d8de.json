@@ -16,9 +16,9 @@
       "ref": "muckross-lake-walking-route"
     },
     {
-      "description": "Governor’s Rock Killarney Walk",
+      "description": "Governor\u2019s Rock Killarney Walk",
       "objectID": "443c973ca4e641cdc73fc3b3ab69d698",
-      "ref": "governor’s-rock-killarney-walk"
+      "ref": "governor\u2019s-rock-killarney-walk"
     },
     {
       "description": "Purple Mountain Hike",
@@ -52,5 +52,21 @@
   "description": "This loop walk explores Tomies Wood in the Killarney National Park. The woods are located on the western side of Lough Leane and include miles of peaceful woodland trails and a pretty waterfall named O'Sullivan's Cascade. On the way you can also enjoy fine views across the expansive lake to Ross Castle on the other side. In the woods you'll find ancient oak woodlands with wildlife such including red squirrels to look out for. You can extend the walk by continuing south east to visit the nearby Muckross Lake .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/nhRAyiJCpg4?si=IKJOmrFU7ASnajVJ",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "lake",
+    "castle"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

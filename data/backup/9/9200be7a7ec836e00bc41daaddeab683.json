@@ -1,66 +1,83 @@
 {
-    "created_at": "2026-10-22T22:29:48.419543+00:00",
-    "objectID": "9200be7a7ec836e00bc41daaddeab683",
-    "ref": "barry-island-walk",
-    "title": "Barry Island Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg/500px-Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg?20110311211818",
-    "nearby": [
-        {
-            "description": "Cardiff Bay to Penarth Walk",
-            "objectID": "29775e754e3c9ed212920a04ac6f6231",
-            "ref": "cardiff-bay-to-penarth-walk-walking-route"
-        },
-        {
-            "description": "Cardiff Bay Trail",
-            "objectID": "9e477654f4bd662fdf026f492b1781f5",
-            "ref": "cardiff-bay-trail-walking-and-cycle-route"
-        },
-        {
-            "description": "Porthkerry Country Park",
-            "objectID": "a423e7e4a8b8e12a4de40aa2acbea027",
-            "ref": "porthkerry-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Rhoose Point Walk",
-            "objectID": "d49bf523a7061858565c8917fed73692",
-            "ref": "rhoose-point-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9200be7a7ec836e00bc41daaddeab683.gpx",
-    "_geoloc": {
-        "lat": 51.3918839299,
-        "lng": -3.2797758219
+  "created_at": "2026-10-22T22:29:48.419543+00:00",
+  "objectID": "9200be7a7ec836e00bc41daaddeab683",
+  "ref": "barry-island-walk",
+  "title": "Barry Island Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg/500px-Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg?20110311211818",
+  "nearby": [
+    {
+      "description": "Cardiff Bay to Penarth Walk",
+      "objectID": "29775e754e3c9ed212920a04ac6f6231",
+      "ref": "cardiff-bay-to-penarth-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg",
-            "title": "Roy Haworth / Looking over towards Nell's Point",
-            "caption": "Looking over towards Nell's Point"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Barry_-_Barry_Island_-_20220809160032.jpeg",
-            "title": "Ferdi2005, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Barry Island Beach"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Benches_with_shades_on_the_promenade_at_Whitmore_Bay_-_geograph.org.uk_-_5425606.jpg",
-            "title": "Benches with shades on the promenade at Whitmore Bay by Robert Eva, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Benches with shades on the promenade at Whitmore Bay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Remains_of_a_building_on_The_Promenade%2C_Barry_Island_-_geograph.org.uk_-_3827312.jpg?20220921112416",
-            "title": "Remains of a building on The Promenade, Barry Island by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Remains of a building on The Promenade, Barry Island"
-        }
-    ],
-    "distance_km": 4.2,
-    "description": "This walk explores the seaside resort of Barry Island in the Vale of Glamorgan. Starting from the car park near the Fun Park the route heads west to pick up a coastal stretch along Barry Harbour with views over Little Island Bay. You continue south to Friar's Point before turning east to pass along the sandy beach at Whitmore Bay. Around here you'll also pass the pretty Promenade Gardens where there are plenty of places to sit and enjoy the view over the Bristol Channel.The coastal path gives a good sense of the island’s varied shoreline, from rocky coves and tidal flats to the broad sweep of Whitmore Bay. In calmer conditions you may spot gulls, oystercatchers and cormorants feeding along the water’s edge, while the bay itself is often busy with swimmers and paddleboarders in summer. The path also offers fine views across the channel towards the Somerset coast, especially on clear days.The route then heads to Nell's Point before returning along Whitmore Bay to the car park. This section includes one of the best viewpoints on the island, with a raised grassy headland overlooking the beach and the open water beyond. It provides a fitting end to a short but varied coastal circuit taking in many of Barry Island’s most scenic spots.You can continue your walking around Barry Island by heading west to visitPorthkerry Country ParkandRhoose Point- the most southerly point of mainland Wales.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/RbHm76JpQuo?si=W5iTic8B6pzTVuNJ",
-    "postcode": "CF62 5BJ",
-    "district": "Barri / Barry",
-    "county": "Bro Morgannwg - the Vale of Glamorgan",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Cardiff Bay Trail",
+      "objectID": "9e477654f4bd662fdf026f492b1781f5",
+      "ref": "cardiff-bay-trail-walking-and-cycle-route"
+    },
+    {
+      "description": "Porthkerry Country Park",
+      "objectID": "a423e7e4a8b8e12a4de40aa2acbea027",
+      "ref": "porthkerry-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Rhoose Point Walk",
+      "objectID": "d49bf523a7061858565c8917fed73692",
+      "ref": "rhoose-point-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9200be7a7ec836e00bc41daaddeab683.gpx",
+  "_geoloc": {
+    "lat": 51.3918839299,
+    "lng": -3.2797758219
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Looking_over_towards_Nell%27s_Point_-_geograph.org.uk_-_1769961.jpg",
+      "title": "Roy Haworth / Looking over towards Nell's Point",
+      "caption": "Looking over towards Nell's Point"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Barry_-_Barry_Island_-_20220809160032.jpeg",
+      "title": "Ferdi2005, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Barry Island Beach"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Benches_with_shades_on_the_promenade_at_Whitmore_Bay_-_geograph.org.uk_-_5425606.jpg",
+      "title": "Benches with shades on the promenade at Whitmore Bay by Robert Eva, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Benches with shades on the promenade at Whitmore Bay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Remains_of_a_building_on_The_Promenade%2C_Barry_Island_-_geograph.org.uk_-_3827312.jpg?20220921112416",
+      "title": "Remains of a building on The Promenade, Barry Island by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Remains of a building on The Promenade, Barry Island"
+    }
+  ],
+  "distance_km": 4.2,
+  "description": "This walk explores the seaside resort of Barry Island in the Vale of Glamorgan. Starting from the car park near the Fun Park the route heads west to pick up a coastal stretch along Barry Harbour with views over Little Island Bay. You continue south to Friar's Point before turning east to pass along the sandy beach at Whitmore Bay. Around here you'll also pass the pretty Promenade Gardens where there are plenty of places to sit and enjoy the view over the Bristol Channel.The coastal path gives a good sense of the island\u2019s varied shoreline, from rocky coves and tidal flats to the broad sweep of Whitmore Bay. In calmer conditions you may spot gulls, oystercatchers and cormorants feeding along the water\u2019s edge, while the bay itself is often busy with swimmers and paddleboarders in summer. The path also offers fine views across the channel towards the Somerset coast, especially on clear days.The route then heads to Nell's Point before returning along Whitmore Bay to the car park. This section includes one of the best viewpoints on the island, with a raised grassy headland overlooking the beach and the open water beyond. It provides a fitting end to a short but varied coastal circuit taking in many of Barry Island\u2019s most scenic spots.You can continue your walking around Barry Island by heading west to visitPorthkerry Country ParkandRhoose Point- the most southerly point of mainland Wales.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/RbHm76JpQuo?si=W5iTic8B6pzTVuNJ",
+  "postcode": "CF62 5BJ",
+  "district": "Barri / Barry",
+  "county": "Bro Morgannwg - the Vale of Glamorgan",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "sandy beach"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,61 +1,76 @@
 {
-    "created_at": "2026-10-22T22:33:09.415274+00:00",
-    "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
-    "ref": "castlerea-park-and-river-walk",
-    "title": "Castlerea Park and River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg/500px-Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg?_=20240709101248",
-    "nearby": [
-        {
-            "description": "Errit Lough",
-            "objectID": "5c073a07684a9f05e47c3ea61071e1e6",
-            "ref": "errit-lough-walking-route"
-        },
-        {
-            "description": "Doughill Forest Trail",
-            "objectID": "06c3fb9f9397f76d1e0d3b67b2094c31",
-            "ref": "doughill-forest-trail-walking-route"
-        },
-        {
-            "description": "Annaghmore Lough",
-            "objectID": "2d62105af8bdf987924ff0cefee2c79f",
-            "ref": "annaghmore-lough-walking-route"
-        },
-        {
-            "description": "Lough O Flynn",
-            "objectID": "30dce3a9b2f2e59c1033877281c7749e",
-            "ref": "lough-o-flynn-walking-route"
-        },
-        {
-            "description": "Knockma Castle Hacket Walk",
-            "objectID": "f2860b1cef6c24f35643fb8a7b9d6862",
-            "ref": "knockma-castle-hacket-walk"
-        },
-        {
-            "description": "Sliabh Bawn Walk",
-            "objectID": "2fe79571d951be1fb860d639abc6b5bd",
-            "ref": "sliabh-bawn-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f9a3aa169d31c1a59eec2e9634b3c25b.gpx",
-    "_geoloc": {
-        "lat": 53.7673841,
-        "lng": -8.4863484
+  "created_at": "2026-10-22T22:33:09.415274+00:00",
+  "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
+  "ref": "castlerea-park-and-river-walk",
+  "title": "Castlerea Park and River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg/500px-Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg?_=20240709101248",
+  "nearby": [
+    {
+      "description": "Errit Lough",
+      "objectID": "5c073a07684a9f05e47c3ea61071e1e6",
+      "ref": "errit-lough-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg",
-            "title": "Demesne Park Castlerea by Marie McAleer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Demesne Park Castlerea. The town is defined by its rich history and the lush landscapes of the Castlerea Demesne. This historic park, once the sprawling estate of the Sandford family, now serves as an oasis in the heart of the town with its expansive woodland trails and open parklands. The River Francis meanders through these grounds, offering peaceful riverside walks that eventually lead toward the River Suck and the Suck Valley Way, a significant long-distance trail that begins and ends in the town."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Castlerea_Main_Street.jpg",
-            "title": "Darren J. Prior, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Main Street, Castlerea, County Roscommon, Ireland. Within the Demesne, families and visitors can explore the enchanting Fairy Village, a whimsical garden area featuring tiny fairy houses and outdoor musical percussion instruments. The park is also home to more unusual landmarks, such as the memorial grave of Cindy the Elephant, a beloved local legend from a 1950s circus incident. Visitors can also view the historic walled garden, which is currently undergoing restoration to preserve its 200-year-old masonry and orchard."
-        }
-    ],
-    "distance_km": 1.5,
-    "description": "This pleasant circular walk explores the town of Castlerea in Country Roscommon. In the town you can enjoy an easy stroll around the historic Demesne which includes a fairy garden and nice riverside trails along the River Francis, a tributary of the River Shannon.  You can continue your walking near Castlerea at Errit Lough or Tubbercurry Forest. In the town there's also the River Suck which you can follow on the Suck Valley Way.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/BnHH-8BuaRg?si=ung4CEeiYU7jQDZC",
-    "gazetteer_found": false
+    {
+      "description": "Doughill Forest Trail",
+      "objectID": "06c3fb9f9397f76d1e0d3b67b2094c31",
+      "ref": "doughill-forest-trail-walking-route"
+    },
+    {
+      "description": "Annaghmore Lough",
+      "objectID": "2d62105af8bdf987924ff0cefee2c79f",
+      "ref": "annaghmore-lough-walking-route"
+    },
+    {
+      "description": "Lough O Flynn",
+      "objectID": "30dce3a9b2f2e59c1033877281c7749e",
+      "ref": "lough-o-flynn-walking-route"
+    },
+    {
+      "description": "Knockma Castle Hacket Walk",
+      "objectID": "f2860b1cef6c24f35643fb8a7b9d6862",
+      "ref": "knockma-castle-hacket-walk"
+    },
+    {
+      "description": "Sliabh Bawn Walk",
+      "objectID": "2fe79571d951be1fb860d639abc6b5bd",
+      "ref": "sliabh-bawn-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f9a3aa169d31c1a59eec2e9634b3c25b.gpx",
+  "_geoloc": {
+    "lat": 53.7673841,
+    "lng": -8.4863484
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Demesne_Park_Castlerea_-_geograph.org.uk_-_6462910.jpg",
+      "title": "Demesne Park Castlerea by Marie McAleer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Demesne Park Castlerea. The town is defined by its rich history and the lush landscapes of the Castlerea Demesne. This historic park, once the sprawling estate of the Sandford family, now serves as an oasis in the heart of the town with its expansive woodland trails and open parklands. The River Francis meanders through these grounds, offering peaceful riverside walks that eventually lead toward the River Suck and the Suck Valley Way, a significant long-distance trail that begins and ends in the town."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Castlerea_Main_Street.jpg",
+      "title": "Darren J. Prior, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Main Street, Castlerea, County Roscommon, Ireland. Within the Demesne, families and visitors can explore the enchanting Fairy Village, a whimsical garden area featuring tiny fairy houses and outdoor musical percussion instruments. The park is also home to more unusual landmarks, such as the memorial grave of Cindy the Elephant, a beloved local legend from a 1950s circus incident. Visitors can also view the historic walled garden, which is currently undergoing restoration to preserve its 200-year-old masonry and orchard."
+    }
+  ],
+  "distance_km": 1.5,
+  "description": "This pleasant circular walk explores the town of Castlerea in Country Roscommon. In the town you can enjoy an easy stroll around the historic Demesne which includes a fairy garden and nice riverside trails along the River Francis, a tributary of the River Shannon.  You can continue your walking near Castlerea at Errit Lough or Tubbercurry Forest. In the town there's also the River Suck which you can follow on the Suck Valley Way.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/BnHH-8BuaRg?si=ung4CEeiYU7jQDZC",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historic site",
+    "fairy garden"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

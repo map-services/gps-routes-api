@@ -1,66 +1,82 @@
 {
-    "created_at": "2026-10-22T22:50:03.561512+00:00",
-    "objectID": "b62ee155e8795ba327368296e47076b1",
-    "ref": "ravensdale-forest-loop-walking-route",
-    "title": "Ravensdale Forest Loop Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg/500px-Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg?_=20230706051952",
-    "nearby": [
-        {
-            "description": "Carlingford Lough Greenway",
-            "objectID": "48b49184a8cb039865eb74b4645242c2",
-            "ref": "carlingford-lough-greenway-walking-route"
-        },
-        {
-            "description": "Lough Neagh",
-            "objectID": "5a0b7c43db1a9209d3790edcae3cc6db",
-            "ref": "lough-neagh-cycle-route"
-        },
-        {
-            "description": "Carlingford Lough",
-            "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
-            "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
-        },
-        {
-            "description": "Camlough Lake",
-            "objectID": "0a04d8fde0bb8f21680e57b02733ba21",
-            "ref": "camlough-lake-walking-route"
-        },
-        {
-            "description": "Camlough Mountain",
-            "objectID": "29b6d8421ff58b93fa47f4057e50b7ec",
-            "ref": "camlough-mountain-walking-route"
-        },
-        {
-            "description": "Newry Canal",
-            "objectID": "0082cfb3ef5770ef3758f2b3d37fc43b",
-            "ref": "newry-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Tain Way",
-            "objectID": "fa363516369fcdf786480e51a8667182",
-            "ref": "tain-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b62ee155e8795ba327368296e47076b1.gpx",
-    "_geoloc": {
-        "lat": 54.07923,
-        "lng": -6.348191
+  "created_at": "2026-10-22T22:50:03.561512+00:00",
+  "objectID": "b62ee155e8795ba327368296e47076b1",
+  "ref": "ravensdale-forest-loop-walking-route",
+  "title": "Ravensdale Forest Loop Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg/500px-Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg?_=20230706051952",
+  "nearby": [
+    {
+      "description": "Carlingford Lough Greenway",
+      "objectID": "48b49184a8cb039865eb74b4645242c2",
+      "ref": "carlingford-lough-greenway-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg",
-            "title": "Black Mountain viewed across the Flurry Valley by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Black Mountain viewed across the Flurry Valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RavensdalePark_FairyFort_srgb.jpg",
-            "title": "DianeFeeley, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Ravensdale Park Fairy Fort"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "This waymarked circular walk explores Ravensdale Forest near the village of Ravensdale in County Louth. It's a lovely place for a peaceful walk with mixed woodland, mountain streams, and interesting archaeological sites. From the high points there are great views to Slieve Gullion, the Mourne Mountains, and the sea. It's great for wildlife with woodland birds, deer and red squirrels to look out for.The forest also contains interesting historical features, including a stone circle, standing stones, and old moss-covered bridges.You can continue your walking in the area on theTain Waywhich runs through the area. Head east and you could pick up theCarlingford Lough Greenwaywhich is suitable for cyclists and walkers.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/8SssIIEklIo?si=Qjxj4ZndJWhj4e48",
-    "gazetteer_found": false
+    {
+      "description": "Lough Neagh",
+      "objectID": "5a0b7c43db1a9209d3790edcae3cc6db",
+      "ref": "lough-neagh-cycle-route"
+    },
+    {
+      "description": "Carlingford Lough",
+      "objectID": "8ac64d262ab1dec770826f32a7a29d3b",
+      "ref": "carlingford-lough-and-slieve-foye-mountain-loop-walking-route"
+    },
+    {
+      "description": "Camlough Lake",
+      "objectID": "0a04d8fde0bb8f21680e57b02733ba21",
+      "ref": "camlough-lake-walking-route"
+    },
+    {
+      "description": "Camlough Mountain",
+      "objectID": "29b6d8421ff58b93fa47f4057e50b7ec",
+      "ref": "camlough-mountain-walking-route"
+    },
+    {
+      "description": "Newry Canal",
+      "objectID": "0082cfb3ef5770ef3758f2b3d37fc43b",
+      "ref": "newry-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Tain Way",
+      "objectID": "fa363516369fcdf786480e51a8667182",
+      "ref": "tain-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b62ee155e8795ba327368296e47076b1.gpx",
+  "_geoloc": {
+    "lat": 54.07923,
+    "lng": -6.348191
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Black_Mountain_viewed_across_the_Flurry_Valley_-_geograph.org.uk_-_5064234.jpg",
+      "title": "Black Mountain viewed across the Flurry Valley by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Black Mountain viewed across the Flurry Valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RavensdalePark_FairyFort_srgb.jpg",
+      "title": "DianeFeeley, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Ravensdale Park Fairy Fort"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "This waymarked circular walk explores Ravensdale Forest near the village of Ravensdale in County Louth. It's a lovely place for a peaceful walk with mixed woodland, mountain streams, and interesting archaeological sites. From the high points there are great views to Slieve Gullion, the Mourne Mountains, and the sea. It's great for wildlife with woodland birds, deer and red squirrels to look out for.The forest also contains interesting historical features, including a stone circle, standing stones, and old moss-covered bridges.You can continue your walking in the area on theTain Waywhich runs through the area. Head east and you could pick up theCarlingford Lough Greenwaywhich is suitable for cyclists and walkers.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/8SssIIEklIo?si=Qjxj4ZndJWhj4e48",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "archaeological site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

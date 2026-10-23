@@ -1,71 +1,89 @@
 {
-    "created_at": "2026-10-22T22:01:08.581258+00:00",
-    "objectID": "4ffd10c93b6ff6770515f8148d99a315",
-    "ref": "westwood-manor-iford-manor-and-friary-wood-walk",
-    "title": "Westwood Manor, Iford Manor and Friary Wood Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg/500px-Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg?20150815090056",
-    "nearby": [
-        {
-            "description": "Avoncliff",
-            "objectID": "1bf40dee4f228a46530eec76cbcd604b",
-            "ref": "avoncliff-walking-route"
-        },
-        {
-            "description": "Kennet and Avon Canal Walk",
-            "objectID": "0c879db862142efde19b17abd060ac05",
-            "ref": "kennet-and-avon-canal-walk-walking-route"
-        },
-        {
-            "description": "Bradford on Avon Canal and River Walk",
-            "objectID": "894b72e8509ad0d9282c08ad12367482",
-            "ref": "bradford-on-avon-canal-and-river-walk-walking-route"
-        },
-        {
-            "description": "Wellow and Stoney Littleton Long Barrow Circular Walk",
-            "objectID": "1a31dc187c2a12897f3e0bdd7a89bf1d",
-            "ref": "wellow-and-stoney-littleton-long-barrow-circular-walk"
-        },
-        {
-            "description": "Rode and Tellisford Weir River Walk",
-            "objectID": "d19b8b2990cc1d1a7de0a591c3227d9a",
-            "ref": "rode-and-tellisford-weir-river-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4ffd10c93b6ff6770515f8148d99a315.gpx",
-    "_geoloc": {
-        "lat": 51.3297401496,
-        "lng": -2.272254655
+  "created_at": "2026-10-22T22:01:08.581258+00:00",
+  "objectID": "4ffd10c93b6ff6770515f8148d99a315",
+  "ref": "westwood-manor-iford-manor-and-friary-wood-walk",
+  "title": "Westwood Manor, Iford Manor and Friary Wood Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg/500px-Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg?20150815090056",
+  "nearby": [
+    {
+      "description": "Avoncliff",
+      "objectID": "1bf40dee4f228a46530eec76cbcd604b",
+      "ref": "avoncliff-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg",
-            "title": "Virginia Knight / Topiary, Westwood Manor",
-            "caption": "Topiary, Westwood Manor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Iford_Manor_Garden_14.jpg",
-            "title": "Scott Wylie, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
-            "caption": "Iford is best known for its beautiful gardens, which are designated Grade I in the National Register of Historic Parks and Gardens by Historic England. They were designed during the early part of the twentieth century by the garden architect Harold Peto"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Iford%2C_River_Frome_-_geograph.org.uk_-_3907855.jpg",
-            "title": "Iford, River Frome by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Iford, River Frome"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Friary_Wood_in_Spring_-_geograph.org.uk_-_3962801.jpg",
-            "title": "Friary Wood in Spring by Colin Bews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Friary Wood in Spring"
-        }
-    ],
-    "distance_km": 7.6,
-    "description": "This varied circular walk explores the area around the Wiltshire village of Westwood. On the way you will visit the National Trusts's historic Westwood Manor, the lovely gardens at Iford Manor and the peaceful woodland trails at Friary Wood. There's also a pleasant riverside section along the River Frome which runs along the eastern side of the woods. The walk starts from Westwood Manor on the south eastern side of the village. This beautiful manor house was built over three centuries and includes late Gothic and Jacobean windows, decorative plasterwork and two important keyboard instruments. Outside there is also a pretty topiary garden. The route then heads west to visit Iford Manor. The manor is located in a lovely spot next to the River Frome and includes Grade I registered gardens that are open to the public from April to September each year. The Italian style gardens are a fine place for a stroll with a wide variety of interesting plants and flowers. From here the walk continues along the river into Friary Wood where there are miles of peaceful trails to try. The ancient woodland are a great place for wildlife with a variety of birds to look out for. Also keep your eyes peeled for kingfishers dippers and otters by the river. The village is located very close to Bradford-on-Avon where you can pick up the Bradford on Avon Canal and River Walk along the Kennet and Avon Canal Walk. The popular Avoncliff is also located nearby.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/2qC7HBxRmWU?si=9Fgv-rVOzkgXBPzu",
-    "postcode": "BA15 2AF",
-    "district": "Westwood",
-    "county": "Wiltshire",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Kennet and Avon Canal Walk",
+      "objectID": "0c879db862142efde19b17abd060ac05",
+      "ref": "kennet-and-avon-canal-walk-walking-route"
+    },
+    {
+      "description": "Bradford on Avon Canal and River Walk",
+      "objectID": "894b72e8509ad0d9282c08ad12367482",
+      "ref": "bradford-on-avon-canal-and-river-walk-walking-route"
+    },
+    {
+      "description": "Wellow and Stoney Littleton Long Barrow Circular Walk",
+      "objectID": "1a31dc187c2a12897f3e0bdd7a89bf1d",
+      "ref": "wellow-and-stoney-littleton-long-barrow-circular-walk"
+    },
+    {
+      "description": "Rode and Tellisford Weir River Walk",
+      "objectID": "d19b8b2990cc1d1a7de0a591c3227d9a",
+      "ref": "rode-and-tellisford-weir-river-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4ffd10c93b6ff6770515f8148d99a315.gpx",
+  "_geoloc": {
+    "lat": 51.3297401496,
+    "lng": -2.272254655
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Topiary%2C_Westwood_Manor_%28geograph_3679275%29.jpg",
+      "title": "Virginia Knight / Topiary, Westwood Manor",
+      "caption": "Topiary, Westwood Manor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Iford_Manor_Garden_14.jpg",
+      "title": "Scott Wylie, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "caption": "Iford is best known for its beautiful gardens, which are designated Grade I in the National Register of Historic Parks and Gardens by Historic England. They were designed during the early part of the twentieth century by the garden architect Harold Peto"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Iford%2C_River_Frome_-_geograph.org.uk_-_3907855.jpg",
+      "title": "Iford, River Frome by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Iford, River Frome"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Friary_Wood_in_Spring_-_geograph.org.uk_-_3962801.jpg",
+      "title": "Friary Wood in Spring by Colin Bews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Friary Wood in Spring"
+    }
+  ],
+  "distance_km": 7.6,
+  "description": "This varied circular walk explores the area around the Wiltshire village of Westwood. On the way you will visit the National Trusts's historic Westwood Manor, the lovely gardens at Iford Manor and the peaceful woodland trails at Friary Wood. There's also a pleasant riverside section along the River Frome which runs along the eastern side of the woods. The walk starts from Westwood Manor on the south eastern side of the village. This beautiful manor house was built over three centuries and includes late Gothic and Jacobean windows, decorative plasterwork and two important keyboard instruments. Outside there is also a pretty topiary garden. The route then heads west to visit Iford Manor. The manor is located in a lovely spot next to the River Frome and includes Grade I registered gardens that are open to the public from April to September each year. The Italian style gardens are a fine place for a stroll with a wide variety of interesting plants and flowers. From here the walk continues along the river into Friary Wood where there are miles of peaceful trails to try. The ancient woodland are a great place for wildlife with a variety of birds to look out for. Also keep your eyes peeled for kingfishers dippers and otters by the river. The village is located very close to Bradford-on-Avon where you can pick up the Bradford on Avon Canal and River Walk along the Kennet and Avon Canal Walk. The popular Avoncliff is also located nearby.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/2qC7HBxRmWU?si=9Fgv-rVOzkgXBPzu",
+  "postcode": "BA15 2AF",
+  "district": "Westwood",
+  "county": "Wiltshire",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "gardens"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

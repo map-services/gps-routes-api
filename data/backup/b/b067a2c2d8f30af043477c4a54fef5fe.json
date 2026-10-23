@@ -1,32 +1,48 @@
 {
-    "created_at": "2026-10-22T21:35:02.828336+00:00",
-    "objectID": "b067a2c2d8f30af043477c4a54fef5fe",
-    "ref": "freshford-to-bradford-on-avon-walking-route",
-    "title": "Freshford to Bradford on Avon Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg/500px-The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg?20210922041432",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b067a2c2d8f30af043477c4a54fef5fe.gpx",
-    "_geoloc": {
-        "lat": 51.3396945007,
-        "lng": -2.3029643443
+  "created_at": "2026-10-22T21:35:02.828336+00:00",
+  "objectID": "b067a2c2d8f30af043477c4a54fef5fe",
+  "ref": "freshford-to-bradford-on-avon-walking-route",
+  "title": "Freshford to Bradford on Avon Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg/500px-The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg?20210922041432",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b067a2c2d8f30af043477c4a54fef5fe.gpx",
+  "_geoloc": {
+    "lat": 51.3396945007,
+    "lng": -2.3029643443
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg",
+      "title": "The River Avon near Freshwater by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Kennet & Avon Canal"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_River_Avon_near_Freshwater_-_geograph.org.uk_-_2662460.jpg",
-            "title": "The River Avon near Freshwater by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Kennet & Avon Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bradford-on-Avon_-_Kennet_%26_Avon_Canal_-_geograph.org.uk_-_2629226.jpg?20210915174149",
-            "title": "Bradford-on-Avon - Kennet & Avon Canal by Chris Talbot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bradford-on-Avon"
-        }
-    ],
-    "distance_km": 4.2,
-    "description": "This walk takes you along the River Avon and the Kennet and Avon Canal from Freshford to Bradford on Avon. It's a nice easy waterside walk between two attractive settlements, running for a distance of just under 3 miles. On the way you can enjoy some fine views over the water to the surrounding countryside and woodland of the area.",
-    "details": [],
-    "district": "Freshford",
-    "county": "Bath and North East Somerset",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bradford-on-Avon_-_Kennet_%26_Avon_Canal_-_geograph.org.uk_-_2629226.jpg?20210915174149",
+      "title": "Bradford-on-Avon - Kennet & Avon Canal by Chris Talbot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bradford-on-Avon"
+    }
+  ],
+  "distance_km": 4.2,
+  "description": "This walk takes you along the River Avon and the Kennet and Avon Canal from Freshford to Bradford on Avon. It's a nice easy waterside walk between two attractive settlements, running for a distance of just under 3 miles. On the way you can enjoy some fine views over the water to the surrounding countryside and woodland of the area.",
+  "details": [],
+  "district": "Freshford",
+  "county": "Bath and North East Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "river",
+    "canal"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

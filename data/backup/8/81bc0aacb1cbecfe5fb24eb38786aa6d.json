@@ -1,50 +1,65 @@
 {
-    "created_at": "2026-10-22T21:33:14.536352+00:00",
-    "objectID": "81bc0aacb1cbecfe5fb24eb38786aa6d",
-    "ref": "elham-valley-way-circular-walk-walking-route",
-    "title": "Elham Valley Way Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg/500px-Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg?20250127205826",
-    "nearby": [
-        {
-            "description": "Elham Valley Way",
-            "objectID": "e4dbdff73305977f4869b2c5380d16fb",
-            "ref": "elham-valley-way-walking-route"
-        },
-        {
-            "description": "Royal Military Canal Path",
-            "objectID": "23ec92ee4698b0dd917d6b4b50ec3444",
-            "ref": "royal-military-canal-path-walking-route"
-        },
-        {
-            "description": "Brockhill Country Park",
-            "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
-            "ref": "brockhill-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/81bc0aacb1cbecfe5fb24eb38786aa6d.gpx",
-    "_geoloc": {
-        "lat": 51.0703299361,
-        "lng": 1.0835794503
+  "created_at": "2026-10-22T21:33:14.536352+00:00",
+  "objectID": "81bc0aacb1cbecfe5fb24eb38786aa6d",
+  "ref": "elham-valley-way-circular-walk-walking-route",
+  "title": "Elham Valley Way Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg/500px-Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg?20250127205826",
+  "nearby": [
+    {
+      "description": "Elham Valley Way",
+      "objectID": "e4dbdff73305977f4869b2c5380d16fb",
+      "ref": "elham-valley-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg",
-            "title": "Elham Valley Way by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Elham Valley Way"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Grazing_land_to_the_SE_of_the_footpath%2C_the_Elham_Valley_Way_-_geograph.org.uk_-_975411.jpg?20110222202817",
-            "title": "Nick Smith / Grazing land to the SE of the footpath, the Elham Valley Way",
-            "caption": "Grazing land to the SE of the footpath, the Elham Valley Way"
-        }
-    ],
-    "distance_km": 19.0,
-    "description": "This route around Hythe uses the Elham Valley Way to create a circular walk around the town. You'll follow the waymarked trail north from Hythe into the surrounding countryside before returning to the coast via Brockhill Country Park and the Royal Military Canal Path. The trail uses good, waymarked paths additionally visiting Etchinghill and Ashley Wood. There are some splendid views over the countryside and coast to enjoy from the high points.",
-    "details": [],
-    "postcode": "CT21 5NS",
-    "district": "Hythe",
-    "county": "Kent",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Royal Military Canal Path",
+      "objectID": "23ec92ee4698b0dd917d6b4b50ec3444",
+      "ref": "royal-military-canal-path-walking-route"
+    },
+    {
+      "description": "Brockhill Country Park",
+      "objectID": "fbbcb463fe7609eb17c7a1c633c9edbc",
+      "ref": "brockhill-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/81bc0aacb1cbecfe5fb24eb38786aa6d.gpx",
+  "_geoloc": {
+    "lat": 51.0703299361,
+    "lng": 1.0835794503
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Elham_Valley_Way_-_geograph.org.uk_-_7292497.jpg",
+      "title": "Elham Valley Way by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Elham Valley Way"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Grazing_land_to_the_SE_of_the_footpath%2C_the_Elham_Valley_Way_-_geograph.org.uk_-_975411.jpg?20110222202817",
+      "title": "Nick Smith / Grazing land to the SE of the footpath, the Elham Valley Way",
+      "caption": "Grazing land to the SE of the footpath, the Elham Valley Way"
+    }
+  ],
+  "distance_km": 19.0,
+  "description": "This route around Hythe uses the Elham Valley Way to create a circular walk around the town. You'll follow the waymarked trail north from Hythe into the surrounding countryside before returning to the coast via Brockhill Country Park and the Royal Military Canal Path. The trail uses good, waymarked paths additionally visiting Etchinghill and Ashley Wood. There are some splendid views over the countryside and coast to enjoy from the high points.",
+  "details": [],
+  "postcode": "CT21 5NS",
+  "district": "Hythe",
+  "county": "Kent",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "6-7 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Course_of_an_abandoned_railway_line_in_Trevor_-_geograph.org.uk_-_8191915.jpg",
       "title": "Course of an abandoned railway line in Trevor by Jeremy Bolwell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Course of an abandoned railway line in Trevor. The Ruabon–Barmouth line was a scenic 54-mile standard-gauge railway that once linked northeast Wales to the west coast. Though it fell victim to the Beeching Axe and closed to passengers on 18 January 1965, parts of its legacy survive today through preserved railways and recreational trails"
+      "caption": "Course of an abandoned railway line in Trevor. The Ruabon\u2013Barmouth line was a scenic 54-mile standard-gauge railway that once linked northeast Wales to the west coast. Though it fell victim to the Beeching Axe and closed to passengers on 18 January 1965, parts of its legacy survive today through preserved railways and recreational trails"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Llangollen_Canal_at_Trevor_-_geograph.org.uk_-_4988885.jpg/960px-Llangollen_Canal_at_Trevor_-_geograph.org.uk_-_4988885.jpg",
@@ -45,5 +45,20 @@
   "county": "Wrecsam - Wrexham",
   "region": "Wales",
   "country": "Wales",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "aqueduct"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,65 +1,80 @@
 {
-    "created_at": "2026-10-22T21:51:37.449809+00:00",
-    "objectID": "ce86a2ba3254d83593d06c6ea9ee0da0",
-    "ref": "porlock-to-lynmouth-walk",
-    "title": "Porlock to Lynmouth and Lynton Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg/500px-West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg?20210901172428",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Foreland Point Lighthouse Walk",
-            "objectID": "5907da1aec4f6128f0f80211a76d01f0",
-            "ref": "foreland-point-walking-route"
-        },
-        {
-            "description": "Lynmouth to Valley Of The Rocks Walk",
-            "objectID": "6f5a6f89f2487ad018037b18bdd9b384",
-            "ref": "lynmouth-to-valley-of-the-rocks-walk"
-        },
-        {
-            "description": "Combe Martin to Lynton Coastal Walk",
-            "objectID": "697ba0f0db04aaada4c6328ee359e657",
-            "ref": "combe-martin-to-lynton-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce86a2ba3254d83593d06c6ea9ee0da0.gpx",
-    "_geoloc": {
-        "lat": 51.2082950222,
-        "lng": -3.5953158579
+  "created_at": "2026-10-22T21:51:37.449809+00:00",
+  "objectID": "ce86a2ba3254d83593d06c6ea9ee0da0",
+  "ref": "porlock-to-lynmouth-walk",
+  "title": "Porlock to Lynmouth and Lynton Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg/500px-West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg?20210901172428",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg",
-            "title": "West Somerset : West Porlock by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "West Somerset : West Porlock"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lynmouth_port_vue_ville.jpg",
-            "title": "Velvet, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Lynmouth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Foreland_Point_lighthouse_-_geograph.org.uk_-_457819.jpg?20110204145807",
-            "title": "Christopher Ware, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Foreland Point. Foreland Point is a dramatic and rugged headland in Devon, marking the most northerly point along the Devon and Exmoor coast. Owned largely by the National Trust, this striking promontory juts out into the Bristol Channel, offering breathtaking panoramic views that stretch across Lynmouth Bay and along the Exmoor coastline. The landscape here is characterised by towering cliffs, with the highest reaching nearly 90 metres, and is part of a Marine Conservation Zone, highlighting its ecological significance. For walkers, Foreland Point is a truly invigorating experience, forming a challenging but rewarding section of the South West Coast Path. Visitors can explore the area, taking in the dramatic coastal scenery and the impressive Lynmouth Foreland Lighthouse, which has stood sentinel here since 1900. The paths can be steep and adventurous, particularly the \"goat track\" around the very tip of the point, but alternative, gentler routes are available, ensuring that the stunning vistas and wild beauty of this iconic Exmoor landmark are accessible to many."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/View_from_Foreland_Point_towards_Hurlstone_Point_-_geograph.org.uk_-_73889.jpg?20100130203923",
-            "title": "Grant Sherman / View from Foreland Point towards Hurlstone Point",
-            "caption": "View from Foreland Point towards Hurlstone Point"
-        }
-    ],
-    "distance_km": 20.2,
-    "description": "This walk follows a section of the South West Coast Path from Porlock to Lynmouth and Lynton. The route runs for about 12.5 miles following the undulating cliff top path in a westerly direction. On the way you will pass Culbone Wood and Foreland Point where there are some tremendous coastal views and a photogenic lighthouse to see. The path includes some moderate climbs so a reasonable level of fitness is required. You'll finish in the delightful settlements of Lynmouth and Lynton where there are some pretty coastal dwellings, lovely beaches and riverside walks.",
-    "details": [],
-    "postcode": "TA24 8LB",
-    "district": "Porlock",
-    "county": "Somerset",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Foreland Point Lighthouse Walk",
+      "objectID": "5907da1aec4f6128f0f80211a76d01f0",
+      "ref": "foreland-point-walking-route"
+    },
+    {
+      "description": "Lynmouth to Valley Of The Rocks Walk",
+      "objectID": "6f5a6f89f2487ad018037b18bdd9b384",
+      "ref": "lynmouth-to-valley-of-the-rocks-walk"
+    },
+    {
+      "description": "Combe Martin to Lynton Coastal Walk",
+      "objectID": "697ba0f0db04aaada4c6328ee359e657",
+      "ref": "combe-martin-to-lynton-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce86a2ba3254d83593d06c6ea9ee0da0.gpx",
+  "_geoloc": {
+    "lat": 51.2082950222,
+    "lng": -3.5953158579
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/West_Somerset_%2C_West_Porlock_-_geograph.org.uk_-_2556764.jpg",
+      "title": "West Somerset : West Porlock by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "West Somerset : West Porlock"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lynmouth_port_vue_ville.jpg",
+      "title": "Velvet, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Lynmouth"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Foreland_Point_lighthouse_-_geograph.org.uk_-_457819.jpg?20110204145807",
+      "title": "Christopher Ware, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Foreland Point. Foreland Point is a dramatic and rugged headland in Devon, marking the most northerly point along the Devon and Exmoor coast. Owned largely by the National Trust, this striking promontory juts out into the Bristol Channel, offering breathtaking panoramic views that stretch across Lynmouth Bay and along the Exmoor coastline. The landscape here is characterised by towering cliffs, with the highest reaching nearly 90 metres, and is part of a Marine Conservation Zone, highlighting its ecological significance. For walkers, Foreland Point is a truly invigorating experience, forming a challenging but rewarding section of the South West Coast Path. Visitors can explore the area, taking in the dramatic coastal scenery and the impressive Lynmouth Foreland Lighthouse, which has stood sentinel here since 1900. The paths can be steep and adventurous, particularly the \"goat track\" around the very tip of the point, but alternative, gentler routes are available, ensuring that the stunning vistas and wild beauty of this iconic Exmoor landmark are accessible to many."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/View_from_Foreland_Point_towards_Hurlstone_Point_-_geograph.org.uk_-_73889.jpg?20100130203923",
+      "title": "Grant Sherman / View from Foreland Point towards Hurlstone Point",
+      "caption": "View from Foreland Point towards Hurlstone Point"
+    }
+  ],
+  "distance_km": 20.2,
+  "description": "This walk follows a section of the South West Coast Path from Porlock to Lynmouth and Lynton. The route runs for about 12.5 miles following the undulating cliff top path in a westerly direction. On the way you will pass Culbone Wood and Foreland Point where there are some tremendous coastal views and a photogenic lighthouse to see. The path includes some moderate climbs so a reasonable level of fitness is required. You'll finish in the delightful settlements of Lynmouth and Lynton where there are some pretty coastal dwellings, lovely beaches and riverside walks.",
+  "details": [],
+  "postcode": "TA24 8LB",
+  "district": "Porlock",
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "lighthouse"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

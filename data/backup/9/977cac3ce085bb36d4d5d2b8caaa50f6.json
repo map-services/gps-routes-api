@@ -1,31 +1,47 @@
 {
-    "created_at": "2026-10-22T21:49:02.290585+00:00",
-    "objectID": "977cac3ce085bb36d4d5d2b8caaa50f6",
-    "ref": "mwnt-to-gwbert-and-cardigan-coastal-path-walking-route",
-    "title": "Mwnt to Gwbert And Cardigan Coastal Path Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg/500px-Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg?20240701065329",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/977cac3ce085bb36d4d5d2b8caaa50f6.gpx",
-    "_geoloc": {
-        "lat": 52.13588,
-        "lng": -4.63899
+  "created_at": "2026-10-22T21:49:02.290585+00:00",
+  "objectID": "977cac3ce085bb36d4d5d2b8caaa50f6",
+  "ref": "mwnt-to-gwbert-and-cardigan-coastal-path-walking-route",
+  "title": "Mwnt to Gwbert And Cardigan Coastal Path Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg/500px-Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg?20240701065329",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/977cac3ce085bb36d4d5d2b8caaa50f6.gpx",
+  "_geoloc": {
+    "lat": 52.13588,
+    "lng": -4.63899
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg",
+      "title": "Llywelyn2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Mwnt, Ceredigion, Wales"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mwnt%2C_Ceredigion%2C_gydag_Eglwys_y_Grog%2C_y_traeth_a_Foel-y-Mwnt_-_Mwnt%2C_Ceredigion%2C_Wales_100.jpg",
-            "title": "Llywelyn2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Mwnt, Ceredigion, Wales"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cliff_scenery_at_Gwbert.jpg",
-            "title": "Richard Law / Cliff scenery at Gwbert",
-            "caption": "Cliff scenery at Gwbert"
-        }
-    ],
-    "distance_km": 11.0,
-    "description": "This walk takes you from the lovely beach at Mwnt to the neighbouring settlements of Gwbert and Cardigan. The walk runs for around 7 miles mainly following the stunning Ceredigion coast but with a section through the countryside around Gwbert. Along the way you can enjoy wonderful sea views, look out for a variety of sea birds and see some wonderful cliff top rock formations.",
-    "details": [],
-    "county": "Sir Ceredigion - Ceredigion",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cliff_scenery_at_Gwbert.jpg",
+      "title": "Richard Law / Cliff scenery at Gwbert",
+      "caption": "Cliff scenery at Gwbert"
+    }
+  ],
+  "distance_km": 11.0,
+  "description": "This walk takes you from the lovely beach at Mwnt to the neighbouring settlements of Gwbert and Cardigan. The walk runs for around 7 miles mainly following the stunning Ceredigion coast but with a section through the countryside around Gwbert. Along the way you can enjoy wonderful sea views, look out for a variety of sea birds and see some wonderful cliff top rock formations.",
+  "details": [],
+  "county": "Sir Ceredigion - Ceredigion",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "beach",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

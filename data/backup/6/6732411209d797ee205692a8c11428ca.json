@@ -1,43 +1,62 @@
 {
-    "created_at": "2026-10-22T21:30:14.398169+00:00",
-    "objectID": "6732411209d797ee205692a8c11428ca",
-    "ref": "criccieth-to-pwllheli-walking-route",
-    "title": "Criccieth to Pwllheli Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Criccieth_beach.JPG/500px-Criccieth_beach.JPG?20091229193440",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6732411209d797ee205692a8c11428ca.gpx",
-    "_geoloc": {
-        "lat": 52.9175764223,
-        "lng": -4.2320026307
+  "created_at": "2026-10-22T21:30:14.398169+00:00",
+  "objectID": "6732411209d797ee205692a8c11428ca",
+  "ref": "criccieth-to-pwllheli-walking-route",
+  "title": "Criccieth to Pwllheli Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Criccieth_beach.JPG/500px-Criccieth_beach.JPG?20091229193440",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6732411209d797ee205692a8c11428ca.gpx",
+  "_geoloc": {
+    "lat": 52.9175764223,
+    "lng": -4.2320026307
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Criccieth_beach.JPG",
+      "title": "James@hopgrove at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Criccieth beach"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Criccieth_beach.JPG",
-            "title": "James@hopgrove at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Criccieth beach"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Footpath_behind_the_dunes_at_Morfa_Abererch_-_geograph.org.uk_-_1074842.jpg?20110224071754",
-            "title": "OLU, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footpath behind the dunes at Morfa Abererch"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_marina_at_Pwllheli_-_geograph.org.uk_-_5244223.jpg",
-            "title": "The marina at Pwllheli by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The marina at Pwllheli"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_beach_at_Pwllheli_-_geograph.org.uk_-_5246075.jpg",
-            "title": "The beach at Pwllheli by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The beach at Pwllheli"
-        }
-    ],
-    "distance_km": 17.7,
-    "description": "This walk follows a section of the Wales Coast Path from Criccieth to Pwllheli. The route runs for about 11 miles along the well signposted path with some splendid coastal views and fine beaches along the way. Starting from Criccieth, with its imposing castle as a backdrop, the path heads west, often following the coastline with views across the bays. Later you'll pass along the lovely beaches and sand dunes at Morfa Abererch. As you approach Pwllheli, the path leads along the expansive Pwllheli Marina, one of the largest in Wales. The final stretch brings you into the bustling market town of Pwllheli, with its harbor, beaches, and town centre.",
-    "details": [],
-    "postcode": "LL52 0DL",
-    "district": "Cricieth / Criccieth",
-    "county": "Gwynedd - Gwynedd",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Footpath_behind_the_dunes_at_Morfa_Abererch_-_geograph.org.uk_-_1074842.jpg?20110224071754",
+      "title": "OLU, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footpath behind the dunes at Morfa Abererch"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_marina_at_Pwllheli_-_geograph.org.uk_-_5244223.jpg",
+      "title": "The marina at Pwllheli by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The marina at Pwllheli"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/The_beach_at_Pwllheli_-_geograph.org.uk_-_5246075.jpg",
+      "title": "The beach at Pwllheli by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The beach at Pwllheli"
+    }
+  ],
+  "distance_km": 17.7,
+  "description": "This walk follows a section of the Wales Coast Path from Criccieth to Pwllheli. The route runs for about 11 miles along the well signposted path with some splendid coastal views and fine beaches along the way. Starting from Criccieth, with its imposing castle as a backdrop, the path heads west, often following the coastline with views across the bays. Later you'll pass along the lovely beaches and sand dunes at Morfa Abererch. As you approach Pwllheli, the path leads along the expansive Pwllheli Marina, one of the largest in Wales. The final stretch brings you into the bustling market town of Pwllheli, with its harbor, beaches, and town centre.",
+  "details": [],
+  "postcode": "LL52 0DL",
+  "district": "Cricieth / Criccieth",
+  "county": "Gwynedd - Gwynedd",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "castle",
+    "beach",
+    "marina",
+    "harbor"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

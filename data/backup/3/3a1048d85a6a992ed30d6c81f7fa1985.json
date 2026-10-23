@@ -1,45 +1,61 @@
 {
-    "created_at": "2026-10-22T21:51:44.375760+00:00",
-    "objectID": "3a1048d85a6a992ed30d6c81f7fa1985",
-    "ref": "porthgain-to-abercastle-coastal-walk",
-    "title": "Porthgain to Abercastle Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg/500px-Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg?20250127020203",
-    "nearby": [
-        {
-            "description": "Pembrokeshire Coast Path",
-            "objectID": "ad6d6081a04362874fc894b50c9a12b7",
-            "ref": "pembrokeshire-coast-path-walking-route"
-        },
-        {
-            "description": "St Davids to Whitesands Bay Walk",
-            "objectID": "bba46f33fcfe8c7c53276698b967168a",
-            "ref": "st-davids-to-whitesands-bay-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3a1048d85a6a992ed30d6c81f7fa1985.gpx",
-    "_geoloc": {
-        "lat": 51.9501271782,
-        "lng": -5.1802653118
+  "created_at": "2026-10-22T21:51:44.375760+00:00",
+  "objectID": "3a1048d85a6a992ed30d6c81f7fa1985",
+  "ref": "porthgain-to-abercastle-coastal-walk",
+  "title": "Porthgain to Abercastle Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg/500px-Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg?20250127020203",
+  "nearby": [
+    {
+      "description": "Pembrokeshire Coast Path",
+      "objectID": "ad6d6081a04362874fc894b50c9a12b7",
+      "ref": "pembrokeshire-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg",
-            "title": "Porthgain Harbour by Nigel Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Porthgain Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Abercastle.JPG",
-            "title": "Thruxton, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
-            "caption": "Abercastle. A picturesque cove and village, with a beach of muddy sand and shingle, sheltered from the prevailing winds provide a safe harbour."
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This walk takes you along a lovely section of the Pembrokeshire Coast Path from Porthgain to Abercastle. You'll follow a waymarked cliff top path for a distance of just under 4 miles. The route involves some small climbs but is generally not too challenging. You can start at the public parking area in Porthgain and then head east along the path, passing Trefin before coming to Abercastle. On the way you will enjoy some wonderful sea views and can look out for a variety of coastal birdlife. To continue your walking in the area head south on the Porthgain to Whitesands Walk .",
-    "details": [],
-    "postcode": "SA62 5BN",
-    "district": "Porthgain",
-    "county": "Sir Benfro - Pembrokeshire",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "St Davids to Whitesands Bay Walk",
+      "objectID": "bba46f33fcfe8c7c53276698b967168a",
+      "ref": "st-davids-to-whitesands-bay-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3a1048d85a6a992ed30d6c81f7fa1985.gpx",
+  "_geoloc": {
+    "lat": 51.9501271782,
+    "lng": -5.1802653118
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Porthgain_Harbour_-_geograph.org.uk_-_7287463.jpg",
+      "title": "Porthgain Harbour by Nigel Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Porthgain Harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Abercastle.JPG",
+      "title": "Thruxton, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "caption": "Abercastle. A picturesque cove and village, with a beach of muddy sand and shingle, sheltered from the prevailing winds provide a safe harbour."
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This walk takes you along a lovely section of the Pembrokeshire Coast Path from Porthgain to Abercastle. You'll follow a waymarked cliff top path for a distance of just under 4 miles. The route involves some small climbs but is generally not too challenging. You can start at the public parking area in Porthgain and then head east along the path, passing Trefin before coming to Abercastle. On the way you will enjoy some wonderful sea views and can look out for a variety of coastal birdlife. To continue your walking in the area head south on the Porthgain to Whitesands Walk .",
+  "details": [],
+  "postcode": "SA62 5BN",
+  "district": "Porthgain",
+  "county": "Sir Benfro - Pembrokeshire",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

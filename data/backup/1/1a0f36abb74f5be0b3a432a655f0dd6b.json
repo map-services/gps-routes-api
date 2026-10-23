@@ -1,56 +1,75 @@
 {
-    "created_at": "2026-10-22T21:34:11.943518+00:00",
-    "objectID": "1a0f36abb74f5be0b3a432a655f0dd6b",
-    "ref": "farleigh-hungerford-and-westwood-circular-walk",
-    "title": "Farleigh Hungerford and Westwood Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Farleigh_Hungerford_Castle_16.JPG/500px-Farleigh_Hungerford_Castle_16.JPG?20140901122006",
-    "nearby": [
-        {
-            "description": "Kennet and Avon Canal Walk",
-            "objectID": "0c879db862142efde19b17abd060ac05",
-            "ref": "kennet-and-avon-canal-walk-walking-route"
-        },
-        {
-            "description": "Westwood Manor, Iford Manor and Friary Wood Walk",
-            "objectID": "4ffd10c93b6ff6770515f8148d99a315",
-            "ref": "westwood-manor-iford-manor-and-friary-wood-walk"
-        },
-        {
-            "description": "Wellow and Stoney Littleton Long Barrow Circular Walk",
-            "objectID": "1a31dc187c2a12897f3e0bdd7a89bf1d",
-            "ref": "wellow-and-stoney-littleton-long-barrow-circular-walk"
-        },
-        {
-            "description": "Rode and Tellisford Weir River Walk",
-            "objectID": "d19b8b2990cc1d1a7de0a591c3227d9a",
-            "ref": "rode-and-tellisford-weir-river-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a0f36abb74f5be0b3a432a655f0dd6b.gpx",
-    "_geoloc": {
-        "lat": 51.3172656569,
-        "lng": -2.2875696173
+  "created_at": "2026-10-22T21:34:11.943518+00:00",
+  "objectID": "1a0f36abb74f5be0b3a432a655f0dd6b",
+  "ref": "farleigh-hungerford-and-westwood-circular-walk",
+  "title": "Farleigh Hungerford and Westwood Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Farleigh_Hungerford_Castle_16.JPG/500px-Farleigh_Hungerford_Castle_16.JPG?20140901122006",
+  "nearby": [
+    {
+      "description": "Kennet and Avon Canal Walk",
+      "objectID": "0c879db862142efde19b17abd060ac05",
+      "ref": "kennet-and-avon-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Farleigh_Hungerford_Castle_16.JPG",
-            "title": "Rodw, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Farleigh Hungerford Castle. Construction on the castle began in the 1370s under Sir Thomas Hungerford. His son, Walter, a prominent soldier and statesman, significantly expanded the castle in the 15th century, giving it a fashionable quadrangular layout. Visitors can still explore two tall corner towers from this period, along with a remarkably complete castle chapel featuring impressive family monuments and well-preserved wall paintings. Down in the crypt, you'll find numerous Hungerford lead coffins, some even displaying death masks. To fully immerse yourself in the castle's rich history and the story of the Hungerford family, an audio tour and extensive displays are available in the Priests' House, complemented by engaging activities and book boxes for children."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Westwood_Manor_House_-_geograph.org.uk_-_5862476.jpg",
-            "title": "Westwood Manor House by David Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Westwood Manor House"
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This circular walk explores the countryside surrounding the Wiltshire villages of Farleigh Hungerford and Westwood. The varied walk includes waterside sections along the River Frome and the Kennet and Avon Canal Walk. You can start the walk at Farleigh Hungerford which includes the noteworthy Farleigh Hungerford Castle. The medieval castle in run by English Heritage and is well worth exploring before starting the walk. The walk takes place on the southern edge of the Cotswolds so there are some fine views of the rolling hills and countryside of this special area to enjoy on the way. In Westwood you could stop off at the New Inn for some rest and refreshments. They do a fine Sunday roast and have a pleasant garden area to sit out in. You can find them at postcode BA15 2AE. To continue your walking try the Westwood Manor, Iford Manor and Friary Wood Walk which visits an historic National Trust property and some beautiful manor gardens.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/H8zV_o0SUt4?si=8YsOKRysMCNdWk9R",
-    "postcode": "BA2 7RR",
-    "district": "Farleigh Hungerford",
-    "county": "Somerset",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Westwood Manor, Iford Manor and Friary Wood Walk",
+      "objectID": "4ffd10c93b6ff6770515f8148d99a315",
+      "ref": "westwood-manor-iford-manor-and-friary-wood-walk"
+    },
+    {
+      "description": "Wellow and Stoney Littleton Long Barrow Circular Walk",
+      "objectID": "1a31dc187c2a12897f3e0bdd7a89bf1d",
+      "ref": "wellow-and-stoney-littleton-long-barrow-circular-walk"
+    },
+    {
+      "description": "Rode and Tellisford Weir River Walk",
+      "objectID": "d19b8b2990cc1d1a7de0a591c3227d9a",
+      "ref": "rode-and-tellisford-weir-river-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1a0f36abb74f5be0b3a432a655f0dd6b.gpx",
+  "_geoloc": {
+    "lat": 51.3172656569,
+    "lng": -2.2875696173
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Farleigh_Hungerford_Castle_16.JPG",
+      "title": "Rodw, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Farleigh Hungerford Castle. Construction on the castle began in the 1370s under Sir Thomas Hungerford. His son, Walter, a prominent soldier and statesman, significantly expanded the castle in the 15th century, giving it a fashionable quadrangular layout. Visitors can still explore two tall corner towers from this period, along with a remarkably complete castle chapel featuring impressive family monuments and well-preserved wall paintings. Down in the crypt, you'll find numerous Hungerford lead coffins, some even displaying death masks. To fully immerse yourself in the castle's rich history and the story of the Hungerford family, an audio tour and extensive displays are available in the Priests' House, complemented by engaging activities and book boxes for children."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Westwood_Manor_House_-_geograph.org.uk_-_5862476.jpg",
+      "title": "Westwood Manor House by David Martin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Westwood Manor House"
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This circular walk explores the countryside surrounding the Wiltshire villages of Farleigh Hungerford and Westwood. The varied walk includes waterside sections along the River Frome and the Kennet and Avon Canal Walk. You can start the walk at Farleigh Hungerford which includes the noteworthy Farleigh Hungerford Castle. The medieval castle in run by English Heritage and is well worth exploring before starting the walk. The walk takes place on the southern edge of the Cotswolds so there are some fine views of the rolling hills and countryside of this special area to enjoy on the way. In Westwood you could stop off at the New Inn for some rest and refreshments. They do a fine Sunday roast and have a pleasant garden area to sit out in. You can find them at postcode BA15 2AE. To continue your walking try the Westwood Manor, Iford Manor and Friary Wood Walk which visits an historic National Trust property and some beautiful manor gardens.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/H8zV_o0SUt4?si=8YsOKRysMCNdWk9R",
+  "postcode": "BA2 7RR",
+  "district": "Farleigh Hungerford",
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterside",
+    "rolling hill"
+  ],
+  "points_of_interest": [
+    "castle",
+    "historical site",
+    "manor garden"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,56 +1,72 @@
 {
-    "created_at": "2026-10-22T22:55:11.769983+00:00",
-    "objectID": "681ef8c12593120589a72a35d25233ac",
-    "ref": "troon-to-prestwick-walk",
-    "title": "Troon to Prestwick Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg/500px-Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg?20220127203443",
-    "nearby": [
-        {
-            "description": "Ayrshire Coastal Path",
-            "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
-            "ref": "ayrshire-coastal-path-walking-route"
-        },
-        {
-            "description": "Irvine to Troon Beach Walk",
-            "objectID": "06c3583d6967fc8e2b06519c82ff49bc",
-            "ref": "irvine-to-troon-beach-walking-route"
-        },
-        {
-            "description": "River Ayr Walk",
-            "objectID": "a3bd12607db202beea65c61ea5530cfc",
-            "ref": "river-ayr-walk-walking-route"
-        },
-        {
-            "description": "Ayr to Troon Walk",
-            "objectID": "01c735bc373add0b1ea384dba473fc14",
-            "ref": "ayr-to-troon-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/681ef8c12593120589a72a35d25233ac.gpx",
-    "_geoloc": {
-        "lat": 55.5410814737,
-        "lng": -4.6706772338
+  "created_at": "2026-10-22T22:55:11.769983+00:00",
+  "objectID": "681ef8c12593120589a72a35d25233ac",
+  "ref": "troon-to-prestwick-walk",
+  "title": "Troon to Prestwick Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg/500px-Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg?20220127203443",
+  "nearby": [
+    {
+      "description": "Ayrshire Coastal Path",
+      "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
+      "ref": "ayrshire-coastal-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg",
-            "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Troon and beach from the south, South Ayrshire."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Prestwick_Beach_-_geograph.org.uk_-_7615190.jpg",
-            "title": "Prestwick Beach by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Prestwick Beach"
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This walk takes you along a section of the Ayrshire Coastal Path from Troon to Prestwick. The waymarked route runs for just over 4 miles, passing some lovely beaches and the famous Royal Troon golf course. Along the way there are excellent coastal views over the Firth of Clyde towards Arran. You can continue your coastal walking on theIrvine to Troon Beach Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/MPEL6W4nXM0?si=H1Zyyf_ItP6ZL0dJ",
-    "postcode": "KA10 6AN",
-    "district": "Troon",
-    "county": "South Ayrshire",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Irvine to Troon Beach Walk",
+      "objectID": "06c3583d6967fc8e2b06519c82ff49bc",
+      "ref": "irvine-to-troon-beach-walking-route"
+    },
+    {
+      "description": "River Ayr Walk",
+      "objectID": "a3bd12607db202beea65c61ea5530cfc",
+      "ref": "river-ayr-walk-walking-route"
+    },
+    {
+      "description": "Ayr to Troon Walk",
+      "objectID": "01c735bc373add0b1ea384dba473fc14",
+      "ref": "ayr-to-troon-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/681ef8c12593120589a72a35d25233ac.gpx",
+  "_geoloc": {
+    "lat": 55.5410814737,
+    "lng": -4.6706772338
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Troon_and_beach_from_the_south%2C_South_Ayrshire.jpg",
+      "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Troon and beach from the south, South Ayrshire."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Prestwick_Beach_-_geograph.org.uk_-_7615190.jpg",
+      "title": "Prestwick Beach by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Prestwick Beach"
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This walk takes you along a section of the Ayrshire Coastal Path from Troon to Prestwick. The waymarked route runs for just over 4 miles, passing some lovely beaches and the famous Royal Troon golf course. Along the way there are excellent coastal views over the Firth of Clyde towards Arran. You can continue your coastal walking on theIrvine to Troon Beach Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/MPEL6W4nXM0?si=H1Zyyf_ItP6ZL0dJ",
+  "postcode": "KA10 6AN",
+  "district": "Troon",
+  "county": "South Ayrshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "beach",
+    "golf course",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

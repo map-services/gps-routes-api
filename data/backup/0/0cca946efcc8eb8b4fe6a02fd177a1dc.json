@@ -1,64 +1,81 @@
 {
-    "created_at": "2026-10-22T21:25:22.130934+00:00",
-    "objectID": "0cca946efcc8eb8b4fe6a02fd177a1dc",
-    "ref": "longslade-trail-wavendon-heath-walking-and-cycle-route",
-    "title": "Longslade Trail Wavendon Heath Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg/500px-Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg?20220108015121",
-    "nearby": [
-        {
-            "description": "Bow Brickhill",
-            "objectID": "4dceb1eb0c25f59262d040a449987818",
-            "ref": "bow-brickhill-walking-route"
-        },
-        {
-            "description": "Aspley Guise",
-            "objectID": "306cb70b64735cd65e3833319f1ef6b1",
-            "ref": "aspley-guise-walking-route"
-        },
-        {
-            "description": "Aspley Woods",
-            "objectID": "6f7e8f80d25300299b53ebbfe5453558",
-            "ref": "aspley-woods-walking-and-cycle-route"
-        },
-        {
-            "description": "Woburn Park",
-            "objectID": "3a1c5377f32e78f607486a763e67f519",
-            "ref": "woburn-park-walking-route"
-        },
-        {
-            "description": "Woburn Sands",
-            "objectID": "e57c13b8ab41dbd03c5d1724d61dedac",
-            "ref": "woburn-sands-walking-route"
-        },
-        {
-            "description": "Woburn Forest - Millbrook Woods and Heydon Hill Circular Walk",
-            "objectID": "14e25d330d3b2e0f9b41ebb0dfd7fd7d",
-            "ref": "millbrook-woods-circular-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0cca946efcc8eb8b4fe6a02fd177a1dc.gpx",
-    "_geoloc": {
-        "lat": 51.9936778088,
-        "lng": -0.6537675042
+  "created_at": "2026-10-22T21:25:22.130934+00:00",
+  "objectID": "0cca946efcc8eb8b4fe6a02fd177a1dc",
+  "ref": "longslade-trail-wavendon-heath-walking-and-cycle-route",
+  "title": "Longslade Trail Wavendon Heath Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg/500px-Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg?20220108015121",
+  "nearby": [
+    {
+      "description": "Bow Brickhill",
+      "objectID": "4dceb1eb0c25f59262d040a449987818",
+      "ref": "bow-brickhill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg",
-            "title": "Bench on the bridleway to Wavendon Heath by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bench on the bridleway to Wavendon Heath"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/On_New_Wavendon_Heath_-_geograph.org.uk_-_5204124.jpg",
-            "title": "On New Wavendon Heath by Dave Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "On New Wavendon Heath"
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This circular mountain bike route is located on New Wavendon Heath near Woburn in Bedfordshire. The area also has multiple footpaths so it also a fine place for a walk. On the heath you will find miles of woodland trails with lots of wildlife to see. There is a parking area on the southern side of the woods where you can pick up the trail. You can continue your walking in the area at Bow Brickhill or Woburn Abbey Park .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/HOEMAXMTlZQ?si=OnVgMgULc0HHPbic",
-    "county": "Central Bedfordshire",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Aspley Guise",
+      "objectID": "306cb70b64735cd65e3833319f1ef6b1",
+      "ref": "aspley-guise-walking-route"
+    },
+    {
+      "description": "Aspley Woods",
+      "objectID": "6f7e8f80d25300299b53ebbfe5453558",
+      "ref": "aspley-woods-walking-and-cycle-route"
+    },
+    {
+      "description": "Woburn Park",
+      "objectID": "3a1c5377f32e78f607486a763e67f519",
+      "ref": "woburn-park-walking-route"
+    },
+    {
+      "description": "Woburn Sands",
+      "objectID": "e57c13b8ab41dbd03c5d1724d61dedac",
+      "ref": "woburn-sands-walking-route"
+    },
+    {
+      "description": "Woburn Forest - Millbrook Woods and Heydon Hill Circular Walk",
+      "objectID": "14e25d330d3b2e0f9b41ebb0dfd7fd7d",
+      "ref": "millbrook-woods-circular-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0cca946efcc8eb8b4fe6a02fd177a1dc.gpx",
+  "_geoloc": {
+    "lat": 51.9936778088,
+    "lng": -0.6537675042
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bench_on_the_bridleway_to_Wavendon_Heath_-_geograph.org.uk_-_3017730.jpg",
+      "title": "Bench on the bridleway to Wavendon Heath by Philip Jeffrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bench on the bridleway to Wavendon Heath"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/On_New_Wavendon_Heath_-_geograph.org.uk_-_5204124.jpg",
+      "title": "On New Wavendon Heath by Dave Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "On New Wavendon Heath"
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This circular mountain bike route is located on New Wavendon Heath near Woburn in Bedfordshire. The area also has multiple footpaths so it also a fine place for a walk. On the heath you will find miles of woodland trails with lots of wildlife to see. There is a parking area on the southern side of the woods where you can pick up the trail. You can continue your walking in the area at Bow Brickhill or Woburn Abbey Park .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/HOEMAXMTlZQ?si=OnVgMgULc0HHPbic",
+  "county": "Central Bedfordshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

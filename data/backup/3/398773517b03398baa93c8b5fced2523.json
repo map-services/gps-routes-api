@@ -1,28 +1,46 @@
 {
-    "created_at": "2026-10-22T21:18:18.804258+00:00",
-    "objectID": "398773517b03398baa93c8b5fced2523",
-    "ref": "champlain-canal-trail-walking-route",
-    "title": "Champlain Canal Trail Walk And Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg/500px-Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg?20210511183839",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/398773517b03398baa93c8b5fced2523.gpx",
-    "_geoloc": {
-        "lat": 42.79102,
-        "lng": -73.6805
+  "created_at": "2026-10-22T21:18:18.804258+00:00",
+  "objectID": "398773517b03398baa93c8b5fced2523",
+  "ref": "champlain-canal-trail-walking-route",
+  "title": "Champlain Canal Trail Walk And Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg/500px-Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg?20210511183839",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/398773517b03398baa93c8b5fced2523.gpx",
+  "_geoloc": {
+    "lat": 42.79102,
+    "lng": -73.6805
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg",
+      "title": "Tyler A. McNeil, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Old Champlain Canal Lock 4 in Waterford, New York"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Old_Champlain_Canal_Lock_4_in_Waterford%2C_New_York.jpg",
-            "title": "Tyler A. McNeil, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Old Champlain Canal Lock 4 in Waterford, New York"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Champlain_Canalway_Trail_-_Washington_County%2C_NY_%2850596386452%29.jpg",
-            "title": "\u044f\u0456\u0441\u043a\u0443 \u0455\u043d\u043e\u044f\u0435, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Champlain Canalway Trail"
-        }
-    ],
-    "distance_km": 8.26,
-    "description": "This easy walk or cycle follows the Old Champlain Canal Trail in Waterford, New York. Begin at the Battery Park Canal Harbor lot in Waterford, where you\u2019ll find parking and the old Champlain Canal Lock 4 just off Broad Street. From here, pick up the Champlain Canalway Trail towpath, a level stone-dust path roughly 6\u20138 feet wide that follows the old canal prism northward. The trail runs north through Waterford village, passing the historic Weighlock building and remnants of Lock 5 before threading under a railroad bridge and alongside wetlands and wooded stretches. The surface remains firm and flat, making it ideal for both walking and cycling without steep hills or obstacles. After about five miles you reach the town border just beyond where the canal towpath once gave way to more modern canal realignments. Along the way you\u2019ll see interpretive markers at former lock sites, cattail-lined stream branches, and occasional glimpses of the Mohawk River where the old canal cut ran close. The consistent, gentle grade and rural-village scenery make this stretch an easy, historic waterside outing.",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Champlain_Canalway_Trail_-_Washington_County%2C_NY_%2850596386452%29.jpg",
+      "title": "\u044f\u0456\u0441\u043a\u0443 \u0455\u043d\u043e\u044f\u0435, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Champlain Canalway Trail"
+    }
+  ],
+  "distance_km": 8.26,
+  "description": "This easy walk or cycle follows the Old Champlain Canal Trail in Waterford, New York. Begin at the Battery Park Canal Harbor lot in Waterford, where you\u2019ll find parking and the old Champlain Canal Lock 4 just off Broad Street. From here, pick up the Champlain Canalway Trail towpath, a level stone-dust path roughly 6\u20138 feet wide that follows the old canal prism northward. The trail runs north through Waterford village, passing the historic Weighlock building and remnants of Lock 5 before threading under a railroad bridge and alongside wetlands and wooded stretches. The surface remains firm and flat, making it ideal for both walking and cycling without steep hills or obstacles. After about five miles you reach the town border just beyond where the canal towpath once gave way to more modern canal realignments. Along the way you\u2019ll see interpretive markers at former lock sites, cattail-lined stream branches, and occasional glimpses of the Mohawk River where the old canal cut ran close. The consistent, gentle grade and rural-village scenery make this stretch an easy, historic waterside outing.",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2.5 - 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "lock"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

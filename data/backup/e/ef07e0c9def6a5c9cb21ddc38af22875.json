@@ -1,45 +1,63 @@
 {
-    "created_at": "2026-10-22T21:52:31.823230+00:00",
-    "objectID": "ef07e0c9def6a5c9cb21ddc38af22875",
-    "ref": "ramsgate-to-dover-coastal-walk",
-    "title": "Ramsgate to Dover Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg/500px-Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg?20250126001815",
-    "nearby": [
-        {
-            "description": "Saxon Shore Way",
-            "objectID": "e50fab578e5425ee992debe450ead99a",
-            "ref": "saxon-shore-way-walking-route"
-        },
-        {
-            "description": "Augustine Camino",
-            "objectID": "019279cceaa444ab2272fcef160c5956",
-            "ref": "augustine-camino-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ef07e0c9def6a5c9cb21ddc38af22875.gpx",
-    "_geoloc": {
-        "lat": 51.3322689819,
-        "lng": 1.4204756719
+  "created_at": "2026-10-22T21:52:31.823230+00:00",
+  "objectID": "ef07e0c9def6a5c9cb21ddc38af22875",
+  "ref": "ramsgate-to-dover-coastal-walk",
+  "title": "Ramsgate to Dover Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg/500px-Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg?20250126001815",
+  "nearby": [
+    {
+      "description": "Saxon Shore Way",
+      "objectID": "e50fab578e5425ee992debe450ead99a",
+      "ref": "saxon-shore-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg",
-            "title": "Ramsgate Harbour by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ramsgate Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg?20180216055236",
-            "title": "https://www.flickr.com/people/fanny/, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A view of the White Cliffs of Dover"
-        }
-    ],
-    "distance_km": 34.6,
-    "description": "This scenic walk follows a combination of the England Coast Path, the Thanet Coastal Path and the Saxon Shore Way, guiding you from the coastal town of Ramsgate to the historic port of Dover in Kent. Covering approximately 21.5 miles, the route is fully waymarked and offers a diverse mix of coastal landscapes, seaside towns, and heritage sites. The first part of the walk heads south from Ramsgate, soon reaching the wide open spaces of Pegwell Bay Country Park, a popular spot for birdwatching and expansive views across the bay. Continuing through peaceful coastal surroundings, the route leads you to the ancient Cinque Port town of Sandwich, where you can take time to explore its medieval streets, historic buildings, and riverside walks. From Sandwich, the walk turns east, returning to the coast where you rejoin the sea views and follow the coastal path towards Deal. Deal is a lively seaside town with plenty of character, where you can visit the well-preserved Deal Castle, built by Henry VIII as part of the south coast’s chain of defences. The seafront here is perfect for a rest stop, with its long pier, traditional shops, and cafés. The final stretch of the walk continues south along the coast, passing quiet beaches and chalk cliffs as you make your way towards Dover. The route finishes in Dover, where you can explore the town’s waterfront, historic castle, and the impressive white cliffs that make this part of the Kent coast so iconic.",
-    "details": [],
-    "postcode": "CT11 8LJ",
-    "district": "Ramsgate",
-    "county": "Kent",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Augustine Camino",
+      "objectID": "019279cceaa444ab2272fcef160c5956",
+      "ref": "augustine-camino-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ef07e0c9def6a5c9cb21ddc38af22875.gpx",
+  "_geoloc": {
+    "lat": 51.3322689819,
+    "lng": 1.4204756719
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg",
+      "title": "Ramsgate Harbour by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ramsgate Harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg?20180216055236",
+      "title": "https://www.flickr.com/people/fanny/, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A view of the White Cliffs of Dover"
+    }
+  ],
+  "distance_km": 34.6,
+  "description": "This scenic walk follows a combination of the England Coast Path, the Thanet Coastal Path and the Saxon Shore Way, guiding you from the coastal town of Ramsgate to the historic port of Dover in Kent. Covering approximately 21.5 miles, the route is fully waymarked and offers a diverse mix of coastal landscapes, seaside towns, and heritage sites. The first part of the walk heads south from Ramsgate, soon reaching the wide open spaces of Pegwell Bay Country Park, a popular spot for birdwatching and expansive views across the bay. Continuing through peaceful coastal surroundings, the route leads you to the ancient Cinque Port town of Sandwich, where you can take time to explore its medieval streets, historic buildings, and riverside walks. From Sandwich, the walk turns east, returning to the coast where you rejoin the sea views and follow the coastal path towards Deal. Deal is a lively seaside town with plenty of character, where you can visit the well-preserved Deal Castle, built by Henry VIII as part of the south coast\u2019s chain of defences. The seafront here is perfect for a rest stop, with its long pier, traditional shops, and caf\u00e9s. The final stretch of the walk continues south along the coast, passing quiet beaches and chalk cliffs as you make your way towards Dover. The route finishes in Dover, where you can explore the town\u2019s waterfront, historic castle, and the impressive white cliffs that make this part of the Kent coast so iconic.",
+  "details": [],
+  "postcode": "CT11 8LJ",
+  "district": "Ramsgate",
+  "county": "Kent",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "10-12 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

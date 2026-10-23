@@ -64,12 +64,30 @@
     }
   ],
   "distance_km": 14.2,
-  "description": "The Chiltern Five Villages Walk is a scenic, circular route that takes you deep into the heart of the Chiltern Hills Area of Outstanding Natural Beauty in Buckinghamshire. The walk offers a quintessential English countryside experience, winding its way through a varied landscape of rolling hills, tranquil valleys, ancient woodlands like Penn Wood, open meadows, and active farmland. The journey connects five charming and distinct villages—Old Amersham,Winchmore Hill,Little Missenden,Coleshill, and Penn Street —each with its own character, historic cottages, and local pubs. The scenery is a major highlight, with classic views and frequent sightings of local wildlife, including the graceful red kites soaring above.",
+  "description": "The Chiltern Five Villages Walk is a scenic, circular route that takes you deep into the heart of the Chiltern Hills Area of Outstanding Natural Beauty in Buckinghamshire. The walk offers a quintessential English countryside experience, winding its way through a varied landscape of rolling hills, tranquil valleys, ancient woodlands like Penn Wood, open meadows, and active farmland. The journey connects five charming and distinct villages\u2014Old Amersham,Winchmore Hill,Little Missenden,Coleshill, and Penn Street \u2014each with its own character, historic cottages, and local pubs. The scenery is a major highlight, with classic views and frequent sightings of local wildlife, including the graceful red kites soaring above.",
   "details": [],
   "postcode": "HP7 0PH",
   "district": "Winchmore Hill",
   "county": "Buckinghamshire",
   "region": "South East",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rolling hill",
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

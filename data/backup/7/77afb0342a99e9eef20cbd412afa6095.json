@@ -2,7 +2,7 @@
   "created_at": "2026-10-22T21:30:46.611002+00:00",
   "objectID": "77afb0342a99e9eef20cbd412afa6095",
   "ref": "curracloe-beach-and-forest-walking-route",
-  "title": "Curracloe Beach and Raven Point Forest Walk Route",
+  "title": "Curracloe Beach and Raven Point\u00a0Forest Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Curracloe_Beach%2C_Co.Wexford_-_geograph.org.uk_-_488248.jpg?20110205011955",
   "nearby": [
     {
@@ -92,5 +92,24 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/LYbJDiZfCKc?si=2-Qx0-LFgzVe39eQ",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "dune",
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

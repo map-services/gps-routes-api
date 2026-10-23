@@ -1,38 +1,55 @@
 {
-    "created_at": "2026-10-22T21:40:35.385681+00:00",
-    "objectID": "0ad5a4f5f1579871211c67ca1564f2d0",
-    "ref": "jervaulx-abbey-to-middleham-castle-walk",
-    "title": "Jervaulx Abbey to Middleham Castle Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jervaulx_Abbey_MMB_29.jpg/500px-Jervaulx_Abbey_MMB_29.jpg?20130224204140",
-    "nearby": [
-        {
-            "description": "Six Dales Trail",
-            "objectID": "a68096eca24288c1125a595e2c9774a8",
-            "ref": "six-dales-trail-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0ad5a4f5f1579871211c67ca1564f2d0.gpx",
-    "_geoloc": {
-        "lat": 54.2653496247,
-        "lng": -1.7371990773
+  "created_at": "2026-10-22T21:40:35.385681+00:00",
+  "objectID": "0ad5a4f5f1579871211c67ca1564f2d0",
+  "ref": "jervaulx-abbey-to-middleham-castle-walk",
+  "title": "Jervaulx Abbey to Middleham Castle Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jervaulx_Abbey_MMB_29.jpg/500px-Jervaulx_Abbey_MMB_29.jpg?20130224204140",
+  "nearby": [
+    {
+      "description": "Six Dales Trail",
+      "objectID": "a68096eca24288c1125a595e2c9774a8",
+      "ref": "six-dales-trail-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0ad5a4f5f1579871211c67ca1564f2d0.gpx",
+  "_geoloc": {
+    "lat": 54.2653496247,
+    "lng": -1.7371990773
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jervaulx_Abbey_MMB_29.jpg",
+      "title": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Jervaulx Abbey"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jervaulx_Abbey_MMB_29.jpg",
-            "title": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Jervaulx Abbey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Middleham_Castle_-_View_from_the_top_of_the_Great_Tower.jpg",
-            "title": "leestuartsherriff, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Middleham Castle"
-        }
-    ],
-    "distance_km": 5.56,
-    "description": "This walk takes you between two historic sites in North Yorkshire. The route runs for a distance of 3.5 miles, passing along the Six Dales Trail long distance walk and other local footpaths. The walk starts at the car park at Jervaulx Abbey. Here you can explore the grounds of the Grade I listed abbey which dates from the 12th century. It sits in a fine location next to the River Ure with excellent views of the surrounding countryside. The walk then follows a pleasant riverside path north west along the River Ure. You then leave the river to reach Middleham Castle. You can continue your walking on the Middleham to Leyburn Walk. The castle dates from the 12th and is notable as the childhood home of King Richard III. It was also owned by Richard Neville, 16th Earl of Warwick, known to history as the 'Kingmaker', a leading figure in the Wars of the Roses.",
-    "details": [],
-    "county": "North Yorkshire",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Middleham_Castle_-_View_from_the_top_of_the_Great_Tower.jpg",
+      "title": "leestuartsherriff, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Middleham Castle"
+    }
+  ],
+  "distance_km": 5.56,
+  "description": "This walk takes you between two historic sites in North Yorkshire. The route runs for a distance of 3.5 miles, passing along the Six Dales Trail long distance walk and other local footpaths. The walk starts at the car park at Jervaulx Abbey. Here you can explore the grounds of the Grade I listed abbey which dates from the 12th century. It sits in a fine location next to the River Ure with excellent views of the surrounding countryside. The walk then follows a pleasant riverside path north west along the River Ure. You then leave the river to reach Middleham Castle. You can continue your walking on the Middleham to Leyburn Walk. The castle dates from the 12th and is notable as the childhood home of King Richard III. It was also owned by Richard Neville, 16th Earl of Warwick, known to history as the 'Kingmaker', a leading figure in the Wars of the Roses.",
+  "details": [],
+  "county": "North Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

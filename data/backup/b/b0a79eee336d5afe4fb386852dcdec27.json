@@ -1,49 +1,71 @@
 {
-    "created_at": "2026-10-22T22:37:48.701761+00:00",
-    "objectID": "b0a79eee336d5afe4fb386852dcdec27",
-    "ref": "flodden-battlefield-walk",
-    "title": "Flodden Battlefield Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg/500px-Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg?_=20241010063311",
-    "nearby": [
-        {
-            "description": "Etal Castle",
-            "objectID": "d0974cf4a926e8778db3592879a5768a",
-            "ref": "etal-castle-walking-route"
-        },
-        {
-            "description": "Duddo Five Stones Walk",
-            "objectID": "207c1727ab965678b01565e34d1f85de",
-            "ref": "duddo-five-stones-walking-route"
-        },
-        {
-            "description": "Ford Castle",
-            "objectID": "c86dcfd1632833364c19df8877c86bba",
-            "ref": "ford-castle-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b0a79eee336d5afe4fb386852dcdec27.gpx",
-    "_geoloc": {
-        "lat": 55.629096,
-        "lng": -2.178101
+  "created_at": "2026-10-22T22:37:48.701761+00:00",
+  "objectID": "b0a79eee336d5afe4fb386852dcdec27",
+  "ref": "flodden-battlefield-walk",
+  "title": "Flodden Battlefield Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg/500px-Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg?_=20241010063311",
+  "nearby": [
+    {
+      "description": "Etal Castle",
+      "objectID": "d0974cf4a926e8778db3592879a5768a",
+      "ref": "etal-castle-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg",
-            "title": "Flodden battlefield monument by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Flodden battlefield monument"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Flodden_Battlefield_Trail_-_geograph.org.uk_-_1935219.jpg",
-            "title": "The Flodden Battlefield Trail by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Flodden Battlefield Trail"
-        }
-    ],
-    "distance_km": 2.6,
-    "description": "This walk visits the Flodden Battlefield in the Northumberland village of Branxton. Starting from the car park you can begin your walk by heading toward the Flodden Monument on Piper’s Hill. A gravelled path and a set of steep, irregular steps with a wooden handrail lead you up the ridge to the granite cross. From this vantage point, which marks the English line, you can look out across the rolling border landscape and see the interpretation boards that set the scene for the battle.From the memorial, the Battlefield Trail follows a clear grass path that descends into the shallow dip known as the \"Killing Fields\". This area was once treacherous marshland where the Scottish pikes became ineffective in the thick mud. The trail then takes a sharp right and climbs up the opposing incline toward Branxton Hill, where the Scottish army was originally positioned. A bench at the top of this field offers a place for quiet contemplation overlooking the entire site.To complete the circuit, you follow the path along the hedgerows and down toward the road that leads into the heart of Branxton village. As you walk through the village, you can stop at the world's smallest visitor centre—a converted red telephone box—to find more maps and local history. The route then passes St Paul's Church, where fallen nobility were reportedly brought after the combat, before a very short walk along the road returns you directly to the car park.You can continue your local history walking atEtal Castle,Duddo Five StonesandFord Castle.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/0ugr6E--3Oo?si=2mhyOsr09RzFC4Es",
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Duddo Five Stones Walk",
+      "objectID": "207c1727ab965678b01565e34d1f85de",
+      "ref": "duddo-five-stones-walking-route"
+    },
+    {
+      "description": "Ford Castle",
+      "objectID": "c86dcfd1632833364c19df8877c86bba",
+      "ref": "ford-castle-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b0a79eee336d5afe4fb386852dcdec27.gpx",
+  "_geoloc": {
+    "lat": 55.629096,
+    "lng": -2.178101
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flodden_battlefield_monument_-_geograph.org.uk_-_6828398.jpg",
+      "title": "Flodden battlefield monument by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Flodden battlefield monument"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Flodden_Battlefield_Trail_-_geograph.org.uk_-_1935219.jpg",
+      "title": "The Flodden Battlefield Trail by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Flodden Battlefield Trail"
+    }
+  ],
+  "distance_km": 2.6,
+  "description": "This walk visits the Flodden Battlefield in the Northumberland village of Branxton. Starting from the car park you can begin your walk by heading toward the Flodden Monument on Piper\u2019s Hill. A gravelled path and a set of steep, irregular steps with a wooden handrail lead you up the ridge to the granite cross. From this vantage point, which marks the English line, you can look out across the rolling border landscape and see the interpretation boards that set the scene for the battle.From the memorial, the Battlefield Trail follows a clear grass path that descends into the shallow dip known as the \"Killing Fields\". This area was once treacherous marshland where the Scottish pikes became ineffective in the thick mud. The trail then takes a sharp right and climbs up the opposing incline toward Branxton Hill, where the Scottish army was originally positioned. A bench at the top of this field offers a place for quiet contemplation overlooking the entire site.To complete the circuit, you follow the path along the hedgerows and down toward the road that leads into the heart of Branxton village. As you walk through the village, you can stop at the world's smallest visitor centre\u2014a converted red telephone box\u2014to find more maps and local history. The route then passes St Paul's Church, where fallen nobility were reportedly brought after the combat, before a very short walk along the road returns you directly to the car park.You can continue your local history walking atEtal Castle,Duddo Five StonesandFord Castle.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/0ugr6E--3Oo?si=2mhyOsr09RzFC4Es",
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "marshland"
+  ],
+  "points_of_interest": [
+    "battlefield",
+    "monument",
+    "granite cross",
+    "visitor centre",
+    "church"
+  ],
+  "facilities": [
+    "car park",
+    "bench"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

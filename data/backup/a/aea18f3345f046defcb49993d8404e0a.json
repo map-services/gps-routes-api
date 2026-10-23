@@ -25,7 +25,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Main_drive%2C_Parke_House_-_geograph.org.uk_-_1418822.jpg?20110301162044",
       "title": "Roger Cornfoot / Main drive, Parke House",
-      "caption": "Main drive, Parke House. The estate is located on the edge of Bovey Tracey. It offers a peaceful retreat with woodlands, pasture, and riverside walks along the River Bovey. The estate was once self-sufficient and features a restored walled garden, an orchard with historic apple trees, and a medieval weir. Parke House, the main house, was rebuilt in the 1820s and is now the headquarters of the Dartmoor National Park Authority and is not open to the public. However, the grounds are open to explore from dawn till dusk.Visitors can enjoy various walking trails, including a surfaced path along a former railway line (part of the Wray Valley Trail), woodland paths, and riverside routes. A Tramper mobility scooter is available for hire. The estate also has a picnic area and the independent Home Farm Café. Dogs are welcome in many areas under close control. Historically, the estate has been occupied since at least the 12th century, with the current house built in the early 19th century for the Hole family, who owned it until it was gifted to the National Trust in 1974. The estate aimed to be self-sufficient, with gardens, an orchard (used for cider making), and grazing land. The River Bovey provided power to mills in Bovey Tracey via a leat originating at the medieval weir within the estate."
+      "caption": "Main drive, Parke House. The estate is located on the edge of Bovey Tracey. It offers a peaceful retreat with woodlands, pasture, and riverside walks along the River Bovey. The estate was once self-sufficient and features a restored walled garden, an orchard with historic apple trees, and a medieval weir. Parke House, the main house, was rebuilt in the 1820s and is now the headquarters of the Dartmoor National Park Authority and is not open to the public. However, the grounds are open to explore from dawn till dusk.Visitors can enjoy various walking trails, including a surfaced path along a former railway line (part of the Wray Valley Trail), woodland paths, and riverside routes. A Tramper mobility scooter is available for hire. The estate also has a picnic area and the independent Home Farm Caf\u00e9. Dogs are welcome in many areas under close control. Historically, the estate has been occupied since at least the 12th century, with the current house built in the early 19th century for the Hole family, who owned it until it was gifted to the National Trust in 1974. The estate aimed to be self-sufficient, with gardens, an orchard (used for cider making), and grazing land. The River Bovey provided power to mills in Bovey Tracey via a leat originating at the medieval weir within the estate."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lustleigh_-_geograph.org.uk_-_6938342.jpg",
@@ -40,5 +40,22 @@
   "county": "Devon",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

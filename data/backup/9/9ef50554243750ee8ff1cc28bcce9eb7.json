@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Locomotion_Way_east_of_Thickley_Bridge_-_geograph.org.uk_-_8007994.jpg/960px-Locomotion_Way_east_of_Thickley_Bridge_-_geograph.org.uk_-_8007994.jpg",
       "title": "Locomotion Way east of Thickley Bridge by DS Pugh, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Locomotion Way east of Thickley Bridge. The Stockton and Darlington Railway (S&DR), which opened on 27 September 1825, was the world’s first public railway to use steam locomotives to transport both goods and passengers. Engineered by George Stephenson, the original 26-mile line connected the coal mines near Witton Park and Shildon to the River Tees at Stockton. On its inaugural journey, the steam engine Locomotion No. 1 hauled a train carrying coal and roughly 450 passengers at speeds reaching 15 miles per hour."
+      "caption": "Locomotion Way east of Thickley Bridge. The Stockton and Darlington Railway (S&DR), which opened on 27 September 1825, was the world\u2019s first public railway to use steam locomotives to transport both goods and passengers. Engineered by George Stephenson, the original 26-mile line connected the coal mines near Witton Park and Shildon to the River Tees at Stockton. On its inaugural journey, the steam engine Locomotion No. 1 hauled a train carrying coal and roughly 450 passengers at speeds reaching 15 miles per hour."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Orchid_and_butterfly_sculpture_-_geograph.org.uk_-_1333688.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Locomotion_No._1_New_Bridge.jpg/960px-Locomotion_No._1_New_Bridge.jpg",
       "title": "Kabelleger, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Shildon is home to Locomotion, a major museum that forms part of the Science Museum Group alongside the National Railway Museum. It is situated on the site of the world’s first railway town, which served as the original engineering hub for the Stockton and Darlington Railway. The museum recently expanded in May 2024 with the opening of New Hall, which allows it to house the largest collection of heritage rail vehicles under one roof in Europe."
+      "caption": "Shildon is home to Locomotion, a major museum that forms part of the Science Museum Group alongside the National Railway Museum. It is situated on the site of the world\u2019s first railway town, which served as the original engineering hub for the Stockton and Darlington Railway. The museum recently expanded in May 2024 with the opening of New Hall, which allows it to house the largest collection of heritage rail vehicles under one roof in Europe."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Locomotion%2C_Shildon_-_geograph.org.uk_-_3238593.jpg",
@@ -66,5 +66,23 @@
   "county": "County Durham",
   "region": "North East",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "museum"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

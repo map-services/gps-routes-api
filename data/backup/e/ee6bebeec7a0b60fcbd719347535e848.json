@@ -19,7 +19,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/St_David%27s_Cathedral_and_Bishop%27s_Palace_-_geograph.org.uk_-_774149.jpg?20110219230612",
-      "title": "Alan Thomas / St David’s Cathedral and Bishop’s Palace",
+      "title": "Alan Thomas / St David\u2019s Cathedral and Bishop\u2019s Palace",
       "caption": "St David's Cathedral and Bishop's Palace"
     },
     {
@@ -46,5 +46,20 @@
   "county": "Sir Benfro - Pembrokeshire",
   "region": "Wales",
   "country": "Wales",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

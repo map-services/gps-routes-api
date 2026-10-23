@@ -1,54 +1,70 @@
 {
-    "created_at": "2026-10-22T22:56:50.647207+00:00",
-    "objectID": "9b928b396f9f4a4d5c488c8e1ae35b18",
-    "ref": "whitestone-walk-chepstow",
-    "title": "Whitestone Walk Chepstow Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg/500px-Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg?20230720181915",
-    "nearby": [
-        {
-            "description": "St Pierres Woods Walk",
-            "objectID": "cb566839a7d6d843042ab5b9829d13b6",
-            "ref": "st-pierres-woods-walk"
-        },
-        {
-            "description": "Llandogo Cleddon Falls Walk",
-            "objectID": "0495c64dc1929f14ef4ed6480f3febb2",
-            "ref": "llandogo-walking-route"
-        },
-        {
-            "description": "Tintern Abbey",
-            "objectID": "cf211bde830017fdc4432815b9591546",
-            "ref": "tintern-abbey-walking-route"
-        },
-        {
-            "description": "Tintern Old Station",
-            "objectID": "3b606c4219dfaaa35ea414b447f2cd31",
-            "ref": "tintern-old-station-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9b928b396f9f4a4d5c488c8e1ae35b18.gpx",
-    "_geoloc": {
-        "lat": 51.7219813599,
-        "lng": -2.688427375
+  "created_at": "2026-10-22T22:56:50.647207+00:00",
+  "objectID": "9b928b396f9f4a4d5c488c8e1ae35b18",
+  "ref": "whitestone-walk-chepstow",
+  "title": "Whitestone Walk Chepstow Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg/500px-Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg?20230720181915",
+  "nearby": [
+    {
+      "description": "St Pierres Woods Walk",
+      "objectID": "cb566839a7d6d843042ab5b9829d13b6",
+      "ref": "st-pierres-woods-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg",
-            "title": "Bluebells, Bargain Wood by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bluebells, Bargain Wood"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Track_into_woodland%2C_Whitestone%2C_Monmouthshire_-_geograph.org.uk_-_7854068.jpg",
-            "title": "Track into woodland, Whitestone, Monmouthshire by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track into woodland, Whitestone, Monmouthshire"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "This short circular walk explores Bargain Wood from the Whitestone car park north of Chepstow. It's a nice peaceful area for a walk with pretty bluebells in the spring and lots of woodland birds to look out for. On the eastern side of the wood there's also the River Wye. You can continue your walking in the area on the Llandogo Cleddon Falls Walk and visit Tintern Abbey and Tintern Old Station which lie just to the south.",
-    "details": [],
-    "postcode": "NP25 4TN",
-    "county": "Sir Fynwy - Monmouthshire",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Llandogo Cleddon Falls Walk",
+      "objectID": "0495c64dc1929f14ef4ed6480f3febb2",
+      "ref": "llandogo-walking-route"
+    },
+    {
+      "description": "Tintern Abbey",
+      "objectID": "cf211bde830017fdc4432815b9591546",
+      "ref": "tintern-abbey-walking-route"
+    },
+    {
+      "description": "Tintern Old Station",
+      "objectID": "3b606c4219dfaaa35ea414b447f2cd31",
+      "ref": "tintern-old-station-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9b928b396f9f4a4d5c488c8e1ae35b18.gpx",
+  "_geoloc": {
+    "lat": 51.7219813599,
+    "lng": -2.688427375
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bluebells%2C_Bargain_Wood_-_geograph.org.uk_-_5155474.jpg",
+      "title": "Bluebells, Bargain Wood by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bluebells, Bargain Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Track_into_woodland%2C_Whitestone%2C_Monmouthshire_-_geograph.org.uk_-_7854068.jpg",
+      "title": "Track into woodland, Whitestone, Monmouthshire by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track into woodland, Whitestone, Monmouthshire"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "This short circular walk explores Bargain Wood from the Whitestone car park north of Chepstow. It's a nice peaceful area for a walk with pretty bluebells in the spring and lots of woodland birds to look out for. On the eastern side of the wood there's also the River Wye. You can continue your walking in the area on the Llandogo Cleddon Falls Walk and visit Tintern Abbey and Tintern Old Station which lie just to the south.",
+  "details": [],
+  "postcode": "NP25 4TN",
+  "county": "Sir Fynwy - Monmouthshire",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

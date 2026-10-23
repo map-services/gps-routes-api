@@ -69,7 +69,7 @@
     }
   ],
   "distance_km": 2.8,
-  "description": "This circular walk or cycle explores the expansive Pitmedden Forest, south of Abernethy. You can start off from the Pitmedden Forest West car park, about a mile south of Abernethy. Heading east from here will take you along various walking and mountain biking trails (the mtb trails can be seen marked in blue on the open street map below). The forest is a mix of conifer plantations and natural broadleaf trees, creating a varied landscape with pockets of dense woodland and open clearings. As you explore, you’ll encounter a tranquil setting with gentle streams weaving through the forest and occasional views of the surrounding Perthshire hills. Wildlife is abundant here, with red squirrels often spotted scurrying through the trees and deer occasionally glimpsed in the quieter areas. Birdwatchers may see buzzards soaring overhead or hear the drumming of woodpeckers. The forest is also home to owls, jays, and smaller woodland species like tits and finches. In wetter areas, frogs and newts can be found, while dragonflies flit across any pools of water you might come across. Pitmedden Forest also holds historical interest, with remnants of ancient settlements and boundary markers hinting at the area's long history of human activity. The trails themselves vary in difficulty, providing options for casual walkers and seasoned cyclists alike, with the surrounding tranquillity making it a peaceful escape into nature.",
+  "description": "This circular walk or cycle explores the expansive Pitmedden Forest, south of Abernethy. You can start off from the Pitmedden Forest West car park, about a mile south of Abernethy. Heading east from here will take you along various walking and mountain biking trails (the mtb trails can be seen marked in blue on the open street map below). The forest is a mix of conifer plantations and natural broadleaf trees, creating a varied landscape with pockets of dense woodland and open clearings. As you explore, you\u2019ll encounter a tranquil setting with gentle streams weaving through the forest and occasional views of the surrounding Perthshire hills. Wildlife is abundant here, with red squirrels often spotted scurrying through the trees and deer occasionally glimpsed in the quieter areas. Birdwatchers may see buzzards soaring overhead or hear the drumming of woodpeckers. The forest is also home to owls, jays, and smaller woodland species like tits and finches. In wetter areas, frogs and newts can be found, while dragonflies flit across any pools of water you might come across. Pitmedden Forest also holds historical interest, with remnants of ancient settlements and boundary markers hinting at the area's long history of human activity. The trails themselves vary in difficulty, providing options for casual walkers and seasoned cyclists alike, with the surrounding tranquillity making it a peaceful escape into nature.",
   "details": [
     {
       "subtitle": "Further Information and Other Local Ideas",
@@ -80,5 +80,23 @@
   "county": "Perth and Kinross",
   "region": "Scotland",
   "country": "Scotland",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

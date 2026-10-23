@@ -1,54 +1,71 @@
 {
-    "created_at": "2026-10-22T21:32:02.177242+00:00",
-    "objectID": "fb3f7d98e6cbcc1cc3e51838ccd40f20",
-    "ref": "dover-to-st-margarets-bay-walk",
-    "title": "Dover to St Margarets Bay Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg/500px-The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg?20150621150105",
-    "nearby": [
-        {
-            "description": "White Cliffs Country Trails",
-            "objectID": "4f7edc6243fdb2339d614977a84224ec",
-            "ref": "white-cliffs-country-trails-walking-route"
-        },
-        {
-            "description": "South Foreland Lighthouse",
-            "objectID": "9142535527136441788f2efd48613b37",
-            "ref": "south-foreland-lighthouse-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3f7d98e6cbcc1cc3e51838ccd40f20.gpx",
-    "_geoloc": {
-        "lat": 51.1202538526,
-        "lng": 1.3125843967
+  "created_at": "2026-10-22T21:32:02.177242+00:00",
+  "objectID": "fb3f7d98e6cbcc1cc3e51838ccd40f20",
+  "ref": "dover-to-st-margarets-bay-walk",
+  "title": "Dover to St Margarets Bay Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg/500px-The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg?20150621150105",
+  "nearby": [
+    {
+      "description": "White Cliffs Country Trails",
+      "objectID": "4f7edc6243fdb2339d614977a84224ec",
+      "ref": "white-cliffs-country-trails-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg",
-            "title": "John Baker / The light at the end of The Prince of Wales Pier, Dover",
-            "caption": "The light at the end of The Prince of Wales Pier, Dover"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dover_White_Cliffs_3.jpg",
-            "title": "kallerna, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Dover White Cliffs 3"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg",
-            "title": "South Foreland Lighthouse by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "South Foreland Lighthouse"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/St_Margarets_Bay_-_geograph.org.uk_-_354799.jpg?20110102195625",
-            "title": "Nigel Thornton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "St Margaret's Bay"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "This scenic walk guides you from Dover to St Margaret's Bay along the striking Kent coastline. Covering around 4 miles, the route follows the well-marked White Cliffs Country Trails footpath, offering some of the most iconic coastal views in England. Starting near the busy Dover Pier, the walk quickly rises to join the famous cliff-top path. As you ascend, you’ll be treated to spectacular views over Dover Harbour, the busy English Channel, and on clear days, the distant French coast. The route runs close to the edge of the renowned White Cliffs of Dover, providing breathtaking sea views and plenty of photo opportunities. As you continue east, the trail leads you past the historic South Foreland Lighthouse. This 19th-century Victorian lighthouse is perched high on the cliffs and offers a chance to explore its heritage, enjoy a break at the nearby tearooms, or simply take in the panoramic surroundings. The final stretch brings you down into the peaceful seaside setting of St Margaret's Bay. This attractive bay is sheltered beneath the towering cliffs, with a pebble beach and coastal cafés offering a relaxing place to end your walk. The combination of dramatic coastal scenery, historic landmarks, and well-maintained paths makes this one of the most rewarding short walks on the Kent coast.",
-    "details": [],
-    "district": "Dover",
-    "county": "Kent",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "South Foreland Lighthouse",
+      "objectID": "9142535527136441788f2efd48613b37",
+      "ref": "south-foreland-lighthouse-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3f7d98e6cbcc1cc3e51838ccd40f20.gpx",
+  "_geoloc": {
+    "lat": 51.1202538526,
+    "lng": 1.3125843967
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_light_at_the_end_of_The_Prince_of_Wales_Pier%2C_Dover-geograph-3204536-by-John-Baker.jpg",
+      "title": "John Baker / The light at the end of The Prince of Wales Pier, Dover",
+      "caption": "The light at the end of The Prince of Wales Pier, Dover"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dover_White_Cliffs_3.jpg",
+      "title": "kallerna, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Dover White Cliffs 3"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/South_Foreland_Lighthouse_-_geograph.org.uk_-_2371592.jpg",
+      "title": "South Foreland Lighthouse by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "South Foreland Lighthouse"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/St_Margarets_Bay_-_geograph.org.uk_-_354799.jpg?20110102195625",
+      "title": "Nigel Thornton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "St Margaret's Bay"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "This scenic walk guides you from Dover to St Margaret's Bay along the striking Kent coastline. Covering around 4 miles, the route follows the well-marked White Cliffs Country Trails footpath, offering some of the most iconic coastal views in England. Starting near the busy Dover Pier, the walk quickly rises to join the famous cliff-top path. As you ascend, you\u2019ll be treated to spectacular views over Dover Harbour, the busy English Channel, and on clear days, the distant French coast. The route runs close to the edge of the renowned White Cliffs of Dover, providing breathtaking sea views and plenty of photo opportunities. As you continue east, the trail leads you past the historic South Foreland Lighthouse. This 19th-century Victorian lighthouse is perched high on the cliffs and offers a chance to explore its heritage, enjoy a break at the nearby tearooms, or simply take in the panoramic surroundings. The final stretch brings you down into the peaceful seaside setting of St Margaret's Bay. This attractive bay is sheltered beneath the towering cliffs, with a pebble beach and coastal caf\u00e9s offering a relaxing place to end your walk. The combination of dramatic coastal scenery, historic landmarks, and well-maintained paths makes this one of the most rewarding short walks on the Kent coast.",
+  "details": [],
+  "district": "Dover",
+  "county": "Kent",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "lighthouse",
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Planespotters_at_Manchester_Airport_-_geograph.org.uk_-_4885998.jpg",
       "title": "Planespotters at Manchester Airport by Mike Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Planespotters at Manchester Airport. A major draw for many is the section of the path that runs alongside the airport perimeter, providing a unique vantage point for watching planes take off and land. Despite its popularity, several key parts of the route, including the Giant's Castle Bridge, have faced indefinite closures due to structural damage, so it is vital to check the National Trust’s latest access updates before setting off."
+      "caption": "Planespotters at Manchester Airport. A major draw for many is the section of the path that runs alongside the airport perimeter, providing a unique vantage point for watching planes take off and land. Despite its popularity, several key parts of the route, including the Giant's Castle Bridge, have faced indefinite closures due to structural damage, so it is vital to check the National Trust\u2019s latest access updates before setting off."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Quarry_Bank_Mill_in_Styal_Country_Park_-_geograph.org.uk_-_1294.jpg?_=20100130030922",
@@ -52,5 +52,21 @@
   "county": "Cheshire East",
   "region": "North West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

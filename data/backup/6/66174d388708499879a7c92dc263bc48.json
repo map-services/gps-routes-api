@@ -1,49 +1,64 @@
 {
-    "created_at": "2026-10-22T21:18:16.074914+00:00",
-    "objectID": "66174d388708499879a7c92dc263bc48",
-    "ref": "chagford-to-fingle-bridge-walk",
-    "title": "Chagford to Fingle Bridge Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg/500px-The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg?20221226131330",
-    "nearby": [
-        {
-            "description": "Fingle Bridge and Woods",
-            "objectID": "f3249f8567e57792017b386bced05a94",
-            "ref": "fingle-woods-walking-route"
-        },
-        {
-            "description": "Dartmoor Way",
-            "objectID": "517935ba149ba09e2129f15985e29886",
-            "ref": "dartmoor-way-walking-route"
-        },
-        {
-            "description": "Drewsteignton to Fingle Bridge Walk",
-            "objectID": "131dcf68c44ac8bde6372d117692f32c",
-            "ref": "drewsteignton-to-fingle-bridge-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/66174d388708499879a7c92dc263bc48.gpx",
-    "_geoloc": {
-        "lat": 50.6739867703,
-        "lng": -3.8400659584
+  "created_at": "2026-10-22T21:18:16.074914+00:00",
+  "objectID": "66174d388708499879a7c92dc263bc48",
+  "ref": "chagford-to-fingle-bridge-walk",
+  "title": "Chagford to Fingle Bridge Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg/500px-The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg?20221226131330",
+  "nearby": [
+    {
+      "description": "Fingle Bridge and Woods",
+      "objectID": "f3249f8567e57792017b386bced05a94",
+      "ref": "fingle-woods-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg",
-            "title": "The Square, Chagford by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Square, Chagford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Fingle_Bridge_-_geograph.org.uk_-_1934320.jpg",
-            "title": "Fingle Bridge by Mark Percy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Fingle Bridge"
-        }
-    ],
-    "distance_km": 5.6,
-    "description": "This walk takes you from the Dartmoor village of Chagford to one of the local highlights at Fingle Bridge The route runs for a distance of 3.5 miles, following a section of the waymarked Dartmoor Way. It's a pleasant and easy walk, taking you along the River Teign to the historic bridge in a north easterly direction. The stone bridge spans the River Teign in Teign Gorge and is a popular tourist destination and a Grade II* listed building. There are also some more fine walking trails in the surrounding woodland.",
-    "details": [],
-    "district": "Chagford",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Dartmoor Way",
+      "objectID": "517935ba149ba09e2129f15985e29886",
+      "ref": "dartmoor-way-walking-route"
+    },
+    {
+      "description": "Drewsteignton to Fingle Bridge Walk",
+      "objectID": "131dcf68c44ac8bde6372d117692f32c",
+      "ref": "drewsteignton-to-fingle-bridge-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/66174d388708499879a7c92dc263bc48.gpx",
+  "_geoloc": {
+    "lat": 50.6739867703,
+    "lng": -3.8400659584
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Square%2C_Chagford_-_geograph.org.uk_-_4191387.jpg",
+      "title": "The Square, Chagford by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Square, Chagford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Fingle_Bridge_-_geograph.org.uk_-_1934320.jpg",
+      "title": "Fingle Bridge by Mark Percy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Fingle Bridge"
+    }
+  ],
+  "distance_km": 5.6,
+  "description": "This walk takes you from the Dartmoor village of Chagford to one of the local highlights at Fingle Bridge The route runs for a distance of 3.5 miles, following a section of the waymarked Dartmoor Way. It's a pleasant and easy walk, taking you along the River Teign to the historic bridge in a north easterly direction. The stone bridge spans the River Teign in Teign Gorge and is a popular tourist destination and a Grade II* listed building. There are also some more fine walking trails in the surrounding woodland.",
+  "details": [],
+  "district": "Chagford",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

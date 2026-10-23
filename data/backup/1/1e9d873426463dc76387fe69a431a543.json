@@ -1,73 +1,94 @@
 {
-    "created_at": "2026-10-22T21:57:31.026073+00:00",
-    "objectID": "1e9d873426463dc76387fe69a431a543",
-    "ref": "studham-whipsnade-zoo-walking-route",
-    "title": "Studham Markyate and Whipsnade Zoo Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg/500px-Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg?20220926123329",
-    "nearby": [
-        {
-            "description": "Dunstable Downs Country Park",
-            "objectID": "3f99f6926fb96ba7211fd4588aaaf877",
-            "ref": "dunstable-downs-country-park-walking-route"
-        },
-        {
-            "description": "Whipsnade Heath and Kensworth Quarry Walk",
-            "objectID": "f9af0ad82f296e4dc143bdacbbc80068",
-            "ref": "whipsnade-heath-and-kensworth-quarry-walk"
-        },
-        {
-            "description": "Whipsnade Tree Cathedral",
-            "objectID": "1bfc3a3317620318857fa656aec6a7b8",
-            "ref": "whipsnade-tree-cathedral-walking-route"
-        },
-        {
-            "description": "Caddington and Blows Downs Walk",
-            "objectID": "5eb86cf87b6c9daead52c6ee34245bb7",
-            "ref": "caddington-and-blows-downs-walk"
-        },
-        {
-            "description": "Dunstable Downs to Ivinghoe Beacon Walk",
-            "objectID": "8c3aef4f0484405ffbe86f6197b52cb3",
-            "ref": "dunstable-downs-to-ivinghoe-beacon-walk"
-        },
-        {
-            "description": "Bridgewater Monument Walk",
-            "objectID": "f49908f38b632963b22cc19a69a8fe6c",
-            "ref": "bridgewater-monument-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1e9d873426463dc76387fe69a431a543.gpx",
-    "_geoloc": {
-        "lat": 51.8310563343,
-        "lng": -0.5179972283
+  "created_at": "2026-10-22T21:57:31.026073+00:00",
+  "objectID": "1e9d873426463dc76387fe69a431a543",
+  "ref": "studham-whipsnade-zoo-walking-route",
+  "title": "Studham Markyate and Whipsnade Zoo Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg/500px-Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg?20220926123329",
+  "nearby": [
+    {
+      "description": "Dunstable Downs Country Park",
+      "objectID": "3f99f6926fb96ba7211fd4588aaaf877",
+      "ref": "dunstable-downs-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg",
-            "title": "Studham War Memorial by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Studham War Memorial"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Sun%2C_Markyate_-_geograph.org.uk_-_5648613.jpg?20231031075218",
-            "title": "The Sun, Markyate by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Sun, Markyate"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/The_view_from_Whipsnade_Zoo_-_geograph.org.uk_-_3073736.jpg",
-            "title": "The view from Whipsnade Zoo by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The view from Whipsnade Zoo"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dunstable_Downs_-_geograph.org.uk_-_5065621.jpg?20230722214748",
-            "title": "Dunstable Downs by Alan Hunt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Dunstable Downs"
-        }
-    ],
-    "distance_km": 19.5,
-    "description": "This circular walk explores the area around the villages of Studham and Markyate. The varied walk takes you through some lovely Chilterns countryside and includes a section along Whipsnade Zoo. You'll also enjoy some fine views in the Dunstable Downs Country Park and visit Whipsnade Heath, Kensworth Quarry and Whipsnade Tree Cathedral. There's much to enjoy with hill climbs, woodland trails and a series of pretty villages. You can start and finish the walk in Studham where there are good refreshment options.",
-    "details": [],
-    "county": "Central Bedfordshire",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Whipsnade Heath and Kensworth Quarry Walk",
+      "objectID": "f9af0ad82f296e4dc143bdacbbc80068",
+      "ref": "whipsnade-heath-and-kensworth-quarry-walk"
+    },
+    {
+      "description": "Whipsnade Tree Cathedral",
+      "objectID": "1bfc3a3317620318857fa656aec6a7b8",
+      "ref": "whipsnade-tree-cathedral-walking-route"
+    },
+    {
+      "description": "Caddington and Blows Downs Walk",
+      "objectID": "5eb86cf87b6c9daead52c6ee34245bb7",
+      "ref": "caddington-and-blows-downs-walk"
+    },
+    {
+      "description": "Dunstable Downs to Ivinghoe Beacon Walk",
+      "objectID": "8c3aef4f0484405ffbe86f6197b52cb3",
+      "ref": "dunstable-downs-to-ivinghoe-beacon-walk"
+    },
+    {
+      "description": "Bridgewater Monument Walk",
+      "objectID": "f49908f38b632963b22cc19a69a8fe6c",
+      "ref": "bridgewater-monument-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1e9d873426463dc76387fe69a431a543.gpx",
+  "_geoloc": {
+    "lat": 51.8310563343,
+    "lng": -0.5179972283
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studham_War_Memorial_-_geograph.org.uk_-_3849563.jpg",
+      "title": "Studham War Memorial by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Studham War Memorial"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Sun%2C_Markyate_-_geograph.org.uk_-_5648613.jpg?20231031075218",
+      "title": "The Sun, Markyate by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Sun, Markyate"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/The_view_from_Whipsnade_Zoo_-_geograph.org.uk_-_3073736.jpg",
+      "title": "The view from Whipsnade Zoo by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The view from Whipsnade Zoo"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dunstable_Downs_-_geograph.org.uk_-_5065621.jpg?20230722214748",
+      "title": "Dunstable Downs by Alan Hunt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Dunstable Downs"
+    }
+  ],
+  "distance_km": 19.5,
+  "description": "This circular walk explores the area around the villages of Studham and Markyate. The varied walk takes you through some lovely Chilterns countryside and includes a section along Whipsnade Zoo. You'll also enjoy some fine views in the Dunstable Downs Country Park and visit Whipsnade Heath, Kensworth Quarry and Whipsnade Tree Cathedral. There's much to enjoy with hill climbs, woodland trails and a series of pretty villages. You can start and finish the walk in Studham where there are good refreshment options.",
+  "details": [],
+  "county": "Central Bedfordshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "6-7 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "zoo",
+    "country park",
+    "heath",
+    "quarry",
+    "cathedral"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

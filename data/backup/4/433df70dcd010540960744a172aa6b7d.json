@@ -1,60 +1,76 @@
 {
-    "created_at": "2026-10-22T22:37:46.328008+00:00",
-    "objectID": "433df70dcd010540960744a172aa6b7d",
-    "ref": "flint-to-prestatyn-coastal-path-walking-route",
-    "title": "Flint to Prestatyn Coastal Path Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flint_-_Flint_Castle_-_20220322133345.jpg/500px-Flint_-_Flint_Castle_-_20220322133345.jpg?20220903105644",
-    "nearby": [
-        {
-            "description": "Flint Castle and the Dee Estuary",
-            "objectID": "28debb0dabdcb92e6f991ce61defc8a7",
-            "ref": "flint-castle-and-the-dee-estuary-walking-route"
-        },
-        {
-            "description": "Point of Ayr",
-            "objectID": "882026f14b2d7b9d2015c80543b4f2a0",
-            "ref": "point-of-ayr-walking-route"
-        },
-        {
-            "description": "Chester to Flint Coastal Path",
-            "objectID": "5c6e5449a0703e4d214f196e2f78b91d",
-            "ref": "chester-to-flint-coastal-path-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/433df70dcd010540960744a172aa6b7d.gpx",
-    "_geoloc": {
-        "lat": 53.2522165496,
-        "lng": -3.129721795
+  "created_at": "2026-10-22T22:37:46.328008+00:00",
+  "objectID": "433df70dcd010540960744a172aa6b7d",
+  "ref": "flint-to-prestatyn-coastal-path-walking-route",
+  "title": "Flint to Prestatyn Coastal Path Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flint_-_Flint_Castle_-_20220322133345.jpg/500px-Flint_-_Flint_Castle_-_20220322133345.jpg?20220903105644",
+  "nearby": [
+    {
+      "description": "Flint Castle and the Dee Estuary",
+      "objectID": "28debb0dabdcb92e6f991ce61defc8a7",
+      "ref": "flint-castle-and-the-dee-estuary-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flint_-_Flint_Castle_-_20220322133345.jpg",
-            "title": "Gary Bealr, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Flint Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Talacre-lighthouse2.jpg?20100122121449",
-            "title": "Mattcoxonline at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Talacre and Point of Ayr Lighthouse"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bywyd_gwyllt_Twyni_Gronant_a_Chwningar_Talacre_-_fauna_of_Gronant_Dunes_and_Talacre_Warren_SSSI%2C_Flintshire%2C_Wales_02.jpg",
-            "title": "Llywelyn2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Bywyd gwyllt Twyni Gronant a Chwningar Talacre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg",
-            "title": "Car park - Central Beach, Prestatyn by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Car park"
-        }
-    ],
-    "distance_km": 27.8,
-    "description": "This walk takes you from Flint to Prestatyn along a fine section of the Wales Coast Path. Starting from the historic Flint Castle the route heads north west to Prestatyn via Holywell, the photogenic lighthouse at Point of Ayr, Talacre and the Gronant Dunes Nature Reserve. Along the way there are excellent coastal views, lovely beaches and lots of sea birds to look out for. The route runs for just over 17 miles along a flat, easy path so is suitable for most abilities.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/TEqfH4zj7ZU?si=hod3mfenzsVVxFhl",
-    "district": "Y Fflint / Flint",
-    "county": "Sir y Fflint - Flintshire",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Point of Ayr",
+      "objectID": "882026f14b2d7b9d2015c80543b4f2a0",
+      "ref": "point-of-ayr-walking-route"
+    },
+    {
+      "description": "Chester to Flint Coastal Path",
+      "objectID": "5c6e5449a0703e4d214f196e2f78b91d",
+      "ref": "chester-to-flint-coastal-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/433df70dcd010540960744a172aa6b7d.gpx",
+  "_geoloc": {
+    "lat": 53.2522165496,
+    "lng": -3.129721795
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flint_-_Flint_Castle_-_20220322133345.jpg",
+      "title": "Gary Bealr, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Flint Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Talacre-lighthouse2.jpg?20100122121449",
+      "title": "Mattcoxonline at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Talacre and Point of Ayr Lighthouse"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bywyd_gwyllt_Twyni_Gronant_a_Chwningar_Talacre_-_fauna_of_Gronant_Dunes_and_Talacre_Warren_SSSI%2C_Flintshire%2C_Wales_02.jpg",
+      "title": "Llywelyn2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Bywyd gwyllt Twyni Gronant a Chwningar Talacre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg",
+      "title": "Car park - Central Beach, Prestatyn by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Car park"
+    }
+  ],
+  "distance_km": 27.8,
+  "description": "This walk takes you from Flint to Prestatyn along a fine section of the Wales Coast Path. Starting from the historic Flint Castle the route heads north west to Prestatyn via Holywell, the photogenic lighthouse at Point of Ayr, Talacre and the Gronant Dunes Nature Reserve. Along the way there are excellent coastal views, lovely beaches and lots of sea birds to look out for. The route runs for just over 17 miles along a flat, easy path so is suitable for most abilities.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/TEqfH4zj7ZU?si=hod3mfenzsVVxFhl",
+  "district": "Y Fflint / Flint",
+  "county": "Sir y Fflint - Flintshire",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 45 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "lighthouse",
+    "nature reserve"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

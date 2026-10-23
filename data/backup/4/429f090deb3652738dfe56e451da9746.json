@@ -49,7 +49,7 @@
     }
   ],
   "distance_km": 41.0,
-  "description": "The North Arden Heritage Trail begins at Atherstone train station, offering an accessible start point for this 25-mile circular route through the Warwickshire countryside. Setting out clockwise, the path leaves Atherstone and soon passes through Mancetter, where traces of Roman history and the site of a possible Boudican battlefield lend an early sense of heritage to the journey. From here the route climbs towards Hartshill Country Park, one of the walk’s highlights, with woodland paths, open viewpoints and remnants of ancient quarried landscapes overlooking the Anker Valley.Continuing south, the trail passes Ansley and Arley, a stretch defined by quiet lanes, farmland and hedgerow paths typical of rural North Warwickshire. The way then passes close to Astley, home to Astley Castle, before passing close to the village of Fillongley, where old churches and timber-framed buildings reflect the area’s long history. From here, the path continues towards another route highlight atShustoke Reservoir. This part of the route offers open views across the water and is an excellent place to pause, with birdlife often seen around the shoreline.The route then turns west towards Baddesley Ensor and Merevale, where the landscape becomes more undulating and views open across the rolling Warwickshire countryside. The final section descends back into Atherstone, completing a varied circuit that combines historical landmarks, scenic parkland and rural tranquillity across a representative cross-section of North Warwickshire.",
+  "description": "The North Arden Heritage Trail begins at Atherstone train station, offering an accessible start point for this 25-mile circular route through the Warwickshire countryside. Setting out clockwise, the path leaves Atherstone and soon passes through Mancetter, where traces of Roman history and the site of a possible Boudican battlefield lend an early sense of heritage to the journey. From here the route climbs towards Hartshill Country Park, one of the walk\u2019s highlights, with woodland paths, open viewpoints and remnants of ancient quarried landscapes overlooking the Anker Valley.Continuing south, the trail passes Ansley and Arley, a stretch defined by quiet lanes, farmland and hedgerow paths typical of rural North Warwickshire. The way then passes close to Astley, home to Astley Castle, before passing close to the village of Fillongley, where old churches and timber-framed buildings reflect the area\u2019s long history. From here, the path continues towards another route highlight atShustoke Reservoir. This part of the route offers open views across the water and is an excellent place to pause, with birdlife often seen around the shoreline.The route then turns west towards Baddesley Ensor and Merevale, where the landscape becomes more undulating and views open across the rolling Warwickshire countryside. The final section descends back into Atherstone, completing a varied circuit that combines historical landmarks, scenic parkland and rural tranquillity across a representative cross-section of North Warwickshire.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/7um9a6_vKyw?si=rOr7hTiReCEMoi-4&start=316",
   "postcode": "CV9 2PR",
@@ -57,5 +57,24 @@
   "county": "Warwickshire",
   "region": "West Midlands",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "open countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "reservoir"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

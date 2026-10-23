@@ -1,61 +1,79 @@
 {
-    "created_at": "2026-10-22T21:32:05.107303+00:00",
-    "objectID": "5f0ec8c5a53fa95c10d476739417e086",
-    "ref": "downpatrick-head-walking-route",
-    "title": "Downpatrick Head Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg/500px-Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg?20130203044642",
-    "nearby": [
-        {
-            "description": "Ceide Fields",
-            "objectID": "f8de6ea82448fa5fbf1ba82b05dddd7f",
-            "ref": "ceide-fields-walking-route"
-        },
-        {
-            "description": "Carrowteige Loop Walk",
-            "objectID": "538bb3052dde74ba234eb38114f3ac72",
-            "ref": "carrowteige-loop-walk"
-        },
-        {
-            "description": "Portacloy Loop Cliff Walk",
-            "objectID": "f2712b490d029e41a8eb34370d771786",
-            "ref": "portacloy-loop-cliff-walk"
-        },
-        {
-            "description": "Lacken Loop",
-            "objectID": "c74b9641fede21f4c708dcafb71495e1",
-            "ref": "lacken-loop-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5f0ec8c5a53fa95c10d476739417e086.gpx",
-    "_geoloc": {
-        "lat": 54.32278,
-        "lng": -9.34587
+  "created_at": "2026-10-22T21:32:05.107303+00:00",
+  "objectID": "5f0ec8c5a53fa95c10d476739417e086",
+  "ref": "downpatrick-head-walking-route",
+  "title": "Downpatrick Head Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg/500px-Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg?20130203044642",
+  "nearby": [
+    {
+      "description": "Ceide Fields",
+      "objectID": "f8de6ea82448fa5fbf1ba82b05dddd7f",
+      "ref": "ceide-fields-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg",
-            "title": "Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Downpatrick Head, Co. Mayo. As you walk, you’ll pass rugged grassland dotted with hardy coastal plants such as thrift, sea campion, and red fescue, all adapted to the windswept environment. Birdwatchers will be delighted by the rich avian life in the area. Puffins, guillemots, razorbills, and fulmars are commonly seen nesting on the dramatic cliffs, while kittiwakes and gannets are often spotted gliding along the coast. During migration periods, you may also catch sight of rare seabirds."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Blowhole%2C_Downpatrick_Head_-_geograph.org.uk_-_7169872.jpg",
-            "title": "Blowhole, Downpatrick Head by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Blowhole, Downpatrick Head"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dun_Briste%2C_Downpatrick_Head.jpg",
-            "title": "Mikołaj Pisula, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Dun Briste, Downpatrick Head."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Downpatrick_Head_IRL_04.jpg",
-            "title": "PaulT, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Downpatrick Head. The area is steeped in history and legend. Downpatrick Head is named after Saint Patrick, who is said to have established a church here. Ruins of this early Christian site can still be explored, including a holy well and remnants of a stone cross. During the Second World War, the site also served as a lookout post, and the ÉIRE 64 marker—used to guide pilots—is still visible on the ground."
-        }
-    ],
-    "distance_km": 1.2,
-    "description": "This circular loop walk visits Downpatrick Head on the north Mayo coast. You can start the walk from the car park at the headland. The highlight of the walk is reaching Downpatrick Head itself, a striking promontory that juts into the Atlantic Ocean. The headland is famous for the 50-metre-high sea stack known as Dún Briste, which stands isolated from the cliffs after being separated by stormy seas in the 14th century. The layers of colourful sedimentary rock in the stack are a fascinating geological feature, telling a story of millions of years of natural history. Interpretive signs at the site provide additional details about the formation of the stack. From the cliffs, visitors are treated to expansive views of the Atlantic, with the Stags of Broadhaven rock formations visible on clear days. The wild, windswept beauty of the area is complemented by the sound of crashing waves and the cries of seabirds. Head west along the coast and you could also visit the noteworthy Ceide Fields. The fascinating archaeological site includes the oldest known stone-walled fields in the world, dating back nearly 6,000 years. To the east you can pick up the Lacken Loop .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/wQfDCCT4efI?si=xXoFwzOSRQ4KLebx",
-    "gazetteer_found": false
+    {
+      "description": "Carrowteige Loop Walk",
+      "objectID": "538bb3052dde74ba234eb38114f3ac72",
+      "ref": "carrowteige-loop-walk"
+    },
+    {
+      "description": "Portacloy Loop Cliff Walk",
+      "objectID": "f2712b490d029e41a8eb34370d771786",
+      "ref": "portacloy-loop-cliff-walk"
+    },
+    {
+      "description": "Lacken Loop",
+      "objectID": "c74b9641fede21f4c708dcafb71495e1",
+      "ref": "lacken-loop-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5f0ec8c5a53fa95c10d476739417e086.gpx",
+  "_geoloc": {
+    "lat": 54.32278,
+    "lng": -9.34587
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Downpatrick_Head_%2C_Co._Mayo_%282605898512%29.jpg",
+      "title": "Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Downpatrick Head, Co. Mayo. As you walk, you\u2019ll pass rugged grassland dotted with hardy coastal plants such as thrift, sea campion, and red fescue, all adapted to the windswept environment. Birdwatchers will be delighted by the rich avian life in the area. Puffins, guillemots, razorbills, and fulmars are commonly seen nesting on the dramatic cliffs, while kittiwakes and gannets are often spotted gliding along the coast. During migration periods, you may also catch sight of rare seabirds."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Blowhole%2C_Downpatrick_Head_-_geograph.org.uk_-_7169872.jpg",
+      "title": "Blowhole, Downpatrick Head by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Blowhole, Downpatrick Head"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dun_Briste%2C_Downpatrick_Head.jpg",
+      "title": "Miko\u0142aj Pisula, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Dun Briste, Downpatrick Head."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Downpatrick_Head_IRL_04.jpg",
+      "title": "PaulT, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Downpatrick Head. The area is steeped in history and legend. Downpatrick Head is named after Saint Patrick, who is said to have established a church here. Ruins of this early Christian site can still be explored, including a holy well and remnants of a stone cross. During the Second World War, the site also served as a lookout post, and the \u00c9IRE 64 marker\u2014used to guide pilots\u2014is still visible on the ground."
+    }
+  ],
+  "distance_km": 1.2,
+  "description": "This circular loop walk visits Downpatrick Head on the north Mayo coast. You can start the walk from the car park at the headland. The highlight of the walk is reaching Downpatrick Head itself, a striking promontory that juts into the Atlantic Ocean. The headland is famous for the 50-metre-high sea stack known as D\u00fan Briste, which stands isolated from the cliffs after being separated by stormy seas in the 14th century. The layers of colourful sedimentary rock in the stack are a fascinating geological feature, telling a story of millions of years of natural history. Interpretive signs at the site provide additional details about the formation of the stack. From the cliffs, visitors are treated to expansive views of the Atlantic, with the Stags of Broadhaven rock formations visible on clear days. The wild, windswept beauty of the area is complemented by the sound of crashing waves and the cries of seabirds. Head west along the coast and you could also visit the noteworthy Ceide Fields. The fascinating archaeological site includes the oldest known stone-walled fields in the world, dating back nearly 6,000 years. To the east you can pick up the Lacken Loop .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/wQfDCCT4efI?si=xXoFwzOSRQ4KLebx",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "promontory",
+    "sea stack",
+    "archaeological site"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

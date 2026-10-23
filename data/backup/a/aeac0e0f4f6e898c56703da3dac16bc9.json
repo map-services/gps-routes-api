@@ -42,5 +42,23 @@
   "distance_km": 4.6,
   "description": "This walk or cycle follows the Speyside Way from Kingussie to Newtonmore. The surfaced roadside trail takes you through some lovely countryside between the two settlements. It runs for about 3 miles along a flat trail with some excellent views of the surrounding Cairngorms mountains. You can continue your walking on the circular Wildcat Trail in Newtonmore .",
   "details": [],
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "roadside",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "mountain views"
+  ],
+  "facilities": [
+    "surfaced trail"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

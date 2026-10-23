@@ -49,12 +49,28 @@
     }
   ],
   "distance_km": 8.8,
-  "description": "This walk takes you to the Scolt Head Nature Reserve on the Norfolk coast. The walk starts from the village of Brancaster Staithe, following the Peddars Way and Norfolk Coast Path east along the front. The route then turns north east to follow footpaths into the reserve. The Scolt Head tidal walk involves wading through shallow creeks and crossing expansive mudflats before reaching the island’s sandy dunes and wild landscape. This walk can only be undertaken at low tide as the tides flood the crossing route quickly, cutting the island off from the mainland.",
+  "description": "This walk takes you to the Scolt Head Nature Reserve on the Norfolk coast. The walk starts from the village of Brancaster Staithe, following the Peddars Way and Norfolk Coast Path east along the front. The route then turns north east to follow footpaths into the reserve. The Scolt Head tidal walk involves wading through shallow creeks and crossing expansive mudflats before reaching the island\u2019s sandy dunes and wild landscape. This walk can only be undertaken at low tide as the tides flood the crossing route quickly, cutting the island off from the mainland.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/geR7CHaRqUw?si=_irxFMpsn9Os8vOM",
   "district": "Brancaster Staithe",
   "county": "Norfolk",
   "region": "Eastern",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mudflat",
+    "dune"
+  ],
+  "points_of_interest": [
+    "nature reserve"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

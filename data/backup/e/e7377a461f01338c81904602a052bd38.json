@@ -1,59 +1,78 @@
 {
-    "created_at": "2026-10-22T22:54:16.926963+00:00",
-    "objectID": "e7377a461f01338c81904602a052bd38",
-    "ref": "tarbat-ness-lighthouse-walk",
-    "title": "Tarbat Ness Lighthouse Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg/500px-Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg?20251005010424",
-    "nearby": [
-        {
-            "description": "Loch Eye Walk",
-            "objectID": "ac7fbc596d3c7509e2fd7d1c23dcfb2e",
-            "ref": "loch-eye-walk"
-        },
-        {
-            "description": "Aldie Burn Forest Walk",
-            "objectID": "f7f002006eb42e9700aeeca083adb124",
-            "ref": "aldie-burn-forest-walk"
-        },
-        {
-            "description": "Dornoch to Embo",
-            "objectID": "f6e255ae183523fbf78446935adfcce4",
-            "ref": "dornoch-to-embo-walking-route"
-        },
-        {
-            "description": "Morangie Forest Walk",
-            "objectID": "ec2dc18f9dcec79130affff4016d84f5",
-            "ref": "morangie-forest-walk"
-        },
-        {
-            "description": "Tain Hill Forest and Pulpit Rock Walk",
-            "objectID": "22d208ab97c7289315812540167480f0",
-            "ref": "tain-hill-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e7377a461f01338c81904602a052bd38.gpx",
-    "_geoloc": {
-        "lat": 57.8627491003,
-        "lng": -3.7796100248
+  "created_at": "2026-10-22T22:54:16.926963+00:00",
+  "objectID": "e7377a461f01338c81904602a052bd38",
+  "ref": "tarbat-ness-lighthouse-walk",
+  "title": "Tarbat Ness Lighthouse Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg/500px-Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg?20251005010424",
+  "nearby": [
+    {
+      "description": "Loch Eye Walk",
+      "objectID": "ac7fbc596d3c7509e2fd7d1c23dcfb2e",
+      "ref": "loch-eye-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg",
-            "title": "Tarbat Ness Lighthouse by Julian Paren, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Tarbat Ness Lighthouse. The lighthouse is located at the northwestern tip of the Tarbat Peninsula in Easter Ross, Scotland. It was built in 1830 by Robert Stevenson and is the third tallest lighthouse in Scotland, standing 41 metres high with 203 steps to the top. The tower is white with two red bands, a black lantern, and ochre trim. Its light flashes four times every 30 seconds and can be seen up to 24 nautical miles away. The lighthouse was automated in 1985 and continues to serve as an important navigation aid at the mouth of the Moray Firth."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Road_to_Tarbat_Ness_lighthouse_-_geograph.org.uk_-_2024266.jpg",
-            "title": "Road to Tarbat Ness lighthouse by Bob Embleton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Road to Tarbat Ness lighthouse"
-        }
-    ],
-    "distance_km": 1.4,
-    "description": "This walk visits the Tarbat Ness Lighthouse on the Tarbat Peninsula in Easter Ross. You can start the walk from the parking area just south of the lighthouse. From the parking area, the route follows the coastal path along the peninsula, offering uninterrupted views across the Moray Firth and the surrounding coastline. The lighthouse, a striking white tower, stands at the tip of the peninsula and serves as a prominent landmark visible for miles. The path passes grassy cliffs and low coastal scrub, where seabirds such as gulls and terns are often seen flying overhead or resting along the shore.As you continue along the trail, there are occasional benches and viewpoints where you can pause and take in the scenery. The walk then loops back inland through quiet lanes and open fields, giving a different perspective of the Tarbat Ness area and the small settlements dotted across the peninsula.For a longer circular walk to the lighthouse see thePortmahomack Lighthouse Walkpage.To further continue your walking in the area head south west to pick up theLoch Eye Walkand theAldie Burn Forest Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/wX1nTJkSV3Y?si=QgupzyuE-T7blWeh",
-    "county": "Highland",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Aldie Burn Forest Walk",
+      "objectID": "f7f002006eb42e9700aeeca083adb124",
+      "ref": "aldie-burn-forest-walk"
+    },
+    {
+      "description": "Dornoch to Embo",
+      "objectID": "f6e255ae183523fbf78446935adfcce4",
+      "ref": "dornoch-to-embo-walking-route"
+    },
+    {
+      "description": "Morangie Forest Walk",
+      "objectID": "ec2dc18f9dcec79130affff4016d84f5",
+      "ref": "morangie-forest-walk"
+    },
+    {
+      "description": "Tain Hill Forest and Pulpit Rock Walk",
+      "objectID": "22d208ab97c7289315812540167480f0",
+      "ref": "tain-hill-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e7377a461f01338c81904602a052bd38.gpx",
+  "_geoloc": {
+    "lat": 57.8627491003,
+    "lng": -3.7796100248
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tarbat_Ness_Lighthouse_-_geograph.org.uk_-_8123193.jpg",
+      "title": "Tarbat Ness Lighthouse by Julian Paren, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tarbat Ness Lighthouse. The lighthouse is located at the northwestern tip of the Tarbat Peninsula in Easter Ross, Scotland. It was built in 1830 by Robert Stevenson and is the third tallest lighthouse in Scotland, standing 41 metres high with 203 steps to the top. The tower is white with two red bands, a black lantern, and ochre trim. Its light flashes four times every 30 seconds and can be seen up to 24 nautical miles away. The lighthouse was automated in 1985 and continues to serve as an important navigation aid at the mouth of the Moray Firth."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Road_to_Tarbat_Ness_lighthouse_-_geograph.org.uk_-_2024266.jpg",
+      "title": "Road to Tarbat Ness lighthouse by Bob Embleton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Road to Tarbat Ness lighthouse"
+    }
+  ],
+  "distance_km": 1.4,
+  "description": "This walk visits the Tarbat Ness Lighthouse on the Tarbat Peninsula in Easter Ross. You can start the walk from the parking area just south of the lighthouse. From the parking area, the route follows the coastal path along the peninsula, offering uninterrupted views across the Moray Firth and the surrounding coastline. The lighthouse, a striking white tower, stands at the tip of the peninsula and serves as a prominent landmark visible for miles. The path passes grassy cliffs and low coastal scrub, where seabirds such as gulls and terns are often seen flying overhead or resting along the shore.As you continue along the trail, there are occasional benches and viewpoints where you can pause and take in the scenery. The walk then loops back inland through quiet lanes and open fields, giving a different perspective of the Tarbat Ness area and the small settlements dotted across the peninsula.For a longer circular walk to the lighthouse see thePortmahomack Lighthouse Walkpage.To further continue your walking in the area head south west to pick up theLoch Eye Walkand theAldie Burn Forest Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/wX1nTJkSV3Y?si=QgupzyuE-T7blWeh",
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "grassy"
+  ],
+  "points_of_interest": [
+    "lighthouse",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "bench"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

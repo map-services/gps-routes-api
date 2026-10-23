@@ -1,80 +1,96 @@
 {
-    "created_at": "2026-10-22T22:40:48.267185+00:00",
-    "objectID": "8ca09b8e6eb1c7f12c424b5906f2db46",
-    "ref": "hook-moor-wind-farm-walk",
-    "title": "Hook Moor Wind Farm Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg/500px-Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg?20241124153433",
-    "nearby": [
-        {
-            "description": "Lotherton Hall Estate",
-            "objectID": "e25e4d911f6c64482bbcd52fd364c665",
-            "ref": "lotherton-hall-estate-walking-route"
-        },
-        {
-            "description": "Towton Battlefield",
-            "objectID": "c4d84921196f376387c6bdfc5508d52f",
-            "ref": "towton-battlefield-walking-route"
-        },
-        {
-            "description": "Jorvic Way",
-            "objectID": "7a353e892d2c506a9cebc22a31e84d8a",
-            "ref": "jorvic-way-walking-route"
-        },
-        {
-            "description": "Ebor Way",
-            "objectID": "460b6eaefa835488435e3937ef49f82d",
-            "ref": "ebor-way-walking-route"
-        },
-        {
-            "description": "Tadcaster Viaduct Walk",
-            "objectID": "44e5492f8b5b979c55e7e27436548937",
-            "ref": "tadcaster-viaduct-walk-walking-route"
-        },
-        {
-            "description": "Aberford",
-            "objectID": "3eefc7797d6273f8cd82cdbe7cba6fcd",
-            "ref": "aberford-walking-route"
-        },
-        {
-            "description": "Garforth",
-            "objectID": "77b94fd96bb8195702c06a0ffe84ca2f",
-            "ref": "garforth-walking-route"
-        },
-        {
-            "description": "Parlington Woods",
-            "objectID": "5cb0bbcf30dc4c70f27ff97640d858df",
-            "ref": "parlington-woods-walking-route"
-        },
-        {
-            "description": "Leeds to Saltaire Canal Walk",
-            "objectID": "e4872c68e680590966212f20717acfbc",
-            "ref": "leeds-to-saltaire-canal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8ca09b8e6eb1c7f12c424b5906f2db46.gpx",
-    "_geoloc": {
-        "lat": 53.8184170131,
-        "lng": -1.3191078828
+  "created_at": "2026-10-22T22:40:48.267185+00:00",
+  "objectID": "8ca09b8e6eb1c7f12c424b5906f2db46",
+  "ref": "hook-moor-wind-farm-walk",
+  "title": "Hook Moor Wind Farm Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg/500px-Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg?20241124153433",
+  "nearby": [
+    {
+      "description": "Lotherton Hall Estate",
+      "objectID": "e25e4d911f6c64482bbcd52fd364c665",
+      "ref": "lotherton-hall-estate-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg",
-            "title": "Hook Moor Wind Farm by derek dye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hook Moor Wind Farm provides renewable electricity to power almost 7,000 homes each year. There are five turbines, specifically Senvion MM92/2050 models, each with a power output of 2.05 MW and a tip height of 125 meters."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hook_Moor_Trigpoint_-_geograph.org.uk_-_1933069.jpg",
-            "title": "Hook Moor Trigpoint by Mark Anderson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hook Moor Trigpoint"
-        }
-    ],
-    "distance_km": 5.2,
-    "description": "This walk visits the Hook Moor Wind Farm from the Lotherton Hall Estate near Garforth and Leeds. The moor is a fine place for a walk with excellent countryside views and good footpaths. There's also some peaceful woodland trails through the adjacent Ringhay Wood. The route includes a visit to Lotherton Hall where you can explore the deer park and gardens on a series of surfaced paths.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/sA-2gcqcREA?si=_zr_CjpIjJrLytwQ",
-    "postcode": "LS25 3EB",
-    "district": "Lotherton",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Towton Battlefield",
+      "objectID": "c4d84921196f376387c6bdfc5508d52f",
+      "ref": "towton-battlefield-walking-route"
+    },
+    {
+      "description": "Jorvic Way",
+      "objectID": "7a353e892d2c506a9cebc22a31e84d8a",
+      "ref": "jorvic-way-walking-route"
+    },
+    {
+      "description": "Ebor Way",
+      "objectID": "460b6eaefa835488435e3937ef49f82d",
+      "ref": "ebor-way-walking-route"
+    },
+    {
+      "description": "Tadcaster Viaduct Walk",
+      "objectID": "44e5492f8b5b979c55e7e27436548937",
+      "ref": "tadcaster-viaduct-walk-walking-route"
+    },
+    {
+      "description": "Aberford",
+      "objectID": "3eefc7797d6273f8cd82cdbe7cba6fcd",
+      "ref": "aberford-walking-route"
+    },
+    {
+      "description": "Garforth",
+      "objectID": "77b94fd96bb8195702c06a0ffe84ca2f",
+      "ref": "garforth-walking-route"
+    },
+    {
+      "description": "Parlington Woods",
+      "objectID": "5cb0bbcf30dc4c70f27ff97640d858df",
+      "ref": "parlington-woods-walking-route"
+    },
+    {
+      "description": "Leeds to Saltaire Canal Walk",
+      "objectID": "e4872c68e680590966212f20717acfbc",
+      "ref": "leeds-to-saltaire-canal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8ca09b8e6eb1c7f12c424b5906f2db46.gpx",
+  "_geoloc": {
+    "lat": 53.8184170131,
+    "lng": -1.3191078828
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hook_Moor_Wind_Farm_-_geograph.org.uk_-_7018695.jpg",
+      "title": "Hook Moor Wind Farm by derek dye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hook Moor Wind Farm provides renewable electricity to power almost 7,000 homes each year. There are five turbines, specifically Senvion MM92/2050 models, each with a power output of 2.05 MW and a tip height of 125 meters."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hook_Moor_Trigpoint_-_geograph.org.uk_-_1933069.jpg",
+      "title": "Hook Moor Trigpoint by Mark Anderson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hook Moor Trigpoint"
+    }
+  ],
+  "distance_km": 5.2,
+  "description": "This walk visits the Hook Moor Wind Farm from the Lotherton Hall Estate near Garforth and Leeds. The moor is a fine place for a walk with excellent countryside views and good footpaths. There's also some peaceful woodland trails through the adjacent Ringhay Wood. The route includes a visit to Lotherton Hall where you can explore the deer park and gardens on a series of surfaced paths.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/sA-2gcqcREA?si=_zr_CjpIjJrLytwQ",
+  "postcode": "LS25 3EB",
+  "district": "Lotherton",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

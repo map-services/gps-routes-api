@@ -40,12 +40,12 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Yacht_heading_into_Orford_Haven_-_geograph.org.uk_-_5019560.jpg",
       "title": "Yacht heading into Orford Haven by Chris Holifield, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Yacht heading into Orford Haven. The River Ore is a tidal river in Suffolk, forming the final stretch of the Alde-Ore Estuary before it reaches the North Sea. It begins near Orford, where the River Alde changes its name to the Ore, and runs south parallel to the coast, separated from the open sea by Orford Ness, a long, shingle spit. The river widens as it approaches Orford Haven, its mouth, before flowing into the sea. The estuary is dynamic, with shifting sandbanks and shingle deposits continually altering its shape. Orford Haven, the river’s entrance to the sea, was once a significant harbour, but centuries of coastal changes have made it more challenging to navigate. Historically, it provided access to the important medieval port of Orford, which has since lost much of its maritime prominence due to silting and the growth of Orford Ness. The shifting nature of the haven has influenced the surrounding coastline, contributing to the isolation of Havergate Island, which lies within the estuary."
+      "caption": "Yacht heading into Orford Haven. The River Ore is a tidal river in Suffolk, forming the final stretch of the Alde-Ore Estuary before it reaches the North Sea. It begins near Orford, where the River Alde changes its name to the Ore, and runs south parallel to the coast, separated from the open sea by Orford Ness, a long, shingle spit. The river widens as it approaches Orford Haven, its mouth, before flowing into the sea. The estuary is dynamic, with shifting sandbanks and shingle deposits continually altering its shape. Orford Haven, the river\u2019s entrance to the sea, was once a significant harbour, but centuries of coastal changes have made it more challenging to navigate. Historically, it provided access to the important medieval port of Orford, which has since lost much of its maritime prominence due to silting and the growth of Orford Ness. The shifting nature of the haven has influenced the surrounding coastline, contributing to the isolation of Havergate Island, which lies within the estuary."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Martello_tower%2C_Shingle_Street%2C_Suffolk_-_geograph.org.uk_-_4227316.jpg",
       "title": "Martello tower, Shingle Street, Suffolk by andrew jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Martello tower, Shingle Street, Suffolk Beyond its natural appeal, the area has a mysterious history. During World War II, Shingle Street was reportedly evacuated, and rumours persisted of a failed German landing, although no concrete evidence was ever confirmed. The Martello Tower, part of a series of early 19th-century defences against potential Napoleonic invasion, stands as a reminder of the coast’s strategic importance. The combination of expansive coastal views, unique wildlife, and intriguing history makes this a rewarding walk, especially for those interested in Suffolk’s wilder landscapes."
+      "caption": "Martello tower, Shingle Street, Suffolk Beyond its natural appeal, the area has a mysterious history. During World War II, Shingle Street was reportedly evacuated, and rumours persisted of a failed German landing, although no concrete evidence was ever confirmed. The Martello Tower, part of a series of early 19th-century defences against potential Napoleonic invasion, stands as a reminder of the coast\u2019s strategic importance. The combination of expansive coastal views, unique wildlife, and intriguing history makes this a rewarding walk, especially for those interested in Suffolk\u2019s wilder landscapes."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Three_Towers_-_geograph.org.uk_-_494173.jpg?20110205062532",
@@ -62,5 +62,23 @@
   "county": "Suffolk",
   "region": "Eastern",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "stream"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

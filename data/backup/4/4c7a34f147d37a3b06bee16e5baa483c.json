@@ -1,41 +1,57 @@
 {
-    "created_at": "2026-10-22T22:35:39.135035+00:00",
-    "objectID": "4c7a34f147d37a3b06bee16e5baa483c",
-    "ref": "cwm-du-glen-walk",
-    "title": "Cwm Du Glen Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg/500px-Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg?20220812014343",
-    "nearby": [
-        {
-            "description": "Pontardawe Canal Walk",
-            "objectID": "74e9b8f3c2237e4bd5713eea03f81102",
-            "ref": "pontardawe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4c7a34f147d37a3b06bee16e5baa483c.gpx",
-    "_geoloc": {
-        "lat": 51.72016,
-        "lng": -3.85363
+  "created_at": "2026-10-22T22:35:39.135035+00:00",
+  "objectID": "4c7a34f147d37a3b06bee16e5baa483c",
+  "ref": "cwm-du-glen-walk",
+  "title": "Cwm Du Glen Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg/500px-Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg?20220812014343",
+  "nearby": [
+    {
+      "description": "Pontardawe Canal Walk",
+      "objectID": "74e9b8f3c2237e4bd5713eea03f81102",
+      "ref": "pontardawe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4c7a34f147d37a3b06bee16e5baa483c.gpx",
+  "_geoloc": {
+    "lat": 51.72016,
+    "lng": -3.85363
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg",
+      "title": "Footbridge in Cwm Du Glen by Nigel Davies, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Footbridge in Cwm Du Glen"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Footbridge_in_Cwm_Du_Glen_-_geograph.org.uk_-_3679929.jpg",
-            "title": "Footbridge in Cwm Du Glen by Nigel Davies, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Footbridge in Cwm Du Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Waterfall_on_the_Upper_Clydach_river_-_geograph.org.uk_-_806084.jpg?20110220101916",
-            "title": "Nigel Davies / Waterfall on the Upper Clydach river",
-            "caption": "Waterfall on the Upper Clydach river"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "This walk takes you through the Cwm Du Glen Nature Reserve in Pontardawe. The trail takes you through a narrow gorge running along the Upper Clydach River on the western side of the town. On the way you will pass the sight of Glanrhyd House. The house was used as a hospital during the First World War but was demolished in 1968. On the walk you will pass the remains of the old gardens and swimming pool.Along the route there are also a series of picturesque waterfalls to see. You can continue your waterside walking in the town by picking up theSwansea Canal.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/X_PFTBs7K0U?si=8zBvgYHP97bsiyWE",
-    "postcode": "SA8 4AB",
-    "district": "Pontardawe",
-    "county": "Castell-nedd Port Talbot - Neath Port Talbot",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Waterfall_on_the_Upper_Clydach_river_-_geograph.org.uk_-_806084.jpg?20110220101916",
+      "title": "Nigel Davies / Waterfall on the Upper Clydach river",
+      "caption": "Waterfall on the Upper Clydach river"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "This walk takes you through the Cwm Du Glen Nature Reserve in Pontardawe. The trail takes you through a narrow gorge running along the Upper Clydach River on the western side of the town. On the way you will pass the sight of Glanrhyd House. The house was used as a hospital during the First World War but was demolished in 1968. On the walk you will pass the remains of the old gardens and swimming pool.Along the route there are also a series of picturesque waterfalls to see. You can continue your waterside walking in the town by picking up theSwansea Canal.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/X_PFTBs7K0U?si=8zBvgYHP97bsiyWE",
+  "postcode": "SA8 4AB",
+  "district": "Pontardawe",
+  "county": "Castell-nedd Port Talbot - Neath Port Talbot",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "gorge",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "waterfall"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

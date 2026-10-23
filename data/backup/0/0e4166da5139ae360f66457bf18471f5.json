@@ -1,55 +1,70 @@
 {
-    "created_at": "2026-10-22T21:41:13.474260+00:00",
-    "objectID": "0e4166da5139ae360f66457bf18471f5",
-    "ref": "killearn-glen-walking-route",
-    "title": "Killearn Glen Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg/500px-Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg?20231211080144",
-    "nearby": [
-        {
-            "description": "West Highland Way",
-            "objectID": "448b3c428907038d4574321287915104",
-            "ref": "west-highland-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Devil's Pulpit Finnich Glen",
-            "objectID": "e9057dee21dc646fb313936c1cf7d5db",
-            "ref": "devils-pulpit-finnich-glen-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e4166da5139ae360f66457bf18471f5.gpx",
-    "_geoloc": {
-        "lat": 56.0431734695,
-        "lng": -4.3721767953
+  "created_at": "2026-10-22T21:41:13.474260+00:00",
+  "objectID": "0e4166da5139ae360f66457bf18471f5",
+  "ref": "killearn-glen-walking-route",
+  "title": "Killearn Glen Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg/500px-Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg?20231211080144",
+  "nearby": [
+    {
+      "description": "West Highland Way",
+      "objectID": "448b3c428907038d4574321287915104",
+      "ref": "west-highland-way-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg",
-            "title": "Killearn Aqueduct Bridge by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Killearn Aqueduct Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Killearn_church_-_geograph.org.uk_-_40348.jpg?20100130155857",
-            "title": "Kevin Rae / Killearn church",
-            "caption": "Killearn church. This church was built in 1882."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cottages%2C_The_Square%2C_Killearn_-_geograph.org.uk_-_5215535.jpg",
-            "title": "Cottages, The Square, Killearn by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cottages, The Square, Killearn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_old_kirk%2C_Killearn_-_geograph.org.uk_-_7093924.jpg",
-            "title": "The old kirk, Killearn by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The ruined old kirk, Killearn"
-        }
-    ],
-    "distance_km": 2.2,
-    "description": "This peaceful walk takes you around the woodland paths in Killearn Glen in the village of Killearn in the Stirling council area of Scotland. The attractive village is located about 15 miles north of Glasgow and includes a fine heritage trail taking you around the historic settlement. On the southern side of the village you will find the pretty glen where you can enjoy a stroll through the woodland to the Killearn Aqueduct Bridge over the Kirkhouse Burn. On the western side of the village you can extend your walking along the West Highland Way. Also to the west is the Devil's Pulpit Finnich Glen where you will find a wooded gorge, crystal clear waters and rushing waterfalls.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/EnyVRvxkPY0?si=SJPsxZWSBXfTqcNO",
-    "district": "Killearn",
-    "county": "Stirling",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Devil's Pulpit Finnich Glen",
+      "objectID": "e9057dee21dc646fb313936c1cf7d5db",
+      "ref": "devils-pulpit-finnich-glen-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e4166da5139ae360f66457bf18471f5.gpx",
+  "_geoloc": {
+    "lat": 56.0431734695,
+    "lng": -4.3721767953
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Killearn_Aqueduct_Bridge_-_geograph.org.uk_-_5908309.jpg",
+      "title": "Killearn Aqueduct Bridge by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Killearn Aqueduct Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Killearn_church_-_geograph.org.uk_-_40348.jpg?20100130155857",
+      "title": "Kevin Rae / Killearn church",
+      "caption": "Killearn church. This church was built in 1882."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cottages%2C_The_Square%2C_Killearn_-_geograph.org.uk_-_5215535.jpg",
+      "title": "Cottages, The Square, Killearn by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cottages, The Square, Killearn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_old_kirk%2C_Killearn_-_geograph.org.uk_-_7093924.jpg",
+      "title": "The old kirk, Killearn by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The ruined old kirk, Killearn"
+    }
+  ],
+  "distance_km": 2.2,
+  "description": "This peaceful walk takes you around the woodland paths in Killearn Glen in the village of Killearn in the Stirling council area of Scotland. The attractive village is located about 15 miles north of Glasgow and includes a fine heritage trail taking you around the historic settlement. On the southern side of the village you will find the pretty glen where you can enjoy a stroll through the woodland to the Killearn Aqueduct Bridge over the Kirkhouse Burn. On the western side of the village you can extend your walking along the West Highland Way. Also to the west is the Devil's Pulpit Finnich Glen where you will find a wooded gorge, crystal clear waters and rushing waterfalls.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/EnyVRvxkPY0?si=SJPsxZWSBXfTqcNO",
+  "district": "Killearn",
+  "county": "Stirling",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "waterfall"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

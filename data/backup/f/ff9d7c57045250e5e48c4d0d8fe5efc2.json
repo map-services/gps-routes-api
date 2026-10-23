@@ -1,55 +1,78 @@
 {
-    "created_at": "2026-10-22T22:55:04.806154+00:00",
-    "objectID": "ff9d7c57045250e5e48c4d0d8fe5efc2",
-    "ref": "torr-point-walk",
-    "title": "Torr Point Auchencairn Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torr_Point_-_geograph.org.uk_-_7139673.jpg/500px-Torr_Point_-_geograph.org.uk_-_7139673.jpg?20241225083410",
-    "nearby": [
-        {
-            "description": "Balcary Bay Walk",
-            "objectID": "5d9a8c9c5bc9dfdfe6c03675cd53bb94",
-            "ref": "balcary-bay-walk"
-        },
-        {
-            "description": "Rascarrel Bay Walk",
-            "objectID": "8070d73afc5c3c56419bffad5b3dae08",
-            "ref": "rascarrel-bay-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/ff9d7c57045250e5e48c4d0d8fe5efc2.gpx",
-    "_geoloc": {
-        "lat": 54.8444458262,
-        "lng": -3.8701663525
+  "created_at": "2026-10-22T22:55:04.806154+00:00",
+  "objectID": "ff9d7c57045250e5e48c4d0d8fe5efc2",
+  "ref": "torr-point-walk",
+  "title": "Torr Point Auchencairn Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torr_Point_-_geograph.org.uk_-_7139673.jpg/500px-Torr_Point_-_geograph.org.uk_-_7139673.jpg?20241225083410",
+  "nearby": [
+    {
+      "description": "Balcary Bay Walk",
+      "objectID": "5d9a8c9c5bc9dfdfe6c03675cd53bb94",
+      "ref": "balcary-bay-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Torr_Point_-_geograph.org.uk_-_7139673.jpg",
-            "title": "Torr Point by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Torr Point"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Looking_south_from_Red_Haven_-_geograph.org.uk_-_3723887.jpg?20220824062805",
-            "title": "Looking south from Red Haven by Hugh Close, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Looking south from Red Haven"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Partan_Craig_-_geograph.org.uk_-_3584223.jpg?20220607215440",
-            "title": "Partan Craig by Hugh Close, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Partan Craig"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Partan_Craig_and_nearby_rocks_-_geograph.org.uk_-_4699994.jpg",
-            "title": "Partan Craig and nearby rocks by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Partan Craig and nearby rocks"
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This circular walk visits Torr Point at Auchencairn Bay on the Solway Firth. The route begins near the village, where grassy paths and quiet tracks lead through meadows and along the sheltered shores of Auchencairn Bay. This area is an excellent spot for birdwatching, with waders and overwintering wildfowl frequenting the tidal flats and saltmarsh. A small thatched bird hide provides a peaceful vantage point to observe the bay and its wildlife.Beyond the bay, the route continues through open fields and woodlands towards Red Haven beach, a secluded sandy cove with fine views across to Hestan Island. The coastal scenery here is among the most picturesque in the region, with gentle farmland meeting rugged shoreline and the constant presence of sea birds overhead.Further on lies Torr Point, a striking headland marked by banks of cockle shells and the remains of an old lighthouse keeper’s cottage on nearby Hestan Island. A winding woodland path returns inland, passing remnants of the area’s fishing heritage, including a tar pot once used for preserving nets. The final stretch leads through peaceful countryside and back around the bay, offering another chance to enjoy the tranquil views and wildlife of this quiet corner of Galloway.You can continue your walking in the area on theBalcary Bay Walkand theRascarrel Bay Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/7h5wyxaohiE?si=TiSaJEvyYXbAc3mZ",
-    "district": "Auchencairn",
-    "county": "Dumfries and Galloway",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Rascarrel Bay Walk",
+      "objectID": "8070d73afc5c3c56419bffad5b3dae08",
+      "ref": "rascarrel-bay-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/ff9d7c57045250e5e48c4d0d8fe5efc2.gpx",
+  "_geoloc": {
+    "lat": 54.8444458262,
+    "lng": -3.8701663525
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Torr_Point_-_geograph.org.uk_-_7139673.jpg",
+      "title": "Torr Point by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Torr Point"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Looking_south_from_Red_Haven_-_geograph.org.uk_-_3723887.jpg?20220824062805",
+      "title": "Looking south from Red Haven by Hugh Close, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Looking south from Red Haven"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Partan_Craig_-_geograph.org.uk_-_3584223.jpg?20220607215440",
+      "title": "Partan Craig by Hugh Close, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Partan Craig"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Partan_Craig_and_nearby_rocks_-_geograph.org.uk_-_4699994.jpg",
+      "title": "Partan Craig and nearby rocks by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Partan Craig and nearby rocks"
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This circular walk visits Torr Point at Auchencairn Bay on the Solway Firth. The route begins near the village, where grassy paths and quiet tracks lead through meadows and along the sheltered shores of Auchencairn Bay. This area is an excellent spot for birdwatching, with waders and overwintering wildfowl frequenting the tidal flats and saltmarsh. A small thatched bird hide provides a peaceful vantage point to observe the bay and its wildlife.Beyond the bay, the route continues through open fields and woodlands towards Red Haven beach, a secluded sandy cove with fine views across to Hestan Island. The coastal scenery here is among the most picturesque in the region, with gentle farmland meeting rugged shoreline and the constant presence of sea birds overhead.Further on lies Torr Point, a striking headland marked by banks of cockle shells and the remains of an old lighthouse keeper\u2019s cottage on nearby Hestan Island. A winding woodland path returns inland, passing remnants of the area\u2019s fishing heritage, including a tar pot once used for preserving nets. The final stretch leads through peaceful countryside and back around the bay, offering another chance to enjoy the tranquil views and wildlife of this quiet corner of Galloway.You can continue your walking in the area on theBalcary Bay Walkand theRascarrel Bay Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/7h5wyxaohiE?si=TiSaJEvyYXbAc3mZ",
+  "district": "Auchencairn",
+  "county": "Dumfries and Galloway",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "meadow",
+    "coastal",
+    "woodland",
+    "open field"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "beach",
+    "headland",
+    "lighthouse keeper's cottage"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "birdwatching"
+  ]
 }

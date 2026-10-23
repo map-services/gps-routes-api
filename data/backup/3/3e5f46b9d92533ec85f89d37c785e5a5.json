@@ -1,55 +1,70 @@
 {
-    "created_at": "2026-10-22T22:02:01.591424+00:00",
-    "objectID": "3e5f46b9d92533ec85f89d37c785e5a5",
-    "ref": "winchmore-hill-walk",
-    "title": "Winchmore Hill Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg/500px-Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg?20230501042753",
-    "nearby": [
-        {
-            "description": "Penn Wood",
-            "objectID": "2c0e44b7d7d1dc53b5d57d6b5ccc09c7",
-            "ref": "penn-wood-walking-route"
-        },
-        {
-            "description": "Amersham Circular Walk",
-            "objectID": "aa3820d0b760834108242ca80261df32",
-            "ref": "amersham-circular-walk-walking-route"
-        },
-        {
-            "description": "Old Amersham to Little Missenden Circular Walk",
-            "objectID": "b20d31f9f0717618b01c37e62afad4ea",
-            "ref": "old-amersham-to-little-missenden-circular-walk"
-        },
-        {
-            "description": "Wendover to Great Missenden Walk",
-            "objectID": "73403fe184d7bf53e912aad4ed1c99f5",
-            "ref": "wendover-to-great-missenden-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e5f46b9d92533ec85f89d37c785e5a5.gpx",
-    "_geoloc": {
-        "lat": 51.6453402241,
-        "lng": -0.6531602393
+  "created_at": "2026-10-22T22:02:01.591424+00:00",
+  "objectID": "3e5f46b9d92533ec85f89d37c785e5a5",
+  "ref": "winchmore-hill-walk",
+  "title": "Winchmore Hill Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg/500px-Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg?20230501042753",
+  "nearby": [
+    {
+      "description": "Penn Wood",
+      "objectID": "2c0e44b7d7d1dc53b5d57d6b5ccc09c7",
+      "ref": "penn-wood-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg",
-            "title": "Winchmore Hill Common by David Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Winchmore Hill Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Track_in_Penn_Wood_-_geograph.org.uk_-_103132.jpg",
-            "title": "Andrew Smith / Track in Penn Wood",
-            "caption": "Track in Penn Wood"
-        }
-    ],
-    "distance_km": 13.6,
-    "description": "This circular walk explores the area around the Buckinghamshire village of Winchmore Hill. The varied walk visits a series of peaceful woodland areas including Penn Wood which lies just to the north west of the village. You'll also pass through Amersham Old Town and Coleshill before returning to Winchmore Hill. On the way there's lots of pretty bluebells to see in the woodland areas and some fine views over the surrounding countryside of the Chilterns AONB.",
-    "details": [],
-    "postcode": "HP7 0PH",
-    "district": "Winchmore Hill",
-    "county": "Buckinghamshire",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Amersham Circular Walk",
+      "objectID": "aa3820d0b760834108242ca80261df32",
+      "ref": "amersham-circular-walk-walking-route"
+    },
+    {
+      "description": "Old Amersham to Little Missenden Circular Walk",
+      "objectID": "b20d31f9f0717618b01c37e62afad4ea",
+      "ref": "old-amersham-to-little-missenden-circular-walk"
+    },
+    {
+      "description": "Wendover to Great Missenden Walk",
+      "objectID": "73403fe184d7bf53e912aad4ed1c99f5",
+      "ref": "wendover-to-great-missenden-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e5f46b9d92533ec85f89d37c785e5a5.gpx",
+  "_geoloc": {
+    "lat": 51.6453402241,
+    "lng": -0.6531602393
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Winchmore_Hill_Common_-_geograph.org.uk_-_4700368.jpg",
+      "title": "Winchmore Hill Common by David Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Winchmore Hill Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Track_in_Penn_Wood_-_geograph.org.uk_-_103132.jpg",
+      "title": "Andrew Smith / Track in Penn Wood",
+      "caption": "Track in Penn Wood"
+    }
+  ],
+  "distance_km": 13.6,
+  "description": "This circular walk explores the area around the Buckinghamshire village of Winchmore Hill. The varied walk visits a series of peaceful woodland areas including Penn Wood which lies just to the north west of the village. You'll also pass through Amersham Old Town and Coleshill before returning to Winchmore Hill. On the way there's lots of pretty bluebells to see in the woodland areas and some fine views over the surrounding countryside of the Chilterns AONB.",
+  "details": [],
+  "postcode": "HP7 0PH",
+  "district": "Winchmore Hill",
+  "county": "Buckinghamshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "created_at": "2026-10-22T21:42:40.827451+00:00",
   "objectID": "293ad9411de2bd01f20fe637a8584bbe",
-  "ref": "leighterton-to-westonbirt walk",
-  "title": "Leighterton to Westonbirt Walk Walking Route",
+  "ref": "leighterton-to-westonbirt\u00a0walk",
+  "title": "Leighterton to Westonbirt\u00a0Walk Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Leighterton_Village_Street_-_geograph.org.uk_-_1690626.jpg?20110305030537",
   "nearby": [
     {
@@ -40,5 +40,21 @@
   "county": "Gloucestershire",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "arboretum"
+  ],
+  "facilities": [
+    "visitor centre"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

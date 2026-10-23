@@ -1,49 +1,65 @@
 {
-    "created_at": "2026-10-22T22:53:28.519164+00:00",
-    "objectID": "68688e4cf25e83f4e89c78a8ef1a5fdc",
-    "ref": "stockport-heritage-walk",
-    "title": "Stockport Heritage Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg/500px-Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg?_=20241210140933",
-    "nearby": [
-        {
-            "description": "Vernon and Woodbank Park",
-            "objectID": "35e8c2d70587f75ca9493782377fcff1",
-            "ref": "vernon-and-woodbank-park-walking-route"
-        },
-        {
-            "description": "Stockport",
-            "objectID": "88c4ff9b091096382136f8b4a32877b3",
-            "ref": "stockport-walking-route"
-        },
-        {
-            "description": "Ancoats to Ashton-under-Lyne Canal Walk",
-            "objectID": "8ef7e1caf41f21cd5c7fb1c84f05dc47",
-            "ref": "ancoats-canal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/68688e4cf25e83f4e89c78a8ef1a5fdc.gpx",
-    "_geoloc": {
-        "lat": 53.4090714,
-        "lng": -2.1314657
+  "created_at": "2026-10-22T22:53:28.519164+00:00",
+  "objectID": "68688e4cf25e83f4e89c78a8ef1a5fdc",
+  "ref": "stockport-heritage-walk",
+  "title": "Stockport Heritage Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg/500px-Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg?_=20241210140933",
+  "nearby": [
+    {
+      "description": "Vernon and Woodbank Park",
+      "objectID": "35e8c2d70587f75ca9493782377fcff1",
+      "ref": "vernon-and-woodbank-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg",
-            "title": "Woodbank Hall by Graham Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Woodbank Hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Weir_on_the_River_Goyt_near_Woodbank_Memorial_Park_-_geograph.org.uk_-_2674600.jpg",
-            "title": "Weir on the River Goyt near Woodbank Memorial Park by Alistair Pooler, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Weir on the River Goyt near Woodbank Memorial Park"
-        }
-    ],
-    "distance_km": 3.5,
-    "description": "This walk follows the Woodbank Memorial Park Nature and Heritage Trail in Stockport, linking riverside woodland and historic parkland along the River Goyt. The route passes through Woodbank Memorial Park and continues towards the Poise Brook Local Nature Reserve, connecting two areas recognised locally for their wildlife and natural features. The paths lead through meadows and woodland beside the river, where native trees such as oak, birch, beech, ash and alder grow alongside shrubs including holly, hawthorn and hazel. In spring the woodland floor is known for displays of bluebells, celandine and wild garlic, while the riverbanks support a range of plants and wildlife. Birds commonly seen along the river include grey heron, kingfisher and cormorant, with woodland species such as great spotted woodpecker also present.Along the route there are several historic features connected with the early industrial history of the area. Woodbank Hall, built between 1812 and 1814 for industrialist Peter Marsland, overlooks the park, while remnants of his 19th-century water management system for nearby mills can still be seen near Swan Pool and Nab Weir. The walk continues past viewpoints over the River Goyt before reaching the ancient woodland of Poise Brook, where old broadleaf woodland and small streams create a quieter natural setting to finish the trail.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/vRx9IHJOydw?si=LNy_w3O6_t7pK9HE",
-    "postcode": "SK1 4JR",
-    "region": "North West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Stockport",
+      "objectID": "88c4ff9b091096382136f8b4a32877b3",
+      "ref": "stockport-walking-route"
+    },
+    {
+      "description": "Ancoats to Ashton-under-Lyne Canal Walk",
+      "objectID": "8ef7e1caf41f21cd5c7fb1c84f05dc47",
+      "ref": "ancoats-canal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/68688e4cf25e83f4e89c78a8ef1a5fdc.gpx",
+  "_geoloc": {
+    "lat": 53.4090714,
+    "lng": -2.1314657
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Woodbank_Hall_-_geograph.org.uk_-_7064772.jpg",
+      "title": "Woodbank Hall by Graham Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Woodbank Hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Weir_on_the_River_Goyt_near_Woodbank_Memorial_Park_-_geograph.org.uk_-_2674600.jpg",
+      "title": "Weir on the River Goyt near Woodbank Memorial Park by Alistair Pooler, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Weir on the River Goyt near Woodbank Memorial Park"
+    }
+  ],
+  "distance_km": 3.5,
+  "description": "This walk follows the Woodbank Memorial Park Nature and Heritage Trail in Stockport, linking riverside woodland and historic parkland along the River Goyt. The route passes through Woodbank Memorial Park and continues towards the Poise Brook Local Nature Reserve, connecting two areas recognised locally for their wildlife and natural features. The paths lead through meadows and woodland beside the river, where native trees such as oak, birch, beech, ash and alder grow alongside shrubs including holly, hawthorn and hazel. In spring the woodland floor is known for displays of bluebells, celandine and wild garlic, while the riverbanks support a range of plants and wildlife. Birds commonly seen along the river include grey heron, kingfisher and cormorant, with woodland species such as great spotted woodpecker also present.Along the route there are several historic features connected with the early industrial history of the area. Woodbank Hall, built between 1812 and 1814 for industrialist Peter Marsland, overlooks the park, while remnants of his 19th-century water management system for nearby mills can still be seen near Swan Pool and Nab Weir. The walk continues past viewpoints over the River Goyt before reaching the ancient woodland of Poise Brook, where old broadleaf woodland and small streams create a quieter natural setting to finish the trail.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/vRx9IHJOydw?si=LNy_w3O6_t7pK9HE",
+  "postcode": "SK1 4JR",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

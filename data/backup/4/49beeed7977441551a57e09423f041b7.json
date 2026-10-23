@@ -1,44 +1,60 @@
 {
-    "created_at": "2026-10-22T21:38:56.551271+00:00",
-    "objectID": "49beeed7977441551a57e09423f041b7",
-    "ref": "highwood-woodley-walk",
-    "title": "Highwood Woodley Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg/500px-South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg?20220816030216",
-    "nearby": [
-        {
-            "description": "Dinton Pastures Country Park",
-            "objectID": "1b08b5330bc1fbf8e90d3fee656c677b",
-            "ref": "dinton-pastures-country-park-walking-route"
-        },
-        {
-            "description": "Reading to Pangbourne Walk",
-            "objectID": "5e21658efc68168a8c18a164ff8849f2",
-            "ref": "reading-to-pangbourne-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/49beeed7977441551a57e09423f041b7.gpx",
-    "_geoloc": {
-        "lat": 51.4466045474,
-        "lng": -0.926238889
+  "created_at": "2026-10-22T21:38:56.551271+00:00",
+  "objectID": "49beeed7977441551a57e09423f041b7",
+  "ref": "highwood-woodley-walk",
+  "title": "Highwood Woodley Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg/500px-South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg?20220816030216",
+  "nearby": [
+    {
+      "description": "Dinton Pastures Country Park",
+      "objectID": "1b08b5330bc1fbf8e90d3fee656c677b",
+      "ref": "dinton-pastures-country-park-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg",
-            "title": "South Lake, Woodley by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "South Lake, Woodley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/High_Wood%2C_Woodley_%28geograph_3695020%29.jpg",
-            "title": "Des Blenkinsopp / High Wood, Woodley",
-            "caption": "High Wood, Woodley"
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This circular walk visits the Highwood Nature Reserve between the towns of Earley and Woodley in the Reading area of Berkshire. The pretty reserve includes nice footpaths taking you through woodland, heathland and around a picturesque lake. The site also contains several exotic tree species which were once part of an arboretum. These include giant redwoods and monkey puzzle. You can also look out for wildlife including various woodland birds. To extend the walk you could head east and visit Dinton Pastures Country Park. The park has some fine walking trails around a series of pretty lakes.",
-    "details": [],
-    "district": "Reading",
-    "county": "Wokingham",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Reading to Pangbourne Walk",
+      "objectID": "5e21658efc68168a8c18a164ff8849f2",
+      "ref": "reading-to-pangbourne-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/49beeed7977441551a57e09423f041b7.gpx",
+  "_geoloc": {
+    "lat": 51.4466045474,
+    "lng": -0.926238889
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Lake%2C_Woodley_-_geograph.org.uk_-_3694921.jpg",
+      "title": "South Lake, Woodley by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "South Lake, Woodley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/High_Wood%2C_Woodley_%28geograph_3695020%29.jpg",
+      "title": "Des Blenkinsopp / High Wood, Woodley",
+      "caption": "High Wood, Woodley"
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This circular walk visits the Highwood Nature Reserve between the towns of Earley and Woodley in the Reading area of Berkshire. The pretty reserve includes nice footpaths taking you through woodland, heathland and around a picturesque lake. The site also contains several exotic tree species which were once part of an arboretum. These include giant redwoods and monkey puzzle. You can also look out for wildlife including various woodland birds. To extend the walk you could head east and visit Dinton Pastures Country Park. The park has some fine walking trails around a series of pretty lakes.",
+  "details": [],
+  "district": "Reading",
+  "county": "Wokingham",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "arboretum"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

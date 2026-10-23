@@ -1,64 +1,82 @@
 {
-    "created_at": "2026-10-22T22:41:43.055011+00:00",
-    "objectID": "06c3583d6967fc8e2b06519c82ff49bc",
-    "ref": "irvine-to-troon-beach-walking-route",
-    "title": "Irvine to Troon Beach Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irvine_Beach_Park_%2853161696006%29.jpg/500px-Irvine_Beach_Park_%2853161696006%29.jpg?20231104212921",
-    "nearby": [
-        {
-            "description": "Ayrshire Coastal Path",
-            "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
-            "ref": "ayrshire-coastal-path-walking-route"
-        },
-        {
-            "description": "Eglinton Country Park",
-            "objectID": "762019b66f78bf9a734fabb6da1d8cd9",
-            "ref": "eglinton-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Lainshaw Woods Walk",
-            "objectID": "8840ebc5eeca0c50762fe6ec6fca9de6",
-            "ref": "lainshaw-woods-walk"
-        },
-        {
-            "description": "Whitelee Wind Farm Walk",
-            "objectID": "a349a1ac15d4fb99e03ea492b3233081",
-            "ref": "whitelee-wind-farm-walk"
-        },
-        {
-            "description": "Troon to Prestwick Walk",
-            "objectID": "681ef8c12593120589a72a35d25233ac",
-            "ref": "troon-to-prestwick-walk"
-        },
-        {
-            "description": "Ayr to Troon Walk",
-            "objectID": "01c735bc373add0b1ea384dba473fc14",
-            "ref": "ayr-to-troon-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/06c3583d6967fc8e2b06519c82ff49bc.gpx",
-    "_geoloc": {
-        "lat": 55.6069711507,
-        "lng": -4.6900849693
+  "created_at": "2026-10-22T22:41:43.055011+00:00",
+  "objectID": "06c3583d6967fc8e2b06519c82ff49bc",
+  "ref": "irvine-to-troon-beach-walking-route",
+  "title": "Irvine to Troon Beach Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irvine_Beach_Park_%2853161696006%29.jpg/500px-Irvine_Beach_Park_%2853161696006%29.jpg?20231104212921",
+  "nearby": [
+    {
+      "description": "Ayrshire Coastal Path",
+      "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
+      "ref": "ayrshire-coastal-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Irvine_Beach_Park_%2853161696006%29.jpg",
-            "title": "Daniel from Glasgow, United Kingdom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Irvine Beach Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Darley_Burn_Reaches_Troon_Beach_-_geograph.org.uk_-_6152780.jpg?20240118160951",
-            "title": "Darley Burn Reaches Troon Beach by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Darley Burn Reaches Troon Beach"
-        }
-    ],
-    "distance_km": 11.9,
-    "description": "This walk follows a popular section of the Ayrshire Coastal Path from Irvine to Troon. The trail starts from the car park at the Irvine Beach car park and runs for about 7.5 miles, following the beach for the duration of the walk. From Irvine the route sets out along wide sandy shores with open views across the Firth of Clyde towards Arran. The beach here is broad and level, making for easy walking with the sound of the tide alongside you. As you head south the shoreline remains open and exposed, passing dunes, stretches of compact sand and occasional rocky patches depending on the tide.Approaching Barassie the scenery becomes more developed, with views towards Troon and its harbour ahead. The final stretch into Troon continues along the beach with the town’s seafront gradually appearing, finishing close to the marina and the harbour area. It is a straightforward coastal walk with good visibility throughout, and is especially enjoyable on clear days when the offshore views are at their best.You can continue your walking around Irvine atEglinton Country Park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/bn7mBdMcV0o?si=-s2ktsIQKf4BdRQq",
-    "county": "North Ayrshire",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Eglinton Country Park",
+      "objectID": "762019b66f78bf9a734fabb6da1d8cd9",
+      "ref": "eglinton-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Lainshaw Woods Walk",
+      "objectID": "8840ebc5eeca0c50762fe6ec6fca9de6",
+      "ref": "lainshaw-woods-walk"
+    },
+    {
+      "description": "Whitelee Wind Farm Walk",
+      "objectID": "a349a1ac15d4fb99e03ea492b3233081",
+      "ref": "whitelee-wind-farm-walk"
+    },
+    {
+      "description": "Troon to Prestwick Walk",
+      "objectID": "681ef8c12593120589a72a35d25233ac",
+      "ref": "troon-to-prestwick-walk"
+    },
+    {
+      "description": "Ayr to Troon Walk",
+      "objectID": "01c735bc373add0b1ea384dba473fc14",
+      "ref": "ayr-to-troon-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/06c3583d6967fc8e2b06519c82ff49bc.gpx",
+  "_geoloc": {
+    "lat": 55.6069711507,
+    "lng": -4.6900849693
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Irvine_Beach_Park_%2853161696006%29.jpg",
+      "title": "Daniel from Glasgow, United Kingdom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Irvine Beach Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Darley_Burn_Reaches_Troon_Beach_-_geograph.org.uk_-_6152780.jpg?20240118160951",
+      "title": "Darley Burn Reaches Troon Beach by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Darley Burn Reaches Troon Beach"
+    }
+  ],
+  "distance_km": 11.9,
+  "description": "This walk follows a popular section of the Ayrshire Coastal Path from Irvine to Troon. The trail starts from the car park at the Irvine Beach car park and runs for about 7.5 miles, following the beach for the duration of the walk. From Irvine the route sets out along wide sandy shores with open views across the Firth of Clyde towards Arran. The beach here is broad and level, making for easy walking with the sound of the tide alongside you. As you head south the shoreline remains open and exposed, passing dunes, stretches of compact sand and occasional rocky patches depending on the tide.Approaching Barassie the scenery becomes more developed, with views towards Troon and its harbour ahead. The final stretch into Troon continues along the beach with the town\u2019s seafront gradually appearing, finishing close to the marina and the harbour area. It is a straightforward coastal walk with good visibility throughout, and is especially enjoyable on clear days when the offshore views are at their best.You can continue your walking around Irvine atEglinton Country Park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/bn7mBdMcV0o?si=-s2ktsIQKf4BdRQq",
+  "county": "North Ayrshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "sandy"
+  ],
+  "points_of_interest": [
+    "harbour",
+    "marina"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

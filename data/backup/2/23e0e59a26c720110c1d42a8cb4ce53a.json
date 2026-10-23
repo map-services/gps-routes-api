@@ -59,11 +59,26 @@
     }
   ],
   "distance_km": 5.7,
-  "description": "The Otter Trail is a scenic, predominantly flat circular walk created by the Hampshire and Isle of Wight Wildlife Trust that blends riverside paths along the Itchen Navigation with woodland trails through Otterbourne Park Woods. Featuring historic sites like Allbrook Lock and the former St. Matthew’s churchyard, the route offers a tranquil nature experience with a single gradual incline leading into the woods.",
+  "description": "The Otter Trail is a scenic, predominantly flat circular walk created by the Hampshire and Isle of Wight Wildlife Trust that blends riverside paths along the Itchen Navigation with woodland trails through Otterbourne Park Woods. Featuring historic sites like Allbrook Lock and the former St. Matthew\u2019s churchyard, the route offers a tranquil nature experience with a single gradual incline leading into the woods.",
   "details": [],
   "district": "Eastleigh",
   "county": "Hampshire",
   "region": "South East",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

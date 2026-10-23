@@ -54,7 +54,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/St_Aubin%27s_Bay_Cycle_Track.jpg/960px-St_Aubin%27s_Bay_Cycle_Track.jpg",
-      "title": "Jèrriais janne, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "title": "J\u00e8rriais janne, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "St Aubin's Bay Cycle Track"
     },
     {
@@ -64,7 +64,27 @@
     }
   ],
   "distance_km": 66.0,
-  "description": "This circular cycle ride follows Jersey Route 1 around the whole of the island. The waymarked trail runs for 66km taking you to many of the island's key settlements and landmarks. Much of it is on quiet lanes so suitable for walkers too. The loop circles the island's entire coastline, typically starting and ending at Liberation Square in St Helier. Most cyclists tackle the route in a clockwise direction to take advantage of the prevailing winds and follow the primary signage. It is a physically demanding ride that involves over 600 metres of climbing, with the most strenuous sections found along the steep, undulating cliffs of the north coast.The journey begins with a flat, scenic stretch along St Aubin's Bay before a steady climb leads toward the dramatic Corbière Lighthouse. From there, the path drops down into the wide, sandy expanse of St Ouen’s Bay on the west coast. The terrain becomes significantly more challenging as you turn east along the north coast, where the road constantly dips into beautiful bays like Grève de Lecq and Bonne Nuit before rising back up to the clifftops. The final leg offers a more relaxed finish, passing the historic Mont Orgueil Castle in Gorey and following the eastern shoreline back into the capital.While the route uses some main roads, it heavily features Jersey’s unique Green Lanes, where speed limits are restricted to 15mph and cyclists have priority. A fit cyclist can usually complete the full circuit in about four to five hours, though leisure riders often allow a full day to enjoy the frequent stops at coastal cafes and heritage sites.",
+  "description": "This circular cycle ride follows Jersey Route 1 around the whole of the island. The waymarked trail runs for 66km taking you to many of the island's key settlements and landmarks. Much of it is on quiet lanes so suitable for walkers too. The loop circles the island's entire coastline, typically starting and ending at Liberation Square in St Helier. Most cyclists tackle the route in a clockwise direction to take advantage of the prevailing winds and follow the primary signage. It is a physically demanding ride that involves over 600 metres of climbing, with the most strenuous sections found along the steep, undulating cliffs of the north coast.The journey begins with a flat, scenic stretch along St Aubin's Bay before a steady climb leads toward the dramatic Corbi\u00e8re Lighthouse. From there, the path drops down into the wide, sandy expanse of St Ouen\u2019s Bay on the west coast. The terrain becomes significantly more challenging as you turn east along the north coast, where the road constantly dips into beautiful bays like Gr\u00e8ve de Lecq and Bonne Nuit before rising back up to the clifftops. The final leg offers a more relaxed finish, passing the historic Mont Orgueil Castle in Gorey and following the eastern shoreline back into the capital.While the route uses some main roads, it heavily features Jersey\u2019s unique Green Lanes, where speed limits are restricted to 15mph and cyclists have priority. A fit cyclist can usually complete the full circuit in about four to five hours, though leisure riders often allow a full day to enjoy the frequent stops at coastal cafes and heritage sites.",
   "details": [],
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "full day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "clifftop"
+  ],
+  "points_of_interest": [
+    "lighthouse",
+    "castle",
+    "settlement"
+  ],
+  "facilities": [
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -1,51 +1,68 @@
 {
-    "created_at": "2026-10-22T21:44:09.286675+00:00",
-    "objectID": "dd3c743d67d04b9ac3f9b62ee1016603",
-    "ref": "lord-brandons-cottage-walk",
-    "title": "Kate Kearney's Cottage to Lord Brandon's Cottage Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gap_of_Dunloe%2C_facing_South.jpg/500px-Gap_of_Dunloe%2C_facing_South.jpg?20130405205943",
-    "nearby": [
-        {
-            "description": "Gap of Dunloe",
-            "objectID": "3a68930895146e982cfd67a8788447ad",
-            "ref": "gap-of-dunloe-walking-route"
-        },
-        {
-            "description": "Purple Mountain Hike",
-            "objectID": "fa84547d4002092735eabab86f30e66a",
-            "ref": "purple-mountain-hike-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dd3c743d67d04b9ac3f9b62ee1016603.gpx",
-    "_geoloc": {
-        "lat": 52.03993,
-        "lng": -9.631883
+  "created_at": "2026-10-22T21:44:09.286675+00:00",
+  "objectID": "dd3c743d67d04b9ac3f9b62ee1016603",
+  "ref": "lord-brandons-cottage-walk",
+  "title": "Kate Kearney's Cottage to Lord Brandon's Cottage Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gap_of_Dunloe%2C_facing_South.jpg/500px-Gap_of_Dunloe%2C_facing_South.jpg?20130405205943",
+  "nearby": [
+    {
+      "description": "Gap of Dunloe",
+      "objectID": "3a68930895146e982cfd67a8788447ad",
+      "ref": "gap-of-dunloe-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gap_of_Dunloe%2C_facing_South.jpg",
-            "title": "Daniel Dudek, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Gap of Dunloe, facing South"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kate_Kearney%27s_Cottage_-_geograph.org.uk_-_5984941.jpg",
-            "title": "Kate Kearney's Cottage by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Kate Kearney's Cottage"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gap_of_Dunloe_looking_north.jpg",
-            "title": "DeFacto, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Gap of Dunloe looking north"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Near_Lord_Brandon%27s_Cottage_-_geograph.org.uk_-_781206.jpg?20110220015502",
-            "title": "Graham Horn / Near Lord Brandon's Cottage",
-            "caption": "Near Lord Brandon's Cottage"
-        }
-    ],
-    "distance_km": 22.4,
-    "description": "A walk through the Gap of Dunloe to Lord Brandon's Cottage is a renowned and unforgettable journey through one of Ireland's most spectacular glacial valleys. Located in County Kerry, this is a truly immersive experience in a landscape of dramatic beauty. The walk begins at the car park at the northern entrance to the Gap, known as Kate Kearney's Cottage. The route follows a winding, narrow road that stretches for about 11 kilometres through the gap. The path is enclosed by the towering mountains of the MacGillycuddy's Reeks on one side and the Purple Mountain on the other. As you walk, you'll pass five tranquil lakes—the \"Black Loughs\"—which are interconnected by the River Loe. The scenery is rugged and breathtaking, with immense rock formations, steep cliffs, and the constant sound of water. The walk is a gradual ascent, but the road is mostly flat and easy to follow. Along the way, you can appreciate the unique geology of the area. After a few hours of walking, the route culminates at Lord Brandon's Cottage, a historic building located on the edge of the Upper Lake in Killarney National Park. From here, you can choose to walk back the way you came or, more traditionally, take a boat trip through the lakes of Killarney.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/YnI65jgY4Dk?si=UBUHCtWHkpPo3lS9",
-    "gazetteer_found": false
+    {
+      "description": "Purple Mountain Hike",
+      "objectID": "fa84547d4002092735eabab86f30e66a",
+      "ref": "purple-mountain-hike-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dd3c743d67d04b9ac3f9b62ee1016603.gpx",
+  "_geoloc": {
+    "lat": 52.03993,
+    "lng": -9.631883
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gap_of_Dunloe%2C_facing_South.jpg",
+      "title": "Daniel Dudek, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Gap of Dunloe, facing South"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kate_Kearney%27s_Cottage_-_geograph.org.uk_-_5984941.jpg",
+      "title": "Kate Kearney's Cottage by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Kate Kearney's Cottage"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gap_of_Dunloe_looking_north.jpg",
+      "title": "DeFacto, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Gap of Dunloe looking north"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Near_Lord_Brandon%27s_Cottage_-_geograph.org.uk_-_781206.jpg?20110220015502",
+      "title": "Graham Horn / Near Lord Brandon's Cottage",
+      "caption": "Near Lord Brandon's Cottage"
+    }
+  ],
+  "distance_km": 22.4,
+  "description": "A walk through the Gap of Dunloe to Lord Brandon's Cottage is a renowned and unforgettable journey through one of Ireland's most spectacular glacial valleys. Located in County Kerry, this is a truly immersive experience in a landscape of dramatic beauty. The walk begins at the car park at the northern entrance to the Gap, known as Kate Kearney's Cottage. The route follows a winding, narrow road that stretches for about 11 kilometres through the gap. The path is enclosed by the towering mountains of the MacGillycuddy's Reeks on one side and the Purple Mountain on the other. As you walk, you'll pass five tranquil lakes\u2014the \"Black Loughs\"\u2014which are interconnected by the River Loe. The scenery is rugged and breathtaking, with immense rock formations, steep cliffs, and the constant sound of water. The walk is a gradual ascent, but the road is mostly flat and easy to follow. Along the way, you can appreciate the unique geology of the area. After a few hours of walking, the route culminates at Lord Brandon's Cottage, a historic building located on the edge of the Upper Lake in Killarney National Park. From here, you can choose to walk back the way you came or, more traditionally, take a boat trip through the lakes of Killarney.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/YnI65jgY4Dk?si=UBUHCtWHkpPo3lS9",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "lake"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

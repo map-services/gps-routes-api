@@ -1,64 +1,82 @@
 {
-    "created_at": "2026-10-22T21:11:26.114523+00:00",
-    "objectID": "6eac3d4f83b0755fc4b057bc51f67a30",
-    "ref": "apperley-bridge-to-saltaire-canal-walk",
-    "title": "Apperley Bridge to Saltaire Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Apperley_Bridge_Marina.jpg/500px-Apperley_Bridge_Marina.jpg?20240621182047",
-    "nearby": [
-        {
-            "description": "Saltaire",
-            "objectID": "8bf4e7a98d229c95d272714d9ad8eeeb",
-            "ref": "saltaire-walking-route"
-        },
-        {
-            "description": "Apperley Bridge to Leeds Canal Walk",
-            "objectID": "1584ace2c0d75aeb9a87dac0d249d83e",
-            "ref": "apperley-bridge-to-leeds-canal-walk"
-        },
-        {
-            "description": "Leeds to Skipton Canal Walk",
-            "objectID": "fc831514846c3e3298a413bcf9dc4623",
-            "ref": "leeds-to-skipton-canal-walk"
-        },
-        {
-            "description": "Leeds to Saltaire Canal Walk",
-            "objectID": "e4872c68e680590966212f20717acfbc",
-            "ref": "leeds-to-saltaire-canal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6eac3d4f83b0755fc4b057bc51f67a30.gpx",
-    "_geoloc": {
-        "lat": 53.8360176173,
-        "lng": -1.7095771918
+  "created_at": "2026-10-22T21:11:26.114523+00:00",
+  "objectID": "6eac3d4f83b0755fc4b057bc51f67a30",
+  "ref": "apperley-bridge-to-saltaire-canal-walk",
+  "title": "Apperley Bridge to Saltaire Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Apperley_Bridge_Marina.jpg/500px-Apperley_Bridge_Marina.jpg?20240621182047",
+  "nearby": [
+    {
+      "description": "Saltaire",
+      "objectID": "8bf4e7a98d229c95d272714d9ad8eeeb",
+      "ref": "saltaire-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Apperley_Bridge_Marina.jpg",
-            "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Apperley Bridge Marina."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Leeds_and_Liverpool_Canal%2C_Apperley_Bridge.jpg",
-            "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Leeds and Liverpool Canal, Apperley Bridge. Along the route, the canal banks support a diverse range of flora and fauna. The natural verges and adjacent woodland areas are home to local wildflowers and grasses that flourish in the seasonal sunlight, while the water attracts a variety of birds including kingfishers, herons, and waterfowl. Fish such as roach and perch can be seen in the clear canal waters, and small mammals like squirrels and hedgehogs are commonly spotted near the path, contributing to a peaceful and dynamic riverside ecosystem."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Leeds_and_Liverpool_Canal%2C_Apperley_Bridge_Flickr_18_May_2024.jpg",
-            "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Leeds and Liverpool Canal, Apperley Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Saltaire_-_53681123358.jpg",
-            "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Saltaire. Reaching Saltaire, you encounter a unique blend of natural beauty and cultural heritage. Saltaire is a UNESCO World Heritage Site known for its well-preserved Victorian industrial architecture, including the impressive Salts Mill, which now functions as a centre for arts, culture, and shopping. The village\u2019s restored terraced houses and cobbled streets offer an intriguing insight into the area\u2019s industrial past, creating a stark yet complementary contrast with the quiet, scenic canal walk."
-        }
-    ],
-    "distance_km": 7.2,
-    "description": "This walk takes you along the Leeds and Liverpool Canal from the village of Apperley Bridge to the Victorian model village and UNESCO World Heritage Site at Saltaire. The walk runs for around 4.5 miles and follow a good surfaced path which is also suitable for cyclists. Along the way you can enjoy some fine views of the surrounding countryside. Starting at Apperley Bridge, you follow a marked route that passes alongside the canal, where the waterway\u2019s historic locks and bridges provide constant reminders of the region\u2019s industrial heritage. The path is lined with mature trees and hedgerows that offer intermittent shade and enhance the visual appeal of the journey, while the canal itself remains a vibrant artery used by narrowboats and leisure craft.",
-    "details": [],
-    "postcode": "BD10 0LP",
-    "district": "Bradford",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Apperley Bridge to Leeds Canal Walk",
+      "objectID": "1584ace2c0d75aeb9a87dac0d249d83e",
+      "ref": "apperley-bridge-to-leeds-canal-walk"
+    },
+    {
+      "description": "Leeds to Skipton Canal Walk",
+      "objectID": "fc831514846c3e3298a413bcf9dc4623",
+      "ref": "leeds-to-skipton-canal-walk"
+    },
+    {
+      "description": "Leeds to Saltaire Canal Walk",
+      "objectID": "e4872c68e680590966212f20717acfbc",
+      "ref": "leeds-to-saltaire-canal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6eac3d4f83b0755fc4b057bc51f67a30.gpx",
+  "_geoloc": {
+    "lat": 53.8360176173,
+    "lng": -1.7095771918
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Apperley_Bridge_Marina.jpg",
+      "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Apperley Bridge Marina."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Leeds_and_Liverpool_Canal%2C_Apperley_Bridge.jpg",
+      "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Leeds and Liverpool Canal, Apperley Bridge. Along the route, the canal banks support a diverse range of flora and fauna. The natural verges and adjacent woodland areas are home to local wildflowers and grasses that flourish in the seasonal sunlight, while the water attracts a variety of birds including kingfishers, herons, and waterfowl. Fish such as roach and perch can be seen in the clear canal waters, and small mammals like squirrels and hedgehogs are commonly spotted near the path, contributing to a peaceful and dynamic riverside ecosystem."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Leeds_and_Liverpool_Canal%2C_Apperley_Bridge_Flickr_18_May_2024.jpg",
+      "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Leeds and Liverpool Canal, Apperley Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Saltaire_-_53681123358.jpg",
+      "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Saltaire. Reaching Saltaire, you encounter a unique blend of natural beauty and cultural heritage. Saltaire is a UNESCO World Heritage Site known for its well-preserved Victorian industrial architecture, including the impressive Salts Mill, which now functions as a centre for arts, culture, and shopping. The village\u2019s restored terraced houses and cobbled streets offer an intriguing insight into the area\u2019s industrial past, creating a stark yet complementary contrast with the quiet, scenic canal walk."
+    }
+  ],
+  "distance_km": 7.2,
+  "description": "This walk takes you along the Leeds and Liverpool Canal from the village of Apperley Bridge to the Victorian model village and UNESCO World Heritage Site at Saltaire. The walk runs for around 4.5 miles and follow a good surfaced path which is also suitable for cyclists. Along the way you can enjoy some fine views of the surrounding countryside. Starting at Apperley Bridge, you follow a marked route that passes alongside the canal, where the waterway\u2019s historic locks and bridges provide constant reminders of the region\u2019s industrial heritage. The path is lined with mature trees and hedgerows that offer intermittent shade and enhance the visual appeal of the journey, while the canal itself remains a vibrant artery used by narrowboats and leisure craft.",
+  "details": [],
+  "postcode": "BD10 0LP",
+  "district": "Bradford",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

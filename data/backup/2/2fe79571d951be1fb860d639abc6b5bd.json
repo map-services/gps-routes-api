@@ -1,51 +1,65 @@
 {
-    "created_at": "2026-10-22T22:52:26.748446+00:00",
-    "objectID": "2fe79571d951be1fb860d639abc6b5bd",
-    "ref": "sliabh-bawn-walk",
-    "title": "Sliabh Bawn Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg/500px-Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg?_=20250721202124",
-    "nearby": [
-        {
-            "description": "Annaghmore Lough",
-            "objectID": "2d62105af8bdf987924ff0cefee2c79f",
-            "ref": "annaghmore-lough-walking-route"
-        },
-        {
-            "description": "Doughill Forest Trail",
-            "objectID": "06c3fb9f9397f76d1e0d3b67b2094c31",
-            "ref": "doughill-forest-trail-walking-route"
-        },
-        {
-            "description": "Castlerea Park and River Walk",
-            "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
-            "ref": "castlerea-park-and-river-walk"
-        },
-        {
-            "description": "Errit Lough",
-            "objectID": "5c073a07684a9f05e47c3ea61071e1e6",
-            "ref": "errit-lough-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2fe79571d951be1fb860d639abc6b5bd.gpx",
-    "_geoloc": {
-        "lat": 53.733905,
-        "lng": -8.067199
+  "created_at": "2026-10-22T22:52:26.748446+00:00",
+  "objectID": "2fe79571d951be1fb860d639abc6b5bd",
+  "ref": "sliabh-bawn-walk",
+  "title": "Sliabh Bawn Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg/500px-Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg?_=20250721202124",
+  "nearby": [
+    {
+      "description": "Annaghmore Lough",
+      "objectID": "2d62105af8bdf987924ff0cefee2c79f",
+      "ref": "annaghmore-lough-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg",
-            "title": "Forestry at Slieve Bawn - track by wind turbine No 13 by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forestry at Slieve Bawn. The 262-metre hill serves as a major hub for both renewable energy and outdoor recreation. The landscape is dominated by a wind farm commissioned in 2017, which consists of twenty turbines providing green energy to the national grid while sharing the space with extensive public facilities. Managed by Coillte, the area features a variety of looped trails designed for hikers, mountain bikers, and equestrians, ranging from the short and accessible Trim Trail to more challenging routes that traverse the hillside."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Forestry_at_Slieve_Bawn_-_summit_picnic_area_-_geograph.org.uk_-_7932827.jpg",
-            "title": "Forestry at Slieve Bawn - summit picnic area by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "At the summit, visitors are greeted by a large stone cross and expansive views that stretch across the River Shannon and the surrounding midlands. To cater to families and fitness enthusiasts, the site includes a dedicated children’s playground, a picnic zone, and an outdoor gym circuit integrated into the forest paths. Historically, the mountain has been a point of local significance, and its modern redevelopment has transformed it into one of the most popular natural attractions in the Hidden Heartlands region."
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This circular loop walk explores Sliabh Bawn in County Roscommon. The area includes a number of walking trails taking you through Doughill Forest and past the wind farm. From the high points there are panoramic views across the Hidden Heartlands of Ireland, including the River Shannon and Lough Ree.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/Qz3OGXaGe9k?si=7Wx0E7e-8zRX1l8s&start=346",
-    "gazetteer_found": false
+    {
+      "description": "Doughill Forest Trail",
+      "objectID": "06c3fb9f9397f76d1e0d3b67b2094c31",
+      "ref": "doughill-forest-trail-walking-route"
+    },
+    {
+      "description": "Castlerea Park and River Walk",
+      "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
+      "ref": "castlerea-park-and-river-walk"
+    },
+    {
+      "description": "Errit Lough",
+      "objectID": "5c073a07684a9f05e47c3ea61071e1e6",
+      "ref": "errit-lough-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2fe79571d951be1fb860d639abc6b5bd.gpx",
+  "_geoloc": {
+    "lat": 53.733905,
+    "lng": -8.067199
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Forestry_at_Slieve_Bawn_-_track_by_wind_turbine_No_13_-_geograph.org.uk_-_7932811.jpg",
+      "title": "Forestry at Slieve Bawn - track by wind turbine No 13 by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forestry at Slieve Bawn. The 262-metre hill serves as a major hub for both renewable energy and outdoor recreation. The landscape is dominated by a wind farm commissioned in 2017, which consists of twenty turbines providing green energy to the national grid while sharing the space with extensive public facilities. Managed by Coillte, the area features a variety of looped trails designed for hikers, mountain bikers, and equestrians, ranging from the short and accessible Trim Trail to more challenging routes that traverse the hillside."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Forestry_at_Slieve_Bawn_-_summit_picnic_area_-_geograph.org.uk_-_7932827.jpg",
+      "title": "Forestry at Slieve Bawn - summit picnic area by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "At the summit, visitors are greeted by a large stone cross and expansive views that stretch across the River Shannon and the surrounding midlands. To cater to families and fitness enthusiasts, the site includes a dedicated children\u2019s playground, a picnic zone, and an outdoor gym circuit integrated into the forest paths. Historically, the mountain has been a point of local significance, and its modern redevelopment has transformed it into one of the most popular natural attractions in the Hidden Heartlands region."
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This circular loop walk explores Sliabh Bawn in County Roscommon. The area includes a number of walking trails taking you through Doughill Forest and past the wind farm. From the high points there are panoramic views across the Hidden Heartlands of Ireland, including the River Shannon and Lough Ree.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/Qz3OGXaGe9k?si=7Wx0E7e-8zRX1l8s&start=346",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

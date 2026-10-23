@@ -1,54 +1,69 @@
 {
-    "created_at": "2026-10-22T22:39:23.905243+00:00",
-    "objectID": "b4be4c9a0876c4ed7c0a9264950d860b",
-    "ref": "green-castle-woods-walk",
-    "title": "Green Castle Woods Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg/500px-Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg?20110311224101",
-    "nearby": [
-        {
-            "description": "Llansteffan Castle Walk",
-            "objectID": "2061f66607b753daeb4da87abe9e2131",
-            "ref": "llansteffan-walking-route"
-        },
-        {
-            "description": "Carmarthen Fans",
-            "objectID": "5fc1518e2cce646e2f2a4495e855d26e",
-            "ref": "carmarthen-fans-walking-route"
-        },
-        {
-            "description": "Carmarthen",
-            "objectID": "0b6d5ef4f4a48e55f3f3bb63983dc0b1",
-            "ref": "carmarthen-walking-route"
-        },
-        {
-            "description": "Llansteffan St Anthony's Well Walk",
-            "objectID": "c2e15bbbaf2ccae9fb3b273945a3bb0c",
-            "ref": "st-anthonys-well-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b4be4c9a0876c4ed7c0a9264950d860b.gpx",
-    "_geoloc": {
-        "lat": 51.823659548,
-        "lng": -4.3369132435
+  "created_at": "2026-10-22T22:39:23.905243+00:00",
+  "objectID": "b4be4c9a0876c4ed7c0a9264950d860b",
+  "ref": "green-castle-woods-walk",
+  "title": "Green Castle Woods Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg/500px-Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg?20110311224101",
+  "nearby": [
+    {
+      "description": "Llansteffan Castle Walk",
+      "objectID": "2061f66607b753daeb4da87abe9e2131",
+      "ref": "llansteffan-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg",
-            "title": "John Duckfield / Castell Moel (Green Castle)",
-            "caption": "Castell Moel (Green Castle)"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Green_Castle_Woods_-_geograph.org.uk_-_6884064.jpg",
-            "title": "Green Castle Woods by Alan Hughes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Green Castle Woods"
-        }
-    ],
-    "distance_km": 2.8,
-    "description": "This circular walk explores Green Castle Woods near Carmarthen. The ancient woods are located a few miles south of the town, next to the River Towy. There's miles of peaceful trails, a photogenic waterfall and pretty bluebells in the spring months. Also of interest is Castell Moel (also known as Green Castle), the remains of a 16th-century fortified manor house. You can enjoy some fine river views on the eastern side of the woods near the ancient ruins.There's lots of wildlife to see with various woodland birds and butterflies fluttering around the widlflowers during the summer.Head south and you could pick up theLlansteffan Castle Walkand theLlansteffan St Anthony's Well Walkfor some more interesting local history.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/X4lNvuBeqOM?si=s2KDfkPuS-XsqS8H",
-    "county": "Sir Gaerfyrddin - Carmarthenshire",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Carmarthen Fans",
+      "objectID": "5fc1518e2cce646e2f2a4495e855d26e",
+      "ref": "carmarthen-fans-walking-route"
+    },
+    {
+      "description": "Carmarthen",
+      "objectID": "0b6d5ef4f4a48e55f3f3bb63983dc0b1",
+      "ref": "carmarthen-walking-route"
+    },
+    {
+      "description": "Llansteffan St Anthony's Well Walk",
+      "objectID": "c2e15bbbaf2ccae9fb3b273945a3bb0c",
+      "ref": "st-anthonys-well-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b4be4c9a0876c4ed7c0a9264950d860b.gpx",
+  "_geoloc": {
+    "lat": 51.823659548,
+    "lng": -4.3369132435
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Castell_Moel_%28Green_Castle%29_-_geograph.org.uk_-_1771617.jpg",
+      "title": "John Duckfield / Castell Moel (Green Castle)",
+      "caption": "Castell Moel (Green Castle)"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Green_Castle_Woods_-_geograph.org.uk_-_6884064.jpg",
+      "title": "Green Castle Woods by Alan Hughes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Green Castle Woods"
+    }
+  ],
+  "distance_km": 2.8,
+  "description": "This circular walk explores Green Castle Woods near Carmarthen. The ancient woods are located a few miles south of the town, next to the River Towy. There's miles of peaceful trails, a photogenic waterfall and pretty bluebells in the spring months. Also of interest is Castell Moel (also known as Green Castle), the remains of a 16th-century fortified manor house. You can enjoy some fine river views on the eastern side of the woods near the ancient ruins.There's lots of wildlife to see with various woodland birds and butterflies fluttering around the widlflowers during the summer.Head south and you could pick up theLlansteffan Castle Walkand theLlansteffan St Anthony's Well Walkfor some more interesting local history.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/X4lNvuBeqOM?si=s2KDfkPuS-XsqS8H",
+  "county": "Sir Gaerfyrddin - Carmarthenshire",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

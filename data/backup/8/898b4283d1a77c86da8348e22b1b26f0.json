@@ -1,71 +1,89 @@
 {
-    "created_at": "2026-10-22T21:45:38.666688+00:00",
-    "objectID": "898b4283d1a77c86da8348e22b1b26f0",
-    "ref": "marlow-to-bourne-end-walk",
-    "title": "Marlow to Bourne End Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg/500px-River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg?20221109062550",
-    "nearby": [
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Little Marlow and Spade Oak River Walk",
-            "objectID": "84934a90434a4f97e2e0277170fa8447",
-            "ref": "little-marlow-walking-route"
-        },
-        {
-            "description": "Bourne End",
-            "objectID": "01b7a7288218e461661de09440437856",
-            "ref": "bourne-end-walking-route"
-        },
-        {
-            "description": "Cliveden House",
-            "objectID": "985fb8ce79be69d07f91387902469052",
-            "ref": "cliveden-house-walking-route"
-        },
-        {
-            "description": "Marlow to Maidenhead Walk",
-            "objectID": "7cbfd22037744b089abb07c038e48d45",
-            "ref": "marlow-to-maidenhead-walk"
-        },
-        {
-            "description": "Marlow to Windsor Thames Path",
-            "objectID": "9d0ff4cdce891d760e12b68e6b905783",
-            "ref": "marlow-to-windsor-thames-path-walking-route"
-        },
-        {
-            "description": "Reading to Pangbourne Walk",
-            "objectID": "5e21658efc68168a8c18a164ff8849f2",
-            "ref": "reading-to-pangbourne-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/898b4283d1a77c86da8348e22b1b26f0.gpx",
-    "_geoloc": {
-        "lat": 51.5679675312,
-        "lng": -0.7765757632
+  "created_at": "2026-10-22T21:45:38.666688+00:00",
+  "objectID": "898b4283d1a77c86da8348e22b1b26f0",
+  "ref": "marlow-to-bourne-end-walk",
+  "title": "Marlow to Bourne End Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg/500px-River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg?20221109062550",
+  "nearby": [
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg",
-            "title": "River Thames at Marlow by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Thames at Marlow"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Downstream_to_Bourne_End_-_geograph.org.uk_-_516775.jpg?20110205122543",
-            "title": "Colin Smith / Downstream to Bourne End",
-            "caption": "Downstream to Bourne End"
-        }
-    ],
-    "distance_km": 5.2,
-    "description": "This riverside walk follows a popular section of the Thames Path National Trail. The walk runs for just over 3 miles, passing along the waymarked path with some fine views over the water to the riverside cottages and tree lined banks. Along the way you will pass a series of Thames Islands, a little beach and the village of Little Marlow and the Spade Oak Nature Reserve. You could take a small detour from the route to explore the reserve which includes a pretty lake and lots of waterbirds. Shortly after your arrive at Bourne End with its pretty marina and fine local pubs. You could continue your outing on the Bourne End River Walk which will take you to Cookham and Maidenhead. The lovely grounds surrounding the historic Cliveden House are also nearby.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/HO2lpX1glbU?si=84rIIxCOM8itrxLB",
-    "postcode": "SL7 2AG",
-    "district": "Marlow",
-    "county": "Buckinghamshire",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Little Marlow and Spade Oak River Walk",
+      "objectID": "84934a90434a4f97e2e0277170fa8447",
+      "ref": "little-marlow-walking-route"
+    },
+    {
+      "description": "Bourne End",
+      "objectID": "01b7a7288218e461661de09440437856",
+      "ref": "bourne-end-walking-route"
+    },
+    {
+      "description": "Cliveden House",
+      "objectID": "985fb8ce79be69d07f91387902469052",
+      "ref": "cliveden-house-walking-route"
+    },
+    {
+      "description": "Marlow to Maidenhead Walk",
+      "objectID": "7cbfd22037744b089abb07c038e48d45",
+      "ref": "marlow-to-maidenhead-walk"
+    },
+    {
+      "description": "Marlow to Windsor Thames Path",
+      "objectID": "9d0ff4cdce891d760e12b68e6b905783",
+      "ref": "marlow-to-windsor-thames-path-walking-route"
+    },
+    {
+      "description": "Reading to Pangbourne Walk",
+      "objectID": "5e21658efc68168a8c18a164ff8849f2",
+      "ref": "reading-to-pangbourne-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/898b4283d1a77c86da8348e22b1b26f0.gpx",
+  "_geoloc": {
+    "lat": 51.5679675312,
+    "lng": -0.7765757632
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/River_Thames_at_Marlow_-_geograph.org.uk_-_3973232.jpg",
+      "title": "River Thames at Marlow by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Thames at Marlow"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Downstream_to_Bourne_End_-_geograph.org.uk_-_516775.jpg?20110205122543",
+      "title": "Colin Smith / Downstream to Bourne End",
+      "caption": "Downstream to Bourne End"
+    }
+  ],
+  "distance_km": 5.2,
+  "description": "This riverside walk follows a popular section of the Thames Path National Trail. The walk runs for just over 3 miles, passing along the waymarked path with some fine views over the water to the riverside cottages and tree lined banks. Along the way you will pass a series of Thames Islands, a little beach and the village of Little Marlow and the Spade Oak Nature Reserve. You could take a small detour from the route to explore the reserve which includes a pretty lake and lots of waterbirds. Shortly after your arrive at Bourne End with its pretty marina and fine local pubs. You could continue your outing on the Bourne End River Walk which will take you to Cookham and Maidenhead. The lovely grounds surrounding the historic Cliveden House are also nearby.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/HO2lpX1glbU?si=84rIIxCOM8itrxLB",
+  "postcode": "SL7 2AG",
+  "district": "Marlow",
+  "county": "Buckinghamshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "nature reserve",
+    "marina"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,56 +1,74 @@
 {
-    "created_at": "2026-10-22T21:12:00.347390+00:00",
-    "objectID": "c40ef6e1b15c01e1fd6e9386ee6c367b",
-    "ref": "aymestrey-riverside-inn-walk",
-    "title": "Aymestrey Riverside Inn Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg/500px-Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg?20230326095937",
-    "nearby": [
-        {
-            "description": "Croft Ambrey",
-            "objectID": "10a4143c55eb216d2abfe79474c9c728",
-            "ref": "croft-ambrey-walking-route"
-        },
-        {
-            "description": "Mortimer Trail",
-            "objectID": "a8d33ee7bcc070e783c5bb74104305b5",
-            "ref": "mortimer-trail-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c40ef6e1b15c01e1fd6e9386ee6c367b.gpx",
-    "_geoloc": {
-        "lat": 52.2843821694,
-        "lng": -2.8438550232
+  "created_at": "2026-10-22T21:12:00.347390+00:00",
+  "objectID": "c40ef6e1b15c01e1fd6e9386ee6c367b",
+  "ref": "aymestrey-riverside-inn-walk",
+  "title": "Aymestrey Riverside Inn Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg/500px-Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg?20230326095937",
+  "nearby": [
+    {
+      "description": "Croft Ambrey",
+      "objectID": "10a4143c55eb216d2abfe79474c9c728",
+      "ref": "croft-ambrey-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg",
-            "title": "Aymestrey: The 'Riverside' Inn by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Aymestrey: The 'Riverside' Inn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lugg_Weir%2C_Aymestrey_-_geograph.org.uk_-_1258389.jpg?20110226202858",
-            "title": "Peter Evans / Lugg Weir, Aymestrey",
-            "caption": "Lugg Weir, Aymestrey"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aymestrey_church_-_geograph.org.uk_-_7385479.jpg",
-            "title": "Aymestrey church by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Aymestrey church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Croft_Ambrey_-_geograph.org.uk_-_802708.jpg",
-            "title": "Jonathan Billinger / Croft Ambrey",
-            "caption": "Croft Ambrey. The hill-fort is a prominent feature to the east of Yatton. Gorse and hawthorn in blossom stand out against the still-brown of old bracken."
-        }
-    ],
-    "distance_km": 7.3,
-    "description": "This circular walk from the Riverside Inn in Aymestrey takes you to the nearby Croft Ambrey hill fort. The walk starts from the fine inn located on the River Lugg in Herefordshire. The route then heads north east, following public footpaths to the ancient hill fort where you can enjoy some wonderful views of the surrounding Herefordshire countryside and the Welsh Mountains. You then pick up a section of the Mortimer Trail to take you south west back to Aymestrey and some well earned refreshments at the inn. The historic inn dates from the 16th century and serves fine food which you can enjoy in the lovely garden with a view of the Lugg Valley. They also have extensive kitchen gardens, orchards and a smallholding. The inn is dog friendly.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/Da_LumN4dkg?si=2N40TnljTZItvnCN",
-    "postcode": "HR6 9ST",
-    "district": "Aymestrey",
-    "county": "County of Herefordshire",
-    "region": "West Midlands",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Mortimer Trail",
+      "objectID": "a8d33ee7bcc070e783c5bb74104305b5",
+      "ref": "mortimer-trail-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c40ef6e1b15c01e1fd6e9386ee6c367b.gpx",
+  "_geoloc": {
+    "lat": 52.2843821694,
+    "lng": -2.8438550232
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aymestrey%2C_The_%27Riverside%27_Inn_-_geograph.org.uk_-_4560269.jpg",
+      "title": "Aymestrey: The 'Riverside' Inn by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Aymestrey: The 'Riverside' Inn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lugg_Weir%2C_Aymestrey_-_geograph.org.uk_-_1258389.jpg?20110226202858",
+      "title": "Peter Evans / Lugg Weir, Aymestrey",
+      "caption": "Lugg Weir, Aymestrey"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aymestrey_church_-_geograph.org.uk_-_7385479.jpg",
+      "title": "Aymestrey church by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Aymestrey church"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Croft_Ambrey_-_geograph.org.uk_-_802708.jpg",
+      "title": "Jonathan Billinger / Croft Ambrey",
+      "caption": "Croft Ambrey. The hill-fort is a prominent feature to the east of Yatton. Gorse and hawthorn in blossom stand out against the still-brown of old bracken."
+    }
+  ],
+  "distance_km": 7.3,
+  "description": "This circular walk from the Riverside Inn in Aymestrey takes you to the nearby Croft Ambrey hill fort. The walk starts from the fine inn located on the River Lugg in Herefordshire. The route then heads north east, following public footpaths to the ancient hill fort where you can enjoy some wonderful views of the surrounding Herefordshire countryside and the Welsh Mountains. You then pick up a section of the Mortimer Trail to take you south west back to Aymestrey and some well earned refreshments at the inn. The historic inn dates from the 16th century and serves fine food which you can enjoy in the lovely garden with a view of the Lugg Valley. They also have extensive kitchen gardens, orchards and a smallholding. The inn is dog friendly.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/Da_LumN4dkg?si=2N40TnljTZItvnCN",
+  "postcode": "HR6 9ST",
+  "district": "Aymestrey",
+  "county": "County of Herefordshire",
+  "region": "West Midlands",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "hill fort",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

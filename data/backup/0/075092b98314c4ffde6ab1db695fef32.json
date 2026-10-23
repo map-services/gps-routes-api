@@ -44,7 +44,7 @@
     }
   ],
   "distance_km": 8.0,
-  "description": "This walk follows waymarked footpaths including the Aylesbury Ring from Aylesbury to Waddesdon where you can visit the historic Waddesdon Manor. The route starts on the western fringes of Aylesbury and follows the trails through the countryside to Eythrope Park before finishing in Waddesdon. This pleasant countryside walk explores the gently rolling landscape of the Vale of Aylesbury, passing through fields, woodland and quiet rural lanes. The route provides a contrast between the busy county town of Aylesbury and the peaceful Buckinghamshire countryside, with wide views across farmland and opportunities to enjoy the area's rich wildlife.PassingEythrope Park, the route skirts the edge of one of the Rothschild family's historic estates. The surrounding parkland, woodland and lakes provide an attractive setting before the walk continues into the village of Waddesdon. Along the way you may spot red kites soaring overhead, together with a variety of farmland birds and seasonal wildflowers.The walk finishes nearWaddesdon Manor, one of England's finest country houses. Built in the French Renaissance style for Baron Ferdinand de Rothschild in the nineteenth century, the estate is renowned for its magnificent architecture, formal gardens, woodland walks and impressive art collections. The village of Waddesdon also offers a selection of cafés, pubs and traditional stone buildings, making it an excellent place to relax after the walk.",
+  "description": "This walk follows waymarked footpaths including the Aylesbury Ring from Aylesbury to Waddesdon where you can visit the historic Waddesdon Manor. The route starts on the western fringes of Aylesbury and follows the trails through the countryside to Eythrope Park before finishing in Waddesdon. This pleasant countryside walk explores the gently rolling landscape of the Vale of Aylesbury, passing through fields, woodland and quiet rural lanes. The route provides a contrast between the busy county town of Aylesbury and the peaceful Buckinghamshire countryside, with wide views across farmland and opportunities to enjoy the area's rich wildlife.PassingEythrope Park, the route skirts the edge of one of the Rothschild family's historic estates. The surrounding parkland, woodland and lakes provide an attractive setting before the walk continues into the village of Waddesdon. Along the way you may spot red kites soaring overhead, together with a variety of farmland birds and seasonal wildflowers.The walk finishes nearWaddesdon Manor, one of England's finest country houses. Built in the French Renaissance style for Baron Ferdinand de Rothschild in the nineteenth century, the estate is renowned for its magnificent architecture, formal gardens, woodland walks and impressive art collections. The village of Waddesdon also offers a selection of caf\u00e9s, pubs and traditional stone buildings, making it an excellent place to relax after the walk.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/EOFkGM4Ks-o?si=Kz3MLwKZw6i7c3TN",
   "postcode": "HP19 7GG",
@@ -52,5 +52,23 @@
   "county": "Buckinghamshire",
   "region": "South East",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "manor"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

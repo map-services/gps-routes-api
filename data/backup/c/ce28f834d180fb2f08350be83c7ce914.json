@@ -1,55 +1,73 @@
 {
-    "created_at": "2026-10-22T22:49:12.029700+00:00",
-    "objectID": "ce28f834d180fb2f08350be83c7ce914",
-    "ref": "pontypool-canal-walk",
-    "title": "Pontypool Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg/500px-Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg?20160320105906",
-    "nearby": [
-        {
-            "description": "Llanfoist Canal Walk",
-            "objectID": "308f970855a9b8d1765bf97edd14f31e",
-            "ref": "llanfoist-canal-walk-walking-route"
-        },
-        {
-            "description": "Monmouthshire and Brecon Canal",
-            "objectID": "e87e5e7130541ca0d1d1f076e62a48d7",
-            "ref": "monmouthshire-and-brecon-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Goytre Wharf",
-            "objectID": "a3ca2d49b4d68dc3a957c610ebdad343",
-            "ref": "goytre-wharf-walking-route"
-        },
-        {
-            "description": "Pontymoile Basin Walk",
-            "objectID": "498f28d3908a97098c6c1ca539673b13",
-            "ref": "pontymoile-basin-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce28f834d180fb2f08350be83c7ce914.gpx",
-    "_geoloc": {
-        "lat": 51.69715,
-        "lng": -3.0226
+  "created_at": "2026-10-22T22:49:12.029700+00:00",
+  "objectID": "ce28f834d180fb2f08350be83c7ce914",
+  "ref": "pontypool-canal-walk",
+  "title": "Pontypool Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg/500px-Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg?20160320105906",
+  "nearby": [
+    {
+      "description": "Llanfoist Canal Walk",
+      "objectID": "308f970855a9b8d1765bf97edd14f31e",
+      "ref": "llanfoist-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg",
-            "title": "Nilfanion, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Monmouthshire and Brecon Canal in Pontypool"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Goytre_Wharf_-_geograph.org.uk_-_7483235.jpg",
-            "title": "Goytre Wharf by David M Clark, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Goytre Wharf"
-        }
-    ],
-    "distance_km": 20.3,
-    "description": "This walk takes you along the Monmouthshire and Brecon Canal from Pontypool to Abergavenny. The route runs for about 12.5 miles passing along the flat canal towpath. On the way you will pass Mamhilad and Llanfoist before arriving at the lovely Linda Vista Gardens in Abergavenny. Along the way there are some splendid views of the Torfaen countryside and the mountains of the Brecon Beacons. You could stop off for refreshments at the attractive Goytre Wharf where there's boat hire, a heritage centre and a good cafe.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/4Vk9pO0nOmg?si=ppmAYiv5jBzxKvRx",
-    "district": "Pontypool / Pont-y-pŵl",
-    "county": "Torfaen - Torfaen",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Monmouthshire and Brecon Canal",
+      "objectID": "e87e5e7130541ca0d1d1f076e62a48d7",
+      "ref": "monmouthshire-and-brecon-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Goytre Wharf",
+      "objectID": "a3ca2d49b4d68dc3a957c610ebdad343",
+      "ref": "goytre-wharf-walking-route"
+    },
+    {
+      "description": "Pontymoile Basin Walk",
+      "objectID": "498f28d3908a97098c6c1ca539673b13",
+      "ref": "pontymoile-basin-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce28f834d180fb2f08350be83c7ce914.gpx",
+  "_geoloc": {
+    "lat": 51.69715,
+    "lng": -3.0226
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Monmouthshire_and_Brecon_Canal_in_Pontypool_%289208%29.jpg",
+      "title": "Nilfanion, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Monmouthshire and Brecon Canal in Pontypool"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Goytre_Wharf_-_geograph.org.uk_-_7483235.jpg",
+      "title": "Goytre Wharf by David M Clark, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Goytre Wharf"
+    }
+  ],
+  "distance_km": 20.3,
+  "description": "This walk takes you along the Monmouthshire and Brecon Canal from Pontypool to Abergavenny. The route runs for about 12.5 miles passing along the flat canal towpath. On the way you will pass Mamhilad and Llanfoist before arriving at the lovely Linda Vista Gardens in Abergavenny. Along the way there are some splendid views of the Torfaen countryside and the mountains of the Brecon Beacons. You could stop off for refreshments at the attractive Goytre Wharf where there's boat hire, a heritage centre and a good cafe.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/4Vk9pO0nOmg?si=ppmAYiv5jBzxKvRx",
+  "district": "Pontypool / Pont-y-p\u0175l",
+  "county": "Torfaen - Torfaen",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "boat hire"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

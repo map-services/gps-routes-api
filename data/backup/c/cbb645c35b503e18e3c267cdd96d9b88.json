@@ -1,46 +1,60 @@
 {
-    "created_at": "2026-10-22T21:12:11.655834+00:00",
-    "objectID": "cbb645c35b503e18e3c267cdd96d9b88",
-    "ref": "bagley-wood-kennington-walk",
-    "title": "Bagley Wood Kennington Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BagleyWood.jpg/500px-BagleyWood.jpg?20150516104424",
-    "nearby": [
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Sandford on Thames",
-            "objectID": "64d9ebb82f22f168109bf79293c01676",
-            "ref": "sandford-on-thames-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cbb645c35b503e18e3c267cdd96d9b88.gpx",
-    "_geoloc": {
-        "lat": 51.7180787941,
-        "lng": -1.2498302478
+  "created_at": "2026-10-22T21:12:11.655834+00:00",
+  "objectID": "cbb645c35b503e18e3c267cdd96d9b88",
+  "ref": "bagley-wood-kennington-walk",
+  "title": "Bagley Wood Kennington Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BagleyWood.jpg/500px-BagleyWood.jpg?20150516104424",
+  "nearby": [
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/BagleyWood.jpg",
-            "title": "Michael Dunne, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
-            "caption": "Bagley Wood Bluebells. From 955 to 1538 the wood was owned by Abingdon Abbey, and since 1557 most of the wood has been owned by St John's College of Oxford University."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kennington_TwoStSwithuns.JPG",
-            "title": "Motacilla, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Kennington Two St Swithuns"
-        }
-    ],
-    "distance_km": 5.4,
-    "description": "This circular walk explores Bagley Wood in the Oxfordshire village of Kennington. The village is located a few miles south of Oxford with the woods to the west of the village. In the ancient woods you'll find miles of trails taking you through the peaceful oak woodland. In the springtime you can also see lots of pretty bluebells with more wildflowers appearing throughout the summer. On the way look out for a variety of woodland birds and other wildlife. To extend the walk head east to pick up the Thames Path and enjoy a riverside walk around the pretty village of Sandford on Thames .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/Rkwn55U8muQ?si=roBk8PK95WyGd8jg",
-    "postcode": "OX1 5NJ",
-    "district": "Kennington",
-    "county": "Oxfordshire",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Sandford on Thames",
+      "objectID": "64d9ebb82f22f168109bf79293c01676",
+      "ref": "sandford-on-thames-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cbb645c35b503e18e3c267cdd96d9b88.gpx",
+  "_geoloc": {
+    "lat": 51.7180787941,
+    "lng": -1.2498302478
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/BagleyWood.jpg",
+      "title": "Michael Dunne, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "caption": "Bagley Wood Bluebells. From 955 to 1538 the wood was owned by Abingdon Abbey, and since 1557 most of the wood has been owned by St John's College of Oxford University."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kennington_TwoStSwithuns.JPG",
+      "title": "Motacilla, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Kennington Two St Swithuns"
+    }
+  ],
+  "distance_km": 5.4,
+  "description": "This circular walk explores Bagley Wood in the Oxfordshire village of Kennington. The village is located a few miles south of Oxford with the woods to the west of the village. In the ancient woods you'll find miles of trails taking you through the peaceful oak woodland. In the springtime you can also see lots of pretty bluebells with more wildflowers appearing throughout the summer. On the way look out for a variety of woodland birds and other wildlife. To extend the walk head east to pick up the Thames Path and enjoy a riverside walk around the pretty village of Sandford on Thames .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/Rkwn55U8muQ?si=roBk8PK95WyGd8jg",
+  "postcode": "OX1 5NJ",
+  "district": "Kennington",
+  "county": "Oxfordshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

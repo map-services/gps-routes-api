@@ -1,50 +1,68 @@
 {
-    "created_at": "2026-10-22T21:28:31.003236+00:00",
-    "objectID": "1bad021b5c4aee8b9d9bdbb76df22d74",
-    "ref": "chollerford-to-heddon-on-the-wall-walk",
-    "title": "Chesters Chollerford to Heddon-On-The-Wall Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chesters_Roman_fort_barracks.jpg/500px-Chesters_Roman_fort_barracks.jpg?20071028215651",
-    "nearby": [
-        {
-            "description": "Hadrian's Wall Path",
-            "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
-            "ref": "hadrians-wall-path-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1bad021b5c4aee8b9d9bdbb76df22d74.gpx",
-    "_geoloc": {
-        "lat": 55.028519659,
-        "lng": -2.1414221851
+  "created_at": "2026-10-22T21:28:31.003236+00:00",
+  "objectID": "1bad021b5c4aee8b9d9bdbb76df22d74",
+  "ref": "chollerford-to-heddon-on-the-wall-walk",
+  "title": "Chesters Chollerford to Heddon-On-The-Wall Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chesters_Roman_fort_barracks.jpg/500px-Chesters_Roman_fort_barracks.jpg?20071028215651",
+  "nearby": [
+    {
+      "description": "Hadrian's Wall Path",
+      "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
+      "ref": "hadrians-wall-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1bad021b5c4aee8b9d9bdbb76df22d74.gpx",
+  "_geoloc": {
+    "lat": 55.028519659,
+    "lng": -2.1414221851
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chesters_Roman_fort_barracks.jpg",
+      "title": "Steven Fruitsmaak, Public domain, via Wikimedia Commons",
+      "caption": "Chesters Roman fort barracks"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chesters_Roman_fort_barracks.jpg",
-            "title": "Steven Fruitsmaak, Public domain, via Wikimedia Commons",
-            "caption": "Chesters Roman fort barracks"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chollerford_Bridge_-_geograph.org.uk_-_1144001.jpg?20110225064048",
-            "title": "Bobthebilda / Chollerford Bridge",
-            "caption": "Chollerford Bridge over the North Tyne with The George Hotel in the background"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Whittle_Dene_Reservoir_-_geograph.org.uk_-_3508637.jpg?20220510064821",
-            "title": "Whittle Dene Reservoir by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Whittle Dene Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Roman_Wall_at_Heddon-on-the-_Wall%2C_Northumberland_-_geograph.org.uk_-_3074568.jpg",
-            "title": "The Roman Wall at Heddon-on-the- Wall, Northumberland by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Roman Wall at Heddon-on-the- Wall, Northumberland"
-        }
-    ],
-    "distance_km": 25.8,
-    "description": "This walk takes you along a popular section of the Hadrian's Wall Path from Chollerford to Heddon-On-The-Wall. The route runs for about 16 miles so can be completed in one day. The walk starts from the car park at Chesters Roman Fort just to the west of Chollerford. From here you can pick up the waymarked trail and follow it east passing turrets, milecastles, and ancient roman forts which were built to house and defend this section of the wall. The route also passes the picturesque Whittle Dene Reservoir where you can enjoy a waterside circular walk along a series of pretty lakes. The walk finishes in the noteworthy village of Heddon-On-The-Wall. It's a significant spot which includes the longest section of unbroken wall at its original and planned width, now known as Broad Wall. The area also includes St Andrew's church where you'll find Saxon features dating back to 680AD.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/AP9GbJoSxFQ?si=d3KLoTMqAeCPkE5U",
-    "postcode": "NE46 4BG",
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chollerford_Bridge_-_geograph.org.uk_-_1144001.jpg?20110225064048",
+      "title": "Bobthebilda / Chollerford Bridge",
+      "caption": "Chollerford Bridge over the North Tyne with The George Hotel in the background"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Whittle_Dene_Reservoir_-_geograph.org.uk_-_3508637.jpg?20220510064821",
+      "title": "Whittle Dene Reservoir by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Whittle Dene Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Roman_Wall_at_Heddon-on-the-_Wall%2C_Northumberland_-_geograph.org.uk_-_3074568.jpg",
+      "title": "The Roman Wall at Heddon-on-the- Wall, Northumberland by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Roman Wall at Heddon-on-the- Wall, Northumberland"
+    }
+  ],
+  "distance_km": 25.8,
+  "description": "This walk takes you along a popular section of the Hadrian's Wall Path from Chollerford to Heddon-On-The-Wall. The route runs for about 16 miles so can be completed in one day. The walk starts from the car park at Chesters Roman Fort just to the west of Chollerford. From here you can pick up the waymarked trail and follow it east passing turrets, milecastles, and ancient roman forts which were built to house and defend this section of the wall. The route also passes the picturesque Whittle Dene Reservoir where you can enjoy a waterside circular walk along a series of pretty lakes. The walk finishes in the noteworthy village of Heddon-On-The-Wall. It's a significant spot which includes the longest section of unbroken wall at its original and planned width, now known as Broad Wall. The area also includes St Andrew's church where you'll find Saxon features dating back to 680AD.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/AP9GbJoSxFQ?si=d3KLoTMqAeCPkE5U",
+  "postcode": "NE46 4BG",
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "ancient roman fort",
+    "village"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,46 +1,61 @@
 {
-    "created_at": "2026-10-22T22:28:43.881393+00:00",
-    "objectID": "cc887963b78cb7504a059cb51676cc50",
-    "ref": "ardnamona-woods-walking-route",
-    "title": "Ardnamona Woods Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ardnamona_view_of_the_lake.jpg/500px-Ardnamona_view_of_the_lake.jpg?_=20250726200351",
-    "nearby": [
-        {
-            "description": "Lough Mourne",
-            "objectID": "136e10f8eb41cca7b2b4195095dfefc1",
-            "ref": "lough-mourne-walking-route"
-        },
-        {
-            "description": "Barnesmore Gap to Salmon Leap Ballybofey",
-            "objectID": "eb5f5ccb9a29973b8c14d91f6a3a4e2f",
-            "ref": "barnesmore-gap-to-salmon-leap-ballybofey-walking-route"
-        },
-        {
-            "description": "Bluestack Mountains Way",
-            "objectID": "d08240396716e31b8a69121660191bd6",
-            "ref": "bluestack-mountains-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cc887963b78cb7504a059cb51676cc50.gpx",
-    "_geoloc": {
-        "lat": 54.706531,
-        "lng": -8.059604
+  "created_at": "2026-10-22T22:28:43.881393+00:00",
+  "objectID": "cc887963b78cb7504a059cb51676cc50",
+  "ref": "ardnamona-woods-walking-route",
+  "title": "Ardnamona Woods Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ardnamona_view_of_the_lake.jpg/500px-Ardnamona_view_of_the_lake.jpg?_=20250726200351",
+  "nearby": [
+    {
+      "description": "Lough Mourne",
+      "objectID": "136e10f8eb41cca7b2b4195095dfefc1",
+      "ref": "lough-mourne-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ardnamona_view_of_the_lake.jpg",
-            "title": "Pauloquicoli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Lake view"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Clady_River_%28mountain_stream%29_-_geograph.org.uk_-_3448114.jpg",
-            "title": "The Clady River (mountain stream) by D Gore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Clady River (mountain stream)"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "This walk visits the Ardnamona Woods Nature Reserve in County Donegal. The woods are located on the western side of Lough Eske and include a pleasant circular walk. In the woods there's a variety of interesting flora and fauna to look out for. You can also enjoy views of Lough Eske and The Clady River which runs past the southern side of the woods.To continue your walking in the area try theBarnesmore Gap to Salmon Leap Walkwhere you can enjoy some nice views ofLough Mourne.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/sTPwQETWm4M?si=pQZu0FlKDp_XENSy",
-    "gazetteer_found": false
+    {
+      "description": "Barnesmore Gap to Salmon Leap Ballybofey",
+      "objectID": "eb5f5ccb9a29973b8c14d91f6a3a4e2f",
+      "ref": "barnesmore-gap-to-salmon-leap-ballybofey-walking-route"
+    },
+    {
+      "description": "Bluestack Mountains Way",
+      "objectID": "d08240396716e31b8a69121660191bd6",
+      "ref": "bluestack-mountains-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cc887963b78cb7504a059cb51676cc50.gpx",
+  "_geoloc": {
+    "lat": 54.706531,
+    "lng": -8.059604
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ardnamona_view_of_the_lake.jpg",
+      "title": "Pauloquicoli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Lake view"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Clady_River_%28mountain_stream%29_-_geograph.org.uk_-_3448114.jpg",
+      "title": "The Clady River (mountain stream) by D Gore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Clady River (mountain stream)"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "This walk visits the Ardnamona Woods Nature Reserve in County Donegal. The woods are located on the western side of Lough Eske and include a pleasant circular walk. In the woods there's a variety of interesting flora and fauna to look out for. You can also enjoy views of Lough Eske and The Clady River which runs past the southern side of the woods.To continue your walking in the area try theBarnesmore Gap to Salmon Leap Walkwhere you can enjoy some nice views ofLough Mourne.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/sTPwQETWm4M?si=pQZu0FlKDp_XENSy",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

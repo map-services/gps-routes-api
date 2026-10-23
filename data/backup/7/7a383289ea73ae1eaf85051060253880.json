@@ -1,76 +1,94 @@
 {
-    "created_at": "2026-10-22T22:51:36.400128+00:00",
-    "objectID": "7a383289ea73ae1eaf85051060253880",
-    "ref": "seaham-to-hartlepool-coastal-walk",
-    "title": "Seaham to Hartlepool Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg/500px-Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg?20211209012010",
-    "nearby": [
-        {
-            "description": "Seaham to Crimdon Walk",
-            "objectID": "0100339f6f4999310ca6fcfefa5618ab",
-            "ref": "seaham-to-crimdon-walk"
-        },
-        {
-            "description": "Durham Coastal Footpath",
-            "objectID": "6677ebc651cdd63d53e88b51ce005e4c",
-            "ref": "durham-coastal-footpath-walking-route"
-        },
-        {
-            "description": "Blackhall Rocks Walk",
-            "objectID": "63b652b3cfe2d9f27b909cf3298dabe7",
-            "ref": "blackhall-rocks-walk"
-        },
-        {
-            "description": "Hurworth Burn Reservoir",
-            "objectID": "879931093c520874977f78bcf69ba89e",
-            "ref": "hurworth-burn-reservoir-walking-route"
-        },
-        {
-            "description": "Seaham",
-            "objectID": "b12b71307bf83e792e1890e1085ba820",
-            "ref": "seaham-walking-route"
-        },
-        {
-            "description": "Hartlepool",
-            "objectID": "4d81da8d7c9bd8656e90bfb5836f3537",
-            "ref": "hartlepool-walking-route"
-        },
-        {
-            "description": "Castle Eden Dene",
-            "objectID": "e1fd5feb1fac4699a8ee47e3c52244a9",
-            "ref": "castle-eden-dene-walking-route"
-        },
-        {
-            "description": "Castle Eden Walkway",
-            "objectID": "93680437451e00bf425216658f5531f1",
-            "ref": "castle-eden-walkway-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7a383289ea73ae1eaf85051060253880.gpx",
-    "_geoloc": {
-        "lat": 54.8380747221,
-        "lng": -1.3313280311
+  "created_at": "2026-10-22T22:51:36.400128+00:00",
+  "objectID": "7a383289ea73ae1eaf85051060253880",
+  "ref": "seaham-to-hartlepool-coastal-walk",
+  "title": "Seaham to Hartlepool Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg/500px-Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg?20211209012010",
+  "nearby": [
+    {
+      "description": "Seaham to Crimdon Walk",
+      "objectID": "0100339f6f4999310ca6fcfefa5618ab",
+      "ref": "seaham-to-crimdon-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg",
-            "title": "Seaham Harbour by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Seaham Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/North_Sands_at_Hartlepool_-_geograph.org.uk_-_5517537.jpg?20231002062047",
-            "title": "North Sands at Hartlepool by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "North Sands at Hartlepool"
-        }
-    ],
-    "distance_km": 27.0,
-    "description": "This coastal walk takes you along a section of the Durham Coastal Footpath and the England Coast Path from Seaham to Hartlepool. The route runs for just under 17 miles, heading south east from Seaham and passing Peterlee, Castle Eden Dene and Blackhall Rocks. You'll then enjoy a stretch along the beaches and sand dunes of North Sands before passing Hartlepool's Victoria Harbour and finishing at the historic quay.Much of the route follows cliff-top paths with wide views over the North Sea, alternating with quieter stretches through denes, farmland and former colliery landscapes that reflect the area’s industrial heritage. Along the way there are sections of shingle and sandy beach, dramatic limestone cliffs and rocky shorelines, especially around Blackhall Rocks.The coastal habitats support a good variety of wildlife, with seabirds such as kittiwakes, gulls and cormorants commonly seen along the cliffs, and waders often feeding on the beaches and mudflats. Hartlepool’s harbour area provides a striking contrast at the end of the walk, with its fishing fleet, marina and historic waterfront buildings marking the final stage of the route.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/q6rX-SQNEA4?si=OzqhzpJyXiuj6ZqA",
-    "postcode": "SR7 7EA",
-    "district": "Seaham",
-    "county": "County Durham",
-    "region": "North East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Durham Coastal Footpath",
+      "objectID": "6677ebc651cdd63d53e88b51ce005e4c",
+      "ref": "durham-coastal-footpath-walking-route"
+    },
+    {
+      "description": "Blackhall Rocks Walk",
+      "objectID": "63b652b3cfe2d9f27b909cf3298dabe7",
+      "ref": "blackhall-rocks-walk"
+    },
+    {
+      "description": "Hurworth Burn Reservoir",
+      "objectID": "879931093c520874977f78bcf69ba89e",
+      "ref": "hurworth-burn-reservoir-walking-route"
+    },
+    {
+      "description": "Seaham",
+      "objectID": "b12b71307bf83e792e1890e1085ba820",
+      "ref": "seaham-walking-route"
+    },
+    {
+      "description": "Hartlepool",
+      "objectID": "4d81da8d7c9bd8656e90bfb5836f3537",
+      "ref": "hartlepool-walking-route"
+    },
+    {
+      "description": "Castle Eden Dene",
+      "objectID": "e1fd5feb1fac4699a8ee47e3c52244a9",
+      "ref": "castle-eden-dene-walking-route"
+    },
+    {
+      "description": "Castle Eden Walkway",
+      "objectID": "93680437451e00bf425216658f5531f1",
+      "ref": "castle-eden-walkway-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7a383289ea73ae1eaf85051060253880.gpx",
+  "_geoloc": {
+    "lat": 54.8380747221,
+    "lng": -1.3313280311
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Seaham_Harbour_-_geograph.org.uk_-_2851861.jpg",
+      "title": "Seaham Harbour by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Seaham Harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/North_Sands_at_Hartlepool_-_geograph.org.uk_-_5517537.jpg?20231002062047",
+      "title": "North Sands at Hartlepool by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "North Sands at Hartlepool"
+    }
+  ],
+  "distance_km": 27.0,
+  "description": "This coastal walk takes you along a section of the Durham Coastal Footpath and the England Coast Path from Seaham to Hartlepool. The route runs for just under 17 miles, heading south east from Seaham and passing Peterlee, Castle Eden Dene and Blackhall Rocks. You'll then enjoy a stretch along the beaches and sand dunes of North Sands before passing Hartlepool's Victoria Harbour and finishing at the historic quay.Much of the route follows cliff-top paths with wide views over the North Sea, alternating with quieter stretches through denes, farmland and former colliery landscapes that reflect the area\u2019s industrial heritage. Along the way there are sections of shingle and sandy beach, dramatic limestone cliffs and rocky shorelines, especially around Blackhall Rocks.The coastal habitats support a good variety of wildlife, with seabirds such as kittiwakes, gulls and cormorants commonly seen along the cliffs, and waders often feeding on the beaches and mudflats. Hartlepool\u2019s harbour area provides a striking contrast at the end of the walk, with its fishing fleet, marina and historic waterfront buildings marking the final stage of the route.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/q6rX-SQNEA4?si=OzqhzpJyXiuj6ZqA",
+  "postcode": "SR7 7EA",
+  "district": "Seaham",
+  "county": "County Durham",
+  "region": "North East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 to 3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff-top",
+    "shingle",
+    "sandy beach"
+  ],
+  "points_of_interest": [
+    "historic site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

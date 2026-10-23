@@ -1,36 +1,53 @@
 {
-    "created_at": "2026-10-22T21:14:38.035766+00:00",
-    "objectID": "6f94e2e3893a183d89b280618b69caad",
-    "ref": "bloody-bridge-coastal-walk",
-    "title": "Bloody Bridge Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg/500px-The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg?20230512034203",
-    "nearby": [
-        {
-            "description": "Slieve Donard",
-            "objectID": "8e97e01e6b7916d70315dfbac459d1a6",
-            "ref": "slieve-donard-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6f94e2e3893a183d89b280618b69caad.gpx",
-    "_geoloc": {
-        "lat": 54.17466,
-        "lng": -5.87357
+  "created_at": "2026-10-22T21:14:38.035766+00:00",
+  "objectID": "6f94e2e3893a183d89b280618b69caad",
+  "ref": "bloody-bridge-coastal-walk",
+  "title": "Bloody Bridge Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg/500px-The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg?20230512034203",
+  "nearby": [
+    {
+      "description": "Slieve Donard",
+      "objectID": "8e97e01e6b7916d70315dfbac459d1a6",
+      "ref": "slieve-donard-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6f94e2e3893a183d89b280618b69caad.gpx",
+  "_geoloc": {
+    "lat": 54.17466,
+    "lng": -5.87357
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg",
+      "title": "The Bloody Bridge River above the old Bloody Bridge by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Bloody Bridge River above the old Bloody Bridge"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Bloody_Bridge_River_above_the_old_Bloody_Bridge_-_geograph.org.uk_-_4746507.jpg",
-            "title": "The Bloody Bridge River above the old Bloody Bridge by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Bloody Bridge River above the old Bloody Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_rocky_shore_at_Bloody_Bridge_-_geograph.org.uk_-_5146810.jpg",
-            "title": "The rocky shore at Bloody Bridge by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The rocky shore at Bloody Bridge"
-        }
-    ],
-    "distance_km": 1.62,
-    "description": "The \"Bloody Bridge\" is a place of historical significance named for a gruesome massacre said to have occurred during the 1641 rebellion. Legend has it that bodies of slain prisoners were thrown over the bridge into the river, causing it to turn red and earning it the name \"Bloody Bridge River\". Today, it's a popular tourist destination and a starting point for various walks and outdoor activities in the Mourne Mountains. You can start the walk from the car parking area to the south of Newcastle in County Down. From here you can pick up the waymarked Mourne Coastal Path and follow it south for a distance of 1.6km. On the way you will cross the river and enjoy some splendid coastal views, interesting rock formations and wonderful cliff top scenery. You can continue your walking on the nearby Slieve Donard Walk .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/vGYg33aI8aU?si=FGVH0fb6s2lK_tbl",
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_rocky_shore_at_Bloody_Bridge_-_geograph.org.uk_-_5146810.jpg",
+      "title": "The rocky shore at Bloody Bridge by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The rocky shore at Bloody Bridge"
+    }
+  ],
+  "distance_km": 1.62,
+  "description": "The \"Bloody Bridge\" is a place of historical significance named for a gruesome massacre said to have occurred during the 1641 rebellion. Legend has it that bodies of slain prisoners were thrown over the bridge into the river, causing it to turn red and earning it the name \"Bloody Bridge River\". Today, it's a popular tourist destination and a starting point for various walks and outdoor activities in the Mourne Mountains. You can start the walk from the car parking area to the south of Newcastle in County Down. From here you can pick up the waymarked Mourne Coastal Path and follow it south for a distance of 1.6km. On the way you will cross the river and enjoy some splendid coastal views, interesting rock formations and wonderful cliff top scenery. You can continue your walking on the nearby Slieve Donard Walk .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/vGYg33aI8aU?si=FGVH0fb6s2lK_tbl",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

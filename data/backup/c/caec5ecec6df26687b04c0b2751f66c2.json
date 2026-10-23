@@ -79,7 +79,7 @@
     }
   ],
   "distance_km": 11.4,
-  "description": "This walk follows a section of the South West Coast Path from Ilfracombe to Watermouth Bay and Sexton's Burrows on the North Devon Coast. It's roughly 3.5 miles from the town to the bay so 7 miles there and back. Along the way there are great coastal views and lots of wildlife to see. You can look out for grey seals and harbour porpoises in the waters below. During the summer months, pods of common and bottlenose dolphins are frequently seen from the clifftops, often following fishing vessels or playing in the surf. On very calm days, you might even see the slow-moving fin of a basking shark near the surface. You may see peregrine falcons—the world's fastest birds—hunting along the rock faces, or kestrels hovering over the gorse in search of prey.You start by climbing out of the historic harbour area and ascending the grassy slopes of Hillsborough, a prominent headland that serves as a local nature reserve. From this high vantage point, you can look back across the town and the Bristol Channel, seeing the silhouette of the Welsh coast on a clear day. The path then winds through the Torrs, leading you toward Hele Bay, a small seaside suburb with a sheltered pebble beach and a traditional corn mill nestled in the valley.After leaving Hele Bay, the trail climbs back onto the clifftops, where the terrain becomes more rugged and the path narrower as it hugs the edge of the land. This stretch is characterised by dramatic rock formations and deep, hidden gullies that have been carved out by the sea over centuries. You will pass through areas of coastal heathland and small pockets of scrub, with the sound of the waves crashing against the rocks below providing a constant backdrop to the journey.As you approach your destination, the path offers a striking view of the natural breakwater that protects Watermouth Harbour. You descend toward the sea level, following the contours of the land until the sheltered, boat-filled basin of the cove comes into full view. The walk concludes at the edge of the harbor, where the calm, crystal-clear waters are framed by the ornate towers of Watermouth Castle appearing through the trees on the landward side.",
+  "description": "This walk follows a section of the South West Coast Path from Ilfracombe to Watermouth Bay and Sexton's Burrows on the North Devon Coast. It's roughly 3.5 miles from the town to the bay so 7 miles there and back. Along the way there are great coastal views and lots of wildlife to see. You can look out for grey seals and harbour porpoises in the waters below. During the summer months, pods of common and bottlenose dolphins are frequently seen from the clifftops, often following fishing vessels or playing in the surf. On very calm days, you might even see the slow-moving fin of a basking shark near the surface. You may see peregrine falcons\u2014the world's fastest birds\u2014hunting along the rock faces, or kestrels hovering over the gorse in search of prey.You start by climbing out of the historic harbour area and ascending the grassy slopes of Hillsborough, a prominent headland that serves as a local nature reserve. From this high vantage point, you can look back across the town and the Bristol Channel, seeing the silhouette of the Welsh coast on a clear day. The path then winds through the Torrs, leading you toward Hele Bay, a small seaside suburb with a sheltered pebble beach and a traditional corn mill nestled in the valley.After leaving Hele Bay, the trail climbs back onto the clifftops, where the terrain becomes more rugged and the path narrower as it hugs the edge of the land. This stretch is characterised by dramatic rock formations and deep, hidden gullies that have been carved out by the sea over centuries. You will pass through areas of coastal heathland and small pockets of scrub, with the sound of the waves crashing against the rocks below providing a constant backdrop to the journey.As you approach your destination, the path offers a striking view of the natural breakwater that protects Watermouth Harbour. You descend toward the sea level, following the contours of the land until the sheltered, boat-filled basin of the cove comes into full view. The walk concludes at the edge of the harbor, where the calm, crystal-clear waters are framed by the ornate towers of Watermouth Castle appearing through the trees on the landward side.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/qEsoL1bW_PY?si=zho876iFlijCqOEB",
   "postcode": "EX34 9EH",
@@ -87,5 +87,27 @@
   "county": "Devon",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "grassy",
+    "heathland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "nature reserve",
+    "castle"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

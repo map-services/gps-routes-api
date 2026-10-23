@@ -1,41 +1,59 @@
 {
-    "created_at": "2026-10-22T21:55:17.297093+00:00",
-    "objectID": "08801c20a769e5f8e3123b2d2e8bb6f0",
-    "ref": "shankill-carrickgollogan-woods-and-the-scalp-walk",
-    "title": "Shankill Carrickgollogan Woods and The Scalp Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Scalp_From_Barnaslingan_Hill.jpg/500px-The_Scalp_From_Barnaslingan_Hill.jpg?20100917191944",
-    "nearby": [
-        {
-            "description": "Dublin Mountains Way",
-            "objectID": "13522940808aebe1977fa18a3d576bb9",
-            "ref": "dublin-mountains-way-walking-route"
-        },
-        {
-            "description": "Barnaslingan and Carrickgollogan",
-            "objectID": "d20a0e333b8a6e53b2ad238f6615c3e4",
-            "ref": "barnaslingan-and-carrickgollogan-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/08801c20a769e5f8e3123b2d2e8bb6f0.gpx",
-    "_geoloc": {
-        "lat": 53.2302129,
-        "lng": -6.12432
+  "created_at": "2026-10-22T21:55:17.297093+00:00",
+  "objectID": "08801c20a769e5f8e3123b2d2e8bb6f0",
+  "ref": "shankill-carrickgollogan-woods-and-the-scalp-walk",
+  "title": "Shankill Carrickgollogan Woods and The Scalp Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Scalp_From_Barnaslingan_Hill.jpg/500px-The_Scalp_From_Barnaslingan_Hill.jpg?20100917191944",
+  "nearby": [
+    {
+      "description": "Dublin Mountains Way",
+      "objectID": "13522940808aebe1977fa18a3d576bb9",
+      "ref": "dublin-mountains-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Scalp_From_Barnaslingan_Hill.jpg",
-            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "View of The Scalp from the summit of Barnaslingan Hill, looking south towards the Great Sugar Loaf mountain."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Dublin_Bay_viewed_from_the_summit_of_Carrickgollogan.jpg",
-            "title": "Laurel Lodged, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Dublin Bay viewed from the summit of Carrickgollogan"
-        }
-    ],
-    "distance_km": 11.8,
-    "description": "This varied walk starts from the car park in Shankill village in Dublin and takes you to The Scalp, an important geological site formed by a glacial outflow. The route passes through various woodlands, including Carrickgollogan and Barnaslingan Woods. Along the way, you'll also see the former Ballycorus Lead Mine, a significant industrial heritage site. From the top of Carrickgollogan Hill, the walk provides stunning panoramic views of Killiney Bay, Bray Head, the Little and Great Sugar Loaf Mountains, and the wider Dublin and Wicklow Mountains. The long distance Dublin Mountains Way starts in Shankill so you could pick up this waymarked trail to further explore the area.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/gHjUk8opquM?si=K2I_rG6nMqMBYzRg",
-    "gazetteer_found": false
+    {
+      "description": "Barnaslingan and Carrickgollogan",
+      "objectID": "d20a0e333b8a6e53b2ad238f6615c3e4",
+      "ref": "barnaslingan-and-carrickgollogan-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/08801c20a769e5f8e3123b2d2e8bb6f0.gpx",
+  "_geoloc": {
+    "lat": 53.2302129,
+    "lng": -6.12432
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Scalp_From_Barnaslingan_Hill.jpg",
+      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "View of The Scalp from the summit of Barnaslingan Hill, looking south towards the Great Sugar Loaf mountain."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Dublin_Bay_viewed_from_the_summit_of_Carrickgollogan.jpg",
+      "title": "Laurel Lodged, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Dublin Bay viewed from the summit of Carrickgollogan"
+    }
+  ],
+  "distance_km": 11.8,
+  "description": "This varied walk starts from the car park in Shankill village in Dublin and takes you to The Scalp, an important geological site formed by a glacial outflow. The route passes through various woodlands, including Carrickgollogan and Barnaslingan Woods. Along the way, you'll also see the former Ballycorus Lead Mine, a significant industrial heritage site. From the top of Carrickgollogan Hill, the walk provides stunning panoramic views of Killiney Bay, Bray Head, the Little and Great Sugar Loaf Mountains, and the wider Dublin and Wicklow Mountains. The long distance Dublin Mountains Way starts in Shankill so you could pick up this waymarked trail to further explore the area.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/gHjUk8opquM?si=K2I_rG6nMqMBYzRg",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "geological site",
+    "industrial heritage site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

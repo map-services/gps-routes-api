@@ -1,49 +1,68 @@
 {
-    "created_at": "2026-10-22T22:28:03.812266+00:00",
-    "objectID": "716a11a991f9ead6d5bf4fa8999f9947",
-    "ref": "aberffraw-to-rhosneigr-walk",
-    "title": "Aberffraw to Rhosneigr Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg/500px-Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg?20221205011244",
-    "nearby": [
-        {
-            "description": "Aberffraw",
-            "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
-            "ref": "aberffraw-walking-route"
-        },
-        {
-            "description": "Rhosneigr Llyn Maelog",
-            "objectID": "01108fa3fbcb728ca39a4ca1676ebc8f",
-            "ref": "rhosneigr-llyn-maelog-walking-route"
-        },
-        {
-            "description": "Anglesey Coast Path",
-            "objectID": "dfc85c31d62e609f13eea74ca40f670f",
-            "ref": "anglesey-coast-path-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/716a11a991f9ead6d5bf4fa8999f9947.gpx",
-    "_geoloc": {
-        "lat": 53.19143,
-        "lng": -4.46503
+  "created_at": "2026-10-22T22:28:03.812266+00:00",
+  "objectID": "716a11a991f9ead6d5bf4fa8999f9947",
+  "ref": "aberffraw-to-rhosneigr-walk",
+  "title": "Aberffraw to Rhosneigr Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg/500px-Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg?20221205011244",
+  "nearby": [
+    {
+      "description": "Aberffraw",
+      "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
+      "ref": "aberffraw-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg",
-            "title": "Aberffraw Sands (Traeth Mawr) by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Aberffraw Sands (Traeth Mawr)"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_shore_at_South_Rhosneigr_-_geograph.org.uk_-_107013.jpg?20100131022123",
-            "title": "Colin Smith / The shore at South Rhosneigr",
-            "caption": "The shore at South Rhosneigr"
-        }
-    ],
-    "distance_km": 11.0,
-    "description": "This coastal walk runs from Aberffraw to Rhosneigr on the south western side of the Isle of Anglesey. The walk runs for just under 7 miles following a lovely section of the waymarked Anglesey Coast Path. Starting at the village of Aberffraw, the route follows sandy estuary edges and open coastline where the Afon Ffraw meets the sea, with wide views across dunes and low cliffs. The path then continues along a mix of grassy clifftops and quieter stretches of beach, passing areas of coastal grassland and rock pools. Seabirds are often seen along this section and there are frequent viewpoints looking out over Treath Mawr and the wider Irish Sea.As the walk approaches Rhosneigr, the coastline becomes more open with long sandy bays and dunes backed by low headlands. The route finishes in the popular seaside village of Rhosneigr, known for its broad beaches and coastal setting, where there are places to find refreshments and public transport links for the return journey. You can also visit the prettyLlyn Maeloghere.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/PfAJdD5nPOw?si=kkgNTC2tXYcMNPXA&start=38",
-    "county": "Sir Ynys Mon - Isle of Anglesey",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Rhosneigr Llyn Maelog",
+      "objectID": "01108fa3fbcb728ca39a4ca1676ebc8f",
+      "ref": "rhosneigr-llyn-maelog-walking-route"
+    },
+    {
+      "description": "Anglesey Coast Path",
+      "objectID": "dfc85c31d62e609f13eea74ca40f670f",
+      "ref": "anglesey-coast-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/716a11a991f9ead6d5bf4fa8999f9947.gpx",
+  "_geoloc": {
+    "lat": 53.19143,
+    "lng": -4.46503
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Aberffraw_Sands_%28Traeth_Mawr%29_-_geograph.org.uk_-_4088976.jpg",
+      "title": "Aberffraw Sands (Traeth Mawr) by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Aberffraw Sands (Traeth Mawr)"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_shore_at_South_Rhosneigr_-_geograph.org.uk_-_107013.jpg?20100131022123",
+      "title": "Colin Smith / The shore at South Rhosneigr",
+      "caption": "The shore at South Rhosneigr"
+    }
+  ],
+  "distance_km": 11.0,
+  "description": "This coastal walk runs from Aberffraw to Rhosneigr on the south western side of the Isle of Anglesey. The walk runs for just under 7 miles following a lovely section of the waymarked Anglesey Coast Path. Starting at the village of Aberffraw, the route follows sandy estuary edges and open coastline where the Afon Ffraw meets the sea, with wide views across dunes and low cliffs. The path then continues along a mix of grassy clifftops and quieter stretches of beach, passing areas of coastal grassland and rock pools. Seabirds are often seen along this section and there are frequent viewpoints looking out over Treath Mawr and the wider Irish Sea.As the walk approaches Rhosneigr, the coastline becomes more open with long sandy bays and dunes backed by low headlands. The route finishes in the popular seaside village of Rhosneigr, known for its broad beaches and coastal setting, where there are places to find refreshments and public transport links for the return journey. You can also visit the prettyLlyn Maeloghere.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/PfAJdD5nPOw?si=kkgNTC2tXYcMNPXA&start=38",
+  "county": "Sir Ynys Mon - Isle of Anglesey",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "sandy",
+    "grassy"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,64 +1,81 @@
 {
-    "created_at": "2026-10-22T22:51:44.608275+00:00",
-    "objectID": "234c0131ce631e00ca0a0481deaa5989",
-    "ref": "seven-sisters-hike-from-london-walking-route",
-    "title": "Seven Sisters Hike From London Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Seven_Sisters_March_2017_02.jpg/500px-Seven_Sisters_March_2017_02.jpg?20170311080749",
-    "nearby": [
-        {
-            "description": "Thames Path",
-            "objectID": "0e4392c91f56f17784efaee8a564e416",
-            "ref": "thames-path-walking-route"
-        },
-        {
-            "description": "Wandle Trail",
-            "objectID": "ffa9fe05e721330d69aa2d83d74a8096",
-            "ref": "wandle-trail-cycle-route"
-        },
-        {
-            "description": "Vanguard Way",
-            "objectID": "d526829c942476c5ae331b2b89b7b812",
-            "ref": "vanguard-way-walking-route"
-        },
-        {
-            "description": "Southwark London to Canterbury Walk",
-            "objectID": "1eb142e90129d344042ef3914f3afdda",
-            "ref": "southwark-london-to-canterbury-walk"
-        },
-        {
-            "description": "Alfriston to Seven Sisters Walk",
-            "objectID": "cd690794f6108b9ff42da630922e83b4",
-            "ref": "alfriston-to-seven-sisters-walk"
-        },
-        {
-            "description": "Box Hill Hike From London",
-            "objectID": "3367cd5273c48066f66e9f3e179c3c60",
-            "ref": "box-hill-hike-from-london-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/234c0131ce631e00ca0a0481deaa5989.gpx",
-    "_geoloc": {
-        "lat": 51.4615677883,
-        "lng": -0.1948688979
+  "created_at": "2026-10-22T22:51:44.608275+00:00",
+  "objectID": "234c0131ce631e00ca0a0481deaa5989",
+  "ref": "seven-sisters-hike-from-london-walking-route",
+  "title": "Seven Sisters Hike From London Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Seven_Sisters_March_2017_02.jpg/500px-Seven_Sisters_March_2017_02.jpg?20170311080749",
+  "nearby": [
+    {
+      "description": "Thames Path",
+      "objectID": "0e4392c91f56f17784efaee8a564e416",
+      "ref": "thames-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Seven_Sisters_March_2017_02.jpg",
-            "title": "Arild Vågen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "The Seven Sisters, a series of seven chalk cliff peaks along the East Sussex coast in England. Seaford head in the background is on the other side of the River Cuckmere and not part of the Seven Sisters. In the foreground, Birling Gap."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Vanguard_Way_near_Edenbridge_-_geograph.org.uk_-_7506586.jpg",
-            "title": "The Vanguard Way near Edenbridge by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Vanguard Way near Edenbridge"
-        }
-    ],
-    "distance_km": 120.0,
-    "description": "This long distance walk follows the Wandle Trail and the Vanguard Way from London to the Seven Sisters Cliffs on Sussex Coast. Starting in Wandsworth next to the River Thames you first follow the Wandle Trail south along the River Wandle to Croydon. Here you pick up the Vanguard Way which runs through Surrey, Kent, the expansive Ashdown Forest, the beautiful South Downs, Alfriston and the Cuckmere River Valley to the stunning East Sussex coast. There's splendid views of the rolling hills of the South Downs and the south coast before arriving at the stunning cliff tops.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/tGf0Cs9jdNs?si=1V7puV2RiiSMXG6G",
-    "county": "Greater London",
-    "region": "London",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Wandle Trail",
+      "objectID": "ffa9fe05e721330d69aa2d83d74a8096",
+      "ref": "wandle-trail-cycle-route"
+    },
+    {
+      "description": "Vanguard Way",
+      "objectID": "d526829c942476c5ae331b2b89b7b812",
+      "ref": "vanguard-way-walking-route"
+    },
+    {
+      "description": "Southwark London to Canterbury Walk",
+      "objectID": "1eb142e90129d344042ef3914f3afdda",
+      "ref": "southwark-london-to-canterbury-walk"
+    },
+    {
+      "description": "Alfriston to Seven Sisters Walk",
+      "objectID": "cd690794f6108b9ff42da630922e83b4",
+      "ref": "alfriston-to-seven-sisters-walk"
+    },
+    {
+      "description": "Box Hill Hike From London",
+      "objectID": "3367cd5273c48066f66e9f3e179c3c60",
+      "ref": "box-hill-hike-from-london-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/234c0131ce631e00ca0a0481deaa5989.gpx",
+  "_geoloc": {
+    "lat": 51.4615677883,
+    "lng": -0.1948688979
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Seven_Sisters_March_2017_02.jpg",
+      "title": "Arild V\u00e5gen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "The Seven Sisters, a series of seven chalk cliff peaks along the East Sussex coast in England. Seaford head in the background is on the other side of the River Cuckmere and not part of the Seven Sisters. In the foreground, Birling Gap."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Vanguard_Way_near_Edenbridge_-_geograph.org.uk_-_7506586.jpg",
+      "title": "The Vanguard Way near Edenbridge by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Vanguard Way near Edenbridge"
+    }
+  ],
+  "distance_km": 120.0,
+  "description": "This long distance walk follows the Wandle Trail and the Vanguard Way from London to the Seven Sisters Cliffs on Sussex Coast. Starting in Wandsworth next to the River Thames you first follow the Wandle Trail south along the River Wandle to Croydon. Here you pick up the Vanguard Way which runs through Surrey, Kent, the expansive Ashdown Forest, the beautiful South Downs, Alfriston and the Cuckmere River Valley to the stunning East Sussex coast. There's splendid views of the rolling hills of the South Downs and the south coast before arriving at the stunning cliff tops.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/tGf0Cs9jdNs?si=1V7puV2RiiSMXG6G",
+  "county": "Greater London",
+  "region": "London",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "hard",
+  "terrain": [
+    "river",
+    "forest",
+    "downland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "cliff"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

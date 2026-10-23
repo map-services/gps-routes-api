@@ -29,11 +29,32 @@
     }
   ],
   "distance_km": 3.6,
-  "description": "This circular walk takes you around the pretty lake in the Millennium Country Park in the Bedfordshire village of Marston Moretaine. The 2.2 mile also has sections which are suitable for cyclists. The Millennium Country Park covers around 225 acres of restored landscape, with the main lake surrounded by woodland, meadows and wetland habitats. The lake is the focal point of the park and provides a peaceful setting for a short walk, with several viewpoints and areas where you can stop and enjoy the scenery.The park is also home to a variety of wildlife, with the lakes and wetlands attracting ducks, geese and other water birds. The mixture of habitats makes it a pleasant place for nature spotting, while the relatively flat paths make this an accessible option for a leisurely outing.Marston Moretaine is also home to the Forest Centre, which sits beside the lake and provides a useful starting point for exploring the park. The centre has a café and visitor facilities, making it possible to combine the walk with refreshments and a visit to the wider country park.You can extend your walk by visiting the adjacentStewartby Lake.",
+  "description": "This circular walk takes you around the pretty lake in the Millennium Country Park in the Bedfordshire village of Marston Moretaine. The 2.2 mile also has sections which are suitable for cyclists. The Millennium Country Park covers around 225 acres of restored landscape, with the main lake surrounded by woodland, meadows and wetland habitats. The lake is the focal point of the park and provides a peaceful setting for a short walk, with several viewpoints and areas where you can stop and enjoy the scenery.The park is also home to a variety of wildlife, with the lakes and wetlands attracting ducks, geese and other water birds. The mixture of habitats makes it a pleasant place for nature spotting, while the relatively flat paths make this an accessible option for a leisurely outing.Marston Moretaine is also home to the Forest Centre, which sits beside the lake and provides a useful starting point for exploring the park. The centre has a caf\u00e9 and visitor facilities, making it possible to combine the walk with refreshments and a visit to the wider country park.You can extend your walk by visiting the adjacentStewartby Lake.",
   "details": [],
   "postcode": "MK43 0PR",
   "county": "Central Bedfordshire",
   "region": "Eastern",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "viewpoint"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor facility"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

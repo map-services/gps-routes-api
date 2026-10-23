@@ -1,75 +1,92 @@
 {
-    "created_at": "2026-10-22T21:34:04.303291+00:00",
-    "objectID": "606ef5cda6d196ee1352b823b9375067",
-    "ref": "fairy-glen-falls-walking-route",
-    "title": "Fairy Glen Falls Walk Rosemarkie Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fairy_Glen_Rosemarkie_02.png/500px-Fairy_Glen_Rosemarkie_02.png?20220618154916",
-    "nearby": [
-        {
-            "description": "Dingwall Canal Walk",
-            "objectID": "e4e4476ec91654dcd3bffc51813050df",
-            "ref": "dingwall-canal-walk-walking-route"
-        },
-        {
-            "description": "Inverness Canal and Forest Walk",
-            "objectID": "dc35edc24e3b8c443bafa82499e95a87",
-            "ref": "inverness-canal-and-forest-walk-walking-route"
-        },
-        {
-            "description": "River Ness",
-            "objectID": "9d5d66930ea9d51336f73e979b51458a",
-            "ref": "river-ness-walking-route"
-        },
-        {
-            "description": "Cromarty 100 Steps and Sutors Of Cromarty",
-            "objectID": "bd91f47fed9d79bac2dcf19da0aea598",
-            "ref": "cromarty-100-steps-and-sutors-of-cromarty-walking-route"
-        },
-        {
-            "description": "Loch Lundie",
-            "objectID": "2013b65cd5fe6822b54e6550169a3b14",
-            "ref": "loch-lundie-walking-route"
-        },
-        {
-            "description": "Chanonry Point",
-            "objectID": "8823c6b4dcc4ac269ac78f5d2857bcfa",
-            "ref": "chanonry-point-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/606ef5cda6d196ee1352b823b9375067.gpx",
-    "_geoloc": {
-        "lat": 57.5926627402,
-        "lng": -4.1178047977
+  "created_at": "2026-10-22T21:34:04.303291+00:00",
+  "objectID": "606ef5cda6d196ee1352b823b9375067",
+  "ref": "fairy-glen-falls-walking-route",
+  "title": "Fairy Glen Falls Walk Rosemarkie Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fairy_Glen_Rosemarkie_02.png/500px-Fairy_Glen_Rosemarkie_02.png?20220618154916",
+  "nearby": [
+    {
+      "description": "Dingwall Canal Walk",
+      "objectID": "e4e4476ec91654dcd3bffc51813050df",
+      "ref": "dingwall-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fairy_Glen_Rosemarkie_02.png",
-            "title": "Pampuco, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Fairy Glen, Rosemarkie: pedestrian bridge close to the upper waterfall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rosemarkie_Burn_-_geograph.org.uk_-_4244386.jpg?20230106041756",
-            "title": "Rosemarkie Burn by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rosemarkie Burn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Markie_Burn_in_the_lower_part_of_Fairy_Glen_-_geograph.org.uk_-_6651817.jpg",
-            "title": "The Markie Burn in the lower part of Fairy Glen by Julian Paren, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Markie Burn in the lower part of Fairy Glen"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fairy_Glen_Rosemarkie_03.png",
-            "title": "Pampuco, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Fairy Glen Rosemarkie 03"
-        }
-    ],
-    "distance_km": 2.6,
-    "description": "The Fairy Glen Falls Walk is located near Rosemarkie on the Black Isle in the Scottish Highlands. It's a charming out-and-back trail that spans approximately 1.6 miles (2.6 kilometers). The path meanders alongside the Markie Burn, leading to two picturesque waterfalls nestled within a serene woodland setting. The trail is well-maintained and suitable for most fitness levels, making it a popular choice for families and casual walkers. The route begins at a dedicated car park in Rosemarkie and follows a gentle incline through the glen, offering a peaceful retreat into nature. The Fairy Glen is also an RSPB nature reserve, providing a habitat for various bird species, including dippers, which can often be seen foraging in the burn. The surrounding woodlands are home to a diverse range of flora, such as ferns, mosses, and wildflowers, contributing to the area's enchanting atmosphere. This walk not only offers scenic beauty but also a glimpse into the rich biodiversity of the region. You can continue your walking in the area by heading to the nearby Chanonry Point, a well known area for spotting dolphins. To the north there's the Cromarty 100 Steps and Sutors Of Cromarty .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/wBRyOLZ_iHw?si=1YMhH70zrtlH6ixe",
-    "district": "Rosemarkie",
-    "county": "Highland",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Inverness Canal and Forest Walk",
+      "objectID": "dc35edc24e3b8c443bafa82499e95a87",
+      "ref": "inverness-canal-and-forest-walk-walking-route"
+    },
+    {
+      "description": "River Ness",
+      "objectID": "9d5d66930ea9d51336f73e979b51458a",
+      "ref": "river-ness-walking-route"
+    },
+    {
+      "description": "Cromarty 100 Steps and Sutors Of Cromarty",
+      "objectID": "bd91f47fed9d79bac2dcf19da0aea598",
+      "ref": "cromarty-100-steps-and-sutors-of-cromarty-walking-route"
+    },
+    {
+      "description": "Loch Lundie",
+      "objectID": "2013b65cd5fe6822b54e6550169a3b14",
+      "ref": "loch-lundie-walking-route"
+    },
+    {
+      "description": "Chanonry Point",
+      "objectID": "8823c6b4dcc4ac269ac78f5d2857bcfa",
+      "ref": "chanonry-point-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/606ef5cda6d196ee1352b823b9375067.gpx",
+  "_geoloc": {
+    "lat": 57.5926627402,
+    "lng": -4.1178047977
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fairy_Glen_Rosemarkie_02.png",
+      "title": "Pampuco, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Fairy Glen, Rosemarkie: pedestrian bridge close to the upper waterfall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rosemarkie_Burn_-_geograph.org.uk_-_4244386.jpg?20230106041756",
+      "title": "Rosemarkie Burn by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rosemarkie Burn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Markie_Burn_in_the_lower_part_of_Fairy_Glen_-_geograph.org.uk_-_6651817.jpg",
+      "title": "The Markie Burn in the lower part of Fairy Glen by Julian Paren, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Markie Burn in the lower part of Fairy Glen"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fairy_Glen_Rosemarkie_03.png",
+      "title": "Pampuco, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Fairy Glen Rosemarkie 03"
+    }
+  ],
+  "distance_km": 2.6,
+  "description": "The Fairy Glen Falls Walk is located near Rosemarkie on the Black Isle in the Scottish Highlands. It's a charming out-and-back trail that spans approximately 1.6 miles (2.6 kilometers). The path meanders alongside the Markie Burn, leading to two picturesque waterfalls nestled within a serene woodland setting. The trail is well-maintained and suitable for most fitness levels, making it a popular choice for families and casual walkers. The route begins at a dedicated car park in Rosemarkie and follows a gentle incline through the glen, offering a peaceful retreat into nature. The Fairy Glen is also an RSPB nature reserve, providing a habitat for various bird species, including dippers, which can often be seen foraging in the burn. The surrounding woodlands are home to a diverse range of flora, such as ferns, mosses, and wildflowers, contributing to the area's enchanting atmosphere. This walk not only offers scenic beauty but also a glimpse into the rich biodiversity of the region. You can continue your walking in the area by heading to the nearby Chanonry Point, a well known area for spotting dolphins. To the north there's the Cromarty 100 Steps and Sutors Of Cromarty .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/wBRyOLZ_iHw?si=1YMhH70zrtlH6ixe",
+  "district": "Rosemarkie",
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

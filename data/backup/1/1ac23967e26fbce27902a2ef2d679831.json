@@ -1,50 +1,67 @@
 {
-    "created_at": "2026-10-22T21:46:09.822680+00:00",
-    "objectID": "1ac23967e26fbce27902a2ef2d679831",
-    "ref": "midhurst-river-rother-walk",
-    "title": "Midhurst River Rother Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg/500px-Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg?20241205203418",
-    "nearby": [
-        {
-            "description": "Midhurst Way",
-            "objectID": "845705544ed938877ca9e35d73469ba4",
-            "ref": "midhurst-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ac23967e26fbce27902a2ef2d679831.gpx",
-    "_geoloc": {
-        "lat": 50.99074,
-        "lng": -0.7356
+  "created_at": "2026-10-22T21:46:09.822680+00:00",
+  "objectID": "1ac23967e26fbce27902a2ef2d679831",
+  "ref": "midhurst-river-rother-walk",
+  "title": "Midhurst River Rother Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg/500px-Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg?20241205203418",
+  "nearby": [
+    {
+      "description": "Midhurst Way",
+      "objectID": "845705544ed938877ca9e35d73469ba4",
+      "ref": "midhurst-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ac23967e26fbce27902a2ef2d679831.gpx",
+  "_geoloc": {
+    "lat": 50.99074,
+    "lng": -0.7356
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg",
+      "title": "User:Hassocks5489, CC0, via Wikimedia Commons",
+      "caption": "Weir on River Rother at North Street, Midhurst"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Weir_on_River_Rother_at_North_Street%2C_Midhurst_%28May_2012%29.jpg",
-            "title": "User:Hassocks5489, CC0, via Wikimedia Commons",
-            "caption": "Weir on River Rother at North Street, Midhurst"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Woolbeding_Bridge_Scheduled_Monument.jpg",
-            "title": "Margaret Anne Clarke, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Woolbeding Bridge Scheduled Monument"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_art_work_in_the_garden_of_Woolbeding_House_-_geograph.org.uk_-_4159086.jpg?20221220010828",
-            "title": "New art work in the garden of Woolbeding House by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "New art work in the garden of Woolbeding House"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Glebe_House%2C_Woolbeding_05.jpg",
-            "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Glebe House, Woolbeding 05"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This riverside walk takes you from the Sussex town of Midhurst to the neighbouring village of Woolbeding where you can explore the National Trust's beautiful Woolbeding Gardens. Starting from Midhurst you will follow public footpaths west along the River Rother with fine views of the surrounding countryside of the Rother Valley. You then arrive at Woolbeding, a distinguished horticultural site offering a captivating blend of formal garden rooms and imaginative features. It showcases a diverse range of planting, from Mediterranean-inspired dry gardens to vibrant borders, alongside architectural follies like a \"ruined\" abbey and the striking, kinetic Woolbeding Glasshouse which houses a unique collection of plants tracing the Silk Route. This thoughtfully designed landscape provides a rich and varied experience for garden enthusiasts, set against the scenic backdrop of the River Rother valley.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/3rzmr3e72Wo?si=RsA3RuL03Y0AwHKD",
-    "district": "Easebourne",
-    "county": "West Sussex",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Woolbeding_Bridge_Scheduled_Monument.jpg",
+      "title": "Margaret Anne Clarke, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Woolbeding Bridge Scheduled Monument"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_art_work_in_the_garden_of_Woolbeding_House_-_geograph.org.uk_-_4159086.jpg?20221220010828",
+      "title": "New art work in the garden of Woolbeding House by Basher Eyre, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "New art work in the garden of Woolbeding House"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Glebe_House%2C_Woolbeding_05.jpg",
+      "title": "Simon Burchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Glebe House, Woolbeding 05"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This riverside walk takes you from the Sussex town of Midhurst to the neighbouring village of Woolbeding where you can explore the National Trust's beautiful Woolbeding Gardens. Starting from Midhurst you will follow public footpaths west along the River Rother with fine views of the surrounding countryside of the Rother Valley. You then arrive at Woolbeding, a distinguished horticultural site offering a captivating blend of formal garden rooms and imaginative features. It showcases a diverse range of planting, from Mediterranean-inspired dry gardens to vibrant borders, alongside architectural follies like a \"ruined\" abbey and the striking, kinetic Woolbeding Glasshouse which houses a unique collection of plants tracing the Silk Route. This thoughtfully designed landscape provides a rich and varied experience for garden enthusiasts, set against the scenic backdrop of the River Rother valley.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/3rzmr3e72Wo?si=RsA3RuL03Y0AwHKD",
+  "district": "Easebourne",
+  "county": "West Sussex",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "riverbank"
+  ],
+  "points_of_interest": [
+    "garden",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

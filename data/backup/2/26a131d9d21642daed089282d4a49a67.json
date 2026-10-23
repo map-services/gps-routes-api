@@ -1,71 +1,87 @@
 {
-    "created_at": "2026-10-22T21:59:11.512984+00:00",
-    "objectID": "26a131d9d21642daed089282d4a49a67",
-    "ref": "tory-hill-loop-walk-walking-route",
-    "title": "Tory Hill Loop Walk Trailhead Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg/500px-The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg?20221224062511",
-    "nearby": [
-        {
-            "description": "Waterford Greenway",
-            "objectID": "934f63e45178e3be7213c3c0810e87d8",
-            "ref": "waterford-greenway-walking-route"
-        },
-        {
-            "description": "May Park Trail Waterford River Walk",
-            "objectID": "79688c563c41df36ead5c9226edf9f93",
-            "ref": "waterford-river-walk-walking-route"
-        },
-        {
-            "description": "John's Hill Loop",
-            "objectID": "ee7dadab09bf8e0ead3ccab58e4988ec",
-            "ref": "johns-hill-loop-walking-route"
-        },
-        {
-            "description": "Carlow River Barrow Walk",
-            "objectID": "bf7e375d5042b906553402581ce362c3",
-            "ref": "carlow-river-barrow-walk"
-        },
-        {
-            "description": "Knockroe",
-            "objectID": "c1b799be231c31ac6f554ba7a2507956",
-            "ref": "knockroe-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/26a131d9d21642daed089282d4a49a67.gpx",
-    "_geoloc": {
-        "lat": 52.35244,
-        "lng": -7.14133
+  "created_at": "2026-10-22T21:59:11.512984+00:00",
+  "objectID": "26a131d9d21642daed089282d4a49a67",
+  "ref": "tory-hill-loop-walk-walking-route",
+  "title": "Tory Hill Loop Walk Trailhead Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg/500px-The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg?20221224062511",
+  "nearby": [
+    {
+      "description": "Waterford Greenway",
+      "objectID": "934f63e45178e3be7213c3c0810e87d8",
+      "ref": "waterford-greenway-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg",
-            "title": "The Tory Hill trailhead by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Tory Hill trailhead"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_view_north-eastwards_from_the_summit_of_Tory_Hill_-_geograph.org.uk_-_4299285.jpg",
-            "title": "The view north-eastwards from the summit of Tory Hill by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The view north-eastwards from the summit of Tory Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_summit_of_Tory_Hill_-_geograph.org.uk_-_4180031.jpg",
-            "title": "The summit of Tory Hill by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The summit of Tory Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Tory_Hill_Trail_-_geograph.org.uk_-_4299260.jpg",
-            "title": "The Tory Hill Trail by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Tory Hill Trail"
-        }
-    ],
-    "distance_km": 3.9,
-    "description": "This waymarked loop walk climbs to the summit of Tory Hill near Mullinavat in County Kilkenny. You can start the walk from the car park at the Tory Hill Loop Walk Trailhead a few miles south east of the town of Mullinavat. From here you can pick up the well marked path which rises steadily to the 344 metre summit. On the way you can enjoy some excellent views of the surrounding countryside and hills. Features to look out for include the Comeragh Mountains, the Galties, Slievenamon and the Blackstairs Mountains .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head south to Waterford and you can pick up the Waterford Greenway, a cycling and walking trail running along a disused railway line to Dungarvan. There's also the easier May Park Trail Waterford River Walk to try in the city.Head west to Carrick-on-Suir and you could pick up the Suir Blueway. This shared cycling and walking trail runs along the River Suir between Carrick-on-Suir and Clonmel."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/wtSwsBGKzV0?si=ihsyQZDg_ZhYo7hX",
-    "gazetteer_found": false
+    {
+      "description": "May Park Trail Waterford River Walk",
+      "objectID": "79688c563c41df36ead5c9226edf9f93",
+      "ref": "waterford-river-walk-walking-route"
+    },
+    {
+      "description": "John's Hill Loop",
+      "objectID": "ee7dadab09bf8e0ead3ccab58e4988ec",
+      "ref": "johns-hill-loop-walking-route"
+    },
+    {
+      "description": "Carlow River Barrow Walk",
+      "objectID": "bf7e375d5042b906553402581ce362c3",
+      "ref": "carlow-river-barrow-walk"
+    },
+    {
+      "description": "Knockroe",
+      "objectID": "c1b799be231c31ac6f554ba7a2507956",
+      "ref": "knockroe-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/26a131d9d21642daed089282d4a49a67.gpx",
+  "_geoloc": {
+    "lat": 52.35244,
+    "lng": -7.14133
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Tory_Hill_trailhead_-_geograph.org.uk_-_4179736.jpg",
+      "title": "The Tory Hill trailhead by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Tory Hill trailhead"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_view_north-eastwards_from_the_summit_of_Tory_Hill_-_geograph.org.uk_-_4299285.jpg",
+      "title": "The view north-eastwards from the summit of Tory Hill by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The view north-eastwards from the summit of Tory Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_summit_of_Tory_Hill_-_geograph.org.uk_-_4180031.jpg",
+      "title": "The summit of Tory Hill by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The summit of Tory Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Tory_Hill_Trail_-_geograph.org.uk_-_4299260.jpg",
+      "title": "The Tory Hill Trail by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Tory Hill Trail"
+    }
+  ],
+  "distance_km": 3.9,
+  "description": "This waymarked loop walk climbs to the summit of Tory Hill near Mullinavat in County Kilkenny. You can start the walk from the car park at the Tory Hill Loop Walk Trailhead a few miles south east of the town of Mullinavat. From here you can pick up the well marked path which rises steadily to the 344 metre summit. On the way you can enjoy some excellent views of the surrounding countryside and hills. Features to look out for include the Comeragh Mountains, the Galties, Slievenamon and the Blackstairs Mountains .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south to Waterford and you can pick up the Waterford Greenway, a cycling and walking trail running along a disused railway line to Dungarvan. There's also the easier May Park Trail Waterford River Walk to try in the city.Head west to Carrick-on-Suir and you could pick up the Suir Blueway. This shared cycling and walking trail runs along the River Suir between Carrick-on-Suir and Clonmel."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/wtSwsBGKzV0?si=ihsyQZDg_ZhYo7hX",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

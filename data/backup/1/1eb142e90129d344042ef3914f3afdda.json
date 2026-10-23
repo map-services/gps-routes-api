@@ -1,90 +1,105 @@
 {
-    "created_at": "2026-10-22T22:52:39.760749+00:00",
-    "objectID": "1eb142e90129d344042ef3914f3afdda",
-    "ref": "southwark-london-to-canterbury-walk",
-    "title": "Southwark London to Canterbury Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canterbury-cathedral-wyrdlight.jpg/500px-Canterbury-cathedral-wyrdlight.jpg?20160328170647",
-    "nearby": [
-        {
-            "description": "Cray Riverway",
-            "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
-            "ref": "cray-riverway-walking-route"
-        },
-        {
-            "description": "Darent Valley Path",
-            "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
-            "ref": "darent-valley-path-walking-route"
-        },
-        {
-            "description": "Canterbury Rivers and Woods",
-            "objectID": "5b76a5d157bcf8bb9cec505864968997",
-            "ref": "canterbury-rivers-and-woods-walking-route"
-        },
-        {
-            "description": "Rochester",
-            "objectID": "707c8a46d964974a8f122216dcd60869",
-            "ref": "rochester-walking-route"
-        },
-        {
-            "description": "Pilgrims Way",
-            "objectID": "c9060cc7e9b3607fe230e1cdf4b33022",
-            "ref": "pilgrims-way-walking-route"
-        },
-        {
-            "description": "North Downs Way",
-            "objectID": "158891488846dc8d1f43a5eb9e491778",
-            "ref": "north-downs-way-walking-route"
-        },
-        {
-            "description": "Seven Sisters Hike From London",
-            "objectID": "234c0131ce631e00ca0a0481deaa5989",
-            "ref": "seven-sisters-hike-from-london-walking-route"
-        },
-        {
-            "description": "Augustine Camino",
-            "objectID": "019279cceaa444ab2272fcef160c5956",
-            "ref": "augustine-camino-walking-route"
-        },
-        {
-            "description": "Box Hill Hike From London",
-            "objectID": "3367cd5273c48066f66e9f3e179c3c60",
-            "ref": "box-hill-hike-from-london-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1eb142e90129d344042ef3914f3afdda.gpx",
-    "_geoloc": {
-        "lat": 51.5083711519,
-        "lng": -0.0965428919
+  "created_at": "2026-10-22T22:52:39.760749+00:00",
+  "objectID": "1eb142e90129d344042ef3914f3afdda",
+  "ref": "southwark-london-to-canterbury-walk",
+  "title": "Southwark London to Canterbury Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canterbury-cathedral-wyrdlight.jpg/500px-Canterbury-cathedral-wyrdlight.jpg?20160328170647",
+  "nearby": [
+    {
+      "description": "Cray Riverway",
+      "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
+      "ref": "cray-riverway-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
-            "title": "Antony McCallum: Who is the uploader, photographer, full copyright owner and proprietor of WyrdLight.com, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Canterbury Cathedral"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Southwark_Bridge_%C3%A0_Londres.jpg",
-            "title": "Dinkum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Southwark Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rochester%2C_the_castle_and_the_river_-_geograph.org.uk_-_3685870.jpg?20220813123453",
-            "title": "Rochester: the castle and the river by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Rochester: the castle and the river"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/River_Thames_at_Erith_-_geograph.org.uk_-_1205169.jpg?20110226041658",
-            "title": "Simon Mortimer / River Thames at Erith",
-            "caption": "River Thames at Erith"
-        }
-    ],
-    "distance_km": 140.0,
-    "description": "This walk follows a section of the St Bernard's Way from London to Canterbury. The route starts at Southwark Bridge on the Thames in London and then follows the waymarked pilgrimage trail east to Canterbury and the famous cathedral.You will also pass along long sections of thePilgrims Wayand theNorth Downs Way.The route starts in central London at Southwark Bridge and heads east along the River Thames to Erith. Near here you turn south along the River Darent towards Dartford before heading through the North Downs toRochesterand Charing. The route finishes at the historic Cathedral in Canterbury.Along the way there are nice riverside paths, several pretty villages and fine views across the rolling hills of the North Downs.The full route of the St Bernard's Way pilgrimage trail runs from Rievaulx Abbey, North Yorkshire, to Citeaux Abbey, south of Dijon in France.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/8u-dMt3KSGA?si=V3d-K4He6ySRd30I",
-    "district": "Southwark",
-    "county": "Greater London",
-    "region": "London",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Darent Valley Path",
+      "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
+      "ref": "darent-valley-path-walking-route"
+    },
+    {
+      "description": "Canterbury Rivers and Woods",
+      "objectID": "5b76a5d157bcf8bb9cec505864968997",
+      "ref": "canterbury-rivers-and-woods-walking-route"
+    },
+    {
+      "description": "Rochester",
+      "objectID": "707c8a46d964974a8f122216dcd60869",
+      "ref": "rochester-walking-route"
+    },
+    {
+      "description": "Pilgrims Way",
+      "objectID": "c9060cc7e9b3607fe230e1cdf4b33022",
+      "ref": "pilgrims-way-walking-route"
+    },
+    {
+      "description": "North Downs Way",
+      "objectID": "158891488846dc8d1f43a5eb9e491778",
+      "ref": "north-downs-way-walking-route"
+    },
+    {
+      "description": "Seven Sisters Hike From London",
+      "objectID": "234c0131ce631e00ca0a0481deaa5989",
+      "ref": "seven-sisters-hike-from-london-walking-route"
+    },
+    {
+      "description": "Augustine Camino",
+      "objectID": "019279cceaa444ab2272fcef160c5956",
+      "ref": "augustine-camino-walking-route"
+    },
+    {
+      "description": "Box Hill Hike From London",
+      "objectID": "3367cd5273c48066f66e9f3e179c3c60",
+      "ref": "box-hill-hike-from-london-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1eb142e90129d344042ef3914f3afdda.gpx",
+  "_geoloc": {
+    "lat": 51.5083711519,
+    "lng": -0.0965428919
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
+      "title": "Antony McCallum: Who is the uploader, photographer, full copyright owner and proprietor of WyrdLight.com, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Canterbury Cathedral"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Southwark_Bridge_%C3%A0_Londres.jpg",
+      "title": "Dinkum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Southwark Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rochester%2C_the_castle_and_the_river_-_geograph.org.uk_-_3685870.jpg?20220813123453",
+      "title": "Rochester: the castle and the river by Chris Downer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Rochester: the castle and the river"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/River_Thames_at_Erith_-_geograph.org.uk_-_1205169.jpg?20110226041658",
+      "title": "Simon Mortimer / River Thames at Erith",
+      "caption": "River Thames at Erith"
+    }
+  ],
+  "distance_km": 140.0,
+  "description": "This walk follows a section of the St Bernard's Way from London to Canterbury. The route starts at Southwark Bridge on the Thames in London and then follows the waymarked pilgrimage trail east to Canterbury and the famous cathedral.You will also pass along long sections of thePilgrims Wayand theNorth Downs Way.The route starts in central London at Southwark Bridge and heads east along the River Thames to Erith. Near here you turn south along the River Darent towards Dartford before heading through the North Downs toRochesterand Charing. The route finishes at the historic Cathedral in Canterbury.Along the way there are nice riverside paths, several pretty villages and fine views across the rolling hills of the North Downs.The full route of the St Bernard's Way pilgrimage trail runs from Rievaulx Abbey, North Yorkshire, to Citeaux Abbey, south of Dijon in France.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/8u-dMt3KSGA?si=V3d-K4He6ySRd30I",
+  "district": "Southwark",
+  "county": "Greater London",
+  "region": "London",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "riverside",
+    "rolling hill"
+  ],
+  "points_of_interest": [
+    "cathedral"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

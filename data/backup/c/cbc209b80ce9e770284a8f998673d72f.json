@@ -49,7 +49,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Braunton_%28Devon%2C_UK%29%2C_Braunton_Burrows_--_2013_--_1837.jpg/960px-Braunton_%28Devon%2C_UK%29%2C_Braunton_Burrows_--_2013_--_1837.jpg",
-      "title": "Dietmar Rabich / Wikimedia Commons / “Braunton (Devon, UK), Braunton Burrows -- 2013 -- 1837” / CC BY-SA 4.0For print products: Dietmar Rabich / https://commons.wikimedia.org/wiki/File:Braunton_(Devon,_UK),_Braunton_Burrows_--_2013_--_1837.jpg / https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Dietmar Rabich / Wikimedia Commons / \u201cBraunton (Devon, UK), Braunton Burrows -- 2013 -- 1837\u201d / CC BY-SA 4.0For print products: Dietmar Rabich / https://commons.wikimedia.org/wiki/File:Braunton_(Devon,_UK),_Braunton_Burrows_--_2013_--_1837.jpg / https://creativecommons.org/licenses/by-sa/4.0/",
       "caption": "Braunton Burrows"
     },
     {
@@ -71,5 +71,25 @@
   "county": "Devon",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5 hours 20 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "dune",
+    "estuary"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "nature reserve",
+    "national landscape"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,95 +1,114 @@
 {
-    "created_at": "2026-10-22T22:43:09.608927+00:00",
-    "objectID": "fc831514846c3e3298a413bcf9dc4623",
-    "ref": "leeds-to-skipton-canal-walk",
-    "title": "Leeds to Skipton Canal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg/960px-Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg",
-    "nearby": [
-        {
-            "description": "Bingley 5 Rise Locks to Saltaire Canal Walk",
-            "objectID": "2eb0c42c3441cfc5b95dbd566ceb8d87",
-            "ref": "bingley-5-rise-locks-to-saltaire-canal-walk-walking-route"
-        },
-        {
-            "description": "Saltaire",
-            "objectID": "8bf4e7a98d229c95d272714d9ad8eeeb",
-            "ref": "saltaire-walking-route"
-        },
-        {
-            "description": "Kirkstall Abbey",
-            "objectID": "d64a22f345b4eec18f806ccd466f1618",
-            "ref": "kirkstall-abbey-walking-route"
-        },
-        {
-            "description": "Gargrave",
-            "objectID": "cd9c5f6834f5f9d151843fbe0dfb5df2",
-            "ref": "gargrave-walking-route"
-        },
-        {
-            "description": "Skipton Canal",
-            "objectID": "df8f6462bb9007ff9a59befc5fa4f06b",
-            "ref": "skipton-canal-walking-route"
-        },
-        {
-            "description": "Skipton Castle",
-            "objectID": "6284f1065f56634c402dcac5930eba55",
-            "ref": "skipton-castle-walking-route"
-        },
-        {
-            "description": "Skipton Circular Walk",
-            "objectID": "65cf73eba8d736c43551bad12a5c249d",
-            "ref": "skipton-circular-walk-walking-route"
-        },
-        {
-            "description": "Aire Valley Towpath",
-            "objectID": "0ad5eba480cfa21abd6d9c6f5cf89ffc",
-            "ref": "aire-valley-towpath-walking-and-cycle-route"
-        },
-        {
-            "description": "Leeds and Liverpool Canal",
-            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Leeds to Saltaire Canal Walk",
-            "objectID": "e4872c68e680590966212f20717acfbc",
-            "ref": "leeds-to-saltaire-canal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fc831514846c3e3298a413bcf9dc4623.gpx",
-    "_geoloc": {
-        "lat": 53.793377203,
-        "lng": -1.5516585337
+  "created_at": "2026-10-22T22:43:09.608927+00:00",
+  "objectID": "fc831514846c3e3298a413bcf9dc4623",
+  "ref": "leeds-to-skipton-canal-walk",
+  "title": "Leeds to Skipton Canal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg/960px-Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg",
+  "nearby": [
+    {
+      "description": "Bingley 5 Rise Locks to Saltaire Canal Walk",
+      "objectID": "2eb0c42c3441cfc5b95dbd566ceb8d87",
+      "ref": "bingley-5-rise-locks-to-saltaire-canal-walk-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg/960px-Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg",
-            "title": "Leeds Basin on the Leeds and Liverpool Canal by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Leeds Basin on the Leeds and Liverpool Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saltaire_Flickr_21_August_2022.jpg/500px-Saltaire_Flickr_21_August_2022.jpg",
-            "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Saltaire"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bingley_-_Five-Rise_Locks.jpg/960px-Bingley_-_Five-Rise_Locks.jpg",
-            "title": "Martin Clark / Bingley Five-Rise Locks",
-            "caption": "Bingley Five-Rise Locks"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Basin%2C_Skipton_-_geograph.org.uk_-_517923.jpg/960px-Canal_Basin%2C_Skipton_-_geograph.org.uk_-_517923.jpg",
-            "title": "Paul Anderson / Canal Basin, Skipton",
-            "caption": "Canal Basin, Skipton"
-        }
-    ],
-    "distance_km": 48.0,
-    "description": "This walk follows the Leeds and Liverpool Canal from Leeds to Skipton. The route runs for about 30 miles, following the towpath north west to Shipley and Bingley before finishing in Skipton. This is one of the finest long-distance canal walks in northern England, following Britain's longest canal through the heart of West Yorkshire towards the Yorkshire Dales. Opened in stages between 1770 and 1816, the canal played a vital role in the Industrial Revolution, carrying coal, textiles, stone and limestone between the manufacturing towns of Yorkshire and Lancashire. Today the continuous towpath provides an excellent route for walkers, combining industrial heritage with peaceful waterside scenery and attractive countryside.Leaving Leeds, the route passesKirkstall Abbeybefore continuing through the Aire Valley. Around Shipley and Bingley the canal shares the corridor with theAire Valley Towpath, passing the UNESCO World Heritage village ofSaltaireand the famousBingley 5 Rise Locks, one of the greatest feats of canal engineering in Britain.Beyond Bingley the landscape becomes increasingly rural as the canal passes through the Aire Valley to Kildwick andGargrave. This peaceful section is noted for its open views, traditional stone bridges, colourful narrowboats and abundant wildlife, with kingfishers, herons, swans and dragonflies frequently seen along the waterway.The walk finishes in the historic market town ofSkipton, where visitors can explore the attractive canal basin, the well-preserved medieval castle, the bustling High Street and the town's many independent shops, cafés and traditional pubs.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/urRbbTxOCJI?si=HaLasIoAwLVHxOCr",
-    "postcode": "LS1 4EY",
-    "district": "Leeds",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Saltaire",
+      "objectID": "8bf4e7a98d229c95d272714d9ad8eeeb",
+      "ref": "saltaire-walking-route"
+    },
+    {
+      "description": "Kirkstall Abbey",
+      "objectID": "d64a22f345b4eec18f806ccd466f1618",
+      "ref": "kirkstall-abbey-walking-route"
+    },
+    {
+      "description": "Gargrave",
+      "objectID": "cd9c5f6834f5f9d151843fbe0dfb5df2",
+      "ref": "gargrave-walking-route"
+    },
+    {
+      "description": "Skipton Canal",
+      "objectID": "df8f6462bb9007ff9a59befc5fa4f06b",
+      "ref": "skipton-canal-walking-route"
+    },
+    {
+      "description": "Skipton Castle",
+      "objectID": "6284f1065f56634c402dcac5930eba55",
+      "ref": "skipton-castle-walking-route"
+    },
+    {
+      "description": "Skipton Circular Walk",
+      "objectID": "65cf73eba8d736c43551bad12a5c249d",
+      "ref": "skipton-circular-walk-walking-route"
+    },
+    {
+      "description": "Aire Valley Towpath",
+      "objectID": "0ad5eba480cfa21abd6d9c6f5cf89ffc",
+      "ref": "aire-valley-towpath-walking-and-cycle-route"
+    },
+    {
+      "description": "Leeds and Liverpool Canal",
+      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Leeds to Saltaire Canal Walk",
+      "objectID": "e4872c68e680590966212f20717acfbc",
+      "ref": "leeds-to-saltaire-canal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fc831514846c3e3298a413bcf9dc4623.gpx",
+  "_geoloc": {
+    "lat": 53.793377203,
+    "lng": -1.5516585337
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg/960px-Leeds_Basin_on_the_Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_5977965.jpg",
+      "title": "Leeds Basin on the Leeds and Liverpool Canal by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Leeds Basin on the Leeds and Liverpool Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saltaire_Flickr_21_August_2022.jpg/500px-Saltaire_Flickr_21_August_2022.jpg",
+      "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Saltaire"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bingley_-_Five-Rise_Locks.jpg/960px-Bingley_-_Five-Rise_Locks.jpg",
+      "title": "Martin Clark / Bingley Five-Rise Locks",
+      "caption": "Bingley Five-Rise Locks"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Basin%2C_Skipton_-_geograph.org.uk_-_517923.jpg/960px-Canal_Basin%2C_Skipton_-_geograph.org.uk_-_517923.jpg",
+      "title": "Paul Anderson / Canal Basin, Skipton",
+      "caption": "Canal Basin, Skipton"
+    }
+  ],
+  "distance_km": 48.0,
+  "description": "This walk follows the Leeds and Liverpool Canal from Leeds to Skipton. The route runs for about 30 miles, following the towpath north west to Shipley and Bingley before finishing in Skipton. This is one of the finest long-distance canal walks in northern England, following Britain's longest canal through the heart of West Yorkshire towards the Yorkshire Dales. Opened in stages between 1770 and 1816, the canal played a vital role in the Industrial Revolution, carrying coal, textiles, stone and limestone between the manufacturing towns of Yorkshire and Lancashire. Today the continuous towpath provides an excellent route for walkers, combining industrial heritage with peaceful waterside scenery and attractive countryside.Leaving Leeds, the route passesKirkstall Abbeybefore continuing through the Aire Valley. Around Shipley and Bingley the canal shares the corridor with theAire Valley Towpath, passing the UNESCO World Heritage village ofSaltaireand the famousBingley 5 Rise Locks, one of the greatest feats of canal engineering in Britain.Beyond Bingley the landscape becomes increasingly rural as the canal passes through the Aire Valley to Kildwick andGargrave. This peaceful section is noted for its open views, traditional stone bridges, colourful narrowboats and abundant wildlife, with kingfishers, herons, swans and dragonflies frequently seen along the waterway.The walk finishes in the historic market town ofSkipton, where visitors can explore the attractive canal basin, the well-preserved medieval castle, the bustling High Street and the town's many independent shops, caf\u00e9s and traditional pubs.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/urRbbTxOCJI?si=HaLasIoAwLVHxOCr",
+  "postcode": "LS1 4EY",
+  "district": "Leeds",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "UNESCO World Heritage village",
+    "canal basin",
+    "castle"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

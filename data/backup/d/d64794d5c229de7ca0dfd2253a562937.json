@@ -29,7 +29,7 @@
     }
   ],
   "distance_km": 3.9,
-  "description": "This gentle 2km circular walk takes you through Backmuir Wood near Muirhead, just north-west of Dundee. The route follows a firm, wide gravel path through a varied mix of ancient broadleaved woodland, conifers and open glades, with one moderately steep section. The woodland is rich in wildlife, with red squirrels, roe deer and a variety of woodland birds to look out for. A highlight of the walk is the impressive ‘big beech tree’, which is over 150 years old and makes a good spot for a picnic. There are also views across the surrounding countryside and a stone feature marking Millennium Corner. Most of the route is on a surfaced gravel path, although other trails through the wood can be rough and muddy.You can continue your walking inCamperdown Parkwhich lies just to the east.",
+  "description": "This gentle 2km circular walk takes you through Backmuir Wood near Muirhead, just north-west of Dundee. The route follows a firm, wide gravel path through a varied mix of ancient broadleaved woodland, conifers and open glades, with one moderately steep section. The woodland is rich in wildlife, with red squirrels, roe deer and a variety of woodland birds to look out for. A highlight of the walk is the impressive \u2018big beech tree\u2019, which is over 150 years old and makes a good spot for a picnic. There are also views across the surrounding countryside and a stone feature marking Millennium Corner. Most of the route is on a surfaced gravel path, although other trails through the wood can be rough and muddy.You can continue your walking inCamperdown Parkwhich lies just to the east.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/KBJpS60w_1E?si=TtDf_V02YJgG40-_",
   "postcode": "DD2 5LS",
@@ -37,5 +37,24 @@
   "county": "Angus",
   "region": "Scotland",
   "country": "Scotland",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "glade"
+  ],
+  "points_of_interest": [
+    "big tree",
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

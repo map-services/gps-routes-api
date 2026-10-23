@@ -1,65 +1,81 @@
 {
-    "created_at": "2026-10-22T21:52:34.509942+00:00",
-    "objectID": "c6166e15d3a0c12d44192688498513ba",
-    "ref": "ramsgate-to-sandwich-walk",
-    "title": "Ramsgate to Sandwich and Deal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg/500px-Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg?20250126001815",
-    "nearby": [
-        {
-            "description": "Pegwell Bay Country Park",
-            "objectID": "9b50fb9e8449be230e5aaec205ae7b1f",
-            "ref": "pegwell-bay-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Thanet Coastal Path",
-            "objectID": "0da5a31094f0dd4d6d730751191ae865",
-            "ref": "thanet-coastal-path-walking-route"
-        },
-        {
-            "description": "White Cliffs Country Trails",
-            "objectID": "4f7edc6243fdb2339d614977a84224ec",
-            "ref": "white-cliffs-country-trails-walking-route"
-        },
-        {
-            "description": "Ramsgate to Dover Coastal Walk",
-            "objectID": "ef07e0c9def6a5c9cb21ddc38af22875",
-            "ref": "ramsgate-to-dover-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c6166e15d3a0c12d44192688498513ba.gpx",
-    "_geoloc": {
-        "lat": 51.3322689819,
-        "lng": 1.4204756719
+  "created_at": "2026-10-22T21:52:34.509942+00:00",
+  "objectID": "c6166e15d3a0c12d44192688498513ba",
+  "ref": "ramsgate-to-sandwich-walk",
+  "title": "Ramsgate to Sandwich and Deal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg/500px-Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg?20250126001815",
+  "nearby": [
+    {
+      "description": "Pegwell Bay Country Park",
+      "objectID": "9b50fb9e8449be230e5aaec205ae7b1f",
+      "ref": "pegwell-bay-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg",
-            "title": "Ramsgate Harbour by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ramsgate Harbour"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_River_Stour%2C_Sandwich%2C_Kent_-_geograph.org.uk_-_2461014.jpg?20210809043301",
-            "title": "The River Stour, Sandwich, Kent by Cameraman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The River Stour, Sandwich, Kent"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Deal_Castle_from_the_south.jpg",
-            "title": "DeFacto, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Deal Castle from the south"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_front_at_Deal%2C_Kent_-_geograph.org.uk_-_6079484.jpg",
-            "title": "The front at Deal, Kent by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The front at Deal, Kent"
-        }
-    ],
-    "distance_km": 20.3,
-    "description": "This walk takes you from Ramsgate to Sandwich and Deal on the Kent coast. The route runs for a distance of about 12.6 miles following the England Coast Path and the Thanet Coastal Path to the lovely Pegwell Bay Country Park. The next section follows roads south to the historic town of Sandwich. You then head east to the coast where you can pick up the coast path to take you into Deal where you can explore the historic castle. Along the way you can enjoy some fine coastal and countryside views.",
-    "details": [],
-    "postcode": "CT11 8LJ",
-    "district": "Ramsgate",
-    "county": "Kent",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Thanet Coastal Path",
+      "objectID": "0da5a31094f0dd4d6d730751191ae865",
+      "ref": "thanet-coastal-path-walking-route"
+    },
+    {
+      "description": "White Cliffs Country Trails",
+      "objectID": "4f7edc6243fdb2339d614977a84224ec",
+      "ref": "white-cliffs-country-trails-walking-route"
+    },
+    {
+      "description": "Ramsgate to Dover Coastal Walk",
+      "objectID": "ef07e0c9def6a5c9cb21ddc38af22875",
+      "ref": "ramsgate-to-dover-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c6166e15d3a0c12d44192688498513ba.gpx",
+  "_geoloc": {
+    "lat": 51.3322689819,
+    "lng": 1.4204756719
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsgate_Harbour_-_geograph.org.uk_-_7280383.jpg",
+      "title": "Ramsgate Harbour by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ramsgate Harbour"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_River_Stour%2C_Sandwich%2C_Kent_-_geograph.org.uk_-_2461014.jpg?20210809043301",
+      "title": "The River Stour, Sandwich, Kent by Cameraman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The River Stour, Sandwich, Kent"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Deal_Castle_from_the_south.jpg",
+      "title": "DeFacto, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Deal Castle from the south"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_front_at_Deal%2C_Kent_-_geograph.org.uk_-_6079484.jpg",
+      "title": "The front at Deal, Kent by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The front at Deal, Kent"
+    }
+  ],
+  "distance_km": 20.3,
+  "description": "This walk takes you from Ramsgate to Sandwich and Deal on the Kent coast. The route runs for a distance of about 12.6 miles following the England Coast Path and the Thanet Coastal Path to the lovely Pegwell Bay Country Park. The next section follows roads south to the historic town of Sandwich. You then head east to the coast where you can pick up the coast path to take you into Deal where you can explore the historic castle. Along the way you can enjoy some fine coastal and countryside views.",
+  "details": [],
+  "postcode": "CT11 8LJ",
+  "district": "Ramsgate",
+  "county": "Kent",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

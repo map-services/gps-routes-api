@@ -1,66 +1,83 @@
 {
-    "created_at": "2026-10-22T22:37:34.254479+00:00",
-    "objectID": "b6c649d03401ba77ddb8745245e61aaa",
-    "ref": "feshiebridge-inshriach-forest-walk",
-    "title": "Feshiebridge River Feshie and Inshriach Forest Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg/500px-At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg?20250407235226",
-    "nearby": [
-        {
-            "description": "Loch an Eilein",
-            "objectID": "54f84ca76c7ab54ce6f00872ba1693ad",
-            "ref": "loch-an-eilein-walking-route"
-        },
-        {
-            "description": "Glen Feshie Waterfall",
-            "objectID": "028eee8a0020cc7e0e18f442d2b60905",
-            "ref": "glen-feshie-waterfall-walking-route"
-        },
-        {
-            "description": "Loch Insh",
-            "objectID": "eec8b46cc96d121799f880e06844d3e5",
-            "ref": "loch-insh-walking-route"
-        },
-        {
-            "description": "Glen Tromie",
-            "objectID": "5164c20745221717f8857c76913420b9",
-            "ref": "glen-tromie-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b6c649d03401ba77ddb8745245e61aaa.gpx",
-    "_geoloc": {
-        "lat": 57.1185350374,
-        "lng": -3.9019518644
+  "created_at": "2026-10-22T22:37:34.254479+00:00",
+  "objectID": "b6c649d03401ba77ddb8745245e61aaa",
+  "ref": "feshiebridge-inshriach-forest-walk",
+  "title": "Feshiebridge River Feshie and Inshriach Forest Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg/500px-At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg?20250407235226",
+  "nearby": [
+    {
+      "description": "Loch an Eilein",
+      "objectID": "54f84ca76c7ab54ce6f00872ba1693ad",
+      "ref": "loch-an-eilein-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg",
-            "title": "At Feshiebridge by David Bremner, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "At Feshiebridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Frank_Bruce_Sculpture_Trail%2C_Feshiebridge_-_geograph.org.uk_-_6062901.jpg",
-            "title": "Frank Bruce Sculpture Trail, Feshiebridge by Graham Robson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Frank Bruce Sculpture Trail, Feshiebridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Frank_Bruce_Sculpture_1._-_geograph.org.uk_-_662247.jpg?20110207183311",
-            "title": "Colin Kinnear / Frank Bruce Sculpture 1.",
-            "caption": "Frank Bruce Sculpture 1."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_bridge_at_Feshiebridge%2C_near_Aviemore_-_geograph.org.uk_-_37418.jpg?20100130180441",
-            "title": "Gordon McKinlay / The bridge at Feshiebridge, near Aviemore",
-            "caption": "The bridge at Feshiebridge, near Aviemore"
-        }
-    ],
-    "distance_km": 4.6,
-    "description": "This circular walk explores the area around Feshiebridge in the Cairngorms National Park. On the way you will enjoy some fine views of the River Feshie and visit the Frank Bruce Sculpture Trail. The route passes through attractive sections of Caledonian pine forest with views towards the surrounding Cairngorm mountains. The sculptures are set within the woodland and were created by the local artist Frank Bruce, reflecting themes of Scottish identity and humanity. As you continue through the forest you may spot wildlife such as red squirrels and various woodland birds. The walk also includes open stretches with glimpses of the Spey Valley and the distant peaks of the Monadhliath Mountains before looping back to the car park near the bridge over the River Feshie.You can continue your walking in the area on theGlen Feshie Waterfall Walkor by visitingLoch Insh.Postcode:PH21 1NG",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/i3dPBoCzKl4?si=_ROJ1ZokYh581RhY",
-    "postcode": "PH21 1NG",
-    "district": "Feshiebridge",
-    "county": "Highland",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Glen Feshie Waterfall",
+      "objectID": "028eee8a0020cc7e0e18f442d2b60905",
+      "ref": "glen-feshie-waterfall-walking-route"
+    },
+    {
+      "description": "Loch Insh",
+      "objectID": "eec8b46cc96d121799f880e06844d3e5",
+      "ref": "loch-insh-walking-route"
+    },
+    {
+      "description": "Glen Tromie",
+      "objectID": "5164c20745221717f8857c76913420b9",
+      "ref": "glen-tromie-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b6c649d03401ba77ddb8745245e61aaa.gpx",
+  "_geoloc": {
+    "lat": 57.1185350374,
+    "lng": -3.9019518644
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/At_Feshiebridge_-_geograph.org.uk_-_7519420.jpg",
+      "title": "At Feshiebridge by David Bremner, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "At Feshiebridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Frank_Bruce_Sculpture_Trail%2C_Feshiebridge_-_geograph.org.uk_-_6062901.jpg",
+      "title": "Frank Bruce Sculpture Trail, Feshiebridge by Graham Robson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Frank Bruce Sculpture Trail, Feshiebridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Frank_Bruce_Sculpture_1._-_geograph.org.uk_-_662247.jpg?20110207183311",
+      "title": "Colin Kinnear / Frank Bruce Sculpture 1.",
+      "caption": "Frank Bruce Sculpture 1."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_bridge_at_Feshiebridge%2C_near_Aviemore_-_geograph.org.uk_-_37418.jpg?20100130180441",
+      "title": "Gordon McKinlay / The bridge at Feshiebridge, near Aviemore",
+      "caption": "The bridge at Feshiebridge, near Aviemore"
+    }
+  ],
+  "distance_km": 4.6,
+  "description": "This circular walk explores the area around Feshiebridge in the Cairngorms National Park. On the way you will enjoy some fine views of the River Feshie and visit the Frank Bruce Sculpture Trail. The route passes through attractive sections of Caledonian pine forest with views towards the surrounding Cairngorm mountains. The sculptures are set within the woodland and were created by the local artist Frank Bruce, reflecting themes of Scottish identity and humanity. As you continue through the forest you may spot wildlife such as red squirrels and various woodland birds. The walk also includes open stretches with glimpses of the Spey Valley and the distant peaks of the Monadhliath Mountains before looping back to the car park near the bridge over the River Feshie.You can continue your walking in the area on theGlen Feshie Waterfall Walkor by visitingLoch Insh.Postcode:PH21 1NG",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/i3dPBoCzKl4?si=_ROJ1ZokYh581RhY",
+  "postcode": "PH21 1NG",
+  "district": "Feshiebridge",
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

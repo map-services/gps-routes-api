@@ -1,50 +1,64 @@
 {
-    "created_at": "2026-10-22T21:49:34.967916+00:00",
-    "objectID": "b059e0e69d66dbc0a296e1f23bc48b27",
-    "ref": "newquay-to-watergate-bay-walk",
-    "title": "Newquay to Watergate Bay Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Newquay%2C_Cornwall.jpg/500px-Newquay%2C_Cornwall.jpg?20230908083458",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Perranporth to Portreath Coastal Walk",
-            "objectID": "952524f22cdb0e1c1d7bea829adc9407",
-            "ref": "perranporth-to-portreath-coastal-walk"
-        },
-        {
-            "description": "Perranporth to St Ives Coastal Walk",
-            "objectID": "9b59528fbab7bd9245cf5eb9b37da760",
-            "ref": "perranporth-to-st-ives-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b059e0e69d66dbc0a296e1f23bc48b27.gpx",
-    "_geoloc": {
-        "lat": 50.4154891513,
-        "lng": -5.0765970151
+  "created_at": "2026-10-22T21:49:34.967916+00:00",
+  "objectID": "b059e0e69d66dbc0a296e1f23bc48b27",
+  "ref": "newquay-to-watergate-bay-walk",
+  "title": "Newquay to Watergate Bay Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Newquay%2C_Cornwall.jpg/500px-Newquay%2C_Cornwall.jpg?20230908083458",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Newquay%2C_Cornwall.jpg",
-            "title": "BORNTHISWAYMEDIA, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Newquay, Cornwall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Watergate_Bay%2C_Watergate%2C_Cornwall_-_geograph.org.uk_-_4426842.jpg",
-            "title": "Watergate Bay, Watergate, Cornwall by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Watergate Bay, Watergate, Cornwall"
-        }
-    ],
-    "distance_km": 5.4,
-    "description": "This walk takes you from Newquay to the lovely beaches at Watergate Bay. The route runs for a distance of 3.4 miles, running along the South West Coast Path. There's great views over the bay where you can look out for the many surfers. The two-mile stretch of sandy beach is a popular spot. It's known for its beautiful scenery, vast expanse of sand, and excellent conditions for surfing and other water sports. The beach is flanked by cliffs and offers stunning views of the Atlantic Ocean. You can reach the beach easily from Newquay by following the waymarked path north east for just over 3 miles. It should take around an hour or so to get there on foot.",
-    "details": [],
-    "postcode": "TR7 2NE",
-    "district": "Newquay",
-    "county": "Cornwall",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Perranporth to Portreath Coastal Walk",
+      "objectID": "952524f22cdb0e1c1d7bea829adc9407",
+      "ref": "perranporth-to-portreath-coastal-walk"
+    },
+    {
+      "description": "Perranporth to St Ives Coastal Walk",
+      "objectID": "9b59528fbab7bd9245cf5eb9b37da760",
+      "ref": "perranporth-to-st-ives-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b059e0e69d66dbc0a296e1f23bc48b27.gpx",
+  "_geoloc": {
+    "lat": 50.4154891513,
+    "lng": -5.0765970151
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Newquay%2C_Cornwall.jpg",
+      "title": "BORNTHISWAYMEDIA, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Newquay, Cornwall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Watergate_Bay%2C_Watergate%2C_Cornwall_-_geograph.org.uk_-_4426842.jpg",
+      "title": "Watergate Bay, Watergate, Cornwall by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Watergate Bay, Watergate, Cornwall"
+    }
+  ],
+  "distance_km": 5.4,
+  "description": "This walk takes you from Newquay to the lovely beaches at Watergate Bay. The route runs for a distance of 3.4 miles, running along the South West Coast Path. There's great views over the bay where you can look out for the many surfers. The two-mile stretch of sandy beach is a popular spot. It's known for its beautiful scenery, vast expanse of sand, and excellent conditions for surfing and other water sports. The beach is flanked by cliffs and offers stunning views of the Atlantic Ocean. You can reach the beach easily from Newquay by following the waymarked path north east for just over 3 miles. It should take around an hour or so to get there on foot.",
+  "details": [],
+  "postcode": "TR7 2NE",
+  "district": "Newquay",
+  "county": "Cornwall",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

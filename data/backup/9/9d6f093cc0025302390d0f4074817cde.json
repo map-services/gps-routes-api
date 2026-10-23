@@ -1,40 +1,57 @@
 {
-    "created_at": "2026-10-22T21:14:35.018402+00:00",
-    "objectID": "9d6f093cc0025302390d0f4074817cde",
-    "ref": "blaxhall-common-walking-route",
-    "title": "Blaxhall Common Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg/500px-On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg?20231204061217",
-    "nearby": [
-        {
-            "description": "Aldeburgh to Snape Maltings",
-            "objectID": "02a3677262ee39b680e0a6b98b23dfe2",
-            "ref": "aldeburgh-to-snape-maltings-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9d6f093cc0025302390d0f4074817cde.gpx",
-    "_geoloc": {
-        "lat": 52.154815889,
-        "lng": 1.4827143979
+  "created_at": "2026-10-22T21:14:35.018402+00:00",
+  "objectID": "9d6f093cc0025302390d0f4074817cde",
+  "ref": "blaxhall-common-walking-route",
+  "title": "Blaxhall Common Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg/500px-On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg?20231204061217",
+  "nearby": [
+    {
+      "description": "Aldeburgh to Snape Maltings",
+      "objectID": "02a3677262ee39b680e0a6b98b23dfe2",
+      "ref": "aldeburgh-to-snape-maltings-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9d6f093cc0025302390d0f4074817cde.gpx",
+  "_geoloc": {
+    "lat": 52.154815889,
+    "lng": 1.4827143979
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg",
+      "title": "On Blaxhall Heath by Dave Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The flora at Blaxhall Common reflects its heathland environment, with plants such as heather and gorse dominating the landscape. Heather blooms in late summer, transforming the area into a vibrant sea of purple. Other characteristic plants include bracken, grasses, and patches of mosses and lichens that thrive in the acidic soil. In wetter areas, sedges and rushes can be found, adding to the diversity of plant life."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/On_Blaxhall_Heath_-_geograph.org.uk_-_5863402.jpg",
-            "title": "On Blaxhall Heath by Dave Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The flora at Blaxhall Common reflects its heathland environment, with plants such as heather and gorse dominating the landscape. Heather blooms in late summer, transforming the area into a vibrant sea of purple. Other characteristic plants include bracken, grasses, and patches of mosses and lichens that thrive in the acidic soil. In wetter areas, sedges and rushes can be found, adding to the diversity of plant life."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Heather_and_emerging_woodland_at_Blaxhall_Common_Nature_Reserve_-_geograph.org.uk_-_6949007.jpg",
-            "title": "Heather and emerging woodland at Blaxhall Common Nature Reserve by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Heather and emerging woodland at Blaxhall Common Nature Reserve. The fauna of Blaxhall Common includes a variety of insects, birds, and mammals. Butterflies such as the silver-studded blue can be spotted in the heathland during the warmer months, while dragonflies are often seen around the wetter areas. The common is a haven for birdlife, with species such as woodlarks, nightjars, and yellowhammers frequently heard or seen. Mammals like rabbits and hares are common, and there is also the chance of spotting deer in quieter parts of the common. Reptiles such as adders and slow worms thrive in the sunny, open heathland areas, where they bask on warm days."
-        }
-    ],
-    "distance_km": 3.2,
-    "description": "Blaxhall Common, located in Suffolk, is a Site of Special Scientific Interest and an important example of lowland heathland, a rare and threatened habitat in the UK. It covers a mix of heath, grassland, and scattered woodland, creating a patchwork of diverse habitats that support a wide range of wildlife. The common is particularly valued for its unspoiled character and its role in conserving traditional heathland species. The common is an excellent destination for those seeking to explore and appreciate one of Suffolk's remaining heathland landscapes. Its peaceful atmosphere and ecological richness make it a rewarding spot for nature enthusiasts, walkers, and birdwatchers. The common also holds cultural significance, as it lies within an area known for its links to traditional rural life, including the famous Suffolk Punch horse and local folk music traditions. You can continue your walking on the Aldeburgh to Snape Maltings Walk .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/xOlczO4ktUc?si=23_blNMQPJjVX3xy",
-    "postcode": "IP12 2EH",
-    "county": "Suffolk",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Heather_and_emerging_woodland_at_Blaxhall_Common_Nature_Reserve_-_geograph.org.uk_-_6949007.jpg",
+      "title": "Heather and emerging woodland at Blaxhall Common Nature Reserve by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Heather and emerging woodland at Blaxhall Common Nature Reserve. The fauna of Blaxhall Common includes a variety of insects, birds, and mammals. Butterflies such as the silver-studded blue can be spotted in the heathland during the warmer months, while dragonflies are often seen around the wetter areas. The common is a haven for birdlife, with species such as woodlarks, nightjars, and yellowhammers frequently heard or seen. Mammals like rabbits and hares are common, and there is also the chance of spotting deer in quieter parts of the common. Reptiles such as adders and slow worms thrive in the sunny, open heathland areas, where they bask on warm days."
+    }
+  ],
+  "distance_km": 3.2,
+  "description": "Blaxhall Common, located in Suffolk, is a Site of Special Scientific Interest and an important example of lowland heathland, a rare and threatened habitat in the UK. It covers a mix of heath, grassland, and scattered woodland, creating a patchwork of diverse habitats that support a wide range of wildlife. The common is particularly valued for its unspoiled character and its role in conserving traditional heathland species. The common is an excellent destination for those seeking to explore and appreciate one of Suffolk's remaining heathland landscapes. Its peaceful atmosphere and ecological richness make it a rewarding spot for nature enthusiasts, walkers, and birdwatchers. The common also holds cultural significance, as it lies within an area known for its links to traditional rural life, including the famous Suffolk Punch horse and local folk music traditions. You can continue your walking on the Aldeburgh to Snape Maltings Walk .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/xOlczO4ktUc?si=23_blNMQPJjVX3xy",
+  "postcode": "IP12 2EH",
+  "county": "Suffolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "site of special scientific interest"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "birdwatching"
+  ]
 }

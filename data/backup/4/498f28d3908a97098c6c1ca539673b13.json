@@ -58,9 +58,27 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/7q4jVKvQrxs?si=PClv8PjifmRrI4Md",
   "postcode": "NP4 8ES",
-  "district": "Pontypool / Pont-y-pŵl",
+  "district": "Pontypool / Pont-y-p\u0175l",
   "county": "Torfaen - Torfaen",
   "region": "Wales",
   "country": "Wales",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "open farmland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "visitor facility"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

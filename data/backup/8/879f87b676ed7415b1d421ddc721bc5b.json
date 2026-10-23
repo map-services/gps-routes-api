@@ -1,91 +1,106 @@
 {
-    "created_at": "2026-10-22T22:49:28.129854+00:00",
-    "objectID": "879f87b676ed7415b1d421ddc721bc5b",
-    "ref": "portlick-millennium-forest-walking-route",
-    "title": "Portlick Millennium Forest Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lough_Ree_29-10-2015_3.JPG/500px-Lough_Ree_29-10-2015_3.JPG?_=20151113094600",
-    "nearby": [
-        {
-            "description": "Lough Ree Park Walking Trail",
-            "objectID": "7c68bba4f76e1b12a36100fa10d37e5c",
-            "ref": "lough-ree-park-walking-trail"
-        },
-        {
-            "description": "Athlone",
-            "objectID": "472c0ee3ef3f20d4bb9a13ca6868e40b",
-            "ref": "athlone-walking-route"
-        },
-        {
-            "description": "Corlea Trackway",
-            "objectID": "522b6e79db0a41835dfdac5dd46c5976",
-            "ref": "corlea-trackway-walking-route"
-        },
-        {
-            "description": "Lough Owel",
-            "objectID": "1e6df88c79aa6b651c86c48d6f529c34",
-            "ref": "lough-owel-walking-route"
-        },
-        {
-            "description": "Athlone - Mullingar Greenway",
-            "objectID": "6fdd7663a34df7e00bde73658f6f4bc1",
-            "ref": "athlone---mullingar-greenway-walking-route"
-        },
-        {
-            "description": "Longford Canal",
-            "objectID": "d44df79177343646c2c5ae73ab84f44a",
-            "ref": "longford-canal-walking-route"
-        },
-        {
-            "description": "Newcastle Wood",
-            "objectID": "f3a6683aa8647c8a23ef1e9918064e4d",
-            "ref": "newcastle-wood-walking-route"
-        },
-        {
-            "description": "Lough Funshinagh",
-            "objectID": "85de35653c4425957adb124be5a20c38",
-            "ref": "lough-funshinagh-walking-route"
-        },
-        {
-            "description": "Kilbeggan Greenway",
-            "objectID": "e5e92784eb142f186795825864213286",
-            "ref": "kilbeggan-greenway-walking-route"
-        },
-        {
-            "description": "Esker Bluebell Trail",
-            "objectID": "55c296bc87b00fc01975c05557c93957",
-            "ref": "esker-bluebell-trail-walking-route"
-        },
-        {
-            "description": "Croghan Hill Walk",
-            "objectID": "2f3817797490c51368d5e8dc298ef071",
-            "ref": "croghan-hill-walk"
-        },
-        {
-            "description": "Scragh Bog",
-            "objectID": "dd24652ea0ca665cf9e9d7df1a2e77ec",
-            "ref": "scragh-bog-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/879f87b676ed7415b1d421ddc721bc5b.gpx",
-    "_geoloc": {
-        "lat": 53.491532,
-        "lng": -7.917169
+  "created_at": "2026-10-22T22:49:28.129854+00:00",
+  "objectID": "879f87b676ed7415b1d421ddc721bc5b",
+  "ref": "portlick-millennium-forest-walking-route",
+  "title": "Portlick Millennium Forest Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lough_Ree_29-10-2015_3.JPG/500px-Lough_Ree_29-10-2015_3.JPG?_=20151113094600",
+  "nearby": [
+    {
+      "description": "Lough Ree Park Walking Trail",
+      "objectID": "7c68bba4f76e1b12a36100fa10d37e5c",
+      "ref": "lough-ree-park-walking-trail"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lough_Ree_29-10-2015_3.JPG",
-            "title": "Arno-nl, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Lough Ree"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lough_Ree_29-10-2015_4.JPG",
-            "title": "Arno-nl, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Lough Ree"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "This loop walk explores the Portlick Millennium Forest in County Westmeath. The woods are located just north of Athlone next to Lough Ree. There's miles of peaceful woodland trails with views of the lake to enjoy at the western edge. There's lots of woodland birds, spring bluebells and the medieval Portlick Castle to see here as well.You can continue your walking near the forest on theLough Ree Park Walking Trailand theCorlea Trackway.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/_a9IkPBXugQ?si=pmyjqzFeidyGAe09",
-    "gazetteer_found": false
+    {
+      "description": "Athlone",
+      "objectID": "472c0ee3ef3f20d4bb9a13ca6868e40b",
+      "ref": "athlone-walking-route"
+    },
+    {
+      "description": "Corlea Trackway",
+      "objectID": "522b6e79db0a41835dfdac5dd46c5976",
+      "ref": "corlea-trackway-walking-route"
+    },
+    {
+      "description": "Lough Owel",
+      "objectID": "1e6df88c79aa6b651c86c48d6f529c34",
+      "ref": "lough-owel-walking-route"
+    },
+    {
+      "description": "Athlone - Mullingar Greenway",
+      "objectID": "6fdd7663a34df7e00bde73658f6f4bc1",
+      "ref": "athlone---mullingar-greenway-walking-route"
+    },
+    {
+      "description": "Longford Canal",
+      "objectID": "d44df79177343646c2c5ae73ab84f44a",
+      "ref": "longford-canal-walking-route"
+    },
+    {
+      "description": "Newcastle Wood",
+      "objectID": "f3a6683aa8647c8a23ef1e9918064e4d",
+      "ref": "newcastle-wood-walking-route"
+    },
+    {
+      "description": "Lough Funshinagh",
+      "objectID": "85de35653c4425957adb124be5a20c38",
+      "ref": "lough-funshinagh-walking-route"
+    },
+    {
+      "description": "Kilbeggan Greenway",
+      "objectID": "e5e92784eb142f186795825864213286",
+      "ref": "kilbeggan-greenway-walking-route"
+    },
+    {
+      "description": "Esker Bluebell Trail",
+      "objectID": "55c296bc87b00fc01975c05557c93957",
+      "ref": "esker-bluebell-trail-walking-route"
+    },
+    {
+      "description": "Croghan Hill Walk",
+      "objectID": "2f3817797490c51368d5e8dc298ef071",
+      "ref": "croghan-hill-walk"
+    },
+    {
+      "description": "Scragh Bog",
+      "objectID": "dd24652ea0ca665cf9e9d7df1a2e77ec",
+      "ref": "scragh-bog-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/879f87b676ed7415b1d421ddc721bc5b.gpx",
+  "_geoloc": {
+    "lat": 53.491532,
+    "lng": -7.917169
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lough_Ree_29-10-2015_3.JPG",
+      "title": "Arno-nl, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Lough Ree"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lough_Ree_29-10-2015_4.JPG",
+      "title": "Arno-nl, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Lough Ree"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "This loop walk explores the Portlick Millennium Forest in County Westmeath. The woods are located just north of Athlone next to Lough Ree. There's miles of peaceful woodland trails with views of the lake to enjoy at the western edge. There's lots of woodland birds, spring bluebells and the medieval Portlick Castle to see here as well.You can continue your walking near the forest on theLough Ree Park Walking Trailand theCorlea Trackway.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/_a9IkPBXugQ?si=pmyjqzFeidyGAe09",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,59 +1,78 @@
 {
-    "created_at": "2026-10-22T21:45:16.778902+00:00",
-    "objectID": "fb3d2f8c9fd345dcdf19217a70112685",
-    "ref": "lynford-stag-walk",
-    "title": "Lynford Stag Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg/500px-The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg?20220926080854",
-    "nearby": [
-        {
-            "description": "Thetford Forest",
-            "objectID": "c754503315c7047bb884243a9b4b3ec5",
-            "ref": "thetford-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Lynford Arboretum",
-            "objectID": "3f269227c668742c2a398f507301b752",
-            "ref": "lynford-arboretum-walking-route"
-        },
-        {
-            "description": "Pingo Trail and Thompson Common Walk",
-            "objectID": "c72452f00c59f17d2a903cc68e07980e",
-            "ref": "pingo-trail-and-thompson-common-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3d2f8c9fd345dcdf19217a70112685.gpx",
-    "_geoloc": {
-        "lat": 52.4930581058,
-        "lng": 0.6711208271
+  "created_at": "2026-10-22T21:45:16.778902+00:00",
+  "objectID": "fb3d2f8c9fd345dcdf19217a70112685",
+  "ref": "lynford-stag-walk",
+  "title": "Lynford Stag Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg/500px-The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg?20220926080854",
+  "nearby": [
+    {
+      "description": "Thetford Forest",
+      "objectID": "c754503315c7047bb884243a9b4b3ec5",
+      "ref": "thetford-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg",
-            "title": "The Lynford Stag by Siobhan Brennan-Raymond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Lynford Stag"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Entrance_to_Lyndford_Stag_Picnic_Site_-_geograph.org.uk_-_5554486.jpg",
-            "title": "Entrance to Lyndford Stag Picnic Site by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Entrance to Lyndford Stag Picnic Site"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_path_through_an_avenue_of_Lime_Trees_in_Lynford_Stag_Picnic_Area_-_geograph.org.uk_-_2654333.jpg",
-            "title": "A path through an avenue of Lime Trees in Lynford Stag Picnic Area by peter robinson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A path through an avenue of Lime Trees in Lynford Stag Picnic Area"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Big_Wood%2C_Thetford_Forest_-_geograph.org.uk_-_222653.jpg?20100131202711",
-            "title": "Stephen McKay / Big Wood, Thetford Forest",
-            "caption": "Big Wood, Thetford Forest. A group of walkers head along this forest walk leading away from Lynford Stag picnic site towards Lynford Hall. Thetford Forest is the largest lowland pine forest in Britain, started in the 1920s as a strategic timber reserve on the Breckland heaths which were of little agricultural value."
-        }
-    ],
-    "distance_km": 3.8,
-    "description": "This circular walk explores the Lynford Stag Walk in Thetford Forest. The trail starts from the Lynford Stag car park where there's a nice picnic area and the metal imitation \"target stag\", found by the workers when the area was being planted. From the car park you can pick up a pleasant circular trail taking you through the peaceful woodland. The area is popular with dog walkers. About a mile to the north you could extend your walk at the Lynford Arboretum where there's another circular trail and some fine specimen trees.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/PWGdrZ5x5EA?si=1fg9ZrTDbUK8DrRQ",
-    "county": "Norfolk",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Lynford Arboretum",
+      "objectID": "3f269227c668742c2a398f507301b752",
+      "ref": "lynford-arboretum-walking-route"
+    },
+    {
+      "description": "Pingo Trail and Thompson Common Walk",
+      "objectID": "c72452f00c59f17d2a903cc68e07980e",
+      "ref": "pingo-trail-and-thompson-common-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3d2f8c9fd345dcdf19217a70112685.gpx",
+  "_geoloc": {
+    "lat": 52.4930581058,
+    "lng": 0.6711208271
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lynford_Stag_-_geograph.org.uk_-_3848599.jpg",
+      "title": "The Lynford Stag by Siobhan Brennan-Raymond, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Lynford Stag"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Entrance_to_Lyndford_Stag_Picnic_Site_-_geograph.org.uk_-_5554486.jpg",
+      "title": "Entrance to Lyndford Stag Picnic Site by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Entrance to Lyndford Stag Picnic Site"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/A_path_through_an_avenue_of_Lime_Trees_in_Lynford_Stag_Picnic_Area_-_geograph.org.uk_-_2654333.jpg",
+      "title": "A path through an avenue of Lime Trees in Lynford Stag Picnic Area by peter robinson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A path through an avenue of Lime Trees in Lynford Stag Picnic Area"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Big_Wood%2C_Thetford_Forest_-_geograph.org.uk_-_222653.jpg?20100131202711",
+      "title": "Stephen McKay / Big Wood, Thetford Forest",
+      "caption": "Big Wood, Thetford Forest. A group of walkers head along this forest walk leading away from Lynford Stag picnic site towards Lynford Hall. Thetford Forest is the largest lowland pine forest in Britain, started in the 1920s as a strategic timber reserve on the Breckland heaths which were of little agricultural value."
+    }
+  ],
+  "distance_km": 3.8,
+  "description": "This circular walk explores the Lynford Stag Walk in Thetford Forest. The trail starts from the Lynford Stag car park where there's a nice picnic area and the metal imitation \"target stag\", found by the workers when the area was being planted. From the car park you can pick up a pleasant circular trail taking you through the peaceful woodland. The area is popular with dog walkers. About a mile to the north you could extend your walk at the Lynford Arboretum where there's another circular trail and some fine specimen trees.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/PWGdrZ5x5EA?si=1fg9ZrTDbUK8DrRQ",
+  "county": "Norfolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "target stag",
+    "arboretum"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

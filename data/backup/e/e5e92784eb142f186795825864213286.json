@@ -28,7 +28,7 @@
     {
       "description": "Tullamore Canal Walk",
       "objectID": "f0736e0826d7e480685db9002470dc92",
-      "ref": "tullamore canal-walk"
+      "ref": "tullamore\u00a0canal-walk"
     },
     {
       "description": "Newcastle Wood",
@@ -61,5 +61,24 @@
   "distance_km": 3.2,
   "description": "This walk follows the Kilbeggan Greenway in the town of Kilbeggan in County Westmeath. The trail starts off from the old canal harbour basin just to the east of the town. There's a picnic area, the old canal warehouses and some nice scenic views here. You can then follow the shared cycling and walking paths south east for just over 3km with peaceful woodland and countryside views to enjoy.To continue your walking near Kilbeggan head east to pick up theEsker Bluebell Trail. TheBelvedere House and Lough Ennell Walkand theCroghan Hill Walkare other local highlights.",
   "details": [],
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "picnic area"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

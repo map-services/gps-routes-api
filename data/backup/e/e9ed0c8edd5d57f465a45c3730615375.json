@@ -1,8 +1,8 @@
 {
   "created_at": "2026-10-22T21:35:59.936172+00:00",
   "objectID": "e9ed0c8edd5d57f465a45c3730615375",
-  "ref": "glen-rosa waterfall-walking-route",
-  "title": "Glen Rosa Waterfall Walk Route",
+  "ref": "glen-rosa\u00a0waterfall-walking-route",
+  "title": "Glen Rosa\u00a0Waterfall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Glen_Rosa_-_geograph.org.uk_-_266801.jpg?20101212154226",
   "nearby": [
     {
@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Glen_Rosa_-_geograph.org.uk_-_266801.jpg?20101212154226",
       "title": "wfmillar / Glen Rosa",
-      "caption": "Glen Rosa Whin in full bloom. The peak being Beinn Nuis. The area’s natural environment is characterised by a mixture of native woodland and open moorland. Dominant tree species include Scots pine, birch, and oak, which form a protective canopy over parts of the glen. The ground is adorned in spring by bluebells and other wildflowers, with heather and other low-growing plants thriving in the more exposed areas. This varied habitat supports a rich diversity of wildlife, from woodland birds such as thrushes, finches, and woodpeckers to small mammals including red squirrels and foxes. The streams and waterfalls also create favourable conditions for aquatic species like trout, and in warmer months, the area is alive with butterflies and dragonflies that contribute to the overall ecological diversity."
+      "caption": "Glen Rosa Whin in full bloom. The peak being Beinn Nuis. The area\u2019s natural environment is characterised by a mixture of native woodland and open moorland. Dominant tree species include Scots pine, birch, and oak, which form a protective canopy over parts of the glen. The ground is adorned in spring by bluebells and other wildflowers, with heather and other low-growing plants thriving in the more exposed areas. This varied habitat supports a rich diversity of wildlife, from woodland birds such as thrushes, finches, and woodpeckers to small mammals including red squirrels and foxes. The streams and waterfalls also create favourable conditions for aquatic species like trout, and in warmer months, the area is alive with butterflies and dragonflies that contribute to the overall ecological diversity."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Glen_Rosa_waterfall_-_geograph.org.uk_-_450897.jpg?20110204150242",
@@ -57,5 +57,25 @@
   "county": "North Ayrshire",
   "region": "Scotland",
   "country": "Scotland",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "glen",
+    "rock formation",
+    "slope"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "castle",
+    "hill"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

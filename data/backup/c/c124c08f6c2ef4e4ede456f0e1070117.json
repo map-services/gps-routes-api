@@ -1,51 +1,68 @@
 {
-    "created_at": "2026-10-22T22:38:35.803685+00:00",
-    "objectID": "c124c08f6c2ef4e4ede456f0e1070117",
-    "ref": "glen-loin-loop-walk",
-    "title": "Glen Loin Loop Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Glen_Loin_-_geograph.org.uk_-_7547324.jpg/500px-Glen_Loin_-_geograph.org.uk_-_7547324.jpg?20250413221410",
-    "nearby": [
-        {
-            "description": "The Cobbler Mountain",
-            "objectID": "61cfc88ddf55437e36dd6ba4bd900600",
-            "ref": "the-cobbler-mountain-walking-route"
-        },
-        {
-            "description": "Arrochar",
-            "objectID": "fb200f019b2b9cebd69667572b581c59",
-            "ref": "arrochar-walking-route"
-        },
-        {
-            "description": "Loch Sloy",
-            "objectID": "cb2f9c5d96862f086b4f885891a9f9e5",
-            "ref": "loch-sloy-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c124c08f6c2ef4e4ede456f0e1070117.gpx",
-    "_geoloc": {
-        "lat": 56.2069121509,
-        "lng": -4.7460421391
+  "created_at": "2026-10-22T22:38:35.803685+00:00",
+  "objectID": "c124c08f6c2ef4e4ede456f0e1070117",
+  "ref": "glen-loin-loop-walk",
+  "title": "Glen Loin Loop Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Glen_Loin_-_geograph.org.uk_-_7547324.jpg/500px-Glen_Loin_-_geograph.org.uk_-_7547324.jpg?20250413221410",
+  "nearby": [
+    {
+      "description": "The Cobbler Mountain",
+      "objectID": "61cfc88ddf55437e36dd6ba4bd900600",
+      "ref": "the-cobbler-mountain-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Glen_Loin_-_geograph.org.uk_-_7547324.jpg",
-            "title": "Glen Loin by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Glen Loin 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Glen_Loin_-_geograph.org.uk_-_7547316.jpg",
-            "title": "Glen Loin by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Glen Loin 2"
-        }
-    ],
-    "distance_km": 21.0,
-    "description": "This circular walk is set in the scenic Arrochar area, beginning at the main Loch Long car park near the village of Succoth. The route immediately leads into the glen, following well-marked forest paths along the Loin Water. As the path rises gently beneath telegraph wires, there are excellent views of Beinn Narnain and A’Chrois to the left, with the surrounding forestry adding a sense of seclusion while the glen remains open to the sky. The path climbs through a series of gentle slopes, crossing small wooden footbridges and running beside outcropping rocks before curving along a firebreak. The landscape here combines open glen scenery with wooded sections, offering glimpses of the southern end of Ben Vorlich and the rugged forestry of the area. Bridges over streams and the Inveruglas Water punctuate the walk, while distant hills, including Ben Vane and Ben Lomond, create a dramatic backdrop.Further along, the track rises steadily along the east side of Coiregrograin, passing cascading burns and weaving through forested sections. Around here you can take the extension to visit the impressive dam atLoch Sloyif you have time.The highest point of the walk provides expansive views across the glen, with the rocky summits of nearby Munros framing the landscape. The descent leads across lower slopes of A’Chrois, through denser woodland, before curving back down Glen Loin. From this vantage, there are impressive views along Loch Long, with the Trident submarine base at Coulport visible in the distance.The final section of the loop passes above the small hamlet of Succoth and returns through forest tracks and quiet paths, crossing footbridges before arriving back at the A83 and the starting car park. Throughout, the walk blends open glen vistas, forested tracks, and glimpses of surrounding hills, creating a varied and rewarding circular route. You can continue your walking in the area on theThe Cobbler Mountain Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/8liYkpBAQoQ?si=Uk3_Nxwlx6mSWu9Z",
-    "postcode": "G83 7AN",
-    "district": "Succoth",
-    "county": "Argyll and Bute",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Arrochar",
+      "objectID": "fb200f019b2b9cebd69667572b581c59",
+      "ref": "arrochar-walking-route"
+    },
+    {
+      "description": "Loch Sloy",
+      "objectID": "cb2f9c5d96862f086b4f885891a9f9e5",
+      "ref": "loch-sloy-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c124c08f6c2ef4e4ede456f0e1070117.gpx",
+  "_geoloc": {
+    "lat": 56.2069121509,
+    "lng": -4.7460421391
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Glen_Loin_-_geograph.org.uk_-_7547324.jpg",
+      "title": "Glen Loin by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Glen Loin 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Glen_Loin_-_geograph.org.uk_-_7547316.jpg",
+      "title": "Glen Loin by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Glen Loin 2"
+    }
+  ],
+  "distance_km": 21.0,
+  "description": "This circular walk is set in the scenic Arrochar area, beginning at the main Loch Long car park near the village of Succoth. The route immediately leads into the glen, following well-marked forest paths along the Loin Water. As the path rises gently beneath telegraph wires, there are excellent views of Beinn Narnain and A\u2019Chrois to the left, with the surrounding forestry adding a sense of seclusion while the glen remains open to the sky. The path climbs through a series of gentle slopes, crossing small wooden footbridges and running beside outcropping rocks before curving along a firebreak. The landscape here combines open glen scenery with wooded sections, offering glimpses of the southern end of Ben Vorlich and the rugged forestry of the area. Bridges over streams and the Inveruglas Water punctuate the walk, while distant hills, including Ben Vane and Ben Lomond, create a dramatic backdrop.Further along, the track rises steadily along the east side of Coiregrograin, passing cascading burns and weaving through forested sections. Around here you can take the extension to visit the impressive dam atLoch Sloyif you have time.The highest point of the walk provides expansive views across the glen, with the rocky summits of nearby Munros framing the landscape. The descent leads across lower slopes of A\u2019Chrois, through denser woodland, before curving back down Glen Loin. From this vantage, there are impressive views along Loch Long, with the Trident submarine base at Coulport visible in the distance.The final section of the loop passes above the small hamlet of Succoth and returns through forest tracks and quiet paths, crossing footbridges before arriving back at the A83 and the starting car park. Throughout, the walk blends open glen vistas, forested tracks, and glimpses of surrounding hills, creating a varied and rewarding circular route. You can continue your walking in the area on theThe Cobbler Mountain Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/8liYkpBAQoQ?si=Uk3_Nxwlx6mSWu9Z",
+  "postcode": "G83 7AN",
+  "district": "Succoth",
+  "county": "Argyll and Bute",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "6-7 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "open glen"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,44 +1,61 @@
 {
-    "created_at": "2026-10-22T21:50:32.761449+00:00",
-    "objectID": "410862899f4b2926dce44e0c44c017ee",
-    "ref": "oxwich-to-three-cliffs-walk",
-    "title": "Oxwich to Three Cliffs Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg/500px-Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg?20190927212918",
-    "nearby": [
-        {
-            "description": "Mumbles to Oxwich Coastal Walk",
-            "objectID": "d10d5599746971f065104416f8a46918",
-            "ref": "mumbles-to-oxwich-coastal-walk"
-        },
-        {
-            "description": "Oxwich to Rhossili Coastal Walk",
-            "objectID": "056df6e1ba657e10d4ab144d70ef8132",
-            "ref": "oxwich-to-rhossili-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/410862899f4b2926dce44e0c44c017ee.gpx",
-    "_geoloc": {
-        "lat": 51.557573528,
-        "lng": -4.1640410106
+  "created_at": "2026-10-22T21:50:32.761449+00:00",
+  "objectID": "410862899f4b2926dce44e0c44c017ee",
+  "ref": "oxwich-to-three-cliffs-walk",
+  "title": "Oxwich to Three Cliffs Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg/500px-Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg?20190927212918",
+  "nearby": [
+    {
+      "description": "Mumbles to Oxwich Coastal Walk",
+      "objectID": "d10d5599746971f065104416f8a46918",
+      "ref": "mumbles-to-oxwich-coastal-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg",
-            "title": "Alan Hughes / Oxwich Bay from Pwlldu Head",
-            "caption": "Oxwich Bay from Pwlldu Head"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bae_y_Tri_Chlogwyn_%E2%80%93_Three_Cliffs_Bay.jpg",
-            "title": "Alex-e-kershaw, CC0, via Wikimedia Commons",
-            "caption": "View across Three Cliffs Bay from the east."
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk takes you from Oxwich to Three Cliffs on the Gower. You can follow a fine section of the Wales coast path from the village to the cliffs and bay. Start off at the public car park at Oxwich Bay and then head east along the waymarked path for a distance of about 3 miles. It's a fairly flat route with some small climbs along the way. The walk passes the beaches of the Oxwich National Nature Reserve where you can look out for a variety of wildlife. You'll then pass Nicholaston Woods and the ancient Burial chambers at Penmaen Burrows before coming to Three Cliffs Bay. It's a lovely sandy inlet where a stream winds along to join the sea where the sand meets the salt water.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/nQFEWmC_YYA?si=9Y2JeoZGDqF64Fp_",
-    "county": "Abertawe - Swansea",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Oxwich to Rhossili Coastal Walk",
+      "objectID": "056df6e1ba657e10d4ab144d70ef8132",
+      "ref": "oxwich-to-rhossili-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/410862899f4b2926dce44e0c44c017ee.gpx",
+  "_geoloc": {
+    "lat": 51.557573528,
+    "lng": -4.1640410106
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Oxwich_Bay_from_Pwlldu_Head_%28geograph_6274664%29.jpg",
+      "title": "Alan Hughes / Oxwich Bay from Pwlldu Head",
+      "caption": "Oxwich Bay from Pwlldu Head"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bae_y_Tri_Chlogwyn_%E2%80%93_Three_Cliffs_Bay.jpg",
+      "title": "Alex-e-kershaw, CC0, via Wikimedia Commons",
+      "caption": "View across Three Cliffs Bay from the east."
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk takes you from Oxwich to Three Cliffs on the Gower. You can follow a fine section of the Wales coast path from the village to the cliffs and bay. Start off at the public car park at Oxwich Bay and then head east along the waymarked path for a distance of about 3 miles. It's a fairly flat route with some small climbs along the way. The walk passes the beaches of the Oxwich National Nature Reserve where you can look out for a variety of wildlife. You'll then pass Nicholaston Woods and the ancient Burial chambers at Penmaen Burrows before coming to Three Cliffs Bay. It's a lovely sandy inlet where a stream winds along to join the sea where the sand meets the salt water.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/nQFEWmC_YYA?si=9Y2JeoZGDqF64Fp_",
+  "county": "Abertawe - Swansea",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "national nature reserve",
+    "burial chamber"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

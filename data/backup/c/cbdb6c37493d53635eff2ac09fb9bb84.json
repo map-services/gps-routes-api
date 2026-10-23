@@ -1,60 +1,75 @@
 {
-    "created_at": "2026-10-22T22:01:55.934690+00:00",
-    "objectID": "cbdb6c37493d53635eff2ac09fb9bb84",
-    "ref": "winchcombe-to-broadway-walk",
-    "title": "Winchcombe to Broadway Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg/500px-High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg?20250201173243",
-    "nearby": [
-        {
-            "description": "Cotswold Way",
-            "objectID": "506730377bbdf50f447d2f9343dd3402",
-            "ref": "cotswold-way-walking-route"
-        },
-        {
-            "description": "Winchcombe Way",
-            "objectID": "6def712345e10ed1da3b52a38b0bae82",
-            "ref": "winchcombe-way-walking-route"
-        },
-        {
-            "description": "Hailes Abbey",
-            "objectID": "255cc1e09a5a123f79eb8e1b832c7a5f",
-            "ref": "hailes-abbey-walking-route"
-        },
-        {
-            "description": "Broadway to Snowshill Circular Walk",
-            "objectID": "f04e472f9a157409ddb8220c01bbef49",
-            "ref": "broadway-to-snowshill-circular-walk"
-        },
-        {
-            "description": "Broadway Tower Country Park",
-            "objectID": "b9acdea928e2266362f5e6be812ee5e8",
-            "ref": "broadway-tower-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cbdb6c37493d53635eff2ac09fb9bb84.gpx",
-    "_geoloc": {
-        "lat": 51.9534158139,
-        "lng": -1.9650310693
+  "created_at": "2026-10-22T22:01:55.934690+00:00",
+  "objectID": "cbdb6c37493d53635eff2ac09fb9bb84",
+  "ref": "winchcombe-to-broadway-walk",
+  "title": "Winchcombe to Broadway Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg/500px-High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg?20250201173243",
+  "nearby": [
+    {
+      "description": "Cotswold Way",
+      "objectID": "506730377bbdf50f447d2f9343dd3402",
+      "ref": "cotswold-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg",
-            "title": "High Street, Winchcombe by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "High Street, Winchcombe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Green%2C_Broadway_%28geograph_7358789%29.jpg",
-            "title": "Derek Harper / The Green, Broadway",
-            "caption": "The Green, Broadway"
-        }
-    ],
-    "distance_km": 14.4,
-    "description": "This walk follows sections of the Cotswold Way and the Winchcombe Way from Winchcombe to Broadway. The walk runs for a distance of 9 miles, following the waymarked footpaths in a north easterly direction. On the way you will pass the historic ruins of Hailes Abbey and the noteworthy Stanway House. The Jacobean manor house dates to the 16th century and is famous for its 300 feet single-jet fountain, the highest in Britain and the highest gravity fountain in the world. There's also some lovely grounds where you can stroll to the 18th-century water-garden, 14th century Tithe Barn and attractive woodland. The route then continues through Stanton before finishing at Broadway where you can visit the popular Broadway Tower Country Park. Along the way there are some excellent views over the surrounding countryside from the high points.",
-    "details": [],
-    "postcode": "GL54 5SF",
-    "district": "Winchcombe",
-    "county": "Gloucestershire",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Winchcombe Way",
+      "objectID": "6def712345e10ed1da3b52a38b0bae82",
+      "ref": "winchcombe-way-walking-route"
+    },
+    {
+      "description": "Hailes Abbey",
+      "objectID": "255cc1e09a5a123f79eb8e1b832c7a5f",
+      "ref": "hailes-abbey-walking-route"
+    },
+    {
+      "description": "Broadway to Snowshill Circular Walk",
+      "objectID": "f04e472f9a157409ddb8220c01bbef49",
+      "ref": "broadway-to-snowshill-circular-walk"
+    },
+    {
+      "description": "Broadway Tower Country Park",
+      "objectID": "b9acdea928e2266362f5e6be812ee5e8",
+      "ref": "broadway-tower-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cbdb6c37493d53635eff2ac09fb9bb84.gpx",
+  "_geoloc": {
+    "lat": 51.9534158139,
+    "lng": -1.9650310693
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/High_Street%2C_Winchcombe_-_geograph.org.uk_-_7323032.jpg",
+      "title": "High Street, Winchcombe by David Gearing, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "High Street, Winchcombe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Green%2C_Broadway_%28geograph_7358789%29.jpg",
+      "title": "Derek Harper / The Green, Broadway",
+      "caption": "The Green, Broadway"
+    }
+  ],
+  "distance_km": 14.4,
+  "description": "This walk follows sections of the Cotswold Way and the Winchcombe Way from Winchcombe to Broadway. The walk runs for a distance of 9 miles, following the waymarked footpaths in a north easterly direction. On the way you will pass the historic ruins of Hailes Abbey and the noteworthy Stanway House. The Jacobean manor house dates to the 16th century and is famous for its 300 feet single-jet fountain, the highest in Britain and the highest gravity fountain in the world. There's also some lovely grounds where you can stroll to the 18th-century water-garden, 14th century Tithe Barn and attractive woodland. The route then continues through Stanton before finishing at Broadway where you can visit the popular Broadway Tower Country Park. Along the way there are some excellent views over the surrounding countryside from the high points.",
+  "details": [],
+  "postcode": "GL54 5SF",
+  "district": "Winchcombe",
+  "county": "Gloucestershire",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

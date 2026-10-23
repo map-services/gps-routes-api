@@ -1,64 +1,80 @@
 {
-    "created_at": "2026-10-22T22:28:16.191109+00:00",
-    "objectID": "f7f002006eb42e9700aeeca083adb124",
-    "ref": "aldie-burn-forest-walk",
-    "title": "Aldie Burn Forest Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg/500px-Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg?20240601004819",
-    "nearby": [
-        {
-            "description": "Dornoch to Embo",
-            "objectID": "f6e255ae183523fbf78446935adfcce4",
-            "ref": "dornoch-to-embo-walking-route"
-        },
-        {
-            "description": "Morangie Forest Walk",
-            "objectID": "ec2dc18f9dcec79130affff4016d84f5",
-            "ref": "morangie-forest-walk"
-        },
-        {
-            "description": "Loch Eye Walk",
-            "objectID": "ac7fbc596d3c7509e2fd7d1c23dcfb2e",
-            "ref": "loch-eye-walk"
-        },
-        {
-            "description": "Tarbat Ness Lighthouse Walk",
-            "objectID": "e7377a461f01338c81904602a052bd38",
-            "ref": "tarbat-ness-lighthouse-walk"
-        },
-        {
-            "description": "Tain Hill Forest and Pulpit Rock Walk",
-            "objectID": "22d208ab97c7289315812540167480f0",
-            "ref": "tain-hill-walking-route"
-        },
-        {
-            "description": "Portmahomack Lighthouse Walk",
-            "objectID": "ac910825741a4668f2457de6596aca64",
-            "ref": "portmahomack-lighthouse-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f7f002006eb42e9700aeeca083adb124.gpx",
-    "_geoloc": {
-        "lat": 57.7855617588,
-        "lng": -4.09380726
+  "created_at": "2026-10-22T22:28:16.191109+00:00",
+  "objectID": "f7f002006eb42e9700aeeca083adb124",
+  "ref": "aldie-burn-forest-walk",
+  "title": "Aldie Burn Forest Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg/500px-Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg?20240601004819",
+  "nearby": [
+    {
+      "description": "Dornoch to Embo",
+      "objectID": "f6e255ae183523fbf78446935adfcce4",
+      "ref": "dornoch-to-embo-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg",
-            "title": "Weir on the Aldie Burn by valenta, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Weir on the Aldie Burn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/New_Footbridge_across_Aldie_Burn_-_geograph.org.uk_-_641456.jpg?20110311192000",
-            "title": "sylvia duckworth / New Footbridge across Aldie Burn",
-            "caption": "New Footbridge across Aldie Burn"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This circular walk takes you along the Aldie Burn Trail in the Morangie Forest. The scenic area is located near Tain in the County of Ross, in the Highlands of Scotland. The route follows well made forest paths through a mix of conifer and broadleaf woodland, creating a peaceful setting rich in birdlife and the scent of pine. The burn itself runs alongside much of the route, its clear water flowing over stones and beneath small bridges, adding to the tranquillity of the setting.As the path gently rises through the trees, there are occasional clearings offering views across the surrounding hills and farmland. The area is home to red squirrels, roe deer and a variety of woodland birds, making it an appealing route for wildlife watchers as well as walkers. In spring and summer, the forest floor is dotted with wildflowers, while in autumn the woodland turns vivid shades of gold and red.The route is waymarked and easy to follow, beginning and ending near a small car park to the west of Tain. It provides a pleasant and relatively gentle walk through classic Highland scenery, with the sound of the burn never far away. You can continue your walking in the area by heading east to pick up theLoch Eye Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/FJR2eFNmAKs?si=VqLlhgkuusL3zVNQ",
-    "county": "Highland",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Morangie Forest Walk",
+      "objectID": "ec2dc18f9dcec79130affff4016d84f5",
+      "ref": "morangie-forest-walk"
+    },
+    {
+      "description": "Loch Eye Walk",
+      "objectID": "ac7fbc596d3c7509e2fd7d1c23dcfb2e",
+      "ref": "loch-eye-walk"
+    },
+    {
+      "description": "Tarbat Ness Lighthouse Walk",
+      "objectID": "e7377a461f01338c81904602a052bd38",
+      "ref": "tarbat-ness-lighthouse-walk"
+    },
+    {
+      "description": "Tain Hill Forest and Pulpit Rock Walk",
+      "objectID": "22d208ab97c7289315812540167480f0",
+      "ref": "tain-hill-walking-route"
+    },
+    {
+      "description": "Portmahomack Lighthouse Walk",
+      "objectID": "ac910825741a4668f2457de6596aca64",
+      "ref": "portmahomack-lighthouse-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f7f002006eb42e9700aeeca083adb124.gpx",
+  "_geoloc": {
+    "lat": 57.7855617588,
+    "lng": -4.09380726
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Weir_on_the_Aldie_Burn_-_geograph.org.uk_-_6404027.jpg",
+      "title": "Weir on the Aldie Burn by valenta, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Weir on the Aldie Burn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/New_Footbridge_across_Aldie_Burn_-_geograph.org.uk_-_641456.jpg?20110311192000",
+      "title": "sylvia duckworth / New Footbridge across Aldie Burn",
+      "caption": "New Footbridge across Aldie Burn"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This circular walk takes you along the Aldie Burn Trail in the Morangie Forest. The scenic area is located near Tain in the County of Ross, in the Highlands of Scotland. The route follows well made forest paths through a mix of conifer and broadleaf woodland, creating a peaceful setting rich in birdlife and the scent of pine. The burn itself runs alongside much of the route, its clear water flowing over stones and beneath small bridges, adding to the tranquillity of the setting.As the path gently rises through the trees, there are occasional clearings offering views across the surrounding hills and farmland. The area is home to red squirrels, roe deer and a variety of woodland birds, making it an appealing route for wildlife watchers as well as walkers. In spring and summer, the forest floor is dotted with wildflowers, while in autumn the woodland turns vivid shades of gold and red.The route is waymarked and easy to follow, beginning and ending near a small car park to the west of Tain. It provides a pleasant and relatively gentle walk through classic Highland scenery, with the sound of the burn never far away. You can continue your walking in the area by heading east to pick up theLoch Eye Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/FJR2eFNmAKs?si=VqLlhgkuusL3zVNQ",
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

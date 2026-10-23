@@ -1,39 +1,54 @@
 {
-    "created_at": "2026-10-22T22:39:50.987074+00:00",
-    "objectID": "a9cc904f5995357356a6f1752d083a1c",
-    "ref": "hampton-lucy-circular-walk",
-    "title": "Hampton Lucy Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg/500px-Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg?20240516071431",
-    "nearby": [
-        {
-            "description": "Charlecote Park",
-            "objectID": "ef994cdd9275a249401562a17a00a607",
-            "ref": "charlecote-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a9cc904f5995357356a6f1752d083a1c.gpx",
-    "_geoloc": {
-        "lat": 52.2119181853,
-        "lng": -1.6261308972
+  "created_at": "2026-10-22T22:39:50.987074+00:00",
+  "objectID": "a9cc904f5995357356a6f1752d083a1c",
+  "ref": "hampton-lucy-circular-walk",
+  "title": "Hampton Lucy Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg/500px-Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg?20240516071431",
+  "nearby": [
+    {
+      "description": "Charlecote Park",
+      "objectID": "ef994cdd9275a249401562a17a00a607",
+      "ref": "charlecote-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a9cc904f5995357356a6f1752d083a1c.gpx",
+  "_geoloc": {
+    "lat": 52.2119181853,
+    "lng": -1.6261308972
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg",
+      "title": "Hampton Lucy Bridge on R Avon by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hampton Lucy Bridge on R Avon"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hampton_Lucy_Bridge_on_R_Avon_-_geograph.org.uk_-_6337641.jpg",
-            "title": "Hampton Lucy Bridge on R Avon by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hampton Lucy Bridge on R Avon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hampton_Lucy_Cottages_-_geograph.org.uk_-_4940115.jpg",
-            "title": "Hampton Lucy Cottages by Ian Rob, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hampton Lucy Cottages"
-        }
-    ],
-    "distance_km": 7.8,
-    "description": "This circular walk explores the countryside surrounding the Warwickshire village of Hampton Lucy. The walk takes you past a series of farms with views of the River Avon which runs just to the east of the village. You can extend the walk by visiting the splendid Charlecote Park which lies just to the south. See theStratford Upon Avon Walkspage for more local ideas.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/TIdO9niLvX0?si=Z1-aI540IkB2UR8i",
-    "county": "Warwickshire",
-    "region": "West Midlands",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hampton_Lucy_Cottages_-_geograph.org.uk_-_4940115.jpg",
+      "title": "Hampton Lucy Cottages by Ian Rob, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hampton Lucy Cottages"
+    }
+  ],
+  "distance_km": 7.8,
+  "description": "This circular walk explores the countryside surrounding the Warwickshire village of Hampton Lucy. The walk takes you past a series of farms with views of the River Avon which runs just to the east of the village. You can extend the walk by visiting the splendid Charlecote Park which lies just to the south. See theStratford Upon Avon Walkspage for more local ideas.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/TIdO9niLvX0?si=Z1-aI540IkB2UR8i",
+  "county": "Warwickshire",
+  "region": "West Midlands",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "river",
+    "park"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

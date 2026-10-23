@@ -1,86 +1,103 @@
 {
-    "created_at": "2026-10-22T22:44:26.020549+00:00",
-    "objectID": "3f96618431cfb5df31fd607db4bcf8fe",
-    "ref": "lough-anure-walking-route",
-    "title": "Lough Anure Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Loughanure.jpg/500px-Loughanure.jpg?20070503174521",
-    "nearby": [
-        {
-            "description": "Dungloe River Walk",
-            "objectID": "ac7ed8192dc3f2e767ec3fa3b11be553",
-            "ref": "dungloe-river-walk"
-        },
-        {
-            "description": "Lough Eske",
-            "objectID": "ff0ec6265e3d4357fd668fb56dcc1efd",
-            "ref": "lough-eske-walking-route"
-        },
-        {
-            "description": "Slieve League",
-            "objectID": "86bf64e2b9c9ba80969ad0afc1612bea",
-            "ref": "slieve-league-walking-route"
-        },
-        {
-            "description": "Muckish Railway Walk",
-            "objectID": "4e9418ce4fc0bba830a19e21e9987591",
-            "ref": "muckish-railway-walk-walking-route"
-        },
-        {
-            "description": "Poison Glen",
-            "objectID": "7f22fd88f48bfead312e44a5870574b7",
-            "ref": "poison-glen-donegal-walking-route"
-        },
-        {
-            "description": "Donegal Boardwalk",
-            "objectID": "3e52b36430df175b1a551d4e5904a58a",
-            "ref": "donegal-boardwalk-walking-route"
-        },
-        {
-            "description": "Glenveagh Bridle Path",
-            "objectID": "f7076cd5d77af4d298ebd54959e975b1",
-            "ref": "glenveagh-bridle-path-walking-route"
-        },
-        {
-            "description": "Lough Salt",
-            "objectID": "a2a7a430dd22249bd675a8702c4f635d",
-            "ref": "lough-salt-walking-route"
-        },
-        {
-            "description": "Bloody Foreland",
-            "objectID": "bdb3c45e87159b7398da1538afd5cfc8",
-            "ref": "bloody-foreland-walking-route"
-        },
-        {
-            "description": "Arranmore Island",
-            "objectID": "84e4a500ded8c35b4f81812a5aef8587",
-            "ref": "arranmore-island-walking-route"
-        },
-        {
-            "description": "Errigal Mountain Walk",
-            "objectID": "31b94c5a6ad0f64bffb88cd85467093c",
-            "ref": "errigal-mountain-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f96618431cfb5df31fd607db4bcf8fe.gpx",
-    "_geoloc": {
-        "lat": 54.977992,
-        "lng": -8.278861
+  "created_at": "2026-10-22T22:44:26.020549+00:00",
+  "objectID": "3f96618431cfb5df31fd607db4bcf8fe",
+  "ref": "lough-anure-walking-route",
+  "title": "Lough Anure Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Loughanure.jpg/500px-Loughanure.jpg?20070503174521",
+  "nearby": [
+    {
+      "description": "Dungloe River Walk",
+      "objectID": "ac7ed8192dc3f2e767ec3fa3b11be553",
+      "ref": "dungloe-river-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Loughanure.jpg",
-            "title": "Scolaire, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-            "caption": "Loughanure"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Causeway_to_Oile%C3%A1n_Traorach_-_geograph.org.uk_-_1443768.jpg?20110302013853",
-            "title": "Steve Edge / Causeway to Oileán Traorach",
-            "caption": "Causeway to OileÃ¡n Traorach"
-        }
-    ],
-    "distance_km": 5.3,
-    "description": "This walk visits Lough Anure in County Donegal. The scenic lake is located near Dungloe and is the largest lake in the Rosses region of the county.  You can follow quiet tracks along the eastern side of the lake with some excellent views over the water to the surrounding hills and countryside. The route also includes a section along the Causeway to OileAin Traorach. Here you'll find a small farm and cottage in the middle of the lake.You can continue your walking in the area by picking up the nearbyDungloe River Walk.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/nJ8m5OaGXQI?si=6pQ4YfM_VXQG4YYs",
-    "gazetteer_found": false
+    {
+      "description": "Lough Eske",
+      "objectID": "ff0ec6265e3d4357fd668fb56dcc1efd",
+      "ref": "lough-eske-walking-route"
+    },
+    {
+      "description": "Slieve League",
+      "objectID": "86bf64e2b9c9ba80969ad0afc1612bea",
+      "ref": "slieve-league-walking-route"
+    },
+    {
+      "description": "Muckish Railway Walk",
+      "objectID": "4e9418ce4fc0bba830a19e21e9987591",
+      "ref": "muckish-railway-walk-walking-route"
+    },
+    {
+      "description": "Poison Glen",
+      "objectID": "7f22fd88f48bfead312e44a5870574b7",
+      "ref": "poison-glen-donegal-walking-route"
+    },
+    {
+      "description": "Donegal Boardwalk",
+      "objectID": "3e52b36430df175b1a551d4e5904a58a",
+      "ref": "donegal-boardwalk-walking-route"
+    },
+    {
+      "description": "Glenveagh Bridle Path",
+      "objectID": "f7076cd5d77af4d298ebd54959e975b1",
+      "ref": "glenveagh-bridle-path-walking-route"
+    },
+    {
+      "description": "Lough Salt",
+      "objectID": "a2a7a430dd22249bd675a8702c4f635d",
+      "ref": "lough-salt-walking-route"
+    },
+    {
+      "description": "Bloody Foreland",
+      "objectID": "bdb3c45e87159b7398da1538afd5cfc8",
+      "ref": "bloody-foreland-walking-route"
+    },
+    {
+      "description": "Arranmore Island",
+      "objectID": "84e4a500ded8c35b4f81812a5aef8587",
+      "ref": "arranmore-island-walking-route"
+    },
+    {
+      "description": "Errigal Mountain Walk",
+      "objectID": "31b94c5a6ad0f64bffb88cd85467093c",
+      "ref": "errigal-mountain-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f96618431cfb5df31fd607db4bcf8fe.gpx",
+  "_geoloc": {
+    "lat": 54.977992,
+    "lng": -8.278861
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Loughanure.jpg",
+      "title": "Scolaire, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "caption": "Loughanure"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Causeway_to_Oile%C3%A1n_Traorach_-_geograph.org.uk_-_1443768.jpg?20110302013853",
+      "title": "Steve Edge / Causeway to Oile\u00e1n Traorach",
+      "caption": "Causeway to Oile\u00c3\u00a1n Traorach"
+    }
+  ],
+  "distance_km": 5.3,
+  "description": "This walk visits Lough Anure in County Donegal. The scenic lake is located near Dungloe and is the largest lake in the Rosses region of the county.  You can follow quiet tracks along the eastern side of the lake with some excellent views over the water to the surrounding hills and countryside. The route also includes a section along the Causeway to OileAin Traorach. Here you'll find a small farm and cottage in the middle of the lake.You can continue your walking in the area by picking up the nearbyDungloe River Walk.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/nJ8m5OaGXQI?si=6pQ4YfM_VXQG4YYs",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "lake",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "lake",
+    "farm",
+    "cottage"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,40 +1,55 @@
 {
-    "created_at": "2026-10-22T22:28:56.213616+00:00",
-    "objectID": "ef95896b4a03310b0ec356820a85d499",
-    "ref": "athy-canal-and-river-walk",
-    "title": "Athy Canal and River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Approaching_Athy_on_the_waterway.jpg/500px-Approaching_Athy_on_the_waterway.jpg?_=20250605225345",
-    "nearby": [
-        {
-            "description": "Carlow River Barrow Walk",
-            "objectID": "bf7e375d5042b906553402581ce362c3",
-            "ref": "carlow-river-barrow-walk"
-        },
-        {
-            "description": "Clogrennane Woods",
-            "objectID": "0863d9fdf2807f7c59590ea1da9094ef",
-            "ref": "clogrennane-woods-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ef95896b4a03310b0ec356820a85d499.gpx",
-    "_geoloc": {
-        "lat": 52.9913145,
-        "lng": -6.9832492
+  "created_at": "2026-10-22T22:28:56.213616+00:00",
+  "objectID": "ef95896b4a03310b0ec356820a85d499",
+  "ref": "athy-canal-and-river-walk",
+  "title": "Athy Canal and River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Approaching_Athy_on_the_waterway.jpg/500px-Approaching_Athy_on_the_waterway.jpg?_=20250605225345",
+  "nearby": [
+    {
+      "description": "Carlow River Barrow Walk",
+      "objectID": "bf7e375d5042b906553402581ce362c3",
+      "ref": "carlow-river-barrow-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Approaching_Athy_on_the_waterway.jpg",
-            "title": "A.-K. D., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Approaching Athy on the waterway. The River Barrow with White Castle in the background."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grand_Canal_lock_27%2C_Athy%2C_Co._Kildare_-_geograph.org.uk_-_7030313.jpg",
-            "title": "Grand Canal lock 27, Athy, Co. Kildare by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Grand Canal lock 27, Athy, Co. Kildare"
-        }
-    ],
-    "distance_km": 1.8,
-    "description": "This circular walk explores the town of Athy in south-west County Kildare. The market town is located at the meeting of the River Barrow and the Grand Canal. As such you can enjoy a nice waterside loop walk taking you along both the river and the canal. The tree-lined sections are remarkably flat and peaceful, offering a chance to spot local wildlife like herons, swans, or even the occasional kingfisher.As you wander the banks, the town’s rich heritage is apparent. You might catch a glimpse of quirky local landmarks like Crom-a-Boo Bridge, named after the ancient war cry of the Fitzgeralds, or the sturdy stone silhouette of White’s Castle, which has stood since the 15th century to guard the river crossing. The town also boasts the Athy Heritage Centre-Museum, home to the world's only permanent exhibition dedicated to polar explorer Ernest Shackleton, who was born nearby.You can extend your walking on theBarrow Wayand theCarlow River Barrow Walk.",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "description": "Clogrennane Woods",
+      "objectID": "0863d9fdf2807f7c59590ea1da9094ef",
+      "ref": "clogrennane-woods-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ef95896b4a03310b0ec356820a85d499.gpx",
+  "_geoloc": {
+    "lat": 52.9913145,
+    "lng": -6.9832492
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Approaching_Athy_on_the_waterway.jpg",
+      "title": "A.-K. D., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Approaching Athy on the waterway. The River Barrow with White Castle in the background."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grand_Canal_lock_27%2C_Athy%2C_Co._Kildare_-_geograph.org.uk_-_7030313.jpg",
+      "title": "Grand Canal lock 27, Athy, Co. Kildare by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Grand Canal lock 27, Athy, Co. Kildare"
+    }
+  ],
+  "distance_km": 1.8,
+  "description": "This circular walk explores the town of Athy in south-west County Kildare. The market town is located at the meeting of the River Barrow and the Grand Canal. As such you can enjoy a nice waterside loop walk taking you along both the river and the canal. The tree-lined sections are remarkably flat and peaceful, offering a chance to spot local wildlife like herons, swans, or even the occasional kingfisher.As you wander the banks, the town\u2019s rich heritage is apparent. You might catch a glimpse of quirky local landmarks like Crom-a-Boo Bridge, named after the ancient war cry of the Fitzgeralds, or the sturdy stone silhouette of White\u2019s Castle, which has stood since the 15th century to guard the river crossing. The town also boasts the Athy Heritage Centre-Museum, home to the world's only permanent exhibition dedicated to polar explorer Ernest Shackleton, who was born nearby.You can extend your walking on theBarrow Wayand theCarlow River Barrow Walk.",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "flat"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "landmark"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

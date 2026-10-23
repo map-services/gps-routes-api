@@ -1,61 +1,79 @@
 {
-    "created_at": "2026-10-22T22:35:31.750638+00:00",
-    "objectID": "3e1dc7d61093ccc2d4051f24e423ae56",
-    "ref": "cruden-bay-to-boddam-lighthouse-walk",
-    "title": "Cruden Bay to Boddam Lighthouse Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/View_of_Cruden_Bay_from_the_estuary..jpg/500px-View_of_Cruden_Bay_from_the_estuary..jpg?20190810170633",
-    "nearby": [
-        {
-            "description": "Slains Castle",
-            "objectID": "6ddd9131bea059fe5a1a6d9a782aeb20",
-            "ref": "slains-castle-walking-route"
-        },
-        {
-            "description": "Bullers Of Buchan",
-            "objectID": "4afd8ea18ff3db1ba0831f3dc318092d",
-            "ref": "bullers-of-buchan-walking-route"
-        },
-        {
-            "description": "Forvie Sands Walk",
-            "objectID": "915e810e6a9d27e81866a086ccf2c42f",
-            "ref": "forvie-sands-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e1dc7d61093ccc2d4051f24e423ae56.gpx",
-    "_geoloc": {
-        "lat": 57.41619,
-        "lng": -1.84647
+  "created_at": "2026-10-22T22:35:31.750638+00:00",
+  "objectID": "3e1dc7d61093ccc2d4051f24e423ae56",
+  "ref": "cruden-bay-to-boddam-lighthouse-walk",
+  "title": "Cruden Bay to Boddam Lighthouse Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/View_of_Cruden_Bay_from_the_estuary..jpg/500px-View_of_Cruden_Bay_from_the_estuary..jpg?20190810170633",
+  "nearby": [
+    {
+      "description": "Slains Castle",
+      "objectID": "6ddd9131bea059fe5a1a6d9a782aeb20",
+      "ref": "slains-castle-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_of_Cruden_Bay_from_the_estuary..jpg",
-            "title": "Mikey Shepherd, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "View of Cruden Bay from the estuary."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Slains_Castle_-_geograph.org.uk_-_573288.jpg?20110206112413",
-            "title": "Lyn Mcleod, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Slains Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bullers_of_Buchan_-_geograph.org.uk_-_6251988.jpg?20240203214345",
-            "title": "Bullers of Buchan by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bullers of Buchan"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Buchan_Ness_Lighthouse%2C_Boddam_-_geograph.org.uk_-_159596.jpg?20100131064433",
-            "title": "Richard Slessor / Buchan Ness Lighthouse, Boddam",
-            "caption": "Buchan Ness Lighthouse, Boddam. This lighthouse was built by Robert Stevenson in 1827. The area is prone to fog and mist so the lighthouse acquired the red stripes in 1907 to help improve its visibility. It has been electrified since 1978 and fully automated since 1988."
-        }
-    ],
-    "distance_km": 13.4,
-    "description": "This walk takes you along the Bucan coast path from Cruden Bay to Boddam in Aberdeenshire. On the way you will pass the historic Slains Castle and the wonderful rock formations at the Bullers Of Buchan. The route follows one of the most dramatic stretches of the Aberdeenshire coastline, with rugged cliffs, sea stacks and caves shaped by centuries of North Sea erosion. It’s an excellent area for spotting seabirds such as kittiwakes, fulmars and puffins in season, while seals and even dolphins are sometimes seen offshore. The path passes through open farmland and heath, with far-reaching views north and south along the coast. Boddam itself is a small fishing village with a working harbour and a fine lighthouse at Buchan Ness marking the easternmost point of mainland Scotland.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/ot0fQldFIdY?si=tzEElBUHF6JfeGvp",
-    "postcode": "AB42 0HE",
-    "district": "Cruden Bay",
-    "county": "Aberdeenshire",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Bullers Of Buchan",
+      "objectID": "4afd8ea18ff3db1ba0831f3dc318092d",
+      "ref": "bullers-of-buchan-walking-route"
+    },
+    {
+      "description": "Forvie Sands Walk",
+      "objectID": "915e810e6a9d27e81866a086ccf2c42f",
+      "ref": "forvie-sands-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e1dc7d61093ccc2d4051f24e423ae56.gpx",
+  "_geoloc": {
+    "lat": 57.41619,
+    "lng": -1.84647
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_of_Cruden_Bay_from_the_estuary..jpg",
+      "title": "Mikey Shepherd, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "View of Cruden Bay from the estuary."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Slains_Castle_-_geograph.org.uk_-_573288.jpg?20110206112413",
+      "title": "Lyn Mcleod, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Slains Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bullers_of_Buchan_-_geograph.org.uk_-_6251988.jpg?20240203214345",
+      "title": "Bullers of Buchan by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bullers of Buchan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Buchan_Ness_Lighthouse%2C_Boddam_-_geograph.org.uk_-_159596.jpg?20100131064433",
+      "title": "Richard Slessor / Buchan Ness Lighthouse, Boddam",
+      "caption": "Buchan Ness Lighthouse, Boddam. This lighthouse was built by Robert Stevenson in 1827. The area is prone to fog and mist so the lighthouse acquired the red stripes in 1907 to help improve its visibility. It has been electrified since 1978 and fully automated since 1988."
+    }
+  ],
+  "distance_km": 13.4,
+  "description": "This walk takes you along the Bucan coast path from Cruden Bay to Boddam in Aberdeenshire. On the way you will pass the historic Slains Castle and the wonderful rock formations at the Bullers Of Buchan. The route follows one of the most dramatic stretches of the Aberdeenshire coastline, with rugged cliffs, sea stacks and caves shaped by centuries of North Sea erosion. It\u2019s an excellent area for spotting seabirds such as kittiwakes, fulmars and puffins in season, while seals and even dolphins are sometimes seen offshore. The path passes through open farmland and heath, with far-reaching views north and south along the coast. Boddam itself is a small fishing village with a working harbour and a fine lighthouse at Buchan Ness marking the easternmost point of mainland Scotland.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/ot0fQldFIdY?si=tzEElBUHF6JfeGvp",
+  "postcode": "AB42 0HE",
+  "district": "Cruden Bay",
+  "county": "Aberdeenshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "heath",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "lighthouse"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

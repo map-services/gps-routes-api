@@ -1,71 +1,89 @@
 {
-    "created_at": "2026-10-22T22:39:06.508116+00:00",
-    "objectID": "cc63bf771d4d66bf2635b3caeb2d7b48",
-    "ref": "goodrington-to-brixham-coastal-walk",
-    "title": "Goodrington to Brixham Coastal Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goodrington_Sands%2C_2006_%2801%29.jpg/500px-Goodrington_Sands%2C_2006_%2801%29.jpg?20250429150049",
-    "nearby": [
-        {
-            "description": "South West Coast Path",
-            "objectID": "a9ba86c11db330fedcf3d619315e5c09",
-            "ref": "south-west-coast-path-walking-route"
-        },
-        {
-            "description": "Thatchers Rock Anstey Cove and Hopes Nose Walk",
-            "objectID": "269b9c6623bde881a9d2a081ffa4e6c5",
-            "ref": "hopes-nose-walk"
-        },
-        {
-            "description": "Berry Head Country Park",
-            "objectID": "5ff43fe6088009d123dfc33c1e5a3f9b",
-            "ref": "berry-head-country-park-walking-route"
-        },
-        {
-            "description": "Brixham to Dartmouth",
-            "objectID": "f4e78af21d0ac391ad27942c0e383df9",
-            "ref": "brixham-to-dartmouth-walking-route"
-        },
-        {
-            "description": "Torquay Rock Walk",
-            "objectID": "8fec078f4352d5d7d072f57dbbeee3e1",
-            "ref": "torquay-rock-walk-walking-route"
-        },
-        {
-            "description": "Torquay to Babbacombe",
-            "objectID": "d4b6bd43a51e2ec3879fdf163191a51c",
-            "ref": "torquay-to-babbacombe-walking-route"
-        },
-        {
-            "description": "Torquay to Teignmouth Coastal Walk",
-            "objectID": "415b1e8b5d3d36d610513428bb94abc9",
-            "ref": "torquay-to-teignmouth-coastal-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cc63bf771d4d66bf2635b3caeb2d7b48.gpx",
-    "_geoloc": {
-        "lat": 50.4249964043,
-        "lng": -3.5597667068
+  "created_at": "2026-10-22T22:39:06.508116+00:00",
+  "objectID": "cc63bf771d4d66bf2635b3caeb2d7b48",
+  "ref": "goodrington-to-brixham-coastal-walk",
+  "title": "Goodrington to Brixham Coastal Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goodrington_Sands%2C_2006_%2801%29.jpg/500px-Goodrington_Sands%2C_2006_%2801%29.jpg?20250429150049",
+  "nearby": [
+    {
+      "description": "South West Coast Path",
+      "objectID": "a9ba86c11db330fedcf3d619315e5c09",
+      "ref": "south-west-coast-path-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Goodrington_Sands%2C_2006_%2801%29.jpg",
-            "title": "Bahnfrend, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Goodrington Sands"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brixham_harbour_-_geograph.org.uk_-_1498760.jpg?20110302164549",
-            "title": "Steve Daniels / Brixham harbour",
-            "caption": "Brixham harbour"
-        }
-    ],
-    "distance_km": 6.4,
-    "description": "This coastal walk takes you from Goodrington Sands to Brixham along a section of the South West Coast Path. The route runs for about 4 miles following a fairly flat path with some small climbs. You can begin from the car park and visitor centre at Goodrington Sands and head south towards Broadsands Beach. From here the route follows a clifftop path above the shoreline, with continuous views across Tor Bay as the ground rises gently. The trail then passes into the wooded slopes behind Broadsands, offering some shelter from the wind before emerging again close to the headland.At Churston Point the coast takes on a wilder character, with rocky outcrops, hidden coves and clear views across to Brixham and Berry Head. The mix of woodland, scrub and open coast provides good habitat for common coastal birds, while cormorants and shags are often seen resting on the rocks below.After rounding the point the path drops down towards the edge of Brixham, passing further scenic stretches of shoreline before arriving at the harbour. The walk finishes among the fishing boats, quays and waterfront buildings at the heart of the town.You could extend the walk by visitingBerry Head Country Park.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/lzhoHUQvG2o?si=0vh1dJkzoI5tVJRb",
-    "postcode": "TQ4 6LP",
-    "district": "Paignton",
-    "county": "Torbay",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Thatchers Rock Anstey Cove and Hopes Nose Walk",
+      "objectID": "269b9c6623bde881a9d2a081ffa4e6c5",
+      "ref": "hopes-nose-walk"
+    },
+    {
+      "description": "Berry Head Country Park",
+      "objectID": "5ff43fe6088009d123dfc33c1e5a3f9b",
+      "ref": "berry-head-country-park-walking-route"
+    },
+    {
+      "description": "Brixham to Dartmouth",
+      "objectID": "f4e78af21d0ac391ad27942c0e383df9",
+      "ref": "brixham-to-dartmouth-walking-route"
+    },
+    {
+      "description": "Torquay Rock Walk",
+      "objectID": "8fec078f4352d5d7d072f57dbbeee3e1",
+      "ref": "torquay-rock-walk-walking-route"
+    },
+    {
+      "description": "Torquay to Babbacombe",
+      "objectID": "d4b6bd43a51e2ec3879fdf163191a51c",
+      "ref": "torquay-to-babbacombe-walking-route"
+    },
+    {
+      "description": "Torquay to Teignmouth Coastal Walk",
+      "objectID": "415b1e8b5d3d36d610513428bb94abc9",
+      "ref": "torquay-to-teignmouth-coastal-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cc63bf771d4d66bf2635b3caeb2d7b48.gpx",
+  "_geoloc": {
+    "lat": 50.4249964043,
+    "lng": -3.5597667068
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Goodrington_Sands%2C_2006_%2801%29.jpg",
+      "title": "Bahnfrend, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Goodrington Sands"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brixham_harbour_-_geograph.org.uk_-_1498760.jpg?20110302164549",
+      "title": "Steve Daniels / Brixham harbour",
+      "caption": "Brixham harbour"
+    }
+  ],
+  "distance_km": 6.4,
+  "description": "This coastal walk takes you from Goodrington Sands to Brixham along a section of the South West Coast Path. The route runs for about 4 miles following a fairly flat path with some small climbs. You can begin from the car park and visitor centre at Goodrington Sands and head south towards Broadsands Beach. From here the route follows a clifftop path above the shoreline, with continuous views across Tor Bay as the ground rises gently. The trail then passes into the wooded slopes behind Broadsands, offering some shelter from the wind before emerging again close to the headland.At Churston Point the coast takes on a wilder character, with rocky outcrops, hidden coves and clear views across to Brixham and Berry Head. The mix of woodland, scrub and open coast provides good habitat for common coastal birds, while cormorants and shags are often seen resting on the rocks below.After rounding the point the path drops down towards the edge of Brixham, passing further scenic stretches of shoreline before arriving at the harbour. The walk finishes among the fishing boats, quays and waterfront buildings at the heart of the town.You could extend the walk by visitingBerry Head Country Park.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/lzhoHUQvG2o?si=0vh1dJkzoI5tVJRb",
+  "postcode": "TQ4 6LP",
+  "district": "Paignton",
+  "county": "Torbay",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "harbour"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

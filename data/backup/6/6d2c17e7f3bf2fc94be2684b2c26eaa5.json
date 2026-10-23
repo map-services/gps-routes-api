@@ -1,39 +1,57 @@
 {
-    "created_at": "2026-10-22T21:41:26.714210+00:00",
-    "objectID": "6d2c17e7f3bf2fc94be2684b2c26eaa5",
-    "ref": "king-alfreds-tower-walk",
-    "title": "King Alfred's Tower Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/King_Alfred%27s_Tower_%284546584778%29.jpg/500px-King_Alfred%27s_Tower_%284546584778%29.jpg?20201110172220",
-    "nearby": [
-        {
-            "description": "Stourhead",
-            "objectID": "a0d7ddc5c07758cf0e870e6b074aabf6",
-            "ref": "stourhead-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d2c17e7f3bf2fc94be2684b2c26eaa5.gpx",
-    "_geoloc": {
-        "lat": 51.1163357673,
-        "lng": -2.3601856046
+  "created_at": "2026-10-22T21:41:26.714210+00:00",
+  "objectID": "6d2c17e7f3bf2fc94be2684b2c26eaa5",
+  "ref": "king-alfreds-tower-walk",
+  "title": "King Alfred's Tower Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/King_Alfred%27s_Tower_%284546584778%29.jpg/500px-King_Alfred%27s_Tower_%284546584778%29.jpg?20201110172220",
+  "nearby": [
+    {
+      "description": "Stourhead",
+      "objectID": "a0d7ddc5c07758cf0e870e6b074aabf6",
+      "ref": "stourhead-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d2c17e7f3bf2fc94be2684b2c26eaa5.gpx",
+  "_geoloc": {
+    "lat": 51.1163357673,
+    "lng": -2.3601856046
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/King_Alfred%27s_Tower_%284546584778%29.jpg",
+      "title": "Marilyn Peddle from England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "King Alfred's Tower"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/King_Alfred%27s_Tower_%284546584778%29.jpg",
-            "title": "Marilyn Peddle from England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "King Alfred's Tower"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/South_Somerset_%2C_King_Alfred%27s_Tower_View_-_geograph.org.uk_-_5957139.jpg",
-            "title": "South Somerset : King Alfred's Tower View by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "South Somerset : King Alfred's Tower View"
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This circular walk climbs to King Alfred's Tower on the Stourhead Estate in Wiltshire. The walk starts from the parking area just below the tower on the north western edge of the estate. From here you can pick up footpaths to climb to the tower where you can enjoy some wonderful views over the surrounding countryside and the rest of the lovely estate. The folly was made for Henry Hoare II in 1772 and is historically significant. It marks the spot where King Alfred the Great rallied his troops in 878 and commemorates the end of the Seven Years War. After taking in the views the walk descends to explore the woodland and lakes of the wider estate. You will also pass the Park Hill Iron Age Hillfort in this area.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/b_ZwmLK4P1I?si=Cuy2HNxsCaHf4szW",
-    "county": "Wiltshire",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/South_Somerset_%2C_King_Alfred%27s_Tower_View_-_geograph.org.uk_-_5957139.jpg",
+      "title": "South Somerset : King Alfred's Tower View by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "South Somerset : King Alfred's Tower View"
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This circular walk climbs to King Alfred's Tower on the Stourhead Estate in Wiltshire. The walk starts from the parking area just below the tower on the north western edge of the estate. From here you can pick up footpaths to climb to the tower where you can enjoy some wonderful views over the surrounding countryside and the rest of the lovely estate. The folly was made for Henry Hoare II in 1772 and is historically significant. It marks the spot where King Alfred the Great rallied his troops in 878 and commemorates the end of the Seven Years War. After taking in the views the walk descends to explore the woodland and lakes of the wider estate. You will also pass the Park Hill Iron Age Hillfort in this area.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/b_ZwmLK4P1I?si=Cuy2HNxsCaHf4szW",
+  "county": "Wiltshire",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "hillfort"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

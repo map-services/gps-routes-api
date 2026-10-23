@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Veue_d%27Souoth%C3%A9_Saint_Jean_J%C3%A8rri.jpg/960px-Veue_d%27Souoth%C3%A9_Saint_Jean_J%C3%A8rri.jpg",
       "title": "Man vyi, Public domain, via Wikimedia Commons",
-      "caption": "Veue d'Souothé Saint Jean Jèrri"
+      "caption": "Veue d'Souoth\u00e9 Saint Jean J\u00e8rri"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Saint_John_-_Sorel_Point_20190102-01.jpg/960px-Saint_John_-_Sorel_Point_20190102-01.jpg",
@@ -54,8 +54,27 @@
     }
   ],
   "distance_km": 1.9,
-  "description": "This north coast walk begins at the wind-swept headland of Sorel Point, where the lookout provides expansive views over the Paternosters reef and toward the French coast. From the car park, you join the rugged cliff path heading west, traversing a landscape of open heathland and granite outcrops. The trail stays high above the ocean, offering some of the most dramatic sea views on the island as it winds toward the deep, green slopes of Mourier Valley.The path descends into the valley, where a small stream meets the sea, before climbing steeply back up the opposite side toward the Crabbé area. This stretch is known for its wild, untamed feel and is a prime spot for observing the island's conservation grazing sheep along the cliff edges. As you approach the end of the route, the trail leads you to the entrance of Devil’s Hole, a natural blowhole where the sea has eroded a massive cavern into the cliffs. The walk concludes at the viewing platform overlooking the crashing waves below, just a short distance from the Priory Inn.You can continue your walking on theGreve De Lecq to Devils Hole Walk.",
+  "description": "This north coast walk begins at the wind-swept headland of Sorel Point, where the lookout provides expansive views over the Paternosters reef and toward the French coast. From the car park, you join the rugged cliff path heading west, traversing a landscape of open heathland and granite outcrops. The trail stays high above the ocean, offering some of the most dramatic sea views on the island as it winds toward the deep, green slopes of Mourier Valley.The path descends into the valley, where a small stream meets the sea, before climbing steeply back up the opposite side toward the Crabb\u00e9 area. This stretch is known for its wild, untamed feel and is a prime spot for observing the island's conservation grazing sheep along the cliff edges. As you approach the end of the route, the trail leads you to the entrance of Devil\u2019s Hole, a natural blowhole where the sea has eroded a massive cavern into the cliffs. The walk concludes at the viewing platform overlooking the crashing waves below, just a short distance from the Priory Inn.You can continue your walking on theGreve De Lecq to Devils Hole Walk.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/iVme7l5KthQ?si=FE4obCeCE8B5jPb_",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "cliff",
+    "granite outcrop"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "natural blowhole"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

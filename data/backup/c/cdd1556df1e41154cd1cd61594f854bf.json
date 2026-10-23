@@ -1,54 +1,69 @@
 {
-    "created_at": "2026-10-22T21:43:16.097386+00:00",
-    "objectID": "cdd1556df1e41154cd1cd61594f854bf",
-    "ref": "linn-jaw-waterfall-walking-route",
-    "title": "Linn Jaw Waterfall Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Linn_Jaw_Waterfall_%2826909315159%29.jpg/500px-Linn_Jaw_Waterfall_%2826909315159%29.jpg?20211128020810",
-    "nearby": [
-        {
-            "description": "Harperrig Reservoir",
-            "objectID": "490e0ce2d18f6fda7299614c2b23a95b",
-            "ref": "harperrig-reservoir-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdd1556df1e41154cd1cd61594f854bf.gpx",
-    "_geoloc": {
-        "lat": 55.84844,
-        "lng": -3.50263
+  "created_at": "2026-10-22T21:43:16.097386+00:00",
+  "objectID": "cdd1556df1e41154cd1cd61594f854bf",
+  "ref": "linn-jaw-waterfall-walking-route",
+  "title": "Linn Jaw Waterfall Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Linn_Jaw_Waterfall_%2826909315159%29.jpg/500px-Linn_Jaw_Waterfall_%2826909315159%29.jpg?20211128020810",
+  "nearby": [
+    {
+      "description": "Harperrig Reservoir",
+      "objectID": "490e0ce2d18f6fda7299614c2b23a95b",
+      "ref": "harperrig-reservoir-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdd1556df1e41154cd1cd61594f854bf.gpx",
+  "_geoloc": {
+    "lat": 55.84844,
+    "lng": -3.50263
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Linn_Jaw_Waterfall_%2826909315159%29.jpg",
+      "title": "ian_woodhead1, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Linn Jaw Waterfall"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Linn_Jaw_Waterfall_%2826909315159%29.jpg",
-            "title": "ian_woodhead1, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Linn Jaw Waterfall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_confluence_of_Bents_Burn_and_Camilty_Water_-_geograph.org.uk_-_2346382.jpg",
-            "title": "The confluence of Bents Burn and Camilty Water by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The confluence of Bents Burn and Camilty Water"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Linhouse_Water_%2840483395811%29.jpg",
-            "title": "ian_woodhead1, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-            "caption": "Linhouse Water"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Water_of_Camilty_-_geograph.org.uk_-_6294031.jpg?20240505210625",
-            "title": "Water of Camilty by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Water of Camilty"
-        }
-    ],
-    "distance_km": 1.4,
-    "description": "This short walk visits the Linn Jaw Waterfall in the Pentland Hills area of the Central Scotland Forest. The falls are located just south of Livingston in a lovely peaceful spot. There is a footpath heading east from a country lane to the falls with views of the pretty Bents Burn and Camilty Water. It's a delightful area with further views of the surrounding countryside and hills to enjoy on the walk. You can continue your walking by heading south east to visit the waterside trails at Harperrig Reservoir .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For more walking ideas in the area see the Pentland Hills Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/40pQvToJIZ8?si=LUVO6_Sblc8NzHoi",
-    "county": "West Lothian",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_confluence_of_Bents_Burn_and_Camilty_Water_-_geograph.org.uk_-_2346382.jpg",
+      "title": "The confluence of Bents Burn and Camilty Water by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The confluence of Bents Burn and Camilty Water"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Linhouse_Water_%2840483395811%29.jpg",
+      "title": "ian_woodhead1, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "caption": "Linhouse Water"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Water_of_Camilty_-_geograph.org.uk_-_6294031.jpg?20240505210625",
+      "title": "Water of Camilty by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Water of Camilty"
+    }
+  ],
+  "distance_km": 1.4,
+  "description": "This short walk visits the Linn Jaw Waterfall in the Pentland Hills area of the Central Scotland Forest. The falls are located just south of Livingston in a lovely peaceful spot. There is a footpath heading east from a country lane to the falls with views of the pretty Bents Burn and Camilty Water. It's a delightful area with further views of the surrounding countryside and hills to enjoy on the walk. You can continue your walking by heading south east to visit the waterside trails at Harperrig Reservoir .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Pentland Hills Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/40pQvToJIZ8?si=LUVO6_Sblc8NzHoi",
+  "county": "West Lothian",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "reservoir"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

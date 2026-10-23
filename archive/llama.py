@@ -81,7 +81,7 @@ for file in tqdm(
             continue
 
         document = f"""
-{record["title"]} ({record["distance_km"]} km)
+{record["title"]} ({record.get("distance_km", "-UNKNOWN-")} km)
 {record.get("display_address", "")}
 
 {record["description"]}

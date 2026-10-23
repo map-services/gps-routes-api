@@ -1,64 +1,83 @@
 {
-    "created_at": "2026-10-22T21:49:40.307036+00:00",
-    "objectID": "8f487dc1d24b966e5555668d474c2896",
-    "ref": "nomansland-common-walk",
-    "title": "Nomansland Common Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg/500px-Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg?20200229094833",
-    "nearby": [
-        {
-            "description": "Heartwood Forest",
-            "objectID": "607313ed9749a21978375cc5bf67e67e",
-            "ref": "heartwood-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Harpenden",
-            "objectID": "c550eb5ca4c4095572fce0e82d009e79",
-            "ref": "harpenden-walking-route"
-        },
-        {
-            "description": "Wheathampstead",
-            "objectID": "14996e614698e6b9b4b985b81e4efba5",
-            "ref": "wheathampstead-walking-route"
-        },
-        {
-            "description": "Sandridge",
-            "objectID": "66024b23fb210dee5bd138981a8e4f74",
-            "ref": "sandridge-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8f487dc1d24b966e5555668d474c2896.gpx",
-    "_geoloc": {
-        "lat": 51.797612627,
-        "lng": -0.3039168118
+  "created_at": "2026-10-22T21:49:40.307036+00:00",
+  "objectID": "8f487dc1d24b966e5555668d474c2896",
+  "ref": "nomansland-common-walk",
+  "title": "Nomansland Common Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg/500px-Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg?20200229094833",
+  "nearby": [
+    {
+      "description": "Heartwood Forest",
+      "objectID": "607313ed9749a21978375cc5bf67e67e",
+      "ref": "heartwood-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg",
-            "title": "Bikeboy / Nomansland Common",
-            "caption": "Nomansland Common"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Wicked_Lady_Pub_-_Nomansland_Common_-_geograph.org.uk_-_384234.jpg?20110203153434",
-            "title": "Marcus de Figueiredo / The Wicked Lady Pub - Nomansland Common",
-            "caption": "The Wicked Lady Pub"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Wildflower_meadow%2C_Heartwood_Forest_%2828861233370%29.jpg",
-            "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wildflower meadow, Heartwood Forest (28861233370)"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sandridge%2C_Nomansland_Common_-_geograph.org.uk_-_3703744.jpg?20220818114254",
-            "title": "Sandridge: Nomansland Common by Nigel Cox, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sandridge: Nomansland Common"
-        }
-    ],
-    "distance_km": 5.9,
-    "description": "This circular walk explores Nomansland Common in the Heartwood Forest area of Hertfordshire. The common is located just to the south of Wheathampstead and Harpenden in the village of Nomansland. It includes a series of pleasant footpaths taking you through peaceful heathland and woodland with a number of sculptures to see along the way. The common is a popular spot for dog walkers and has a car park at the northern end of the route on Ferrers Lane. Just to the north east of here there's the Wicked Lady pub for some post walk refreshments - you can find them at postcode AL4 8EL. You can also access the common at the southern side from Sandridge .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/WjUwvanQd9I?si=CYmOGNdTFD1fwuyS",
-    "county": "Hertfordshire",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Harpenden",
+      "objectID": "c550eb5ca4c4095572fce0e82d009e79",
+      "ref": "harpenden-walking-route"
+    },
+    {
+      "description": "Wheathampstead",
+      "objectID": "14996e614698e6b9b4b985b81e4efba5",
+      "ref": "wheathampstead-walking-route"
+    },
+    {
+      "description": "Sandridge",
+      "objectID": "66024b23fb210dee5bd138981a8e4f74",
+      "ref": "sandridge-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8f487dc1d24b966e5555668d474c2896.gpx",
+  "_geoloc": {
+    "lat": 51.797612627,
+    "lng": -0.3039168118
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nomansland_Common%2C_Hertfordshire_-_geograph-3428612.jpg",
+      "title": "Bikeboy / Nomansland Common",
+      "caption": "Nomansland Common"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Wicked_Lady_Pub_-_Nomansland_Common_-_geograph.org.uk_-_384234.jpg?20110203153434",
+      "title": "Marcus de Figueiredo / The Wicked Lady Pub - Nomansland Common",
+      "caption": "The Wicked Lady Pub"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Wildflower_meadow%2C_Heartwood_Forest_%2828861233370%29.jpg",
+      "title": "Peter O'Connor aka anemoneprojectors, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wildflower meadow, Heartwood Forest (28861233370)"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sandridge%2C_Nomansland_Common_-_geograph.org.uk_-_3703744.jpg?20220818114254",
+      "title": "Sandridge: Nomansland Common by Nigel Cox, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sandridge: Nomansland Common"
+    }
+  ],
+  "distance_km": 5.9,
+  "description": "This circular walk explores Nomansland Common in the Heartwood Forest area of Hertfordshire. The common is located just to the south of Wheathampstead and Harpenden in the village of Nomansland. It includes a series of pleasant footpaths taking you through peaceful heathland and woodland with a number of sculptures to see along the way. The common is a popular spot for dog walkers and has a car park at the northern end of the route on Ferrers Lane. Just to the north east of here there's the Wicked Lady pub for some post walk refreshments - you can find them at postcode AL4 8EL. You can also access the common at the southern side from Sandridge .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/WjUwvanQd9I?si=CYmOGNdTFD1fwuyS",
+  "county": "Hertfordshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculpture"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

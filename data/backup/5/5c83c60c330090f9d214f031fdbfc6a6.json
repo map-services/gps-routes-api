@@ -1,50 +1,65 @@
 {
-    "created_at": "2026-10-22T21:16:03.655746+00:00",
-    "objectID": "5c83c60c330090f9d214f031fdbfc6a6",
-    "ref": "brockenhurst-to-beaulieu-walk",
-    "title": "Brockenhurst to Beaulieu Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg/500px-Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg?20220225221729",
-    "nearby": [
-        {
-            "description": "Beaulieu to Bucklers Hard Circular Walk",
-            "objectID": "0252332f3b21d5a4605d753840f0209c",
-            "ref": "beaulieu-river-walking-route"
-        },
-        {
-            "description": "Brockenhurst to Lyndhurst Walk",
-            "objectID": "af40df978b55fa4969cbd74077f7a25a",
-            "ref": "brockenhurst-to-lyndhurst-walk-walking-route"
-        },
-        {
-            "description": "Lymington to Beaulieu Walk",
-            "objectID": "2a4b0e08b1c4538fc1dbf2a44feade85",
-            "ref": "lymington-to-beaulieu-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5c83c60c330090f9d214f031fdbfc6a6.gpx",
-    "_geoloc": {
-        "lat": 50.81899,
-        "lng": -1.57504
+  "created_at": "2026-10-22T21:16:03.655746+00:00",
+  "objectID": "5c83c60c330090f9d214f031fdbfc6a6",
+  "ref": "brockenhurst-to-beaulieu-walk",
+  "title": "Brockenhurst to Beaulieu Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg/500px-Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg?20220225221729",
+  "nearby": [
+    {
+      "description": "Beaulieu to Bucklers Hard Circular Walk",
+      "objectID": "0252332f3b21d5a4605d753840f0209c",
+      "ref": "beaulieu-river-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg",
-            "title": "Brockenhurst Bridge by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Brockenhurst Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Beaulieu_and_the_Beaulieu_River_-_geograph.org.uk_-_5434388.jpg?20230912061701",
-            "title": "Beaulieu and the Beaulieu River by David Lewis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Beaulieu and the Beaulieu River"
-        }
-    ],
-    "distance_km": 12.0,
-    "description": "This New Forest walk takes you from Brockenhurst to Beaulieu. The walk runs about 7.5 miles following country lanes and forest tracks between the two popular settlements. It's a fairly flat and peaceful walk, passing East Boldre and the lovely Hatchet Pond where there are some nice waterside trails. At the end of the route you can pick up the Beaulieu to Bucklers Hard Circular Walk and enjoy some pleasant riverside trails.",
-    "details": [],
-    "postcode": "SO42 7AE",
-    "district": "Brockenhurst",
-    "county": "Hampshire",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Brockenhurst to Lyndhurst Walk",
+      "objectID": "af40df978b55fa4969cbd74077f7a25a",
+      "ref": "brockenhurst-to-lyndhurst-walk-walking-route"
+    },
+    {
+      "description": "Lymington to Beaulieu Walk",
+      "objectID": "2a4b0e08b1c4538fc1dbf2a44feade85",
+      "ref": "lymington-to-beaulieu-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5c83c60c330090f9d214f031fdbfc6a6.gpx",
+  "_geoloc": {
+    "lat": 50.81899,
+    "lng": -1.57504
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brockenhurst_Bridge_-_geograph.org.uk_-_3224951.jpg",
+      "title": "Brockenhurst Bridge by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Brockenhurst Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Beaulieu_and_the_Beaulieu_River_-_geograph.org.uk_-_5434388.jpg?20230912061701",
+      "title": "Beaulieu and the Beaulieu River by David Lewis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Beaulieu and the Beaulieu River"
+    }
+  ],
+  "distance_km": 12.0,
+  "description": "This New Forest walk takes you from Brockenhurst to Beaulieu. The walk runs about 7.5 miles following country lanes and forest tracks between the two popular settlements. It's a fairly flat and peaceful walk, passing East Boldre and the lovely Hatchet Pond where there are some nice waterside trails. At the end of the route you can pick up the Beaulieu to Bucklers Hard Circular Walk and enjoy some pleasant riverside trails.",
+  "details": [],
+  "postcode": "SO42 7AE",
+  "district": "Brockenhurst",
+  "county": "Hampshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "forest",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "waterside trail"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

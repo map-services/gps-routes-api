@@ -18,7 +18,7 @@
     {
       "description": "Abriachan Forest",
       "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan forest-walking-route"
+      "ref": "abriachan\u00a0forest-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b7b5ef787a778f413b27e362c5706281.gpx",
@@ -30,17 +30,17 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Glen_Strathfarrar_-_geograph.org.uk_-_1523922.jpg?20110303031849",
       "title": "sylvia duckworth / Glen Strathfarrar",
-      "caption": "Glen Strathfarrar. The glen is flanked by several notable mountains, many of which attract walkers. To the north, the Munros include Sgùrr a' Choire Ghlais, Sgurr Fhuar-thuill, Càrn nan Gobhar, and Sgurr na Ruaidhe, while to the south stand Sgùrr na Lapaich, another Càrn nan Gobhar, An Riabhachan, and An Socach. Two Corbetts, Beinn a' Bha'ach Ard and Sgorr na Dìollaid, are also found in the area."
+      "caption": "Glen Strathfarrar. The glen is flanked by several notable mountains, many of which attract walkers. To the north, the Munros include Sg\u00f9rr a' Choire Ghlais, Sgurr Fhuar-thuill, C\u00e0rn nan Gobhar, and Sgurr na Ruaidhe, while to the south stand Sg\u00f9rr na Lapaich, another C\u00e0rn nan Gobhar, An Riabhachan, and An Socach. Two Corbetts, Beinn a' Bha'ach Ard and Sgorr na D\u00ecollaid, are also found in the area."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Glen_Strathfarrar_-_geograph.org.uk_-_446628.jpg?20110204112756",
       "title": "Richard Webb / Glen Strathfarrar",
-      "caption": "Glen Strathfarrar surfaced trail. The road passing between a knoll and the north side of the glen under Chreag a' Choin Dubh. Since the late 18th century, commercial logging—particularly during the world wars—and human activity have led to significant degradation of the woodland. In addition to pine, the landscape includes birch woodland, as well as open expanses of heather, bracken, and grassland."
+      "caption": "Glen Strathfarrar surfaced trail. The road passing between a knoll and the north side of the glen under Chreag a' Choin Dubh. Since the late 18th century, commercial logging\u2014particularly during the world wars\u2014and human activity have led to significant degradation of the woodland. In addition to pine, the landscape includes birch woodland, as well as open expanses of heather, bracken, and grassland."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/River_Farrar._-_geograph.org.uk_-_1520868.jpg?20110303040419",
       "title": "sylvia duckworth / River Farrar.",
-      "caption": "River Farrar. The river originates where the Uisge Misgeach and Garbh-uisge converge, approximately 2 km after the latter flows out of Loch Monar. It follows a winding path through the glen’s flat valley floor, moving eastward through Loch a' Mhuillidh and the dammed Loch Beannacharan, which forms part of the Affric-Beauly hydro-electric power scheme. Continuing east, the river cascades over Culligran Falls before joining the River Glass below Struy Bridge, near the village of Struy, to form the River Beauly."
+      "caption": "River Farrar. The river originates where the Uisge Misgeach and Garbh-uisge converge, approximately 2 km after the latter flows out of Loch Monar. It follows a winding path through the glen\u2019s flat valley floor, moving eastward through Loch a' Mhuillidh and the dammed Loch Beannacharan, which forms part of the Affric-Beauly hydro-electric power scheme. Continuing east, the river cascades over Culligran Falls before joining the River Glass below Struy Bridge, near the village of Struy, to form the River Beauly."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Loch_Monar_Dam_-_geograph.org.uk_-_467493.jpg?20110204190714",
@@ -49,7 +49,7 @@
     }
   ],
   "distance_km": 46.0,
-  "description": "This walk or cycle takes you through Glen Strathfarrar in the Highland region of Scotland, near Loch Ness. The route follows the Glenstrathfarrar Road west along the River Farrar from Struy Bridge to Loch Monar with its impressive dam. As you pass through the glen you can enjoy some wonderful views of the surrounding mountains and countryside. Glen Strathfarrar is also home to patches of Caledonian Forest, remnants of Scotland’s ancient temperate rainforest, primarily consisting of Scots pine that established itself after the last Ice Age 8,000–10,000 years ago. This ecosystem supports key species such as capercaillie, crested tit, and the endemic Scottish crossbill. The area is rich in other wildlife, with red deer, otters, and golden eagles present, alongside several species of dragonflies. You can extend your walk by heading south to explore Glen Cannich .",
+  "description": "This walk or cycle takes you through Glen Strathfarrar in the Highland region of Scotland, near Loch Ness. The route follows the Glenstrathfarrar Road west along the River Farrar from Struy Bridge to Loch Monar with its impressive dam. As you pass through the glen you can enjoy some wonderful views of the surrounding mountains and countryside. Glen Strathfarrar is also home to patches of Caledonian Forest, remnants of Scotland\u2019s ancient temperate rainforest, primarily consisting of Scots pine that established itself after the last Ice Age 8,000\u201310,000 years ago. This ecosystem supports key species such as capercaillie, crested tit, and the endemic Scottish crossbill. The area is rich in other wildlife, with red deer, otters, and golden eagles present, alongside several species of dragonflies. You can extend your walk by heading south to explore Glen Cannich .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/WPq46arlKfI?si=kjAwuoQEGSspf676",
   "postcode": "IV4 7JT",
@@ -57,5 +57,21 @@
   "county": "Highland",
   "region": "Scotland",
   "country": "Scotland",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2.5 to 3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "dam"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

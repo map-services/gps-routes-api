@@ -1,54 +1,73 @@
 {
-    "created_at": "2026-10-22T22:39:53.509423+00:00",
-    "objectID": "b6cdb08ff7cf5955c553f5d95c61fdff",
-    "ref": "handa-island-walk",
-    "title": "Handa Island Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg/500px-North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg?20220209023406",
-    "nearby": [
-        {
-            "description": "Clashnessie Falls",
-            "objectID": "effa8ef927386edf031c5fe7b3dab858",
-            "ref": "clashnessie-falls-walking-route"
-        },
-        {
-            "description": "Smoo Cave",
-            "objectID": "833fa4a5a485718f5413f464941e5388",
-            "ref": "smoo-cave-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b6cdb08ff7cf5955c553f5d95c61fdff.gpx",
-    "_geoloc": {
-        "lat": 58.377433,
-        "lng": -5.170299
+  "created_at": "2026-10-22T22:39:53.509423+00:00",
+  "objectID": "b6cdb08ff7cf5955c553f5d95c61fdff",
+  "ref": "handa-island-walk",
+  "title": "Handa Island Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg/500px-North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg?20220209023406",
+  "nearby": [
+    {
+      "description": "Clashnessie Falls",
+      "objectID": "effa8ef927386edf031c5fe7b3dab858",
+      "ref": "clashnessie-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg",
-            "title": "North coast of Handa by AlastairG, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "North coast of Handa"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Leaving_Handa_Island_-_geograph.org.uk_-_3605043.jpg?20220623093000",
-            "title": "Leaving Handa Island by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Leaving Handa Island"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Great_Stack_on_Handa_Island_-_geograph.org.uk_-_3604944.jpg?20220623090217",
-            "title": "The Great Stack on Handa Island by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Great Stack on Handa Island"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Razorbills_on_Handa_Island_-_geograph.org.uk_-_767610.jpg?20110219192022",
-            "title": "sylvia duckworth / Razorbills on Handa Island",
-            "caption": "Razorbills on Handa Island"
-        }
-    ],
-    "distance_km": 6.6,
-    "description": "This walk explores Handa Island, a small wildlife reserve off the northwest coast of Sutherland in the Highlands of Scotland. The island is reached by a short passenger ferry from Tarbet, a tiny hamlet about four miles north of Scourie. The ferry crossing takes just a few minutes and lands on a sandy beach on the island’s south side, where visitors are greeted by reserve staff and given a short briefing about the island’s paths and wildlife.From the landing point, a circular trail runs around the island, following boardwalks and well-marked tracks across heather moorland and grassland. The route leads first towards the east coast before climbing gently to the dramatic sea cliffs on the north and west sides. These cliffs rise over 100 metres and provide nesting ledges for thousands of seabirds, including puffins, guillemots, razorbills, and kittiwakes during the breeding season.Along the walk there are wide views across to the mainland, including Quinag and Ben Stack, while to the west the Atlantic stretches towards the Outer Hebrides. Inland, the moorland is dotted with wildflowers and frequented by great skuas, known locally as bonxies. The circuit eventually returns to the landing beach, where the ferry departs back to Tarbet. Handa offers one of the best short walks in the Highlands for scenery and birdlife, combining coastal beauty with a sense of isolation and unspoiled nature.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/q7dlE-00qy0?si=CwG9ofS5GDIzm_Sr",
-    "county": "Highland",
-    "region": "Scotland",
-    "country": "Scotland",
-    "gazetteer_found": true
+    {
+      "description": "Smoo Cave",
+      "objectID": "833fa4a5a485718f5413f464941e5388",
+      "ref": "smoo-cave-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b6cdb08ff7cf5955c553f5d95c61fdff.gpx",
+  "_geoloc": {
+    "lat": 58.377433,
+    "lng": -5.170299
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/North_coast_of_Handa_-_geograph.org.uk_-_3204917.jpg",
+      "title": "North coast of Handa by AlastairG, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "North coast of Handa"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Leaving_Handa_Island_-_geograph.org.uk_-_3605043.jpg?20220623093000",
+      "title": "Leaving Handa Island by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Leaving Handa Island"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Great_Stack_on_Handa_Island_-_geograph.org.uk_-_3604944.jpg?20220623090217",
+      "title": "The Great Stack on Handa Island by Mary and Angus Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Great Stack on Handa Island"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Razorbills_on_Handa_Island_-_geograph.org.uk_-_767610.jpg?20110219192022",
+      "title": "sylvia duckworth / Razorbills on Handa Island",
+      "caption": "Razorbills on Handa Island"
+    }
+  ],
+  "distance_km": 6.6,
+  "description": "This walk explores Handa Island, a small wildlife reserve off the northwest coast of Sutherland in the Highlands of Scotland. The island is reached by a short passenger ferry from Tarbet, a tiny hamlet about four miles north of Scourie. The ferry crossing takes just a few minutes and lands on a sandy beach on the island\u2019s south side, where visitors are greeted by reserve staff and given a short briefing about the island\u2019s paths and wildlife.From the landing point, a circular trail runs around the island, following boardwalks and well-marked tracks across heather moorland and grassland. The route leads first towards the east coast before climbing gently to the dramatic sea cliffs on the north and west sides. These cliffs rise over 100 metres and provide nesting ledges for thousands of seabirds, including puffins, guillemots, razorbills, and kittiwakes during the breeding season.Along the walk there are wide views across to the mainland, including Quinag and Ben Stack, while to the west the Atlantic stretches towards the Outer Hebrides. Inland, the moorland is dotted with wildflowers and frequented by great skuas, known locally as bonxies. The circuit eventually returns to the landing beach, where the ferry departs back to Tarbet. Handa offers one of the best short walks in the Highlands for scenery and birdlife, combining coastal beauty with a sense of isolation and unspoiled nature.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/q7dlE-00qy0?si=CwG9ofS5GDIzm_Sr",
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "moorland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "sea cliff",
+    "wildlife reserve"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

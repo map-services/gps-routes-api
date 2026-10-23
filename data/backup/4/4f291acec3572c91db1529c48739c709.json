@@ -1,91 +1,107 @@
 {
-    "created_at": "2026-10-22T22:44:52.133826+00:00",
-    "objectID": "4f291acec3572c91db1529c48739c709",
-    "ref": "lough-feeagh-walking-route",
-    "title": "Lough Feeagh Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lough_Feeagh.jpg/500px-Lough_Feeagh.jpg?20211206045925",
-    "nearby": [
-        {
-            "description": "Lough Lannagh",
-            "objectID": "552152e3ff6083e7c88db9c2b8ae8d61",
-            "ref": "lough-lannagh-walking-route"
-        },
-        {
-            "description": "Lough Fee",
-            "objectID": "84683800c398b46d877ceed11f57ab45",
-            "ref": "lough-fee-walking-route"
-        },
-        {
-            "description": "Ashford Castle",
-            "objectID": "55ee6e7438b423aa7d28130325812a17",
-            "ref": "ashford-castle-walking-route"
-        },
-        {
-            "description": "Kylemore Abbey",
-            "objectID": "e03d92124113671d0b158b22022bce14",
-            "ref": "kylemore-abbey-walking-route"
-        },
-        {
-            "description": "Croagh Patrick",
-            "objectID": "b02666b8291ead44bc9cba04340a7cd4",
-            "ref": "croagh-patrick-walking-route"
-        },
-        {
-            "description": "Clifden Castle",
-            "objectID": "e31794d84b09b03a9f04541203ceab06",
-            "ref": "clifden-castle-walking-route"
-        },
-        {
-            "description": "Galway",
-            "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
-            "ref": "galway-walking-route"
-        },
-        {
-            "description": "Oughterard Wind Farm Walk",
-            "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
-            "ref": "oughterard-wind-farm-walk-walking-route"
-        },
-        {
-            "description": "Mount Gable",
-            "objectID": "cc1c4ea5665ca8e0b76cbb7aed15fadf",
-            "ref": "mount-gable-walking-route"
-        },
-        {
-            "description": "Killary Fjord",
-            "objectID": "8c96e9e255751c046f0c5c58d39e1614",
-            "ref": "killary-fjord-walking-route"
-        },
-        {
-            "description": "Westport",
-            "objectID": "c633591716e77d64d31e9b6115f85b0d",
-            "ref": "westport-walking-route"
-        },
-        {
-            "description": "Cong Forest Nature Loop",
-            "objectID": "d79f4eaff2e04cb9adc3e0db297c2e01",
-            "ref": "cong-forest-nature-loop-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f291acec3572c91db1529c48739c709.gpx",
-    "_geoloc": {
-        "lat": 53.92313,
-        "lng": -9.561174
+  "created_at": "2026-10-22T22:44:52.133826+00:00",
+  "objectID": "4f291acec3572c91db1529c48739c709",
+  "ref": "lough-feeagh-walking-route",
+  "title": "Lough Feeagh Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lough_Feeagh.jpg/500px-Lough_Feeagh.jpg?20211206045925",
+  "nearby": [
+    {
+      "description": "Lough Lannagh",
+      "objectID": "552152e3ff6083e7c88db9c2b8ae8d61",
+      "ref": "lough-lannagh-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lough_Feeagh.jpg",
-            "title": "Mariusz Z, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of Lough Feeagh in Mayo County, Ireland. Surrounded by Nephin Beg mountain range."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sheep_near_Lough_Feeagh_-_geograph.org.uk_-_4091624.jpg",
-            "title": "Sheep near Lough Feeagh by Ian Paterson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sheep near Lough Feeagh"
-        }
-    ],
-    "distance_km": 8.4,
-    "description": "This walk visits Lough Feeagh in County Mayo. There is a quiet country lane running along the eastern side of the lake where you could enjoy a peaceful walk or cycle.There's excellent views across the water to the surrounding Nephin Beg mountain range.You can continue your lakeside walking atLough LannaghandLough Fee.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/L_nluHgjUwU?si=v_QlBh5abeBnnb60&start=36",
-    "gazetteer_found": false
+    {
+      "description": "Lough Fee",
+      "objectID": "84683800c398b46d877ceed11f57ab45",
+      "ref": "lough-fee-walking-route"
+    },
+    {
+      "description": "Ashford Castle",
+      "objectID": "55ee6e7438b423aa7d28130325812a17",
+      "ref": "ashford-castle-walking-route"
+    },
+    {
+      "description": "Kylemore Abbey",
+      "objectID": "e03d92124113671d0b158b22022bce14",
+      "ref": "kylemore-abbey-walking-route"
+    },
+    {
+      "description": "Croagh Patrick",
+      "objectID": "b02666b8291ead44bc9cba04340a7cd4",
+      "ref": "croagh-patrick-walking-route"
+    },
+    {
+      "description": "Clifden Castle",
+      "objectID": "e31794d84b09b03a9f04541203ceab06",
+      "ref": "clifden-castle-walking-route"
+    },
+    {
+      "description": "Galway",
+      "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
+      "ref": "galway-walking-route"
+    },
+    {
+      "description": "Oughterard Wind Farm Walk",
+      "objectID": "4d3ab97fccf3bcdb088aceebfeb4f8ff",
+      "ref": "oughterard-wind-farm-walk-walking-route"
+    },
+    {
+      "description": "Mount Gable",
+      "objectID": "cc1c4ea5665ca8e0b76cbb7aed15fadf",
+      "ref": "mount-gable-walking-route"
+    },
+    {
+      "description": "Killary Fjord",
+      "objectID": "8c96e9e255751c046f0c5c58d39e1614",
+      "ref": "killary-fjord-walking-route"
+    },
+    {
+      "description": "Westport",
+      "objectID": "c633591716e77d64d31e9b6115f85b0d",
+      "ref": "westport-walking-route"
+    },
+    {
+      "description": "Cong Forest Nature Loop",
+      "objectID": "d79f4eaff2e04cb9adc3e0db297c2e01",
+      "ref": "cong-forest-nature-loop-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f291acec3572c91db1529c48739c709.gpx",
+  "_geoloc": {
+    "lat": 53.92313,
+    "lng": -9.561174
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lough_Feeagh.jpg",
+      "title": "Mariusz Z, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of Lough Feeagh in Mayo County, Ireland. Surrounded by Nephin Beg mountain range."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sheep_near_Lough_Feeagh_-_geograph.org.uk_-_4091624.jpg",
+      "title": "Sheep near Lough Feeagh by Ian Paterson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sheep near Lough Feeagh"
+    }
+  ],
+  "distance_km": 8.4,
+  "description": "This walk visits Lough Feeagh in County Mayo. There is a quiet country lane running along the eastern side of the lake where you could enjoy a peaceful walk or cycle.There's excellent views across the water to the surrounding Nephin Beg mountain range.You can continue your lakeside walking atLough LannaghandLough Fee.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/L_nluHgjUwU?si=v_QlBh5abeBnnb60&start=36",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "lake",
+    "mountain range"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -1,76 +1,92 @@
 {
-    "created_at": "2026-10-22T21:14:50.358117+00:00",
-    "objectID": "fb3329178b4b40d602b8ec2d4a4f3335",
-    "ref": "bolus-head-loop-walk",
-    "title": "Bolus Head Loop Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg/500px-Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg?20230404025402",
-    "nearby": [
-        {
-            "description": "Kerry Cliffs Walk",
-            "objectID": "8a21c1b748406f77ff492ccfb20d50dd",
-            "ref": "kerry-cliffs-walking-route"
-        },
-        {
-            "description": "Valentia Island",
-            "objectID": "f6771f503deb52d64c7be4666714275c",
-            "ref": "valentia-island-walking-route"
-        },
-        {
-            "description": "Glenbeigh and Rossbeigh Hill Loop",
-            "objectID": "00b7568ff23766e320793d9ead9adcf3",
-            "ref": "glenbeigh\u00a0and-rossbeigh-hill-loop-walking-route"
-        },
-        {
-            "description": "Caragh Lake",
-            "objectID": "3a40b56d757464f237bd53a4bb63362e",
-            "ref": "caragh-lake-walking-route"
-        },
-        {
-            "description": "Ballinskelligs",
-            "objectID": "be0833a84b5d40368d3c2120d7a4a012",
-            "ref": "ballinskelligs-walking-route"
-        },
-        {
-            "description": "Lough Acoose Walk",
-            "objectID": "48304a66cb0157a49041a0ff637963e0",
-            "ref": "lough-acoose-walk"
-        },
-        {
-            "description": "Waterville and Lough Currane Loop Walk",
-            "objectID": "6696da0141cceab5227950e8c06035d2",
-            "ref": "waterville-and-lough-currane-loop-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3329178b4b40d602b8ec2d4a4f3335.gpx",
-    "_geoloc": {
-        "lat": 51.813919,
-        "lng": -10.337071
+  "created_at": "2026-10-22T21:14:50.358117+00:00",
+  "objectID": "fb3329178b4b40d602b8ec2d4a4f3335",
+  "ref": "bolus-head-loop-walk",
+  "title": "Bolus Head Loop Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg/500px-Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg?20230404025402",
+  "nearby": [
+    {
+      "description": "Kerry Cliffs Walk",
+      "objectID": "8a21c1b748406f77ff492ccfb20d50dd",
+      "ref": "kerry-cliffs-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg",
-            "title": "Old Barracks, Bolus Head by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Old Barracks, Bolus Head"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bolus_Head_across_Ballinskelligs_Bay_-_geograph.org.uk_-_7353283.jpg",
-            "title": "Bolus Head across Ballinskelligs Bay by Michael Earnshaw, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bolus Head across Ballinskelligs Bay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ceann_Bh%C3%B3lais_-_geograph.org.uk_-_989901.jpg?20110222232829",
-            "title": "Steve Edge / Ceann Bh\u00f3lais",
-            "caption": "Ceann Bh\u00f3lais"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bolus_Head%2C_west_side_of_headland_looking_N_-_geograph.org.uk_-_248925.jpg?20100131223643",
-            "title": "Martin Creek / Bolus Head, west side of headland looking N",
-            "caption": "Bolus Head, west side of headland looking N"
-        }
-    ],
-    "distance_km": 7.3,
-    "description": "This circular walk explores the wonderful coast around Bolus Head in County Kerry. The route follows quiet lanes and open hillside paths that lead towards the Atlantic, with sweeping views over St. Finian\u2019s Bay and out towards the Skellig Islands. The rugged cliffs and headlands create a dramatic backdrop, while the ever-changing light across the ocean makes this a particularly scenic part of the Kerry coastline. Along the way, walkers pass traces of old stone cottages and field walls, reminders of the people who once lived and farmed in this exposed landscape. The sense of remoteness adds to the atmosphere, with the wind and sea the most constant sounds. From the headland itself, there are outstanding views towards Skellig Michael and Little Skellig, rising sharply from the sea. The return route loops inland, offering a gentler descent with further views over the surrounding hills before rejoining the starting point. To continue your cliff top walking in the area head north to pick up the Kerry Cliffs Walk and enjoy views of Valentia Island. Just east is Ballinskelligs with its ancient priory and lovely beach.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/DSVwOI3mH94?si=6u_nXbH1_ueXQp3m",
-    "gazetteer_found": false
+    {
+      "description": "Valentia Island",
+      "objectID": "f6771f503deb52d64c7be4666714275c",
+      "ref": "valentia-island-walking-route"
+    },
+    {
+      "description": "Glenbeigh and Rossbeigh Hill Loop",
+      "objectID": "00b7568ff23766e320793d9ead9adcf3",
+      "ref": "glenbeigh\u00a0and-rossbeigh-hill-loop-walking-route"
+    },
+    {
+      "description": "Caragh Lake",
+      "objectID": "3a40b56d757464f237bd53a4bb63362e",
+      "ref": "caragh-lake-walking-route"
+    },
+    {
+      "description": "Ballinskelligs",
+      "objectID": "be0833a84b5d40368d3c2120d7a4a012",
+      "ref": "ballinskelligs-walking-route"
+    },
+    {
+      "description": "Lough Acoose Walk",
+      "objectID": "48304a66cb0157a49041a0ff637963e0",
+      "ref": "lough-acoose-walk"
+    },
+    {
+      "description": "Waterville and Lough Currane Loop Walk",
+      "objectID": "6696da0141cceab5227950e8c06035d2",
+      "ref": "waterville-and-lough-currane-loop-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fb3329178b4b40d602b8ec2d4a4f3335.gpx",
+  "_geoloc": {
+    "lat": 51.813919,
+    "lng": -10.337071
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Old_Barracks%2C_Bolus_Head_-_geograph.org.uk_-_4595604.jpg",
+      "title": "Old Barracks, Bolus Head by Chris Andrews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Old Barracks, Bolus Head"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bolus_Head_across_Ballinskelligs_Bay_-_geograph.org.uk_-_7353283.jpg",
+      "title": "Bolus Head across Ballinskelligs Bay by Michael Earnshaw, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bolus Head across Ballinskelligs Bay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ceann_Bh%C3%B3lais_-_geograph.org.uk_-_989901.jpg?20110222232829",
+      "title": "Steve Edge / Ceann Bh\u00f3lais",
+      "caption": "Ceann Bh\u00f3lais"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bolus_Head%2C_west_side_of_headland_looking_N_-_geograph.org.uk_-_248925.jpg?20100131223643",
+      "title": "Martin Creek / Bolus Head, west side of headland looking N",
+      "caption": "Bolus Head, west side of headland looking N"
+    }
+  ],
+  "distance_km": 7.3,
+  "description": "This circular walk explores the wonderful coast around Bolus Head in County Kerry. The route follows quiet lanes and open hillside paths that lead towards the Atlantic, with sweeping views over St. Finian\u2019s Bay and out towards the Skellig Islands. The rugged cliffs and headlands create a dramatic backdrop, while the ever-changing light across the ocean makes this a particularly scenic part of the Kerry coastline. Along the way, walkers pass traces of old stone cottages and field walls, reminders of the people who once lived and farmed in this exposed landscape. The sense of remoteness adds to the atmosphere, with the wind and sea the most constant sounds. From the headland itself, there are outstanding views towards Skellig Michael and Little Skellig, rising sharply from the sea. The return route loops inland, offering a gentler descent with further views over the surrounding hills before rejoining the starting point. To continue your cliff top walking in the area head north to pick up the Kerry Cliffs Walk and enjoy views of Valentia Island. Just east is Ballinskelligs with its ancient priory and lovely beach.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/DSVwOI3mH94?si=6u_nXbH1_ueXQp3m",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hillside"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

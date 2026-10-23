@@ -1,61 +1,79 @@
 {
-    "created_at": "2026-10-22T21:58:31.901063+00:00",
-    "objectID": "740964f189adb6659e9260aabd21612b",
-    "ref": "tibradden-wood-and-two-rock-mountain-walk",
-    "title": "Tibradden Wood and Two Rock Mountain Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg/500px-At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg?20240527092057",
-    "nearby": [
-        {
-            "description": "Ticknock Forest",
-            "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
-            "ref": "ticknock-forest-walking-route"
-        },
-        {
-            "description": "Montpelier Hill and Hellfire Forest Loop Walk",
-            "objectID": "fa23356e690331f20d7da3955ffdba9d",
-            "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
-        },
-        {
-            "description": "Cruagh Woods Walk",
-            "objectID": "b55c54dd335b35f0d5360c520bf0e017",
-            "ref": "cruagh-woods-walk"
-        },
-        {
-            "description": "Massey Woods Walk",
-            "objectID": "debd7c7b6539f4f736cb8293af8836dd",
-            "ref": "massey-woods-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/740964f189adb6659e9260aabd21612b.gpx",
-    "_geoloc": {
-        "lat": 53.2444937,
-        "lng": -6.2961531
+  "created_at": "2026-10-22T21:58:31.901063+00:00",
+  "objectID": "740964f189adb6659e9260aabd21612b",
+  "ref": "tibradden-wood-and-two-rock-mountain-walk",
+  "title": "Tibradden Wood and Two Rock Mountain Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg/500px-At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg?20240527092057",
+  "nearby": [
+    {
+      "description": "Ticknock Forest",
+      "objectID": "9b1d1adec7ed3ee8365fc09b9d6ebd03",
+      "ref": "ticknock-forest-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg",
-            "title": "At Hut circle, Tibradden Mountain, Co Dublin by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "At Hut circle, Tibradden Mountain, Co Dublin"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Two_Rock_Mountain_Tors.jpg",
-            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "The twin tors (rock piles in foreground, left and right) give Two Rock mountain (foreground) in County Dublin in Ireland its name. The mountains in the background are Little Sugar Loaf mountain (left) and Great Sugar Loaf mountain (right), both in County Wicklow."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fairy_Castle_Cairn_and_Trig_Pillar.jpg",
-            "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Cairn and trig pillar at Fairy Castle, the summit of Two Rock Mountain,"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tibradden_Mountain.jpg",
-            "title": "I, Joe King, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-            "caption": "Tibradden Mountain"
-        }
-    ],
-    "distance_km": 9.4,
-    "description": "A walk through Tibradden Wood to the summits of Tibradden Mountain and Two Rock Mountain offers a popular and scenic hike in the Dublin Mountains, blending a mix of forest paths and open mountain terrain. The walk begins in the car park at Tibradden Wood, where a well-laid forest track leads you east through a beautiful plantation of coniferous trees. The trail is gentle at first, winding through the woods, which are particularly tranquil in the early morning. As you continue, the path begins to climb more steadily. The trail eventually leaves the woods and opens out onto the heathery slopes of Tibradden Mountain. The path becomes a bit rougher here, but the climb is worth it for the views. From the summit, which is marked by an ancient cairn, you'll be rewarded with a fantastic panorama stretching across Dublin city, the bay, and the surrounding mountains. From Tibradden's summit, the trail continues along a clear track that leads you to the top of Two Rock Mountain. The most notable feature on this summit is the giant cairn known as the \"Fairy Castle,\" the largest passage tomb in the Dublin Mountains. From here, the views are even more expansive, looking out over a vast expanse of the city, the sea, and the rugged Wicklow Mountains to the south. To continue your walking in the area try the Ticknock Forest or the Montpelier Hill and Hellfire Forest Loop Walk .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/kpe-ON0kRB0?si=DOdB7Q6wERxV6xOL",
-    "gazetteer_found": false
+    {
+      "description": "Montpelier Hill and Hellfire Forest Loop Walk",
+      "objectID": "fa23356e690331f20d7da3955ffdba9d",
+      "ref": "montpelier-hill-and-hellfire-forest-loop-walk"
+    },
+    {
+      "description": "Cruagh Woods Walk",
+      "objectID": "b55c54dd335b35f0d5360c520bf0e017",
+      "ref": "cruagh-woods-walk"
+    },
+    {
+      "description": "Massey Woods Walk",
+      "objectID": "debd7c7b6539f4f736cb8293af8836dd",
+      "ref": "massey-woods-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/740964f189adb6659e9260aabd21612b.gpx",
+  "_geoloc": {
+    "lat": 53.2444937,
+    "lng": -6.2961531
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/At_Hut_circle%2C_Tibradden_Mountain%2C_Co_Dublin_-_geograph.org.uk_-_6375479.jpg",
+      "title": "At Hut circle, Tibradden Mountain, Co Dublin by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "At Hut circle, Tibradden Mountain, Co Dublin"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Two_Rock_Mountain_Tors.jpg",
+      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "The twin tors (rock piles in foreground, left and right) give Two Rock mountain (foreground) in County Dublin in Ireland its name. The mountains in the background are Little Sugar Loaf mountain (left) and Great Sugar Loaf mountain (right), both in County Wicklow."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fairy_Castle_Cairn_and_Trig_Pillar.jpg",
+      "title": "Joe King, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Cairn and trig pillar at Fairy Castle, the summit of Two Rock Mountain,"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tibradden_Mountain.jpg",
+      "title": "I, Joe King, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "caption": "Tibradden Mountain"
+    }
+  ],
+  "distance_km": 9.4,
+  "description": "A walk through Tibradden Wood to the summits of Tibradden Mountain and Two Rock Mountain offers a popular and scenic hike in the Dublin Mountains, blending a mix of forest paths and open mountain terrain. The walk begins in the car park at Tibradden Wood, where a well-laid forest track leads you east through a beautiful plantation of coniferous trees. The trail is gentle at first, winding through the woods, which are particularly tranquil in the early morning. As you continue, the path begins to climb more steadily. The trail eventually leaves the woods and opens out onto the heathery slopes of Tibradden Mountain. The path becomes a bit rougher here, but the climb is worth it for the views. From the summit, which is marked by an ancient cairn, you'll be rewarded with a fantastic panorama stretching across Dublin city, the bay, and the surrounding mountains. From Tibradden's summit, the trail continues along a clear track that leads you to the top of Two Rock Mountain. The most notable feature on this summit is the giant cairn known as the \"Fairy Castle,\" the largest passage tomb in the Dublin Mountains. From here, the views are even more expansive, looking out over a vast expanse of the city, the sea, and the rugged Wicklow Mountains to the south. To continue your walking in the area try the Ticknock Forest or the Montpelier Hill and Hellfire Forest Loop Walk .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/kpe-ON0kRB0?si=DOdB7Q6wERxV6xOL",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "cairn",
+    "passage tomb"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

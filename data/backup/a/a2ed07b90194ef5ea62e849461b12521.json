@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Hayley_Wood_-_field_boundary_-_geograph.org.uk_-_30138.jpg?20100130141510",
       "title": "Lera Miles / Hayley Wood - field boundary",
-      "caption": "Hayley Wood - field boundary. Illustrating the fragmented status of this bit of ancient woodland, which is surrounded by arable land on all sides. The wood is managed by the local Wildlife Trust. Photo taken from Hayley Lane. The structure of Hayley Wood is coppice-with-standards of field maple, ash, hazel and hawthorn species, with a canopy of pedunculate oak and small areas of small-leaved elm. Most of the oak trees date from between 1780–1840, older than most woodland oaks"
+      "caption": "Hayley Wood - field boundary. Illustrating the fragmented status of this bit of ancient woodland, which is surrounded by arable land on all sides. The wood is managed by the local Wildlife Trust. Photo taken from Hayley Lane. The structure of Hayley Wood is coppice-with-standards of field maple, ash, hazel and hawthorn species, with a canopy of pedunculate oak and small areas of small-leaved elm. Most of the oak trees date from between 1780\u20131840, older than most woodland oaks"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hayley_Wood_-_geograph.org.uk_-_7837696.jpg",
@@ -61,5 +61,22 @@
   "county": "Cambridgeshire",
   "region": "Eastern",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "country trail"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "farmland",
+    "park"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

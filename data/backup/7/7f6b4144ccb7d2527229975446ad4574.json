@@ -1,60 +1,77 @@
 {
-    "created_at": "2026-10-22T21:12:14.613502+00:00",
-    "objectID": "7f6b4144ccb7d2527229975446ad4574",
-    "ref": "bagnor-and-boxford-circular-walk",
-    "title": "Bagnor and Boxford Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg/500px-River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg?20221015110349",
-    "nearby": [
-        {
-            "description": "Donnington Castle",
-            "objectID": "c1df7e2b067d4bd9c38937d9c50a5648",
-            "ref": "donnington-castle-walking-route"
-        },
-        {
-            "description": "Lambourn Valley Way",
-            "objectID": "ff9e54aa66cc45f71b54bb8c49d32807",
-            "ref": "lambourn-valley-way-walking-route"
-        },
-        {
-            "description": "Snelsmore Common Country Park",
-            "objectID": "d38c854f2ee008adf454b2419b06df40",
-            "ref": "snelsmore-common-country-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f6b4144ccb7d2527229975446ad4574.gpx",
-    "_geoloc": {
-        "lat": 51.4186925159,
-        "lng": -1.3370373846
+  "created_at": "2026-10-22T21:12:14.613502+00:00",
+  "objectID": "7f6b4144ccb7d2527229975446ad4574",
+  "ref": "bagnor-and-boxford-circular-walk",
+  "title": "Bagnor and Boxford Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg/500px-River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg?20221015110349",
+  "nearby": [
+    {
+      "description": "Donnington Castle",
+      "objectID": "c1df7e2b067d4bd9c38937d9c50a5648",
+      "ref": "donnington-castle-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg",
-            "title": "River Lambourn at Bagnor by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Lambourn at Bagnor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_River_Lambourn%2C_seen_from_Boxford_churchyard_-_geograph.org.uk_-_5778352.jpg",
-            "title": "The River Lambourn, seen from Boxford churchyard by Stefan Czapski, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The River Lambourn, seen from Boxford churchyard"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Watermill_Theatre%2C_Bagnor.jpg",
-            "title": "Sheps at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Watermill Theatre, Bagnor. The Watermill Theatre is a privately owned repertory theatre that has operated since 1967. It is a converted watermill with gardens beside the River Lambourn, and seats 220 people. It retains many of its original architectural features including the waterwheel, which can be viewed through a glass screen on entering the auditorium. Many successful actors have begun their careers at the Watermill Theatre, most notably Sean Bean, Bill Nighy and David Suchet."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Boxford_Mill.jpg?20080722202246",
-            "title": "Pam Brophy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Boxford Mill in Berkshire. This old mill is situated in the centre of the beautiful village of Boxford. It was built across the Lambourn river to the churning mill weir."
-        }
-    ],
-    "distance_km": 9.4,
-    "description": "This circular walk explores the area around the Berkshire villages of Bagnor and Boxford. The walk starts off from the parking area at the historic Donnington Castle. Here you can explore the grounds of the 14th century castle before heading west to Bagnor. You then pick up the Lambourn Valley Way and follow the waymarked path west to Bagnor and Boxford with some fine views of the River Lambourn and the surrounding North Wessex Downs hills and countryside. Look out for the noteworthy Watermill Theatre in Bagnor which is housed in a converted watermill with gardens beside the River Lambourn. There is also another picturesque watermill in Boxford - see photos below. You can continue your walking in the lovely Snelsmore Common Country Park which lies just to the east of the route.",
-    "details": [],
-    "postcode": "RG14 2LE",
-    "district": "Newbury",
-    "county": "West Berkshire",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Lambourn Valley Way",
+      "objectID": "ff9e54aa66cc45f71b54bb8c49d32807",
+      "ref": "lambourn-valley-way-walking-route"
+    },
+    {
+      "description": "Snelsmore Common Country Park",
+      "objectID": "d38c854f2ee008adf454b2419b06df40",
+      "ref": "snelsmore-common-country-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f6b4144ccb7d2527229975446ad4574.gpx",
+  "_geoloc": {
+    "lat": 51.4186925159,
+    "lng": -1.3370373846
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/River_Lambourn_at_Bagnor_-_geograph.org.uk_-_3917020.jpg",
+      "title": "River Lambourn at Bagnor by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Lambourn at Bagnor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_River_Lambourn%2C_seen_from_Boxford_churchyard_-_geograph.org.uk_-_5778352.jpg",
+      "title": "The River Lambourn, seen from Boxford churchyard by Stefan Czapski, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The River Lambourn, seen from Boxford churchyard"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Watermill_Theatre%2C_Bagnor.jpg",
+      "title": "Sheps at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Watermill Theatre, Bagnor. The Watermill Theatre is a privately owned repertory theatre that has operated since 1967. It is a converted watermill with gardens beside the River Lambourn, and seats 220 people. It retains many of its original architectural features including the waterwheel, which can be viewed through a glass screen on entering the auditorium. Many successful actors have begun their careers at the Watermill Theatre, most notably Sean Bean, Bill Nighy and David Suchet."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Boxford_Mill.jpg?20080722202246",
+      "title": "Pam Brophy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Boxford Mill in Berkshire. This old mill is situated in the centre of the beautiful village of Boxford. It was built across the Lambourn river to the churning mill weir."
+    }
+  ],
+  "distance_km": 9.4,
+  "description": "This circular walk explores the area around the Berkshire villages of Bagnor and Boxford. The walk starts off from the parking area at the historic Donnington Castle. Here you can explore the grounds of the 14th century castle before heading west to Bagnor. You then pick up the Lambourn Valley Way and follow the waymarked path west to Bagnor and Boxford with some fine views of the River Lambourn and the surrounding North Wessex Downs hills and countryside. Look out for the noteworthy Watermill Theatre in Bagnor which is housed in a converted watermill with gardens beside the River Lambourn. There is also another picturesque watermill in Boxford - see photos below. You can continue your walking in the lovely Snelsmore Common Country Park which lies just to the east of the route.",
+  "details": [],
+  "postcode": "RG14 2LE",
+  "district": "Newbury",
+  "county": "West Berkshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

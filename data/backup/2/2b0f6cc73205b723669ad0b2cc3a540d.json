@@ -1,46 +1,62 @@
 {
-    "created_at": "2026-10-22T22:46:14.906988+00:00",
-    "objectID": "2b0f6cc73205b723669ad0b2cc3a540d",
-    "ref": "michaelston-le-pit-cwm-george-and-casehill-woods-walk",
-    "title": "Michaelston Le Pit Cwm George and Casehill Woods Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg/500px-Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg?20210814095453",
-    "nearby": [
-        {
-            "description": "Dinas Powys Woodland and Salmon Leaps",
-            "objectID": "424eb97e527c5a64751914484ac77c3a",
-            "ref": "dinas-powys-walking-route"
-        },
-        {
-            "description": "Salmon Leaps and Caerau Hillfort Walk",
-            "objectID": "f551694af94167840362ad492433ac40",
-            "ref": "salmon-leaps-and-caerau-hillfort-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b0f6cc73205b723669ad0b2cc3a540d.gpx",
-    "_geoloc": {
-        "lat": 51.4499838142,
-        "lng": -3.2260678018
+  "created_at": "2026-10-22T22:46:14.906988+00:00",
+  "objectID": "2b0f6cc73205b723669ad0b2cc3a540d",
+  "ref": "michaelston-le-pit-cwm-george-and-casehill-woods-walk",
+  "title": "Michaelston Le Pit Cwm George and Casehill Woods Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg/500px-Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg?20210814095453",
+  "nearby": [
+    {
+      "description": "Dinas Powys Woodland and Salmon Leaps",
+      "objectID": "424eb97e527c5a64751914484ac77c3a",
+      "ref": "dinas-powys-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg",
-            "title": "Nadezna1971, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Casehill woods, Dinas Powys Vale of Glamorgan Wales"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Weir_-_geograph.org.uk_-_383779.jpg?20110203155332",
-            "title": "Peter Wasp / Weir",
-            "caption": "Weir"
-        }
-    ],
-    "distance_km": 7.6,
-    "description": "This circular walk explores the area around the village of Michaelston Le Pit in the Vale of Glamorgan. It's a nice varied walk with riverside trails along the Cadoxton River and peaceful woodland paths in Casehill Woods. The route also visits the Salmon Leaps which lie just to the west of the village. The Leaps are located in a beautiful glacial valley with the surrounding woodlands of Cwm George forming a lovely backdrop. The best time to see actual salmon leaping upstream is during the late summer and autumn, particularly after heavy rain, when they migrate to spawn.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/i0dG7CayZZk?si=eYRXEPzt6n0efl2V",
-    "postcode": "CF64 4HN",
-    "district": "Michaelston-le-Pit / Llanfihangel-y-pwll",
-    "county": "Bro Morgannwg - the Vale of Glamorgan",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Salmon Leaps and Caerau Hillfort Walk",
+      "objectID": "f551694af94167840362ad492433ac40",
+      "ref": "salmon-leaps-and-caerau-hillfort-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b0f6cc73205b723669ad0b2cc3a540d.gpx",
+  "_geoloc": {
+    "lat": 51.4499838142,
+    "lng": -3.2260678018
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Casehill_woods%2C_Dinas_Powys_Vale_of_Glamorgan_Wales.jpg",
+      "title": "Nadezna1971, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Casehill woods, Dinas Powys Vale of Glamorgan Wales"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Weir_-_geograph.org.uk_-_383779.jpg?20110203155332",
+      "title": "Peter Wasp / Weir",
+      "caption": "Weir"
+    }
+  ],
+  "distance_km": 7.6,
+  "description": "This circular walk explores the area around the village of Michaelston Le Pit in the Vale of Glamorgan. It's a nice varied walk with riverside trails along the Cadoxton River and peaceful woodland paths in Casehill Woods. The route also visits the Salmon Leaps which lie just to the west of the village. The Leaps are located in a beautiful glacial valley with the surrounding woodlands of Cwm George forming a lovely backdrop. The best time to see actual salmon leaping upstream is during the late summer and autumn, particularly after heavy rain, when they migrate to spawn.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/i0dG7CayZZk?si=eYRXEPzt6n0efl2V",
+  "postcode": "CF64 4HN",
+  "district": "Michaelston-le-Pit / Llanfihangel-y-pwll",
+  "county": "Bro Morgannwg - the Vale of Glamorgan",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "salmon leap",
+    "glacial valley"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

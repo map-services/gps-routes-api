@@ -64,7 +64,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jersey_-_Battery_Lothringen_07.jpg/960px-Jersey_-_Battery_Lothringen_07.jpg",
-      "title": "Paweł 'pbm' Szubert, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "title": "Pawe\u0142 'pbm' Szubert, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Jersey"
     },
     {
@@ -79,8 +79,28 @@
     }
   ],
   "distance_km": 1.3,
-  "description": "This walk takes you from the car park at Noirmont Point to the lovely Portelet Beach on the southern coast of Jersey. The walk begins at Noirmont Point, a wild and exposed headland that offers some of the most expansive views across St. Aubin’s Bay toward the distant Elizabeth Castle. The area is a protected site of natural beauty, covered in wind-swept gorse and heather, with several rugged paths that wind around the granite cliffs.Heading north-west along the coastal trail, you quickly reach Battery Lothringen. This is one of the most significant remnants of the German Occupation during WWII, consisting of a massive complex of reinforced concrete bunkers, observation towers, and gun emplacements. The site is remarkably well-preserved, with the towering command bunker still dominating the skyline as a stark reminder of the island’s wartime history.Continuing along the cliff path, the terrain remains undulating but offers constant views of the sea until you descend toward Portelet Bay. The walk finishes at this sheltered, south-facing cove, which is famous for its golden sand and the iconic Janvrin’s Tomb—a small tower sitting on a rocky islet in the middle of the bay that is reachable only at low tide. The beach is a popular spot for a swim or a break at the local café before tackling the steep steps back up to the main road.",
+  "description": "This walk takes you from the car park at Noirmont Point to the lovely Portelet Beach on the southern coast of Jersey. The walk begins at Noirmont Point, a wild and exposed headland that offers some of the most expansive views across St. Aubin\u2019s Bay toward the distant Elizabeth Castle. The area is a protected site of natural beauty, covered in wind-swept gorse and heather, with several rugged paths that wind around the granite cliffs.Heading north-west along the coastal trail, you quickly reach Battery Lothringen. This is one of the most significant remnants of the German Occupation during WWII, consisting of a massive complex of reinforced concrete bunkers, observation towers, and gun emplacements. The site is remarkably well-preserved, with the towering command bunker still dominating the skyline as a stark reminder of the island\u2019s wartime history.Continuing along the cliff path, the terrain remains undulating but offers constant views of the sea until you descend toward Portelet Bay. The walk finishes at this sheltered, south-facing cove, which is famous for its golden sand and the iconic Janvrin\u2019s Tomb\u2014a small tower sitting on a rocky islet in the middle of the bay that is reachable only at low tide. The beach is a popular spot for a swim or a break at the local caf\u00e9 before tackling the steep steps back up to the main road.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/Y8IzkaEoKBA?si=g1CSmwCrH0u9GG39",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "tomb"
+  ],
+  "facilities": [
+    "car park",
+    "cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

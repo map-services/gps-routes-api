@@ -1,33 +1,47 @@
 {
-    "created_at": "2026-10-22T21:16:35.059677+00:00",
-    "objectID": "31b2079c3de205d3dd25f2f50dc3c74f",
-    "ref": "burnsall-to-bolton-abbey-walking-route",
-    "title": "Burnsall to Bolton Abbey River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg/500px-Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg?20250124170425",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/31b2079c3de205d3dd25f2f50dc3c74f.gpx",
-    "_geoloc": {
-        "lat": 54.0478194268,
-        "lng": -1.9497172263
+  "created_at": "2026-10-22T21:16:35.059677+00:00",
+  "objectID": "31b2079c3de205d3dd25f2f50dc3c74f",
+  "ref": "burnsall-to-bolton-abbey-walking-route",
+  "title": "Burnsall to Bolton Abbey River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg/500px-Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg?20250124170425",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/31b2079c3de205d3dd25f2f50dc3c74f.gpx",
+  "_geoloc": {
+    "lat": 54.0478194268,
+    "lng": -1.9497172263
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg",
+      "title": "Burnsall - Dales Way by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Burnsall"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Burnsall_-_Dales_Way_-_geograph.org.uk_-_7271754.jpg",
-            "title": "Burnsall - Dales Way by Colin Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Burnsall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_ruins_of_Bolton_Abbey.jpg",
-            "title": "Michael D Beckwith, CC0, via Wikimedia Commons",
-            "caption": "The ruins of Bolton Abbey"
-        }
-    ],
-    "distance_km": 10.2,
-    "description": "This walk takes you from the village of Burnsall to the historic Bolton Abbey in Wharfedale, near the southern edge of the Yorkshire Dales National Park. The walk starts in Burnsall and runs south east along the River Wharfe to the ancient Abbey ruins. It's about a 6.5 mile walk along fairly flat paths with some excellent views of the surrounding Dales countryside.",
-    "details": [],
-    "postcode": "BD23 6BP",
-    "district": "Burnsall",
-    "county": "North Yorkshire",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_ruins_of_Bolton_Abbey.jpg",
+      "title": "Michael D Beckwith, CC0, via Wikimedia Commons",
+      "caption": "The ruins of Bolton Abbey"
+    }
+  ],
+  "distance_km": 10.2,
+  "description": "This walk takes you from the village of Burnsall to the historic Bolton Abbey in Wharfedale, near the southern edge of the Yorkshire Dales National Park. The walk starts in Burnsall and runs south east along the River Wharfe to the ancient Abbey ruins. It's about a 6.5 mile walk along fairly flat paths with some excellent views of the surrounding Dales countryside.",
+  "details": [],
+  "postcode": "BD23 6BP",
+  "district": "Burnsall",
+  "county": "North Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "riverbank"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

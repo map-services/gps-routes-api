@@ -1,64 +1,78 @@
 {
-    "created_at": "2026-10-22T22:28:18.932570+00:00",
-    "objectID": "0c96cc8c523df818821b22b29350a4af",
-    "ref": "alfriston-to-seaford-walk",
-    "title": "Alfriston to Seaford Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg/500px-The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg?20230408050245",
-    "nearby": [
-        {
-            "description": "The South Downs Way",
-            "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
-            "ref": "the-south-downs-way-walking-route"
-        },
-        {
-            "description": "Vanguard Way",
-            "objectID": "d526829c942476c5ae331b2b89b7b812",
-            "ref": "vanguard-way-walking-route"
-        },
-        {
-            "description": "Brighton to Seaford Walk",
-            "objectID": "d96fb5c07263d9c7a497496418afa9e6",
-            "ref": "brighton-to-seaford-walk"
-        },
-        {
-            "description": "Alfriston to Seven Sisters Walk",
-            "objectID": "cd690794f6108b9ff42da630922e83b4",
-            "ref": "alfriston-to-seven-sisters-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0c96cc8c523df818821b22b29350a4af.gpx",
-    "_geoloc": {
-        "lat": 50.8091235766,
-        "lng": 0.1576113829
+  "created_at": "2026-10-22T22:28:18.932570+00:00",
+  "objectID": "0c96cc8c523df818821b22b29350a4af",
+  "ref": "alfriston-to-seaford-walk",
+  "title": "Alfriston to Seaford Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg/500px-The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg?20230408050245",
+  "nearby": [
+    {
+      "description": "The South Downs Way",
+      "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
+      "ref": "the-south-downs-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg",
-            "title": "The Market Place at Alfriston by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Market Place at Alfriston"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cuckmere_River_from_White_Bridge%2C_Alfriston_-_geograph.org.uk_-_715748.jpg?20110219010444",
-            "title": "Kevin Gordon / Cuckmere River from White Bridge, Alfriston",
-            "caption": "Cuckmere River from White Bridge, Alfriston"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Charleston_Farmhouse%2C_Sussex.jpg?20071225112429",
-            "title": "APB-CMX at English Wikipedia, Public domain, via Wikimedia Commons",
-            "caption": "Charleston Farmhouse, Sussex"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Seaford_and_Seaford_Bay_-_geograph.org.uk_-_5188476.jpg?20230728182003",
-            "title": "Seaford and Seaford Bay by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Seaford and Seaford Bay"
-        }
-    ],
-    "distance_km": 11.8,
-    "description": "This walk takes you from Alfriston to Seaford along sections of The South Downs Way and the Vanguard Way. The route runs for just over 7 miles following the waymarked trails south and then west through the South Downs. The first section runs along the Cuckmere River towards the historic Charleston Farmhouse. The property is associated with the Bloomsbury group of English writers, intellectuals, philosophers and artists from the early part of the 20th century. It is now open to the public through the National Trust. You can explore the house and learn about the visits from authors such as Virginia Woolf, John Maynard Keynes and E. M. Forster.The route then continues to the coast where you follow the cliff top path west into Seaford, with splendid coastal views along the way.",
-    "details": [],
-    "district": "Alfriston",
-    "county": "East Sussex",
-    "region": "South East",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Vanguard Way",
+      "objectID": "d526829c942476c5ae331b2b89b7b812",
+      "ref": "vanguard-way-walking-route"
+    },
+    {
+      "description": "Brighton to Seaford Walk",
+      "objectID": "d96fb5c07263d9c7a497496418afa9e6",
+      "ref": "brighton-to-seaford-walk"
+    },
+    {
+      "description": "Alfriston to Seven Sisters Walk",
+      "objectID": "cd690794f6108b9ff42da630922e83b4",
+      "ref": "alfriston-to-seven-sisters-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0c96cc8c523df818821b22b29350a4af.gpx",
+  "_geoloc": {
+    "lat": 50.8091235766,
+    "lng": 0.1576113829
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Market_Place_at_Alfriston_-_geograph.org.uk_-_4608800.jpg",
+      "title": "The Market Place at Alfriston by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Market Place at Alfriston"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cuckmere_River_from_White_Bridge%2C_Alfriston_-_geograph.org.uk_-_715748.jpg?20110219010444",
+      "title": "Kevin Gordon / Cuckmere River from White Bridge, Alfriston",
+      "caption": "Cuckmere River from White Bridge, Alfriston"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Charleston_Farmhouse%2C_Sussex.jpg?20071225112429",
+      "title": "APB-CMX at English Wikipedia, Public domain, via Wikimedia Commons",
+      "caption": "Charleston Farmhouse, Sussex"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Seaford_and_Seaford_Bay_-_geograph.org.uk_-_5188476.jpg?20230728182003",
+      "title": "Seaford and Seaford Bay by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Seaford and Seaford Bay"
+    }
+  ],
+  "distance_km": 11.8,
+  "description": "This walk takes you from Alfriston to Seaford along sections of The South Downs Way and the Vanguard Way. The route runs for just over 7 miles following the waymarked trails south and then west through the South Downs. The first section runs along the Cuckmere River towards the historic Charleston Farmhouse. The property is associated with the Bloomsbury group of English writers, intellectuals, philosophers and artists from the early part of the 20th century. It is now open to the public through the National Trust. You can explore the house and learn about the visits from authors such as Virginia Woolf, John Maynard Keynes and E. M. Forster.The route then continues to the coast where you follow the cliff top path west into Seaford, with splendid coastal views along the way.",
+  "details": [],
+  "district": "Alfriston",
+  "county": "East Sussex",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours 5 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

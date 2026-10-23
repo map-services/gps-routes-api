@@ -13,7 +13,7 @@
     {
       "description": "Letterkenny Corrvaddy Forest Loop Walk",
       "objectID": "8937942574d7742607334e59c6446a69",
-      "ref": "letterkenny-corrvaddy forest-loop-walk"
+      "ref": "letterkenny-corrvaddy\u00a0forest-loop-walk"
     },
     {
       "description": "Gartan Lough",
@@ -81,5 +81,20 @@
   "distance_km": 2.0,
   "description": "This walk visits Lough Keel in north County Donegal near the towns of Milford and Letterkenny. On the north eastern side of the lake there's a country lane which rises up above the lough. From here you can enjoy a peaceful stroll with some excellent views towards the lake and the surrounding countryside.Lough Fernis located a short distance away so you could continue your walking here.",
   "details": [],
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "lake",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

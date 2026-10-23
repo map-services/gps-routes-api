@@ -1,50 +1,66 @@
 {
-    "created_at": "2026-10-22T21:46:06.897047+00:00",
-    "objectID": "d455f8f6725333fd6349dcab5731d722",
-    "ref": "middleham-to-leyburn-walk",
-    "title": "Middleham to Leyburn Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leyburn.jpg/500px-Leyburn.jpg?20170827092240",
-    "nearby": [
-        {
-            "description": "Wensleydale",
-            "objectID": "fea78fb8c656206ab4626802d57a16e7",
-            "ref": "wensleydale-walking-route"
-        },
-        {
-            "description": "Leyburn Shawl Walk",
-            "objectID": "0dc6a578d2f6fa6338b65c35fc24b923",
-            "ref": "leyburn-shawl-walk-walking-route"
-        },
-        {
-            "description": "Leyburn to Harmby Waterfall Circular Walk",
-            "objectID": "8691b58ee8ae13ef35b717d049440f52",
-            "ref": "leyburn-to-harmby-waterfall-circular-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d455f8f6725333fd6349dcab5731d722.gpx",
-    "_geoloc": {
-        "lat": 54.2851410956,
-        "lng": -1.8060463012
+  "created_at": "2026-10-22T21:46:06.897047+00:00",
+  "objectID": "d455f8f6725333fd6349dcab5731d722",
+  "ref": "middleham-to-leyburn-walk",
+  "title": "Middleham to Leyburn Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leyburn.jpg/500px-Leyburn.jpg?20170827092240",
+  "nearby": [
+    {
+      "description": "Wensleydale",
+      "objectID": "fea78fb8c656206ab4626802d57a16e7",
+      "ref": "wensleydale-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Leyburn.jpg",
-            "title": "Anthony Harrison, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Leyburn town centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Middleham.jpg?20080522070101",
-            "title": "Joe Regan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Middleham market square"
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This walk takes you from Middleham to Leyburn in North Yorkshire. The walk runs for a distance of just over 4 miles, following public footpaths and quiet country lanes between the two settlements. Starting from Middleham you first head north west towards the pretty village of Wensley. This section includes a riverside path along the River Ure and some fine views over Wensleydale. The walk then heads north east through the countryside to arrive at Leyburn. Here you can pick up the popular Leyburn Shawl Walk and enjoy some refreshments at one of the fine local pubs.",
-    "details": [],
-    "postcode": "DL8 4NR",
-    "district": "Middleham",
-    "county": "North Yorkshire",
-    "region": "Yorkshire and the Humber",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Leyburn Shawl Walk",
+      "objectID": "0dc6a578d2f6fa6338b65c35fc24b923",
+      "ref": "leyburn-shawl-walk-walking-route"
+    },
+    {
+      "description": "Leyburn to Harmby Waterfall Circular Walk",
+      "objectID": "8691b58ee8ae13ef35b717d049440f52",
+      "ref": "leyburn-to-harmby-waterfall-circular-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d455f8f6725333fd6349dcab5731d722.gpx",
+  "_geoloc": {
+    "lat": 54.2851410956,
+    "lng": -1.8060463012
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Leyburn.jpg",
+      "title": "Anthony Harrison, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Leyburn town centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Middleham.jpg?20080522070101",
+      "title": "Joe Regan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Middleham market square"
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This walk takes you from Middleham to Leyburn in North Yorkshire. The walk runs for a distance of just over 4 miles, following public footpaths and quiet country lanes between the two settlements. Starting from Middleham you first head north west towards the pretty village of Wensley. This section includes a riverside path along the River Ure and some fine views over Wensleydale. The walk then heads north east through the countryside to arrive at Leyburn. Here you can pick up the popular Leyburn Shawl Walk and enjoy some refreshments at one of the fine local pubs.",
+  "details": [],
+  "postcode": "DL8 4NR",
+  "district": "Middleham",
+  "county": "North Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

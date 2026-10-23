@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Glanmore_Lake_-_geograph.org.uk_-_155097.jpg?_=20100131082731",
       "title": "John Webster / Glanmore Lake",
-      "caption": "Glanmore Lake measures about 1 km (0.6 mi) long north–south and 0.5 km (0.3 mi) wide. It lies about 28 km (17 mi) southwest of Kenmare, near the village of Lauragh"
+      "caption": "Glanmore Lake measures about 1 km (0.6 mi) long north\u2013south and 0.5 km (0.3 mi) wide. It lies about 28 km (17 mi) southwest of Kenmare, near the village of Lauragh"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Across_Glanmore_Lake_-_geograph.org.uk_-_7778547.jpg",
@@ -42,5 +42,24 @@
   "description": "This walk visits Glanmore Lake on the Beara Peninsula in County Kerry. On the eastern side of the lake there's a quiet country lane where you can enjoy an easy walk or cycle. It's a very peaceful place with fine views across the water to the surrounding mountains.For an elevated view of the lake head up to theHealy Pass Waterfall. It's located just east of the lake and includes a small parking area where you can enjoy an excellent view down to the lake.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/-PawJVshF-g?si=QgYdC97f737lmYFz",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

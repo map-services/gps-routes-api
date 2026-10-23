@@ -1,45 +1,63 @@
 {
-    "created_at": "2026-10-22T22:34:17.120109+00:00",
-    "objectID": "78469168f92f60930e0af3117cfe90ae",
-    "ref": "cloonfad-forest-walk",
-    "title": "Cloonfad Forest Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg/500px-Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg?_=20231211141303",
-    "nearby": [
-        {
-            "description": "Lough O Flynn",
-            "objectID": "30dce3a9b2f2e59c1033877281c7749e",
-            "ref": "lough-o-flynn-walking-route"
-        },
-        {
-            "description": "Castlerea Park and River Walk",
-            "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
-            "ref": "castlerea-park-and-river-walk"
-        },
-        {
-            "description": "Knockma Castle Hacket Walk",
-            "objectID": "f2860b1cef6c24f35643fb8a7b9d6862",
-            "ref": "knockma-castle-hacket-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/78469168f92f60930e0af3117cfe90ae.gpx",
-    "_geoloc": {
-        "lat": 53.673545,
-        "lng": -8.703844
+  "created_at": "2026-10-22T22:34:17.120109+00:00",
+  "objectID": "78469168f92f60930e0af3117cfe90ae",
+  "ref": "cloonfad-forest-walk",
+  "title": "Cloonfad Forest Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg/500px-Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg?_=20231211141303",
+  "nearby": [
+    {
+      "description": "Lough O Flynn",
+      "objectID": "30dce3a9b2f2e59c1033877281c7749e",
+      "ref": "lough-o-flynn-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg",
-            "title": "Forest track and path used by the Clogher Loop Walk by Peter Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forest track and path used by the Clogher Loop Walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Track_and_path_used_by_the_Derrylahan_Loop_Walk_-_geograph.org.uk_-_5909916.jpg",
-            "title": "Track and path used by the Derrylahan Loop Walk by Peter Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Track and path used by the Derrylahan Loop Walk"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "This circular loop walk explores the Cloonfad Forest on the border of County Roscommon and County Galway. You can start the walk from the Cloonfad Scenic Walks Resource Centre where parking is available. From here you can pick up a series of waymarked trails taking you to peaceful woodland, bog and a number of interesting historical features. There's pretty heather, woodland birds and fine views of the surrounding countryside to enjoy on the way. To continue your walking in the area head to Lough O' Flynn where there's some lovely waterside trails.",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "description": "Castlerea Park and River Walk",
+      "objectID": "f9a3aa169d31c1a59eec2e9634b3c25b",
+      "ref": "castlerea-park-and-river-walk"
+    },
+    {
+      "description": "Knockma Castle Hacket Walk",
+      "objectID": "f2860b1cef6c24f35643fb8a7b9d6862",
+      "ref": "knockma-castle-hacket-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/78469168f92f60930e0af3117cfe90ae.gpx",
+  "_geoloc": {
+    "lat": 53.673545,
+    "lng": -8.703844
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Forest_track_and_path_used_by_the_Clogher_Loop_Walk_-_geograph.org.uk_-_5910082.jpg",
+      "title": "Forest track and path used by the Clogher Loop Walk by Peter Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forest track and path used by the Clogher Loop Walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Track_and_path_used_by_the_Derrylahan_Loop_Walk_-_geograph.org.uk_-_5909916.jpg",
+      "title": "Track and path used by the Derrylahan Loop Walk by Peter Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Track and path used by the Derrylahan Loop Walk"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "This circular loop walk explores the Cloonfad Forest on the border of County Roscommon and County Galway. You can start the walk from the Cloonfad Scenic Walks Resource Centre where parking is available. From here you can pick up a series of waymarked trails taking you to peaceful woodland, bog and a number of interesting historical features. There's pretty heather, woodland birds and fine views of the surrounding countryside to enjoy on the way. To continue your walking in the area head to Lough O' Flynn where there's some lovely waterside trails.",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "bog"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

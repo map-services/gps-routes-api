@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Waterfall_near_Kenmare_Old_Road_-_geograph.org.uk_-_981033.jpg?20110223022449",
       "title": "Trevor Harris / Waterfall near Kenmare Old Road",
-      "caption": "Waterfall near Kenmare Old Road. Wildlife is abundant, with red deer often spotted in the national park section near Killarney. Foxes, hares, and badgers inhabit the area, while birds such as kestrels, ravens, and skylarks are common sightings. The region’s waterways and bogs are home to frogs, dragonflies, and damselflies, especially in the warmer months."
+      "caption": "Waterfall near Kenmare Old Road. Wildlife is abundant, with red deer often spotted in the national park section near Killarney. Foxes, hares, and badgers inhabit the area, while birds such as kestrels, ravens, and skylarks are common sightings. The region\u2019s waterways and bogs are home to frogs, dragonflies, and damselflies, especially in the warmer months."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Killarney_-_Street_Scene_-_geograph.org.uk_-_661593.jpg?20110207184849",
@@ -59,8 +59,25 @@
     }
   ],
   "distance_km": 24.0,
-  "description": "This walk follows the Kerry Way from Killarney to Kenmare via the Old Road. The route begins in the bustling town of Killarney, known for its charming streets and proximity to Killarney National Park. From here, it ascends into the rugged beauty of the MacGillycuddy's Reeks and the rolling hills of County Kerry, with stunning views of mountain valleys and the shimmering waters of Lough Leane. The trail then descends towards Kenmare, a picturesque heritage town nestled at the head of Kenmare Bay. Along the way, walkers encounter a mix of ancient pathways, forest tracks, and open countryside. The Old Road section is particularly captivating, offering a sense of stepping back in time as you traverse the same route once used by travellers and traders. Historical landmarks such as old stone bridges, ruins, and field boundaries provide glimpses into the area’s past, adding to the walk's cultural and historical richness. Other highlights include the picturesque Muckross Lake where there is a fine loop walk around the water.",
+  "description": "This walk follows the Kerry Way from Killarney to Kenmare via the Old Road. The route begins in the bustling town of Killarney, known for its charming streets and proximity to Killarney National Park. From here, it ascends into the rugged beauty of the MacGillycuddy's Reeks and the rolling hills of County Kerry, with stunning views of mountain valleys and the shimmering waters of Lough Leane. The trail then descends towards Kenmare, a picturesque heritage town nestled at the head of Kenmare Bay. Along the way, walkers encounter a mix of ancient pathways, forest tracks, and open countryside. The Old Road section is particularly captivating, offering a sense of stepping back in time as you traverse the same route once used by travellers and traders. Historical landmarks such as old stone bridges, ruins, and field boundaries provide glimpses into the area\u2019s past, adding to the walk's cultural and historical richness. Other highlights include the picturesque Muckross Lake where there is a fine loop walk around the water.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/gX5Q6b-RfWU?si=AqFQm57I_AMYPXke",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "rolling hill",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

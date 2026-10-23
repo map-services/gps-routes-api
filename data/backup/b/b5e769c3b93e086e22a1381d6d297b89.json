@@ -1,43 +1,60 @@
 {
-    "created_at": "2026-10-22T22:43:59.605709+00:00",
-    "objectID": "b5e769c3b93e086e22a1381d6d297b89",
-    "ref": "llyn-tryweryn-walk",
-    "title": "Llyn Tryweryn Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg/500px-Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg?20221125124915",
-    "nearby": [
-        {
-            "description": "Cwm Prysor Viaduct Walk",
-            "objectID": "3691c4037cd38831db2064f03cab00f3",
-            "ref": "cwm-prysor-viaduct-walk"
-        },
-        {
-            "description": "Llyn Trawsfynydd",
-            "objectID": "44f9edc0a1bfe509a1a1b0ea9c13921a",
-            "ref": "llyn-trawsfynydd-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b5e769c3b93e086e22a1381d6d297b89.gpx",
-    "_geoloc": {
-        "lat": 52.931109594,
-        "lng": -3.8105729207
+  "created_at": "2026-10-22T22:43:59.605709+00:00",
+  "objectID": "b5e769c3b93e086e22a1381d6d297b89",
+  "ref": "llyn-tryweryn-walk",
+  "title": "Llyn Tryweryn Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg/500px-Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg?20221125124915",
+  "nearby": [
+    {
+      "description": "Cwm Prysor Viaduct Walk",
+      "objectID": "3691c4037cd38831db2064f03cab00f3",
+      "ref": "cwm-prysor-viaduct-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg",
-            "title": "Llyn Tryweryn by Ian Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Llyn Tryweryn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Llyn_Tryweryn_-_geograph.org.uk_-_4045798.jpg",
-            "title": "Llyn Tryweryn by Ian Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Llyn Tryweryn"
-        }
-    ],
-    "distance_km": 1.1,
-    "description": "This short walk visits Llyn Tryweryn in Gwynedd, North Wales. The small lake is very beautiful with great views across the water to the surrounding mountains of Snowdonia. There is a parking area just west of the lake. You can then follow a pleasant footpath along the northern end of the water.TheCwm Prysor Viaduct Walkstarts near the lake and is a good way to further explore the area.",
-    "details": [],
-    "county": "Gwynedd - Gwynedd",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Llyn Trawsfynydd",
+      "objectID": "44f9edc0a1bfe509a1a1b0ea9c13921a",
+      "ref": "llyn-trawsfynydd-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b5e769c3b93e086e22a1381d6d297b89.gpx",
+  "_geoloc": {
+    "lat": 52.931109594,
+    "lng": -3.8105729207
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Llyn_Tryweryn_-_geograph.org.uk_-_4045806.jpg",
+      "title": "Llyn Tryweryn by Ian Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Llyn Tryweryn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Llyn_Tryweryn_-_geograph.org.uk_-_4045798.jpg",
+      "title": "Llyn Tryweryn by Ian Medcalf, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Llyn Tryweryn"
+    }
+  ],
+  "distance_km": 1.1,
+  "description": "This short walk visits Llyn Tryweryn in Gwynedd, North Wales. The small lake is very beautiful with great views across the water to the surrounding mountains of Snowdonia. There is a parking area just west of the lake. You can then follow a pleasant footpath along the northern end of the water.TheCwm Prysor Viaduct Walkstarts near the lake and is a good way to further explore the area.",
+  "details": [],
+  "county": "Gwynedd - Gwynedd",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "path"
+  ],
+  "points_of_interest": [
+    "lake",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

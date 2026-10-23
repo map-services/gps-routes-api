@@ -1,40 +1,57 @@
 {
-    "created_at": "2026-10-22T22:00:28.915450+00:00",
-    "objectID": "243b75e55a71123bf612fcb4dfd4be5d",
-    "ref": "warren-hill-walking-route",
-    "title": "Warren Hill Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg/500px-Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg?20241024195518",
-    "nearby": [
-        {
-            "description": "Newmarket",
-            "objectID": "d2c6b68acfdd851ba402c618b1842482",
-            "ref": "newmarket-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/243b75e55a71123bf612fcb4dfd4be5d.gpx",
-    "_geoloc": {
-        "lat": 52.2452037435,
-        "lng": 0.4098290349
+  "created_at": "2026-10-22T22:00:28.915450+00:00",
+  "objectID": "243b75e55a71123bf612fcb4dfd4be5d",
+  "ref": "warren-hill-walking-route",
+  "title": "Warren Hill Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg/500px-Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg?20241024195518",
+  "nearby": [
+    {
+      "description": "Newmarket",
+      "objectID": "d2c6b68acfdd851ba402c618b1842482",
+      "ref": "newmarket-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/243b75e55a71123bf612fcb4dfd4be5d.gpx",
+  "_geoloc": {
+    "lat": 52.2452037435,
+    "lng": 0.4098290349
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg",
+      "title": "Gallops on Warren Hill by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": ""
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg",
-            "title": "Gallops on Warren Hill by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": ""
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg",
-            "title": "Gallops on Warren Hill by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": ""
-        }
-    ],
-    "distance_km": 2.3,
-    "description": "This walk visits Warren Hill in Newmarket. You can follow a trail along the racecourse to the hill. Starting from the town, the route leads you out past sections of the famous Newmarket Racecourse, where you may see strings of racehorses exercising on the gallops in the morning. The path continues gently upwards towards Warren Hill, one of the well-known training grounds in the area. The open grassland here gives a good sense of the scale and history of Newmarket’s racing tradition, while the climb offers steadily improving views back across the town and the surrounding Suffolk countryside. At the top of Warren Hill you can enjoy wide panoramas over the gently rolling landscape, with the racecourse and training grounds stretching out below. The open nature of the hill makes it a pleasant spot for a short stroll, with the chance to watch horses in training if you time your visit well.",
-    "details": [],
-    "postcode": "CB8 8DH",
-    "district": "Newmarket",
-    "county": "Suffolk",
-    "region": "Eastern",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gallops_on_Warren_Hill_-_geograph.org.uk_-_6883629.jpg",
+      "title": "Gallops on Warren Hill by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": ""
+    }
+  ],
+  "distance_km": 2.3,
+  "description": "This walk visits Warren Hill in Newmarket. You can follow a trail along the racecourse to the hill. Starting from the town, the route leads you out past sections of the famous Newmarket Racecourse, where you may see strings of racehorses exercising on the gallops in the morning. The path continues gently upwards towards Warren Hill, one of the well-known training grounds in the area. The open grassland here gives a good sense of the scale and history of Newmarket\u2019s racing tradition, while the climb offers steadily improving views back across the town and the surrounding Suffolk countryside. At the top of Warren Hill you can enjoy wide panoramas over the gently rolling landscape, with the racecourse and training grounds stretching out below. The open nature of the hill makes it a pleasant spot for a short stroll, with the chance to watch horses in training if you time your visit well.",
+  "details": [],
+  "postcode": "CB8 8DH",
+  "district": "Newmarket",
+  "county": "Suffolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

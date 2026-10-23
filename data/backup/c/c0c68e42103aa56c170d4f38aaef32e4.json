@@ -1,54 +1,69 @@
 {
-    "created_at": "2026-10-22T22:35:54.226665+00:00",
-    "objectID": "c0c68e42103aa56c170d4f38aaef32e4",
-    "ref": "danebridge-walk",
-    "title": "Danebridge Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dane_Bridge.jpg/500px-Dane_Bridge.jpg?20210206131834",
-    "nearby": [
-        {
-            "description": "Lud's Church",
-            "objectID": "9bac060ba17e107bdca38060132daa54",
-            "ref": "luds-church-walking-route"
-        },
-        {
-            "description": "Wincle",
-            "objectID": "09b85e32e91d9130e3ea59dc09795b7a",
-            "ref": "wincle-walking-route"
-        },
-        {
-            "description": "Gradbach",
-            "objectID": "cc0beb89d9168f47e7260c29f79af5e1",
-            "ref": "gradbach-walking-route"
-        },
-        {
-            "description": "Dane Valley Way",
-            "objectID": "582095bf203f299b18ab2b96d6f2fd79",
-            "ref": "dane-valley-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c0c68e42103aa56c170d4f38aaef32e4.gpx",
-    "_geoloc": {
-        "lat": 53.1838241101,
-        "lng": -2.0535696295
+  "created_at": "2026-10-22T22:35:54.226665+00:00",
+  "objectID": "c0c68e42103aa56c170d4f38aaef32e4",
+  "ref": "danebridge-walk",
+  "title": "Danebridge Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dane_Bridge.jpg/500px-Dane_Bridge.jpg?20210206131834",
+  "nearby": [
+    {
+      "description": "Lud's Church",
+      "objectID": "9bac060ba17e107bdca38060132daa54",
+      "ref": "luds-church-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dane_Bridge.jpg",
-            "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Dane Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Forest_Wood_near_Gradbach_-_geograph.org.uk_-_5935715.jpg",
-            "title": "Forest Wood near Gradbach by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forest Wood near Gradbach"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "This circular walk explores the area around Danebridge. The route explores the lovely River Dane Valley using a section of the Dane Valley Way long distance trail. There's nice riverside paths, country trails and a visit to Forest Wood at the eastern end of the walk. The route also passes the wonderful cavern of Lud's Church which is well worth exploring.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/CRzVd27OJHY?si=qDhNRnQRpvoyfVAg",
-    "county": "Cheshire East",
-    "region": "North West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Wincle",
+      "objectID": "09b85e32e91d9130e3ea59dc09795b7a",
+      "ref": "wincle-walking-route"
+    },
+    {
+      "description": "Gradbach",
+      "objectID": "cc0beb89d9168f47e7260c29f79af5e1",
+      "ref": "gradbach-walking-route"
+    },
+    {
+      "description": "Dane Valley Way",
+      "objectID": "582095bf203f299b18ab2b96d6f2fd79",
+      "ref": "dane-valley-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c0c68e42103aa56c170d4f38aaef32e4.gpx",
+  "_geoloc": {
+    "lat": 53.1838241101,
+    "lng": -2.0535696295
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dane_Bridge.jpg",
+      "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Dane Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Forest_Wood_near_Gradbach_-_geograph.org.uk_-_5935715.jpg",
+      "title": "Forest Wood near Gradbach by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forest Wood near Gradbach"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "This circular walk explores the area around Danebridge. The route explores the lovely River Dane Valley using a section of the Dane Valley Way long distance trail. There's nice riverside paths, country trails and a visit to Forest Wood at the eastern end of the walk. The route also passes the wonderful cavern of Lud's Church which is well worth exploring.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/CRzVd27OJHY?si=qDhNRnQRpvoyfVAg",
+  "county": "Cheshire East",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours 10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside",
+    "country"
+  ],
+  "points_of_interest": [
+    "cavern"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

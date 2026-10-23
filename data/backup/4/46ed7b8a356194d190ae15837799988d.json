@@ -1,36 +1,53 @@
 {
-    "created_at": "2026-10-22T21:12:18.811891+00:00",
-    "objectID": "46ed7b8a356194d190ae15837799988d",
-    "ref": "baily-lighthouse-walk",
-    "title": "Baily Lighthouse Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baily_Lighthouse_Howth_02.JPG/500px-Baily_Lighthouse_Howth_02.JPG?20110518012551",
-    "nearby": [
-        {
-            "description": "Howth Cliff Walk",
-            "objectID": "73104c9d9a922e3f90838833974bc979",
-            "ref": "howth-cliff-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/46ed7b8a356194d190ae15837799988d.gpx",
-    "_geoloc": {
-        "lat": 53.370905377,
-        "lng": -6.0559226405
+  "created_at": "2026-10-22T21:12:18.811891+00:00",
+  "objectID": "46ed7b8a356194d190ae15837799988d",
+  "ref": "baily-lighthouse-walk",
+  "title": "Baily Lighthouse Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baily_Lighthouse_Howth_02.JPG/500px-Baily_Lighthouse_Howth_02.JPG?20110518012551",
+  "nearby": [
+    {
+      "description": "Howth Cliff Walk",
+      "objectID": "73104c9d9a922e3f90838833974bc979",
+      "ref": "howth-cliff-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/46ed7b8a356194d190ae15837799988d.gpx",
+  "_geoloc": {
+    "lat": 53.370905377,
+    "lng": -6.0559226405
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Baily_Lighthouse_Howth_02.JPG",
+      "title": "YvonneM, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Baily Lighthouse Howth"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Baily_Lighthouse_Howth_02.JPG",
-            "title": "YvonneM, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Baily Lighthouse Howth"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Baily_Lighthouse_Howth_Dublin_01.JPG",
-            "title": "Superchilum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Baily Lighthouse Howth Dublin"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "A walk to the Baily Lighthouse from Howth Summit offers one of Dublin's most spectacular and rewarding coastal hikes. Starting from the car park at Howth Summit, you'll begin your journey by heading south, following the well-marked trails of the Howth Cliff Walk. The path is relatively easy to navigate but does have some steep sections and uneven ground, so sturdy footwear is a good idea. As you make your way along the cliff tops, you'll be treated to breathtaking, uninterrupted views of the coastline. To your left, the Irish Sea stretches out to the horizon, and on a clear day, you can see across Dublin Bay to the distant Wicklow Mountains and the Sugarloaf. The final destination of the walk is the iconic Baily Lighthouse. Perched dramatically on a rocky headland, the lighthouse has stood sentinel over Dublin Bay since the early 19th century. Although the lighthouse itself is not open to the public, the path takes you to a fantastic vantage point above it, offering stunning views of the structure, the churning sea below, and the dramatic cliffs that lead to it. It\u2019s a perfect spot for photos and a well-deserved rest before heading back. You can continue your walking on the longer Howth Cliff Walk Purple Route .",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/Es8fVXziRKs?si=REQW3HIyJ191it7o",
-    "gazetteer_found": false
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Baily_Lighthouse_Howth_Dublin_01.JPG",
+      "title": "Superchilum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Baily Lighthouse Howth Dublin"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "A walk to the Baily Lighthouse from Howth Summit offers one of Dublin's most spectacular and rewarding coastal hikes. Starting from the car park at Howth Summit, you'll begin your journey by heading south, following the well-marked trails of the Howth Cliff Walk. The path is relatively easy to navigate but does have some steep sections and uneven ground, so sturdy footwear is a good idea. As you make your way along the cliff tops, you'll be treated to breathtaking, uninterrupted views of the coastline. To your left, the Irish Sea stretches out to the horizon, and on a clear day, you can see across Dublin Bay to the distant Wicklow Mountains and the Sugarloaf. The final destination of the walk is the iconic Baily Lighthouse. Perched dramatically on a rocky headland, the lighthouse has stood sentinel over Dublin Bay since the early 19th century. Although the lighthouse itself is not open to the public, the path takes you to a fantastic vantage point above it, offering stunning views of the structure, the churning sea below, and the dramatic cliffs that lead to it. It\u2019s a perfect spot for photos and a well-deserved rest before heading back. You can continue your walking on the longer Howth Cliff Walk Purple Route .",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/Es8fVXziRKs?si=REQW3HIyJ191it7o",
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "lighthouse",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

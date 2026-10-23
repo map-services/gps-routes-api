@@ -1,41 +1,55 @@
 {
-    "created_at": "2026-10-22T21:15:21.716079+00:00",
-    "objectID": "241a1882cc08b5ff4d03f3147ddc02c6",
-    "ref": "bradwell-to-castleton-walking-route",
-    "title": "Bradwell to Castleton Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg/500px-Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg?20220512081349",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/241a1882cc08b5ff4d03f3147ddc02c6.gpx",
-    "_geoloc": {
-        "lat": 53.3271947329,
-        "lng": -1.7399862111
+  "created_at": "2026-10-22T21:15:21.716079+00:00",
+  "objectID": "241a1882cc08b5ff4d03f3147ddc02c6",
+  "ref": "bradwell-to-castleton-walking-route",
+  "title": "Bradwell to Castleton Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg/500px-Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg?20220512081349",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/241a1882cc08b5ff4d03f3147ddc02c6.gpx",
+  "_geoloc": {
+    "lat": 53.3271947329,
+    "lng": -1.7399862111
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg",
+      "title": "Bradwell Brook, Bradwell by Dave Pickersgill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bradwell Brook, Bradwell"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bradwell_Brook%2C_Bradwell_-_geograph.org.uk_-_3520458.jpg",
-            "title": "Bradwell Brook, Bradwell by Dave Pickersgill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bradwell Brook, Bradwell"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Castleton%2C_Derbyshire_-_geograph.org.uk_-_682874.jpg?20110208010952",
-            "title": "Phillip Perry / Castleton, Derbyshire",
-            "caption": "Castleton, Derbyshire"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hope_Cement_Works_-_geograph.org.uk_-_1942289.jpg",
-            "title": "Hope Cement Works by Stephen Burton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hope Cement Works"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Footpath_on_Bradwell_Moor_-_geograph.org.uk_-_1558438.jpg?20110303131043",
-            "title": "Chris Wimbush / Footpath on Bradwell Moor",
-            "caption": "Footpath on Bradwell Moor"
-        }
-    ],
-    "distance_km": 9.1,
-    "description": "This circular walk takes you from Bradwell to Castleton in Derbyshire. It runs for just under 6 miles along a series of local footpaths and quiet country lanes. The opening leg starts in Bradwell and follows a direct route to Castleton pass the Hope Cement Works, the large limestone quarry and Pin Dale. You'll then return on a quiet country lane with some fine views over the surrounding Peak District countryside.",
-    "details": [],
-    "county": "Derbyshire",
-    "region": "East Midlands",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Castleton%2C_Derbyshire_-_geograph.org.uk_-_682874.jpg?20110208010952",
+      "title": "Phillip Perry / Castleton, Derbyshire",
+      "caption": "Castleton, Derbyshire"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hope_Cement_Works_-_geograph.org.uk_-_1942289.jpg",
+      "title": "Hope Cement Works by Stephen Burton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hope Cement Works"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Footpath_on_Bradwell_Moor_-_geograph.org.uk_-_1558438.jpg?20110303131043",
+      "title": "Chris Wimbush / Footpath on Bradwell Moor",
+      "caption": "Footpath on Bradwell Moor"
+    }
+  ],
+  "distance_km": 9.1,
+  "description": "This circular walk takes you from Bradwell to Castleton in Derbyshire. It runs for just under 6 miles along a series of local footpaths and quiet country lanes. The opening leg starts in Bradwell and follows a direct route to Castleton pass the Hope Cement Works, the large limestone quarry and Pin Dale. You'll then return on a quiet country lane with some fine views over the surrounding Peak District countryside.",
+  "details": [],
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane"
+  ],
+  "points_of_interest": [
+    "quarry"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

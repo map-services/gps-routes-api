@@ -1,50 +1,68 @@
 {
-    "created_at": "2026-10-22T21:59:16.754956+00:00",
-    "objectID": "d0c6d8bb64b4c8daf8433ae48196bcd3",
-    "ref": "totnes-to-ashprington-walk",
-    "title": "Totnes to Ashprington Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg/500px-Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg?20240708023037",
-    "nearby": [
-        {
-            "description": "Totnes to Dartington Walk",
-            "objectID": "aedf6ee91774814d6060bd14427fb266",
-            "ref": "totnes-to-dartington-walk"
-        },
-        {
-            "description": "Staverton Riverside Walk",
-            "objectID": "acd25934be47b18675e026ad37017d6f",
-            "ref": "staverton-riverside-walk"
-        },
-        {
-            "description": "Totnes to Sharpham Walk",
-            "objectID": "0d96d24b34481bbb44fac055f03c4d33",
-            "ref": "Totnes-to-sharpham-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d0c6d8bb64b4c8daf8433ae48196bcd3.gpx",
-    "_geoloc": {
-        "lat": 50.4307670238,
-        "lng": -3.6830149353
+  "created_at": "2026-10-22T21:59:16.754956+00:00",
+  "objectID": "d0c6d8bb64b4c8daf8433ae48196bcd3",
+  "ref": "totnes-to-ashprington-walk",
+  "title": "Totnes to Ashprington Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg/500px-Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg?20240708023037",
+  "nearby": [
+    {
+      "description": "Totnes to Dartington Walk",
+      "objectID": "aedf6ee91774814d6060bd14427fb266",
+      "ref": "totnes-to-dartington-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg",
-            "title": "Ashprington Centre by Wayland Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ashprington Centre"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ashprington_-_geograph.org.uk_-_4754066.jpg",
-            "title": "Ashprington by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Ashprington"
-        }
-    ],
-    "distance_km": 8.1,
-    "description": "This circular walk takes you from Totnes to the neighbouring village of Ashprington. Starting on the river in Totnes you'll head south along the Dart Valley Trail to Ashprington, passing the Sharpham Estate on the way. In the pretty village there a noteworthy church dating from the 15th century and a local pub for refreshments. The route then takes you north along quiet country lanes to return to Totnes. On the walk there are some splendid views across the lovely Dart Valley countryside and hills.",
-    "details": [],
-    "postcode": "TQ9 5DD",
-    "district": "Totnes",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England",
-    "gazetteer_found": true
+    {
+      "description": "Staverton Riverside Walk",
+      "objectID": "acd25934be47b18675e026ad37017d6f",
+      "ref": "staverton-riverside-walk"
+    },
+    {
+      "description": "Totnes to Sharpham Walk",
+      "objectID": "0d96d24b34481bbb44fac055f03c4d33",
+      "ref": "Totnes-to-sharpham-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d0c6d8bb64b4c8daf8433ae48196bcd3.gpx",
+  "_geoloc": {
+    "lat": 50.4307670238,
+    "lng": -3.6830149353
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ashprington_Centre_-_geograph.org.uk_-_6453804.jpg",
+      "title": "Ashprington Centre by Wayland Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ashprington Centre"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ashprington_-_geograph.org.uk_-_4754066.jpg",
+      "title": "Ashprington by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ashprington"
+    }
+  ],
+  "distance_km": 8.1,
+  "description": "This circular walk takes you from Totnes to the neighbouring village of Ashprington. Starting on the river in Totnes you'll head south along the Dart Valley Trail to Ashprington, passing the Sharpham Estate on the way. In the pretty village there a noteworthy church dating from the 15th century and a local pub for refreshments. The route then takes you north along quiet country lanes to return to Totnes. On the walk there are some splendid views across the lovely Dart Valley countryside and hills.",
+  "details": [],
+  "postcode": "TQ9 5DD",
+  "district": "Totnes",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "valley",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

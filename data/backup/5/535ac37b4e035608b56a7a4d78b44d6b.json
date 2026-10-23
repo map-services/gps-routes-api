@@ -1,54 +1,71 @@
 {
-    "created_at": "2026-10-22T22:50:51.452156+00:00",
-    "objectID": "535ac37b4e035608b56a7a4d78b44d6b",
-    "ref": "saint-sand-and-sea-trail-walking-route",
-    "title": "Newborough Forest Saint Sand and Sea Trail Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg/500px-Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg?20230922131556",
-    "nearby": [
-        {
-            "description": "Newborough Forest",
-            "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
-            "ref": "newborough-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Llanddwyn Island",
-            "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
-            "ref": "llanddwyn-island-walking-route"
-        },
-        {
-            "description": "Dwyran Stepping Stones Walk",
-            "objectID": "0466f0d5edee8cdcd31958e07237dd23",
-            "ref": "dwyran-stepping-stones-walk"
-        },
-        {
-            "description": "Llyn Rhos-Ddu to Moel Y Don Walk",
-            "objectID": "0f88b42528a8b7ca33bcc66117913e02",
-            "ref": "llyn-rhos-ddu-to-moel-y-don-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/535ac37b4e035608b56a7a4d78b44d6b.gpx",
-    "_geoloc": {
-        "lat": 53.1442205074,
-        "lng": -4.3857636147
+  "created_at": "2026-10-22T22:50:51.452156+00:00",
+  "objectID": "535ac37b4e035608b56a7a4d78b44d6b",
+  "ref": "saint-sand-and-sea-trail-walking-route",
+  "title": "Newborough Forest Saint Sand and Sea Trail Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg/500px-Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg?20230922131556",
+  "nearby": [
+    {
+      "description": "Newborough Forest",
+      "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
+      "ref": "newborough-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg",
-            "title": "Twr Bach on Ynys Llanddwyn by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Twr Bach on Ynys Llanddwyn"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Newborough_Forest_-_geograph.org.uk_-_2617413.jpg",
-            "title": "Newborough Forest by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Newborough Forest"
-        }
-    ],
-    "distance_km": 7.0,
-    "description": "This waymarked circular walk explores Newborough Forest and Llanddwyn Island in Anglesey. The route takes you through the diverse woodlands of Newborough Forest, where you can enjoy a mix of pine and broadleaf trees, listen for the calls of local woodland birds, and spot occasional red squirrels. From the forest, the trail leads to the windswept sands and dunes of Llanddwyn Island, offering stunning coastal views across the Irish Sea. You may also encounter seabirds along the shore and wildflowers in season. Along the way, the walk passes historic landmarks, including the remains of the old St Dwynwen’s Church on the island, adding a touch of local heritage to the natural scenery.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/hFmloJOYkv8?si=zgTTBK6V_2Ub--vy",
-    "county": "Sir Ynys Mon - Isle of Anglesey",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "description": "Llanddwyn Island",
+      "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
+      "ref": "llanddwyn-island-walking-route"
+    },
+    {
+      "description": "Dwyran Stepping Stones Walk",
+      "objectID": "0466f0d5edee8cdcd31958e07237dd23",
+      "ref": "dwyran-stepping-stones-walk"
+    },
+    {
+      "description": "Llyn Rhos-Ddu to Moel Y Don Walk",
+      "objectID": "0f88b42528a8b7ca33bcc66117913e02",
+      "ref": "llyn-rhos-ddu-to-moel-y-don-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/535ac37b4e035608b56a7a4d78b44d6b.gpx",
+  "_geoloc": {
+    "lat": 53.1442205074,
+    "lng": -4.3857636147
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Twr_Bach_on_Ynys_Llanddwyn_-_geograph.org.uk_-_5460450.jpg",
+      "title": "Twr Bach on Ynys Llanddwyn by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Twr Bach on Ynys Llanddwyn"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Newborough_Forest_-_geograph.org.uk_-_2617413.jpg",
+      "title": "Newborough Forest by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Newborough Forest"
+    }
+  ],
+  "distance_km": 7.0,
+  "description": "This waymarked circular walk explores Newborough Forest and Llanddwyn Island in Anglesey. The route takes you through the diverse woodlands of Newborough Forest, where you can enjoy a mix of pine and broadleaf trees, listen for the calls of local woodland birds, and spot occasional red squirrels. From the forest, the trail leads to the windswept sands and dunes of Llanddwyn Island, offering stunning coastal views across the Irish Sea. You may also encounter seabirds along the shore and wildflowers in season. Along the way, the walk passes historic landmarks, including the remains of the old St Dwynwen\u2019s Church on the island, adding a touch of local heritage to the natural scenery.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/hFmloJOYkv8?si=zgTTBK6V_2Ub--vy",
+  "county": "Sir Ynys Mon - Isle of Anglesey",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "dune"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -54,7 +54,7 @@
     }
   ],
   "distance_km": 8.0,
-  "description": "This circular walk starts in the picturesque village of Symondsbury, known for its thatched cottages and the historic Symondsbury Estate. From the village, you head west into Shute’s Lane, which gradually deepens into a spectacular \"holloway\"—an ancient sunken road carved into the soft sandstone over centuries by water, livestock, and cartwheels. As the path rises toward Quarry Cross, the high banks become more atmospheric, draped in ivy and gnarled tree roots, with mysterious faces and Celtic motifs etched into the rock by past travellers. On this section you will passColmers Hillwhich you can climb for some fine views of the area.At the five-way junction of Quarry Cross, you continue west as the track becomes Hell Lane, plunging into a dark, tunnel-like gorge that can be extremely muddy or even resemble a shallow stream bed in wet weather. This eerie, primeval stretch eventually leads you down into North Chideock, where the sunken walls begin to shallow out near local landmarks like the Church of Our Lady, Queen of Martyrs, a memorial to the Chideock Martyrs.For the return leg, you pick up a section of theMonarch's Way, a long-distance trail following the escape route of King Charles II. The path climbs away from North Chideock, offering sweeping views of the Marshwood Vale and glimpses of the Jurassic Coast to the south. The route then joins Broadoak Road, a quiet country lane that skirts the base of Old Warren Hill, providing a contrast to the enclosed holloways with its open vistas of rolling Dorset farmland. This final stretch leads you back into Symondsbury, where you can finish your journey with refreshments at the Ilchester Arms or the estate cafe.",
+  "description": "This circular walk starts in the picturesque village of Symondsbury, known for its thatched cottages and the historic Symondsbury Estate. From the village, you head west into Shute\u2019s Lane, which gradually deepens into a spectacular \"holloway\"\u2014an ancient sunken road carved into the soft sandstone over centuries by water, livestock, and cartwheels. As the path rises toward Quarry Cross, the high banks become more atmospheric, draped in ivy and gnarled tree roots, with mysterious faces and Celtic motifs etched into the rock by past travellers. On this section you will passColmers Hillwhich you can climb for some fine views of the area.At the five-way junction of Quarry Cross, you continue west as the track becomes Hell Lane, plunging into a dark, tunnel-like gorge that can be extremely muddy or even resemble a shallow stream bed in wet weather. This eerie, primeval stretch eventually leads you down into North Chideock, where the sunken walls begin to shallow out near local landmarks like the Church of Our Lady, Queen of Martyrs, a memorial to the Chideock Martyrs.For the return leg, you pick up a section of theMonarch's Way, a long-distance trail following the escape route of King Charles II. The path climbs away from North Chideock, offering sweeping views of the Marshwood Vale and glimpses of the Jurassic Coast to the south. The route then joins Broadoak Road, a quiet country lane that skirts the base of Old Warren Hill, providing a contrast to the enclosed holloways with its open vistas of rolling Dorset farmland. This final stretch leads you back into Symondsbury, where you can finish your journey with refreshments at the Ilchester Arms or the estate cafe.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/PF-a1WavPFs?si=0bWeqHmqNLX2GBrI",
   "postcode": "DT6 6HG",
@@ -62,5 +62,24 @@
   "county": "Dorset",
   "region": "South West",
   "country": "England",
-  "gazetteer_found": true
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "holloway",
+    "gorge",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

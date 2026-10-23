@@ -1,40 +1,57 @@
 {
-    "created_at": "2026-10-22T21:45:58.115167+00:00",
-    "objectID": "a03f76d82758752c3973a60368705f11",
-    "ref": "menai-bridge-to-beaumaris-walking-route",
-    "title": "Menai Bridge to Beaumaris Coastal Path Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg/500px-Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg?20230916203441",
-    "nearby": [
-        {
-            "description": "Belgian Promenade Walk",
-            "objectID": "f5176ee57eedc69d819f9b757b1802e8",
-            "ref": "belgian-promenade-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a03f76d82758752c3973a60368705f11.gpx",
-    "_geoloc": {
-        "lat": 53.2211513632,
-        "lng": -4.1639867528
+  "created_at": "2026-10-22T21:45:58.115167+00:00",
+  "objectID": "a03f76d82758752c3973a60368705f11",
+  "ref": "menai-bridge-to-beaumaris-walking-route",
+  "title": "Menai Bridge to Beaumaris Coastal Path Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg/500px-Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg?20230916203441",
+  "nearby": [
+    {
+      "description": "Belgian Promenade Walk",
+      "objectID": "f5176ee57eedc69d819f9b757b1802e8",
+      "ref": "belgian-promenade-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a03f76d82758752c3973a60368705f11.gpx",
+  "_geoloc": {
+    "lat": 53.2211513632,
+    "lng": -4.1639867528
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg",
+      "title": "Julian Herzog (Website), CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "caption": "Menai Suspension Bridge"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg",
-            "title": "Julian Herzog (Website), CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
-            "caption": "Menai Suspension Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Beaumaris_Castle_in_July_2023_%289%29.jpg",
-            "title": "InterstellarGamer12321, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-            "caption": "Beaumaris Castle in July 2023"
-        }
-    ],
-    "distance_km": 7.2,
-    "description": "This walk follows the Wales Coast Path from Menai Bridge to Beaumaris Castle. The walk runs for about 4.5 miles along the signposted coastal path. On the way you'll enjoy some splendid views of the surrounding coast and countryside. At the end of the route you can explore the 13 century castle and enjoy more fine views over the Menai Strait. You could extend the walk by visiting the nearby lighthouse at Penmon Point on the Beaumaris to Penmon Point Walk .",
-    "details": [],
-    "postcode": "LL59 5HH",
-    "district": "Porthaethwy / Menai Bridge",
-    "county": "Sir Ynys Mon - Isle of Anglesey",
-    "region": "Wales",
-    "country": "Wales",
-    "gazetteer_found": true
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Beaumaris_Castle_in_July_2023_%289%29.jpg",
+      "title": "InterstellarGamer12321, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "caption": "Beaumaris Castle in July 2023"
+    }
+  ],
+  "distance_km": 7.2,
+  "description": "This walk follows the Wales Coast Path from Menai Bridge to Beaumaris Castle. The walk runs for about 4.5 miles along the signposted coastal path. On the way you'll enjoy some splendid views of the surrounding coast and countryside. At the end of the route you can explore the 13 century castle and enjoy more fine views over the Menai Strait. You could extend the walk by visiting the nearby lighthouse at Penmon Point on the Beaumaris to Penmon Point Walk .",
+  "details": [],
+  "postcode": "LL59 5HH",
+  "district": "Porthaethwy / Menai Bridge",
+  "county": "Sir Ynys Mon - Isle of Anglesey",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "castle",
+    "viewpoint"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

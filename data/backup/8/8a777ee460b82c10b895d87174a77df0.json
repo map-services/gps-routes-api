@@ -1,45 +1,62 @@
 {
-    "created_at": "2026-10-22T21:12:39.968530+00:00",
-    "objectID": "8a777ee460b82c10b895d87174a77df0",
-    "ref": "ballyhornan-coastal-path-walk",
-    "title": "Ballyhornan Coastal Path Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg/500px-Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg?20230123021940",
-    "nearby": [
-        {
-            "description": "Castle Ward",
-            "objectID": "53170b67bd8c738cb1b5279d238df47a",
-            "ref": "castle-ward-walking-and-cycle-route"
-        },
-        {
-            "description": "Quoile River Walk",
-            "objectID": "07d799ea65e62139ff1c7322b7850911",
-            "ref": "quoile-river-walk"
-        },
-        {
-            "description": "Strangford Lough Delamont Park Loop Walk",
-            "objectID": "fe0253816fb91b43b90a5e0e53d02090",
-            "ref": "strangford-lough-delamont-park-loop-walk"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8a777ee460b82c10b895d87174a77df0.gpx",
-    "_geoloc": {
-        "lat": 54.30183,
-        "lng": -5.55411
+  "created_at": "2026-10-22T21:12:39.968530+00:00",
+  "objectID": "8a777ee460b82c10b895d87174a77df0",
+  "ref": "ballyhornan-coastal-path-walk",
+  "title": "Ballyhornan Coastal Path Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg/500px-Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg?20230123021940",
+  "nearby": [
+    {
+      "description": "Castle Ward",
+      "objectID": "53170b67bd8c738cb1b5279d238df47a",
+      "ref": "castle-ward-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg",
-            "title": "Raised beachs above Ballyhornan Bay by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Raised beachs above Ballyhornan Bay"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fortification_in_Ardglass_Harbour_-_geograph.org.uk_-_1536985.jpg?20110303062908",
-            "title": "Eric Jones / Fortification in Ardglass Harbour",
-            "caption": "Fortification in Ardglass Harbour"
-        }
-    ],
-    "distance_km": 4.7,
-    "description": "This walk takes you along the coastal path from Ballyhornan to Ardglass in County Down. The route runs for a distance of just under 5km, passing along the coastal path before picking up a quiet countryside lane to take to Ardglass. Along the way you can enjoy some fine views out to Gun Island which is accessible by foot at low tide as part of the scenic coastal walk. The area also includes some fine beaches and views out to the Isle of Man on a clear day. You can continue your walking by heading north along the coast to visit the wildlife rich Killard Nature Reserve. The historic Castle Ward can also be found to the north.",
-    "details": [],
-    "gazetteer_found": false
+    {
+      "description": "Quoile River Walk",
+      "objectID": "07d799ea65e62139ff1c7322b7850911",
+      "ref": "quoile-river-walk"
+    },
+    {
+      "description": "Strangford Lough Delamont Park Loop Walk",
+      "objectID": "fe0253816fb91b43b90a5e0e53d02090",
+      "ref": "strangford-lough-delamont-park-loop-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8a777ee460b82c10b895d87174a77df0.gpx",
+  "_geoloc": {
+    "lat": 54.30183,
+    "lng": -5.55411
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Raised_beachs_above_Ballyhornan_Bay_-_geograph.org.uk_-_4317053.jpg",
+      "title": "Raised beachs above Ballyhornan Bay by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Raised beachs above Ballyhornan Bay"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fortification_in_Ardglass_Harbour_-_geograph.org.uk_-_1536985.jpg?20110303062908",
+      "title": "Eric Jones / Fortification in Ardglass Harbour",
+      "caption": "Fortification in Ardglass Harbour"
+    }
+  ],
+  "distance_km": 4.7,
+  "description": "This walk takes you along the coastal path from Ballyhornan to Ardglass in County Down. The route runs for a distance of just under 5km, passing along the coastal path before picking up a quiet countryside lane to take to Ardglass. Along the way you can enjoy some fine views out to Gun Island which is accessible by foot at low tide as part of the scenic coastal walk. The area also includes some fine beaches and views out to the Isle of Man on a clear day. You can continue your walking by heading north along the coast to visit the wildlife rich Killard Nature Reserve. The historic Castle Ward can also be found to the north.",
+  "details": [],
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "historical site",
+    "nature reserve"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }
