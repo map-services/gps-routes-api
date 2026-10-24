@@ -3,24 +3,26 @@ package db
 import (
 	"context"
 	"database/sql"
+	"database/sql/driver"
 	"fmt"
 	"log"
 	"math"
 	"os"
 
-	"github.com/mattn/go-sqlite3"
+	mosqlite "modernc.org/sqlite"
 )
 
-// init registers a "sqlite3_haversine" driver that automatically registers a
-// haversine_distance(lon1, lat1, lon2, lat2) → meters scalar function on every
-// new connection via ConnectHook. This replaces Spatialite's ST_DWithin for
-// radius filtering and (via SQLiteDialect.BuildDistanceSort) for distance
-// sorting — no extension or sqlite_math_functions build tag required.
+// init registers haversine_distance(lon1, lat1, lon2, lat2) → meters as a
+// deterministic scalar SQL function on the "sqlite" driver (modernc.org/sqlite).
+// This replaces Spatialite's ST_DWithin for radius filtering and (via
+// SQLiteDialect.BuildDistanceSort) for distance sorting.
 func init() {
-	sql.Register("sqlite3_haversine", &sqlite3.SQLiteDriver{
-		ConnectHook: func(conn *sqlite3.SQLiteConn) error {
-			return conn.RegisterFunc("haversine_distance", haversineDistance, true)
-		},
+	mosqlite.MustRegisterDeterministicScalarFunction("haversine_distance", 4, func(ctx *mosqlite.FunctionContext, args []driver.Value) (driver.Value, error) {
+		lon1 := args[0].(float64)
+		lat1 := args[1].(float64)
+		lon2 := args[2].(float64)
+		lat2 := args[3].(float64)
+		return haversineDistance(lon1, lat1, lon2, lat2), nil
 	})
 }
 
@@ -48,7 +50,7 @@ type SQLiteConfig struct {
 }
 
 func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
-	// Construct connection string for SQLite
+	// Construct connection string for SQLite (modernc.org/sqlite format).
 	var dsn string
 	if config.ReadOnly {
 		// Read-only mode: open the database without write access. Multiple
@@ -61,9 +63,9 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 		log.Printf("Connecting to SQLite database at %s", config.Path)
 	}
 
-	// Open through the haversine-enabled driver. ConnectHook fires on the first
-	// connection (and every new one) to register haversine_distance().
-	db, err := sql.Open("sqlite3_haversine", dsn)
+	// Open through the modernc "sqlite" driver. The haversine_distance() function
+	// is registered globally in init() via MustRegisterDeterministicScalarFunction.
+	db, err := sql.Open("sqlite", dsn)
 	if err != nil {
 		return nil, fmt.Errorf("opening SQLite database: %w", err)
 	}
@@ -111,24 +113,23 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 	return db, nil
 }
 
-// loadSQLiteExtensions checks that FTS5 and R*Tree are compiled into the
-// SQLite library. It uses pragma_compile_options (a read-only query) so it
-// works in both read-only and read-write modes without creating temporary
-// tables.
+// loadSQLiteExtensions verifies that FTS5 and R*Tree virtual tables are
+// available. With modernc.org/sqlite these are always built-in, so we just
+// check the compile options (read-only safe).
 func loadSQLiteExtensions(db *sql.DB) error {
 	var fts5Count, rtreeCount int
 	if err := db.QueryRow("SELECT count(*) FROM pragma_compile_options WHERE compile_options LIKE '%FTS5%'").Scan(&fts5Count); err != nil {
 		return fmt.Errorf("checking FTS5 availability: %w", err)
 	}
 	if fts5Count == 0 {
-		return fmt.Errorf("FTS5 not available — rebuild with -tags \"sqlite,sqlite_fts5\"")
+		return fmt.Errorf("FTS5 not available in SQLite build")
 	}
 
 	if err := db.QueryRow("SELECT count(*) FROM pragma_compile_options WHERE compile_options LIKE '%RTREE%'").Scan(&rtreeCount); err != nil {
 		return fmt.Errorf("checking R*Tree availability: %w", err)
 	}
 	if rtreeCount == 0 {
-		return fmt.Errorf("R*Tree not available — rebuild with -tags \"sqlite,sqlite_fts5\"")
+		return fmt.Errorf("R*Tree not available in SQLite build")
 	}
 
 	return nil

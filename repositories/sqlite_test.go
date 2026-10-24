@@ -13,7 +13,7 @@ import (
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
-	_ "github.com/mattn/go-sqlite3"
+	_ "modernc.org/sqlite"
 )
 
 func setupSQLiteTestDB(t *testing.T) (*sql.DB, func()) {

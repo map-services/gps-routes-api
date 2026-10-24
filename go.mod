@@ -13,7 +13,6 @@ require (
 	github.com/ikeikeikeike/go-sitemap-generator/v2 v2.0.2
 	github.com/joho/godotenv v1.5.1
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
-	github.com/mattn/go-sqlite3 v1.14.52
 	github.com/rm-hull/godx v0.2.6
 	github.com/schollz/progressbar/v3 v3.19.1
 	github.com/spf13/cobra v1.10.2
@@ -21,6 +20,7 @@ require (
 	github.com/tavsec/gin-healthcheck v1.7.19
 	github.com/wroge/wgs84 v1.1.7
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
+	modernc.org/sqlite v1.60.1
 )
 
 require (
@@ -38,6 +38,7 @@ require (
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/cloudwego/base64x v0.1.7 // indirect
 	github.com/containerd/log v0.2.0 // indirect
+	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.16 // indirect
 	github.com/gin-contrib/sse v1.1.2 // indirect
@@ -67,6 +68,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/montanaflynn/stats v0.13.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
+	github.com/ncruces/go-strftime v1.0.0 // indirect
 	github.com/oapi-codegen/runtime v1.7.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pelletier/go-toml/v2 v2.4.3 // indirect
@@ -79,6 +81,7 @@ require (
 	github.com/quic-go/quic-go v0.64.0 // indirect
 	github.com/rabbitmq/amqp091-go v1.15.0 // indirect
 	github.com/redis/go-redis/v9 v9.23.0 // indirect
+	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/shirou/gopsutil/v4 v4.26.9 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
@@ -110,4 +113,7 @@ require (
 	golang.org/x/term v0.47.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
+	modernc.org/libc v1.77.1 // indirect
+	modernc.org/mathutil v1.7.1 // indirect
+	modernc.org/memory v1.12.1 // indirect
 )
