@@ -6,6 +6,7 @@ import (
 	"log/slog"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 
 	"github.com/Depado/ginprom"
@@ -41,6 +42,20 @@ func NewHttpApiServer(port int) {
 	defer cancel()
 
 	engine := gin.New()
+
+	// Configure trusted proxies from TRUSTED_PROXIES env var (comma-separated IPs or CIDRs).
+	// If not set, Gin defaults to trusting all proxies, which triggers a warning.
+	if trustedProxies := os.Getenv("TRUSTED_PROXIES"); trustedProxies != "" {
+		proxies := strings.Split(trustedProxies, ",")
+		for i, p := range proxies {
+			proxies[i] = strings.TrimSpace(p)
+		}
+		if err := engine.SetTrustedProxies(proxies); err != nil {
+			slog.Warn("failed to set trusted proxies, using Gin default", "error", err)
+		} else {
+			slog.Info("Trusted proxies configured", "proxies", proxies)
+		}
+	}
 
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
