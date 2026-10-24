@@ -143,6 +143,9 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		}
 	}
 
+	// Compute the effective sort for the response
+	effectiveSort := computeEffectiveSort(criteria)
+
 	return &domain.SearchResults{
 		Hits:        results,
 		BoundingBox: boundingBox,
@@ -153,7 +156,47 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		Limit:       effectiveLimit,
 		HasMore:     hasMore,
 		NextOffset:  nextOffset,
+		Sort:        effectiveSort,
 	}, nil
+}
+
+// computeEffectiveSort determines the effective sort field and direction based on
+// the search criteria. If an explicit sort is provided, it uses that with defaults
+// applied for missing direction. Otherwise, it returns the default sort for the
+// current search context.
+func computeEffectiveSort(criteria *request.SearchRequest) *common.Sort {
+	if criteria.Sort != nil && common.IsValidSortField(criteria.Sort.Field) {
+		direction := criteria.Sort.Direction
+		if direction == "" {
+			if criteria.Sort.Field == "relevance" {
+				direction = "DESC"
+			} else {
+				direction = "ASC"
+			}
+		}
+		return &common.Sort{
+			Field:     criteria.Sort.Field,
+			Direction: direction,
+		}
+	}
+
+	// Default sort logic
+	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
+		return &common.Sort{
+			Field:     "distance_km",
+			Direction: "ASC",
+		}
+	}
+	if criteria.Query != "" {
+		return &common.Sort{
+			Field:     "relevance",
+			Direction: "DESC",
+		}
+	}
+	return &common.Sort{
+		Field:     "created_at",
+		Direction: "DESC",
+	}
 }
 
 func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {

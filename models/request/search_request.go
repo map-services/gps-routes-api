@@ -22,6 +22,9 @@ type SearchRequest struct {
 	TruncateText bool `json:"truncateText,omitempty"`
 
 	SkipFacets bool `json:"skipFacets,omitempty"`
+
+	// Sort criteria for ordering results. Optional.
+	Sort *common.Sort `json:"sort,omitempty"`
 }
 
 type Nearby struct {

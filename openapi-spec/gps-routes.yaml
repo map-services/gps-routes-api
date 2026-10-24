@@ -78,7 +78,7 @@ paths:
               schema:
                 $ref: "#/components/schemas/GeoJSONFeatureCollection"
         "400":
-          description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, or an unknown facet field.
+          description: Invalid request, e.g. missing or invalid request body attributes, out-of-range offset/limit, both boundingBox and nearby specified, an unknown facet field, or an invalid sort field/direction.
           content:
             application/json:
               schema:
@@ -449,6 +449,32 @@ components:
           description: The body content for the detail section
           example: Head to the nearby Millstone Inn for some well earned post walk refreshments.
 
+    Sort:
+      type: object
+      description: >-
+        Sort criteria for ordering search results. When omitted, the API uses
+        default ordering: relevance (when query is provided), distance (when
+        nearby is provided), or created_at DESC otherwise.
+      properties:
+        field:
+          type: string
+          description: The field to sort by.
+          enum:
+            - distance_km
+            - difficulty
+            - estimated_duration
+            - title
+            - relevance
+          example: distance_km
+        direction:
+          type: string
+          description: >-
+            Sort direction. Defaults to ASC for most fields, DESC for relevance.
+          enum:
+            - ASC
+            - DESC
+          example: ASC
+
     SearchRequest:
       type: object
       properties:
@@ -512,6 +538,12 @@ components:
           type: boolean
           description: When true, skip computing facet counts in the search response
           example: false
+        sort:
+          $ref: "#/components/schemas/Sort"
+          description: >-
+            Optional sort criteria. When omitted, results are sorted by relevance
+            (if query is provided), distance (if nearby is provided), or created_at
+            DESC otherwise.
 
     SearchResults:
       type: object
@@ -569,6 +601,11 @@ components:
           format: int32
           description: The offset to use in the next request to fetch the following page (omitted when hasMore is false)
           example: 10
+        sort:
+          $ref: "#/components/schemas/Sort"
+          description: >-
+            The effective sort applied to results. Always present, reflects either
+            the explicit sort requested or the default sort for the search context.
 
     RefData:
       type: object

@@ -1,6 +1,8 @@
 package domain
 
-import "github.com/map-services/gps-routes-api/models/common"
+import (
+	"github.com/map-services/gps-routes-api/models/common"
+)
 
 type SearchResults struct {
 	Total int64 `json:"total"`
@@ -21,4 +23,7 @@ type SearchResults struct {
 	HasMore bool `json:"hasMore"`
 
 	NextOffset int32 `json:"nextOffset,omitempty"`
+
+	// Sort reflects the effective sort applied to results (explicit or default).
+	Sort *common.Sort `json:"sort,omitempty"`
 }

@@ -320,6 +320,57 @@ func (repo *SQLiteDbRepository) CountAll(ctx context.Context, criteria *request.
 	return count, nil
 }
 
+// buildSortExpression builds the SQL ORDER BY expression based on the Sort criteria.
+// If no explicit sort is provided, it falls back to defaults:
+// - nearby → distance from center point
+// - query → bm25 relevance
+// - otherwise → created_at DESC
+func buildSortExpression(criteria *request.SearchRequest, dialect *db.SQLiteDialect) string {
+	if criteria.Sort != nil && common.IsValidSortField(criteria.Sort.Field) {
+		return buildExplicitSortExpression(criteria.Sort)
+	}
+
+	// Default sort logic
+	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
+		return dialect.BuildDistanceSort("_geoloc", criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude) + " ASC"
+	}
+	if criteria.Query != "" {
+		return dialect.BuildFTSSort("routes_fts", "?") + " DESC"
+	}
+	return "routes.created_at DESC"
+}
+
+// buildExplicitSortExpression builds the SQL ORDER BY expression for an explicit sort.
+func buildExplicitSortExpression(sort *common.Sort) string {
+	direction := sort.Direction
+	if direction == "" {
+		// Default direction: ASC for most fields, DESC for relevance
+		if sort.Field == "relevance" {
+			direction = "DESC"
+		} else {
+			direction = "ASC"
+		}
+	}
+
+	var expr string
+	switch sort.Field {
+	case "distance_km":
+		expr = "routes.distance_km"
+	case "difficulty":
+		expr = "CASE WHEN routes.difficulty = 'easy' THEN 1 WHEN routes.difficulty = 'moderate' THEN 2 WHEN routes.difficulty = 'hard' THEN 3 ELSE 4 END"
+	case "estimated_duration":
+		expr = "routes.distance_km * CASE WHEN routes.difficulty = 'easy' THEN 1.0 WHEN routes.difficulty = 'moderate' THEN 1.4 WHEN routes.difficulty = 'hard' THEN 2.5 ELSE 1.5 END"
+	case "title":
+		expr = "routes.title"
+	case "relevance":
+		expr = "-bm25(routes_fts, 1.0, 0.4, 0.1)"
+	default:
+		expr = "routes.created_at"
+	}
+
+	return expr + " " + direction
+}
+
 func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *request.SearchRequest) (*[]domain.RouteSummary, error) {
 
 	selectPart := `
@@ -328,17 +379,17 @@ func (repo *SQLiteDbRepository) SearchHits(ctx context.Context, criteria *reques
 				routes.headline_image_url, routes.longitude, routes.latitude, routes.distance_km
 			FROM routes`
 
-	if criteria.Query != "" {
+	// Add routes_fts join if needed for query or relevance sort
+	needsFTS := criteria.Query != ""
+	if criteria.Sort != nil && criteria.Sort.Field == "relevance" {
+		needsFTS = true
+	}
+	if needsFTS {
 		selectPart += " JOIN routes_fts ON routes.rowid = routes_fts.rowid"
 	}
 
 	dialect := &db.SQLiteDialect{}
-	sortField := "routes.created_at DESC"
-	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
-		sortField = dialect.BuildDistanceSort("_geoloc", criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude) + " ASC"
-	} else if criteria.Query != "" {
-		sortField = dialect.BuildFTSSort("routes_fts", "?") + " DESC"
-	}
+	sortField := buildSortExpression(criteria, dialect)
 
 	qb := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS_SQLITE...).

@@ -2,6 +2,7 @@ package routes
 
 import (
 	"encoding/json"
+	"fmt"
 	"net/http"
 	"net/http/httptest"
 	"strings"
@@ -410,5 +411,145 @@ func TestSearch_NilHeadlineImageUrl(t *testing.T) {
 	// headline_image_url should be omitted due to omitempty
 	_, hasImage := properties["headline_image_url"]
 	assert.False(t, hasImage, "nil headline_image_url should be omitted")
+}
+
+func TestSearch_InvalidSortField(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	engine := gin.New()
+	api := &RoutesAPI{}
+	engine.POST("/search", api.Search)
+
+	body := `{"sort":{"field":"invalid_field","direction":"ASC"}}`
+	w := httptest.NewRecorder()
+	req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+	req.Header.Set("Content-Type", "application/json")
+	engine.ServeHTTP(w, req)
+
+	assert.Equal(t, http.StatusBadRequest, w.Code)
+
+	var resp common.ErrorResponse
+	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
+		t.Fatalf("failed to unmarshal error response: %v", err)
+	}
+
+	assert.Equal(t, "VALIDATION_ERROR", resp.Error.Code)
+	assert.Equal(t, "sort.field", resp.Error.Field)
+	assert.Contains(t, resp.Error.Message, "invalid_field")
+}
+
+func TestSearch_InvalidSortDirection(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	engine := gin.New()
+	api := &RoutesAPI{}
+	engine.POST("/search", api.Search)
+
+	body := `{"sort":{"field":"distance_km","direction":"INVALID"}}`
+	w := httptest.NewRecorder()
+	req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+	req.Header.Set("Content-Type", "application/json")
+	engine.ServeHTTP(w, req)
+
+	assert.Equal(t, http.StatusBadRequest, w.Code)
+
+	var resp common.ErrorResponse
+	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
+		t.Fatalf("failed to unmarshal error response: %v", err)
+	}
+
+	assert.Equal(t, "VALIDATION_ERROR", resp.Error.Code)
+	assert.Equal(t, "sort.direction", resp.Error.Field)
+	assert.Contains(t, resp.Error.Message, "INVALID")
+}
+
+func TestSearch_ValidSortField(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	mockService := new(mockRoutesService)
+	results := newTestSearchResults()
+	mockService.On("Search", mock.Anything).Return(results, nil)
+
+	engine := gin.New()
+	api := &RoutesAPI{Service: mockService}
+	engine.POST("/search", api.Search)
+
+	// Test each valid sort field
+	validFields := []string{"distance_km", "difficulty", "estimated_duration", "title", "relevance"}
+	for _, field := range validFields {
+		body := fmt.Sprintf(`{"sort":{"field":"%s","direction":"ASC"}}`, field)
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+		req.Header.Set("Content-Type", "application/json")
+		engine.ServeHTTP(w, req)
+
+		assert.Equal(t, http.StatusOK, w.Code, "sort field %s should be valid", field)
+	}
+}
+
+func TestSearch_ValidSortDirection(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	mockService := new(mockRoutesService)
+	results := newTestSearchResults()
+	mockService.On("Search", mock.Anything).Return(results, nil)
+
+	engine := gin.New()
+	api := &RoutesAPI{Service: mockService}
+	engine.POST("/search", api.Search)
+
+	// Test both valid directions
+	validDirections := []string{"ASC", "DESC"}
+	for _, dir := range validDirections {
+		body := fmt.Sprintf(`{"sort":{"field":"distance_km","direction":"%s"}}`, dir)
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+		req.Header.Set("Content-Type", "application/json")
+		engine.ServeHTTP(w, req)
+
+		assert.Equal(t, http.StatusOK, w.Code, "sort direction %s should be valid", dir)
+	}
+}
+
+func TestSearch_SortFieldOnly(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	mockService := new(mockRoutesService)
+	results := newTestSearchResults()
+	mockService.On("Search", mock.Anything).Return(results, nil)
+
+	engine := gin.New()
+	api := &RoutesAPI{Service: mockService}
+	engine.POST("/search", api.Search)
+
+	// Sort with field only, no direction — should be valid (direction defaults to ASC)
+	body := `{"sort":{"field":"distance_km"}}`
+	w := httptest.NewRecorder()
+	req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+	req.Header.Set("Content-Type", "application/json")
+	engine.ServeHTTP(w, req)
+
+	assert.Equal(t, http.StatusOK, w.Code)
+}
+
+func TestSearch_NoSort(t *testing.T) {
+	gin.SetMode(gin.TestMode)
+
+	mockService := new(mockRoutesService)
+	results := newTestSearchResults()
+	mockService.On("Search", mock.Anything).Return(results, nil)
+
+	engine := gin.New()
+	api := &RoutesAPI{Service: mockService}
+	engine.POST("/search", api.Search)
+
+	// No sort at all — should pass through without validation errors
+	body := `{}`
+	w := httptest.NewRecorder()
+	req, _ := http.NewRequest(http.MethodPost, "/search", strings.NewReader(body))
+	req.Header.Set("Content-Type", "application/json")
+	engine.ServeHTTP(w, req)
+
+	assert.Equal(t, http.StatusOK, w.Code)
 }
 
