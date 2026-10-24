@@ -2,7 +2,7 @@ package cmds
 
 import (
 	"context"
-	"log"
+	"log/slog"
 	"net/url"
 	"os"
 	"time"
@@ -17,16 +17,15 @@ import (
 
 // GenerateSitemap writes sitemap.xml from the SQLite database.
 func GenerateSitemap(host string) {
-	godx.GitVersion()
-	godx.EnvironmentVars()
-	godx.UserInfo()
+	godx.Diagnostics(slog.Default())
 
 	config := db.SQLiteConfigFromEnv()
 	ctx := context.Background()
 
 	sqlDB, err := db.NewSQLiteDB(ctx, config)
 	if err != nil {
-		log.Fatalf("failed to open SQLite database: %v", err)
+		slog.Error("failed to open SQLite database", "error", err)
+		os.Exit(1)
 	}
 	defer func() { _ = sqlDB.Close() }()
 
@@ -34,7 +33,8 @@ func GenerateSitemap(host string) {
 
 	routes, err := repo.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
 	if err != nil {
-		log.Fatalf("Failed to get routes: %v", err)
+		slog.Error("Failed to get routes", "error", err)
+		os.Exit(1)
 	}
 
 	sm := stm.NewSitemap(1)
@@ -61,24 +61,27 @@ func GenerateSitemap(host string) {
 
 		sm.Add(entry)
 		if err := bar.Add(1); err != nil {
-			log.Fatalf("issue with progress bar: %v", err)
+			slog.Error("issue with progress bar", "error", err)
+			os.Exit(1)
 		}
 	}
 
 	// Write sitemap to file (relative to the process CWD, matching sitemap.go).
 	f, err := os.Create("sitemap.xml")
 	if err != nil {
-		log.Fatalf("failed to create sitemap file: %v", err)
+		slog.Error("failed to create sitemap file", "error", err)
+		os.Exit(1)
 	}
 	defer func() {
 		if err := f.Close(); err != nil {
-			log.Printf("failed to close sitemap file: %v", err)
+			slog.Warn("failed to close sitemap file", "error", err)
 		}
 	}()
 
 	if _, err := f.Write(sm.XMLContent()); err != nil {
-		log.Fatalf("failed to write sitemap: %v", err)
+		slog.Error("failed to write sitemap", "error", err)
+		os.Exit(1)
 	}
 
-	log.Printf("Sitemap generated")
+	slog.Info("Sitemap generated")
 }

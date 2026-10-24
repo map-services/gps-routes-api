@@ -2,7 +2,7 @@ package metrics
 
 import (
 	"database/sql"
-	"log"
+	"log/slog"
 	"time"
 
 	"github.com/prometheus/client_golang/prometheus"
@@ -139,7 +139,12 @@ func Snapshot(db *sql.DB) sql.DBStats {
 // startup diagnostics or periodic health reporting.
 func LogStats(db *sql.DB) {
 	stats := db.Stats()
-	log.Printf("DB stats: open=%d, inUse=%d, idle=%d, maxOpen=%d, waitCount=%d, waitDuration=%s",
-		stats.OpenConnections, stats.InUse, stats.Idle, stats.MaxOpenConnections,
-		stats.WaitCount, stats.WaitDuration)
+	slog.Info("DB stats",
+		"open", stats.OpenConnections,
+		"inUse", stats.InUse,
+		"idle", stats.Idle,
+		"maxOpen", stats.MaxOpenConnections,
+		"waitCount", stats.WaitCount,
+		"waitDuration", stats.WaitDuration,
+	)
 }

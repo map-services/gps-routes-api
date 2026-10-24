@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"log"
+	"log/slog"
 	"math"
 	"os"
 	"strconv"
@@ -12,12 +12,30 @@ import (
 	"github.com/spf13/cobra"
 
 	"github.com/map-services/gps-routes-api/cmds"
+	"github.com/map-services/gps-routes-api/internal/logging"
 )
 
 func main() {
+	var logLevelVar slog.LevelVar
+
+	handler := slog.NewJSONHandler(
+		os.Stderr,
+		&slog.HandlerOptions{
+			Level:       &logLevelVar,
+			AddSource:   true,
+			ReplaceAttr: logging.ReplaceAttr,
+		},
+	)
+	logger := slog.New(handler)
+	slog.SetDefault(logger)
+	logging.BridgeStandardLog(handler)
+
 	if err := godotenv.Load(); err != nil {
-		log.Println("No .env file found")
+		logger.Warn("No .env file found")
 	}
+
+	// Watch for LOG_LEVEL env var and adjust dynamically.
+	logLevelVar.Set(logging.ParseLogLevel(os.Getenv("LOG_LEVEL")))
 
 	var rootCmd = &cobra.Command{
 		Use:  "gps-routes",
@@ -39,12 +57,13 @@ func main() {
 		Use:   "api-server [port]",
 		Short: "Start HTTP API server",
 		Args:  cobra.ExactArgs(1),
-		Run: func(cmd *cobra.Command, args []string) {
+		RunE: func(cmd *cobra.Command, args []string) error {
 			port, err := strconv.Atoi(args[0])
 			if err != nil {
-				log.Fatalf("Invalid port number: %v", err)
+				return fmt.Errorf("invalid port number: %w", err)
 			}
 			cmds.NewHttpApiServer(port)
+			return nil
 		},
 	}
 
@@ -72,7 +91,7 @@ func main() {
 	rootCmd.AddCommand(versionCmd)
 
 	if err := rootCmd.Execute(); err != nil {
-		fmt.Println(err)
+		logger.Error("Failed to execute command", "error", err)
 		os.Exit(1)
 	}
 }

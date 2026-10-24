@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"log"
+	"log/slog"
 	"os"
 	"path/filepath"
 	"time"
@@ -78,9 +78,7 @@ func loadJson(filename string) (*domain.RouteMetadata, error) {
 // When overwrite is true the database file at config.Path is deleted before
 // schema creation, ensuring a clean import with no leftover rows.
 func ImportData(path string, maxRecords int, overwrite bool) {
-	godx.GitVersion()
-	godx.EnvironmentVars()
-	godx.UserInfo()
+	godx.Diagnostics(slog.Default())
 
 	config := db.SQLiteConfigFromEnv()
 	config.ReadOnly = false // Import needs write access to store routes and run VACUUM.
@@ -89,17 +87,20 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 
 	if overwrite {
 		if err := os.Remove(config.Path); err != nil && !os.IsNotExist(err) {
-			log.Fatalf("failed to remove existing database file %s: %v", config.Path, err)
+			slog.Error("failed to remove existing database file", "path", config.Path, "error", err)
+			os.Exit(1)
 		}
 	}
 
 	if err := setupSQLiteDB(config.Path, false); err != nil {
-		log.Fatalf("failed to initialise SQLite schema: %v", err)
+		slog.Error("failed to initialise SQLite schema", "error", err)
+		os.Exit(1)
 	}
 
 	sqlDB, err := db.NewSQLiteDB(ctx, config)
 	if err != nil {
-		log.Fatalf("failed to open SQLite database: %v", err)
+		slog.Error("failed to open SQLite database", "error", err)
+		os.Exit(1)
 	}
 	defer func() { _ = sqlDB.Close() }()
 
@@ -107,14 +108,15 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 
 	files, err := walkFiles(path, maxRecords)
 	if err != nil {
-		log.Fatalf("failed to import data: %v", err)
+		slog.Error("failed to import data", "error", err)
+		os.Exit(1)
 	}
 
 	totalRecords := int64(len(files))
 	isDocker := isRunningInDocker()
 	var bar *progressbar.ProgressBar
 	if isDocker {
-		log.Println("Detected likely running inside docker container")
+		slog.Info("Detected likely running inside docker container")
 		bar = progressbar.DefaultSilent(totalRecords)
 	} else {
 		bar = progressbar.Default(totalRecords)
@@ -124,37 +126,41 @@ func ImportData(path string, maxRecords int, overwrite bool) {
 	routes := make([]*domain.RouteMetadata, 0, len(files))
 	for idx, file := range files {
 		if err := bar.Add(1); err != nil {
-			log.Fatalf("issue with progress bar: %v", err)
+			slog.Error("issue with progress bar", "error", err)
+			os.Exit(1)
 		}
 		data, err := loadJson(file)
 		if err != nil {
-			log.Fatalf("failed to load file: %s: %v", file, err)
+			slog.Error("failed to load file", "file", file, "error", err)
+			os.Exit(1)
 		}
 		routes = append(routes, data)
 
 		if isDocker && idx%37 == 0 {
-			log.Printf("Loaded %d records...\n", idx)
+			slog.Info("Loaded records", "count", idx)
 		}
 	}
 
 	// Phase 2: Insert all routes in a single transaction with prepared statements.
 	// This is orders of magnitude faster than per-route transactions because it
 	// avoids per-commit fsync overhead and batches FTS/R*Tree trigger execution.
-	log.Printf("Inserting %d routes into SQLite...", len(routes))
+	slog.Info("Inserting routes into SQLite", "count", len(routes))
 	if err := repo.StoreBatch(ctx, routes); err != nil {
-		log.Fatalf("failed to batch insert routes: %v", err)
+		slog.Error("failed to batch insert routes", "error", err)
+		os.Exit(1)
 	}
 
 	// Run post-import database optimization (ANALYZE, VACUUM, PRAGMA optimize)
 	// to update query planner statistics and compact the database file.
-	log.Println("Starting post-import database optimization...")
+	slog.Info("Starting post-import database optimization")
 	if err := db.OptimizeDatabase(sqlDB); err != nil {
-		log.Fatalf("failed to optimize database after import: %v", err)
+		slog.Error("failed to optimize database after import", "error", err)
+		os.Exit(1)
 	}
 
 	if isDocker {
-		log.Printf("Completed: imported %d records into SQLite at %s", totalRecords, config.Path)
+		slog.Info("Import completed", "records", totalRecords, "path", config.Path)
 	} else {
-		log.Printf("Imported %d records into SQLite at %s", totalRecords, config.Path)
+		slog.Info("Imported records into SQLite", "records", totalRecords, "path", config.Path)
 	}
 }

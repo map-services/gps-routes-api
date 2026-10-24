@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"log"
+	"log/slog"
 
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
@@ -65,7 +65,7 @@ func (repo *SQLiteDbRepository) StoreBatch(ctx context.Context, routes []*domain
 	defer func() {
 		if err != nil {
 			if rollbackErr := tx.Rollback(); rollbackErr != nil {
-				log.Printf("Error rolling back transaction: %v", rollbackErr)
+				slog.Warn("Error rolling back transaction", "error", rollbackErr)
 			}
 		}
 	}()

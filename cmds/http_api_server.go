@@ -3,7 +3,7 @@ package cmds
 import (
 	"context"
 	"fmt"
-	"log"
+	"log/slog"
 	"net/http"
 	"os"
 	"time"
@@ -19,8 +19,11 @@ import (
 	hc_config "github.com/tavsec/gin-healthcheck/config"
 	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
+	sloggin "github.com/samber/slog-gin"
+
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/internal/health"
+	"github.com/map-services/gps-routes-api/internal/logging"
 	"github.com/map-services/gps-routes-api/internal/metrics"
 	"github.com/map-services/gps-routes-api/middlewares"
 	"github.com/map-services/gps-routes-api/repositories"
@@ -32,9 +35,7 @@ import (
 
 func NewHttpApiServer(port int) {
 
-	godx.GitVersion()
-	godx.EnvironmentVars()
-	godx.UserInfo()
+	godx.Diagnostics(slog.Default())
 
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
@@ -69,7 +70,7 @@ func NewHttpApiServer(port int) {
 	})
 
 	engine.Use(
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics", "/ready"),
+		sloggin.NewWithConfig(slog.Default(), *logging.NewStructuredLoggingConfig("/healthz", "/metrics", "/ready")),
 		gin.Recovery(),
 		cors.New(cors.Config{
 			AllowAllOrigins: true,
@@ -90,11 +91,12 @@ func NewHttpApiServer(port int) {
 	sqliteConfig := db.SQLiteConfigFromEnv()
 	sqliteDB, err := db.NewSQLiteDB(ctx, sqliteConfig)
 	if err != nil {
-		log.Fatalf("failed to create SQLite database: %v", err)
+		slog.Error("failed to create SQLite database", "error", err)
+		os.Exit(1)
 	}
 	defer func() {
 		if err := sqliteDB.Close(); err != nil {
-			log.Printf("failed to close SQLite database: %v", err)
+			slog.Warn("failed to close SQLite database", "error", err)
 		}
 	}()
 
@@ -109,7 +111,8 @@ func NewHttpApiServer(port int) {
 		checks.SqlCheck{Sql: sqliteDB},
 	})
 	if err != nil {
-		log.Fatalf("failed to initialize healthcheck: %v", err)
+		slog.Error("failed to initialize healthcheck", "error", err)
+		os.Exit(1)
 	}
 
 	// Add custom readiness endpoint that performs a thorough database check.
@@ -132,7 +135,10 @@ func NewHttpApiServer(port int) {
 		},
 	})
 
-	log.Printf("Starting HTTP API Server on port %d...", port)
+	slog.Info("Starting HTTP API Server", "port", port)
 	err = router.Run(fmt.Sprintf(":%d", port))
-	log.Fatalf("HTTP API Server failed to start on port %d: %v", port, err)
+	if err != nil {
+		slog.Error("HTTP API Server failed to start", "port", port, "error", err)
+		os.Exit(1)
+	}
 }
