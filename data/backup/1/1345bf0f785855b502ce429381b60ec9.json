@@ -1,155 +1,146 @@
 {
-  "created_at": "2025-01-06T09:17:52.961259+00:00",
-  "objectID": "1345bf0f785855b502ce429381b60ec9",
-  "ref": "roundhay-park-walking-and-cycle-route",
-  "title": "Roundhay Park Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg/500px-Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg",
-  "nearby": [
-    {
-      "description": "Gledhow Valley Woods",
-      "objectID": "2462ddcda7e2f6f6bcc07dc020b6de85",
-      "ref": "gledhow-valley-woods-walking-route"
+    "created_at": "2025-01-06T09:17:52.961259+00:00",
+    "objectID": "1345bf0f785855b502ce429381b60ec9",
+    "ref": "roundhay-park-walking-and-cycle-route",
+    "title": "Roundhay Park Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg/500px-Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg",
+    "nearby": [
+        {
+            "description": "Gledhow Valley Woods",
+            "objectID": "2462ddcda7e2f6f6bcc07dc020b6de85",
+            "ref": "gledhow-valley-woods-walking-route"
+        },
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Ebor Way",
+            "objectID": "460b6eaefa835488435e3937ef49f82d",
+            "ref": "ebor-way-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Leeds Country Way",
+            "objectID": "48b7300950a203da6dd0f579ddb1aceb",
+            "ref": "leeds-country-way-walking-route"
+        },
+        {
+            "description": "Dales Way",
+            "objectID": "605d1dad48e02d248ecb985988bc777c",
+            "ref": "dales-way-walking-route"
+        },
+        {
+            "description": "Harewood House",
+            "objectID": "9ae5294687aac3c9a44ba436873002b5",
+            "ref": "harewood-house-walking-route"
+        },
+        {
+            "description": "East Keswick",
+            "objectID": "374b1349f29d161204209c92c1b3d171",
+            "ref": "east-keswick-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Arthington Viaduct",
+            "objectID": "bbe088a78a459023f196e957b3474685",
+            "ref": "arthington-viaduct-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1345bf0f785855b502ce429381b60ec9.gpx",
+    "_geoloc": {
+        "lat": 53.8382181114,
+        "lng": -1.5035010488
     },
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
-    },
-    {
-      "description": "Ebor Way",
-      "objectID": "460b6eaefa835488435e3937ef49f82d",
-      "ref": "ebor-way-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Leeds Country Way",
-      "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-      "ref": "leeds-country-way-walking-route"
-    },
-    {
-      "description": "Dales Way",
-      "objectID": "605d1dad48e02d248ecb985988bc777c",
-      "ref": "dales-way-walking-route"
-    },
-    {
-      "description": "Harewood House",
-      "objectID": "9ae5294687aac3c9a44ba436873002b5",
-      "ref": "harewood-house-walking-route"
-    },
-    {
-      "description": "East Keswick",
-      "objectID": "374b1349f29d161204209c92c1b3d171",
-      "ref": "east-keswick-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    },
-    {
-      "description": "Arthington Viaduct",
-      "objectID": "bbe088a78a459023f196e957b3474685",
-      "ref": "arthington-viaduct-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1345bf0f785855b502ce429381b60ec9.gpx",
-  "_geoloc": {
-    "lat": 53.8382181114,
-    "lng": -1.5035010488
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg/500px-Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg",
-      "title": "Mark Anderson / Walled Garden, Roundhay Park",
-      "caption": "Photo shows the lovely Walled Garden within the park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Roundhay_Park_-_geograph.org.uk_-_1161055.jpg",
-      "title": "Kevin Rushton / Roundhay Park",
-      "caption": "Fountains spraying water in the Canal Gardens"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Roundhay_Park_-_geograph.org.uk_-_1168111.jpg",
-      "title": "Kevin Rushton / Roundhay Park",
-      "caption": "Floral Clock at The Canal Gardens"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Car_Park_for_Roundhay_Park_-_geograph.org.uk_-_60975.jpg",
-      "title": "Clive Perrin / Car Park for Roundhay Park",
-      "caption": "Car Park for Roundhay Park. This was a terminus for the \"electric tramway\". The power line supports are still in situ."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Path_towards_Ram_Wood%2C_Roundhay_Park_%28geograph_5435436%29.jpg/500px-Path_towards_Ram_Wood%2C_Roundhay_Park_%28geograph_5435436%29.jpg",
-      "title": "Richard Vince / Path towards Ram Wood, Roundhay Park",
-      "caption": "Attractive woodland section with footpath towards Ram Wood"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cricket_Field%2C_Roundhay_Park%2C_Leeds_-_geograph.org.uk_-_202543.jpg",
-      "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "In the park you can sit on this small hill and watch a game of cricket in the summer months"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Roundhay_Park_-_geograph.org.uk_-_655825.jpg",
-      "title": "Kevin Rushton / Roundhay Park",
-      "caption": "Tropical World recreates the atmosphere of the Amazon Rain forest and the desert"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_%22castle%22_in_Roundhay_Park_-_geograph.org.uk_-_140779.jpg",
-      "title": "John Turner / The \"castle\" in Roundhay Park",
-      "caption": "The \"castle\" in Roundhay Park. A folly but it gives nearly as much fun to the kids as a real castle"
-    }
-  ],
-  "distance_km": 2.5,
-  "description": "Explore 700 acres of parkland, lakes, woodland and gardens in one of the largest parks Britain. A number of well laid out footpaths run through the park making it ideal for an afternoon stroll. Most of the route below is designed for walkers but National Cycle Network route 677 also runs through the park so you can bring your bike too. The park has one smaller lake (Upper Lake) and one large lake (Waterloo Lake) with waterside walking and cycling paths. There's also large areas of woodland and a number of pretty gardens to explore. The Alhambra Garden has a pond with a pretty fountain and the Canal Gardens feature flower gardens alongside a long canal. Another major attraction is the splendid Tropical World. This large group of glasshouses holds the largest collection of tropical plants in the UK outside of Kew Gardens. There's also a butterfly house, aquariums, free roaming birds and reptiles, plus an enclosed group of meerkats. The park is also great for birdwatching - look out for Mute Swans, Whooper Swans, Herons, Great Crested Grebes, Common Warblers, and Woodpeckers. If you'd like to continue your walking in the area then you could head to the nearby Eccup Reservoir, Adel Woods or Golden Acre Park for more great waterside walking trails. Just a mile to the south west you'll find the pretty Gledhow Valley Woods. Here you'll find a lovely 1 mile trail running along the Gledhow Beck and around Gledhow Lake. Roundhay Park is located just to the east of Leeds city centre.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The park includes a delightful on site cafe located next to Waterloo Lake. It's a splendid place to relax with fine views over the water. The Stew and Oyster is located at the southern end of the park and a popular place to go for park visitors. The pub has an attractive interior with a cosy fire. There's also a nice outdoor area for warmer days. They do great warming stews with delicious fresh oysters so it's a little bit out of the ordinary. You can find it at 488 Roundhay Road with a postcode of LS8 2HU for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "With miles of paths through parkland and woodland the expansive park is a great place for a dog walk. The Stew and Oyster mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the east you can explore the villages of Barwick-in-Elmet and Thorner. Here you could visit Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/6rfNsm1UjQs",
-  "postcode": "LS8 2EP",
-  "district": "Leeds",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Princes Avenue, Park Villas, Roundhay, Leeds, West Yorkshire, England, LS8 2EP, United Kingdom",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "parkland"
-  ],
-  "points_of_interest": [
-    "lake",
-    "garden",
-    "fountain",
-    "tropical house",
-    "aquarium"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg/500px-Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg",
+            "title": "Mark Anderson / Walled Garden, Roundhay Park",
+            "caption": "Photo shows the lovely Walled Garden within the park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Roundhay_Park_-_geograph.org.uk_-_1161055.jpg",
+            "title": "Kevin Rushton / Roundhay Park",
+            "caption": "Fountains spraying water in the Canal Gardens"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Roundhay_Park_-_geograph.org.uk_-_1168111.jpg",
+            "title": "Kevin Rushton / Roundhay Park",
+            "caption": "Floral Clock at The Canal Gardens"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Car_Park_for_Roundhay_Park_-_geograph.org.uk_-_60975.jpg",
+            "title": "Clive Perrin / Car Park for Roundhay Park",
+            "caption": "Car Park for Roundhay Park. This was a terminus for the \"electric tramway\". The power line supports are still in situ."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Path_towards_Ram_Wood%2C_Roundhay_Park_%28geograph_5435436%29.jpg/500px-Path_towards_Ram_Wood%2C_Roundhay_Park_%28geograph_5435436%29.jpg",
+            "title": "Richard Vince / Path towards Ram Wood, Roundhay Park",
+            "caption": "Attractive woodland section with footpath towards Ram Wood"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cricket_Field%2C_Roundhay_Park%2C_Leeds_-_geograph.org.uk_-_202543.jpg",
+            "title": "RichTea [CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "In the park you can sit on this small hill and watch a game of cricket in the summer months"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Roundhay_Park_-_geograph.org.uk_-_655825.jpg",
+            "title": "Kevin Rushton / Roundhay Park",
+            "caption": "Tropical World recreates the atmosphere of the Amazon Rain forest and the desert"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_%22castle%22_in_Roundhay_Park_-_geograph.org.uk_-_140779.jpg",
+            "title": "John Turner / The \"castle\" in Roundhay Park",
+            "caption": "The \"castle\" in Roundhay Park. A folly but it gives nearly as much fun to the kids as a real castle"
+        }
+    ],
+    "distance_km": 2.5,
+    "description": "Explore 700 acres of parkland, lakes, woodland and gardens in one of the largest parks Britain. A number of well laid out footpaths run through the park making it ideal for an afternoon stroll. Most of the route below is designed for walkers but National Cycle Network route 677 also runs through the park so you can bring your bike too. The park has one smaller lake (Upper Lake) and one large lake (Waterloo Lake) with waterside walking and cycling paths. There's also large areas of woodland and a number of pretty gardens to explore. The Alhambra Garden has a pond with a pretty fountain and the Canal Gardens feature flower gardens alongside a long canal. Another major attraction is the splendid Tropical World. This large group of glasshouses holds the largest collection of tropical plants in the UK outside of Kew Gardens. There's also a butterfly house, aquariums, free roaming birds and reptiles, plus an enclosed group of meerkats. The park is also great for birdwatching - look out for Mute Swans, Whooper Swans, Herons, Great Crested Grebes, Common Warblers, and Woodpeckers. If you'd like to continue your walking in the area then you could head to the nearby Eccup Reservoir, Adel Woods or Golden Acre Park for more great waterside walking trails. Just a mile to the south west you'll find the pretty Gledhow Valley Woods. Here you'll find a lovely 1 mile trail running along the Gledhow Beck and around Gledhow Lake. Roundhay Park is located just to the east of Leeds city centre.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The park includes a delightful on site cafe located next to Waterloo Lake. It's a splendid place to relax with fine views over the water. The Stew and Oyster is located at the southern end of the park and a popular place to go for park visitors. The pub has an attractive interior with a cosy fire. There's also a nice outdoor area for warmer days. They do great warming stews with delicious fresh oysters so it's a little bit out of the ordinary. You can find it at 488 Roundhay Road with a postcode of LS8 2HU for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "With miles of paths through parkland and woodland the expansive park is a great place for a dog walk. The Stew and Oyster mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the east you can explore the villages of Barwick-in-Elmet and Thorner. Here you could visit Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/6rfNsm1UjQs",
+    "postcode": "LS8 2EP",
+    "district": "Leeds",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Princes Avenue, Park Villas, Roundhay, Leeds, West Yorkshire, England, LS8 2EP, United Kingdom",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "parkland"],
+    "points_of_interest": [
+        "lake",
+        "garden",
+        "fountain",
+        "tropical house",
+        "aquarium"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling"]
 }

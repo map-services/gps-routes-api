@@ -75,11 +75,13 @@ for file in tqdm(
     with open(file, "r") as fp:
         record: dict = json.load(fp)
 
-        if record.get("llama_cpp", False):
+        already_processed = record.get("llama_cpp", False)
+
+        if already_processed:
             continue
 
         document = f"""
-{record["title"]} ({record["distance_km"]} km)
+{record["title"]} ({record.get("distance_km", "-UNKNOWN-")} km)
 {record.get("display_address", "")}
 
 {record["description"]}

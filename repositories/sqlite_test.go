@@ -423,8 +423,8 @@ func TestSQLiteStoreLockingBbox(t *testing.T) {
 	mustStore("nyc", 40.7128, -74.0060)   // New York
 	mustStore("edin", 55.9533, -3.1883)   // Edinburgh (north of London box)
 
-	// Box around London only: [lngMin, latMin, lngMax, latMax]
-	londonBox := []float64{-0.2, 51.4, -0.1, 51.6}
+	// Box around London only
+	londonBox := &common.BoundingBox{MinLng: -0.2, MinLat: 51.4, MaxLng: -0.1, MaxLat: 51.6}
 	hits, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: londonBox, Limit: 10})
 	if err != nil {
 		t.Fatalf("SearchHits London box: %v", err)
@@ -446,7 +446,7 @@ func TestSQLiteStoreLockingBbox(t *testing.T) {
 	}
 
 	// Larger box spanning London + Edinburgh (but NYC at lon -74 is west of -3, excluded).
-	ukBox := []float64{-3.5, 51.0, 2.0, 57.0}
+	ukBox := &common.BoundingBox{MinLng: -3.5, MinLat: 51.0, MaxLng: 2.0, MaxLat: 57.0}
 	hits2, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: ukBox, Limit: 10})
 	if err != nil {
 		t.Fatalf("SearchHits UK box: %v", err)
@@ -456,7 +456,7 @@ func TestSQLiteStoreLockingBbox(t *testing.T) {
 	}
 
 	// Box covering none of the points.
-	farBox := []float64{10, 60, 12, 62}
+	farBox := &common.BoundingBox{MinLng: 10, MinLat: 60, MaxLng: 12, MaxLat: 62}
 	hits3, err := repo.SearchHits(ctx, &request.SearchRequest{BoundingBox: farBox, Limit: 10})
 	if err != nil {
 		t.Fatalf("SearchHits far box: %v", err)

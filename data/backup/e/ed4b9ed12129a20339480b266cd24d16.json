@@ -1,121 +1,112 @@
 {
-  "created_at": "2025-01-06T01:03:12.484362+00:00",
-  "objectID": "ed4b9ed12129a20339480b266cd24d16",
-  "ref": "yalding-river-walk-walking-route",
-  "title": "Yalding River Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Twyford_Bridge_1.JPG/500px-Twyford_Bridge_1.JPG",
-  "nearby": [
-    {
-      "description": "Medway Valley Walk",
-      "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
-      "ref": "medway-valley-walk-walking-route"
+    "created_at": "2025-01-06T01:03:12.484362+00:00",
+    "objectID": "ed4b9ed12129a20339480b266cd24d16",
+    "ref": "yalding-river-walk-walking-route",
+    "title": "Yalding River Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Twyford_Bridge_1.JPG/500px-Twyford_Bridge_1.JPG",
+    "nearby": [
+        {
+            "description": "Medway Valley Walk",
+            "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
+            "ref": "medway-valley-walk-walking-route"
+        },
+        {
+            "description": "Greensand Way",
+            "objectID": "b670bcac73522667d624f8b630cdb672",
+            "ref": "greensand-way-walking-route"
+        },
+        {
+            "description": "Wealdway",
+            "objectID": "3ab807df03695a62363e92d8ce79393c",
+            "ref": "wealdway-walking-route"
+        },
+        {
+            "description": "Wateringbury",
+            "objectID": "847501100a2a9f86a8f64bb0548db379",
+            "ref": "wateringbury-walking-route"
+        },
+        {
+            "description": "Teston Bridge Country Park",
+            "objectID": "02935a509bd9bc3db713571c15af43aa",
+            "ref": "teston-bridge-country-park-walking-route"
+        },
+        {
+            "description": "Allington Lock",
+            "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
+            "ref": "allington-lock-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ed4b9ed12129a20339480b266cd24d16.gpx",
+    "_geoloc": {
+        "lat": 51.2261027476,
+        "lng": 0.4319917639
     },
-    {
-      "description": "Greensand Way",
-      "objectID": "b670bcac73522667d624f8b630cdb672",
-      "ref": "greensand-way-walking-route"
-    },
-    {
-      "description": "Wealdway",
-      "objectID": "3ab807df03695a62363e92d8ce79393c",
-      "ref": "wealdway-walking-route"
-    },
-    {
-      "description": "Wateringbury",
-      "objectID": "847501100a2a9f86a8f64bb0548db379",
-      "ref": "wateringbury-walking-route"
-    },
-    {
-      "description": "Teston Bridge Country Park",
-      "objectID": "02935a509bd9bc3db713571c15af43aa",
-      "ref": "teston-bridge\u00a0country-park-walking-route"
-    },
-    {
-      "description": "Allington Lock",
-      "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
-      "ref": "allington-lock-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ed4b9ed12129a20339480b266cd24d16.gpx",
-  "_geoloc": {
-    "lat": 51.2261027476,
-    "lng": 0.4319917639
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Twyford_Bridge_1.JPG/500px-Twyford_Bridge_1.JPG",
-      "title": "Poliphilo [CC0], via Wikimedia Commons",
-      "caption": "Twyford Bridge on the River Medway near Yalding, Kent. 'Twyford' means twin ford, where there was originally a double crossing of the two rivers). The bridge is one of the finest medieval bridges in the south-east of England. It is just downstream of the automatic sluice where the river drops from +11.2m to +7.41m above mean sea level. The navigation bears left through Hampstead Road Canal and Hampstead Lock; the main stream drops over the weir and sluice and is joined by the River Teise (Lesser Teise) and both pass under Twyford Bridge. The river then flows in a loop towards Yalding, where it is joined by the River Beult which has been joined by the River Teise (the other bit!) and has passed under Town Bridge. Twyford Bridge is not navigable and about 10 miles from Allington Lock."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Yalding_Sluice%2C_River_Medway_-_geograph.org.uk_-_1158962.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Yalding Sluice, River Medway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Boats_Moored_near_Yalding%2C_River_Medway_%282%29_-_geograph.org.uk_-_1267443.jpg",
-      "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Boats Moored near Yalding, River Medway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_River_Medway_at_Ford_Green_Bridge_-_geograph.org.uk_-_1016417.jpg",
-      "title": "Julia MG / The River Medway at Ford Green Bridge, via Wikimedia Commons",
-      "caption": "The River Medway at Ford Green Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Greensand_Way_beside_River_Bourne_-_geograph.org.uk_-_1212215.jpg",
-      "title": "David Anstiss / Greensand Way beside River Bourne",
-      "caption": "Greensand Way beside River Bourne near the village of Golden Green."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Footbridge_crosses_the_River_Medway_-_geograph.org.uk_-_1159159.jpg",
-      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge crosses the River Medway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/River_Medway_at_Branbridges%2C_East_Peckham_-_geograph.org.uk_-_3638326.jpg",
-      "title": "River Medway at Branbridges, East Peckham by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "River Medway at Branbridges, East Peckham"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/River_Medway_near_Ford_Green_Bridge_-_geograph.org.uk_-_1212247.jpg",
-      "title": "David Anstiss / River Medway near Ford Green Bridge",
-      "caption": "River Medway near Ford Green Bridge"
-    }
-  ],
-  "distance_km": 17.0,
-  "description": "This circular walk from Yalding takes you along the River Medway before returning to the village through some lovely Kent countryside. The trail runs for about 10 miles on generally flat paths with some small climbs on the section through the countryside. The walk starts from the centre of Yalding but you could also easily start from Yalding train station. From the village you pick up the Medway Valley Walk and follow it south west to meet with the river at Twyford Bridge. The route continues along the riverside path, passing Banbridges before coming to Ford Green Bridge. Here you leave the river and head north along the Wealdway long distance footpath. This will takes you through Barnes Street where you can enjoy views of the River Bourne. The trail continues north through some attractive farmland, passing Peckham Bush on the way. Near Mount Pleasant Farm the trail links with the Greensand Way. You can then follow this east through Moat Wood and Nettlestead Green back to Yalding. If you prefer you could continue along the Medway into Tonbridge and then get the bus back from there instead of returning through the countryside on foot. You could also head north from the village along the river to Wateringbury and Maidstone.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The circular Wateringbury River Walk starts from the train station in the village and provides an alternative route in the area. Near here you can also visit the lovely Teston Bridge Country Park where you'll find a medieval 14th century bridge, a rushing weir, river trails and lots of river loving wildlife. Just to the south west you can try the East Peckham River Walk. The village is in a nice location on both the Medway and the River Bourne. For more walking ideas in the area see the Kent Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/etfzDbZ3nw0",
-  "county": "Kent",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Village Tearooms, 1, High Street, Yalding, Maidstone, Kent, England, ME18 6JA, United Kingdom",
-  "postcode": "ME18 6JA",
-  "district": "Maidstone",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
-  "terrain": [
-    "riverbank",
-    "countryside"
-  ],
-  "points_of_interest": [
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Twyford_Bridge_1.JPG/500px-Twyford_Bridge_1.JPG",
+            "title": "Poliphilo [CC0], via Wikimedia Commons",
+            "caption": "Twyford Bridge on the River Medway near Yalding, Kent. 'Twyford' means twin ford, where there was originally a double crossing of the two rivers). The bridge is one of the finest medieval bridges in the south-east of England. It is just downstream of the automatic sluice where the river drops from +11.2m to +7.41m above mean sea level. The navigation bears left through Hampstead Road Canal and Hampstead Lock; the main stream drops over the weir and sluice and is joined by the River Teise (Lesser Teise) and both pass under Twyford Bridge. The river then flows in a loop towards Yalding, where it is joined by the River Beult which has been joined by the River Teise (the other bit!) and has passed under Town Bridge. Twyford Bridge is not navigable and about 10 miles from Allington Lock."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Yalding_Sluice%2C_River_Medway_-_geograph.org.uk_-_1158962.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Yalding Sluice, River Medway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Boats_Moored_near_Yalding%2C_River_Medway_%282%29_-_geograph.org.uk_-_1267443.jpg",
+            "title": "Nigel Chadwick [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Boats Moored near Yalding, River Medway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_River_Medway_at_Ford_Green_Bridge_-_geograph.org.uk_-_1016417.jpg",
+            "title": "Julia MG / The River Medway at Ford Green Bridge, via Wikimedia Commons",
+            "caption": "The River Medway at Ford Green Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Greensand_Way_beside_River_Bourne_-_geograph.org.uk_-_1212215.jpg",
+            "title": "David Anstiss / Greensand Way beside River Bourne",
+            "caption": "Greensand Way beside River Bourne near the village of Golden Green."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Footbridge_crosses_the_River_Medway_-_geograph.org.uk_-_1159159.jpg",
+            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge crosses the River Medway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/River_Medway_at_Branbridges%2C_East_Peckham_-_geograph.org.uk_-_3638326.jpg",
+            "title": "River Medway at Branbridges, East Peckham by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "River Medway at Branbridges, East Peckham"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/River_Medway_near_Ford_Green_Bridge_-_geograph.org.uk_-_1212247.jpg",
+            "title": "David Anstiss / River Medway near Ford Green Bridge",
+            "caption": "River Medway near Ford Green Bridge"
+        }
+    ],
+    "distance_km": 17.0,
+    "description": "This circular walk from Yalding takes you along the River Medway before returning to the village through some lovely Kent countryside. The trail runs for about 10 miles on generally flat paths with some small climbs on the section through the countryside. The walk starts from the centre of Yalding but you could also easily start from Yalding train station. From the village you pick up the Medway Valley Walk and follow it south west to meet with the river at Twyford Bridge. The route continues along the riverside path, passing Banbridges before coming to Ford Green Bridge. Here you leave the river and head north along the Wealdway long distance footpath. This will takes you through Barnes Street where you can enjoy views of the River Bourne. The trail continues north through some attractive farmland, passing Peckham Bush on the way. Near Mount Pleasant Farm the trail links with the Greensand Way. You can then follow this east through Moat Wood and Nettlestead Green back to Yalding. If you prefer you could continue along the Medway into Tonbridge and then get the bus back from there instead of returning through the countryside on foot. You could also head north from the village along the river to Wateringbury and Maidstone.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The circular Wateringbury River Walk starts from the train station in the village and provides an alternative route in the area. Near here you can also visit the lovely Teston Bridge Country Park where you'll find a medieval 14th century bridge, a rushing weir, river trails and lots of river loving wildlife. Just to the south west you can try the East Peckham River Walk. The village is in a nice location on both the Medway and the River Bourne. For more walking ideas in the area see the Kent Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/etfzDbZ3nw0",
+    "county": "Kent",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Village Tearooms, 1, High Street, Yalding, Maidstone, Kent, England, ME18 6JA, United Kingdom",
+    "postcode": "ME18 6JA",
+    "district": "Maidstone",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "half day",
+    "difficulty": "easy",
+    "terrain": ["riverbank", "countryside"],
+    "points_of_interest": ["viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

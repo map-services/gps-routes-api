@@ -1,132 +1,122 @@
 {
-  "created_at": "2025-01-06T18:53:53.854165+00:00",
-  "objectID": "8e348d955193556ee256931d689b4080",
-  "ref": "adare-walking-route",
-  "title": "Adare\u00a0Riverbank Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg/500px-Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg",
-  "nearby": [
-    {
-      "description": "Limerick 3 Bridges",
-      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-      "ref": "limerick-3-bridges-walking-route"
+    "created_at": "2025-01-06T18:53:53.854165+00:00",
+    "objectID": "8e348d955193556ee256931d689b4080",
+    "ref": "adare-walking-route",
+    "title": "Adare Riverbank Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg/500px-Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg",
+    "nearby": [
+        {
+            "description": "Limerick 3 Bridges",
+            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+            "ref": "limerick-3-bridges-walking-route"
+        },
+        {
+            "description": "Lough Derg Way",
+            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+            "ref": "lough-derg-way-walking-route"
+        },
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "O'Briensbridge Riverside Walk",
+            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+            "ref": "obriensbridge-riverside-walk-walking-route"
+        },
+        {
+            "description": "Limerick Greenway",
+            "objectID": "e39af5aeda6049f6f37195a68dcfb541",
+            "ref": "limerick-greenway-walking-route"
+        },
+        {
+            "description": "Cratloe Woods",
+            "objectID": "627fa9c668b89b290f080d79c1d0408f",
+            "ref": "cratloe-woods-walking-route"
+        },
+        {
+            "description": "Castleconnell River Walk",
+            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+            "ref": "castleconnell-river-walk"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8e348d955193556ee256931d689b4080.gpx",
+    "_geoloc": {
+        "lat": 52.56808,
+        "lng": -8.78388
     },
-    {
-      "description": "Lough Derg Way",
-      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-      "ref": "lough-derg-way-walking-route"
-    },
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
-    },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "O'Briensbridge Riverside Walk",
-      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-      "ref": "obriensbridge-riverside-walk-walking-route"
-    },
-    {
-      "description": "Limerick Greenway",
-      "objectID": "e39af5aeda6049f6f37195a68dcfb541",
-      "ref": "limerick-greenway-walking-route"
-    },
-    {
-      "description": "Cratloe Woods",
-      "objectID": "627fa9c668b89b290f080d79c1d0408f",
-      "ref": "cratloe-woods-walking-route"
-    },
-    {
-      "description": "Castleconnell River Walk",
-      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell\u00a0river-walk"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8e348d955193556ee256931d689b4080.gpx",
-  "_geoloc": {
-    "lat": 52.56808,
-    "lng": -8.78388
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg/500px-Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg",
-      "title": "Adare Town Park on Main Street, Adare by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Adare Town Park on Main Street, Adare. Adare Park consists of lovely walks and pathways. There is also a thatched gazebo and seating throughout the park. Entrance is located on Main Street, opposite the Heritage Centre in Adare Village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Desmond_Castle%2C_Adare_-_geograph.org.uk_-_248064.jpg",
-      "title": "Peter Craine / Desmond Castle, Adare",
-      "caption": "Desmond Castle, Adare. Adare Castle is esteemed as a notable example of a medieval fortified castle in Ireland, standing as one of several remarkable castles within County Limerick. Positioned on the north bank of the River Maigue, it occupies a strategic location atop a significant earlier ringwork, allowing it to regulate river traffic effectively. Historically, it served as a crucial stronghold for the Earls of Desmond. The defensive core of the castle is anchored by a sturdy, square keep, situated within a walled ward encircled by a moat. Adjacent to the river stands the imposing great hall, featuring windows dating back to the early 13th century, offering picturesque views of the river. Additionally, nearby structures include a kitchen and a bakery, contributing to the castle's functional layout. A comprehensive program of conservation and restoration initiatives has been undertaken, ensuring the preservation of this historic site. Access to Adare Castle is facilitated through guided tours managed in collaboration with the Adare Heritage Centre, located on Main Street, Adare. Guided tours to the castle are conducted from the Adare Heritage Centre via a shuttle bus service to and from the castle, providing visitors with an informative and immersive experience."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Adare_Friary_-_geograph.org.uk_-_3036086.jpg",
-      "title": "Adare Friary by Mike Searle, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Augustinian Abbey, Adare. The Adare Friary, originally named the \"Black Abbey,\" was established in 1316 by the Earl of Kildare as an Augustinian Friary. Presently, it serves as the \"St. Nicholas' Church of Ireland\" parish church and St. Nicholas' National School. Designated as a nationally significant structure, it is listed in the NIAH register. The Augustinian friars arrived in Dublin from England around 1260, and they were later invited to Adare by John FitzThomas FitzGerald, 1st Earl of Kildare, in 1316. The Earl granted them land and houses in the town for their establishment. By 1541, the Augustinian friars owned nearly 80 acres (320,000 m2) of land, along with several cottages, gardens in the village, and a fishing weir on the river. However, during the Tudor suppression of Irish Monasteries towards the end of the 16th century, the Augustinians were forced to leave Adare and had relocated to Limerick city by 1633. Many features of the friary remain well-preserved, especially the small 15th-century cloister and sedilia. The garth is small and square, with relatively narrow and buttress-like piers, featuring boldly moulded plinths along the base walls. The arches between them are relatively high and four-centred, with triple openings set centrally in the walls, adorned with unglazed mullioned windows. The ambulatories have rather flat vaulting, groined on the north and west, and three-centred to the other walks. The elaborate architectural details, including the Geraldine Arms carved on the inner spandrils of the east arcade, reflect the Geraldine patronage. Originally, the interior of the church would have been adorned with medieval murals of red and yellow, accented with black lining. The Pieta, a delicate wood carving believed to be from 16th-century Flemish origin, is particularly noteworthy. The massive oak door from the choir to the vestry is an ancient piece, removed from the old parish church of St. Nicholas. Additionally, the string course below the parapet on the south side aisle features late stone bosses, including a Tudor rose. During the 19th century, the Dunraven family took on restoration work at the friary, continuing the efforts to preserve its historic legacy."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thatched_Cottages_in_Adare_-_geograph.org.uk_-_325198.jpg",
-      "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Thatched Cottages in Adare"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Village_of_Adare%2C_Co._Limerick_-_geograph.org.uk_-_248034.jpg",
-      "title": "Peter Craine / Village of Adare, Co. Limerick",
-      "caption": "Village of Adare, Co. Limerick"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Desmond_Castle%2C_Adare_%28506409%29_%2827412667136%29.jpg/500px-Desmond_Castle%2C_Adare_%28506409%29_%2827412667136%29.jpg",
-      "title": "Robert Linsdell from St. Andrews, Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-      "caption": "Desmond Castle, Adare."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Adare_-_Main_Street_-_Town_Park_-_Steps_Down_to_River_Maigue_-_geograph.org.uk_-_3067487.jpg/500px-Adare_-_Main_Street_-_Town_Park_-_Steps_Down_to_River_Maigue_-_geograph.org.uk_-_3067487.jpg",
-      "title": "Adare - Main Street - Town Park - Steps Down to River Maigue by Joseph Mischyshyn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Main Street - Town Park - Steps Down to River Maigue. The River Maigue is tidal as far as Adare, with the settlement forming around the eastern bank of the Maigue overlooking the fording point from which the village gets its name. The river spans a length of 38.75 miles (62.36 km) and encompasses a drainage basin covering an area of 1,000 square kilometres (390 sq mi). Its course is enriched by the confluence of the smaller River Glen and the larger River Loobagh in south County Limerick. Progressing northward, it passes through Bruree, where it is further augmented by the River Morning Star. Continuing its journey, it traverses through Croom and Adare before ultimately merging with the Shannon Estuary (Irish: An tSionainn). This convergence occurs just north of Ferry Bridge, situated between Kildimo and Clarina in County Limerick, a short distance west of Limerick city."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adare_-_Main_Street_-_Adare_Gift_Shop_Cottage_-_geograph.org.uk_-_3066088.jpg/500px-Adare_-_Main_Street_-_Adare_Gift_Shop_Cottage_-_geograph.org.uk_-_3066088.jpg",
-      "title": "Adare - Main Street - Adare Gift Shop Cottage by Joseph Mischyshyn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Adare Gift Shop Cottage. Adare Cottage established in 1979, was the very first gift shop to open in Adare. Now in its third generation of ownership, it remains as one of the leading stockists in Ireland of Irish handmade items including fine porcelain manufactured by Irish Dresden and Belleek. The main street of Adare seamlessly blends typical Irish architectural elements with English-style buildings and infrastructure, the latter specifically constructed for the Dunraven estate as part of an estate village. Notable examples of these architectural styles include the charming thatched cottages located near the entrance to Adare Manor. Additionally, the later 20th-century additions were meticulously designed by Detmar Blow, further enriching the architectural tapestry of the village."
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "The picturesque village of Adare, established in the 13th Century, overlooks the river crossing of the River Maigue, from which its name \"The Ford of the Oak\" (\u00c1th Dara) is derived. Situated just 18 kilometres southwest of Limerick city, the village is widely acclaimed as one of Ireland's most stunning settlements. Boasting a rich history and cultural heritage spanning centuries, and a community known for its warmth and hospitality, Adare epitomises the essence of Ireland. Its main thoroughfare is adorned with charming thatched cottages, housing artisan shops and eateries, while medieval structures and remarkable ancient ruins are among the village's standout features. This popular walk in the town follows the Adare Riverbank Walk which you can pick up at the abbey to the north of the town. On the way you will pass historic sites such as The Adare Friary and Desmond Castle while enjoying some fine views across the River Maigue.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can also try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. In Limerick itself there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/90G1vieHC_8?si=lLvqzhhFwn6k_RR2",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "River Bank Walk, Adare South ED, The Municipal District of Adare \u2014 Rathkeale, County Limerick, Munster, V94 KV2P, \u00c9ire / Ireland",
-  "postcode": "V94 KV2P",
-  "district": "The Municipal District of Adare \u2014 Rathkeale",
-  "county": "County Limerick",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "riverbank"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "ancient ruin",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg/500px-Adare_Town_Park_on_Main_Street%2C_Adare_-_geograph.org.uk_-_4143892.jpg",
+            "title": "Adare Town Park on Main Street, Adare by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Adare Town Park on Main Street, Adare. Adare Park consists of lovely walks and pathways. There is also a thatched gazebo and seating throughout the park. Entrance is located on Main Street, opposite the Heritage Centre in Adare Village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Desmond_Castle%2C_Adare_-_geograph.org.uk_-_248064.jpg",
+            "title": "Peter Craine / Desmond Castle, Adare",
+            "caption": "Desmond Castle, Adare. Adare Castle is esteemed as a notable example of a medieval fortified castle in Ireland, standing as one of several remarkable castles within County Limerick. Positioned on the north bank of the River Maigue, it occupies a strategic location atop a significant earlier ringwork, allowing it to regulate river traffic effectively. Historically, it served as a crucial stronghold for the Earls of Desmond. The defensive core of the castle is anchored by a sturdy, square keep, situated within a walled ward encircled by a moat. Adjacent to the river stands the imposing great hall, featuring windows dating back to the early 13th century, offering picturesque views of the river. Additionally, nearby structures include a kitchen and a bakery, contributing to the castle's functional layout. A comprehensive program of conservation and restoration initiatives has been undertaken, ensuring the preservation of this historic site. Access to Adare Castle is facilitated through guided tours managed in collaboration with the Adare Heritage Centre, located on Main Street, Adare. Guided tours to the castle are conducted from the Adare Heritage Centre via a shuttle bus service to and from the castle, providing visitors with an informative and immersive experience."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Adare_Friary_-_geograph.org.uk_-_3036086.jpg",
+            "title": "Adare Friary by Mike Searle, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Augustinian Abbey, Adare. The Adare Friary, originally named the \"Black Abbey,\" was established in 1316 by the Earl of Kildare as an Augustinian Friary. Presently, it serves as the \"St. Nicholas' Church of Ireland\" parish church and St. Nicholas' National School. Designated as a nationally significant structure, it is listed in the NIAH register. The Augustinian friars arrived in Dublin from England around 1260, and they were later invited to Adare by John FitzThomas FitzGerald, 1st Earl of Kildare, in 1316. The Earl granted them land and houses in the town for their establishment. By 1541, the Augustinian friars owned nearly 80 acres (320,000 m2) of land, along with several cottages, gardens in the village, and a fishing weir on the river. However, during the Tudor suppression of Irish Monasteries towards the end of the 16th century, the Augustinians were forced to leave Adare and had relocated to Limerick city by 1633. Many features of the friary remain well-preserved, especially the small 15th-century cloister and sedilia. The garth is small and square, with relatively narrow and buttress-like piers, featuring boldly moulded plinths along the base walls. The arches between them are relatively high and four-centred, with triple openings set centrally in the walls, adorned with unglazed mullioned windows. The ambulatories have rather flat vaulting, groined on the north and west, and three-centred to the other walks. The elaborate architectural details, including the Geraldine Arms carved on the inner spandrils of the east arcade, reflect the Geraldine patronage. Originally, the interior of the church would have been adorned with medieval murals of red and yellow, accented with black lining. The Pieta, a delicate wood carving believed to be from 16th-century Flemish origin, is particularly noteworthy. The massive oak door from the choir to the vestry is an ancient piece, removed from the old parish church of St. Nicholas. Additionally, the string course below the parapet on the south side aisle features late stone bosses, including a Tudor rose. During the 19th century, the Dunraven family took on restoration work at the friary, continuing the efforts to preserve its historic legacy."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thatched_Cottages_in_Adare_-_geograph.org.uk_-_325198.jpg",
+            "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Thatched Cottages in Adare"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Village_of_Adare%2C_Co._Limerick_-_geograph.org.uk_-_248034.jpg",
+            "title": "Peter Craine / Village of Adare, Co. Limerick",
+            "caption": "Village of Adare, Co. Limerick"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Desmond_Castle%2C_Adare_%28506409%29_%2827412667136%29.jpg/500px-Desmond_Castle%2C_Adare_%28506409%29_%2827412667136%29.jpg",
+            "title": "Robert Linsdell from St. Andrews, Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+            "caption": "Desmond Castle, Adare."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Adare_-_Main_Street_-_Town_Park_-_Steps_Down_to_River_Maigue_-_geograph.org.uk_-_3067487.jpg/500px-Adare_-_Main_Street_-_Town_Park_-_Steps_Down_to_River_Maigue_-_geograph.org.uk_-_3067487.jpg",
+            "title": "Adare - Main Street - Town Park - Steps Down to River Maigue by Joseph Mischyshyn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Main Street - Town Park - Steps Down to River Maigue. The River Maigue is tidal as far as Adare, with the settlement forming around the eastern bank of the Maigue overlooking the fording point from which the village gets its name. The river spans a length of 38.75 miles (62.36 km) and encompasses a drainage basin covering an area of 1,000 square kilometres (390 sq mi). Its course is enriched by the confluence of the smaller River Glen and the larger River Loobagh in south County Limerick. Progressing northward, it passes through Bruree, where it is further augmented by the River Morning Star. Continuing its journey, it traverses through Croom and Adare before ultimately merging with the Shannon Estuary (Irish: An tSionainn). This convergence occurs just north of Ferry Bridge, situated between Kildimo and Clarina in County Limerick, a short distance west of Limerick city."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adare_-_Main_Street_-_Adare_Gift_Shop_Cottage_-_geograph.org.uk_-_3066088.jpg/500px-Adare_-_Main_Street_-_Adare_Gift_Shop_Cottage_-_geograph.org.uk_-_3066088.jpg",
+            "title": "Adare - Main Street - Adare Gift Shop Cottage by Joseph Mischyshyn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Adare Gift Shop Cottage. Adare Cottage established in 1979, was the very first gift shop to open in Adare. Now in its third generation of ownership, it remains as one of the leading stockists in Ireland of Irish handmade items including fine porcelain manufactured by Irish Dresden and Belleek. The main street of Adare seamlessly blends typical Irish architectural elements with English-style buildings and infrastructure, the latter specifically constructed for the Dunraven estate as part of an estate village. Notable examples of these architectural styles include the charming thatched cottages located near the entrance to Adare Manor. Additionally, the later 20th-century additions were meticulously designed by Detmar Blow, further enriching the architectural tapestry of the village."
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "The picturesque village of Adare, established in the 13th Century, overlooks the river crossing of the River Maigue, from which its name \"The Ford of the Oak\" (\u00c1th Dara) is derived. Situated just 18 kilometres southwest of Limerick city, the village is widely acclaimed as one of Ireland's most stunning settlements. Boasting a rich history and cultural heritage spanning centuries, and a community known for its warmth and hospitality, Adare epitomises the essence of Ireland. Its main thoroughfare is adorned with charming thatched cottages, housing artisan shops and eateries, while medieval structures and remarkable ancient ruins are among the village's standout features. This popular walk in the town follows the Adare Riverbank Walk which you can pick up at the abbey to the north of the town. On the way you will pass historic sites such as The Adare Friary and Desmond Castle while enjoying some fine views across the River Maigue.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can also try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. In Limerick itself there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/90G1vieHC_8?si=lLvqzhhFwn6k_RR2",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "River Bank Walk, Adare South ED, The Municipal District of Adare \u2014 Rathkeale, County Limerick, Munster, V94 KV2P, \u00c9ire / Ireland",
+    "postcode": "V94 KV2P",
+    "district": "The Municipal District of Adare \u2014 Rathkeale",
+    "county": "County Limerick",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["riverbank"],
+    "points_of_interest": ["historical site", "ancient ruin", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

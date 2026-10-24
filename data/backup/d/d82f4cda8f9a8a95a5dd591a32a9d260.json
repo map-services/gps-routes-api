@@ -1,149 +1,142 @@
 {
-  "created_at": "2025-01-06T19:01:14.382088+00:00",
-  "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-  "ref": "lough-derg-way-walking-route",
-  "title": "Lough Derg Way Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lough_Derg_-_geograph.org.uk_-_2517647.jpg",
-  "nearby": [
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
+    "created_at": "2025-01-06T19:01:14.382088+00:00",
+    "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+    "ref": "lough-derg-way-walking-route",
+    "title": "Lough Derg Way Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lough_Derg_-_geograph.org.uk_-_2517647.jpg",
+    "nearby": [
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "O'Briensbridge Riverside Walk",
+            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+            "ref": "obriensbridge-riverside-walk-walking-route"
+        },
+        {
+            "description": "Limerick 3 Bridges",
+            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+            "ref": "limerick-3-bridges-walking-route"
+        },
+        {
+            "description": "Limerick 3 Bridges Walk",
+            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+            "ref": "limerick-3-bridges-walking-route"
+        },
+        {
+            "description": "Limerick Greenway",
+            "objectID": "e39af5aeda6049f6f37195a68dcfb541",
+            "ref": "limerick-greenway-walking-route"
+        },
+        {
+            "description": "Adare",
+            "objectID": "8e348d955193556ee256931d689b4080",
+            "ref": "adare-walking-route"
+        },
+        {
+            "description": "Ballina",
+            "objectID": "0367d63aaf753b4176f62fbeef1c672b",
+            "ref": "ballina-walking-route"
+        },
+        {
+            "description": "Castleconnell River Walk",
+            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+            "ref": "castleconnell-river-walk"
+        },
+        {
+            "description": "Clareabbey River Walk",
+            "objectID": "6d462d55f680123d16781e3f10dcbf6d",
+            "ref": "clareabbey-river-walk"
+        },
+        {
+            "description": "Ennis River Fergus Walk",
+            "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
+            "ref": "ennis-river-fergus-walk"
+        },
+        {
+            "description": "Ballyalla Lake",
+            "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
+            "ref": "ballyalla-lake-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d82f4cda8f9a8a95a5dd591a32a9d260.gpx",
+    "_geoloc": {
+        "lat": 52.66454,
+        "lng": -8.62595
     },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "O'Briensbridge Riverside Walk",
-      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-      "ref": "obriensbridge-riverside-walk-walking-route"
-    },
-    {
-      "description": "Limerick 3 Bridges",
-      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-      "ref": "limerick-3-bridges-walking-route"
-    },
-    {
-      "description": "Limerick 3 Bridges Walk",
-      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-      "ref": "limerick-3-bridges-walking-route"
-    },
-    {
-      "description": "Limerick Greenway",
-      "objectID": "e39af5aeda6049f6f37195a68dcfb541",
-      "ref": "limerick-greenway-walking-route"
-    },
-    {
-      "description": "Adare",
-      "objectID": "8e348d955193556ee256931d689b4080",
-      "ref": "adare-walking-route"
-    },
-    {
-      "description": "Ballina",
-      "objectID": "0367d63aaf753b4176f62fbeef1c672b",
-      "ref": "ballina-walking-route"
-    },
-    {
-      "description": "Castleconnell River Walk",
-      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell\u00a0river-walk"
-    },
-    {
-      "description": "Clareabbey River Walk",
-      "objectID": "6d462d55f680123d16781e3f10dcbf6d",
-      "ref": "clareabbey-river-walk"
-    },
-    {
-      "description": "Ennis River Fergus Walk",
-      "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
-      "ref": "ennis-river-fergus-walk"
-    },
-    {
-      "description": "Ballyalla Lake",
-      "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
-      "ref": "ballyalla-lake-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d82f4cda8f9a8a95a5dd591a32a9d260.gpx",
-  "_geoloc": {
-    "lat": 52.66454,
-    "lng": -8.62595
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lough_Derg_-_geograph.org.uk_-_2517647.jpg",
-      "title": "Lough Derg by John M, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lough Derg"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lough_Derg_Way_near_Garrykennedy_-_geograph.org.uk_-_2663140.jpg/500px-Lough_Derg_Way_near_Garrykennedy_-_geograph.org.uk_-_2663140.jpg",
-      "title": "Lough Derg Way near Garrykennedy by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lough Derg Way near Garrykennedy"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Walkers_on_the_Lough_Derg_Way_-_geograph.org.uk_-_2028630.jpg/500px-Walkers_on_the_Lough_Derg_Way_-_geograph.org.uk_-_2028630.jpg",
-      "title": "Walkers on the Lough Derg Way by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Walkers on the Lough Derg Way"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lough_Derg_Way_-_geograph.org.uk_-_2019025.jpg/500px-Lough_Derg_Way_-_geograph.org.uk_-_2019025.jpg",
-      "title": "Lough Derg Way by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lough Derg Way"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/University_Bridge%2C_Limerick_%28geograph_2026189%29.jpg/500px-University_Bridge%2C_Limerick_%28geograph_2026189%29.jpg",
-      "title": "David Hawgood / University Bridge, Limerick",
-      "caption": "Crossing the River Shannon on the University Bridge, north east of Limerick"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/River_Blackwater_at_Gilloge_Bridge_-_geograph.org.uk_-_2026146.jpg/500px-River_Blackwater_at_Gilloge_Bridge_-_geograph.org.uk_-_2026146.jpg",
-      "title": "River Blackwater at Gilloge Bridge by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "River Blackwater at Gilloge Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cloonlara_Bridge_-_geograph.org.uk_-_4085262.jpg/500px-Cloonlara_Bridge_-_geograph.org.uk_-_4085262.jpg",
-      "title": "Cloonlara Bridge by David Purchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cloonlara Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/County_Clare_-_Killaloe_Cathedral_-_20210816143649.jpg/330px-County_Clare_-_Killaloe_Cathedral_-_20210816143649.jpg",
-      "title": "Jonjobaker, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Killaloe Cathedral, County Clare"
-    }
-  ],
-  "distance_km": 64.0,
-  "description": "Follow the Lough Derg Way from Limerick City to Lough Derg on this long distance walk. The route runs for about 64km and includes some lovely waterside sections along the River Shannon and its canals. On the way you will pass Clonlara, O'Briensbridge, Ballina and Killaloe, where you can visit the historic St Flannan's Cathedral. The route finishes at Lough Derg in County Donegal near the border with Northern Ireland. The lake is best known for St Patrick's Purgatory, a site of pilgrimage on Station Island in the lake.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/fe7NIwmdZCg",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "O'Connell Street, Shannon B, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, V94 VEY1, \u00c9ire / Ireland",
-  "postcode": "V94 VEY1",
-  "district": "Limerick",
-  "county": "County Limerick",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "22 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "waterside"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "pilgrimage site"
-  ],
-  "facilities": [],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lough_Derg_-_geograph.org.uk_-_2517647.jpg",
+            "title": "Lough Derg by John M, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lough Derg"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lough_Derg_Way_near_Garrykennedy_-_geograph.org.uk_-_2663140.jpg/500px-Lough_Derg_Way_near_Garrykennedy_-_geograph.org.uk_-_2663140.jpg",
+            "title": "Lough Derg Way near Garrykennedy by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lough Derg Way near Garrykennedy"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Walkers_on_the_Lough_Derg_Way_-_geograph.org.uk_-_2028630.jpg/500px-Walkers_on_the_Lough_Derg_Way_-_geograph.org.uk_-_2028630.jpg",
+            "title": "Walkers on the Lough Derg Way by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Walkers on the Lough Derg Way"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lough_Derg_Way_-_geograph.org.uk_-_2019025.jpg/500px-Lough_Derg_Way_-_geograph.org.uk_-_2019025.jpg",
+            "title": "Lough Derg Way by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Lough Derg Way"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/University_Bridge%2C_Limerick_%28geograph_2026189%29.jpg/500px-University_Bridge%2C_Limerick_%28geograph_2026189%29.jpg",
+            "title": "David Hawgood / University Bridge, Limerick",
+            "caption": "Crossing the River Shannon on the University Bridge, north east of Limerick"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/River_Blackwater_at_Gilloge_Bridge_-_geograph.org.uk_-_2026146.jpg/500px-River_Blackwater_at_Gilloge_Bridge_-_geograph.org.uk_-_2026146.jpg",
+            "title": "River Blackwater at Gilloge Bridge by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "River Blackwater at Gilloge Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cloonlara_Bridge_-_geograph.org.uk_-_4085262.jpg/500px-Cloonlara_Bridge_-_geograph.org.uk_-_4085262.jpg",
+            "title": "Cloonlara Bridge by David Purchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cloonlara Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/County_Clare_-_Killaloe_Cathedral_-_20210816143649.jpg/330px-County_Clare_-_Killaloe_Cathedral_-_20210816143649.jpg",
+            "title": "Jonjobaker, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Killaloe Cathedral, County Clare"
+        }
+    ],
+    "distance_km": 64.0,
+    "description": "Follow the Lough Derg Way from Limerick City to Lough Derg on this long distance walk. The route runs for about 64km and includes some lovely waterside sections along the River Shannon and its canals. On the way you will pass Clonlara, O'Briensbridge, Ballina and Killaloe, where you can visit the historic St Flannan's Cathedral. The route finishes at Lough Derg in County Donegal near the border with Northern Ireland. The lake is best known for St Patrick's Purgatory, a site of pilgrimage on Station Island in the lake.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/fe7NIwmdZCg",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "O'Connell Street, Shannon B, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, V94 VEY1, \u00c9ire / Ireland",
+    "postcode": "V94 VEY1",
+    "district": "Limerick",
+    "county": "County Limerick",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "22 hours",
+    "difficulty": "moderate",
+    "terrain": ["waterside"],
+    "points_of_interest": ["historical site", "pilgrimage site"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

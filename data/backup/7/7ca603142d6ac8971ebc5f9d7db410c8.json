@@ -1,93 +1,87 @@
 {
-  "created_at": "2025-01-06T11:17:41.308969+00:00",
-  "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-  "ref": "withnell\u00a0nature-reserve-walking-route",
-  "title": "Withnell\u00a0Nature Reserve Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg/500px-Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg",
-  "nearby": [
-    {
-      "description": "Abbey Village Reservoir",
-      "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
-      "ref": "abbey-village-reservoir-walking-route"
+    "created_at": "2025-01-06T11:17:41.308969+00:00",
+    "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+    "ref": "withnell-nature-reserve-walking-route",
+    "title": "Withnell Nature Reserve Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg/500px-Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg",
+    "nearby": [
+        {
+            "description": "Abbey Village Reservoir",
+            "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
+            "ref": "abbey-village-reservoir-walking-route"
+        },
+        {
+            "description": "Brinscall",
+            "objectID": "14b0afb57501731023cc69b869f18fee",
+            "ref": "brinscall-walking-route"
+        },
+        {
+            "description": "White Coppice",
+            "objectID": "2a09384e17be0565145f562cb75469d2",
+            "ref": "white-coppice-walking-route"
+        },
+        {
+            "description": "Rivington Reservoir",
+            "objectID": "b5c2d530190f206df7204e772cf4ce00",
+            "ref": "rivington-reservoir-walking-route"
+        },
+        {
+            "description": "Rivington Pike",
+            "objectID": "9f93e0ad5a6538097da374cf61fef974",
+            "ref": "rivington-pike-walking-route"
+        },
+        {
+            "description": "Rivington Country Park",
+            "objectID": "a033cf407458a87a8b925d36290d2bb3",
+            "ref": "rivington-country-park-cycle-route"
+        },
+        {
+            "description": "White Coppice Waterfall Walk",
+            "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
+            "ref": "white-coppice-waterfall-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7ca603142d6ac8971ebc5f9d7db410c8.gpx",
+    "_geoloc": {
+        "lat": 53.6939613481,
+        "lng": -2.5569752482
     },
-    {
-      "description": "Brinscall",
-      "objectID": "14b0afb57501731023cc69b869f18fee",
-      "ref": "brinscall-walking-route"
-    },
-    {
-      "description": "White Coppice",
-      "objectID": "2a09384e17be0565145f562cb75469d2",
-      "ref": "white-coppice-walking-route"
-    },
-    {
-      "description": "Rivington Reservoir",
-      "objectID": "b5c2d530190f206df7204e772cf4ce00",
-      "ref": "rivington-reservoir-walking-route"
-    },
-    {
-      "description": "Rivington Pike",
-      "objectID": "9f93e0ad5a6538097da374cf61fef974",
-      "ref": "rivington-pike-walking-route"
-    },
-    {
-      "description": "Rivington Country Park",
-      "objectID": "a033cf407458a87a8b925d36290d2bb3",
-      "ref": "rivington-country-park-cycle-route"
-    },
-    {
-      "description": "White Coppice Waterfall Walk",
-      "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
-      "ref": "white-coppice-waterfall-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7ca603142d6ac8971ebc5f9d7db410c8.gpx",
-  "_geoloc": {
-    "lat": 53.6939613481,
-    "lng": -2.5569752482
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg/500px-Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg",
-      "title": "Sign for Withnel Nature Trail by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Sign for Withnell Nature Reserve Trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nature_Trail_near_Abbey_Village_-_geograph.org.uk_-_2323815.jpg/500px-Nature_Trail_near_Abbey_Village_-_geograph.org.uk_-_2323815.jpg",
-      "title": "Nature Trail near Abbey Village by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Nature Trail near Abbey Village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SD6322_-_Former_Abbey_Village_Railway_Station_%28geograph_2311591%29.jpg",
-      "title": "Alexander P Kapp / Former Abbey Village Railway Station",
-      "caption": "Former Abbey Village Railway Station"
-    }
-  ],
-  "distance_km": 3.2,
-  "description": "This walk visits the Withnell Nature Reserve in Brinscall, Lancashire. The small reserve includes a pleasant nature trail with lots of interesting flora and fauna to see. Keep your eyes peeled for a varfiety of woodland birds and even deer. The trail runs along an old railway line so look out for the old stations on the way. You can extend the walk by continuing north to visit the Abbey Village Reservoir .",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/j5PT-CWJUQY",
-  "district": "Chorley",
-  "county": "Lancashire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "4, Pleasant View, Withnell Farm, Withnell, Chorley, Lancashire, England, PR6 8SE, United Kingdom",
-  "postcode": "PR6 8SE",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg/500px-Sign_for_Withnel_Nature_Trail_-_geograph.org.uk_-_2427573.jpg",
+            "title": "Sign for Withnel Nature Trail by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Sign for Withnell Nature Reserve Trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nature_Trail_near_Abbey_Village_-_geograph.org.uk_-_2323815.jpg/500px-Nature_Trail_near_Abbey_Village_-_geograph.org.uk_-_2323815.jpg",
+            "title": "Nature Trail near Abbey Village by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Nature Trail near Abbey Village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SD6322_-_Former_Abbey_Village_Railway_Station_%28geograph_2311591%29.jpg",
+            "title": "Alexander P Kapp / Former Abbey Village Railway Station",
+            "caption": "Former Abbey Village Railway Station"
+        }
+    ],
+    "distance_km": 3.2,
+    "description": "This walk visits the Withnell Nature Reserve in Brinscall, Lancashire. The small reserve includes a pleasant nature trail with lots of interesting flora and fauna to see. Keep your eyes peeled for a varfiety of woodland birds and even deer. The trail runs along an old railway line so look out for the old stations on the way. You can extend the walk by continuing north to visit the Abbey Village Reservoir .",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/j5PT-CWJUQY",
+    "district": "Chorley",
+    "county": "Lancashire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "4, Pleasant View, Withnell Farm, Withnell, Chorley, Lancashire, England, PR6 8SE, United Kingdom",
+    "postcode": "PR6 8SE",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

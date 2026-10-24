@@ -1,0 +1,67 @@
+{
+  "created_at": "2026-10-22T22:29:06.341073+00:00",
+  "objectID": "01c735bc373add0b1ea384dba473fc14",
+  "ref": "ayr-to-troon-walk",
+  "title": "Ayr to Troon Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ayr_beach_-_geograph.org.uk_-_6338800.jpg/500px-Ayr_beach_-_geograph.org.uk_-_6338800.jpg?20240516111348",
+  "nearby": [
+    {
+      "description": "Troon to Prestwick Walk",
+      "objectID": "681ef8c12593120589a72a35d25233ac",
+      "ref": "troon-to-prestwick-walk"
+    },
+    {
+      "description": "Ayrshire Coastal Path",
+      "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
+      "ref": "ayrshire-coastal-path-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/01c735bc373add0b1ea384dba473fc14.gpx",
+  "_geoloc": {
+    "lat": 55.4662756761,
+    "lng": -4.6414881825
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ayr_beach_-_geograph.org.uk_-_6338800.jpg",
+      "title": "Ayr beach by Richard Sutcliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Ayr beach"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/South_Beach_Esplanade_in_Troon_%28geograph_6435320%29.jpg",
+      "title": "Steve Daniels / South Beach Esplanade in Troon",
+      "caption": "South Beach Esplanade in Troon"
+    }
+  ],
+  "distance_km": 12.0,
+  "description": "This walk follows a section of the Ayrshire Coastal Path from Ayr to Troon via Prestwick. The path links long stretches of sandy beach with promenade walking, giving open views across the Firth of Clyde.  Leaving Ayr, the route passes through the built-up seafront at Prestwick before returning to a more open coastal setting. Much of the walk is level and well surfaced, making it straightforward underfoot, with the sea remaining a constant presence on the western side.As you approach Troon the coastline becomes more developed again, with the harbour and golf courses coming into view. The walk ends in the town centre, where there are transport links and facilities, marking a clear and logical stopping point on this coastal section.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/sSEBYGnBko4?si=YScEmdoqSySE3hlP",
+  "district": "Ayr",
+  "county": "South Ayrshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "3.5 - 4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "harbour",
+    "golf course"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ],
+  "nominatim_found": true,
+  "display_address": "Fort, Ayr, South Ayrshire, Alba / Scotland, KA7 1JT, United Kingdom",
+  "postcode": "KA7 1JT",
+  "state": "Alba / Scotland"
+}

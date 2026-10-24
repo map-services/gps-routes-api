@@ -1,119 +1,112 @@
 {
-  "created_at": "2025-01-06T10:36:15.457386+00:00",
-  "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
-  "ref": "carrauntoohil-walking-route",
-  "title": "Carrauntoohil\u00a0Devil's Ladder Hike Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg/500px-Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg?20110221162816",
-  "nearby": [
-    {
-      "description": "Gap of Dunloe",
-      "objectID": "3a68930895146e982cfd67a8788447ad",
-      "ref": "gap-of-dunloe-walking-route"
+    "created_at": "2025-01-06T10:36:15.457386+00:00",
+    "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
+    "ref": "carrauntoohil-walking-route",
+    "title": "Carrauntoohil Devil's Ladder Hike Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg/500px-Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg?20110221162816",
+    "nearby": [
+        {
+            "description": "Gap of Dunloe",
+            "objectID": "3a68930895146e982cfd67a8788447ad",
+            "ref": "gap-of-dunloe-walking-route"
+        },
+        {
+            "description": "Mucross Lake",
+            "objectID": "7344e35278699cb66481e45662cf217a",
+            "ref": "muckross-lake-walking-route"
+        },
+        {
+            "description": "Torc Waterfall",
+            "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
+            "ref": "torc-waterfall-walking-route"
+        },
+        {
+            "description": "Annascaul Lake",
+            "objectID": "67e5be52b3d7ec452c385c701d859c0b",
+            "ref": "annascaul-lake-walking-route"
+        },
+        {
+            "description": "Lough Guitane",
+            "objectID": "1cb9b2a074abfb914de6def908f9b106",
+            "ref": "lough-guitane-walking-route"
+        },
+        {
+            "description": "Lough Leane And Ross Castle",
+            "objectID": "d4590c5479bee012cc65a06a1131f049",
+            "ref": "lough-leane-and-ross-castle-walking-route"
+        },
+        {
+            "description": "Caragh Lake",
+            "objectID": "3a40b56d757464f237bd53a4bb63362e",
+            "ref": "caragh-lake-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f90f4bebae415b4b36a18cd06dc90c95.gpx",
+    "_geoloc": {
+        "lat": 52.0257807812,
+        "lng": -9.7093145817
     },
-    {
-      "description": "Mucross Lake",
-      "objectID": "7344e35278699cb66481e45662cf217a",
-      "ref": "muckross-lake-walking-route"
-    },
-    {
-      "description": "Torc Waterfall",
-      "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
-      "ref": "torc-waterfall-walking-route"
-    },
-    {
-      "description": "Annascaul Lake",
-      "objectID": "67e5be52b3d7ec452c385c701d859c0b",
-      "ref": "annascaul-lake-walking-route"
-    },
-    {
-      "description": "Lough Guitane",
-      "objectID": "1cb9b2a074abfb914de6def908f9b106",
-      "ref": "lough-guitane-walking-route"
-    },
-    {
-      "description": "Lough Leane And Ross Castle",
-      "objectID": "d4590c5479bee012cc65a06a1131f049",
-      "ref": "lough-leane-and-ross-castle-walking-route"
-    },
-    {
-      "description": "Caragh Lake",
-      "objectID": "3a40b56d757464f237bd53a4bb63362e",
-      "ref": "caragh-lake-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f90f4bebae415b4b36a18cd06dc90c95.gpx",
-  "_geoloc": {
-    "lat": 52.0257807812,
-    "lng": -9.7093145817
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg/500px-Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg?20110221162816",
-      "title": "sarah gallagher / Looking down the Devil's Ladder",
-      "caption": "Looking down the Devil's Ladder. Carrauntoohil, the central peak of the MacGillycuddy's Reeks range in County Kerry, Ireland, boasts three prominent ridges. The northern ridge, known as the Beenkeragh Ridge, is a narrow rocky ar\u00eate that includes The Bones (Na Cn\u00e1mha) and leads to Beenkeragh (Binn Chaorach), Ireland's second-highest peak at 1,008 metres (3,307 feet). The Caher Ridge to the west, another ar\u00eate, connects to Caher, the country's third-highest peak at 1,000 metres (3,300 feet). The south-easterly ridge, wider and unnamed, descends to the col at the top of the Devil's Ladder, then rises to Cnoc na Toinne at 845 metres (2,772 feet), from where the long eastern ridge of the MacGillycuddy's Reeks can be accessed."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Macgillycuddy%27s_Reeks%2C_Corr%C3%A1n_Tuathail_%28Carrauntoohil%29_-_geograph.org.uk_-_1434274.jpg?20110301231017",
-      "title": "Nigel Cox / Macgillycuddy's Reeks: Corr\u00e1n Tuathail (Carrauntoohil)",
-      "caption": "Macgillycuddy's Reeks, Corr\u00e1n Tuathail (Carrauntoohil). At 1,038 metres above sea level Carrauntoohil is the highest point in Ireland, surmounted by the famous cross. More recent photos show this to have been subsequently painted black, but in 1991 it was white and suffering a little from the elements. In the 1950s, the local community erected the wooden cross. This cross was replaced by a 5-metre (16 ft 5 in) steel cross in 1976. In 2014, unknown individuals cut down the steel cross in protest against the Catholic Church, but it was soon re-erected by the community. Due to the hazardous nature of Carrauntoohil\u2019s steep north-eastern and eastern faces, the Kerry Mountain Rescue Team (KMRT) has installed danger signs at the summit. These signs are particularly aimed at preventing hill-walkers from mistakenly descending the initial section of the Howling Ridge sector, a perilous ridge between the north-east and east faces."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/View_from_around_Fiacail_Mhor_towards_Carrauntoohil%2C_with_the_Devil%27s_Ladder_to_the_left_-_geograph.org.uk_-_540441.jpg?20110206010949",
-      "title": "Norman Ekin / View from around Fiacail Mhor towards Carrauntoohil, with the Devil's Ladder to the left",
-      "caption": "View from around Fiacail Mhor towards Carrauntoohil, with the Devil's Ladder to the left. Carrauntoohil stands as the highest mountain in Ireland by all classification scales and is ranked as the 133rd-highest and 4th most prominent mountain in Britain and Ireland on the Simms classification. The Scottish Mountaineering Club (SMC) classifies it as one of the 34 Furths, defined as mountains outside Scotland that are over 3,000 feet and meet the criteria for a Munro, making it one of the thirteen Irish Munros. Carrauntoohil's prominence also qualifies it for the P600 and Britain and Ireland Marilyn classifications. It is listed as the highest mountain in the MountainViews Online Database of Ireland's 100 Highest Mountains."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Macgillycuddy%27s_Reeks%2C_Col_between_Carrauntoohil_and_Cnoc_Toinne_-_geograph.org.uk_-_1434252.jpg?20110301231016",
-      "title": "Nigel Cox / Macgillycuddy's Reeks: Col between Carrauntoohil and Cnoc Toinne",
-      "caption": "Col between Carrauntoohil and Cnoc na Toinne. The scar at the bottom of this col is the top of the Devil's Ladder 1433188, while Cnoc na Toinne is in V8183 with a summit height of 846 metres, or 2,776 feet, above sea level. The photographer is standing on the side slope of Carrauntoohil which is behind him. Carrauntoohil overlooks three U-shaped valleys, each containing lakes: Hag's Glen (Com Caill\u00ed) to the east, Coomloughra (Chom Luachra) to the west, and Curragh More (Currach M\u00f3r) to the south. Its north-east face features a deep corrie called the Eagle's Nest, which ascends through three levels, the highest containing Lough Cummeenoughter, Ireland's highest lake. The Eagle's Nest provides views of several gullies, including Curved Gully, Central Gully, and Brother O'Shea's Gully. The term Eagle's Nest sometimes refers to the small Mountain Rescue Hut at the first level of the corrie."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Eagle%27s_Nest_%28Carrauntoohil%2C_Kerry%29.jpg/500px-The_Eagle%27s_Nest_%28Carrauntoohil%2C_Kerry%29.jpg?20181023202249",
-      "title": "Jim Barton / Hag's Glen and Carrauntoohil",
-      "caption": "The Eagle's Nest. Carrauntoohil is composed mainly of sandstone, whose glaciation produced distinctive features on the mountain such as the Eagle's Nest corrie and some deep gullies and sharp ar\u00eates in its east and northeastern faces that are popular with rock and winter climbers. Carrauntoohil is the most commonly used and official spelling of the name, as recognised by Ordnance Survey Ireland, the Placenames Database of Ireland, and Paul Tempan, who compiled the Irish Hill and Mountain Names database in 2010. Historically, Carrauntoohill has also been used, for instance, by the Irish historian Patrick Weston Joyce in 1870. Other variations, such as Carrantoohil, Carrantouhil, Carrauntouhil, and Carrantuohill, are all anglicisations of the same Irish name . Paul Tempan notes that Carrauntoohil's Irish name is \"shrouded in uncertainty\" and is not mentioned in any surviving early Irish texts, unlike other peaks such as Mangerton or Croagh Patrick. The official Irish name is Corr\u00e1n Tuathail, interpreted as \"Tuathal's sickle\", with Tuathal being a male first name. Patrick Weston Joyce previously interpreted the name as \"inverted sickle\", derived from the Irish term tuathail, meaning left-handed, which can also mean reversed from its proper direction . Additionally, early accounts such as Isaac Weld's in 1812 referred to the mountain as Gheraun-Tuel, and Samuel Lewis's Topographical Dictionary of Ireland (1837) called it Garran Tual. These variations suggest that the first element might have been g\u00e9ar\u00e1n ('fang'), found in other Kerry mountain names, and that the earlier name could have been G\u00e9ar\u00e1n Tuathail ('Tuathal's fang') ."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Carrauntoohil%27s_South_East_Ridge.jpg?20181105212444",
-      "title": "Britishfinance, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Carrauntoohil's South East Ridge. In his 2006 book Carrauntoohil and MacGillycuddy\u2019s Reeks, climber and author Jim Ryan noted that the mountain of Carrauntoohil, including much of Hag's Glen, is privately owned. The freehold is held by four families: Donal Doona, John O'Shea, John B. Doona, and James Sullivan, whose great-grandfathers purchased the land from the Irish Land Commission, paying eleven shillings and two pence (approximately 70 euro cents) twice a year over many decades. Ryan praised the landowners for granting access to the area despite damage to their properties. A state-sponsored report titled MacGillycuddy Reeks Mountain Access Development Assessment (MAP) in December 2013 detailed the complex network of land titles in the range. Unlike other national mountain ranges, MacGillycuddy's Reeks are entirely privately owned and are not part of a national park or trust. This ownership situation has raised concerns due to the increasing number of visitors to Carrauntoohil and the lack of infrastructure to manage erosion and maintain paths. In 2014, the MacGillycuddy Reeks Mountain Access Forum, a group comprising landowners, commercial users, and public access advocates, was established to protect and manage the range sustainably. By 2019, the forum had made progress in laying new pathways in the Hag's Glen approach to Carrauntoohil, but questions remained about whether the area should be designated as a national park ."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hag%27s_Tooth.jpg/500px-Hag%27s_Tooth.jpg?20220616002420",
-      "title": "AboveHeights, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Lake Gouragh and the jagged peak of Hag's Tooth. Separate statistics do not exist specifically for visitors or ascensions of Carrauntoohil alone; however, records show that over 125,000 people accessed the MacGillycuddy's Reeks range in 2017, increasing to 140,000 in 2018, with the majority of these visits related to Carrauntoohil. The mountain's popularity has unfortunately led to numerous accidents and fatalities. By the 50th anniversary of the Kerry Mountain Rescue Team (KMRT) in 2017, they had attended to over 40 fatalities within the range, noting that many occurred in the immediate vicinity of Carrauntoohil. Accidents on the mountain have been attributed to bad weather, late departures resulting in descending in darkness, and falling rocks in eroded areas."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Carrauntoohil_Climb_-_geograph.org.uk_-_4239900.jpg/500px-Carrauntoohil_Climb_-_geograph.org.uk_-_4239900.jpg?20230105014216",
-      "title": "Carrauntoohil Climb by Enda O Flaherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Carrauntoohil Climb. The straightforward route to Carrauntoohil is via the Devil's Ladder, which begins at Cronin's Yard (V837873) in the northeast. The path leads into the Hag's Glen, continuing between Lough Gouragh and Lough Calee until the Devil's Ladder, a worn trail ascending to the col between Carrauntoohil and Cnoc na Toinne at 845 meters (2,772 feet), becomes visible. While no special climbing equipment is needed, caution is advised as the Devil's Ladder has become unstable due to overuse. Alternatives include the Bothar na Gige Zig Zag track on the northeast spur of Cnoc na Toinne. The complete route back to Cronin's Yard spans 12 km (7.5 miles) and takes approximately 4-5 hours. More serious routes from the Hag's Glen include the Hag's Tooth Ridge leading to Beenkeragh, then crossing the Beenkeragh Ridge to Carrauntoohil, or the Eagle's Nest route to Lough Cummeenoughter, Ireland's highest lake, and up to the summit via Brother O'Shea's Gully or Curved Gully. An alternative descent route is the Heavenly Gates, starting above the col of the Devil's Ladder. This path cuts across Carrauntoohil's east face through a narrow gap known as the Heavenly Gates and descends diagonally down a deep gully to the first level of the Eagle's Nest corrie, where the Mountain Rescue Hut is located. However, this route is hazardous, difficult to locate as it is unmarked, and particularly dangerous in poor visibility, contributing to several serious accidents on Carrauntoohil."
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This popular hike climbs to Carrauntoohil, the highest mountain in Ireland. The mountain is located on the Iveragh Peninsula in County Kerry, near to the centre of Ireland's highest mountain range, MacGillycuddy's Reeks. The trail climbs to the summit along the Devil's Ladder Route which passes through a spectacular narrow gorge. From the summit there are glorious views over the Killarney National Park and the surrounding lakes and mountains. You can continue your walking in the area by heading to the nearby Gap of Dunloe. Here you will find a series of beautiful lakes and fine views of the Kerry mountains.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/efVl9HNBEJk?si=gxiy_Fluu80G_d06",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Lisleibane, Zigzags, Curraghmore ED, Kenmare Municipal District, County Kerry, Munster, \u00c9ire / Ireland",
-  "postcode": null,
-  "district": null,
-  "county": "County Kerry",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "mountain"
-  ],
-  "points_of_interest": [
-    "summit",
-    "viewpoint"
-  ],
-  "facilities": [],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg/500px-Looking_down_the_Devil%27s_Ladder_-_geograph.org.uk_-_895831.jpg?20110221162816",
+            "title": "sarah gallagher / Looking down the Devil's Ladder",
+            "caption": "Looking down the Devil's Ladder. Carrauntoohil, the central peak of the MacGillycuddy's Reeks range in County Kerry, Ireland, boasts three prominent ridges. The northern ridge, known as the Beenkeragh Ridge, is a narrow rocky ar\u00eate that includes The Bones (Na Cn\u00e1mha) and leads to Beenkeragh (Binn Chaorach), Ireland's second-highest peak at 1,008 metres (3,307 feet). The Caher Ridge to the west, another ar\u00eate, connects to Caher, the country's third-highest peak at 1,000 metres (3,300 feet). The south-easterly ridge, wider and unnamed, descends to the col at the top of the Devil's Ladder, then rises to Cnoc na Toinne at 845 metres (2,772 feet), from where the long eastern ridge of the MacGillycuddy's Reeks can be accessed."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Macgillycuddy%27s_Reeks%2C_Corr%C3%A1n_Tuathail_%28Carrauntoohil%29_-_geograph.org.uk_-_1434274.jpg?20110301231017",
+            "title": "Nigel Cox / Macgillycuddy's Reeks: Corr\u00e1n Tuathail (Carrauntoohil)",
+            "caption": "Macgillycuddy's Reeks, Corr\u00e1n Tuathail (Carrauntoohil). At 1,038 metres above sea level Carrauntoohil is the highest point in Ireland, surmounted by the famous cross. More recent photos show this to have been subsequently painted black, but in 1991 it was white and suffering a little from the elements. In the 1950s, the local community erected the wooden cross. This cross was replaced by a 5-metre (16 ft 5 in) steel cross in 1976. In 2014, unknown individuals cut down the steel cross in protest against the Catholic Church, but it was soon re-erected by the community. Due to the hazardous nature of Carrauntoohil\u2019s steep north-eastern and eastern faces, the Kerry Mountain Rescue Team (KMRT) has installed danger signs at the summit. These signs are particularly aimed at preventing hill-walkers from mistakenly descending the initial section of the Howling Ridge sector, a perilous ridge between the north-east and east faces."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/View_from_around_Fiacail_Mhor_towards_Carrauntoohil%2C_with_the_Devil%27s_Ladder_to_the_left_-_geograph.org.uk_-_540441.jpg?20110206010949",
+            "title": "Norman Ekin / View from around Fiacail Mhor towards Carrauntoohil, with the Devil's Ladder to the left",
+            "caption": "View from around Fiacail Mhor towards Carrauntoohil, with the Devil's Ladder to the left. Carrauntoohil stands as the highest mountain in Ireland by all classification scales and is ranked as the 133rd-highest and 4th most prominent mountain in Britain and Ireland on the Simms classification. The Scottish Mountaineering Club (SMC) classifies it as one of the 34 Furths, defined as mountains outside Scotland that are over 3,000 feet and meet the criteria for a Munro, making it one of the thirteen Irish Munros. Carrauntoohil's prominence also qualifies it for the P600 and Britain and Ireland Marilyn classifications. It is listed as the highest mountain in the MountainViews Online Database of Ireland's 100 Highest Mountains."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Macgillycuddy%27s_Reeks%2C_Col_between_Carrauntoohil_and_Cnoc_Toinne_-_geograph.org.uk_-_1434252.jpg?20110301231016",
+            "title": "Nigel Cox / Macgillycuddy's Reeks: Col between Carrauntoohil and Cnoc Toinne",
+            "caption": "Col between Carrauntoohil and Cnoc na Toinne. The scar at the bottom of this col is the top of the Devil's Ladder 1433188, while Cnoc na Toinne is in V8183 with a summit height of 846 metres, or 2,776 feet, above sea level. The photographer is standing on the side slope of Carrauntoohil which is behind him. Carrauntoohil overlooks three U-shaped valleys, each containing lakes: Hag's Glen (Com Caill\u00ed) to the east, Coomloughra (Chom Luachra) to the west, and Curragh More (Currach M\u00f3r) to the south. Its north-east face features a deep corrie called the Eagle's Nest, which ascends through three levels, the highest containing Lough Cummeenoughter, Ireland's highest lake. The Eagle's Nest provides views of several gullies, including Curved Gully, Central Gully, and Brother O'Shea's Gully. The term Eagle's Nest sometimes refers to the small Mountain Rescue Hut at the first level of the corrie."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Eagle%27s_Nest_%28Carrauntoohil%2C_Kerry%29.jpg/500px-The_Eagle%27s_Nest_%28Carrauntoohil%2C_Kerry%29.jpg?20181023202249",
+            "title": "Jim Barton / Hag's Glen and Carrauntoohil",
+            "caption": "The Eagle's Nest. Carrauntoohil is composed mainly of sandstone, whose glaciation produced distinctive features on the mountain such as the Eagle's Nest corrie and some deep gullies and sharp ar\u00eates in its east and northeastern faces that are popular with rock and winter climbers. Carrauntoohil is the most commonly used and official spelling of the name, as recognised by Ordnance Survey Ireland, the Placenames Database of Ireland, and Paul Tempan, who compiled the Irish Hill and Mountain Names database in 2010. Historically, Carrauntoohill has also been used, for instance, by the Irish historian Patrick Weston Joyce in 1870. Other variations, such as Carrantoohil, Carrantouhil, Carrauntouhil, and Carrantuohill, are all anglicisations of the same Irish name . Paul Tempan notes that Carrauntoohil's Irish name is \"shrouded in uncertainty\" and is not mentioned in any surviving early Irish texts, unlike other peaks such as Mangerton or Croagh Patrick. The official Irish name is Corr\u00e1n Tuathail, interpreted as \"Tuathal's sickle\", with Tuathal being a male first name. Patrick Weston Joyce previously interpreted the name as \"inverted sickle\", derived from the Irish term tuathail, meaning left-handed, which can also mean reversed from its proper direction . Additionally, early accounts such as Isaac Weld's in 1812 referred to the mountain as Gheraun-Tuel, and Samuel Lewis's Topographical Dictionary of Ireland (1837) called it Garran Tual. These variations suggest that the first element might have been g\u00e9ar\u00e1n ('fang'), found in other Kerry mountain names, and that the earlier name could have been G\u00e9ar\u00e1n Tuathail ('Tuathal's fang') ."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Carrauntoohil%27s_South_East_Ridge.jpg?20181105212444",
+            "title": "Britishfinance, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Carrauntoohil's South East Ridge. In his 2006 book Carrauntoohil and MacGillycuddy\u2019s Reeks, climber and author Jim Ryan noted that the mountain of Carrauntoohil, including much of Hag's Glen, is privately owned. The freehold is held by four families: Donal Doona, John O'Shea, John B. Doona, and James Sullivan, whose great-grandfathers purchased the land from the Irish Land Commission, paying eleven shillings and two pence (approximately 70 euro cents) twice a year over many decades. Ryan praised the landowners for granting access to the area despite damage to their properties. A state-sponsored report titled MacGillycuddy Reeks Mountain Access Development Assessment (MAP) in December 2013 detailed the complex network of land titles in the range. Unlike other national mountain ranges, MacGillycuddy's Reeks are entirely privately owned and are not part of a national park or trust. This ownership situation has raised concerns due to the increasing number of visitors to Carrauntoohil and the lack of infrastructure to manage erosion and maintain paths. In 2014, the MacGillycuddy Reeks Mountain Access Forum, a group comprising landowners, commercial users, and public access advocates, was established to protect and manage the range sustainably. By 2019, the forum had made progress in laying new pathways in the Hag's Glen approach to Carrauntoohil, but questions remained about whether the area should be designated as a national park ."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hag%27s_Tooth.jpg/500px-Hag%27s_Tooth.jpg?20220616002420",
+            "title": "AboveHeights, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Lake Gouragh and the jagged peak of Hag's Tooth. Separate statistics do not exist specifically for visitors or ascensions of Carrauntoohil alone; however, records show that over 125,000 people accessed the MacGillycuddy's Reeks range in 2017, increasing to 140,000 in 2018, with the majority of these visits related to Carrauntoohil. The mountain's popularity has unfortunately led to numerous accidents and fatalities. By the 50th anniversary of the Kerry Mountain Rescue Team (KMRT) in 2017, they had attended to over 40 fatalities within the range, noting that many occurred in the immediate vicinity of Carrauntoohil. Accidents on the mountain have been attributed to bad weather, late departures resulting in descending in darkness, and falling rocks in eroded areas."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Carrauntoohil_Climb_-_geograph.org.uk_-_4239900.jpg/500px-Carrauntoohil_Climb_-_geograph.org.uk_-_4239900.jpg?20230105014216",
+            "title": "Carrauntoohil Climb by Enda O Flaherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Carrauntoohil Climb. The straightforward route to Carrauntoohil is via the Devil's Ladder, which begins at Cronin's Yard (V837873) in the northeast. The path leads into the Hag's Glen, continuing between Lough Gouragh and Lough Calee until the Devil's Ladder, a worn trail ascending to the col between Carrauntoohil and Cnoc na Toinne at 845 meters (2,772 feet), becomes visible. While no special climbing equipment is needed, caution is advised as the Devil's Ladder has become unstable due to overuse. Alternatives include the Bothar na Gige Zig Zag track on the northeast spur of Cnoc na Toinne. The complete route back to Cronin's Yard spans 12 km (7.5 miles) and takes approximately 4-5 hours. More serious routes from the Hag's Glen include the Hag's Tooth Ridge leading to Beenkeragh, then crossing the Beenkeragh Ridge to Carrauntoohil, or the Eagle's Nest route to Lough Cummeenoughter, Ireland's highest lake, and up to the summit via Brother O'Shea's Gully or Curved Gully. An alternative descent route is the Heavenly Gates, starting above the col of the Devil's Ladder. This path cuts across Carrauntoohil's east face through a narrow gap known as the Heavenly Gates and descends diagonally down a deep gully to the first level of the Eagle's Nest corrie, where the Mountain Rescue Hut is located. However, this route is hazardous, difficult to locate as it is unmarked, and particularly dangerous in poor visibility, contributing to several serious accidents on Carrauntoohil."
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This popular hike climbs to Carrauntoohil, the highest mountain in Ireland. The mountain is located on the Iveragh Peninsula in County Kerry, near to the centre of Ireland's highest mountain range, MacGillycuddy's Reeks. The trail climbs to the summit along the Devil's Ladder Route which passes through a spectacular narrow gorge. From the summit there are glorious views over the Killarney National Park and the surrounding lakes and mountains. You can continue your walking in the area by heading to the nearby Gap of Dunloe. Here you will find a series of beautiful lakes and fine views of the Kerry mountains.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/efVl9HNBEJk?si=gxiy_Fluu80G_d06",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Lisleibane, Zigzags, Curraghmore ED, Kenmare Municipal District, County Kerry, Munster, \u00c9ire / Ireland",
+    "postcode": null,
+    "district": null,
+    "county": "County Kerry",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "moderate",
+    "terrain": ["mountain"],
+    "points_of_interest": ["summit", "viewpoint"],
+    "facilities": [],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

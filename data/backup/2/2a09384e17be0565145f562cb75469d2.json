@@ -1,131 +1,122 @@
 {
-  "created_at": "2025-01-06T02:51:14.513875+00:00",
-  "objectID": "2a09384e17be0565145f562cb75469d2",
-  "ref": "white-coppice-walking-route",
-  "title": "White Coppice Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/White_Coppice_Quarry.jpg/500px-White_Coppice_Quarry.jpg",
-  "nearby": [
-    {
-      "description": "Healey Nab",
-      "objectID": "f96cefcd7789d93a3bd002202c82ae26",
-      "ref": "healey-nab-walking-and-cycle-route"
+    "created_at": "2025-01-06T02:51:14.513875+00:00",
+    "objectID": "2a09384e17be0565145f562cb75469d2",
+    "ref": "white-coppice-walking-route",
+    "title": "White Coppice Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/White_Coppice_Quarry.jpg/500px-White_Coppice_Quarry.jpg",
+    "nearby": [
+        {
+            "description": "Healey Nab",
+            "objectID": "f96cefcd7789d93a3bd002202c82ae26",
+            "ref": "healey-nab-walking-and-cycle-route"
+        },
+        {
+            "description": "Anglezarke Reservoir",
+            "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
+            "ref": "anglezarke-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Leeds and Liverpool Canal",
+            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Chorley Canal Walk",
+            "objectID": "1c2c2c883e6c913ed752dd64b08b0679",
+            "ref": "chorley-canal-walk-walking-route"
+        },
+        {
+            "description": "Rivington Country Park",
+            "objectID": "a033cf407458a87a8b925d36290d2bb3",
+            "ref": "rivington-country-park-cycle-route"
+        },
+        {
+            "description": "Abbey Village Reservoir",
+            "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
+            "ref": "abbey-village-reservoir-walking-route"
+        },
+        {
+            "description": "Withnell Nature Reserve",
+            "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+            "ref": "withnell-nature-reserve-walking-route"
+        },
+        {
+            "description": "White Coppice Waterfall Walk",
+            "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
+            "ref": "white-coppice-waterfall-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a09384e17be0565145f562cb75469d2.gpx",
+    "_geoloc": {
+        "lat": 53.6662933991,
+        "lng": -2.5768883134
     },
-    {
-      "description": "Anglezarke Reservoir",
-      "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
-      "ref": "anglezarke-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Leeds and Liverpool Canal",
-      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Chorley Canal Walk",
-      "objectID": "1c2c2c883e6c913ed752dd64b08b0679",
-      "ref": "chorley-canal-walk-walking-route"
-    },
-    {
-      "description": "Rivington Country Park",
-      "objectID": "a033cf407458a87a8b925d36290d2bb3",
-      "ref": "rivington-country-park-cycle-route"
-    },
-    {
-      "description": "Abbey Village Reservoir",
-      "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
-      "ref": "abbey-village-reservoir-walking-route"
-    },
-    {
-      "description": "Withnell Nature Reserve",
-      "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell\u00a0nature-reserve-walking-route"
-    },
-    {
-      "description": "White Coppice Waterfall Walk",
-      "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
-      "ref": "white-coppice-waterfall-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2a09384e17be0565145f562cb75469d2.gpx",
-  "_geoloc": {
-    "lat": 53.6662933991,
-    "lng": -2.5768883134
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/White_Coppice_Quarry.jpg/500px-White_Coppice_Quarry.jpg",
-      "title": "By SG2012 [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Quarry. Looking towards White Coppice, with Healey Nab at the top left."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WhiteCopCC.JPG/500px-WhiteCopCC.JPG",
-      "title": "By (Michael McDade) (Own work) [Public domain], via Wikimedia Commons",
-      "caption": "Cricket pitch"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Reservoir_on_The_Lowe%2C_White_Coppice_-_geograph.org.uk_-_131038.jpg",
-      "title": "Margaret Clough [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Reservoir on The Lowe"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/White_Coppice_-_Brookside_Cottages_-_geograph.org.uk_-_131026.jpg",
-      "title": "Margaret Clough [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Brookside cottages"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Heapey_Reservoir_no._4_-_geograph.org.uk_-_3750613.jpg/500px-Heapey_Reservoir_no._4_-_geograph.org.uk_-_3750613.jpg",
-      "title": "Heapey Reservoir no. 4 by Chris Denny, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Heapey Reservoir no. 4"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_banks_of_no._3_-_geograph.org.uk_-_3750702.jpg/500px-The_banks_of_no._3_-_geograph.org.uk_-_3750702.jpg",
-      "title": "The banks of no. 3 by Chris Denny, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The banks of no. 3 reservoir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg/500px-Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg",
-      "title": "Cottages at White Coppice by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cottages at White Coppice"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ford_at_White_Coppice_-_geograph.org.uk_-_3564721.jpg/500px-Ford_at_White_Coppice_-_geograph.org.uk_-_3564721.jpg",
-      "title": "Ford at White Coppice by John Walton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ford at White Coppice"
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "This delightful walk takes you along a series of reservoirs near the little hamlet of White Coppice in Lancashire. It's an idyllic spot with a lovely cricket ground surrounded by beautiful countryside. You can park next to the cricket pitch to start the walk and then head west along footpaths and country lanes to the reservoirs. Along the way there's an old quarry, a pretty brook and a number of little cottages in the hamlet. Footpaths pass along the reservoirs before returning on Higher House Lane and another public path branching of to the left towards the hamlet. White Coppice is located very close to the splendid Healey Nab, so it's easy to continue your walking in the area. The hill is located just to the south and has miles of mountain bike trails and footpaths to try. Also just to the south is the beautiful Anglezarke Reservoir with some lovely waterside trails and more great views. Just to the west you can pick up the Leeds and Liverpool Canal near Chorley and follow it towards Adlington.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "The White Coppice Waterfall Walk starts from the same location. It will take you north along the River Goit to visit the delightful Hatch Brook Waterfall and surrounding woodland. The Brinscall Walk starts from the nearby village. You can follow a pleasant walking trail south along The Goit Canal to reach the village where you'll find the Withnell Nature Reserve. Abbey Village Reservoir can also be accessed near the northern end of this route. For more walking ideas in the area see the West Pennine Moors Walks and the Lancashire Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/Lc1fAtUQdUY",
-  "postcode": "PR6 9DF",
-  "district": "Chorley",
-  "county": "Lancashire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "White Coppice Cricket Club, Coppice Lane, White Coppice, Heapey, Chorley, Lancashire, England, PR6 9DF, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "countryside"
-  ],
-  "points_of_interest": [
-    "reservoir",
-    "historical site"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/White_Coppice_Quarry.jpg/500px-White_Coppice_Quarry.jpg",
+            "title": "By SG2012 [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Quarry. Looking towards White Coppice, with Healey Nab at the top left."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WhiteCopCC.JPG/500px-WhiteCopCC.JPG",
+            "title": "By (Michael McDade) (Own work) [Public domain], via Wikimedia Commons",
+            "caption": "Cricket pitch"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Reservoir_on_The_Lowe%2C_White_Coppice_-_geograph.org.uk_-_131038.jpg",
+            "title": "Margaret Clough [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Reservoir on The Lowe"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/White_Coppice_-_Brookside_Cottages_-_geograph.org.uk_-_131026.jpg",
+            "title": "Margaret Clough [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Brookside cottages"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Heapey_Reservoir_no._4_-_geograph.org.uk_-_3750613.jpg/500px-Heapey_Reservoir_no._4_-_geograph.org.uk_-_3750613.jpg",
+            "title": "Heapey Reservoir no. 4 by Chris Denny, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Heapey Reservoir no. 4"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_banks_of_no._3_-_geograph.org.uk_-_3750702.jpg/500px-The_banks_of_no._3_-_geograph.org.uk_-_3750702.jpg",
+            "title": "The banks of no. 3 by Chris Denny, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The banks of no. 3 reservoir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg/500px-Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg",
+            "title": "Cottages at White Coppice by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cottages at White Coppice"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ford_at_White_Coppice_-_geograph.org.uk_-_3564721.jpg/500px-Ford_at_White_Coppice_-_geograph.org.uk_-_3564721.jpg",
+            "title": "Ford at White Coppice by John Walton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Ford at White Coppice"
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "This delightful walk takes you along a series of reservoirs near the little hamlet of White Coppice in Lancashire. It's an idyllic spot with a lovely cricket ground surrounded by beautiful countryside. You can park next to the cricket pitch to start the walk and then head west along footpaths and country lanes to the reservoirs. Along the way there's an old quarry, a pretty brook and a number of little cottages in the hamlet. Footpaths pass along the reservoirs before returning on Higher House Lane and another public path branching of to the left towards the hamlet. White Coppice is located very close to the splendid Healey Nab, so it's easy to continue your walking in the area. The hill is located just to the south and has miles of mountain bike trails and footpaths to try. Also just to the south is the beautiful Anglezarke Reservoir with some lovely waterside trails and more great views. Just to the west you can pick up the Leeds and Liverpool Canal near Chorley and follow it towards Adlington.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "The White Coppice Waterfall Walk starts from the same location. It will take you north along the River Goit to visit the delightful Hatch Brook Waterfall and surrounding woodland. The Brinscall Walk starts from the nearby village. You can follow a pleasant walking trail south along The Goit Canal to reach the village where you'll find the Withnell Nature Reserve. Abbey Village Reservoir can also be accessed near the northern end of this route. For more walking ideas in the area see the West Pennine Moors Walks and the Lancashire Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/Lc1fAtUQdUY",
+    "postcode": "PR6 9DF",
+    "district": "Chorley",
+    "county": "Lancashire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "White Coppice Cricket Club, Coppice Lane, White Coppice, Heapey, Chorley, Lancashire, England, PR6 9DF, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["countryside"],
+    "points_of_interest": ["reservoir", "historical site"],
+    "facilities": ["car park"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

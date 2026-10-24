@@ -21,7 +21,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v7
         with:
-          node-version: "22"
+          node-version: "25"
 
       - name: Check spec
         run: npx @openapitools/openapi-generator-cli validate -i openapi-spec/gps-routes.yaml

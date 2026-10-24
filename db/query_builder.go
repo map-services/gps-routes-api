@@ -204,12 +204,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 	if qb.criteria.BoundingBox != nil {
 		// R*Tree bbox prefilter via routes_rtree (SQLite built-in, no extension).
-		// boundingBox is [lngMin, latMin, lngMax, latMax]. Values are embedded
-		// directly as SQL literals by BuildSTWithinQuery — no '?' params —
-		// consistent with BuildDistanceSort which also embeds float64 literals.
+		// Values are embedded directly as SQL literals by BuildSTWithinQuery —
+		// no '?' params — consistent with BuildDistanceSort which also embeds
+		// float64 literals.
 		b := qb.criteria.BoundingBox
 		qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc",
-			b[0], b[1], b[2], b[3])) // lonMin, latMin, lonMax, latMax
+			b.MinLng, b.MinLat, b.MaxLng, b.MaxLat))
 	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
 		// R*Tree bbox prefilter + haversine_distance() exact filter.
 		// BuildSTDWithinQuery computes the bbox from the centre + distance and

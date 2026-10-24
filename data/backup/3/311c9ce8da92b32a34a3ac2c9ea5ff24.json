@@ -1,103 +1,92 @@
 {
-  "created_at": "2025-01-06T18:43:37.210697+00:00",
-  "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
-  "ref": "tillicoultry-glen-walking-route",
-  "title": "Tillicoultry\u00a0Glen Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tillicoultry_Glen_Walkway_-_geograph.org.uk_-_5759020.jpg?20231118164643",
-  "nearby": [
-    {
-      "description": "Ochil Hills",
-      "objectID": "3024163882ff91e86d7d3c1461986e92",
-      "ref": "ochil-hills-walking-route"
+    "created_at": "2025-01-06T18:43:37.210697+00:00",
+    "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
+    "ref": "tillicoultry-glen-walking-route",
+    "title": "Tillicoultry Glen Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tillicoultry_Glen_Walkway_-_geograph.org.uk_-_5759020.jpg?20231118164643",
+    "nearby": [
+        {
+            "description": "Ochil Hills",
+            "objectID": "3024163882ff91e86d7d3c1461986e92",
+            "ref": "ochil-hills-walking-route"
+        },
+        {
+            "description": "Alva Glen",
+            "objectID": "2098866eadc5864026f2617ba2ddac5e",
+            "ref": "alva-glen-walking-route"
+        },
+        {
+            "description": "Dollar Glen",
+            "objectID": "5d49cbeeb1ff829eccb2e7c943ac7b8a",
+            "ref": "dollar-glen-walking-route"
+        },
+        {
+            "description": "Menstrie Glen",
+            "objectID": "c31ac489197f56118bab56796509c29d",
+            "ref": "menstrie-glen-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/311c9ce8da92b32a34a3ac2c9ea5ff24.gpx",
+    "_geoloc": {
+        "lat": 56.1538,
+        "lng": -3.74826
     },
-    {
-      "description": "Alva Glen",
-      "objectID": "2098866eadc5864026f2617ba2ddac5e",
-      "ref": "alva-glen-walking-route"
-    },
-    {
-      "description": "Dollar Glen",
-      "objectID": "5d49cbeeb1ff829eccb2e7c943ac7b8a",
-      "ref": "dollar-glen-walking-route"
-    },
-    {
-      "description": "Menstrie Glen",
-      "objectID": "c31ac489197f56118bab56796509c29d",
-      "ref": "menstrie-glen-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/311c9ce8da92b32a34a3ac2c9ea5ff24.gpx",
-  "_geoloc": {
-    "lat": 56.1538,
-    "lng": -3.74826
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tillicoultry_Glen_Walkway_-_geograph.org.uk_-_5759020.jpg?20231118164643",
-      "title": "Tillicoultry Glen Walkway by Robert Struthers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Tillicoultry Glen Walkway"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mill_Glen%2C_Tillicoultry_-_geograph.org.uk_-_7067331.jpg/500px-Mill_Glen%2C_Tillicoultry_-_geograph.org.uk_-_7067331.jpg?20241210233204",
-      "title": "Mill Glen, Tillicoultry by Alan Reid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Mill Glen, Tillicoultry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Tillicoultry_Burn_-_geograph.org.uk_-_760953.jpg?20110219195529",
-      "title": "Paul McIlroy / The Tillicoultry Burn",
-      "caption": "The Tillicoultry Burn. The burn flows down The Mill Glen into the river Devon."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Footbridge_in_Mill_Glen_-_geograph.org.uk_-_6244017.jpg/500px-Footbridge_in_Mill_Glen_-_geograph.org.uk_-_6244017.jpg?20240202164611",
-      "title": "Footbridge in Mill Glen by Iain Russell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge in Mill Glen"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridge%2C_Mill_Glen_-_geograph.org.uk_-_5186836.jpg/500px-Bridge%2C_Mill_Glen_-_geograph.org.uk_-_5186836.jpg?20230728124614",
-      "title": "Bridge, Mill Glen by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bridge, Mill Glen"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cairn_on_The_Law_-_geograph.org.uk_-_913958.jpg?20110221222832",
-      "title": "G Laird / Cairn on The Law",
-      "caption": "Cairn on The Law"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "This walk explores the lovely Tillicoultry Glen at the base of the Ochil Hills in Clackmannanshire. Known locally as the Mill Glen, the area offers stunning scenery, a rich industrial history, and diverse flora and fauna. The glen is easily accessible from the village, where you can follow paths north leading into its steep, craggy terrain. As you enter the glen, you\u2019ll be surrounded by towering cliffs and cascading waterfalls fed by the Tillicoultry Burn, which has carved the narrow gorge over millennia. The glen was historically significant during the 18th and 19th centuries, as the burn powered textile mills that were crucial to Tillicoultry\u2019s industrial prosperity. Remnants of these mills can still be found near the village, offering a glimpse into the area's past. The path through the glen is rugged and steep in places, crossing footbridges that provide spectacular views of the waterfalls below. The dramatic rock faces of the gorge are home to mosses, lichens, and ferns, thriving in the damp, shaded environment. Keep an eye out for birdlife, including dippers and wagtails darting along the burn, as well as buzzards circling overhead. The path also offers views of the Ochil Hills rising to the north, providing a sense of the landscape\u2019s grandeur. Emerging from the Mill Glen, the route continues northward, ascending The Law, one of the prominent hills in the Ochils. This climb offers increasingly expansive views of the surrounding hills, the Forth Valley, and, on clear days, as far as the Lomond Hills and the Firth of Forth. The Law is covered in heather and grassland, supporting a variety of upland bird species such as skylarks and grouse, while wildflowers like harebells and buttercups add seasonal colour. The summit of The Law provides a rewarding vantage point, with panoramic views of the dramatic Ochil ridge to the east and west. It\u2019s a perfect spot to pause and take in the sweeping scenery before retracing your steps back down to Tillicoultry. You can continue your walking by heading west to explore the nearby Alva Glen and Menstrie Glen. The popular Dollar Glen can be found to the east.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the west there's Menstrie Glen and the walk to Lossburn Reservoir."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/g09aFo7MCIE?si=f_u-Iair5iPo3Z98",
-  "postcode": "FK13 6AF",
-  "district": "Tillicoultry",
-  "county": "Clackmannanshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "The Salon, 33, High Street, Tillicoultry, Clackmannanshire, Alba / Scotland, FK13 6AF, United Kingdom",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "gorge",
-    "mountain"
-  ],
-  "points_of_interest": [
-    "waterfall",
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tillicoultry_Glen_Walkway_-_geograph.org.uk_-_5759020.jpg?20231118164643",
+            "title": "Tillicoultry Glen Walkway by Robert Struthers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Tillicoultry Glen Walkway"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mill_Glen%2C_Tillicoultry_-_geograph.org.uk_-_7067331.jpg/500px-Mill_Glen%2C_Tillicoultry_-_geograph.org.uk_-_7067331.jpg?20241210233204",
+            "title": "Mill Glen, Tillicoultry by Alan Reid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Mill Glen, Tillicoultry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Tillicoultry_Burn_-_geograph.org.uk_-_760953.jpg?20110219195529",
+            "title": "Paul McIlroy / The Tillicoultry Burn",
+            "caption": "The Tillicoultry Burn. The burn flows down The Mill Glen into the river Devon."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Footbridge_in_Mill_Glen_-_geograph.org.uk_-_6244017.jpg/500px-Footbridge_in_Mill_Glen_-_geograph.org.uk_-_6244017.jpg?20240202164611",
+            "title": "Footbridge in Mill Glen by Iain Russell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge in Mill Glen"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridge%2C_Mill_Glen_-_geograph.org.uk_-_5186836.jpg/500px-Bridge%2C_Mill_Glen_-_geograph.org.uk_-_5186836.jpg?20230728124614",
+            "title": "Bridge, Mill Glen by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bridge, Mill Glen"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cairn_on_The_Law_-_geograph.org.uk_-_913958.jpg?20110221222832",
+            "title": "G Laird / Cairn on The Law",
+            "caption": "Cairn on The Law"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "This walk explores the lovely Tillicoultry Glen at the base of the Ochil Hills in Clackmannanshire. Known locally as the Mill Glen, the area offers stunning scenery, a rich industrial history, and diverse flora and fauna. The glen is easily accessible from the village, where you can follow paths north leading into its steep, craggy terrain. As you enter the glen, you\u2019ll be surrounded by towering cliffs and cascading waterfalls fed by the Tillicoultry Burn, which has carved the narrow gorge over millennia. The glen was historically significant during the 18th and 19th centuries, as the burn powered textile mills that were crucial to Tillicoultry\u2019s industrial prosperity. Remnants of these mills can still be found near the village, offering a glimpse into the area's past. The path through the glen is rugged and steep in places, crossing footbridges that provide spectacular views of the waterfalls below. The dramatic rock faces of the gorge are home to mosses, lichens, and ferns, thriving in the damp, shaded environment. Keep an eye out for birdlife, including dippers and wagtails darting along the burn, as well as buzzards circling overhead. The path also offers views of the Ochil Hills rising to the north, providing a sense of the landscape\u2019s grandeur. Emerging from the Mill Glen, the route continues northward, ascending The Law, one of the prominent hills in the Ochils. This climb offers increasingly expansive views of the surrounding hills, the Forth Valley, and, on clear days, as far as the Lomond Hills and the Firth of Forth. The Law is covered in heather and grassland, supporting a variety of upland bird species such as skylarks and grouse, while wildflowers like harebells and buttercups add seasonal colour. The summit of The Law provides a rewarding vantage point, with panoramic views of the dramatic Ochil ridge to the east and west. It\u2019s a perfect spot to pause and take in the sweeping scenery before retracing your steps back down to Tillicoultry. You can continue your walking by heading west to explore the nearby Alva Glen and Menstrie Glen. The popular Dollar Glen can be found to the east.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the west there's Menstrie Glen and the walk to Lossburn Reservoir."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/g09aFo7MCIE?si=f_u-Iair5iPo3Z98",
+    "postcode": "FK13 6AF",
+    "district": "Tillicoultry",
+    "county": "Clackmannanshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "The Salon, 33, High Street, Tillicoultry, Clackmannanshire, Alba / Scotland, FK13 6AF, United Kingdom",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "moderate",
+    "terrain": ["gorge", "mountain"],
+    "points_of_interest": ["waterfall", "historical site", "viewpoint"],
+    "facilities": ["pub/cafe"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

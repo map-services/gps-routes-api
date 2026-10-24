@@ -1,129 +1,122 @@
 {
-  "created_at": "2025-01-06T08:33:28.848781+00:00",
-  "objectID": "a64789ee55d0707936bec88febbdb542",
-  "ref": "loch-duntelchaig-walking-route",
-  "title": "Loch Duntelchaig Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/An_Dornaidh_and_Loch_Duntechaig_-_geograph.org.uk_-_386907.jpg",
-  "nearby": [
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
+    "created_at": "2025-01-06T08:33:28.848781+00:00",
+    "objectID": "a64789ee55d0707936bec88febbdb542",
+    "ref": "loch-duntelchaig-walking-route",
+    "title": "Loch Duntelchaig Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/An_Dornaidh_and_Loch_Duntechaig_-_geograph.org.uk_-_386907.jpg",
+    "nearby": [
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Great Glen Way",
+            "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
+            "ref": "great-glen-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Dores Beach",
+            "objectID": "18675c2039efd4bcb066b3830ca1c014",
+            "ref": "dores-beach-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Inverness Canal and Forest Walk",
+            "objectID": "dc35edc24e3b8c443bafa82499e95a87",
+            "ref": "inverness-canal-and-forest-walk-walking-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Urquhart Castle",
+            "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+            "ref": "urquhart-castle-walking-route"
+        },
+        {
+            "description": "Clava Cairns and Culloden Viaduct",
+            "objectID": "c5db0386ff4a30d511bff76c97ceb097",
+            "ref": "clava-cairns-and-culloden-viaduct-walking-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a64789ee55d0707936bec88febbdb542.gpx",
+    "_geoloc": {
+        "lat": 57.3368205987,
+        "lng": -4.3271272779
     },
-    {
-      "description": "Great Glen Way",
-      "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
-      "ref": "great-glen-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
-    },
-    {
-      "description": "Dores Beach",
-      "objectID": "18675c2039efd4bcb066b3830ca1c014",
-      "ref": "dores-beach-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Inverness Canal and Forest Walk",
-      "objectID": "dc35edc24e3b8c443bafa82499e95a87",
-      "ref": "inverness-canal-and-forest-walk-walking-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Urquhart Castle",
-      "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-      "ref": "urquhart-castle-walking-route"
-    },
-    {
-      "description": "Clava Cairns and Culloden Viaduct",
-      "objectID": "c5db0386ff4a30d511bff76c97ceb097",
-      "ref": "clava-cairns-and-culloden-viaduct-walking-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a64789ee55d0707936bec88febbdb542.gpx",
-  "_geoloc": {
-    "lat": 57.3368205987,
-    "lng": -4.3271272779
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/An_Dornaidh_and_Loch_Duntechaig_-_geograph.org.uk_-_386907.jpg",
-      "title": "John S Ross / An Dornaidh and Loch Duntechaig",
-      "caption": "An Dornaidh and Loch Duntechaig. The wooded promontory of An Dornaidh and the loch with Creag Dhearg beyond."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Loch_Duntelchaig_from_B862_near_Achnabat_-_geograph.org.uk_-_1561054.jpg",
-      "title": "Sarah McGuire / Loch Duntelchaig from B862 near Achnabat",
-      "caption": "Loch Duntelchaig from B862 near Achnabat"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/End_of_Loch_Duntelchaig_-_geograph.org.uk_-_1060602.jpg",
-      "title": "Ulrich Hartmann / End of Loch Duntelchaig",
-      "caption": "End of the loch"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Entrance_to_Hut_Circle_near_Loch_Duntelchaig_-_geograph.org.uk_-_974557.jpg",
-      "title": "Sarah McGuire / Entrance to Hut Circle near Loch Duntelchaig",
-      "caption": "Entrance to Hut Circle near Loch Duntelchaig"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lochan_an_Eoin_Ruadha_from_Across_Loch_Duntelchaig_-_geograph.org.uk_-_974022.jpg",
-      "title": "Sarah McGuire / Lochan an Eoin Ruadha from Across Loch Duntelchaig",
-      "caption": "Lochan an Eoin Ruadha from Across Loch Duntelchaig. The lochan is located on the western side."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Old_Township_above_Loch_Duntelchaig_-_geograph.org.uk_-_5315041.jpg",
-      "title": "Old Township above Loch Duntelchaig by valenta, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Old Township above the loch"
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "This walk visits Loch Duntelchaig in Inverness-shire in the Scottish Highlands. The scenic freshwater lake is also the primary reservoir for Inverness. At the south western end of the loch you can follow a country lane to the ancient hut circles which sit on the western side above the water. It's a lovely peaceful place with fine views over the water to the surrounding hills. The loch is just to the east of Loch Ness so it's easy to continue your waterside walking in the area. You can visit Dores Beach on the eastern side or pick up the epic Great Glen Way on the western side of the world famous loch. The lovely RSPB nature reserve at Loch Ruthven is also just a mile to the south. It's an excellent place for wildlife with Slavonian grebes, osprey and black-throated divers to see.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "On the western side of Loch Ness you'll find the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. To the north of the loch there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. The site includes an informative visitor centre where you can learn all about this fascinating conflict. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Inverness Canal and Forest Walk will take you along the canal before heading to Craig Phadrig Forest, which lies just to the west of the city. The forest is a peaceful place for walks and includes a viewpoint with an Iron Age Hillfort. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies on the western side of Loch Ness. This long distance trail runs from the loch to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. Just to the north there's Loch Ashie. The loch is notable as a Site of Special Scientific Interest (SSSI) due to its status as the foremost location in Britain for the congregation of Slavonian grebes both before and after their breeding season.  For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/bRefe0P8smo",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Highland, Alba / Scotland, IV2 6TX, United Kingdom",
-  "postcode": "IV2 6TX",
-  "district": null,
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 20 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/An_Dornaidh_and_Loch_Duntechaig_-_geograph.org.uk_-_386907.jpg",
+            "title": "John S Ross / An Dornaidh and Loch Duntechaig",
+            "caption": "An Dornaidh and Loch Duntechaig. The wooded promontory of An Dornaidh and the loch with Creag Dhearg beyond."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Loch_Duntelchaig_from_B862_near_Achnabat_-_geograph.org.uk_-_1561054.jpg",
+            "title": "Sarah McGuire / Loch Duntelchaig from B862 near Achnabat",
+            "caption": "Loch Duntelchaig from B862 near Achnabat"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/End_of_Loch_Duntelchaig_-_geograph.org.uk_-_1060602.jpg",
+            "title": "Ulrich Hartmann / End of Loch Duntelchaig",
+            "caption": "End of the loch"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Entrance_to_Hut_Circle_near_Loch_Duntelchaig_-_geograph.org.uk_-_974557.jpg",
+            "title": "Sarah McGuire / Entrance to Hut Circle near Loch Duntelchaig",
+            "caption": "Entrance to Hut Circle near Loch Duntelchaig"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lochan_an_Eoin_Ruadha_from_Across_Loch_Duntelchaig_-_geograph.org.uk_-_974022.jpg",
+            "title": "Sarah McGuire / Lochan an Eoin Ruadha from Across Loch Duntelchaig",
+            "caption": "Lochan an Eoin Ruadha from Across Loch Duntelchaig. The lochan is located on the western side."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Old_Township_above_Loch_Duntelchaig_-_geograph.org.uk_-_5315041.jpg",
+            "title": "Old Township above Loch Duntelchaig by valenta, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Old Township above the loch"
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "This walk visits Loch Duntelchaig in Inverness-shire in the Scottish Highlands. The scenic freshwater lake is also the primary reservoir for Inverness. At the south western end of the loch you can follow a country lane to the ancient hut circles which sit on the western side above the water. It's a lovely peaceful place with fine views over the water to the surrounding hills. The loch is just to the east of Loch Ness so it's easy to continue your waterside walking in the area. You can visit Dores Beach on the eastern side or pick up the epic Great Glen Way on the western side of the world famous loch. The lovely RSPB nature reserve at Loch Ruthven is also just a mile to the south. It's an excellent place for wildlife with Slavonian grebes, osprey and black-throated divers to see.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "On the western side of Loch Ness you'll find the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. To the north of the loch there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. The site includes an informative visitor centre where you can learn all about this fascinating conflict. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Inverness Canal and Forest Walk will take you along the canal before heading to Craig Phadrig Forest, which lies just to the west of the city. The forest is a peaceful place for walks and includes a viewpoint with an Iron Age Hillfort. The Affric Kintail Way can be picked up at Drumnadrochit village, which lies on the western side of Loch Ness. This long distance trail runs from the loch to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. Just to the north there's Loch Ashie. The loch is notable as a Site of Special Scientific Interest (SSSI) due to its status as the foremost location in Britain for the congregation of Slavonian grebes both before and after their breeding season.  For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/bRefe0P8smo",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Highland, Alba / Scotland, IV2 6TX, United Kingdom",
+    "postcode": "IV2 6TX",
+    "district": null,
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 20 minutes",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": [],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

@@ -5,6 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 func ErrorHandler() gin.HandlerFunc {
@@ -16,9 +18,7 @@ func ErrorHandler() gin.HandlerFunc {
 				log.Printf("Error: %v", ginErr.Err)
 			}
 
-			c.JSON(http.StatusInternalServerError, gin.H{
-				"error": "An unexpected error occurred",
-			})
+			c.JSON(http.StatusInternalServerError, common.NewErrorResponse("INTERNAL_ERROR", "An unexpected error occurred"))
 		}
 	}
 }

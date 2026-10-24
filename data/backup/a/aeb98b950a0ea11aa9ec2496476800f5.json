@@ -1,131 +1,120 @@
 {
-  "created_at": "2025-01-06T03:57:00.979417+00:00",
-  "objectID": "aeb98b950a0ea11aa9ec2496476800f5",
-  "ref": "stanage-edge-walking-route",
-  "title": "Stanage Edge Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cowper_Stone_Stanage_Edge.jpg/250px-Cowper_Stone_Stanage_Edge.jpg",
-  "nearby": [
-    {
-      "description": "Hathersage",
-      "objectID": "9c524914b468c62c841218976e742574",
-      "ref": "hathersage-walking-route"
+    "created_at": "2025-01-06T03:57:00.979417+00:00",
+    "objectID": "aeb98b950a0ea11aa9ec2496476800f5",
+    "ref": "stanage-edge-walking-route",
+    "title": "Stanage Edge Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cowper_Stone_Stanage_Edge.jpg/500px-Cowper_Stone_Stanage_Edge.jpg",
+    "nearby": [
+        {
+            "description": "Hathersage",
+            "objectID": "9c524914b468c62c841218976e742574",
+            "ref": "hathersage-walking-route"
+        },
+        {
+            "description": "Ladybower Reservoir",
+            "objectID": "dc9cd529b4225315fc364c4fc05f43f3",
+            "ref": "ladybower-reservoir-walking-route"
+        },
+        {
+            "description": "Bamford Edge",
+            "objectID": "e9cbbfc99fac4954d698e8166d81df0e",
+            "ref": "bamford-edge-walking-route"
+        },
+        {
+            "description": "Redmires Reservoir",
+            "objectID": "bcd6cccaa66f54aa578439a7a5da6292",
+            "ref": "redmires-reservoir-walking-route"
+        },
+        {
+            "description": "Win Hill",
+            "objectID": "c050006655cff4c3638f4aa3a1a16b6f",
+            "ref": "win-hill-walking-route"
+        },
+        {
+            "description": "Stanage Edge Short Walk",
+            "objectID": "653259d6c7f9cd077e5dcafedfd77674",
+            "ref": "stanage-edge-short-walk-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aeb98b950a0ea11aa9ec2496476800f5.gpx",
+    "_geoloc": {
+        "lat": 53.3313137993,
+        "lng": -1.6536600503
     },
-    {
-      "description": "Ladybower Reservoir",
-      "objectID": "dc9cd529b4225315fc364c4fc05f43f3",
-      "ref": "ladybower-reservoir-walking-route"
-    },
-    {
-      "description": "Bamford Edge",
-      "objectID": "e9cbbfc99fac4954d698e8166d81df0e",
-      "ref": "bamford-edge-walking-route"
-    },
-    {
-      "description": "Redmires Reservoir",
-      "objectID": "bcd6cccaa66f54aa578439a7a5da6292",
-      "ref": "redmires-reservoir-walking-route"
-    },
-    {
-      "description": "Win Hill",
-      "objectID": "c050006655cff4c3638f4aa3a1a16b6f",
-      "ref": "win-hill-walking-route"
-    },
-    {
-      "description": "Stanage Edge Short Walk",
-      "objectID": "653259d6c7f9cd077e5dcafedfd77674",
-      "ref": "stanage-edge-short-walk-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aeb98b950a0ea11aa9ec2496476800f5.gpx",
-  "_geoloc": {
-    "lat": 53.3313137993,
-    "lng": -1.6536600503
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cowper_Stone_Stanage_Edge.jpg/250px-Cowper_Stone_Stanage_Edge.jpg",
-      "title": "Martin Speck [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Cowper Stone Stanage Edge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Dry_stone_wall_on_Stanage_Edge_-_geograph.org.uk_-_733576.jpg",
-      "title": "Steve F [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Dry stone wall on Stanage Edge. Millstone grit rocks form this wall and the edge itself."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Entrance_of_Robin_Hood%27s_Cave_on_Stanage_Edge%2C_Derbyshire_-_geograph-3466490.jpg/500px-Entrance_of_Robin_Hood%27s_Cave_on_Stanage_Edge%2C_Derbyshire_-_geograph-3466490.jpg",
-      "title": "Neil Theasby / Entrance of Robin Hood's Cave, Stanage Edge, via Wikimedia Commons",
-      "caption": "Entrance of Robin Hood's Cave on Stanage Edge, Derbyshire"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stanage_Edge.jpg/500px-Stanage_Edge.jpg",
-      "title": "Stemonitis [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
-      "caption": "Stanage Edge - view along the ridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Long_Causeway%2C_Stanage_Edge.JPG/500px-Long_Causeway%2C_Stanage_Edge.JPG",
-      "title": "Mick Knapton [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "The ancient medieval road, Long Causeway, descends Stanage Edge on the Yorkshire / Derbyshire border in England."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Millstones_at_Stanage_Edge_-_Peak_District%2C_England.jpg/500px-Millstones_at_Stanage_Edge_-_Peak_District%2C_England.jpg",
-      "title": "Andrew Basterfield [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Millstones at Stanage Edge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Boulders_at_Stanage_Edge_-_geograph.org.uk_-_591181.jpg",
-      "title": "J147 / Boulders at Stanage Edge, via Wikimedia Commons",
-      "caption": "Boulders at Stanage Edge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Stanage_Edge_-_geograph.org.uk_-_21665.jpg",
-      "title": "Bob Tinley / Stanage Edge, via Wikimedia Commons",
-      "caption": "Rock climber"
-    }
-  ],
-  "distance_km": 16.5,
-  "description": "Climb to the stunning gritstone escarpment of Stanage Edge and then on to High Neb on this popular walk in the Peak District. The walk begins in the village of Hathersage and follows footpaths over the Hodd Brook to Cliff Wood. You climb towards Hurst Clough and North Lees before coming to Stanage Edge. The route then passes along the top of the rocky edge where you are likely to pass rock climbers on your way to the high point at High Neb. Here you can enjoy wonderful views over Hallam Moors and the Hope Valley. You then return from High Neb along the edge to White Path Moss passing Robin Hood's cave on the way. You continue east to Upper Burbage Bridge where you turn south to Higger Tor for more wonderful views over the Peak District. You then descend back to Hathersage on country lanes and footpaths, passing Toothill Farm on the way.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Back in Hathersage there's lots of good options for refreshments. Cintra\u2019s Tea Rooms are a bit of a hidden gem where you can enjoy afternoon tea in the delighful gardens if the weather is fine. You can find them on the Main Road at postcode S32 1BB for your sat navs. The Plough Inn dates all the way back to the 16th century and is beautifully situated in nine acres of its own private land which gently slope towards the banks of the River Derwent. They also do accommodation and have a suntrap beer garden to relax in. You can find it at Leadmill Bridge with a postcode S32 1BA for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The Edge is a great place for fit dogs and you will probably see other owners on a fine day. The Plough Inn mentioned above is also very dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For a shorter route up onto the escarpment try our Stanage Edge Short Walk which starts from the Hollin Bank car park just to the south east of High Neb. If you would like to continue your walking in the area then you could pick up the Derwent Valley Heritage Way which runs through Hathersage along the River Derwent.You could also head east and visit Stanedge Pole. The pole stands at a height of 438 metres (1,437 feet) and marks the border between Derbyshire and South Yorkshire. If you descend from the pole in a north easterly direction you will come to Redmires Reservoir. These three pretty reservoirs have a good circular walking trail to follow.Just to the west there is another similarly exciting ridge walk across Bamford Edge. Beyond that is another splendid climb to Win Hill which has some of the best views in the area.If you head north you can enjoy a waterside walk along the beautiful Ladybower Reservoir, before a climb to the terrific Derwent Edge. For more walking ideas in the area see the Peak District Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/JOYxZXIzOFI",
-  "district": "Derbyshire Dales",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Further House, Baulk Lane, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1AF, United Kingdom",
-  "postcode": "S32 1AF",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "5-6 hours",
-  "difficulty": "moderate",
-  "terrain": [
-    "escarpment",
-    "moorland"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "cave"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cowper_Stone_Stanage_Edge.jpg/500px-Cowper_Stone_Stanage_Edge.jpg",
+            "title": "Martin Speck [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Cowper Stone Stanage Edge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Dry_stone_wall_on_Stanage_Edge_-_geograph.org.uk_-_733576.jpg",
+            "title": "Steve F [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Dry stone wall on Stanage Edge. Millstone grit rocks form this wall and the edge itself."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Entrance_of_Robin_Hood%27s_Cave_on_Stanage_Edge%2C_Derbyshire_-_geograph-3466490.jpg/500px-Entrance_of_Robin_Hood%27s_Cave_on_Stanage_Edge%2C_Derbyshire_-_geograph-3466490.jpg",
+            "title": "Neil Theasby / Entrance of Robin Hood's Cave, Stanage Edge, via Wikimedia Commons",
+            "caption": "Entrance of Robin Hood's Cave on Stanage Edge, Derbyshire"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stanage_Edge.jpg/500px-Stanage_Edge.jpg",
+            "title": "Stemonitis [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
+            "caption": "Stanage Edge - view along the ridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Long_Causeway%2C_Stanage_Edge.JPG/500px-Long_Causeway%2C_Stanage_Edge.JPG",
+            "title": "Mick Knapton [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "The ancient medieval road, Long Causeway, descends Stanage Edge on the Yorkshire / Derbyshire border in England."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Millstones_at_Stanage_Edge_-_Peak_District%2C_England.jpg/500px-Millstones_at_Stanage_Edge_-_Peak_District%2C_England.jpg",
+            "title": "Andrew Basterfield [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Millstones at Stanage Edge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Boulders_at_Stanage_Edge_-_geograph.org.uk_-_591181.jpg",
+            "title": "J147 / Boulders at Stanage Edge, via Wikimedia Commons",
+            "caption": "Boulders at Stanage Edge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Stanage_Edge_-_geograph.org.uk_-_21665.jpg",
+            "title": "Bob Tinley / Stanage Edge, via Wikimedia Commons",
+            "caption": "Rock climber"
+        }
+    ],
+    "distance_km": 16.5,
+    "description": "Climb to the stunning gritstone escarpment of Stanage Edge and then on to High Neb on this popular walk in the Peak District. The walk begins in the village of Hathersage and follows footpaths over the Hodd Brook to Cliff Wood. You climb towards Hurst Clough and North Lees before coming to Stanage Edge. The route then passes along the top of the rocky edge where you are likely to pass rock climbers on your way to the high point at High Neb. Here you can enjoy wonderful views over Hallam Moors and the Hope Valley. You then return from High Neb along the edge to White Path Moss passing Robin Hood's cave on the way. You continue east to Upper Burbage Bridge where you turn south to Higger Tor for more wonderful views over the Peak District. You then descend back to Hathersage on country lanes and footpaths, passing Toothill Farm on the way.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Back in Hathersage there's lots of good options for refreshments. Cintra\u2019s Tea Rooms are a bit of a hidden gem where you can enjoy afternoon tea in the delighful gardens if the weather is fine. You can find them on the Main Road at postcode S32 1BB for your sat navs. The Plough Inn dates all the way back to the 16th century and is beautifully situated in nine acres of its own private land which gently slope towards the banks of the River Derwent. They also do accommodation and have a suntrap beer garden to relax in. You can find it at Leadmill Bridge with a postcode S32 1BA for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The Edge is a great place for fit dogs and you will probably see other owners on a fine day. The Plough Inn mentioned above is also very dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For a shorter route up onto the escarpment try our Stanage Edge Short Walk which starts from the Hollin Bank car park just to the south east of High Neb. If you would like to continue your walking in the area then you could pick up the Derwent Valley Heritage Way which runs through Hathersage along the River Derwent.You could also head east and visit Stanedge Pole. The pole stands at a height of 438 metres (1,437 feet) and marks the border between Derbyshire and South Yorkshire. If you descend from the pole in a north easterly direction you will come to Redmires Reservoir. These three pretty reservoirs have a good circular walking trail to follow.Just to the west there is another similarly exciting ridge walk across Bamford Edge. Beyond that is another splendid climb to Win Hill which has some of the best views in the area.If you head north you can enjoy a waterside walk along the beautiful Ladybower Reservoir, before a climb to the terrific Derwent Edge. For more walking ideas in the area see the Peak District Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/JOYxZXIzOFI",
+    "district": "Derbyshire Dales",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Further House, Baulk Lane, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1AF, United Kingdom",
+    "postcode": "S32 1AF",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "5-6 hours",
+    "difficulty": "moderate",
+    "terrain": ["escarpment", "moorland"],
+    "points_of_interest": ["viewpoint", "cave"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

@@ -1,116 +1,106 @@
 {
-  "created_at": "2025-01-06T18:53:44.627978+00:00",
-  "objectID": "627fa9c668b89b290f080d79c1d0408f",
-  "ref": "cratloe-woods-walking-route",
-  "title": "Cratloe Woods Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg/500px-Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg",
-  "nearby": [
-    {
-      "description": "Lough Derg Way",
-      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-      "ref": "lough-derg-way-walking-route"
+    "created_at": "2025-01-06T18:53:44.627978+00:00",
+    "objectID": "627fa9c668b89b290f080d79c1d0408f",
+    "ref": "cratloe-woods-walking-route",
+    "title": "Cratloe Woods Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg/500px-Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg",
+    "nearby": [
+        {
+            "description": "Lough Derg Way",
+            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+            "ref": "lough-derg-way-walking-route"
+        },
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "O'Briensbridge Riverside Walk",
+            "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
+            "ref": "obriensbridge-riverside-walk-walking-route"
+        },
+        {
+            "description": "Limerick Greenway",
+            "objectID": "e39af5aeda6049f6f37195a68dcfb541",
+            "ref": "limerick-greenway-walking-route"
+        },
+        {
+            "description": "Adare",
+            "objectID": "8e348d955193556ee256931d689b4080",
+            "ref": "adare-walking-route"
+        },
+        {
+            "description": "Ballina",
+            "objectID": "0367d63aaf753b4176f62fbeef1c672b",
+            "ref": "ballina-walking-route"
+        },
+        {
+            "description": "Castleconnell River Walk",
+            "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+            "ref": "castleconnell-river-walk"
+        },
+        {
+            "description": "Clareabbey River Walk",
+            "objectID": "6d462d55f680123d16781e3f10dcbf6d",
+            "ref": "clareabbey-river-walk"
+        },
+        {
+            "description": "Ennis River Fergus Walk",
+            "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
+            "ref": "ennis-river-fergus-walk"
+        },
+        {
+            "description": "Ballyalla Lake",
+            "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
+            "ref": "ballyalla-lake-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/627fa9c668b89b290f080d79c1d0408f.gpx",
+    "_geoloc": {
+        "lat": 52.70806,
+        "lng": -8.75902
     },
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
-    },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "O'Briensbridge Riverside Walk",
-      "objectID": "7ac09b2dde5c78b4e0dd26336e1e0df2",
-      "ref": "obriensbridge-riverside-walk-walking-route"
-    },
-    {
-      "description": "Limerick Greenway",
-      "objectID": "e39af5aeda6049f6f37195a68dcfb541",
-      "ref": "limerick-greenway-walking-route"
-    },
-    {
-      "description": "Adare",
-      "objectID": "8e348d955193556ee256931d689b4080",
-      "ref": "adare-walking-route"
-    },
-    {
-      "description": "Ballina",
-      "objectID": "0367d63aaf753b4176f62fbeef1c672b",
-      "ref": "ballina-walking-route"
-    },
-    {
-      "description": "Castleconnell River Walk",
-      "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell\u00a0river-walk"
-    },
-    {
-      "description": "Clareabbey River Walk",
-      "objectID": "6d462d55f680123d16781e3f10dcbf6d",
-      "ref": "clareabbey-river-walk"
-    },
-    {
-      "description": "Ennis River Fergus Walk",
-      "objectID": "bceb1a5b11c7b283a70e95cae4e97631",
-      "ref": "ennis-river-fergus-walk"
-    },
-    {
-      "description": "Ballyalla Lake",
-      "objectID": "298b92eae4e85f7741c1e4abcb575ae4",
-      "ref": "ballyalla-lake-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/627fa9c668b89b290f080d79c1d0408f.gpx",
-  "_geoloc": {
-    "lat": 52.70806,
-    "lng": -8.75902
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg/500px-Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg",
-      "title": "Entrance to Cratloe Woods by Hywel Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Entrance to Cratloe Woods"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/House_on_the_N16_-_geograph.org.uk_-_1818778.jpg",
-      "title": "House on the N16 by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cratloe"
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "This walk visits Cratloe Woods near the village of Cratloe in County Clare. The site includes several walking trails and cycling paths which you can access from the car park at the western side of the woods. In this area you will also find a community playground and Lough Gorteen. To continue your walking in the area head east to Limerick where you can pick up the Limerick 3 Bridges Walk and the Limerick Greenway .",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head north west and you can pick up the Clareabbey River Walk. The trail takes you along the River Fergus with fine views of the ancient Augustinian monastery. There's also the Ennis River Fergus Walk in the nearby town of Ennis. To the north of Ennis you'll find the pretty Ballyalla Lake. There's a nice lakeside walk, picnic areas and kayaks to hire in this delightful scenic spot."
-    }
-  ],
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Cratloe Woods, Gallows Hill, Cratloe ED, Shannon Municipal District, County Clare, Munster, V95 TH64, \u00c9ire / Ireland",
-  "postcode": "V95 TH64",
-  "district": null,
-  "county": "County Clare",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "20 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "lough"
-  ],
-  "facilities": [
-    "car park",
-    "play area"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg/500px-Entrance_to_Cratloe_Woods_-_geograph.org.uk_-_3919143.jpg",
+            "title": "Entrance to Cratloe Woods by Hywel Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Entrance to Cratloe Woods"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/House_on_the_N16_-_geograph.org.uk_-_1818778.jpg",
+            "title": "House on the N16 by Graham Horn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cratloe"
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "This walk visits Cratloe Woods near the village of Cratloe in County Clare. The site includes several walking trails and cycling paths which you can access from the car park at the western side of the woods. In this area you will also find a community playground and Lough Gorteen. To continue your walking in the area head east to Limerick where you can pick up the Limerick 3 Bridges Walk and the Limerick Greenway .",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head north west and you can pick up the Clareabbey River Walk. The trail takes you along the River Fergus with fine views of the ancient Augustinian monastery. There's also the Ennis River Fergus Walk in the nearby town of Ennis. To the north of Ennis you'll find the pretty Ballyalla Lake. There's a nice lakeside walk, picnic areas and kayaks to hire in this delightful scenic spot."
+        }
+    ],
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Cratloe Woods, Gallows Hill, Cratloe ED, Shannon Municipal District, County Clare, Munster, V95 TH64, \u00c9ire / Ireland",
+    "postcode": "V95 TH64",
+    "district": null,
+    "county": "County Clare",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "20 minutes",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["lough"],
+    "facilities": ["car park", "play area"],
+    "route_type": "one-way",
+    "activities": ["walking", "cycling"]
 }

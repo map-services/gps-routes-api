@@ -5,13 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Depado/ginprom"
 	_ "modernc.org/sqlite"
 	"github.com/stretchr/testify/assert"
 )
-
-// Shared prometheus instance to avoid duplicate metric registration across tests.
-var testPrometheus = ginprom.New()
 
 // openTestDB opens a temporary in-memory SQLite database for testing.
 func openTestDB(t *testing.T) *sql.DB {
@@ -45,7 +41,7 @@ func TestDBStatsCollector_Lifecycle(t *testing.T) {
 	db := openTestDB(t)
 	db.SetMaxOpenConns(1)
 
-	collector := NewDBStatsCollector(db, testPrometheus, 10*time.Millisecond)
+	collector := NewDBStatsCollector(db, 10*time.Millisecond)
 	assert.NotNil(t, collector)
 
 	// Give the collector time to run at least one tick.

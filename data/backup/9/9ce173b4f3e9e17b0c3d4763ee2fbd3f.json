@@ -1,77 +1,69 @@
 {
-  "created_at": "2025-01-06T11:13:20.227886+00:00",
-  "objectID": "9ce173b4f3e9e17b0c3d4763ee2fbd3f",
-  "ref": "cinderford-walking-route",
-  "title": "Cinderford\u00a0And Woorgreens Lake Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cinderford_War_Memorial_-_geograph.org.uk_-_3265925.jpg",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9ce173b4f3e9e17b0c3d4763ee2fbd3f.gpx",
-  "_geoloc": {
-    "lat": 51.82161,
-    "lng": -2.5116
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cinderford_War_Memorial_-_geograph.org.uk_-_3265925.jpg",
-      "title": "Cinderford War Memorial by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cinderford War Memorial"
+    "created_at": "2025-01-06T11:13:20.227886+00:00",
+    "objectID": "9ce173b4f3e9e17b0c3d4763ee2fbd3f",
+    "ref": "cinderford-walking-route",
+    "title": "Cinderford And Woorgreens Lake Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cinderford_War_Memorial_-_geograph.org.uk_-_3265925.jpg",
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9ce173b4f3e9e17b0c3d4763ee2fbd3f.gpx",
+    "_geoloc": {
+        "lat": 51.82161,
+        "lng": -2.5116
     },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Woorgreens_Lake%2C_Forest_of_Dean_-_geograph.org.uk_-_4232855.jpg/500px-Woorgreens_Lake%2C_Forest_of_Dean_-_geograph.org.uk_-_4232855.jpg",
-      "title": "Woorgreens Lake, Forest of Dean by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Worgreen Lake, Forest of Dean Small groups of Canada Geese, like this one, can be seen on Worgreen Lake which is just north of the main B4226 road that connects Cinderford to Coleford. Worgreen, in days gone by, was an open cast coal mine and the lake is what was left when mining operations finally finished. It is now the naturalised habitat of lots of fish, birds and insects."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Track_near_Crabtree_Hill_-_geograph.org.uk_-_249924.jpg/330px-Track_near_Crabtree_Hill_-_geograph.org.uk_-_249924.jpg",
-      "title": "Iain Macaulay / Track near Crabtree Hill",
-      "caption": "Track near Crabtree Hill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_railway_trackbed_-_geograph.org.uk_-_3954600.jpg/500px-Old_railway_trackbed_-_geograph.org.uk_-_3954600.jpg",
-      "title": "Old railway trackbed by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Old railway trackbed"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Culvert_pipes_in_forest_clearing_-_geograph.org.uk_-_1268570.jpg",
-      "title": "Pauline Eccles, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Culvert pipes in forest clearing. An area of the Forest of Dean is being cleared between Woorgreens Lake and Dilke Hospital. A few culvert pipes are lying around providing a handy rest stop."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cycle_track_near_Ruspidge_-_geograph.org.uk_-_3954597.jpg/500px-Cycle_track_near_Ruspidge_-_geograph.org.uk_-_3954597.jpg",
-      "title": "Cycle track near Ruspidge by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cycle track near Ruspidge"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "This Gloucestershire based town sits on the eastern side of the Forest of Dean. This walk from the town takes you into the forest to visit the Woorgreens Lake Nature Reserve. In the reserve there's marsh, lake, woodland and heathland habitats with lots of interesting flora and fauna. Keep your eyes peeled for birds such as cuckoo, crossbill and hobbies chasing dragonflies over the lake in the late summer. You can follow forestry tracks to the lake and then a waterside path around the small water. There's also a cycle track along a dismantled railway line in the area. To contine your walking in the area pick up the Speech House Walk, and visit the nearby Speech House Lake, the Cyril Hart Arboretum and the 17th-century hotel. There's also the popular Forest of Dean Sculpture Trail in this area.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/RHhIl6kPRdw",
-  "district": "Forest of Dean",
-  "county": "Gloucestershire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Forest of Dean Railway, New Town, Cinderford, Forest of Dean, Gloucestershire, England, GL14 2YG, United Kingdom",
-  "postcode": "GL14 2YG",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "heathland"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "historical site",
-    "sculpture trail"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cinderford_War_Memorial_-_geograph.org.uk_-_3265925.jpg",
+            "title": "Cinderford War Memorial by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cinderford War Memorial"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Woorgreens_Lake%2C_Forest_of_Dean_-_geograph.org.uk_-_4232855.jpg/500px-Woorgreens_Lake%2C_Forest_of_Dean_-_geograph.org.uk_-_4232855.jpg",
+            "title": "Woorgreens Lake, Forest of Dean by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Worgreen Lake, Forest of Dean Small groups of Canada Geese, like this one, can be seen on Worgreen Lake which is just north of the main B4226 road that connects Cinderford to Coleford. Worgreen, in days gone by, was an open cast coal mine and the lake is what was left when mining operations finally finished. It is now the naturalised habitat of lots of fish, birds and insects."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Track_near_Crabtree_Hill_-_geograph.org.uk_-_249924.jpg/330px-Track_near_Crabtree_Hill_-_geograph.org.uk_-_249924.jpg",
+            "title": "Iain Macaulay / Track near Crabtree Hill",
+            "caption": "Track near Crabtree Hill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_railway_trackbed_-_geograph.org.uk_-_3954600.jpg/500px-Old_railway_trackbed_-_geograph.org.uk_-_3954600.jpg",
+            "title": "Old railway trackbed by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Old railway trackbed"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Culvert_pipes_in_forest_clearing_-_geograph.org.uk_-_1268570.jpg",
+            "title": "Pauline Eccles, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Culvert pipes in forest clearing. An area of the Forest of Dean is being cleared between Woorgreens Lake and Dilke Hospital. A few culvert pipes are lying around providing a handy rest stop."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cycle_track_near_Ruspidge_-_geograph.org.uk_-_3954597.jpg/500px-Cycle_track_near_Ruspidge_-_geograph.org.uk_-_3954597.jpg",
+            "title": "Cycle track near Ruspidge by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cycle track near Ruspidge"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "This Gloucestershire based town sits on the eastern side of the Forest of Dean. This walk from the town takes you into the forest to visit the Woorgreens Lake Nature Reserve. In the reserve there's marsh, lake, woodland and heathland habitats with lots of interesting flora and fauna. Keep your eyes peeled for birds such as cuckoo, crossbill and hobbies chasing dragonflies over the lake in the late summer. You can follow forestry tracks to the lake and then a waterside path around the small water. There's also a cycle track along a dismantled railway line in the area. To contine your walking in the area pick up the Speech House Walk, and visit the nearby Speech House Lake, the Cyril Hart Arboretum and the 17th-century hotel. There's also the popular Forest of Dean Sculpture Trail in this area.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/RHhIl6kPRdw",
+    "district": "Forest of Dean",
+    "county": "Gloucestershire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Forest of Dean Railway, New Town, Cinderford, Forest of Dean, Gloucestershire, England, GL14 2YG, United Kingdom",
+    "postcode": "GL14 2YG",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland", "heathland"],
+    "points_of_interest": [
+        "nature reserve",
+        "historical site",
+        "sculpture trail"
+    ],
+    "facilities": ["pub/cafe"],
+    "route_type": "out and back",
+    "activities": ["walking", "cycling"]
 }

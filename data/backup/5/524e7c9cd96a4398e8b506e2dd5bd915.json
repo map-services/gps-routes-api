@@ -1,146 +1,136 @@
 {
-  "created_at": "2025-01-06T01:17:31.273177+00:00",
-  "objectID": "524e7c9cd96a4398e8b506e2dd5bd915",
-  "ref": "roddlesworth-reservoir-walking-route",
-  "title": "Roddlesworth Reservoir Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autumn_view_at_Roddlesworth_Reservoir_-_geograph.org.uk_-_729778.jpg",
-  "nearby": [
-    {
-      "description": "Witton Weavers Way",
-      "objectID": "dbe4faf3aa82e6fb97e7d53441f11550",
-      "ref": "witton-weavers-way-walking-route"
+    "created_at": "2025-01-06T01:17:31.273177+00:00",
+    "objectID": "524e7c9cd96a4398e8b506e2dd5bd915",
+    "ref": "roddlesworth-reservoir-walking-route",
+    "title": "Roddlesworth Reservoir Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autumn_view_at_Roddlesworth_Reservoir_-_geograph.org.uk_-_729778.jpg",
+    "nearby": [
+        {
+            "description": "Witton Weavers Way",
+            "objectID": "dbe4faf3aa82e6fb97e7d53441f11550",
+            "ref": "witton-weavers-way-walking-route"
+        },
+        {
+            "description": "Darwen Tower",
+            "objectID": "0da11952f376e186964ebaa4170f6a15",
+            "ref": "darwen-tower-walking-route"
+        },
+        {
+            "description": "Sunnyhurst Woods",
+            "objectID": "aa7fb3347bd1b1b2e2bd9da849becb9d",
+            "ref": "sunnyhurst-woods-walking-route"
+        },
+        {
+            "description": "Tockholes",
+            "objectID": "a67462c0b278c5652ea2e647d3b31615",
+            "ref": "tockholes-walking-route"
+        },
+        {
+            "description": "Bold Venture Park Darwen",
+            "objectID": "3f34111192425ea74666cff0301ba518",
+            "ref": "bold-venture-park-darwen-walking-route"
+        },
+        {
+            "description": "Brinscall",
+            "objectID": "14b0afb57501731023cc69b869f18fee",
+            "ref": "brinscall-walking-route"
+        },
+        {
+            "description": "White Coppice",
+            "objectID": "2a09384e17be0565145f562cb75469d2",
+            "ref": "white-coppice-walking-route"
+        },
+        {
+            "description": "Anglezarke Reservoir",
+            "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
+            "ref": "anglezarke-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Abbey Village Reservoir",
+            "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
+            "ref": "abbey-village-reservoir-walking-route"
+        },
+        {
+            "description": "Withnell Nature Reserve",
+            "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+            "ref": "withnell-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/524e7c9cd96a4398e8b506e2dd5bd915.gpx",
+    "_geoloc": {
+        "lat": 53.6886468278,
+        "lng": -2.5090917907
     },
-    {
-      "description": "Darwen Tower",
-      "objectID": "0da11952f376e186964ebaa4170f6a15",
-      "ref": "darwen-tower-walking-route"
-    },
-    {
-      "description": "Sunnyhurst Woods",
-      "objectID": "aa7fb3347bd1b1b2e2bd9da849becb9d",
-      "ref": "sunnyhurst-woods-walking-route"
-    },
-    {
-      "description": "Tockholes",
-      "objectID": "a67462c0b278c5652ea2e647d3b31615",
-      "ref": "tockholes-walking-route"
-    },
-    {
-      "description": "Bold Venture Park Darwen",
-      "objectID": "3f34111192425ea74666cff0301ba518",
-      "ref": "bold-venture-park-darwen-walking-route"
-    },
-    {
-      "description": "Brinscall",
-      "objectID": "14b0afb57501731023cc69b869f18fee",
-      "ref": "brinscall-walking-route"
-    },
-    {
-      "description": "White Coppice",
-      "objectID": "2a09384e17be0565145f562cb75469d2",
-      "ref": "white-coppice-walking-route"
-    },
-    {
-      "description": "Anglezarke Reservoir",
-      "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
-      "ref": "anglezarke-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Abbey Village Reservoir",
-      "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
-      "ref": "abbey-village-reservoir-walking-route"
-    },
-    {
-      "description": "Withnell Nature Reserve",
-      "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell\u00a0nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/524e7c9cd96a4398e8b506e2dd5bd915.gpx",
-  "_geoloc": {
-    "lat": 53.6886468278,
-    "lng": -2.5090917907
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autumn_view_at_Roddlesworth_Reservoir_-_geograph.org.uk_-_729778.jpg",
-      "title": "Allan Friswell / Autumn view at Roddlesworth Reservoir",
-      "caption": "Lovely autumn colours at the reservoir in the October of 2004"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Roddlesworth_Reservoir_Dam_-_geograph.org.uk_-_1142495.jpg",
-      "title": "John Tustin / Roddlesworth Reservoir Dam",
-      "caption": "Roddlesworth Reservoir Dam. The dam is 300 metres long and is used as a footpath. Fishing in the reservoir is by permit only. There is a fisherman's hut just off to the left of the photograph. It was trying to snow when the photograph was taken in February 2009."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Roddlesworth_lower_reservoir_-_geograph.org.uk_-_371523.jpg",
-      "title": "Mr T / Roddlesworth lower reservoir",
-      "caption": "View across the lower reservoir. The reservoir is a popular place for walking, and from the photograph, it seems horseriding too. On the horizon are the fells of the Forest of Bowland."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Weir_at_Roddlesworth_-_geograph.org.uk_-_362303.jpg",
-      "title": "Mr T / Weir at Roddlesworth",
-      "caption": "Weir at Roddlesworth. This is the weir from the outflow of the top reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/River_Roddlesworth_-_geograph.org.uk_-_1322947.jpg",
-      "title": "Gary Rogers / River Roddlesworth",
-      "caption": "River Roddlesworth in Tockholes no.3 Plantation. The source of the river is on the slopes of Great Hill, just above the ruins known as Pimm's, where the infant river is known as Calf Hey Brook. Calf Hey Brook is joined by another stream occasionally termed Roddlesworth - which rises beneath Cartridge Hill and runs past the ruins of Hollinshead Hall - beneath Slipper Lowe. From there, it follows a northerly course through Roddlesworth Plantations, around the two Roddlesworth Reservoirs fed by the river and past Red Lees (a name seemingly linked with that of the river)."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Waterfall_on_River_Roddlesworth_-_geograph.org.uk_-_505895.jpg",
-      "title": "Mr T / Waterfall on River Roddlesworth",
-      "caption": "Waterfall on River Roddlesworth. You can reach this by following a footpath south from the reservoir through the Tockholes Plantations. The river continues through the Stanworth Valley in Livesey, where it is met by Stockclough Brook, and under the M65 motorway and Leeds & Liverpool Canal. Soon after this, the Roddlesworth enters a culvert close to the Star Paper Mill. The Roddlesworth flows into the River Darwen at Moulden Brow. Between the confluence with Stockclough Brook and the Darwen, the river is known locally as Moulden (or Moulding) Water."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bluebell_Bank_-_geograph.org.uk_-_1088851.jpg",
-      "title": "John Darch / Bluebell Bank",
-      "caption": "Bluebell Bank. Bluebells on the earth dam of the Upper Reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tracks_meet_in_Tockholes_Plantation_-_geograph.org.uk_-_505904.jpg",
-      "title": "Mr T / Tracks meet in Tockholes Plantation",
-      "caption": "Tracks meet in Tockholes Plantation below the reservoir."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "Enjoy a circular walk around these pretty reservoirs near Darwen in Lancashire. There are good footpaths running around the water and through the surrounding woodland. It's a very pretty area with woodland streams and bluebells in the spring. The route runs for just under 3 miles on a series of fairly flat paths. You can start your walk from the car park on Tockholes Road at the Roddlesworth Information Centre. It's right next to the Royal Arms pub which is a good place for refreshments after your walk. From here you head west through Tockholes wood to the two reservoirs. You can also visit Rake Brook Reservoir which is just to the west of the lower reservoir. This walk makes use of the Witton Weavers Way so you could extend your outing by heading to the nearby Darwen Tower and Sunnyhurst Woods. You could also follow the River Roddlesworth through Roddlesworth Woods at the southern end of the reservoir.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "The Royal Arms is conveniently located at the start/end of the walk. The pub was originally built in 1860 as two cottages to house weavers that worked the local Hollinshead Mill. Shortly after they were knocked together to make an Ale house for the thirsty weavers after their long shifts. Inside it retains much of its old world charm with original stone walls, real fires, flagged and wooden floors. In the warmer months you can relax outside in the garden area. The pub has a good menu and fine selection of ales too. Also at the start of the walk there's a nice cafe in the Roddlesworth Information Centre. They do delicious home made pies and have a unique bird watching facility in the cafe. You can view the birds through one way glass with regular visitors such as greater spotted woodpeckers, nuthatches and chaffinches to see. The centre also has a wealth of information on the area with a set of handy leaflets on walks around the area."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "For a longer walk in the area try the circular Tockholes Walk. The route starts from the same car park and takes you along the reservoir before heading to Tockholes village, Darwen Tower, Sunnyhurst Woods and Bold Venture Park. It's a nice way of taking in a few of the walking highlights of the area in one loop. A few miles north west of the reservoir you'll find a historical highlight of the area at Hoghton Tower. The fortified manor house dates from the 16th century and takes its name from the de Hoghton family, its historical owners since at least the 12th century. It's open to the public on certain days and includes lovely grounds and gardens to explore. You can follow the Witton Weavers Way north west for a few miles to reach the castle and the adjacent Samlesbury Bottoms. There's some nice riverside trails along the River Darwen in this area. Just to the west you could visit the village of Brinscall and follow a nice trail along The Goit Canal to White Coppice and Anglezarke Reservoir. The Abbey Village Reservoir Walk starts from the village to the east. The circular trail visits the Abbey Village Reservoir before heading to Roddlesworth. The village has a friendly pub for a drink afterwards. For more walking ideas in the area see the Lancashire Walks and West Pennine Moors Walks pages."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/Zr8Y9VDgzQs",
-  "district": "Tockholes",
-  "county": "Blackburn with Darwen",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Tockholes Road, Ryal Fold, Tockholes, Blackburn with Darwen, England, BB3 0NZ, United Kingdom",
-  "postcode": "BB3 0NZ",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autumn_view_at_Roddlesworth_Reservoir_-_geograph.org.uk_-_729778.jpg",
+            "title": "Allan Friswell / Autumn view at Roddlesworth Reservoir",
+            "caption": "Lovely autumn colours at the reservoir in the October of 2004"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Roddlesworth_Reservoir_Dam_-_geograph.org.uk_-_1142495.jpg",
+            "title": "John Tustin / Roddlesworth Reservoir Dam",
+            "caption": "Roddlesworth Reservoir Dam. The dam is 300 metres long and is used as a footpath. Fishing in the reservoir is by permit only. There is a fisherman's hut just off to the left of the photograph. It was trying to snow when the photograph was taken in February 2009."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Roddlesworth_lower_reservoir_-_geograph.org.uk_-_371523.jpg",
+            "title": "Mr T / Roddlesworth lower reservoir",
+            "caption": "View across the lower reservoir. The reservoir is a popular place for walking, and from the photograph, it seems horseriding too. On the horizon are the fells of the Forest of Bowland."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Weir_at_Roddlesworth_-_geograph.org.uk_-_362303.jpg",
+            "title": "Mr T / Weir at Roddlesworth",
+            "caption": "Weir at Roddlesworth. This is the weir from the outflow of the top reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/River_Roddlesworth_-_geograph.org.uk_-_1322947.jpg",
+            "title": "Gary Rogers / River Roddlesworth",
+            "caption": "River Roddlesworth in Tockholes no.3 Plantation. The source of the river is on the slopes of Great Hill, just above the ruins known as Pimm's, where the infant river is known as Calf Hey Brook. Calf Hey Brook is joined by another stream occasionally termed Roddlesworth - which rises beneath Cartridge Hill and runs past the ruins of Hollinshead Hall - beneath Slipper Lowe. From there, it follows a northerly course through Roddlesworth Plantations, around the two Roddlesworth Reservoirs fed by the river and past Red Lees (a name seemingly linked with that of the river)."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Waterfall_on_River_Roddlesworth_-_geograph.org.uk_-_505895.jpg",
+            "title": "Mr T / Waterfall on River Roddlesworth",
+            "caption": "Waterfall on River Roddlesworth. You can reach this by following a footpath south from the reservoir through the Tockholes Plantations. The river continues through the Stanworth Valley in Livesey, where it is met by Stockclough Brook, and under the M65 motorway and Leeds & Liverpool Canal. Soon after this, the Roddlesworth enters a culvert close to the Star Paper Mill. The Roddlesworth flows into the River Darwen at Moulden Brow. Between the confluence with Stockclough Brook and the Darwen, the river is known locally as Moulden (or Moulding) Water."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bluebell_Bank_-_geograph.org.uk_-_1088851.jpg",
+            "title": "John Darch / Bluebell Bank",
+            "caption": "Bluebell Bank. Bluebells on the earth dam of the Upper Reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tracks_meet_in_Tockholes_Plantation_-_geograph.org.uk_-_505904.jpg",
+            "title": "Mr T / Tracks meet in Tockholes Plantation",
+            "caption": "Tracks meet in Tockholes Plantation below the reservoir."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "Enjoy a circular walk around these pretty reservoirs near Darwen in Lancashire. There are good footpaths running around the water and through the surrounding woodland. It's a very pretty area with woodland streams and bluebells in the spring. The route runs for just under 3 miles on a series of fairly flat paths. You can start your walk from the car park on Tockholes Road at the Roddlesworth Information Centre. It's right next to the Royal Arms pub which is a good place for refreshments after your walk. From here you head west through Tockholes wood to the two reservoirs. You can also visit Rake Brook Reservoir which is just to the west of the lower reservoir. This walk makes use of the Witton Weavers Way so you could extend your outing by heading to the nearby Darwen Tower and Sunnyhurst Woods. You could also follow the River Roddlesworth through Roddlesworth Woods at the southern end of the reservoir.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "The Royal Arms is conveniently located at the start/end of the walk. The pub was originally built in 1860 as two cottages to house weavers that worked the local Hollinshead Mill. Shortly after they were knocked together to make an Ale house for the thirsty weavers after their long shifts. Inside it retains much of its old world charm with original stone walls, real fires, flagged and wooden floors. In the warmer months you can relax outside in the garden area. The pub has a good menu and fine selection of ales too. Also at the start of the walk there's a nice cafe in the Roddlesworth Information Centre. They do delicious home made pies and have a unique bird watching facility in the cafe. You can view the birds through one way glass with regular visitors such as greater spotted woodpeckers, nuthatches and chaffinches to see. The centre also has a wealth of information on the area with a set of handy leaflets on walks around the area."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "For a longer walk in the area try the circular Tockholes Walk. The route starts from the same car park and takes you along the reservoir before heading to Tockholes village, Darwen Tower, Sunnyhurst Woods and Bold Venture Park. It's a nice way of taking in a few of the walking highlights of the area in one loop. A few miles north west of the reservoir you'll find a historical highlight of the area at Hoghton Tower. The fortified manor house dates from the 16th century and takes its name from the de Hoghton family, its historical owners since at least the 12th century. It's open to the public on certain days and includes lovely grounds and gardens to explore. You can follow the Witton Weavers Way north west for a few miles to reach the castle and the adjacent Samlesbury Bottoms. There's some nice riverside trails along the River Darwen in this area. Just to the west you could visit the village of Brinscall and follow a nice trail along The Goit Canal to White Coppice and Anglezarke Reservoir. The Abbey Village Reservoir Walk starts from the village to the east. The circular trail visits the Abbey Village Reservoir before heading to Roddlesworth. The village has a friendly pub for a drink afterwards. For more walking ideas in the area see the Lancashire Walks and West Pennine Moors Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/Zr8Y9VDgzQs",
+    "district": "Tockholes",
+    "county": "Blackburn with Darwen",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Tockholes Road, Ryal Fold, Tockholes, Blackburn with Darwen, England, BB3 0NZ, United Kingdom",
+    "postcode": "BB3 0NZ",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

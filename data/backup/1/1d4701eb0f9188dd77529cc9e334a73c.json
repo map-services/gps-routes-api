@@ -1,98 +1,92 @@
 {
-  "created_at": "2025-01-06T18:59:18.298417+00:00",
-  "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-  "ref": "castleconnell\u00a0river-walk",
-  "title": "Castleconnell\u00a0River Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg/500px-Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg?20210321014738",
-  "nearby": [
-    {
-      "description": "Keeper Hill",
-      "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-      "ref": "keeper-hill-walking-route"
+    "created_at": "2025-01-06T18:59:18.298417+00:00",
+    "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
+    "ref": "castleconnell-river-walk",
+    "title": "Castleconnell River Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg/500px-Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg?20210321014738",
+    "nearby": [
+        {
+            "description": "Keeper Hill",
+            "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
+            "ref": "keeper-hill-walking-route"
+        },
+        {
+            "description": "Lough Gur",
+            "objectID": "2962a20734ecefb121e268f0ade57898",
+            "ref": "lough-gur-walking-route"
+        },
+        {
+            "description": "Lough Derg Way",
+            "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
+            "ref": "lough-derg-way-walking-route"
+        },
+        {
+            "description": "Limerick 3 Bridges Walk",
+            "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
+            "ref": "limerick-3-bridges-walking-route"
+        },
+        {
+            "description": "Adare",
+            "objectID": "8e348d955193556ee256931d689b4080",
+            "ref": "adare-walking-route"
+        },
+        {
+            "description": "Ballina",
+            "objectID": "0367d63aaf753b4176f62fbeef1c672b",
+            "ref": "ballina-walking-route"
+        },
+        {
+            "description": "Cratloe Woods",
+            "objectID": "627fa9c668b89b290f080d79c1d0408f",
+            "ref": "cratloe-woods-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1d4701eb0f9188dd77529cc9e334a73c.gpx",
+    "_geoloc": {
+        "lat": 52.71279,
+        "lng": -8.50202
     },
-    {
-      "description": "Lough Gur",
-      "objectID": "2962a20734ecefb121e268f0ade57898",
-      "ref": "lough-gur-walking-route"
-    },
-    {
-      "description": "Lough Derg Way",
-      "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-      "ref": "lough-derg-way-walking-route"
-    },
-    {
-      "description": "Limerick 3 Bridges Walk",
-      "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
-      "ref": "limerick-3-bridges-walking-route"
-    },
-    {
-      "description": "Adare",
-      "objectID": "8e348d955193556ee256931d689b4080",
-      "ref": "adare-walking-route"
-    },
-    {
-      "description": "Ballina",
-      "objectID": "0367d63aaf753b4176f62fbeef1c672b",
-      "ref": "ballina-walking-route"
-    },
-    {
-      "description": "Cratloe Woods",
-      "objectID": "627fa9c668b89b290f080d79c1d0408f",
-      "ref": "cratloe-woods-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1d4701eb0f9188dd77529cc9e334a73c.gpx",
-  "_geoloc": {
-    "lat": 52.71279,
-    "lng": -8.50202
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg/500px-Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg?20210321014738",
-      "title": "Castleconnell, County Limerick by Sarah777, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Castleconnell, County Limerick"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stepping_stones_to_island_in_River_Shannon_at_Doonass_-_geograph.org.uk_-_2028706.jpg/500px-Stepping_stones_to_island_in_River_Shannon_at_Doonass_-_geograph.org.uk_-_2028706.jpg?20210520111945",
-      "title": "Stepping stones to island in River Shannon at Doonass by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Stepping stones to island in River Shannon at Doonass"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bathers_by_the_Shannon_at_Doonass_-_geograph.org.uk_-_2020149.jpg/500px-Bathers_by_the_Shannon_at_Doonass_-_geograph.org.uk_-_2020149.jpg?20210518220846",
-      "title": "Bathers by the Shannon at Doonass by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bathers by the Shannon at Doonass"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Railway_level_crossing_on_L1103_road%2C_Castleconnell%2C_Co._Limerick_-_geograph.org.uk_-_3470808.jpg/500px-Railway_level_crossing_on_L1103_road%2C_Castleconnell%2C_Co._Limerick_-_geograph.org.uk_-_3470808.jpg?20220502070957",
-      "title": "Railway level crossing on L1103 road, Castleconnell, Co. Limerick by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Railway level crossing on L1103 road, Castleconnell, Co. Limerick"
-    }
-  ],
-  "distance_km": 5.1,
-  "description": "This riverside walk takes you along the River Shannon in the village of Castleconnell, County Limerick. You can start the walk in the village and then head west to the river where you will find a bridge to take you to the other side. Here you can follow a pleasant footpath heading south west towards Doonass where there are some photogenic stepping stones to an island. To continue your waterside walking head north to pick up the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. The trail will also take you to the nearby towns of Ballina and Killaloe.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/TIh2DhTCbnQ?si=xyn_05uzdkYL9qe7",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Rockville, Castle Street, Castleconnell, The Metropolitan District of Limerick City, Castleconnell, County Limerick, Munster, V94 XR96, \u00c9ire / Ireland",
-  "postcode": "V94 XR96",
-  "district": "Castleconnell",
-  "county": "County Limerick",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "riverside"
-  ],
-  "points_of_interest": [
-    "stepping stone"
-  ],
-  "facilities": [],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg/500px-Castleconnell%2C_County_Limerick_-_geograph.org.uk_-_1823870.jpg?20210321014738",
+            "title": "Castleconnell, County Limerick by Sarah777, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Castleconnell, County Limerick"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stepping_stones_to_island_in_River_Shannon_at_Doonass_-_geograph.org.uk_-_2028706.jpg/500px-Stepping_stones_to_island_in_River_Shannon_at_Doonass_-_geograph.org.uk_-_2028706.jpg?20210520111945",
+            "title": "Stepping stones to island in River Shannon at Doonass by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Stepping stones to island in River Shannon at Doonass"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bathers_by_the_Shannon_at_Doonass_-_geograph.org.uk_-_2020149.jpg/500px-Bathers_by_the_Shannon_at_Doonass_-_geograph.org.uk_-_2020149.jpg?20210518220846",
+            "title": "Bathers by the Shannon at Doonass by David Hawgood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bathers by the Shannon at Doonass"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Railway_level_crossing_on_L1103_road%2C_Castleconnell%2C_Co._Limerick_-_geograph.org.uk_-_3470808.jpg/500px-Railway_level_crossing_on_L1103_road%2C_Castleconnell%2C_Co._Limerick_-_geograph.org.uk_-_3470808.jpg?20220502070957",
+            "title": "Railway level crossing on L1103 road, Castleconnell, Co. Limerick by P L Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Railway level crossing on L1103 road, Castleconnell, Co. Limerick"
+        }
+    ],
+    "distance_km": 5.1,
+    "description": "This riverside walk takes you along the River Shannon in the village of Castleconnell, County Limerick. You can start the walk in the village and then head west to the river where you will find a bridge to take you to the other side. Here you can follow a pleasant footpath heading south west towards Doonass where there are some photogenic stepping stones to an island. To continue your waterside walking head north to pick up the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. The trail will also take you to the nearby towns of Ballina and Killaloe.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/TIh2DhTCbnQ?si=xyn_05uzdkYL9qe7",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Rockville, Castle Street, Castleconnell, The Metropolitan District of Limerick City, Castleconnell, County Limerick, Munster, V94 XR96, \u00c9ire / Ireland",
+    "postcode": "V94 XR96",
+    "district": "Castleconnell",
+    "county": "County Limerick",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["riverside"],
+    "points_of_interest": ["stepping stone"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

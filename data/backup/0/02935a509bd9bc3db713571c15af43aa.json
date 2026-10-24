@@ -1,120 +1,112 @@
 {
-  "created_at": "2025-01-06T02:52:38.426181+00:00",
-  "objectID": "02935a509bd9bc3db713571c15af43aa",
-  "ref": "teston-bridge\u00a0country-park-walking-route",
-  "title": "Teston Bridge\u00a0Country Park Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_River_Medway_from_Teston_Bridge_-_geograph.org.uk_-_1758584.jpg",
-  "nearby": [
-    {
-      "description": "Medway Valley Walk",
-      "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
-      "ref": "medway-valley-walk-walking-route"
+    "created_at": "2025-01-06T02:52:38.426181+00:00",
+    "objectID": "02935a509bd9bc3db713571c15af43aa",
+    "ref": "teston-bridge-country-park-walking-route",
+    "title": "Teston Bridge Country Park Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_River_Medway_from_Teston_Bridge_-_geograph.org.uk_-_1758584.jpg",
+    "nearby": [
+        {
+            "description": "Medway Valley Walk",
+            "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
+            "ref": "medway-valley-walk-walking-route"
+        },
+        {
+            "description": "Maidstone River Walk",
+            "objectID": "f216056c8986aa59c847f1c2a9dca593",
+            "ref": "maidstone-river-walk-walking-route"
+        },
+        {
+            "description": "Wateringbury",
+            "objectID": "847501100a2a9f86a8f64bb0548db379",
+            "ref": "wateringbury-walking-route"
+        },
+        {
+            "description": "Yalding River Walk",
+            "objectID": "ed4b9ed12129a20339480b266cd24d16",
+            "ref": "yalding-river-walk-walking-route"
+        },
+        {
+            "description": "Bearsted",
+            "objectID": "089ca0d6a3c84a936c06b0c8acc2bbad",
+            "ref": "bearsted-walking-route"
+        },
+        {
+            "description": "Hollingbourne",
+            "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
+            "ref": "hollingbourne-walking-route"
+        },
+        {
+            "description": "Hucking Estate",
+            "objectID": "2358b6b38412ef0aac27575165a1d8c0",
+            "ref": "hucking-estate-walking-route"
+        },
+        {
+            "description": "Detling Hill",
+            "objectID": "ec5dbc46817bb0d9a49bf362208bac1c",
+            "ref": "detling-hill-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02935a509bd9bc3db713571c15af43aa.gpx",
+    "_geoloc": {
+        "lat": 51.2526182473,
+        "lng": 0.4466857525
     },
-    {
-      "description": "Maidstone River Walk",
-      "objectID": "f216056c8986aa59c847f1c2a9dca593",
-      "ref": "maidstone-river-walk-walking-route"
-    },
-    {
-      "description": "Wateringbury",
-      "objectID": "847501100a2a9f86a8f64bb0548db379",
-      "ref": "wateringbury-walking-route"
-    },
-    {
-      "description": "Yalding River Walk",
-      "objectID": "ed4b9ed12129a20339480b266cd24d16",
-      "ref": "yalding-river-walk-walking-route"
-    },
-    {
-      "description": "Bearsted",
-      "objectID": "089ca0d6a3c84a936c06b0c8acc2bbad",
-      "ref": "bearsted-walking-route"
-    },
-    {
-      "description": "Hollingbourne",
-      "objectID": "55f8c32f247320187ac1a83fa9bcb0cc",
-      "ref": "hollingbourne-walking-route"
-    },
-    {
-      "description": "Hucking Estate",
-      "objectID": "2358b6b38412ef0aac27575165a1d8c0",
-      "ref": "hucking-estate-walking-route"
-    },
-    {
-      "description": "Detling Hill",
-      "objectID": "ec5dbc46817bb0d9a49bf362208bac1c",
-      "ref": "detling-hill-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/02935a509bd9bc3db713571c15af43aa.gpx",
-  "_geoloc": {
-    "lat": 51.2526182473,
-    "lng": 0.4466857525
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_River_Medway_from_Teston_Bridge_-_geograph.org.uk_-_1758584.jpg",
-      "title": "Nick Smith / The River Medway from Teston Bridge",
-      "caption": "The River Medway from Teston Bridge. Note the pedestrian 'refuge', one of several along this narrow bridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Teston_Bridge_-_geograph.org.uk_-_779684.jpg",
-      "title": "Colin Smith / Teston Bridge",
-      "caption": "Teston Bridge. Medieval stone bridge over the River Medway. Note the enlarged arch for the benefit of barge traffic."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Teston_Bridge_Country_Park_-_geograph.org.uk_-_1266226.jpg",
-      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Entrance to the country park with the car park in the background."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/River_Medway_from_Teston_weir_-_geograph.org.uk_-_1117431.jpg",
-      "title": "Jane Gilbert / River Medway from Teston weir",
-      "caption": "A view of the River Medway whilst standing next to the weir in the park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Swans_and_boats_on_the_River_Medway_east_of_Bow_bridge%2C_Wateringbury_-_geograph.org.uk_-_1267081.jpg",
-      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Swans and boats on the River Medway east of Bow bridge, Wateringbury"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cattle_grazing_at_Teston_-_geograph.org.uk_-_534307.jpg",
-      "title": "Kevin Reynolds / Cattle grazing at Teston",
-      "caption": "Cattle conservation grazing at Teston Bridge Picnic site, at Kent County Council run park west of Maidstone. They are Shetland highland breed."
-    }
-  ],
-  "distance_km": 4.5,
-  "description": "This country park is set around the picturesque 14th century Teston Bridge on the banks of the River Medway in Teston, near Maidstone. A variety of wildlife can be spotted here \u2013 look out for otters which can be seen along the river. The circular walk starts at the car park next to Teston Bridge and heads along the river to the village of Wateringbury, before crossing the River and returning to the start point on the opposite side.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "You can easily extend your walking on the waymarked Medway Valley Walk. The Wateringbury River Walk and Yalding River Walk both use part of the trail to create circular walks through the area. You could also head into Maidstone and try the Maidstone River Walk. For more walking ideas in the area see the Kent Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/oR-Y6mEWzPU",
-  "postcode": "ME15 0NF",
-  "county": "Kent",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Teston Lane, Teston, Maidstone, Kent, England, ME15 0NF, United Kingdom",
-  "district": "Maidstone",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "riverbank"
-  ],
-  "points_of_interest": [
-    "historical site"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_River_Medway_from_Teston_Bridge_-_geograph.org.uk_-_1758584.jpg",
+            "title": "Nick Smith / The River Medway from Teston Bridge",
+            "caption": "The River Medway from Teston Bridge. Note the pedestrian 'refuge', one of several along this narrow bridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Teston_Bridge_-_geograph.org.uk_-_779684.jpg",
+            "title": "Colin Smith / Teston Bridge",
+            "caption": "Teston Bridge. Medieval stone bridge over the River Medway. Note the enlarged arch for the benefit of barge traffic."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Teston_Bridge_Country_Park_-_geograph.org.uk_-_1266226.jpg",
+            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Entrance to the country park with the car park in the background."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/River_Medway_from_Teston_weir_-_geograph.org.uk_-_1117431.jpg",
+            "title": "Jane Gilbert / River Medway from Teston weir",
+            "caption": "A view of the River Medway whilst standing next to the weir in the park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Swans_and_boats_on_the_River_Medway_east_of_Bow_bridge%2C_Wateringbury_-_geograph.org.uk_-_1267081.jpg",
+            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Swans and boats on the River Medway east of Bow bridge, Wateringbury"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cattle_grazing_at_Teston_-_geograph.org.uk_-_534307.jpg",
+            "title": "Kevin Reynolds / Cattle grazing at Teston",
+            "caption": "Cattle conservation grazing at Teston Bridge Picnic site, at Kent County Council run park west of Maidstone. They are Shetland highland breed."
+        }
+    ],
+    "distance_km": 4.5,
+    "description": "This country park is set around the picturesque 14th century Teston Bridge on the banks of the River Medway in Teston, near Maidstone. A variety of wildlife can be spotted here \u2013 look out for otters which can be seen along the river. The circular walk starts at the car park next to Teston Bridge and heads along the river to the village of Wateringbury, before crossing the River and returning to the start point on the opposite side.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "You can easily extend your walking on the waymarked Medway Valley Walk. The Wateringbury River Walk and Yalding River Walk both use part of the trail to create circular walks through the area. You could also head into Maidstone and try the Maidstone River Walk. For more walking ideas in the area see the Kent Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/oR-Y6mEWzPU",
+    "postcode": "ME15 0NF",
+    "county": "Kent",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Teston Lane, Teston, Maidstone, Kent, England, ME15 0NF, United Kingdom",
+    "district": "Maidstone",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["riverbank"],
+    "points_of_interest": ["historical site"],
+    "facilities": ["car park"],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

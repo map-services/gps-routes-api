@@ -1,122 +1,112 @@
 {
-  "created_at": "2025-01-06T10:36:46.524376+00:00",
-  "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
-  "ref": "urquhart-castle-walking-route",
-  "title": "Urquhart Castle Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urquhart_Castle_-_geograph.org.uk_-_1936169.jpg",
-  "nearby": [
-    {
-      "description": "Loch Ness",
-      "objectID": "dc49d24d3791e41f770e85bff9835181",
-      "ref": "loch-ness-walking-and-cycle-route"
+    "created_at": "2025-01-06T10:36:46.524376+00:00",
+    "objectID": "9bdfcf11431a43b61b7bc4530ebaec80",
+    "ref": "urquhart-castle-walking-route",
+    "title": "Urquhart Castle Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urquhart_Castle_-_geograph.org.uk_-_1936169.jpg",
+    "nearby": [
+        {
+            "description": "Loch Ness",
+            "objectID": "dc49d24d3791e41f770e85bff9835181",
+            "ref": "loch-ness-walking-and-cycle-route"
+        },
+        {
+            "description": "Fort William to Fort Augustus",
+            "objectID": "b7ff84a69d9be3368b194dd3c37e7faa",
+            "ref": "fort-william-to-fort-augustus-cycle-route"
+        },
+        {
+            "description": "Great Glen Way",
+            "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
+            "ref": "great-glen-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Abriachan Forest",
+            "objectID": "b8d7251a10996e2003a5333af3745ae7",
+            "ref": "abriachan-forest-walking-route"
+        },
+        {
+            "description": "Dores Beach",
+            "objectID": "18675c2039efd4bcb066b3830ca1c014",
+            "ref": "dores-beach-walking-route"
+        },
+        {
+            "description": "Loch Duntelchaig",
+            "objectID": "a64789ee55d0707936bec88febbdb542",
+            "ref": "loch-duntelchaig-walking-route"
+        },
+        {
+            "description": "Loch Ruthven",
+            "objectID": "404fdf3c3f9ef74d81137209a609afb2",
+            "ref": "loch-ruthven-walking-route"
+        },
+        {
+            "description": "Culloden Battlefield",
+            "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
+            "ref": "culloden-battlefield-walking-route"
+        },
+        {
+            "description": "Affric Kintail Way",
+            "objectID": "d6544e157d17595eb9c87b8811f6635b",
+            "ref": "affric-kintail-way-walking-and-cycle-route"
+        },
+        {
+            "description": "Caledonia Way",
+            "objectID": "54829c63f65d46df58c0c9c92d922218",
+            "ref": "caledonia-way-cycle-route"
+        },
+        {
+            "description": "Loch Ashie",
+            "objectID": "9f553ccf48f1bc182e9c9972208e9183",
+            "ref": "loch-ashie-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9bdfcf11431a43b61b7bc4530ebaec80.gpx",
+    "_geoloc": {
+        "lat": 57.3237981846,
+        "lng": -4.4450770936
     },
-    {
-      "description": "Fort William to Fort Augustus",
-      "objectID": "b7ff84a69d9be3368b194dd3c37e7faa",
-      "ref": "fort-william-to-fort-augustus-cycle-route"
-    },
-    {
-      "description": "Great Glen Way",
-      "objectID": "b94ae1a45d71491d745f5c4e27b02dd1",
-      "ref": "great-glen-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Abriachan Forest",
-      "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan\u00a0forest-walking-route"
-    },
-    {
-      "description": "Dores Beach",
-      "objectID": "18675c2039efd4bcb066b3830ca1c014",
-      "ref": "dores-beach-walking-route"
-    },
-    {
-      "description": "Loch Duntelchaig",
-      "objectID": "a64789ee55d0707936bec88febbdb542",
-      "ref": "loch-duntelchaig-walking-route"
-    },
-    {
-      "description": "Loch Ruthven",
-      "objectID": "404fdf3c3f9ef74d81137209a609afb2",
-      "ref": "loch-ruthven-walking-route"
-    },
-    {
-      "description": "Culloden Battlefield",
-      "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
-      "ref": "culloden-battlefield-walking-route"
-    },
-    {
-      "description": "Affric Kintail Way",
-      "objectID": "d6544e157d17595eb9c87b8811f6635b",
-      "ref": "affric-kintail-way-walking-and-cycle-route"
-    },
-    {
-      "description": "Caledonia Way",
-      "objectID": "54829c63f65d46df58c0c9c92d922218",
-      "ref": "caledonia-way-cycle-route"
-    },
-    {
-      "description": "Loch Ashie",
-      "objectID": "9f553ccf48f1bc182e9c9972208e9183",
-      "ref": "loch-ashie-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9bdfcf11431a43b61b7bc4530ebaec80.gpx",
-  "_geoloc": {
-    "lat": 57.3237981846,
-    "lng": -4.4450770936
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urquhart_Castle_-_geograph.org.uk_-_1936169.jpg",
-      "title": "Urquhart Castle by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Urquhart Castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Trebuchet_at_Urquhart_Castle_-_geograph.org.uk_-_2419973.jpg",
-      "title": "Trebuchet at Urquhart Castle by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Trebuchet at Urquhart Castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_grounds_of_Urquhart_Castle_as_seen_from_the_castle_-_geograph.org.uk_-_2423467.jpg",
-      "title": "The grounds of Urquhart Castle as seen from the castle by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The grounds of Urquhart Castle as seen from the castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Jacobite_Queen_berthing_at_Urquhart_Castle%2C_Loch_Ness_-_geograph.org.uk_-_2419937.jpg",
-      "title": "The Jacobite Queen berthing at Urquhart Castle, Loch Ness by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Jacobite Queen berthing at Urquhart Castle, Loch Ness"
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "This photogenic ruined castle sits on the western side of Loch Ness, near to the village of Lewiston. The castle dates back to the 13th to the 16th centuries. It has an interesting history having played a part in the Wars of Scottish Independence in the 14th century. It's a lovely place for a stroll with nice surfaced footpaths and steps to take you around the ruins. All the while there are splendid views over the famous loch to enjoy. You can start the walk from the car parking area where you will also find the Lochview cafe. The cafe is a nice place to enjoy some refreshment after your exercise. You can continue your walking around the castle by heading north to explore the Abriachan Forest where you'll find miles of peaceful woodland trails. Just to the west there's the village of Drumnadrochit where you can pick up the Affric Kintail Way. The long distance trail can be followed west to visit the wonderful Glen Urquhart.",
-  "details": [],
-  "video_url": "https://www.youtube.com/embed/072_WOAYFg8",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Urquhart Castle Drive, Strone, Highland, Alba / Scotland, IV63 6XL, United Kingdom",
-  "postcode": "IV63 6XL",
-  "district": null,
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "less than 1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [
-    "car park",
-    "cafe"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urquhart_Castle_-_geograph.org.uk_-_1936169.jpg",
+            "title": "Urquhart Castle by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Urquhart Castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Trebuchet_at_Urquhart_Castle_-_geograph.org.uk_-_2419973.jpg",
+            "title": "Trebuchet at Urquhart Castle by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Trebuchet at Urquhart Castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_grounds_of_Urquhart_Castle_as_seen_from_the_castle_-_geograph.org.uk_-_2423467.jpg",
+            "title": "The grounds of Urquhart Castle as seen from the castle by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The grounds of Urquhart Castle as seen from the castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Jacobite_Queen_berthing_at_Urquhart_Castle%2C_Loch_Ness_-_geograph.org.uk_-_2419937.jpg",
+            "title": "The Jacobite Queen berthing at Urquhart Castle, Loch Ness by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Jacobite Queen berthing at Urquhart Castle, Loch Ness"
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "This photogenic ruined castle sits on the western side of Loch Ness, near to the village of Lewiston. The castle dates back to the 13th to the 16th centuries. It has an interesting history having played a part in the Wars of Scottish Independence in the 14th century. It's a lovely place for a stroll with nice surfaced footpaths and steps to take you around the ruins. All the while there are splendid views over the famous loch to enjoy. You can start the walk from the car parking area where you will also find the Lochview cafe. The cafe is a nice place to enjoy some refreshment after your exercise. You can continue your walking around the castle by heading north to explore the Abriachan Forest where you'll find miles of peaceful woodland trails. Just to the west there's the village of Drumnadrochit where you can pick up the Affric Kintail Way. The long distance trail can be followed west to visit the wonderful Glen Urquhart.",
+    "details": [],
+    "video_url": "https://www.youtube.com/embed/072_WOAYFg8",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Urquhart Castle Drive, Strone, Highland, Alba / Scotland, IV63 6XL, United Kingdom",
+    "postcode": "IV63 6XL",
+    "district": null,
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "less than 1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "viewpoint"],
+    "facilities": ["car park", "cafe"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

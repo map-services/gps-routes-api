@@ -1,147 +1,135 @@
 {
-  "created_at": "2025-01-06T00:44:18.307067+00:00",
-  "objectID": "17c95880d1cfa2903cab2234da907530",
-  "ref": "elslack-reservoir-walking-route",
-  "title": "Elslack\u00a0Reservoir Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elslack_Reservoir_06.jpg/330px-Elslack_Reservoir_06.jpg",
-  "nearby": [
-    {
-      "description": "Barnoldswick Canal Walk",
-      "objectID": "b3f276a59594a98beefed79e92340abc",
-      "ref": "barnoldswick-canal-walk-walking-route"
+    "created_at": "2025-01-06T00:44:18.307067+00:00",
+    "objectID": "17c95880d1cfa2903cab2234da907530",
+    "ref": "elslack-reservoir-walking-route",
+    "title": "Elslack Reservoir Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elslack_Reservoir_06.jpg/330px-Elslack_Reservoir_06.jpg",
+    "nearby": [
+        {
+            "description": "Barnoldswick Canal Walk",
+            "objectID": "b3f276a59594a98beefed79e92340abc",
+            "ref": "barnoldswick-canal-walk-walking-route"
+        },
+        {
+            "description": "Pennine Way",
+            "objectID": "7e1568e78435cb4e0d45bf98831e2524",
+            "ref": "pennine-way-walking-route"
+        },
+        {
+            "description": "Skipton Canal",
+            "objectID": "df8f6462bb9007ff9a59befc5fa4f06b",
+            "ref": "skipton-canal-walking-route"
+        },
+        {
+            "description": "Leeds and Liverpool Canal",
+            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Gargrave",
+            "objectID": "cd9c5f6834f5f9d151843fbe0dfb5df2",
+            "ref": "gargrave-walking-route"
+        },
+        {
+            "description": "Foulridge Reservoir",
+            "objectID": "3797a757b37951ebdcd55c5cdc44b441",
+            "ref": "foulridge-reservoir-walking-route"
+        },
+        {
+            "description": "Weets Hill",
+            "objectID": "b451d3e2c4e76849b06fb31458983825",
+            "ref": "weets-hill-walking-route"
+        },
+        {
+            "description": "East Marton",
+            "objectID": "fc0612d6347e3ecb1e16b64a3e457746",
+            "ref": "east-marton-walking-route"
+        },
+        {
+            "description": "Sharp Haw",
+            "objectID": "03fc712a8498d7dce9e6a85125f52d23",
+            "ref": "sharp-haw-walking-route"
+        },
+        {
+            "description": "Colne",
+            "objectID": "1132cde9640474ab6e5041acd8c69392",
+            "ref": "colne-walking-route"
+        },
+        {
+            "description": "Lothersdale",
+            "objectID": "58081b302291c6636c72272fc19761fc",
+            "ref": "lothersdale-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17c95880d1cfa2903cab2234da907530.gpx",
+    "_geoloc": {
+        "lat": 53.9443261434,
+        "lng": -2.1136518728
     },
-    {
-      "description": "Pennine Way",
-      "objectID": "7e1568e78435cb4e0d45bf98831e2524",
-      "ref": "pennine-way-walking-route"
-    },
-    {
-      "description": "Skipton Canal",
-      "objectID": "df8f6462bb9007ff9a59befc5fa4f06b",
-      "ref": "skipton-canal-walking-route"
-    },
-    {
-      "description": "Leeds and Liverpool Canal",
-      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Gargrave",
-      "objectID": "cd9c5f6834f5f9d151843fbe0dfb5df2",
-      "ref": "gargrave-walking-route"
-    },
-    {
-      "description": "Foulridge Reservoir",
-      "objectID": "3797a757b37951ebdcd55c5cdc44b441",
-      "ref": "foulridge-reservoir-walking-route"
-    },
-    {
-      "description": "Weets Hill",
-      "objectID": "b451d3e2c4e76849b06fb31458983825",
-      "ref": "weets-hill-walking-route"
-    },
-    {
-      "description": "East Marton",
-      "objectID": "fc0612d6347e3ecb1e16b64a3e457746",
-      "ref": "east-marton-walking-route"
-    },
-    {
-      "description": "Sharp Haw",
-      "objectID": "03fc712a8498d7dce9e6a85125f52d23",
-      "ref": "sharp-haw-walking-route"
-    },
-    {
-      "description": "Colne",
-      "objectID": "1132cde9640474ab6e5041acd8c69392",
-      "ref": "colne-walking-route"
-    },
-    {
-      "description": "Lothersdale",
-      "objectID": "58081b302291c6636c72272fc19761fc",
-      "ref": "lothersdale-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17c95880d1cfa2903cab2234da907530.gpx",
-  "_geoloc": {
-    "lat": 53.9443261434,
-    "lng": -2.1136518728
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elslack_Reservoir_06.jpg/330px-Elslack_Reservoir_06.jpg",
-      "title": "Immanuel Giel, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Elslack Reservoir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Embankment_above_Elslack_Reservoir_-_geograph.org.uk_-_2274366.jpg/500px-Embankment_above_Elslack_Reservoir_-_geograph.org.uk_-_2274366.jpg",
-      "title": "Embankment above Elslack Reservoir by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Embankment above Elslack Reservoir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cruise_Bridge%2C_Elslack_-_geograph.org.uk_-_2273636.jpg/500px-Cruise_Bridge%2C_Elslack_-_geograph.org.uk_-_2273636.jpg",
-      "title": "Cruise Bridge, Elslack by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cruise Bridge, Elslack"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Elslack_Hall_Cottage.jpg/330px-Elslack_Hall_Cottage.jpg",
-      "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Elslack Hall Cottage"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/An_house_on_Elslack_Lane%2C_Elslack_-_geograph.org.uk_-_2967253.jpg",
-      "title": "An house on Elslack Lane, Elslack by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "An house on Elslack Lane, Elslack"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stories_House_-_geograph.org.uk_-_2274360.jpg/500px-Stories_House_-_geograph.org.uk_-_2274360.jpg",
-      "title": "Stories House by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Stories House"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Tempest_Arms%2C_Elslack_-_geograph.org.uk_-_2366835.jpg/500px-The_Tempest_Arms%2C_Elslack_-_geograph.org.uk_-_2366835.jpg",
-      "title": "The Tempest Arms, Elslack by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Tempest Arms."
-    }
-  ],
-  "distance_km": 5.5,
-  "description": "This circular walk visits Elslack Reservoir in North Yorkshire near Skipton. You can start the walk in Elslack village from the Tempest Arms where there's a good sized car park. Follow country lanes south from here and you will pass the ancient Burwen Castle Roman Fort and the old Elslack Hall. You continue south to Cooper House where you pick up a footpath heading east to visit the pretty reservoir. Here you can follow paths along the water before picking up alternative country lanes to take you back to the village and the pub. The pub dates from the 17th century and serves high quality dishes. It was named \"Pub of the Year\" in the 2011 Good Pub Guide. The Pennine Way runs to the west of the reservoir. To extend the walk you could pick it up and head west to visit Thornton-in-Craven.",
-  "details": [
-    {
-      "subtitle": "Dog Walking",
-      "content": "The country and woodland trails make for a fine dog walk. The Tempest Arms mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Just to the west is the Lancashire village of Barnoldswick where you can pick up the Barnoldswick Canal Walk and enjoy an easy stroll along the Leeds and Liverpool Canal. A few miles to the north west there's Sutton in Craven where you can enjoy a climb to Lund's Tower and Wainman's Pinnacle. Known locally as the Salt and Pepper Pots there's fine views over the area from the elevated position of the monuments. Just to the south is the town of Earby where you can visit the delightful Earby Waterfalls on the Wencliffe Brook. Near here is Lothersdale where you can enjoy a climb to Pinhaw Beacon for some excellent views of the area. The village also includes a historic pub worthy of some investigation."
-    }
-  ],
-  "postcode": "BD23 3AX",
-  "district": "Elslack",
-  "county": "North Yorkshire",
-  "region": "York and North Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Elslack Lane, Elslack, North Yorkshire, York and North Yorkshire, England, BD23 3AX, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "fort"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "dog walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elslack_Reservoir_06.jpg/330px-Elslack_Reservoir_06.jpg",
+            "title": "Immanuel Giel, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "Elslack Reservoir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Embankment_above_Elslack_Reservoir_-_geograph.org.uk_-_2274366.jpg/500px-Embankment_above_Elslack_Reservoir_-_geograph.org.uk_-_2274366.jpg",
+            "title": "Embankment above Elslack Reservoir by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Embankment above Elslack Reservoir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cruise_Bridge%2C_Elslack_-_geograph.org.uk_-_2273636.jpg/500px-Cruise_Bridge%2C_Elslack_-_geograph.org.uk_-_2273636.jpg",
+            "title": "Cruise Bridge, Elslack by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cruise Bridge, Elslack"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Elslack_Hall_Cottage.jpg/330px-Elslack_Hall_Cottage.jpg",
+            "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Elslack Hall Cottage"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/An_house_on_Elslack_Lane%2C_Elslack_-_geograph.org.uk_-_2967253.jpg",
+            "title": "An house on Elslack Lane, Elslack by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "An house on Elslack Lane, Elslack"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stories_House_-_geograph.org.uk_-_2274360.jpg/500px-Stories_House_-_geograph.org.uk_-_2274360.jpg",
+            "title": "Stories House by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Stories House"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Tempest_Arms%2C_Elslack_-_geograph.org.uk_-_2366835.jpg/500px-The_Tempest_Arms%2C_Elslack_-_geograph.org.uk_-_2366835.jpg",
+            "title": "The Tempest Arms, Elslack by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Tempest Arms."
+        }
+    ],
+    "distance_km": 5.5,
+    "description": "This circular walk visits Elslack Reservoir in North Yorkshire near Skipton. You can start the walk in Elslack village from the Tempest Arms where there's a good sized car park. Follow country lanes south from here and you will pass the ancient Burwen Castle Roman Fort and the old Elslack Hall. You continue south to Cooper House where you pick up a footpath heading east to visit the pretty reservoir. Here you can follow paths along the water before picking up alternative country lanes to take you back to the village and the pub. The pub dates from the 17th century and serves high quality dishes. It was named \"Pub of the Year\" in the 2011 Good Pub Guide. The Pennine Way runs to the west of the reservoir. To extend the walk you could pick it up and head west to visit Thornton-in-Craven.",
+    "details": [
+        {
+            "subtitle": "Dog Walking",
+            "content": "The country and woodland trails make for a fine dog walk. The Tempest Arms mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Just to the west is the Lancashire village of Barnoldswick where you can pick up the Barnoldswick Canal Walk and enjoy an easy stroll along the Leeds and Liverpool Canal. A few miles to the north west there's Sutton in Craven where you can enjoy a climb to Lund's Tower and Wainman's Pinnacle. Known locally as the Salt and Pepper Pots there's fine views over the area from the elevated position of the monuments. Just to the south is the town of Earby where you can visit the delightful Earby Waterfalls on the Wencliffe Brook. Near here is Lothersdale where you can enjoy a climb to Pinhaw Beacon for some excellent views of the area. The village also includes a historic pub worthy of some investigation."
+        }
+    ],
+    "postcode": "BD23 3AX",
+    "district": "Elslack",
+    "county": "North Yorkshire",
+    "region": "York and North Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Elslack Lane, Elslack, North Yorkshire, York and North Yorkshire, England, BD23 3AX, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours",
+    "difficulty": "easy",
+    "terrain": ["woodland"],
+    "points_of_interest": ["historical site", "fort"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "dog walking"]
 }

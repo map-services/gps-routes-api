@@ -1,117 +1,107 @@
 {
-  "created_at": "2025-01-06T00:19:09.678778+00:00",
-  "objectID": "1c2c2c883e6c913ed752dd64b08b0679",
-  "ref": "chorley-canal-walk-walking-route",
-  "title": "Canal Walk Chorley Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giles%27_Bridge%2C_Heath_Charnock.jpg/500px-Giles%27_Bridge%2C_Heath_Charnock.jpg",
-  "nearby": [
-    {
-      "description": "Leeds and Liverpool Canal",
-      "objectID": "fa6cd622bb8bb404353c325eb4d48350",
-      "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+    "created_at": "2025-01-06T00:19:09.678778+00:00",
+    "objectID": "1c2c2c883e6c913ed752dd64b08b0679",
+    "ref": "chorley-canal-walk-walking-route",
+    "title": "Canal Walk Chorley Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giles%27_Bridge%2C_Heath_Charnock.jpg/500px-Giles%27_Bridge%2C_Heath_Charnock.jpg",
+    "nearby": [
+        {
+            "description": "Leeds and Liverpool Canal",
+            "objectID": "fa6cd622bb8bb404353c325eb4d48350",
+            "ref": "leeds-and-liverpool-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Adlington Circular Walk",
+            "objectID": "976b3109da7ba2a1b7e474ab638f20b9",
+            "ref": "adlington-circular-walk-walking-route"
+        },
+        {
+            "description": "Brinscall",
+            "objectID": "14b0afb57501731023cc69b869f18fee",
+            "ref": "brinscall-walking-route"
+        },
+        {
+            "description": "Abbey Village Reservoir",
+            "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
+            "ref": "abbey-village-reservoir-walking-route"
+        },
+        {
+            "description": "Withnell Nature Reserve",
+            "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
+            "ref": "withnell-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1c2c2c883e6c913ed752dd64b08b0679.gpx",
+    "_geoloc": {
+        "lat": 53.6561317652,
+        "lng": -2.6141221509
     },
-    {
-      "description": "Adlington Circular Walk",
-      "objectID": "976b3109da7ba2a1b7e474ab638f20b9",
-      "ref": "adlington-circular-walk-walking-route"
-    },
-    {
-      "description": "Brinscall",
-      "objectID": "14b0afb57501731023cc69b869f18fee",
-      "ref": "brinscall-walking-route"
-    },
-    {
-      "description": "Abbey Village Reservoir",
-      "objectID": "b3c4087a1fc255b1d8b207e0f0cd4d6f",
-      "ref": "abbey-village-reservoir-walking-route"
-    },
-    {
-      "description": "Withnell Nature Reserve",
-      "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1c2c2c883e6c913ed752dd64b08b0679.gpx",
-  "_geoloc": {
-    "lat": 53.6561317652,
-    "lng": -2.6141221509
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giles%27_Bridge%2C_Heath_Charnock.jpg/500px-Giles%27_Bridge%2C_Heath_Charnock.jpg",
-      "title": "Raymond Knapman [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Giles' Bridge, Heath Charnock"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/White_Bear_Marina%2C_on_the_Leeds_and_Liverpool_Canal%2C_Adlington%2C_Chorley%2C_Lancashire._-_geograph.org.uk_-_370555.jpg",
-      "title": "Mari Buckley [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "White Bear Marina, on the Leeds and Liverpool Canal, Adlington. 3 swans sail serenely past moored boats at White Bear Marina in Adlington."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_2779852.jpg",
-      "title": "Leeds and Liverpool Canal by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": ""
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Leeds_and_Liverpool_Canal%2C_Botany_Bay_-_geograph.org.uk_-_2779844.jpg",
-      "title": "Leeds and Liverpool Canal, Botany Bay by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Botany Bay"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Leeds_and_Liverpool_Canal_at_Cowling_-_geograph.org.uk_-_2763623.jpg/500px-The_Leeds_and_Liverpool_Canal_at_Cowling_-_geograph.org.uk_-_2763623.jpg",
-      "title": "The Leeds and Liverpool Canal at Cowling by Ian Greig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Cowling"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Canal_aqueduct%2C_Heath_Charnock.jpg/500px-Canal_aqueduct%2C_Heath_Charnock.jpg",
-      "title": "Plucas58, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Canal aqueduct, Heath Charnock"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bridge_abutment_for_dismantled_Ellerbeck_Colliery_Railway_-_geograph.org.uk_-_3931737.jpg/500px-Bridge_abutment_for_dismantled_Ellerbeck_Colliery_Railway_-_geograph.org.uk_-_3931737.jpg",
-      "title": "Bridge abutment for dismantled Ellerbeck Colliery Railway by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bridge abutment for dismantled Ellerbeck Colliery Railway. Cyclists on the path approaching Adlington."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Leeds_and_Liverpool_Canal%2C_Adlington_-_geograph.org.uk_-_2042517.jpg",
-      "title": "Leeds and Liverpool Canal, Adlington by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Adlington"
-    }
-  ],
-  "distance_km": 6.0,
-  "description": "Enjoy a waterside walk from Chorley to Adlington along a pleasant section of the Leeds and Liverpool Canal. It's about a 4 mile walk so perfect for an afternoon stroll. You can pick up the canal just to the east of the town centre. Then follow it south through Cowling and Heath Charnock before finishing at the pretty Adlington marina. The walk can be extended by continuing south toward Standish and Worthington Lakes, where there are three reservoirs and a nature reserve. Heading north along the canal will take you towards Blackburn. You could also continue your waterside walking by heading to Anglezarke Reservoir, just to the east of the canal.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "In Adlington you could try the Adlington Circular Walk which uses a section of the canal to explore the area around the village."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/GGPoN4f94b8",
-  "district": "Chorley",
-  "county": "Lancashire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Froom Street, Cowling, Chorley, Lancashire, England, PR6 9FF, United Kingdom",
-  "postcode": "PR6 9FF",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour 30 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "waterside"
-  ],
-  "points_of_interest": [
-    "marina",
-    "nature reserve",
-    "reservoir"
-  ],
-  "facilities": [
-    "pub/cafe"
-  ],
-  "route_type": "one-way",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giles%27_Bridge%2C_Heath_Charnock.jpg/500px-Giles%27_Bridge%2C_Heath_Charnock.jpg",
+            "title": "Raymond Knapman [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Giles' Bridge, Heath Charnock"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/White_Bear_Marina%2C_on_the_Leeds_and_Liverpool_Canal%2C_Adlington%2C_Chorley%2C_Lancashire._-_geograph.org.uk_-_370555.jpg",
+            "title": "Mari Buckley [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "White Bear Marina, on the Leeds and Liverpool Canal, Adlington. 3 swans sail serenely past moored boats at White Bear Marina in Adlington."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Leeds_and_Liverpool_Canal_-_geograph.org.uk_-_2779852.jpg",
+            "title": "Leeds and Liverpool Canal by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": ""
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Leeds_and_Liverpool_Canal%2C_Botany_Bay_-_geograph.org.uk_-_2779844.jpg",
+            "title": "Leeds and Liverpool Canal, Botany Bay by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Botany Bay"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Leeds_and_Liverpool_Canal_at_Cowling_-_geograph.org.uk_-_2763623.jpg/500px-The_Leeds_and_Liverpool_Canal_at_Cowling_-_geograph.org.uk_-_2763623.jpg",
+            "title": "The Leeds and Liverpool Canal at Cowling by Ian Greig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Cowling"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Canal_aqueduct%2C_Heath_Charnock.jpg/500px-Canal_aqueduct%2C_Heath_Charnock.jpg",
+            "title": "Plucas58, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Canal aqueduct, Heath Charnock"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bridge_abutment_for_dismantled_Ellerbeck_Colliery_Railway_-_geograph.org.uk_-_3931737.jpg/500px-Bridge_abutment_for_dismantled_Ellerbeck_Colliery_Railway_-_geograph.org.uk_-_3931737.jpg",
+            "title": "Bridge abutment for dismantled Ellerbeck Colliery Railway by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bridge abutment for dismantled Ellerbeck Colliery Railway. Cyclists on the path approaching Adlington."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Leeds_and_Liverpool_Canal%2C_Adlington_-_geograph.org.uk_-_2042517.jpg",
+            "title": "Leeds and Liverpool Canal, Adlington by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Adlington"
+        }
+    ],
+    "distance_km": 6.0,
+    "description": "Enjoy a waterside walk from Chorley to Adlington along a pleasant section of the Leeds and Liverpool Canal. It's about a 4 mile walk so perfect for an afternoon stroll. You can pick up the canal just to the east of the town centre. Then follow it south through Cowling and Heath Charnock before finishing at the pretty Adlington marina. The walk can be extended by continuing south toward Standish and Worthington Lakes, where there are three reservoirs and a nature reserve. Heading north along the canal will take you towards Blackburn. You could also continue your waterside walking by heading to Anglezarke Reservoir, just to the east of the canal.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "In Adlington you could try the Adlington Circular Walk which uses a section of the canal to explore the area around the village."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/GGPoN4f94b8",
+    "district": "Chorley",
+    "county": "Lancashire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Froom Street, Cowling, Chorley, Lancashire, England, PR6 9FF, United Kingdom",
+    "postcode": "PR6 9FF",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour 30 minutes",
+    "difficulty": "easy",
+    "terrain": ["waterside"],
+    "points_of_interest": ["marina", "nature reserve", "reservoir"],
+    "facilities": ["pub/cafe"],
+    "route_type": "one-way",
+    "activities": ["walking"]
 }

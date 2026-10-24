@@ -1,81 +1,72 @@
 {
-  "created_at": "2025-01-06T02:15:26.504515+00:00",
-  "objectID": "faaea933354a053c2e190599249e8970",
-  "ref": "killaspugbrone-loop-walking-route",
-  "title": "Strandhill\u00a0Killaspugbrone Loop Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beach_at_Strandhill_-_geograph.org.uk_-_1885.jpg?20100130005109",
-  "nearby": [
-    {
-      "description": "Knocknarea",
-      "objectID": "e0432a04212686748dceea785dad338f",
-      "ref": "knocknarea-walking-route"
+    "created_at": "2025-01-06T02:15:26.504515+00:00",
+    "objectID": "faaea933354a053c2e190599249e8970",
+    "ref": "killaspugbrone-loop-walking-route",
+    "title": "Strandhill Killaspugbrone Loop Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beach_at_Strandhill_-_geograph.org.uk_-_1885.jpg?20100130005109",
+    "nearby": [
+        {
+            "description": "Knocknarea",
+            "objectID": "e0432a04212686748dceea785dad338f",
+            "ref": "knocknarea-walking-route"
+        },
+        {
+            "description": "Lough Gill",
+            "objectID": "312f47d812a541329b8574cd2a947415",
+            "ref": "lough-gill-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/faaea933354a053c2e190599249e8970.gpx",
+    "_geoloc": {
+        "lat": 54.270595214,
+        "lng": -8.6073110534
     },
-    {
-      "description": "Lough Gill",
-      "objectID": "312f47d812a541329b8574cd2a947415",
-      "ref": "lough-gill-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/faaea933354a053c2e190599249e8970.gpx",
-  "_geoloc": {
-    "lat": 54.270595214,
-    "lng": -8.6073110534
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beach_at_Strandhill_-_geograph.org.uk_-_1885.jpg?20100130005109",
-      "title": "Michael Parry / Beach at Strandhill",
-      "caption": "Beach at Strandhill. The area is well known for surfing. Strandhill's surrounding areas include the mountain of Knocknarea, Coney Island, Culleenamore beach, and Dorrins Strand. Much of the terrain consists of marram-covered dunes, and the local council has had to undertake various measures throughout the years to combat coastal erosion."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Killaspugbrone_Church_-_geograph.org.uk_-_1471581.jpg?20110302120726",
-      "title": "Stephen Armstrong / Killaspugbrone Church",
-      "caption": "Killaspugbrone Church. The remains of the 11th or 12th Century Church on the North-West corner of the Strandhill Peninsula. One of the earliest churches in Sligo, it was founded by Bishop Br\u00f3n mac Icni (d. 512) a contemporary of St. Patrick. This church was a major pilgrimage site that contained a relic of St. Patrick known as the Fiacail P\u00e1draig, now in the National Museum of Ireland. According to Patricks biographer Tirech\u00e1n in his Collectanea, Patrick prophesied that the sea would force his heirs to move closer to the river Sligo, now the Garavoge. The present building dates to the 12th century. The church was the victim of Viking attack, perhaps the same expedition that assaulted Inishmurray. It is the subject of an ongoing preservation initiative by the Killaspugbrone Preservation Society."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Strandhill%2C_Sligo_-_geograph.org.uk_-_1634388.jpg?20110304175417",
-      "title": "Willie Duffin / Strandhill, Sligo",
-      "caption": "Strandhill, Sligo"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Knocknaree_near_Sligo_-_geograph.org.uk_-_1653405.jpg?20110304211703",
-      "title": "Joseph Mischyshyn / Knocknaree near Sligo",
-      "caption": "Knocknarea near Sligo"
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "This circular walk explores the coast and countryside around Sligo Airport in County Sligo. On the walk you can enjoy a stroll along Strandhill Beach and some lovely views over the water to Coney Island. To the south there's also great views of the nearby Knocknarea Mountain. Also look out for the photogenic ruins of the ancient Killaspugbrone Church on the northern side of the trail.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the south west there's more waterside walking around the lovely Lough Easkey in the Ox Mountains. There's a fine 6km waymarked loop to follow around the lake here.  To the east there's Lough Gill where there's some pleasant lakeside trails, woodland paths and lots of birds to look out for on the lough's islands. You can pick up the long distance Sligo Way here too."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/0QWzVdefxFg?si=Q4UJIYVGDNRKBEa0",
-  "gazetteer_found": false,
-  "nominatim_found": true,
-  "display_address": "Shore Road, Carrowbunnaun, Knockaree ED, Sligo Municipal Borough District, County Sligo, Connacht, F91 HH31, \u00c9ire / Ireland",
-  "postcode": "F91 HH31",
-  "district": null,
-  "county": "County Sligo",
-  "region": null,
-  "state": null,
-  "country": "\u00c9ire / Ireland",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours 40 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "countryside"
-  ],
-  "points_of_interest": [
-    "beach",
-    "historical site",
-    "viewpoint"
-  ],
-  "facilities": [],
-  "route_type": "circular",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beach_at_Strandhill_-_geograph.org.uk_-_1885.jpg?20100130005109",
+            "title": "Michael Parry / Beach at Strandhill",
+            "caption": "Beach at Strandhill. The area is well known for surfing. Strandhill's surrounding areas include the mountain of Knocknarea, Coney Island, Culleenamore beach, and Dorrins Strand. Much of the terrain consists of marram-covered dunes, and the local council has had to undertake various measures throughout the years to combat coastal erosion."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Killaspugbrone_Church_-_geograph.org.uk_-_1471581.jpg?20110302120726",
+            "title": "Stephen Armstrong / Killaspugbrone Church",
+            "caption": "Killaspugbrone Church. The remains of the 11th or 12th Century Church on the North-West corner of the Strandhill Peninsula. One of the earliest churches in Sligo, it was founded by Bishop Br\u00f3n mac Icni (d. 512) a contemporary of St. Patrick. This church was a major pilgrimage site that contained a relic of St. Patrick known as the Fiacail P\u00e1draig, now in the National Museum of Ireland. According to Patricks biographer Tirech\u00e1n in his Collectanea, Patrick prophesied that the sea would force his heirs to move closer to the river Sligo, now the Garavoge. The present building dates to the 12th century. The church was the victim of Viking attack, perhaps the same expedition that assaulted Inishmurray. It is the subject of an ongoing preservation initiative by the Killaspugbrone Preservation Society."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Strandhill%2C_Sligo_-_geograph.org.uk_-_1634388.jpg?20110304175417",
+            "title": "Willie Duffin / Strandhill, Sligo",
+            "caption": "Strandhill, Sligo"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Knocknaree_near_Sligo_-_geograph.org.uk_-_1653405.jpg?20110304211703",
+            "title": "Joseph Mischyshyn / Knocknaree near Sligo",
+            "caption": "Knocknarea near Sligo"
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "This circular walk explores the coast and countryside around Sligo Airport in County Sligo. On the walk you can enjoy a stroll along Strandhill Beach and some lovely views over the water to Coney Island. To the south there's also great views of the nearby Knocknarea Mountain. Also look out for the photogenic ruins of the ancient Killaspugbrone Church on the northern side of the trail.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the south west there's more waterside walking around the lovely Lough Easkey in the Ox Mountains. There's a fine 6km waymarked loop to follow around the lake here.  To the east there's Lough Gill where there's some pleasant lakeside trails, woodland paths and lots of birds to look out for on the lough's islands. You can pick up the long distance Sligo Way here too."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/0QWzVdefxFg?si=Q4UJIYVGDNRKBEa0",
+    "gazetteer_found": false,
+    "nominatim_found": true,
+    "display_address": "Shore Road, Carrowbunnaun, Knockaree ED, Sligo Municipal Borough District, County Sligo, Connacht, F91 HH31, \u00c9ire / Ireland",
+    "postcode": "F91 HH31",
+    "district": null,
+    "county": "County Sligo",
+    "region": null,
+    "state": null,
+    "country": "\u00c9ire / Ireland",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours 40 minutes",
+    "difficulty": "easy",
+    "terrain": ["coastal", "countryside"],
+    "points_of_interest": ["beach", "historical site", "viewpoint"],
+    "facilities": [],
+    "route_type": "circular",
+    "activities": ["walking"]
 }

@@ -58,7 +58,8 @@ COPY . .
 
 # Compile a statically-linked binary with the sqlite build tags (FTS5 via
 # sqlite_fts5 tag; R*Tree and haversine_distance() are Go-registered, no
-# external extension).  The -w -s flags strip debug info for a smaller binary.
+# external extension).  The -extldflags '-static' flag links the C SQLite
+# library into the binary so the runtime image needs no system libraries.
 RUN go build -tags "sqlite,sqlite_fts5" -ldflags="-w -s -extldflags '-static'" -o /gps-routes .
 
 # Seed /app/data/routes.db from the bundled sample backup.
@@ -78,8 +79,7 @@ FROM busybox:uclibc AS wget-src
 # ---------------------------------------------------------------------------
 FROM gcr.io/distroless/static
 
-ENV TZ=UTC \
-    GIN_MODE=release \
+ENV GIN_MODE=release \
     SQLITE_DB_PATH=/app/data/routes.db
 
 WORKDIR /app
@@ -87,6 +87,7 @@ WORKDIR /app
 # Binary + pre-seeded database (bind-mount to override with your own).
 COPY --from=build /gps-routes          /app/gps-routes
 COPY --from=build /src/data/routes.db   /app/data/routes.db
+COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 
 # Minimal wget for HEALTHCHECK only (~84 KB).  distroless has no shell, so
 # HEALTHCHECK uses CMD-SHELL is not available — we use CMD form instead.

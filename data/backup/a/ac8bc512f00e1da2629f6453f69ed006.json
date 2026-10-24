@@ -1,121 +1,112 @@
 {
-  "created_at": "2025-01-06T08:25:10.625315+00:00",
-  "objectID": "ac8bc512f00e1da2629f6453f69ed006",
-  "ref": "ardessie-falls-walking-route",
-  "title": "Ardessie\u00a0Falls Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg/330px-Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg",
-  "nearby": [
-    {
-      "description": "Beinn Eighe",
-      "objectID": "e9f55dad13a0230c0f85bdb12b72e04f",
-      "ref": "beinn-eighe-walking-route"
+    "created_at": "2025-01-06T08:25:10.625315+00:00",
+    "objectID": "ac8bc512f00e1da2629f6453f69ed006",
+    "ref": "ardessie-falls-walking-route",
+    "title": "Ardessie Falls Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg/330px-Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg",
+    "nearby": [
+        {
+            "description": "Beinn Eighe",
+            "objectID": "e9f55dad13a0230c0f85bdb12b72e04f",
+            "ref": "beinn-eighe-walking-route"
+        },
+        {
+            "description": "Corrieshalloch Gorge",
+            "objectID": "a3945951706c5165e323d07d220834b0",
+            "ref": "corrieshalloch-gorge-walking-route"
+        },
+        {
+            "description": "Loch Maree",
+            "objectID": "ff852e0f5650158187ae9511bf86893d",
+            "ref": "loch-maree-walking-route"
+        },
+        {
+            "description": "Ullapool",
+            "objectID": "83413709df1d2d4cc36b1889b8503e3c",
+            "ref": "ullapool-walking-route"
+        },
+        {
+            "description": "Poolewe",
+            "objectID": "385d3164a296c738c4f81dab6ca18c9f",
+            "ref": "poolewe-walking-route"
+        },
+        {
+            "description": "Loch Clair and Loch Coulin",
+            "objectID": "068b9881437742e2e413c578e683a3d5",
+            "ref": "loch-clair-and-loch-coulin-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ac8bc512f00e1da2629f6453f69ed006.gpx",
+    "_geoloc": {
+        "lat": 57.8531527549,
+        "lng": -5.2810695134
     },
-    {
-      "description": "Corrieshalloch Gorge",
-      "objectID": "a3945951706c5165e323d07d220834b0",
-      "ref": "corrieshalloch-gorge-walking-route"
-    },
-    {
-      "description": "Loch Maree",
-      "objectID": "ff852e0f5650158187ae9511bf86893d",
-      "ref": "loch-maree-walking-route"
-    },
-    {
-      "description": "Ullapool",
-      "objectID": "83413709df1d2d4cc36b1889b8503e3c",
-      "ref": "ullapool-walking-route"
-    },
-    {
-      "description": "Poolewe",
-      "objectID": "385d3164a296c738c4f81dab6ca18c9f",
-      "ref": "poolewe-walking-route"
-    },
-    {
-      "description": "Loch Clair and Loch Coulin",
-      "objectID": "068b9881437742e2e413c578e683a3d5",
-      "ref": "loch-clair-and-loch-coulin-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ac8bc512f00e1da2629f6453f69ed006.gpx",
-  "_geoloc": {
-    "lat": 57.8531527549,
-    "lng": -5.2810695134
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg/330px-Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg",
-      "title": "Ardessie Falls by sylvia duckworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ardessie Falls. A path from the A832 road along the shore of Little Loch Broom leads up the right bank of the Ardessie Burn to the Corbett Sail Mhor & views of the falls add interest to the climb. Apart from fine views over the loch a herd of wild goats are to be seen in this area."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Waterfalls%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_647989.jpg/330px-Waterfalls%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_647989.jpg",
-      "title": "Chris Eilbeck / Waterfalls, Allt Airdeasaidh",
-      "caption": "Waterfalls, Allt Airdeasaidh. Sail Mhor in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gorge_on_the_Ardessie_Burn_-_geograph.org.uk_-_2421895.jpg",
-      "title": "Gorge on the Ardessie Burn by Jonathan Venn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Gorge on the Ardessie Burn"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_west_bank_of_the_Ardessie_burn_-_geograph.org.uk_-_2421885.jpg",
-      "title": "The west bank of the Ardessie burn by Jonathan Venn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The west bank of the Ardessie burn with view back to Loch broom"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Allt_Airdeasaidh_-_geograph.org.uk_-_648066.jpg/330px-Allt_Airdeasaidh_-_geograph.org.uk_-_648066.jpg",
-      "title": "Chris Eilbeck / Allt Airdeasaidh",
-      "caption": "Allt Airdeasaidh. After the relatively flat upper reaches, the burn begins to carve a gorge down to Little Loch Broom at this point."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ardessie_Burn_and_Sgurr_Ruadh_-_geograph.org.uk_-_858595.jpg",
-      "title": "Rob Woodall / Ardessie Burn and Sgurr Ruadh",
-      "caption": "Ardessie Burn and Sgurr Ruadh. A very fine Graham Top, well worth a visit."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ardessie_Burn_and_Sail_Mhor_-_geograph.org.uk_-_858546.jpg",
-      "title": "Rob Woodall / Ardessie Burn and Sail Mhor",
-      "caption": "Sail Mhor. The Corbett seen from the path"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ruined_croft%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_648059.jpg",
-      "title": "Chris Eilbeck / Ruined croft, Allt Airdeasaidh",
-      "caption": "Ruined croft, Allt Airdeasaidh"
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "These delightful falls are located on the south western shore of Little Loch Broom in the Scottish Highlands near Dundonnell. The site is a real hidden gem with a walking trail taking you up to a series of picturesque waterfalls. You can start the walk from the parking area off the A832, just north of the falls. Then climb the footpath heading south along the Ardessie Burn gorge to the falls. It's a lovely spot with the rushing falls and fine views back to Loch Broom. The path can get quite wet and muddy so a good pair of walking shoes is advised, particularly after wet weather.",
-  "details": [
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head south west and you could visit Victoria Falls at Loch Maree. The climb to Beinn Eighe, the still waters of Loch Clair and Loch Coulin and the Gairloch Waterfall Walk in Flowerdale Glen are also in this area. Also nearby is the town of Ullapool where you can climb to the viewpoint at Ullapool Hill and catch the ferry over to Stornoway in the Outer Hebrides. Head west and you could visit the worthy village of Poolewe and enjoy a stroll around the beautiful Inverewe Garden. The lochside gardens are a lovely place for a stroll with some nice footpaths taking you to subtropical plants, fine lawns and beautiful flowers. You can also enjoy fine views over Loch Ewe in this scenic area. For more walking ideas in the area see the Scottish Highlands Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/upetb4ZZcW4",
-  "county": "Highland",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "A832, Ardessie, Dundonnell, Highland, Alba / Scotland, IV23 2QR, United Kingdom",
-  "postcode": "IV23 2QR",
-  "district": "Dundonnell",
-  "state": "Alba / Scotland",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "gorge"
-  ],
-  "points_of_interest": [
-    "waterfall",
-    "loch"
-  ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg/330px-Ardessie_Falls_-_geograph.org.uk_-_2470904.jpg",
+            "title": "Ardessie Falls by sylvia duckworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Ardessie Falls. A path from the A832 road along the shore of Little Loch Broom leads up the right bank of the Ardessie Burn to the Corbett Sail Mhor & views of the falls add interest to the climb. Apart from fine views over the loch a herd of wild goats are to be seen in this area."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Waterfalls%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_647989.jpg/330px-Waterfalls%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_647989.jpg",
+            "title": "Chris Eilbeck / Waterfalls, Allt Airdeasaidh",
+            "caption": "Waterfalls, Allt Airdeasaidh. Sail Mhor in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gorge_on_the_Ardessie_Burn_-_geograph.org.uk_-_2421895.jpg",
+            "title": "Gorge on the Ardessie Burn by Jonathan Venn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Gorge on the Ardessie Burn"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_west_bank_of_the_Ardessie_burn_-_geograph.org.uk_-_2421885.jpg",
+            "title": "The west bank of the Ardessie burn by Jonathan Venn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The west bank of the Ardessie burn with view back to Loch broom"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Allt_Airdeasaidh_-_geograph.org.uk_-_648066.jpg/330px-Allt_Airdeasaidh_-_geograph.org.uk_-_648066.jpg",
+            "title": "Chris Eilbeck / Allt Airdeasaidh",
+            "caption": "Allt Airdeasaidh. After the relatively flat upper reaches, the burn begins to carve a gorge down to Little Loch Broom at this point."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ardessie_Burn_and_Sgurr_Ruadh_-_geograph.org.uk_-_858595.jpg",
+            "title": "Rob Woodall / Ardessie Burn and Sgurr Ruadh",
+            "caption": "Ardessie Burn and Sgurr Ruadh. A very fine Graham Top, well worth a visit."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ardessie_Burn_and_Sail_Mhor_-_geograph.org.uk_-_858546.jpg",
+            "title": "Rob Woodall / Ardessie Burn and Sail Mhor",
+            "caption": "Sail Mhor. The Corbett seen from the path"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ruined_croft%2C_Allt_Airdeasaidh_-_geograph.org.uk_-_648059.jpg",
+            "title": "Chris Eilbeck / Ruined croft, Allt Airdeasaidh",
+            "caption": "Ruined croft, Allt Airdeasaidh"
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "These delightful falls are located on the south western shore of Little Loch Broom in the Scottish Highlands near Dundonnell. The site is a real hidden gem with a walking trail taking you up to a series of picturesque waterfalls. You can start the walk from the parking area off the A832, just north of the falls. Then climb the footpath heading south along the Ardessie Burn gorge to the falls. It's a lovely spot with the rushing falls and fine views back to Loch Broom. The path can get quite wet and muddy so a good pair of walking shoes is advised, particularly after wet weather.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head south west and you could visit Victoria Falls at Loch Maree. The climb to Beinn Eighe, the still waters of Loch Clair and Loch Coulin and the Gairloch Waterfall Walk in Flowerdale Glen are also in this area. Also nearby is the town of Ullapool where you can climb to the viewpoint at Ullapool Hill and catch the ferry over to Stornoway in the Outer Hebrides. Head west and you could visit the worthy village of Poolewe and enjoy a stroll around the beautiful Inverewe Garden. The lochside gardens are a lovely place for a stroll with some nice footpaths taking you to subtropical plants, fine lawns and beautiful flowers. You can also enjoy fine views over Loch Ewe in this scenic area. For more walking ideas in the area see the Scottish Highlands Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/upetb4ZZcW4",
+    "county": "Highland",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "A832, Ardessie, Dundonnell, Highland, Alba / Scotland, IV23 2QR, United Kingdom",
+    "postcode": "IV23 2QR",
+    "district": "Dundonnell",
+    "state": "Alba / Scotland",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["gorge"],
+    "points_of_interest": ["waterfall", "loch"],
+    "facilities": ["car park"],
+    "route_type": "out and back",
+    "activities": ["walking"]
 }

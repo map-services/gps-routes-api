@@ -115,10 +115,14 @@ func (d *SQLiteDialect) BuildFacetQuery(facetField string, unnest bool) string {
 }
 
 func (d *SQLiteDialect) BuildPrefixQuery(query string) string {
-	// FTS5 prefix search uses '*' at the end of words.
+	// FTS5 prefix search uses '*' at the end of words. Each word is wrapped in
+	// double quotes so that special characters (e.g. apostrophes in "Randolph's")
+	// are treated as literal text rather than FTS5 syntax. Any embedded double
+	// quotes are escaped as "" per the FTS5 specification.
 	words := strings.Split(query, " ")
 	for i, word := range words {
-		words[i] = word + "*"
+		escaped := strings.ReplaceAll(word, `"`, `""`)
+		words[i] = `"` + escaped + `"*`
 	}
 	return strings.Join(words, " ")
 }

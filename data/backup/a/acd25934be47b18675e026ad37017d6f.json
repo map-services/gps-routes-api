@@ -1,0 +1,75 @@
+{
+  "created_at": "2026-10-22T21:57:04.072291+00:00",
+  "objectID": "acd25934be47b18675e026ad37017d6f",
+  "ref": "staverton-riverside-walk",
+  "title": "Staverton Riverside Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Staverton_Bridge_and_Mill_-_geograph.org.uk_-_4338128.jpg/500px-Staverton_Bridge_and_Mill_-_geograph.org.uk_-_4338128.jpg?20230127211550",
+  "nearby": [
+    {
+      "description": "Dartington",
+      "objectID": "dce9a13fa011b39412e6a90938d1cf27",
+      "ref": "dartington-walking-route"
+    },
+    {
+      "description": "Totnes River Walk",
+      "objectID": "aef271cd17d3396197255c8e2b5e90f5",
+      "ref": "totnes-river-walk-walking-route"
+    },
+    {
+      "description": "Totnes to Dartington Walk",
+      "objectID": "aedf6ee91774814d6060bd14427fb266",
+      "ref": "totnes-to-dartington-walk"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/acd25934be47b18675e026ad37017d6f.gpx",
+  "_geoloc": {
+    "lat": 50.4640176061,
+    "lng": -3.7002637875
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Staverton_Bridge_and_Mill_-_geograph.org.uk_-_4338128.jpg",
+      "title": "Staverton Bridge and Mill by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Staverton Bridge and Mill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Railway_bridge%2C_across_mill_stream%2C_east_of_Staverton_-_geograph.org.uk_-_1237474.jpg?20110226140406",
+      "title": "Roger Cornfoot / Railway bridge, across mill stream, east of Staverton",
+      "caption": "Railway bridge, across mill stream, east of Staverton"
+    }
+  ],
+  "distance_km": 6.3,
+  "description": "This riverside walk takes you along the River Dart from the village of Staverton in Devon. The pretty village is located near Totnes and includes a 14th century church, a local pub and an interesting old mill and bridge on the river. Starting from the village you head west to Staverton Bridge and Staverton Station. Here you will pass the photogenic mill and cross to the southern side of the river. You can then follow a footpath east and south along the Dart to the Dartington Hall Estate. The historic estate includes hundreds of acres of parkland with beautiful gardens, riverside paths and peaceful woodland trails.",
+  "details": [],
+  "district": "South Hams",
+  "county": "Devon",
+  "region": "Devon and Torbay",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "church",
+    "mill",
+    "bridge",
+    "historic estate",
+    "gardens"
+  ],
+  "facilities": [
+    "pub",
+    "car park"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ],
+  "nominatim_found": true,
+  "display_address": "Eight Trees, Waddons, Staverton, South Hams, Devon, Devon and Torbay, England, TQ9 6PA, United Kingdom",
+  "postcode": "TQ9 6PA",
+  "state": "England"
+}

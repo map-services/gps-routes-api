@@ -1,150 +1,135 @@
 {
-  "created_at": "2025-01-06T01:23:55.571693+00:00",
-  "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
-  "ref": "otley-chevin-country-park-walking-and-cycle-route",
-  "title": "Otley Chevin Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Otley_Chevin_-_geograph.org.uk_-_846761.jpg",
-  "nearby": [
-    {
-      "description": "Lindley Wood Reservoir",
-      "objectID": "50596b8bdef83bc09cc4db26480f90e1",
-      "ref": "lindley-wood-reservoir-walking-route"
+    "created_at": "2025-01-06T01:23:55.571693+00:00",
+    "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
+    "ref": "otley-chevin-country-park-walking-and-cycle-route",
+    "title": "Otley Chevin Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Otley_Chevin_-_geograph.org.uk_-_846761.jpg",
+    "nearby": [
+        {
+            "description": "Lindley Wood Reservoir",
+            "objectID": "50596b8bdef83bc09cc4db26480f90e1",
+            "ref": "lindley-wood-reservoir-walking-route"
+        },
+        {
+            "description": "Ebor Way",
+            "objectID": "460b6eaefa835488435e3937ef49f82d",
+            "ref": "ebor-way-walking-route"
+        },
+        {
+            "description": "Dales Way",
+            "objectID": "605d1dad48e02d248ecb985988bc777c",
+            "ref": "dales-way-walking-route"
+        },
+        {
+            "description": "Otley River Walk",
+            "objectID": "d62190b41b6ce072a540c7061bfab740",
+            "ref": "otley-river-walk-walking-route"
+        },
+        {
+            "description": "Yeadon Tarn",
+            "objectID": "2ebe6d22597311683a42787e9f2a00a5",
+            "ref": "yeadon-tarn-walking-route"
+        },
+        {
+            "description": "Bramhope Circular Walk",
+            "objectID": "92db58509fbf02bce01773b1ac141c54",
+            "ref": "bramhope-circular-walk-walking-route"
+        },
+        {
+            "description": "Golden Acre Park",
+            "objectID": "d27c64ca7932039e76dd8c3974f6df30",
+            "ref": "golden-acre-park-walking-route"
+        },
+        {
+            "description": "Eccup Reservoir",
+            "objectID": "2130206e2be82a193be607b5b2b02a8b",
+            "ref": "eccup-reservoir-walking-route"
+        },
+        {
+            "description": "Adel Woods",
+            "objectID": "684f34bab03b4788d68e95ec09d0c762",
+            "ref": "adel-woods-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e0ca252bcc6bb8fe1ff7c58abfaf5463.gpx",
+    "_geoloc": {
+        "lat": 53.8962699914,
+        "lng": -1.6785700825
     },
-    {
-      "description": "Ebor Way",
-      "objectID": "460b6eaefa835488435e3937ef49f82d",
-      "ref": "ebor-way-walking-route"
-    },
-    {
-      "description": "Dales Way",
-      "objectID": "605d1dad48e02d248ecb985988bc777c",
-      "ref": "dales-way-walking-route"
-    },
-    {
-      "description": "Otley River Walk",
-      "objectID": "d62190b41b6ce072a540c7061bfab740",
-      "ref": "otley-river-walk-walking-route"
-    },
-    {
-      "description": "Yeadon Tarn",
-      "objectID": "2ebe6d22597311683a42787e9f2a00a5",
-      "ref": "yeadon-tarn-walking-route"
-    },
-    {
-      "description": "Bramhope Circular Walk",
-      "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope\u00a0circular-walk-walking-route"
-    },
-    {
-      "description": "Golden Acre Park",
-      "objectID": "d27c64ca7932039e76dd8c3974f6df30",
-      "ref": "golden-acre-park-walking-route"
-    },
-    {
-      "description": "Eccup Reservoir",
-      "objectID": "2130206e2be82a193be607b5b2b02a8b",
-      "ref": "eccup-reservoir-walking-route"
-    },
-    {
-      "description": "Adel Woods",
-      "objectID": "684f34bab03b4788d68e95ec09d0c762",
-      "ref": "adel-woods-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e0ca252bcc6bb8fe1ff7c58abfaf5463.gpx",
-  "_geoloc": {
-    "lat": 53.8962699914,
-    "lng": -1.6785700825
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Otley_Chevin_-_geograph.org.uk_-_846761.jpg",
-      "title": "Dr Neil Clifton / Otley Chevin",
-      "caption": "On the rocks at Otley Chevin"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Woodland_on_Otley_Chevin_-_geograph.org.uk_-_260336.jpg",
-      "title": "John Illingworth / Woodland on Otley Chevin",
-      "caption": "Woodland on Otley Chevin. Taken from the Dales Way link path."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ramblers_Tea_Rooms%2C_Otley_Chevin_-_geograph.org.uk_-_747275.jpg",
-      "title": "John Sparshatt / Ramblers Tea Rooms, Otley Chevin",
-      "caption": "Ramblers Tea Rooms. A welcome break after a walk on the hill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rocks%2C_Chevin_Country_Park%2C_Otley_-_geograph.org.uk_-_177631.jpg",
-      "title": "Humphrey Bolton / Rocks, Chevin Country Park, Otley",
-      "caption": "Rocks, Chevin Country Park, Otley"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Birches%2C_Chevin_Country_Park%2C_Otley_-_geograph.org.uk_-_177041.jpg",
-      "title": "Humphrey Bolton / Birches, Chevin Country Park, Otley",
-      "caption": "These birches have presumably been thinned out, as they are often seen growing much closer together when they colonise unused ground. Their small leaves let plenty of light through so that there is a thick carpet of grass."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chevin_Forest_Park%2C_Otley_-_geograph.org.uk_-_365317.jpg",
-      "title": "michael ely / Chevin Forest Park, Otley",
-      "caption": "Otley Interpretation Board for the Dales Way long distance footpath near the car park off East Chevin Road."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Surprise_View%2C_Otley_Chevin_-_geograph.org.uk_-_4547099.jpg?20230322064239",
-      "title": "Surprise View, Otley Chevin by Paul Harrop, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Surprise View. The highest point of the Chevin is often thought to be Surprise View; however, it is actually Beacon Hill near Yorkgate Quarry, reaching 283 metres (928 ft) at grid reference SE199441, which used to host a trig point. Surprise View is the more frequented summit of the Chevin, offering extensive views of Otley and Wharfedale, and features an adjacent car park. It is also the site of a cross erected every Easter since 1969. Parts of the Chevin, known as the Danefield Estate, belonged to landowner Walter Fawkes and his descendants. After World War II, these areas were donated to Otley Urban District Council as a memorial to those from the Wharfe Valley who lost their lives during the war."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevin_Geology_Trail_-_geograph.org.uk_-_2361081.jpg/500px-Chevin_Geology_Trail_-_geograph.org.uk_-_2361081.jpg?20210720051127",
-      "title": "Chevin Geology Trail by John Illingworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Chevin Geology Trail sculpture. This walk aims to explain the formation of the rocks and fossils of the Chevin and demonstrate how the area's landscape relates to the rock types and geological processes over the past 300 million years. Marker stones identify points where you can stop and read relevant information about the geological features, either in the leaflet or audio guide. Additional information can be found on the Interpretation Board at Surprise View. This geology trail has been established through a partnership between Leeds City Council, Friends of Chevin Forest, West Yorkshire Geology Trust, and Leeds Geological Association. The marker stones were provided by Blackhill Quarry in Bramhope and carved by local artist Shane Green."
-    }
-  ],
-  "distance_km": 8.0,
-  "description": "Enjoy cycling and walking trails in this super country park near Leeds. For walkers there are several self guided walking trails while cyclists can enjoy the many bridleways that run through the park. Otley Chevin rises to a height of 280m above sea level, offering fabulous views of the Wharfe Valley and town of Otley below. The park consists of woodland, heathland, meadowland and rocky outcrops. There is also an excellent visitor centre and cafe. This circular walk takes you through the woodland of Chevin Forest Park before climbing to the popular Suprise View. It's a wonderful spot with fine views to Lower Wharfedale, Almscliffe Crag and the Kilburn White Horse. If you would like to continue your walk then the Ebor Way and a link to the Dales Way run right through the park. In the town you could try our Otley River Walk which take you through some of the riverside parks and nature reserves located on the River Wharfe. Just to the north east of Otley you will find the pretty Lindley Wood Reservoir. There are nice footpaths along the River Washburn and the peaceful Lindley Wood to enjoy here.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Head to the Cheerfull Chilli for some refreshments after your walk. Here you'll find a fine selection of vegetarian food set in a stone-built rustic 2-floor cafe with a pretty garden and an outdoor courtyard. It's conveniently located right next to the car park."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The park is an excellent place to walk the dog. The cafe mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Head a couple of miles south of the park and you can enjoy an easy waterside stroll at the pretty Yeadon Tarn. There's also the noteworthy White Swan pub to be found nearby. The main draw here is a fantastic decked beer garden where there are views to the cricket ground. The Burley in Wharfedale Walk visits the viewpoint from the train station at the nearby settlement. The village itself is well worth exploring with a delightful village green and some historic old buildings on the Main Street. It's located just a few miles north west of the park. The Bramhope Circular Walk visits the popular Golden Acre Park and the expansive Eccup Reservoir from the nearby village. The attractive settlement is located just east of the park and can be reached by following the Ebor Way through Caley Deer Park. The attractive village also includes a fine 18th century pub which worthy of investigation. Just to the east you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy. For more walking ideas in the area see the Yorkshire Dales Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/fYLy8UI_7iM",
-  "region": "West Yorkshire",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "East Chevin Road, Cambridge Estate, Otley, West Yorkshire, England, LS21 3DD, United Kingdom",
-  "postcode": "LS21 3DD",
-  "district": "Otley",
-  "county": null,
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2 hours 40 minutes",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "heathland",
-    "meadowland",
-    "rocky outcrop"
-  ],
-  "points_of_interest": [
-    "viewpoint",
-    "historical site"
-  ],
-  "facilities": [
-    "cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Otley_Chevin_-_geograph.org.uk_-_846761.jpg",
+            "title": "Dr Neil Clifton / Otley Chevin",
+            "caption": "On the rocks at Otley Chevin"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Woodland_on_Otley_Chevin_-_geograph.org.uk_-_260336.jpg",
+            "title": "John Illingworth / Woodland on Otley Chevin",
+            "caption": "Woodland on Otley Chevin. Taken from the Dales Way link path."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ramblers_Tea_Rooms%2C_Otley_Chevin_-_geograph.org.uk_-_747275.jpg",
+            "title": "John Sparshatt / Ramblers Tea Rooms, Otley Chevin",
+            "caption": "Ramblers Tea Rooms. A welcome break after a walk on the hill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rocks%2C_Chevin_Country_Park%2C_Otley_-_geograph.org.uk_-_177631.jpg",
+            "title": "Humphrey Bolton / Rocks, Chevin Country Park, Otley",
+            "caption": "Rocks, Chevin Country Park, Otley"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Birches%2C_Chevin_Country_Park%2C_Otley_-_geograph.org.uk_-_177041.jpg",
+            "title": "Humphrey Bolton / Birches, Chevin Country Park, Otley",
+            "caption": "These birches have presumably been thinned out, as they are often seen growing much closer together when they colonise unused ground. Their small leaves let plenty of light through so that there is a thick carpet of grass."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chevin_Forest_Park%2C_Otley_-_geograph.org.uk_-_365317.jpg",
+            "title": "michael ely / Chevin Forest Park, Otley",
+            "caption": "Otley Interpretation Board for the Dales Way long distance footpath near the car park off East Chevin Road."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Surprise_View%2C_Otley_Chevin_-_geograph.org.uk_-_4547099.jpg?20230322064239",
+            "title": "Surprise View, Otley Chevin by Paul Harrop, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Surprise View. The highest point of the Chevin is often thought to be Surprise View; however, it is actually Beacon Hill near Yorkgate Quarry, reaching 283 metres (928 ft) at grid reference SE199441, which used to host a trig point. Surprise View is the more frequented summit of the Chevin, offering extensive views of Otley and Wharfedale, and features an adjacent car park. It is also the site of a cross erected every Easter since 1969. Parts of the Chevin, known as the Danefield Estate, belonged to landowner Walter Fawkes and his descendants. After World War II, these areas were donated to Otley Urban District Council as a memorial to those from the Wharfe Valley who lost their lives during the war."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevin_Geology_Trail_-_geograph.org.uk_-_2361081.jpg/500px-Chevin_Geology_Trail_-_geograph.org.uk_-_2361081.jpg?20210720051127",
+            "title": "Chevin Geology Trail by John Illingworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Chevin Geology Trail sculpture. This walk aims to explain the formation of the rocks and fossils of the Chevin and demonstrate how the area's landscape relates to the rock types and geological processes over the past 300 million years. Marker stones identify points where you can stop and read relevant information about the geological features, either in the leaflet or audio guide. Additional information can be found on the Interpretation Board at Surprise View. This geology trail has been established through a partnership between Leeds City Council, Friends of Chevin Forest, West Yorkshire Geology Trust, and Leeds Geological Association. The marker stones were provided by Blackhill Quarry in Bramhope and carved by local artist Shane Green."
+        }
+    ],
+    "distance_km": 8.0,
+    "description": "Enjoy cycling and walking trails in this super country park near Leeds. For walkers there are several self guided walking trails while cyclists can enjoy the many bridleways that run through the park. Otley Chevin rises to a height of 280m above sea level, offering fabulous views of the Wharfe Valley and town of Otley below. The park consists of woodland, heathland, meadowland and rocky outcrops. There is also an excellent visitor centre and cafe. This circular walk takes you through the woodland of Chevin Forest Park before climbing to the popular Suprise View. It's a wonderful spot with fine views to Lower Wharfedale, Almscliffe Crag and the Kilburn White Horse. If you would like to continue your walk then the Ebor Way and a link to the Dales Way run right through the park. In the town you could try our Otley River Walk which take you through some of the riverside parks and nature reserves located on the River Wharfe. Just to the north east of Otley you will find the pretty Lindley Wood Reservoir. There are nice footpaths along the River Washburn and the peaceful Lindley Wood to enjoy here.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Head to the Cheerfull Chilli for some refreshments after your walk. Here you'll find a fine selection of vegetarian food set in a stone-built rustic 2-floor cafe with a pretty garden and an outdoor courtyard. It's conveniently located right next to the car park."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The park is an excellent place to walk the dog. The cafe mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Head a couple of miles south of the park and you can enjoy an easy waterside stroll at the pretty Yeadon Tarn. There's also the noteworthy White Swan pub to be found nearby. The main draw here is a fantastic decked beer garden where there are views to the cricket ground. The Burley in Wharfedale Walk visits the viewpoint from the train station at the nearby settlement. The village itself is well worth exploring with a delightful village green and some historic old buildings on the Main Street. It's located just a few miles north west of the park. The Bramhope Circular Walk visits the popular Golden Acre Park and the expansive Eccup Reservoir from the nearby village. The attractive settlement is located just east of the park and can be reached by following the Ebor Way through Caley Deer Park. The attractive village also includes a fine 18th century pub which worthy of investigation. Just to the east you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy. For more walking ideas in the area see the Yorkshire Dales Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/fYLy8UI_7iM",
+    "region": "West Yorkshire",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "East Chevin Road, Cambridge Estate, Otley, West Yorkshire, England, LS21 3DD, United Kingdom",
+    "postcode": "LS21 3DD",
+    "district": "Otley",
+    "county": null,
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "2 hours 40 minutes",
+    "difficulty": "easy",
+    "terrain": ["woodland", "heathland", "meadowland", "rocky outcrop"],
+    "points_of_interest": ["viewpoint", "historical site"],
+    "facilities": ["cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling"]
 }

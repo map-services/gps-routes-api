@@ -1,0 +1,68 @@
+{
+  "created_at": "2026-10-22T22:54:22.160136+00:00",
+  "objectID": "a63711d3681b1bd72d20b64747cb02a5",
+  "ref": "tarvin-woodland-walk",
+  "title": "Tarvin Woodland Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tarvin_Community_Wood_-_geograph.org.uk_-_2662762.jpg?20210922054218",
+  "nearby": [
+    {
+      "description": "Kelsall",
+      "objectID": "4be74012bd5136c8eec7d9995c35ca82",
+      "ref": "kelsall-walking-route"
+    },
+    {
+      "description": "Baker Way",
+      "objectID": "62d17f4cb263f00d65012df152972c3c",
+      "ref": "baker-way-walking-route"
+    },
+    {
+      "description": "Delamere Forest",
+      "objectID": "d6a99d793c1db1e6f0b2cd04e60f7ae8",
+      "ref": "delamere-forest-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a63711d3681b1bd72d20b64747cb02a5.gpx",
+  "_geoloc": {
+    "lat": 53.193289,
+    "lng": -2.773144
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tarvin_Community_Wood_-_geograph.org.uk_-_2662762.jpg?20210922054218",
+      "title": "Tarvin Community Wood by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tarvin Community Wood"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tarvin_High_Street_-_geograph.org.uk_-_4657681.jpg?20230419231659",
+      "title": "Tarvin High Street by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Tarvin High Street"
+    }
+  ],
+  "distance_km": 1.8,
+  "description": "This walk explores the Tarvin Community Woodland in the Cheshire village of Tarvin. The woods are located at the southern end of the village and includes a circular trail of just over a mile. The area includes woodland, meadow and wildflower areas with lots of wildlife to see. You could continue your walking by picking up the Baker Way and heading to Delamere Forest.",
+  "details": [],
+  "postcode": "CH3 8EP",
+  "district": "Tarvin",
+  "county": "Cheshire West and Chester",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildlife area"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ],
+  "nominatim_found": true,
+  "display_address": "Tarvin Woodland Trail, Tarvin Sands, Tarvin, Cheshire West and Chester, England, CH3 8EP, United Kingdom",
+  "state": "England"
+}

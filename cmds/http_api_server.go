@@ -61,6 +61,11 @@ func NewHttpApiServer(port int) {
 		KeyFunc: func(c *gin.Context) string {
 			return c.ClientIP()
 		},
+		BeforeResponse: func(c *gin.Context, info ratelimit.Info) {
+			c.Header("X-RateLimit-Limit", fmt.Sprintf("%d", info.Limit))
+			c.Header("X-RateLimit-Remaining", fmt.Sprintf("%d", info.RemainingHits))
+			c.Header("X-RateLimit-Reset", fmt.Sprintf("%d", info.ResetTime.Unix()))
+		},
 	})
 
 	engine.Use(
@@ -97,7 +102,7 @@ func NewHttpApiServer(port int) {
 	metrics.LogStats(sqliteDB)
 
 	// Start DB stats collector for Prometheus metrics (every 30 seconds).
-	dbMetrics := metrics.NewDBStatsCollector(sqliteDB, prometheus, 30*time.Second)
+	dbMetrics := metrics.NewDBStatsCollector(sqliteDB, 30*time.Second)
 	defer dbMetrics.Stop()
 
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
@@ -117,9 +122,8 @@ func NewHttpApiServer(port int) {
 		}
 	})
 
-	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
-	// repo := repositories.NewCachedRepository(prometheus, repositories.NewSQLiteRouteRepository(sqliteDB))
-	repo := repositories.NewSQLiteRouteRepository(sqliteDB)
+	namesApi := osdatahub.NewNamesApi("https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
+	repo := repositories.NewCachedRepository(repositories.NewSQLiteRouteRepository(sqliteDB))
 	service := services.NewRoutesService(repo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{

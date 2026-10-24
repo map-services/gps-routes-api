@@ -1,144 +1,130 @@
 {
-  "created_at": "2025-01-05T23:39:17.048153+00:00",
-  "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
-  "ref": "newborough-forest-walking-and-cycle-route",
-  "title": "Newborough Forest Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Forest_track_in_Newborough_Forest_-_geograph.org.uk_-_177025.jpg",
-  "nearby": [
-    {
-      "description": "Llanddwyn Island",
-      "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
-      "ref": "llanddwyn-island-walking-route"
+    "created_at": "2025-01-05T23:39:17.048153+00:00",
+    "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
+    "ref": "newborough-forest-walking-and-cycle-route",
+    "title": "Newborough Forest Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Forest_track_in_Newborough_Forest_-_geograph.org.uk_-_177025.jpg",
+    "nearby": [
+        {
+            "description": "Llanddwyn Island",
+            "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
+            "ref": "llanddwyn-island-walking-route"
+        },
+        {
+            "description": "Anglesey Coast Path",
+            "objectID": "dfc85c31d62e609f13eea74ca40f670f",
+            "ref": "anglesey-coast-path-walking-route"
+        },
+        {
+            "description": "Aberffraw",
+            "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
+            "ref": "aberffraw-walking-route"
+        },
+        {
+            "description": "Anglesey Cycle Routes",
+            "objectID": "fe62defc9c1985f72410362ccbf68265",
+            "ref": "anglesey-cycle-routes-"
+        },
+        {
+            "description": "Plas Newydd",
+            "objectID": "f644f6e5c00fa390d2fa7bf2a0962063",
+            "ref": "plas-newydd-walking-route"
+        },
+        {
+            "description": "Malltraeth",
+            "objectID": "a432abdf0a887aa958f7335acc2377fe",
+            "ref": "malltraeth-walking-route"
+        },
+        {
+            "description": "Lon Las Cefni",
+            "objectID": "c0a2e22c6d16e2299cf9ddc9f6c7408d",
+            "ref": "lon-las-cefni-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d873c05bf96c7e25356f9e59831aa4d.gpx",
+    "_geoloc": {
+        "lat": 53.1453162344,
+        "lng": -4.3826839815
     },
-    {
-      "description": "Anglesey Coast Path",
-      "objectID": "dfc85c31d62e609f13eea74ca40f670f",
-      "ref": "anglesey-coast-path-walking-route"
-    },
-    {
-      "description": "Aberffraw",
-      "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
-      "ref": "aberffraw-walking-route"
-    },
-    {
-      "description": "Anglesey Cycle Routes",
-      "objectID": "fe62defc9c1985f72410362ccbf68265",
-      "ref": "anglesey-cycle-routes "
-    },
-    {
-      "description": "Plas Newydd",
-      "objectID": "f644f6e5c00fa390d2fa7bf2a0962063",
-      "ref": "plas-newydd-walking-route"
-    },
-    {
-      "description": "Malltraeth",
-      "objectID": "a432abdf0a887aa958f7335acc2377fe",
-      "ref": "malltraeth-walking-route"
-    },
-    {
-      "description": "Lon Las Cefni",
-      "objectID": "c0a2e22c6d16e2299cf9ddc9f6c7408d",
-      "ref": "lon-las-cefni-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6d873c05bf96c7e25356f9e59831aa4d.gpx",
-  "_geoloc": {
-    "lat": 53.1453162344,
-    "lng": -4.3826839815
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Forest_track_in_Newborough_Forest_-_geograph.org.uk_-_177025.jpg",
-      "title": "Nigel Williams / Forest track in Newborough Forest",
-      "caption": "Forest track in Newborough Forest. A view of the track into Newborough forest which is opposite to the entrance to the wildlife pool"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ruin_in_Newborough_Forest_-_geograph.org.uk_-_226521.jpg/330px-Ruin_in_Newborough_Forest_-_geograph.org.uk_-_226521.jpg",
-      "title": "Oliver Dixon / Ruin in Newborough Forest",
-      "caption": "Ruin in Newborough Forest. The 1940s map gives a clue - this is probably part of a disused woollen mill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Newborough_Forest_-_geograph.org.uk_-_848822.jpg",
-      "title": "Robin Drayton / Newborough Forest",
-      "caption": "The edge of the forest next to Llanddwyn Beach. The trees nearest to the beach have been reduced to just trunks as a result of exposure to wind and sea spray."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Corsican_pines_in_Newborough_Forest_-_geograph.org.uk_-_226524.jpg/330px-Corsican_pines_in_Newborough_Forest_-_geograph.org.uk_-_226524.jpg",
-      "title": "Oliver Dixon / Corsican pines in Newborough Forest",
-      "caption": "Corsican pines in Newborough Forest. Newborough Warren was planted mostly by Corsican pines over the period 1947-65."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Drainage_channel_in_Newborough_Forest_-_geograph.org.uk_-_405596.jpg/330px-Drainage_channel_in_Newborough_Forest_-_geograph.org.uk_-_405596.jpg",
-      "title": "Phil Williams / Drainage channel in Newborough Forest",
-      "caption": "Drainage channel in the Forest. A view looking to the northwest from the track alongside the northern block of the Forest, along a drainage channel leading to the Wildlife Pool."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_northern_edge_of_the_Newborough_Forest_-_geograph.org.uk_-_1031547.jpg",
-      "title": "Eric Jones / The northern edge of the Newborough Forest",
-      "caption": "The northern edge of the Newborough Forest. This is the boundary between the forest and the Malltraeth Marshes."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Grazing_land_near_to_Newborough_Forest_-_geograph.org.uk_-_169651.jpg",
-      "title": "Nigel Williams / Grazing land near to Newborough Forest",
-      "caption": "Beautiful evening light on grazing land near to the Forest. Mountains can be seen in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Path_through_Newborough_Forest_-_geograph.org.uk_-_848814.jpg",
-      "title": "Robin Drayton / Path through Newborough Forest",
-      "caption": "Path through Newborough Forest. Part of the Anglesey Coast Path."
-    }
-  ],
-  "distance_km": 13.0,
-  "description": "Explore this fabulous coastal forest in Anglesey on this walking route in Wales. There are miles of cycling and walking trails through the peaceful woodland leading you to the stunning Llanddwyn Bay and Newborough Warren Nature Reserve. This large dune, mudflat, saltmarsh and beach system attracts a large lumber of coastal birds including oystercatchers, lapwings, curlew, skylarks and meadow pipits. This circular walk starts from the Newborough Warren car park near to the coast (postcode for sat navs:LL61 6SG). It runs for about 8 miles on a series of good footpaths. The forest is attached to the wonderful Llanddwyn Island. The island has nice footpaths leading to the ruins of St Dwynwen's Church and the Twr Mawr lighthouse. From the island there are wonderful views of the Menai Strait to Snowdonia and the Lleyn Peninsula. Most of this route is designed for walkers but there are plenty of cycle tracks in the area to try as well. The Anglesey Coast Path runs past the site so you could pick this trail up and continue your exercise. Heading east will take you along the Menai Strait to Menai Bridge. Heading north will take you along Malltreath Sands to Malltraeth .",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Head into Newborough and there's a good selection of pubs and cafes. The White Lion is a friendly place that does very good food and has a nice garden area for the summer months. You can find it in the village at postcode LL61 6SH."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The forest and beach are an excellent place for a dog walk so you'll probably see plenty of other dogs running around on your visit. There is a section of the beach that is closed off to dogs in the summer months though. The White Lion pub mentioned above is also very dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you head west along the coast path it will take you to the pretty village of Aberffraw and the adjacent Tywyn Aberffraw. This area of common land is one of the finest dune systems in the country. There's also an ancient pub here right next to the superb beach which is worth some investigation. The Lon Las Cefni Cycle Route starts from the forest. You could follow the trail north to Malltreath and then north east along the Afon Cefni to visit Cefni Reservoir. Much of the route is traffic free so also suitable for walkers."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/gW2NQ0SR9eY",
-  "county": "Ynys M\u00f4n / Isle of Anglesey",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Stryd yr Eglwys / Church Street, Rhosyr, Niwbwrch / Newborough, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL61 6SG, United Kingdom",
-  "postcode": "LL61 6SG",
-  "district": "Niwbwrch / Newborough",
-  "state": "Cymru / Wales",
-  "llama_cpp": true,
-  "estimated_duration": "3-4 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "coastal",
-    "woodland",
-    "dune",
-    "mudflat",
-    "saltmarsh",
-    "beach"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "historical site",
-    "lighthouse",
-    "viewpoint"
-  ],
-  "facilities": [
-    "pub/cafe",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Forest_track_in_Newborough_Forest_-_geograph.org.uk_-_177025.jpg",
+            "title": "Nigel Williams / Forest track in Newborough Forest",
+            "caption": "Forest track in Newborough Forest. A view of the track into Newborough forest which is opposite to the entrance to the wildlife pool"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ruin_in_Newborough_Forest_-_geograph.org.uk_-_226521.jpg/330px-Ruin_in_Newborough_Forest_-_geograph.org.uk_-_226521.jpg",
+            "title": "Oliver Dixon / Ruin in Newborough Forest",
+            "caption": "Ruin in Newborough Forest. The 1940s map gives a clue - this is probably part of a disused woollen mill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Newborough_Forest_-_geograph.org.uk_-_848822.jpg",
+            "title": "Robin Drayton / Newborough Forest",
+            "caption": "The edge of the forest next to Llanddwyn Beach. The trees nearest to the beach have been reduced to just trunks as a result of exposure to wind and sea spray."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Corsican_pines_in_Newborough_Forest_-_geograph.org.uk_-_226524.jpg/330px-Corsican_pines_in_Newborough_Forest_-_geograph.org.uk_-_226524.jpg",
+            "title": "Oliver Dixon / Corsican pines in Newborough Forest",
+            "caption": "Corsican pines in Newborough Forest. Newborough Warren was planted mostly by Corsican pines over the period 1947-65."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Drainage_channel_in_Newborough_Forest_-_geograph.org.uk_-_405596.jpg/330px-Drainage_channel_in_Newborough_Forest_-_geograph.org.uk_-_405596.jpg",
+            "title": "Phil Williams / Drainage channel in Newborough Forest",
+            "caption": "Drainage channel in the Forest. A view looking to the northwest from the track alongside the northern block of the Forest, along a drainage channel leading to the Wildlife Pool."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_northern_edge_of_the_Newborough_Forest_-_geograph.org.uk_-_1031547.jpg",
+            "title": "Eric Jones / The northern edge of the Newborough Forest",
+            "caption": "The northern edge of the Newborough Forest. This is the boundary between the forest and the Malltraeth Marshes."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Grazing_land_near_to_Newborough_Forest_-_geograph.org.uk_-_169651.jpg",
+            "title": "Nigel Williams / Grazing land near to Newborough Forest",
+            "caption": "Beautiful evening light on grazing land near to the Forest. Mountains can be seen in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Path_through_Newborough_Forest_-_geograph.org.uk_-_848814.jpg",
+            "title": "Robin Drayton / Path through Newborough Forest",
+            "caption": "Path through Newborough Forest. Part of the Anglesey Coast Path."
+        }
+    ],
+    "distance_km": 13.0,
+    "description": "Explore this fabulous coastal forest in Anglesey on this walking route in Wales. There are miles of cycling and walking trails through the peaceful woodland leading you to the stunning Llanddwyn Bay and Newborough Warren Nature Reserve. This large dune, mudflat, saltmarsh and beach system attracts a large lumber of coastal birds including oystercatchers, lapwings, curlew, skylarks and meadow pipits. This circular walk starts from the Newborough Warren car park near to the coast (postcode for sat navs:LL61 6SG). It runs for about 8 miles on a series of good footpaths. The forest is attached to the wonderful Llanddwyn Island. The island has nice footpaths leading to the ruins of St Dwynwen's Church and the Twr Mawr lighthouse. From the island there are wonderful views of the Menai Strait to Snowdonia and the Lleyn Peninsula. Most of this route is designed for walkers but there are plenty of cycle tracks in the area to try as well. The Anglesey Coast Path runs past the site so you could pick this trail up and continue your exercise. Heading east will take you along the Menai Strait to Menai Bridge. Heading north will take you along Malltreath Sands to Malltraeth .",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Head into Newborough and there's a good selection of pubs and cafes. The White Lion is a friendly place that does very good food and has a nice garden area for the summer months. You can find it in the village at postcode LL61 6SH."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The forest and beach are an excellent place for a dog walk so you'll probably see plenty of other dogs running around on your visit. There is a section of the beach that is closed off to dogs in the summer months though. The White Lion pub mentioned above is also very dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you head west along the coast path it will take you to the pretty village of Aberffraw and the adjacent Tywyn Aberffraw. This area of common land is one of the finest dune systems in the country. There's also an ancient pub here right next to the superb beach which is worth some investigation. The Lon Las Cefni Cycle Route starts from the forest. You could follow the trail north to Malltreath and then north east along the Afon Cefni to visit Cefni Reservoir. Much of the route is traffic free so also suitable for walkers."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/gW2NQ0SR9eY",
+    "county": "Ynys M\u00f4n / Isle of Anglesey",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Stryd yr Eglwys / Church Street, Rhosyr, Niwbwrch / Newborough, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL61 6SG, United Kingdom",
+    "postcode": "LL61 6SG",
+    "district": "Niwbwrch / Newborough",
+    "state": "Cymru / Wales",
+    "llama_cpp": true,
+    "estimated_duration": "3-4 hours",
+    "difficulty": "easy",
+    "terrain": ["coastal", "woodland", "dune", "mudflat", "saltmarsh", "beach"],
+    "points_of_interest": [
+        "nature reserve",
+        "historical site",
+        "lighthouse",
+        "viewpoint"
+    ],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "cycling"]
 }

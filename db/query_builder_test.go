@@ -35,7 +35,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
-				params: []any{"test*"},
+				params: []any{`"test"*`},
 			},
 		},
 		{
@@ -43,7 +43,23 @@ func TestQueryBuilder_Build(t *testing.T) {
 			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "hello world"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
-				params: []any{"hello* world*"},
+				params: []any{`"hello"* "world"*`},
+			},
+		},
+		{
+			name: "query with apostrophe",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "Randolph's"}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
+				params: []any{`"Randolph's"*`},
+			},
+		},
+		{
+			name: "query with double quote",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: `say "hello"`}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
+				params: []any{`"say"* """hello"""*`},
 			},
 		},
 		{
@@ -52,15 +68,16 @@ func TestQueryBuilder_Build(t *testing.T) {
 				WithOrderBy((&SQLiteDialect{}).BuildFTSSort("routes_fts", "?") + " DESC"),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ? ORDER BY -bm25(routes_fts, 1.0, 0.4, 0.1) DESC",
-				params: []any{"test*"},
+				params: []any{`"test"*`},
 			},
 		},
 		{
 			name: "bounding box",
-			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			qb: NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{
+				BoundingBox: &common.BoundingBox{MinLng: 1.9, MinLat: 2.8, MaxLng: 3.7, MaxLat: 4.6},
+			}),
 			// R*Tree bbox predicate: min_lat <= latMax AND max_lat >= latMin
 			// AND min_lon <= lonMax AND max_lon >= lonMin.
-			// boundingBox is [lngMin, latMin, lngMax, latMax] = {1.9, 2.8, 3.7, 4.6}.
 			// Values are embedded directly (no '?' params) by BuildSTWithinQuery.
 			want: Result{
 				sql:    fmt.Sprintf("SELECT * FROM routes WHERE routes.rowid IN (SELECT id FROM routes_rtree WHERE min_lat <= %f AND max_lat >= %f AND min_lon <= %f AND max_lon >= %f)", 4.6, 2.8, 3.7, 1.9),

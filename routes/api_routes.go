@@ -3,9 +3,13 @@ package routes
 import (
 	"fmt"
 	"net/http"
+	"strconv"
+	"strings"
 
 	"github.com/gin-gonic/gin"
 
+	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/map-services/gps-routes-api/services"
 )
@@ -19,7 +23,7 @@ type RoutesAPI struct {
 func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	objectID := c.Param("objectID")
 	if objectID == "" {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "objectID is required"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "objectID is required"))
 		return
 	}
 	route, err := api.Service.GetRouteByID(objectID)
@@ -29,7 +33,7 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	}
 
 	if route == nil {
-		c.JSON(http.StatusNotFound, gin.H{"message": "Not found"})
+		c.JSON(http.StatusNotFound, common.NewErrorResponse("NOT_FOUND", "The requested resource was not found"))
 		return
 	}
 
@@ -42,7 +46,7 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	var payload request.SearchRequest
 	err := c.ShouldBind(&payload)
 	if err != nil {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", fmt.Sprintf("invalid request body: %s", err.Error())))
 		return
 	}
 
@@ -52,32 +56,47 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	}
 
 	if payload.Limit < 0 || payload.Limit > 100 {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "limit is out of range - allowed values: 0..100"})
+		c.JSON(http.StatusBadRequest, common.NewValidationError("limit", "limit must be between 0 and 100"))
 		return
 	}
 
 	if payload.Offset < 0 || payload.Offset > 100_000 {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "offset is out of range - allowed values: 0..100_000"})
+		c.JSON(http.StatusBadRequest, common.NewValidationError("offset", "offset must be between 0 and 100000"))
 		return
 	}
 
 	if payload.BoundingBox != nil && payload.Nearby != nil {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "cannot specify both bounding box and nearby attributes in same request"})
+		c.JSON(http.StatusBadRequest, common.NewErrorResponse("INVALID_REQUEST", "cannot specify both 'boundingBox' and 'nearby' in the same request"))
 		return
 	}
 
 	for facetField := range payload.Facets {
 		if !services.IsValidFacetField(facetField) {
-			c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("invalid facet: %s", facetField)})
+			validFields := services.ValidFacetFields()
+			c.JSON(http.StatusBadRequest, common.NewValidationError("facets", fmt.Sprintf("invalid facet field '%s'; valid fields are: %s", facetField, validFields)))
 			return
 		}
 	}
 
-	// TODO: sanitize the query string
-
 	matches, err := api.Service.Search(&payload)
 	if err != nil {
 		c.Error(err) //nolint:errcheck
+		return
+	}
+
+	// Check Accept header for GeoJSON content negotiation
+	if strings.Contains(c.GetHeader("Accept"), "application/geo+json") {
+		fc := domain.ToFeatureCollection(matches)
+
+		// Set pagination metadata via HTTP response headers
+		c.Header("X-Total-Count", strconv.FormatInt(matches.Total, 10))
+		c.Header("X-Has-More", strconv.FormatBool(matches.HasMore))
+		if matches.HasMore {
+			c.Header("X-Next-Offset", strconv.FormatInt(int64(matches.NextOffset), 10))
+		}
+
+		c.Header("Content-Type", "application/geo+json")
+		c.JSON(http.StatusOK, fc)
 		return
 	}
 
