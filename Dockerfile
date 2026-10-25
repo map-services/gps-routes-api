@@ -3,6 +3,7 @@
 # GPS Routes API — SQLite + FTS5 build.
 #
 #   - Build:  CGO_ENABLED=1 with -tags "sqlite,sqlite_fts5" (go-sqlite3 is cgo).
+#     The binary is statically linked so the runtime image needs no C library.
 #   - Spatial queries: SQLite's built-in R*Tree virtual table (routes_rtree)
 #     provides bbox filtering; a Go-registered haversine_distance() function
 #     provides radius filtering — NO Spatialite extension required.
@@ -13,6 +14,8 @@
 #   - Override: bind-mount your own `data/routes.db` over `./data/routes.db` to
 #     run with production data (mount hides the baked sample; the binary then
 #     opens your file verbatim with no reseed).
+#   - Runtime: gcr.io/distroless/static (~2 MB) — no shell, no package manager.
+#     A busybox wget binary is copied in solely for the HEALTHCHECK.
 #
 # Build:  docker build -t gps-routes-api:sqlite .
 # Run:    docker run --rm -p 8080:8080 \
@@ -30,10 +33,11 @@
 # with `platforms: linux/amd64` on ubuntu-latest (native cgo, no cross toolchain).
 
 # ---------------------------------------------------------------------------
-# 1) Build stage: compile + seed the database
+# 1) Build stage: compile static binary + seed the database
 # ---------------------------------------------------------------------------
 # golang:1.27 is Debian(bookworm)-based => glibc toolchain required for cgo and
-# for go-sqlite3 compilation.
+# for go-sqlite3 compilation.  The -extldflags '-static' flag links SQLite
+# statically so the final binary has no dynamic library dependencies.
 FROM golang:1.27 AS build
 
 ENV CGO_ENABLED=1
@@ -66,25 +70,33 @@ RUN mkdir -p /src/data && \
     SQLITE_DB_PATH=/src/data/routes.db /gps-routes import /src/data/backup
 
 # ---------------------------------------------------------------------------
-# 2) Runtime stage: BusyBox (~5MB, includes wget + shell for HEALTHCHECK)
+# 2) Fetch a minimal wget for HEALTHCHECK (distroless has no shell or curl)
 # ---------------------------------------------------------------------------
-# The binary is statically linked (CGO + SQLite compiled in), so no system
-# libraries are needed at runtime.  BusyBox is a minimal image that provides
-# wget (for HEALTHCHECK) and a shell, while keeping the image tiny.
-FROM busybox AS runtime
+FROM busybox:uclibc AS wget-src
+
+# ---------------------------------------------------------------------------
+# 3) Runtime stage: distroless/static (~2 MB), ships the pre-seeded DB
+# ---------------------------------------------------------------------------
+FROM gcr.io/distroless/static
 
 ENV GIN_MODE=release \
     SQLITE_DB_PATH=/app/data/routes.db
 
 WORKDIR /app
+
+# Binary + pre-seeded database (bind-mount to override with your own).
 COPY --from=build /gps-routes          /app/gps-routes
 COPY --from=build /src/data/routes.db   /app/data/routes.db
 COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
 
+# Minimal wget for HEALTHCHECK only (~84 KB).  distroless has no shell, so
+# HEALTHCHECK uses CMD-SHELL is not available — we use CMD form instead.
+COPY --from=wget-src /bin/wget /usr/bin/wget
+
 EXPOSE 8080/tcp
 
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD wget -qO- "http://localhost:8080/healthz" || exit 1
+  CMD ["wget", "-qO-", "http://localhost:8080/healthz"]
 
 # `api-server <port>`; CMD supplies the default port.
 ENTRYPOINT ["./gps-routes", "api-server"]
