@@ -12,7 +12,7 @@ GET http://localhost:8080/metrics
 
 ### Search Routes (Bounding Box)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: {{API_KEY}}
+X-API-Key: test-key
 Content-Type: application/json
 
 {
@@ -27,7 +27,7 @@ Content-Type: application/json
 
 ### Search Routes (Full Text Query)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: {{API_KEY}}
+X-API-Key: test-key
 Content-Type: application/json
 
 {
@@ -35,9 +35,22 @@ Content-Type: application/json
 }
 
 
-### Search Routes (Nearby)
+### Search Routes (Sorting)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: {{API_KEY}}
+X-API-Key: test-key
+Content-Type: application/json
+
+{
+  "sort": {
+    "field": "difficulty",
+    "direction": "ASC"
+  }
+}
+
+
+### Search Routes (Nearby: Lat/Lng)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: test-key
 Content-Type: application/json
 
 {
@@ -49,9 +62,22 @@ Content-Type: application/json
 }
 
 
+### Search Routes (Nearby: place)
+POST http://localhost:8080/v1/gps-routes/search
+X-API-Key: test-key
+Content-Type: application/json
+
+{
+  "nearby": {
+    "place": "ambleside",
+    "distance": 5000
+  }
+}
+
+
 ### Search Routes (with Facets)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: {{API_KEY}}
+X-API-Key: test-key
 Content-Type: application/json
 
 {
@@ -62,7 +88,7 @@ Content-Type: application/json
 
 ### Search Routes (GeoJSON Output)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: ab384f13-393c-4783-883b-50ec2721b8d8
+X-API-Key: test-key
 Content-Type: application/json
 Accept: application/geo+json
 
@@ -76,34 +102,9 @@ Accept: application/geo+json
 }
 
 
-### Count All Routes
-POST http://localhost:8080/v1/gps-routes/count
-X-API-Key: {{API_KEY}}
-Content-Type: application/json
-
-{
-  "boundingBox": {
-    "minLng": -2.984805,
-    "minLat": 54.418630,
-    "maxLng": -2.947941,
-    "maxLat": 54.438327
-  }
-}
-
-
 ### Get Route by Object ID
-GET http://localhost:8080/v1/gps-routes/1
-X-API-Key: {{API_KEY}}
-
-
-### Facet Counts
-POST http://localhost:8080/v1/gps-routes/facets/surface
-X-API-Key: {{API_KEY}}
-Content-Type: application/json
-
-{
-  "limit": 10
-}
+GET http://localhost:8080/v1/gps-routes/e5475bfb0b17ef4d31e5051699f828ee
+X-API-Key: test-key
 
 
 ### CORS Preflight
@@ -124,7 +125,7 @@ Content-Type: application/json
 
 ### Rate Limited (send multiple times rapidly)
 POST http://localhost:8080/v1/gps-routes/search
-X-API-Key: {{API_KEY}}
+X-API-Key: test-key
 Content-Type: application/json
 
 {

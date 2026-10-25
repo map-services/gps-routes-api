@@ -116,6 +116,7 @@ make import-data
 | `SQLITE_DB_PATH` | No | `./data/routes.db` | Path to the SQLite database |
 | `OS_NAMES_API_KEY` | No | — | API key for OSM names lookup (faceted search) |
 | `SEARCH_TIMEOUT_SECONDS` | No | `10` | Search query timeout in seconds |
+| `TRUSTED_PROXIES` | No | — | Comma-separated list of trusted proxy IPs or CIDR ranges (e.g., `10.0.0.0/8,192.168.1.1`). Required when running behind a reverse proxy to correctly resolve client IPs and suppress the Gin "trusted all proxies" warning |
 
 ## Build Commands
 

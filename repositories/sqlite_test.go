@@ -507,3 +507,400 @@ func TestSQLiteStoreLockingBbox(t *testing.T) {
 		t.Errorf("routes table should not have _geoloc column (R*Tree replaces it), but it exists")
 	}
 }
+
+// TestSQLiteSortDistanceKm verifies sorting by distance_km in both ASC and DESC directions.
+func TestSQLiteSortDistanceKm(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	short := "easy"
+	medium := "moderate"
+	hard := "hard"
+
+	mustStore := func(id string, dist float64, diff string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    dist,
+			Difficulty:    &diff,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("short", 2.0, short)
+	mustStore("medium", 10.0, medium)
+	mustStore("long", 25.0, hard)
+
+	// Sort by distance_km ASC — shortest first
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "distance_km", Direction: "ASC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits distance_km ASC: %v", err)
+	}
+	if len(*hits) != 3 {
+		t.Fatalf("expected 3 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "short" || (*hits)[1].ObjectID != "medium" || (*hits)[2].ObjectID != "long" {
+		t.Errorf("distance_km ASC order = %v, want [short medium long]", extractIDs(*hits))
+	}
+
+	// Sort by distance_km DESC — longest first
+	hits, err = repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "distance_km", Direction: "DESC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits distance_km DESC: %v", err)
+	}
+	if (*hits)[0].ObjectID != "long" || (*hits)[1].ObjectID != "medium" || (*hits)[2].ObjectID != "short" {
+		t.Errorf("distance_km DESC order = %v, want [long medium short]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortDifficulty verifies sorting by difficulty level (ordinal: easy < moderate < hard).
+func TestSQLiteSortDifficulty(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	easy := "easy"
+	moderate := "moderate"
+	hard := "hard"
+
+	mustStore := func(id string, diff string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    5.0,
+			Difficulty:    &diff,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("hard-route", hard)
+	mustStore("easy-route", easy)
+	mustStore("moderate-route", moderate)
+
+	// Sort by difficulty ASC — easy first
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "difficulty", Direction: "ASC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits difficulty ASC: %v", err)
+	}
+	if len(*hits) != 3 {
+		t.Fatalf("expected 3 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "easy-route" || (*hits)[1].ObjectID != "moderate-route" || (*hits)[2].ObjectID != "hard-route" {
+		t.Errorf("difficulty ASC order = %v, want [easy-route moderate-route hard-route]", extractIDs(*hits))
+	}
+
+	// Sort by difficulty DESC — hard first
+	hits, err = repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "difficulty", Direction: "DESC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits difficulty DESC: %v", err)
+	}
+	if (*hits)[0].ObjectID != "hard-route" || (*hits)[1].ObjectID != "moderate-route" || (*hits)[2].ObjectID != "easy-route" {
+		t.Errorf("difficulty DESC order = %v, want [hard-route moderate-route easy-route]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortEstimatedDuration verifies sorting by composite effort score (distance × difficulty multiplier).
+func TestSQLiteSortEstimatedDuration(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	easy := "easy"
+	hard := "hard"
+
+	mustStore := func(id string, dist float64, diff string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    dist,
+			Difficulty:    &diff,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	// short-hard: 2.0 * 2.5 = 5.0
+	mustStore("short-hard", 2.0, hard)
+	// long-easy: 20.0 * 1.0 = 20.0
+	mustStore("long-easy", 20.0, easy)
+	// medium-hard: 10.0 * 2.5 = 25.0
+	mustStore("medium-hard", 10.0, hard)
+
+	// Sort by estimated_duration ASC — lowest effort first
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "estimated_duration", Direction: "ASC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits estimated_duration ASC: %v", err)
+	}
+	if len(*hits) != 3 {
+		t.Fatalf("expected 3 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "short-hard" || (*hits)[1].ObjectID != "long-easy" || (*hits)[2].ObjectID != "medium-hard" {
+		t.Errorf("estimated_duration ASC order = %v, want [short-hard long-easy medium-hard]", extractIDs(*hits))
+	}
+
+	// Sort by estimated_duration DESC — highest effort first
+	hits, err = repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "estimated_duration", Direction: "DESC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits estimated_duration DESC: %v", err)
+	}
+	if (*hits)[0].ObjectID != "medium-hard" || (*hits)[1].ObjectID != "long-easy" || (*hits)[2].ObjectID != "short-hard" {
+		t.Errorf("estimated_duration DESC order = %v, want [medium-hard long-easy short-hard]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortTitle verifies alphabetical sorting by title.
+func TestSQLiteSortTitle(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	mustStore := func(id, title string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         title,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    5.0,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("z-id", "Zebra Trail")
+	mustStore("a-id", "Alpha Path")
+	mustStore("m-id", "Middle Route")
+
+	// Sort by title ASC — alphabetical
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "title", Direction: "ASC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits title ASC: %v", err)
+	}
+	if len(*hits) != 3 {
+		t.Fatalf("expected 3 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "a-id" || (*hits)[1].ObjectID != "m-id" || (*hits)[2].ObjectID != "z-id" {
+		t.Errorf("title ASC order = %v, want [a-id m-id z-id]", extractIDs(*hits))
+	}
+
+	// Sort by title DESC — reverse alphabetical
+	hits, err = repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "title", Direction: "DESC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits title DESC: %v", err)
+	}
+	if (*hits)[0].ObjectID != "z-id" || (*hits)[1].ObjectID != "m-id" || (*hits)[2].ObjectID != "a-id" {
+		t.Errorf("title DESC order = %v, want [z-id m-id a-id]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortDefault verifies default sort behavior when no explicit sort is provided.
+func TestSQLiteSortDefault(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	easy := "easy"
+
+	// Insert routes with different created_at times to verify created_at DESC default
+	oldTime := time.Now().Add(-24 * time.Hour)
+	newTime := time.Now()
+
+	mustStore := func(id string, createdAt time.Time) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    5.0,
+			Difficulty:    &easy,
+			CreatedAt:     createdAt,
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("old-route", oldTime)
+	mustStore("new-route", newTime)
+
+	// No sort, no query, no nearby → created_at DESC (newest first)
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits default: %v", err)
+	}
+	if len(*hits) != 2 {
+		t.Fatalf("expected 2 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "new-route" || (*hits)[1].ObjectID != "old-route" {
+		t.Errorf("default sort order = %v, want [new-route old-route]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortDirectionDefault verifies that omitting direction defaults to ASC.
+func TestSQLiteSortDirectionDefault(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	short := "easy"
+	hard := "hard"
+
+	mustStore := func(id string, dist float64, diff string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    dist,
+			Difficulty:    &diff,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("long", 25.0, hard)
+	mustStore("short", 2.0, short)
+
+	// Sort with field only, no direction — should default to ASC
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "distance_km"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits distance_km default direction: %v", err)
+	}
+	if (*hits)[0].ObjectID != "short" || (*hits)[1].ObjectID != "long" {
+		t.Errorf("distance_km with no direction (default ASC) = %v, want [short long]", extractIDs(*hits))
+	}
+}
+
+// TestSQLiteSortOverridesNearbyDefault verifies explicit sort takes precedence over nearby distance default.
+func TestSQLiteSortOverridesNearbyDefault(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	hard := "hard"
+	easy := "easy"
+
+	mustStore := func(id string, lat, lon float64, dist float64, diff string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: lat, Longitude: lon},
+			DistanceKm:    dist,
+			Difficulty:    &diff,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	// Close to center but long distance
+	mustStore("close-long", 51.51, -0.13, 25.0, hard)
+	// Far from center but short distance
+	mustStore("far-short", 52.0, -1.0, 2.0, easy)
+
+	// Nearby without explicit sort → distance from center (close-long first)
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Nearby: &request.Nearby{
+			Center:     &common.GeoLoc{Latitude: 51.5074, Longitude: -0.1278},
+			DistanceKm: 100,
+		},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits nearby default: %v", err)
+	}
+	if len(*hits) != 2 {
+		t.Fatalf("expected 2 hits, got %d", len(*hits))
+	}
+	if (*hits)[0].ObjectID != "close-long" {
+		t.Errorf("nearby default sort first = %s, want close-long", (*hits)[0].ObjectID)
+	}
+
+	// Nearby with explicit sort by distance_km DESC → longest route first
+	hits, err = repo.SearchHits(ctx, &request.SearchRequest{
+		Nearby: &request.Nearby{
+			Center:     &common.GeoLoc{Latitude: 51.5074, Longitude: -0.1278},
+			DistanceKm: 100,
+		},
+		Sort:  &common.Sort{Field: "distance_km", Direction: "DESC"},
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits nearby with explicit sort: %v", err)
+	}
+	if (*hits)[0].ObjectID != "close-long" || (*hits)[1].ObjectID != "far-short" {
+		t.Errorf("nearby + distance_km DESC = %v, want [close-long far-short]", extractIDs(*hits))
+	}
+}
+
+// extractIDs returns the ObjectID values from a slice of RouteSummary.
+func extractIDs(hits []domain.RouteSummary) []string {
+	ids := make([]string, len(hits))
+	for i, h := range hits {
+		ids[i] = h.ObjectID
+	}
+	return ids
+}

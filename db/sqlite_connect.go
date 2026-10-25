@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"log"
+	"log/slog"
 	"math"
 	"os"
 
@@ -56,11 +56,11 @@ func NewSQLiteDB(ctx context.Context, config SQLiteConfig) (*sql.DB, error) {
 		// Read-only mode: open the database without write access. Multiple
 		// concurrent readers are allowed, so the pool is larger (see below).
 		dsn = fmt.Sprintf("file:%s?mode=ro&cache=shared&_busy_timeout=5000", config.Path)
-		log.Printf("Connecting to SQLite database at %s (read-only)", config.Path)
+		slog.Info("Connecting to SQLite database", "path", config.Path, "mode", "read-only")
 	} else {
 		// Read-write mode: used by the import command and tests.
 		dsn = fmt.Sprintf("file:%s?cache=shared&mode=rwc&_journal_mode=WAL&_synchronous=NORMAL&_cache_size=10000&_temp_store=MEMORY", config.Path)
-		log.Printf("Connecting to SQLite database at %s", config.Path)
+		slog.Info("Connecting to SQLite database", "path", config.Path, "mode", "read-write")
 	}
 
 	// Open through the modernc "sqlite" driver. The haversine_distance() function
@@ -155,25 +155,25 @@ func SQLiteConfigFromEnv() SQLiteConfig {
 // database file is compacted.
 func OptimizeDatabase(db *sql.DB) error {
 	// Run ANALYZE to update statistics for the query planner.
-	log.Println("Running ANALYZE to update query planner statistics...")
+	slog.Info("Running ANALYZE to update query planner statistics")
 	if _, err := db.Exec("ANALYZE"); err != nil {
 		return fmt.Errorf("failed to run ANALYZE: %w", err)
 	}
 
 	// VACUUM must run outside of a transaction and reclaims space from deleted
 	// rows while compacting the database file.
-	log.Println("Running VACUUM to compact database file...")
+	slog.Info("Running VACUUM to compact database file")
 	if _, err := db.Exec("VACUUM"); err != nil {
 		return fmt.Errorf("failed to run VACUUM: %w", err)
 	}
 
 	// PRAGMA optimize runs automatic optimizations, such as index statistics
 	// updates. Log but don't fail on error — it can fail in edge cases.
-	log.Println("Running PRAGMA optimize...")
+	slog.Info("Running PRAGMA optimize")
 	if _, err := db.Exec("PRAGMA optimize"); err != nil {
-		log.Printf("Warning: PRAGMA optimize failed: %v", err)
+		slog.Warn("PRAGMA optimize failed", "error", err)
 	}
 
-	log.Println("Database optimization completed successfully")
+	slog.Info("Database optimization completed successfully")
 	return nil
 }

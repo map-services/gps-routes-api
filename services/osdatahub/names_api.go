@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"log"
+	"log/slog"
 	"net/http"
 	"time"
 
@@ -142,7 +142,7 @@ func (service *NamesApiImpl) fetch(ctx context.Context, name string) (*Result, e
 	}
 	defer func() {
 		if err := resp.Body.Close(); err != nil {
-			log.Printf("Error closing response body: %v", err)
+			slog.Warn("Error closing response body", "error", err)
 		}
 	}()
 

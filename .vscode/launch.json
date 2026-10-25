@@ -11,7 +11,10 @@
             "mode": "auto",
             "program": "main.go",
             "args": ["api-server", "8080"],
-            "buildFlags": "-tags=sqlite,sqlite_fts5"
+            "buildFlags": "-tags=sqlite,sqlite_fts5",
+            "env": {
+                "GPS_ROUTES_API_KEY": "test-key"
+            }
         },
         {
             "name": "Import data",
