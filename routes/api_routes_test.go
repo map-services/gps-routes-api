@@ -369,13 +369,13 @@ func TestSearch_NilHeadlineImageUrl(t *testing.T) {
 		Total: 1,
 		Hits: []domain.RouteSummary{
 			{
-				ObjectID:      "nil-img",
-				Ref:           "REF003",
-				Title:         "Route Without Image",
-				Description:   "No image here",
+				ObjectID:         "nil-img",
+				Ref:              "REF003",
+				Title:            "Route Without Image",
+				Description:      "No image here",
 				HeadlineImageUrl: nil,
-				DistanceKm:    2.0,
-				StartPosition: common.GeoLoc{Latitude: 53.4808, Longitude: -2.2426},
+				DistanceKm:       2.0,
+				StartPosition:    common.GeoLoc{Latitude: 53.4808, Longitude: -2.2426},
 			},
 		},
 		Attribution: []string{"Test"},
@@ -475,7 +475,7 @@ func TestSearch_ValidSortField(t *testing.T) {
 	engine.POST("/search", api.Search)
 
 	// Test each valid sort field
-	validFields := []string{"distance_km", "difficulty", "estimated_duration", "title", "relevance"}
+	validFields := []string{"distance_km", "difficulty", "estimated_duration", "title", "relevance", "random"}
 	for _, field := range validFields {
 		body := fmt.Sprintf(`{"sort":{"field":"%s","direction":"ASC"}}`, field)
 		w := httptest.NewRecorder()
@@ -552,4 +552,3 @@ func TestSearch_NoSort(t *testing.T) {
 
 	assert.Equal(t, http.StatusOK, w.Code)
 }
-

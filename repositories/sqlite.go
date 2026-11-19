@@ -324,7 +324,7 @@ func (repo *SQLiteDbRepository) CountAll(ctx context.Context, criteria *request.
 // If no explicit sort is provided, it falls back to defaults:
 // - nearby → distance from center point
 // - query → bm25 relevance
-// - otherwise → created_at DESC
+// - otherwise → random (day-seeded hash)
 func buildSortExpression(criteria *request.SearchRequest, dialect *db.SQLiteDialect) string {
 	if criteria.Sort != nil && common.IsValidSortField(criteria.Sort.Field) {
 		return buildExplicitSortExpression(criteria.Sort)
@@ -337,7 +337,7 @@ func buildSortExpression(criteria *request.SearchRequest, dialect *db.SQLiteDial
 	if criteria.Query != "" {
 		return dialect.BuildFTSSort("routes_fts", "?") + " DESC"
 	}
-	return "routes.created_at DESC"
+	return "day_hash(routes.object_id) ASC"
 }
 
 // buildExplicitSortExpression builds the SQL ORDER BY expression for an explicit sort.
@@ -364,6 +364,8 @@ func buildExplicitSortExpression(sort *common.Sort) string {
 		expr = "routes.title"
 	case "relevance":
 		expr = "-bm25(routes_fts, 1.0, 0.4, 0.1)"
+	case "random":
+		expr = "day_hash(routes.object_id)"
 	default:
 		expr = "routes.created_at"
 	}

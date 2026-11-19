@@ -194,8 +194,8 @@ func computeEffectiveSort(criteria *request.SearchRequest) *common.Sort {
 		}
 	}
 	return &common.Sort{
-		Field:     "created_at",
-		Direction: "DESC",
+		Field:     "random",
+		Direction: "ASC",
 	}
 }
 

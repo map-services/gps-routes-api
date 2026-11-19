@@ -9,6 +9,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/stretchr/testify/assert"
+
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
@@ -741,20 +743,15 @@ func TestSQLiteSortTitle(t *testing.T) {
 	}
 }
 
-// TestSQLiteSortDefault verifies default sort behavior when no explicit sort is provided.
+// TestSQLiteSortDefault verifies that the default sort (no explicit sort, no nearby,
+// no query) returns all routes in a stable deterministic-per-day random order.
 func TestSQLiteSortDefault(t *testing.T) {
 	testDB, cleanup := setupSQLiteTestDB(t)
 	defer cleanup()
 	repo := NewSQLiteRouteRepository(testDB)
 	ctx := context.Background()
 
-	easy := "easy"
-
-	// Insert routes with different created_at times to verify created_at DESC default
-	oldTime := time.Now().Add(-24 * time.Hour)
-	newTime := time.Now()
-
-	mustStore := func(id string, createdAt time.Time) {
+	mustStore := func(id string) {
 		t.Helper()
 		if err := repo.Store(ctx, &domain.RouteMetadata{
 			ObjectID:      id,
@@ -764,27 +761,40 @@ func TestSQLiteSortDefault(t *testing.T) {
 			GpxUrl:        "http://x/g",
 			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
 			DistanceKm:    5.0,
-			Difficulty:    &easy,
-			CreatedAt:     createdAt,
+			CreatedAt:     time.Now(),
 		}); err != nil {
 			t.Fatalf("store %s: %v", id, err)
 		}
 	}
-	mustStore("old-route", oldTime)
-	mustStore("new-route", newTime)
+	mustStore("alpha")
+	mustStore("beta")
+	mustStore("gamma")
 
-	// No sort, no query, no nearby → created_at DESC (newest first)
+	// No sort, no query, no nearby → random default
 	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
 		Limit: 10,
 	})
 	if err != nil {
 		t.Fatalf("SearchHits default: %v", err)
 	}
-	if len(*hits) != 2 {
-		t.Fatalf("expected 2 hits, got %d", len(*hits))
+	if len(*hits) != 3 {
+		t.Fatalf("expected 3 hits, got %d", len(*hits))
 	}
-	if (*hits)[0].ObjectID != "new-route" || (*hits)[1].ObjectID != "old-route" {
-		t.Errorf("default sort order = %v, want [new-route old-route]", extractIDs(*hits))
+
+	// Verify stability: a second call should return the same order
+	hits2, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Limit: 10,
+	})
+	if err != nil {
+		t.Fatalf("SearchHits default (2nd): %v", err)
+	}
+	ids1 := extractIDs(*hits)
+	ids2 := extractIDs(*hits2)
+	for i := range ids1 {
+		if ids1[i] != ids2[i] {
+			t.Errorf("default sort is not stable: call 1 = %v, call 2 = %v", ids1, ids2)
+			return
+		}
 	}
 }
 
@@ -903,4 +913,103 @@ func extractIDs(hits []domain.RouteSummary) []string {
 		ids[i] = h.ObjectID
 	}
 	return ids
+}
+
+// TestSQLiteSortRandom verifies the random sort order returns all routes and
+// produces a stable order within the same test run (deterministic per day).
+func TestSQLiteSortRandom(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	mustStore := func(id string) {
+		t.Helper()
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    5.0,
+			CreatedAt:     time.Now(),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+	mustStore("alpha")
+	mustStore("beta")
+	mustStore("gamma")
+	mustStore("delta")
+
+	// First call with random sort
+	hits1, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "random"},
+		Limit: 10,
+	})
+	assert.NoError(t, err)
+	assert.Len(t, *hits1, 4)
+
+	// Second call — order should be identical (deterministic within same day)
+	hits2, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Sort:  &common.Sort{Field: "random"},
+		Limit: 10,
+	})
+	assert.NoError(t, err)
+	assert.Len(t, *hits2, 4)
+
+	ids1 := extractIDs(*hits1)
+	ids2 := extractIDs(*hits2)
+	assert.Equal(t, ids1, ids2, "random sort should be stable within the same day")
+
+	// Verify all four routes are present (no duplicates)
+	seen := make(map[string]bool)
+	for _, id := range ids1 {
+		assert.False(t, seen[id], "duplicate object_id in random sort: %s", id)
+		seen[id] = true
+	}
+	assert.Len(t, seen, 4, "expected 4 unique routes")
+}
+
+// TestSQLiteDefaultSortIsRandom verifies that a search with no explicit sort,
+// no nearby, and no query returns results in random order (not created_at DESC).
+func TestSQLiteDefaultSortIsRandom(t *testing.T) {
+	testDB, cleanup := setupSQLiteTestDB(t)
+	defer cleanup()
+	repo := NewSQLiteRouteRepository(testDB)
+	ctx := context.Background()
+
+	// Store routes with staggered created_at times so created_at DESC would
+	// produce a predictable order. If the default is random, the order should
+	// differ from created_at DESC.
+	ids := []string{"first", "second", "third"}
+	for i, id := range ids {
+		if err := repo.Store(ctx, &domain.RouteMetadata{
+			ObjectID:      id,
+			Ref:           "R-" + id,
+			Title:         id,
+			Description:   "route " + id,
+			GpxUrl:        "http://x/g",
+			StartPosition: common.GeoLoc{Latitude: 51.5, Longitude: -0.1},
+			DistanceKm:    5.0,
+			CreatedAt:     time.Now().Add(time.Duration(i) * time.Second),
+		}); err != nil {
+			t.Fatalf("store %s: %v", id, err)
+		}
+	}
+
+	// Default sort (no explicit sort, no nearby, no query)
+	hits, err := repo.SearchHits(ctx, &request.SearchRequest{
+		Limit: 10,
+	})
+	assert.NoError(t, err)
+	assert.Len(t, *hits, 3)
+
+	// created_at DESC would return [first, second, third]
+	// Random sort should produce a different order in most cases
+	// We verify the order is NOT [first, second, third]
+	idsReturned := extractIDs(*hits)
+	assert.NotEqual(t, []string{"first", "second", "third"}, idsReturned,
+		"default sort should be random, not created_at DESC")
 }

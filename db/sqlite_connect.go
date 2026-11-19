@@ -2,24 +2,31 @@ package db
 
 import (
 	"context"
+	"crypto/sha256"
 	"database/sql"
+	"encoding/binary"
 	"fmt"
 	"log/slog"
 	"math"
 	"os"
+	"time"
 
 	"github.com/mattn/go-sqlite3"
 )
 
 // init registers a "sqlite3_haversine" driver that automatically registers a
-// haversine_distance(lon1, lat1, lon2, lat2) → meters scalar function on every
-// new connection via ConnectHook. This replaces Spatialite's ST_DWithin for
-// radius filtering and (via SQLiteDialect.BuildDistanceSort) for distance
-// sorting — no extension or sqlite_math_functions build tag required.
+// haversine_distance(lon1, lat1, lon2, lat2) → meters scalar function and
+// day_hash(object_id) → float64 on every new connection via ConnectHook.
+// Haversine replaces Spatialite's ST_DWithin for radius filtering and distance
+// sorting. Day hash provides a deterministic-per-day random sort value for the
+// `random` sort order — no extension or sqlite_math_functions build tag required.
 func init() {
 	sql.Register("sqlite3_haversine", &sqlite3.SQLiteDriver{
 		ConnectHook: func(conn *sqlite3.SQLiteConn) error {
-			return conn.RegisterFunc("haversine_distance", haversineDistance, true)
+			if err := conn.RegisterFunc("haversine_distance", haversineDistance, true); err != nil {
+				return err
+			}
+			return conn.RegisterFunc("day_hash", dayHash, true)
 		},
 	})
 }
@@ -29,6 +36,18 @@ func init() {
 // 6371 km. The argument order (lon, lat) matches the SQL column order
 // (longitude, latitude) in the routes table, so callers can write
 // haversine_distance(centerLon, centerLat, longitude, latitude).
+// dayHash returns a pseudo-random float64 for the given object_id that is
+// deterministic for the current UTC day. It hashes the object_id with SHA-256,
+// converts to uint64, and applies modulo against the day number (days since
+// Unix epoch). The same object_id always produces the same value within a day,
+// but the value changes each day.
+func dayHash(objectID string) float64 {
+	day := time.Now().UTC().Unix() / 86400
+	h := sha256.Sum256([]byte(objectID))
+	num := binary.BigEndian.Uint64(h[:8])
+	return float64(num % uint64(day+1)) // day+1 avoids modulo-by-zero on epoch day 0
+}
+
 func haversineDistance(lon1, lat1, lon2, lat2 float64) float64 {
 	const R = 6371000.0 // Earth mean radius in metres
 

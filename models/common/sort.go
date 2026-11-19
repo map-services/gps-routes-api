@@ -2,7 +2,7 @@ package common
 
 // Sort specifies a field and direction for ordering search results.
 type Sort struct {
-	// Field to sort by. Must be one of: distance_km, difficulty, estimated_duration, title, relevance.
+	// Field to sort by. Must be one of: created_at, distance_km, difficulty, estimated_duration, title, relevance, random.
 	Field string `json:"field"`
 
 	// Direction: ASC (ascending) or DESC (descending). Defaults to ASC if omitted.
@@ -16,6 +16,7 @@ var validSortFields = map[string]bool{
 	"estimated_duration": true,
 	"title":              true,
 	"relevance":          true,
+	"random":             true,
 }
 
 // Valid sort directions

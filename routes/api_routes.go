@@ -80,7 +80,7 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 
 	if payload.Sort != nil {
 		if !common.IsValidSortField(payload.Sort.Field) {
-			c.JSON(http.StatusBadRequest, common.NewValidationError("sort.field", fmt.Sprintf("invalid sort field '%s'; valid fields are: distance_km, difficulty, estimated_duration, title, relevance", payload.Sort.Field)))
+			c.JSON(http.StatusBadRequest, common.NewValidationError("sort.field", fmt.Sprintf("invalid sort field '%s'; valid fields are: distance_km, difficulty, estimated_duration, title, relevance, random", payload.Sort.Field)))
 			return
 		}
 		if payload.Sort.Direction != "" && !common.IsValidSortDirection(payload.Sort.Direction) {
