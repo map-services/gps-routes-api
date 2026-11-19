@@ -8,6 +8,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/stretchr/testify/assert"
+
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
@@ -96,43 +98,27 @@ func TestSQLiteImportData_RoundTrip(t *testing.T) {
 	// Verify via an independent connection / repository.
 	ctx := context.Background()
 	sqlDB, err := db.NewSQLiteDB(ctx, db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open sqlite: %v", err)
-	}
+	assert.NoError(t, err)
 	defer func() { _ = sqlDB.Close() }()
 
 	repo := repositories.NewSQLiteRouteRepository(sqlDB)
 
 	count, err := repo.CountAll(ctx, &request.SearchRequest{})
-	if err != nil {
-		t.Fatalf("count: %v", err)
-	}
-	if count != 2 {
-		t.Fatalf("expected 2 imported routes, got %d", count)
-	}
+	assert.NoError(t, err)
+	assert.Equal(t, int64(2), count)
 
 	r1, err := repo.FindByObjectID(ctx, "route-1")
-	if err != nil {
-		t.Fatalf("lookup route-1: %v", err)
-	}
-	if r1 == nil || r1.Title != "Test Route 1" {
-		t.Fatalf("route-1 = %+v", r1)
-	}
-	if r1.HeadlineImageUrl == nil || *r1.HeadlineImageUrl != "http://example.com/img1.jpg" {
-		t.Errorf("route-1 headline mismatch: %+v", r1.HeadlineImageUrl)
-	}
-	if len(r1.Images) != 0 || len(r1.Details) != 0 {
-		t.Errorf("route-1 expected 0 images/details, got %d/%d", len(r1.Images), len(r1.Details))
-	}
+	assert.NoError(t, err)
+	assert.NotNil(t, r1)
+	assert.Equal(t, "Test Route 1", r1.Title)
+	assert.Equal(t, "http://example.com/img1.jpg", *r1.HeadlineImageUrl)
+	assert.Empty(t, r1.Images)
+	assert.Empty(t, r1.Details)
 
 	r2, err := repo.FindByObjectID(ctx, "route-2")
-	if err != nil {
-		t.Fatalf("lookup route-2: %v", err)
-	}
-	if r2 == nil || r2.Title != "Test Route 2" {
-		t.Fatalf("route-2 = %+v", r2)
-	}
-	if len(r2.Images) != 1 || len(r2.Details) != 1 {
-		t.Errorf("route-2 expected 1 image + 1 detail, got images=%d details=%d", len(r2.Images), len(r2.Details))
-	}
+	assert.NoError(t, err)
+	assert.NotNil(t, r2)
+	assert.Equal(t, "Test Route 2", r2.Title)
+	assert.Len(t, r2.Images, 1)
+	assert.Len(t, r2.Details, 1)
 }

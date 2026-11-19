@@ -7,6 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/stretchr/testify/assert"
+
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 )
@@ -22,18 +24,14 @@ func TestSQLiteGenerateSitemap(t *testing.T) {
 	// GenerateSitemap reads SQLITE_DB_PATH from the environment.
 	t.Setenv("SQLITE_DB_PATH", setup.dbPath)
 
-	if err := setup.repo.Store(ctx, &domain.RouteMetadata{
+	assert.NoError(t, setup.repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:         "r-1",
 		Ref:              "REF-1",
 		Title:            "Sitemap Route",
 		StartPosition:    common.GeoLoc{Latitude: 1, Longitude: 2},
 		HeadlineImageUrl: strPtr("https://example.com/img.jpg"),
-	}); err != nil {
-		t.Fatalf("store: %v", err)
-	}
-	if err := setup.db.Close(); err != nil {
-		t.Fatalf("close: %v", err)
-	}
+	}))
+	assert.NoError(t, setup.db.Close())
 
 	// GenerateSitemap writes "sitemap.xml" to the CWD — chdir into the temp dir
 	// first so the file doesn't land in the repo root.
@@ -43,15 +41,9 @@ func TestSQLiteGenerateSitemap(t *testing.T) {
 
 	xmlPath := filepath.Join(tmpDir, "sitemap.xml")
 	b, err := os.ReadFile(xmlPath)
-	if err != nil {
-		t.Fatalf("read sitemap: %v", err)
-	}
-	if len(bytes.TrimSpace(b)) == 0 {
-		t.Fatal("sitemap.xml is empty")
-	}
+	assert.NoError(t, err)
+	assert.NotEmpty(t, bytes.TrimSpace(b), "sitemap.xml is empty")
 	for _, want := range []string{"example.com", "REF-1", "https://example.com/img.jpg"} {
-		if !bytes.Contains(b, []byte(want)) {
-			t.Errorf("sitemap.xml missing %q; got:\n%s", want, b)
-		}
+		assert.Contains(t, string(b), want, "sitemap.xml should contain %s", want)
 	}
 }

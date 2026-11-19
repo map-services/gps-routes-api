@@ -4,6 +4,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/stretchr/testify/assert"
+
 	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/map-services/gps-routes-api/models/domain"
 	"github.com/map-services/gps-routes-api/models/request"
@@ -33,7 +35,7 @@ func TestSQLiteFacetCountsWithQuery(t *testing.T) {
 
 	// Title goes into the routes_fts index (via the AFTER INSERT trigger), so a
 	// full-text query for "mountain" must match this route.
-	if err := repo.Store(ctx, &domain.RouteMetadata{
+	assert.NoError(t, repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:      "facet-r-1",
 		Ref:           "REF-F1",
 		Title:         "Mountain Breeze Trail",
@@ -41,38 +43,24 @@ func TestSQLiteFacetCountsWithQuery(t *testing.T) {
 		StartPosition: common.GeoLoc{Latitude: 48.85, Longitude: 2.35},
 		Country:       strPtr("France"),
 		DistanceKm:    12.3,
-	}); err != nil {
-		t.Fatalf("store: %v", err)
-	}
+	}))
 
 	criteria := &request.SearchRequest{Query: "mountain", Limit: 100}
 
 	// FacetCounts — the query that previously errored with "no such column".
 	facets, err := repo.FacetCounts(ctx, criteria, "country", 10, false)
-	if err != nil {
-		t.Fatalf("facet counts: %v", err)
-	}
-	if got := (*facets)["France"]; got != 1 {
-		t.Errorf(`facet "France" = %d, want 1 (got %#v)`, got, *facets)
-	}
+	assert.NoError(t, err)
+	assert.Equal(t, int64(1), (*facets)["France"])
 
 	// CountAll with the same full-text criteria — same latent JOIN gap.
 	count, err := repo.CountAll(ctx, criteria)
-	if err != nil {
-		t.Fatalf("count with query: %v", err)
-	}
-	if count != 1 {
-		t.Errorf("CountAll(query=mountain) = %d, want 1", count)
-	}
+	assert.NoError(t, err)
+	assert.Equal(t, int64(1), count)
 
 	// SearchHits must still match the single indexed route.
 	hits, err := repo.SearchHits(ctx, criteria)
-	if err != nil {
-		t.Fatalf("search hits: %v", err)
-	}
-	if len(*hits) != 1 {
-		t.Errorf("SearchHits(query=mountain) returned %d hits, want 1", len(*hits))
-	}
+	assert.NoError(t, err)
+	assert.Len(t, *hits, 1)
 }
 
 // TestSQLiteFacetExcludesEmptyValues reproduces the empty-string facet bucket
@@ -86,7 +74,7 @@ func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 	repo, cleanup := newSQLiteTestRepo(t)
 	defer cleanup()
 
-	if err := repo.Store(ctx, &domain.RouteMetadata{
+	assert.NoError(t, repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:      "ev-1",
 		Ref:           "E1",
 		Title:         "Halton Route",
@@ -94,10 +82,8 @@ func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 		StartPosition: common.GeoLoc{Latitude: 50, Longitude: -1},
 		District:      strPtr("Halton"),
 		Country:       strPtr("France"),
-	}); err != nil {
-		t.Fatalf("store ev-1: %v", err)
-	}
-	if err := repo.Store(ctx, &domain.RouteMetadata{
+	}))
+	assert.NoError(t, repo.Store(ctx, &domain.RouteMetadata{
 		ObjectID:      "ev-2",
 		Ref:           "E2",
 		Title:         "Blank District Route",
@@ -105,19 +91,12 @@ func TestSQLiteFacetExcludesEmptyValues(t *testing.T) {
 		StartPosition: common.GeoLoc{Latitude: 51, Longitude: -2},
 		District:      strPtr(""), // empty string -> must be excluded from facets (== PG NULL)
 		Country:       strPtr("France"),
-	}); err != nil {
-		t.Fatalf("store ev-2: %v", err)
-	}
+	}))
 
 	// No full-text query -> no routes_fts JOIN; the "" exclusion is the point.
 	facets, err := repo.FacetCounts(ctx, &request.SearchRequest{}, "district", 10, false)
-	if err != nil {
-		t.Fatalf("facet counts: %v", err)
-	}
-	if _, hasEmpty := (*facets)[""]; hasEmpty {
-		t.Errorf("facet bucket \"\" should be excluded, got %#v", *facets)
-	}
-	if got := (*facets)["Halton"]; got != 1 {
-		t.Errorf(`facet "Halton" = %d, want 1 (got %#v)`, got, *facets)
-	}
+	assert.NoError(t, err)
+	_, hasEmpty := (*facets)[""]
+	assert.False(t, hasEmpty, "facet bucket \"\" should be excluded")
+	assert.Equal(t, int64(1), (*facets)["Halton"])
 }
