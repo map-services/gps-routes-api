@@ -18,7 +18,6 @@ import (
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
-	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
 	sloggin "github.com/samber/slog-gin"
 
@@ -84,18 +83,25 @@ func NewHttpApiServer(port int) {
 		},
 	})
 
+	// Configure API response caching with ETag support and appropriate Cache-Control headers.
+	apiCacheConfig := map[string]middlewares.CacheConfig{
+		"/v1/gps-routes/ref-data": {MaxAge: 30 * 24 * time.Hour, Private: false},
+		"/v1/gps-routes/":         {MaxAge: 30 * 24 * time.Hour, Private: false},
+		"/v1/gps-routes/search":   {MaxAge: 24 * time.Hour, Private: true},
+	}
+
 	engine.Use(
 		sloggin.NewWithConfig(slog.Default(), *logging.NewStructuredLoggingConfig("/healthz", "/metrics", "/ready")),
 		gin.Recovery(),
 		cors.New(cors.Config{
 			AllowAllOrigins: true,
-			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type"},
+			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type", "If-None-Match"},
 		}),
 		middlewares.AuthMiddleware("/healthz", "/ready"),
 		middlewares.ErrorHandler(),
+		middlewares.APICache(apiCacheConfig),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
-		cachecontrol.New(cachecontrol.CacheAssetsForeverPreset),
 		prometheus.Instrument(),
 		rateLimiter,
 	)
