@@ -983,7 +983,10 @@ func TestSQLiteDefaultSortIsRandom(t *testing.T) {
 	// Store routes with staggered created_at times so created_at DESC would
 	// produce a predictable order. If the default is random, the order should
 	// differ from created_at DESC.
-	ids := []string{"first", "second", "third"}
+	// Use IDs whose day_hash values do not match insertion order:
+	// day_hash("alpha") < day_hash("gamma") < day_hash("beta"),
+	// so the expected random order is [alpha, gamma, beta].
+	ids := []string{"alpha", "beta", "gamma"}
 	for i, id := range ids {
 		if err := repo.Store(ctx, &domain.RouteMetadata{
 			ObjectID:      id,
@@ -1006,10 +1009,12 @@ func TestSQLiteDefaultSortIsRandom(t *testing.T) {
 	assert.NoError(t, err)
 	assert.Len(t, *hits, 3)
 
-	// created_at DESC would return [first, second, third]
-	// Random sort should produce a different order in most cases
-	// We verify the order is NOT [first, second, third]
+	// created_at DESC would return [gamma, beta, alpha] (newest first).
+	// Insertion order is [alpha, beta, gamma].
+	// day_hash order is [alpha, gamma, beta] — different from both.
 	idsReturned := extractIDs(*hits)
-	assert.NotEqual(t, []string{"first", "second", "third"}, idsReturned,
+	assert.NotEqual(t, []string{"gamma", "beta", "alpha"}, idsReturned,
 		"default sort should be random, not created_at DESC")
+	assert.NotEqual(t, []string{"alpha", "beta", "gamma"}, idsReturned,
+		"default sort should be random, not insertion order")
 }
