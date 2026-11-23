@@ -8,6 +8,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestAuthMiddleware(t *testing.T) {
@@ -15,14 +16,10 @@ func TestAuthMiddleware(t *testing.T) {
 
 	originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
 	defer func() {
-		if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
-			t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
-		}
+		require.NoError(t, os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey), "restore GPS_ROUTES_API_KEY")
 	}()
 
-	if err := os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"); err != nil {
-		t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
-	}
+	require.NoError(t, os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"), "set GPS_ROUTES_API_KEY")
 	excluded := []string{"/ping"}
 
 	tests := []struct {
@@ -102,14 +99,10 @@ func TestAuthMiddleware(t *testing.T) {
 	t.Run("API Key Not Set", func(t *testing.T) {
 		originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
 		defer func() {
-			if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
-				t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
-			}
+			require.NoError(t, os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey), "restore GPS_ROUTES_API_KEY")
 		}()
 
-		if err := os.Unsetenv("GPS_ROUTES_API_KEY"); err != nil {
-			t.Errorf("failed to unset GPS_ROUTES_API_KEY environment variable: %v", err)
-		}
+		require.NoError(t, os.Unsetenv("GPS_ROUTES_API_KEY"), "unset GPS_ROUTES_API_KEY")
 
 		assert.Panics(t, func() {
 			AuthMiddleware()

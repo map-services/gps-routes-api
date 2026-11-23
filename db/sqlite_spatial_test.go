@@ -9,6 +9,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 // openHaversineTestDB opens a throwaway SQLite DB through the
@@ -52,9 +53,8 @@ func createSpatialSchema(t *testing.T, dbh *sql.DB) {
 			DELETE FROM routes_rtree WHERE id = OLD.rowid;
 		END;
 	`
-	if _, err := dbh.ExecContext(ctx, schema); err != nil {
-		t.Fatalf("create spatial schema: %v", err)
-	}
+	_, err := dbh.ExecContext(ctx, schema)
+	require.NoError(t, err, "create spatial schema")
 }
 
 // TestHaversineDistanceFunction verifies the Go-registered haversine_distance
