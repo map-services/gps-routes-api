@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/models/common"
@@ -24,16 +25,14 @@ import (
 func repoRoot(t *testing.T) string {
 	t.Helper()
 	dir, err := os.Getwd()
-	if err != nil {
-		t.Fatalf("getwd: %v", err)
-	}
+	require.NoError(t, err, "getwd")
 	for {
 		if _, err := os.Stat(filepath.Join(dir, "db", "migrations", "00002_sqlite_schema.sql")); err == nil {
 			return dir
 		}
 		parent := filepath.Dir(dir)
 		if parent == dir {
-			t.Fatal("could not locate repository root (db/migrations/00002_sqlite_schema.sql)")
+			require.Fail(t, "could not locate repository root (db/migrations/00002_sqlite_schema.sql)")
 		}
 		dir = parent
 	}
@@ -42,12 +41,8 @@ func repoRoot(t *testing.T) string {
 func writeRouteBackup(t *testing.T, path string, route *domain.RouteMetadata) {
 	t.Helper()
 	b, err := json.Marshal(route)
-	if err != nil {
-		t.Fatalf("marshal route: %v", err)
-	}
-	if err := os.WriteFile(path, b, 0o644); err != nil {
-		t.Fatalf("write %s: %v", path, err)
-	}
+	require.NoError(t, err, "marshal route")
+	require.NoError(t, os.WriteFile(path, b, 0o644), "write %s", path)
 }
 
 func strPtr(s string) *string { return &s }
@@ -65,9 +60,7 @@ func TestSQLiteImportData_RoundTrip(t *testing.T) {
 	t.Setenv("SQLITE_DB_PATH", dbPath)
 
 	backupDir := filepath.Join(tmpDir, "backup")
-	if err := os.MkdirAll(backupDir, 0o755); err != nil {
-		t.Fatalf("mkdir backup: %v", err)
-	}
+	require.NoError(t, os.MkdirAll(backupDir, 0o755), "mkdir backup")
 
 	writeRouteBackup(t, filepath.Join(backupDir, "route-1.json"), &domain.RouteMetadata{
 		ObjectID:         "route-1",

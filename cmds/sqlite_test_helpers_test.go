@@ -5,6 +5,8 @@ import (
 	"database/sql"
 	"testing"
 
+	"github.com/stretchr/testify/require"
+
 	"github.com/map-services/gps-routes-api/db"
 	"github.com/map-services/gps-routes-api/repositories"
 )
@@ -45,13 +47,11 @@ func newSQLiteTestRepoFull(t *testing.T) *sqliteTestSetup {
 	dbPath := tmpDir + "/routes.db"
 
 	if err := setupSQLiteDB(dbPath, false); err != nil {
-		t.Fatalf("setup SQLite schema: %v", err)
+		require.NoError(t, err, "setup SQLite schema")
 	}
 
 	sqlDB, err := db.NewSQLiteDB(context.Background(), db.SQLiteConfig{Path: dbPath})
-	if err != nil {
-		t.Fatalf("open SQLite database: %v", err)
-	}
+	require.NoError(t, err, "open SQLite database")
 
 	repo := repositories.NewSQLiteRouteRepository(sqlDB)
 

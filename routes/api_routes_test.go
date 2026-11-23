@@ -14,6 +14,7 @@ import (
 	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
+	"github.com/stretchr/testify/require"
 )
 
 // mockRoutesService implements services.RoutesService for testing
@@ -83,9 +84,7 @@ func TestSearchInvalidFacetIncludesValidFields(t *testing.T) {
 	assert.Equal(t, http.StatusBadRequest, w.Code)
 
 	var resp common.ErrorResponse
-	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
-		t.Fatalf("failed to unmarshal error response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &resp), "unmarshal error response")
 
 	assert.Equal(t, "VALIDATION_ERROR", resp.Error.Code)
 	assert.Contains(t, resp.Error.Message, "invalid_field")
@@ -121,9 +120,7 @@ func TestSearch_GeoJSONAcceptHeader(t *testing.T) {
 
 	// Verify FeatureCollection structure
 	var fc map[string]interface{}
-	if err := json.Unmarshal(w.Body.Bytes(), &fc); err != nil {
-		t.Fatalf("failed to unmarshal GeoJSON response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &fc), "unmarshal GeoJSON response")
 	assert.Equal(t, "FeatureCollection", fc["type"])
 
 	features, ok := fc["features"].([]interface{})
@@ -172,9 +169,7 @@ func TestSearch_DefaultJSONResponse(t *testing.T) {
 
 	// Verify SearchResults structure (not GeoJSON)
 	var sr domain.SearchResults
-	if err := json.Unmarshal(w.Body.Bytes(), &sr); err != nil {
-		t.Fatalf("failed to unmarshal SearchResults: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &sr), "unmarshal SearchResults")
 	assert.Equal(t, int64(2), sr.Total)
 	assert.Equal(t, 2, len(sr.Hits))
 	assert.Equal(t, "abc123", sr.Hits[0].ObjectID)
@@ -202,9 +197,7 @@ func TestSearch_NoAcceptHeader(t *testing.T) {
 
 	// Should default to JSON SearchResults
 	var sr domain.SearchResults
-	if err := json.Unmarshal(w.Body.Bytes(), &sr); err != nil {
-		t.Fatalf("failed to unmarshal SearchResults: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &sr), "unmarshal SearchResults")
 	assert.Equal(t, int64(2), sr.Total)
 }
 
@@ -229,9 +222,7 @@ func TestSearch_CoordinateOrder(t *testing.T) {
 	assert.Equal(t, http.StatusOK, w.Code)
 
 	var fc map[string]interface{}
-	if err := json.Unmarshal(w.Body.Bytes(), &fc); err != nil {
-		t.Fatalf("failed to unmarshal GeoJSON response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &fc), "unmarshal GeoJSON response")
 	features := fc["features"].([]interface{})
 
 	// Check second feature coordinates
@@ -298,9 +289,7 @@ func TestSearch_EmptyResultsGeoJSON(t *testing.T) {
 	assert.Equal(t, http.StatusOK, w.Code)
 
 	var fc map[string]interface{}
-	if err := json.Unmarshal(w.Body.Bytes(), &fc); err != nil {
-		t.Fatalf("failed to unmarshal GeoJSON response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &fc), "unmarshal GeoJSON response")
 	assert.Equal(t, "FeatureCollection", fc["type"])
 
 	features := fc["features"].([]interface{})
@@ -355,9 +344,7 @@ func TestSearch_StarStarAcceptHeader(t *testing.T) {
 
 	// */* should default to JSON SearchResults, not GeoJSON
 	var sr domain.SearchResults
-	if err := json.Unmarshal(w.Body.Bytes(), &sr); err != nil {
-		t.Fatalf("failed to unmarshal SearchResults: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &sr), "unmarshal SearchResults")
 	assert.Equal(t, int64(2), sr.Total)
 }
 
@@ -399,9 +386,7 @@ func TestSearch_NilHeadlineImageUrl(t *testing.T) {
 	assert.Equal(t, http.StatusOK, w.Code)
 
 	var fc map[string]interface{}
-	if err := json.Unmarshal(w.Body.Bytes(), &fc); err != nil {
-		t.Fatalf("failed to unmarshal GeoJSON response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &fc), "unmarshal GeoJSON response")
 	features := fc["features"].([]interface{})
 	assert.Equal(t, 1, len(features))
 
@@ -429,9 +414,7 @@ func TestSearch_InvalidSortField(t *testing.T) {
 	assert.Equal(t, http.StatusBadRequest, w.Code)
 
 	var resp common.ErrorResponse
-	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
-		t.Fatalf("failed to unmarshal error response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &resp), "unmarshal error response")
 
 	assert.Equal(t, "VALIDATION_ERROR", resp.Error.Code)
 	assert.Equal(t, "sort.field", resp.Error.Field)
@@ -454,9 +437,7 @@ func TestSearch_InvalidSortDirection(t *testing.T) {
 	assert.Equal(t, http.StatusBadRequest, w.Code)
 
 	var resp common.ErrorResponse
-	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
-		t.Fatalf("failed to unmarshal error response: %v", err)
-	}
+	require.NoError(t, json.Unmarshal(w.Body.Bytes(), &resp), "unmarshal error response")
 
 	assert.Equal(t, "VALIDATION_ERROR", resp.Error.Code)
 	assert.Equal(t, "sort.direction", resp.Error.Field)
