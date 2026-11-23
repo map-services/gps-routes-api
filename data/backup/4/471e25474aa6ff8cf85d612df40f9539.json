@@ -3,7 +3,7 @@
   "objectID": "471e25474aa6ff8cf85d612df40f9539",
   "ref": "yarmouth-to-freshwater-bay-walking-route",
   "title": "Yarmouth to Freshwater Bay Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg/512px-Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg/500px-Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg",
   "nearby": [
     {
       "description": "Hamstead Trail",
@@ -28,12 +28,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg/512px-Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg/500px-Yarmouth_Harbour_-_Feb_2015_-_panoramio.jpg",
       "title": "Forester2009 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Boats in Yarmouth Harbour"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yarmouth_isle_of_wight.jpg/512px-Yarmouth_isle_of_wight.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yarmouth_isle_of_wight.jpg/500px-Yarmouth_isle_of_wight.jpg",
       "title": "By Andreas Trepte (Own work) [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons",
       "caption": "Yarmouth town"
     },
@@ -48,7 +48,7 @@
       "caption": "Freshwater Bay. Looking along the beach from the terrace of the Albion Hotel. The bay sits at the western end of the region known as the Back of the Wight or the West Wight which is a popular tourist area. It is banked by some impressive steep chalk cliffs. The village is also noteworthy as the birthplace of physicist Robert Hooke who, using a microscope, was the first to visualize a microorganism. It is also notable as the home of Poet Laureate Alfred Lord Tennyson. He was the Poet Laureate during much of Queen Victoria's reign and wrote the famous poem \"The Charge of the Light Brigade\"."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kayaks_on_the_River_Yar%2C_Isle_of_Wight_-_geograph.org.uk_-_1805648.jpg/512px-Kayaks_on_the_River_Yar%2C_Isle_of_Wight_-_geograph.org.uk_-_1805648.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kayaks_on_the_River_Yar%2C_Isle_of_Wight_-_geograph.org.uk_-_1805648.jpg/500px-Kayaks_on_the_River_Yar%2C_Isle_of_Wight_-_geograph.org.uk_-_1805648.jpg",
       "title": "Peter Trimming / Kayaks on the River Yar, Isle of Wight",
       "caption": "Kayaks on the River Yar. Ideal conditions for a gentle paddle on the River Yar, just downstream of the bridge at Freshwater, some two miles from the sea."
     },
@@ -76,26 +76,25 @@
   "postcode": "PO41 0PL",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour 15 minutes",
   "difficulty": "moderate",
   "terrain": [
+    "estuary",
     "woodland",
-    "coastal",
+    "parkland",
     "beach"
   ],
   "points_of_interest": [
-    "park",
-    "fort",
-    "beach"
+    "harbour",
+    "former Victorian fort",
+    "beach",
+    "cliff"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "pub/cafe"
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "coastal walking"
+    "walking"
   ]
 }

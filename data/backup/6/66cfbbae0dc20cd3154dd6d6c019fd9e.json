@@ -1,0 +1,71 @@
+{
+  "created_at": "2026-10-22T21:41:29.607712+00:00",
+  "objectID": "66cfbbae0dc20cd3154dd6d6c019fd9e",
+  "ref": "kingham-to-daylesford-walk",
+  "title": "Kingham to Daylesford Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cottages_in_Kingham_-_geograph.org.uk_-_899665.jpg?20110221153835",
+  "nearby": [
+    {
+      "description": "Kingham-Bledington-Foxholes",
+      "objectID": "4ba756f5f7e1aff08056eacf158dcc34",
+      "ref": "kingham-bledington-foxholes-walking-route"
+    },
+    {
+      "description": "Daylesford",
+      "objectID": "835a0c7c0a16e33dc17520da91103bad",
+      "ref": "daylesford-walking-route"
+    },
+    {
+      "description": "Oxfordshire Way",
+      "objectID": "f2f8c5cb204c351de4c898446fda44cc",
+      "ref": "oxfordshire-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/66cfbbae0dc20cd3154dd6d6c019fd9e.gpx",
+  "_geoloc": {
+    "lat": 51.9137769515,
+    "lng": -1.6255905631
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cottages_in_Kingham_-_geograph.org.uk_-_899665.jpg?20110221153835",
+      "title": "Philip Halling / Cottages in Kingham",
+      "caption": "Cottages in Kingham"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Daylesford_Estate_-_geograph.org.uk_-_1951492.jpg",
+      "title": "Daylesford Estate by Michael Dibb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Daylesford Estate"
+    }
+  ],
+  "distance_km": 4.6,
+  "description": "This walk takes you from the village of Kingham to the splendid Daylesford Estate in the Cotswolds. You can reach the estate from the village on a pleasant country lane running in a north westerly direction. At Daylesford you can pick up the Oxfordshire Way and follow it east along the edge of the estate. You will pass the dell, the lake, the quarries and the farm on the public footpaths which run along the southern side of the estate. The lakeside gardens with wooded walks and rare trees and shrubs are occasionally open to the public in the summer months.",
+  "details": [],
+  "postcode": "OX7 6YZ",
+  "district": "West Oxfordshire",
+  "county": "Oxfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "estate",
+    "lake",
+    "quarry",
+    "farm"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ],
+  "nominatim_found": true,
+  "display_address": "Cozens Lane, West Oxfordshire, Oxfordshire, England, OX7 6YZ, United Kingdom",
+  "state": "England"
+}

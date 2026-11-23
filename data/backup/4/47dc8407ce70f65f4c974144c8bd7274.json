@@ -3,7 +3,7 @@
   "objectID": "47dc8407ce70f65f4c974144c8bd7274",
   "ref": "irthlingborough-walking-route",
   "title": "Irthlingborough Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/512px-Irthlingborough_Lakes_1_-_panoramio.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/500px-Irthlingborough_Lakes_1_-_panoramio.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/47dc8407ce70f65f4c974144c8bd7274.gpx",
   "_geoloc": {
     "lat": 52.3253376565,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/512px-Irthlingborough_Lakes_1_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Irthlingborough_Lakes_1_-_panoramio.jpg/500px-Irthlingborough_Lakes_1_-_panoramio.jpg",
       "title": "Andrew Roberts, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Irthlingborough Lakes"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/512px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg/500px-Irthlingborough_Lakes_and_Meadows_-_Corner_Lake_in_Winter.jpg",
       "title": "Christopher French, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "View looking North across Corner Lake in December. The top of the lantern tower of St. Peter's Church can be seen behind the trees. The tower was built to guide travellers across the Nene valley in foggy weather. It also has doors at the four cardinal points and has eight misericords in the chancel."
     },
@@ -26,7 +26,7 @@
       "caption": "A view over one of the lakes to the Stanwick Lakes Visitor Centre and Car Park."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Irthlingborough_Lakes_7_-_panoramio.jpg/512px-Irthlingborough_Lakes_7_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Irthlingborough_Lakes_7_-_panoramio.jpg/500px-Irthlingborough_Lakes_7_-_panoramio.jpg",
       "title": "Andrew Roberts, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "River and bridge"
     }
@@ -45,20 +45,16 @@
   "postcode": "NN9 5WB",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours 40 minutes",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "grassland"
+    "waterside"
   ],
   "points_of_interest": [
     "nature reserve",
-    "walking trail"
+    "wetlands"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking",

@@ -2,32 +2,41 @@ package cmds
 
 import (
 	"context"
-	"log"
+	"log/slog"
 	"net/url"
 	"os"
 	"time"
 
 	"github.com/ikeikeikeike/go-sitemap-generator/v2/stm"
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/models/request"
-	"github.com/rm-hull/gps-routes-api/repositories"
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/repositories"
+	"github.com/rm-hull/godx"
 	"github.com/schollz/progressbar/v3"
 )
 
+// GenerateSitemap writes sitemap.xml from the SQLite database.
 func GenerateSitemap(host string) {
-	dbConfig := db.ConfigFromEnv()
-	ctx := context.Background()
-	pool, err := db.NewDBPool(ctx, dbConfig)
-	if err != nil {
-		log.Fatalf("Failed to create connection pool: %v", err)
-	}
-	defer pool.Close()
+	godx.Diagnostics(slog.Default())
 
-	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	routes, err := pg.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
+	config := db.SQLiteConfigFromEnv()
+	ctx := context.Background()
+
+	sqlDB, err := db.NewSQLiteDB(ctx, config)
 	if err != nil {
-		log.Fatalf("Failed to get routes: %v", err)
+		slog.Error("failed to open SQLite database", "error", err)
+		os.Exit(1)
 	}
+	defer func() { _ = sqlDB.Close() }()
+
+	repo := repositories.NewSQLiteRouteRepository(sqlDB)
+
+	routes, err := repo.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
+	if err != nil {
+		slog.Error("Failed to get routes", "error", err)
+		os.Exit(1)
+	}
+
 	sm := stm.NewSitemap(1)
 	sm.SetDefaultHost(host)
 	sm.SetPretty(true)
@@ -37,38 +46,42 @@ func GenerateSitemap(host string) {
 	now := time.Now().Format("2006-01-02")
 	bar := progressbar.Default(int64(len(*routes)))
 	for _, route := range *routes {
-		url := stm.URL{
+		entry := stm.URL{
 			{"loc", url.QueryEscape(route.Ref)},
 			{"lastmod", now},
 		}
 
 		if route.HeadlineImageUrl != nil {
-			url = append(url, stm.URL{
+			entry = append(entry, stm.URL{
 				{"image", stm.URL{
 					{"loc", *route.HeadlineImageUrl},
 				}},
 			}...)
 		}
-		sm.Add(url)
+
+		sm.Add(entry)
 		if err := bar.Add(1); err != nil {
-			log.Fatalf("issue with progress bar: %v", err)
+			slog.Error("issue with progress bar", "error", err)
+			os.Exit(1)
 		}
 	}
 
-	// Write sitemap to file
+	// Write sitemap to file (relative to the process CWD, matching sitemap.go).
 	f, err := os.Create("sitemap.xml")
 	if err != nil {
-		log.Fatalf("failed to create sitemap file: %v", err)
+		slog.Error("failed to create sitemap file", "error", err)
+		os.Exit(1)
 	}
 	defer func() {
 		if err := f.Close(); err != nil {
-			log.Printf("failed to close sitemap file: %v", err)
+			slog.Warn("failed to close sitemap file", "error", err)
 		}
 	}()
 
 	if _, err := f.Write(sm.XMLContent()); err != nil {
-		log.Fatalf("failed to write sitemap: %v", err)
+		slog.Error("failed to write sitemap", "error", err)
+		os.Exit(1)
 	}
 
-	log.Printf("Sitemap generated")
+	slog.Info("Sitemap generated")
 }

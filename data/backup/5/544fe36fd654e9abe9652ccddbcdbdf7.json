@@ -3,7 +3,7 @@
   "objectID": "544fe36fd654e9abe9652ccddbcdbdf7",
   "ref": "euxton-yarrow-river-circular-walking-route",
   "title": "Euxton Yarrow River Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg/512px-Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg/500px-Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/544fe36fd654e9abe9652ccddbcdbdf7.gpx",
   "_geoloc": {
     "lat": 53.6607647455,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg/512px-Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg/500px-Millennium_Green%2C_Euxton_-_geograph.org.uk_-_4403580.jpg",
       "title": "Millennium Green, Euxton by Gary Rogers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Millennium Green, Euxton"
     },
@@ -74,24 +74,23 @@
   "district": "Chorley",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "riverside",
-    "countryside"
+    "riverside"
   ],
   "points_of_interest": [
-    "park",
-    "estate",
-    "historic building"
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

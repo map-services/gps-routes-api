@@ -3,7 +3,7 @@
   "objectID": "1dbe83eacaf4d3039df75c260d62ce2f",
   "ref": "st-just-walking-route",
   "title": "St Just Walks - Coastal Walk to Cape Cornwall and Land's End",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg/512px-Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg/500px-Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1dbe83eacaf4d3039df75c260d62ce2f.gpx",
   "_geoloc": {
     "lat": 50.124574504,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg/512px-Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg/500px-Sunny_St._Just_-_geograph.org.uk_-_3149486.jpg",
       "title": "Sunny St. Just by Jonathan Billinger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sunny St. Just"
     },
@@ -46,7 +46,7 @@
       "caption": "Headlands and rocky beaches"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Land%27s_End%2C_Cornwall%2C_England.jpg/512px-Land%27s_End%2C_Cornwall%2C_England.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Land%27s_End%2C_Cornwall%2C_England.jpg/500px-Land%27s_End%2C_Cornwall%2C_England.jpg",
       "title": "Keven Law from Los Angeles, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Land's End, Cornwall, England"
     }
@@ -74,17 +74,16 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "cliff"
+    "cliff top"
   ],
   "points_of_interest": [
-    "mines",
-    "viewpoint"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

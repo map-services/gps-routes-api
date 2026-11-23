@@ -3,7 +3,7 @@
   "objectID": "e2ffdea07b40bdca82980950a30ef4b7",
   "ref": "downham-market-walking-route",
   "title": "Downham Market Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg/512px-Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg/500px-Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e2ffdea07b40bdca82980950a30ef4b7.gpx",
   "_geoloc": {
     "lat": 52.6037047148,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg/512px-Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg/500px-Downham_Market_Clock_-_geograph.org.uk_-_2526334.jpg",
       "title": "Downham Market Clock by Josie Campbell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Downham Market Clock"
     },
@@ -21,7 +21,7 @@
       "caption": "View across the River Great Ouse south of Downham Market"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Downham_Market_Town_Centre_-_geograph.org.uk_-_2059271.jpg/256px-Downham_Market_Town_Centre_-_geograph.org.uk_-_2059271.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Downham_Market_Town_Centre_-_geograph.org.uk_-_2059271.jpg/330px-Downham_Market_Town_Centre_-_geograph.org.uk_-_2059271.jpg",
       "title": "Downham Market Town Centre by Mike Todd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Town Centre"
     },
@@ -46,7 +46,7 @@
       "caption": "Fen Rivers Way sign. East bank of River Great Ouse, Stowbridge."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Relief_Channel_at_Magdalen_-_geograph.org.uk_-_2295575.jpg/512px-The_Relief_Channel_at_Magdalen_-_geograph.org.uk_-_2295575.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Relief_Channel_at_Magdalen_-_geograph.org.uk_-_2295575.jpg/500px-The_Relief_Channel_at_Magdalen_-_geograph.org.uk_-_2295575.jpg",
       "title": "The Relief Channel at Magdalen by Richard Humphrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Relief Channel at Magdalen"
     }
@@ -71,20 +71,18 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "footpath"
+    "riverside"
   ],
   "points_of_interest": [
     "market square",
-    "church",
-    "clock tower"
+    "parish church",
+    "clock tower",
+    "cathedral"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -3,7 +3,7 @@
   "objectID": "ac185ad2fba31354a09ac2c6c76be1e4",
   "ref": "kings-meaburn-walking-route",
   "title": "King's Meaburn Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kings_Meaburn_Ford_%28geograph_3893267%29.jpg/512px-Kings_Meaburn_Ford_%28geograph_3893267%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kings_Meaburn_Ford_%28geograph_3893267%29.jpg/500px-Kings_Meaburn_Ford_%28geograph_3893267%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ac185ad2fba31354a09ac2c6c76be1e4.gpx",
   "_geoloc": {
     "lat": 54.5840982886,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kings_Meaburn_Ford_%28geograph_3893267%29.jpg/512px-Kings_Meaburn_Ford_%28geograph_3893267%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kings_Meaburn_Ford_%28geograph_3893267%29.jpg/500px-Kings_Meaburn_Ford_%28geograph_3893267%29.jpg",
       "title": "John Walton / King's Meaburn Ford",
       "caption": "King's Meaburn Ford. This beautiful ford is found on the River Lyvennet at King's Meaburn."
     },
@@ -21,17 +21,17 @@
       "caption": "River Lyvennet"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rock_climbers_at_Jackdaws%27_Scar%2C_King%27s_Meaburn_-_geograph.org.uk_-_2846303.jpg/256px-Rock_climbers_at_Jackdaws%27_Scar%2C_King%27s_Meaburn_-_geograph.org.uk_-_2846303.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rock_climbers_at_Jackdaws%27_Scar%2C_King%27s_Meaburn_-_geograph.org.uk_-_2846303.jpg/330px-Rock_climbers_at_Jackdaws%27_Scar%2C_King%27s_Meaburn_-_geograph.org.uk_-_2846303.jpg",
       "title": "Rock climbers at Jackdaws' Scar, King's Meaburn by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rock climbers at Jackdaws' Scar, King's Meaburn"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg/512px-River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg/500px-River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg",
       "title": "River Lyvennet by the Mill by mauldy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Lyvennet by the Mill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg/512px-River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg/500px-River_Lyvennet_by_the_Mill_-_geograph.org.uk_-_3601927.jpg",
       "title": "River Lyvennet by the Mill by mauldy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Lyvennet by the Mill"
     },
@@ -54,25 +54,21 @@
   "district": "Kings Meaburn",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "lake"
+    "woodland"
   ],
   "points_of_interest": [
     "ford",
-    "rock outcrop",
+    "limestone outcrop",
+    "old mill",
     "waterfall",
-    "long distance trail",
-    "historic hall"
+    "historic site"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

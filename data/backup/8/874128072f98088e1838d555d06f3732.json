@@ -3,7 +3,7 @@
   "objectID": "874128072f98088e1838d555d06f3732",
   "ref": "great-budworth-walking-route",
   "title": "Great Budworth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Great_Budworth_-_geograph.org.uk_-_2263645.jpg/512px-Great_Budworth_-_geograph.org.uk_-_2263645.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Great_Budworth_-_geograph.org.uk_-_2263645.jpg/500px-Great_Budworth_-_geograph.org.uk_-_2263645.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/874128072f98088e1838d555d06f3732.gpx",
   "_geoloc": {
     "lat": 53.2950256948,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Great_Budworth_-_geograph.org.uk_-_2263645.jpg/512px-Great_Budworth_-_geograph.org.uk_-_2263645.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Great_Budworth_-_geograph.org.uk_-_2263645.jpg/500px-Great_Budworth_-_geograph.org.uk_-_2263645.jpg",
       "title": "Great Budworth by Galatas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Great Budworth church and village viewed from the mere."
     },
@@ -26,7 +26,7 @@
       "caption": "George and Dragon, Great Budworth. The inn is a Grade II listed building. In 1875, John Douglas was commissioned to restore it by Egerton-Warburton. He added tall rubbed chimneys, mullioned windows and a steep pyramidal turret."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St_Mary_and_All_Saints_Church%2C_Great_Budworth.jpg/256px-St_Mary_and_All_Saints_Church%2C_Great_Budworth.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St_Mary_and_All_Saints_Church%2C_Great_Budworth.jpg/330px-St_Mary_and_All_Saints_Church%2C_Great_Budworth.jpg",
       "title": "Ian Rutson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Mary and All Saints Church. This noteworthy church dates back to the 15th century. There's also a 14th century chapel in the grounds."
     },
@@ -41,7 +41,7 @@
       "caption": "Tree-lined avenue in Marbury Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Trent_%5E_Mersey_Canal_south_of_Marbury_Country_Park_-_geograph.org.uk_-_2161513.jpg/512px-The_Trent_%5E_Mersey_Canal_south_of_Marbury_Country_Park_-_geograph.org.uk_-_2161513.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Trent_%5E_Mersey_Canal_south_of_Marbury_Country_Park_-_geograph.org.uk_-_2161513.jpg/500px-The_Trent_%5E_Mersey_Canal_south_of_Marbury_Country_Park_-_geograph.org.uk_-_2161513.jpg",
       "title": "The Trent & Mersey Canal south of Marbury Country Park by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Trent and Mersey Canal south of Marbury Country Park"
     },
@@ -78,24 +78,26 @@
   "district": "Great Budworth",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "parkland",
     "waterside"
   ],
   "points_of_interest": [
-    "historical landmarks",
-    "local flora and fauna"
+    "historical site",
+    "church",
+    "country park",
+    "canal"
   ],
   "facilities": [
-    "pub",
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

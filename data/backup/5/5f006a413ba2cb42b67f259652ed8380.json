@@ -3,7 +3,7 @@
   "objectID": "5f006a413ba2cb42b67f259652ed8380",
   "ref": "monkton-farleigh-walking-route",
   "title": "Monkton Farleigh Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg/512px-Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg/500px-Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5f006a413ba2cb42b67f259652ed8380.gpx",
   "_geoloc": {
     "lat": 51.3886818986,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg/512px-Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg/500px-Cottages_in_Monkton_Farleigh_-_geograph.org.uk_-_5273493.jpg",
       "title": "Cottages in Monkton Farleigh by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The village is known for its underground mines of Bath Stone, which were converted into one of the largest Ministry of Defence underground ammunition stores in the country"
     },
@@ -41,12 +41,12 @@
       "caption": "The King's Arms"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Church_of_St_Peter_at_Monkton_Farleigh_-_geograph.org.uk_-_4849553.jpg/512px-The_Church_of_St_Peter_at_Monkton_Farleigh_-_geograph.org.uk_-_4849553.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Church_of_St_Peter_at_Monkton_Farleigh_-_geograph.org.uk_-_4849553.jpg/500px-The_Church_of_St_Peter_at_Monkton_Farleigh_-_geograph.org.uk_-_4849553.jpg",
       "title": "The Church of St Peter at Monkton Farleigh by Peter Wood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Church of St Peter. The west tower may be from the 12th or 13th centuries."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wheat_fields_near_Monkton_Farleigh_-_geograph.org.uk_-_5274545.jpg/512px-Wheat_fields_near_Monkton_Farleigh_-_geograph.org.uk_-_5274545.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wheat_fields_near_Monkton_Farleigh_-_geograph.org.uk_-_5274545.jpg/500px-Wheat_fields_near_Monkton_Farleigh_-_geograph.org.uk_-_5274545.jpg",
       "title": "Wheat fields near Monkton Farleigh by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wheat fields near the village"
     }
@@ -73,20 +73,21 @@
   "display_address": "Farleigh Wick, Monkton Farleigh, Wiltshire, England, BA15 2QB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "countryside",
-    "estate grounds"
+    "countryside"
   ],
   "points_of_interest": [
     "manor house",
     "church",
+    "priory",
     "chapel"
   ],
   "facilities": [
-    "pub",
-    "visitor center"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -3,7 +3,7 @@
   "objectID": "d1fdaebb691313b8fe16c12c4398543e",
   "ref": "truro-walking-route",
   "title": "Truro Walks - City and River",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Truro_Cathedral_-_geograph.org.uk_-_905437.jpg/256px-Truro_Cathedral_-_geograph.org.uk_-_905437.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Truro_Cathedral_-_geograph.org.uk_-_905437.jpg/330px-Truro_Cathedral_-_geograph.org.uk_-_905437.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1fdaebb691313b8fe16c12c4398543e.gpx",
   "_geoloc": {
     "lat": 50.2637487519,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Truro_Cathedral_-_geograph.org.uk_-_905437.jpg/256px-Truro_Cathedral_-_geograph.org.uk_-_905437.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Truro_Cathedral_-_geograph.org.uk_-_905437.jpg/330px-Truro_Cathedral_-_geograph.org.uk_-_905437.jpg",
       "title": "Sarah Smith / Truro Cathedral",
       "caption": "Truro Cathedral. The cathedral was built on the site of the Parish Church of St Mary and the foundation stone was laid in 1880. The building was completed in 1910."
     },
@@ -31,7 +31,7 @@
       "caption": "Truro River. Looking across the river from a small slipway on Newham Road. On the far side is Boscawen Park, beyond which trees follow the hedges alongside narrow fields across the hill below Little Park Farm."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Truro_Cathedral_%283164614770%29.jpg/256px-Truro_Cathedral_%283164614770%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Truro_Cathedral_%283164614770%29.jpg/330px-Truro_Cathedral_%283164614770%29.jpg",
       "title": "Tim Green from Bradford, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Truro Cathedral and city as viewed from Boscawen Park."
     },
@@ -41,7 +41,7 @@
       "caption": "The bathing hut at Sunny Corner. Built in the 1930s. Swimming was very popular here for a while but has declined lately."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Path_through_the_trees_below_the_Malpas_Road_-_geograph.org.uk_-_763082.jpg/256px-Path_through_the_trees_below_the_Malpas_Road_-_geograph.org.uk_-_763082.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Path_through_the_trees_below_the_Malpas_Road_-_geograph.org.uk_-_763082.jpg/330px-Path_through_the_trees_below_the_Malpas_Road_-_geograph.org.uk_-_763082.jpg",
       "title": "Rod Allday / Path through the trees below the Malpas Road",
       "caption": "Path through the trees below the Malpas Road"
     },
@@ -78,24 +78,23 @@
   "display_address": "Godolphin House, 7-8, Cathedral Lane, Moresk, Truro, Cornwall, England, TR1 2QS, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland"
+    "riverside"
   ],
   "points_of_interest": [
+    "cathedral",
+    "nature reserve",
     "park",
-    "river"
+    "mill"
   ],
   "facilities": [
-    "cafe",
-    "pub",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

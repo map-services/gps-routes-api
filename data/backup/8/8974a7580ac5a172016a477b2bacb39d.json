@@ -26,12 +26,12 @@
       "caption": "A glimpse of the canal, Pencelli"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cefn_Brynich_Aqueduct_-_geograph.org.uk_-_3123419.jpg/512px-Cefn_Brynich_Aqueduct_-_geograph.org.uk_-_3123419.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cefn_Brynich_Aqueduct_-_geograph.org.uk_-_3123419.jpg/500px-Cefn_Brynich_Aqueduct_-_geograph.org.uk_-_3123419.jpg",
       "title": "Cefn Brynich Aqueduct by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cefn Brynich Aqueduct"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Along_the_Brecon_and_Abergavenny_Canal_%283720929575%29.jpg/512px-Along_the_Brecon_and_Abergavenny_Canal_%283720929575%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Along_the_Brecon_and_Abergavenny_Canal_%283720929575%29.jpg/500px-Along_the_Brecon_and_Abergavenny_Canal_%283720929575%29.jpg",
       "title": "Greg Willis from Denver, CO, usa, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Along the Brecon and Abergavenny Canal"
     },
@@ -65,21 +65,18 @@
   "district": null,
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "rural"
+    "canalside",
+    "country lane"
   ],
   "points_of_interest": [
-    "viewpoint",
     "aqueduct",
-    "river"
+    "river",
+    "viewpoint"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking"

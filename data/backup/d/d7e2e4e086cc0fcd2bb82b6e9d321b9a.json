@@ -3,7 +3,7 @@
   "objectID": "d7e2e4e086cc0fcd2bb82b6e9d321b9a",
   "ref": "south-harting-walking-route",
   "title": "South Harting Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Harting5.JPG/512px-South_Harting5.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Harting5.JPG/500px-South_Harting5.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d7e2e4e086cc0fcd2bb82b6e9d321b9a.gpx",
   "_geoloc": {
     "lat": 50.9672249532,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Harting5.JPG/512px-South_Harting5.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Harting5.JPG/500px-South_Harting5.JPG",
       "title": "Charles, Public domain, via Wikimedia Commons",
       "caption": "Looking into the village from the church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Mary_and_St_Gabriel%2C_Harting%2C_from_outside_gate.jpg/512px-St_Mary_and_St_Gabriel%2C_Harting%2C_from_outside_gate.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Mary_and_St_Gabriel%2C_Harting%2C_from_outside_gate.jpg/500px-St_Mary_and_St_Gabriel%2C_Harting%2C_from_outside_gate.jpg",
       "title": "Rwendland, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "The Parish Church of St Mary & St Gabriel Harting (wording on sign by gate), in the village of South Harting. The tall World War I memorial inside the gate is by Eric Gill."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/The_South_Downs_Way_entering_the_Harting_Down_Nature_Reserve_-_geograph.org.uk_-_2415621.jpg/512px-The_South_Downs_Way_entering_the_Harting_Down_Nature_Reserve_-_geograph.org.uk_-_2415621.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/The_South_Downs_Way_entering_the_Harting_Down_Nature_Reserve_-_geograph.org.uk_-_2415621.jpg/500px-The_South_Downs_Way_entering_the_Harting_Down_Nature_Reserve_-_geograph.org.uk_-_2415621.jpg",
       "title": "The South Downs Way entering the Harting Down Nature Reserve by Tim Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The South Downs Way entering the Harting Down Nature Reserve"
     },
@@ -31,7 +31,7 @@
       "caption": "The Vandalian Tower Ruins on Tower Hill. Ruins and viewpoint east of the house. It stands in the heart of the West Sussex countryside, yet its roots lie in America. The historical folly dates back to the 18th century. It was constructed to commemorate the British colony of Vandalia, a colony that eventually disappeared as the American colonies evolved. The Vandalian Tower is situated on the summit of Tower Hill and serves as a fascinating relic of the past. This folly, with its unique design and historical significance, adds a distinctive charm to the landscape."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_White_Hart_Inn%2C_South_Harting_-_geograph.org.uk_-_2969268.jpg/512px-The_White_Hart_Inn%2C_South_Harting_-_geograph.org.uk_-_2969268.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_White_Hart_Inn%2C_South_Harting_-_geograph.org.uk_-_2969268.jpg/500px-The_White_Hart_Inn%2C_South_Harting_-_geograph.org.uk_-_2969268.jpg",
       "title": "The White Hart Inn, South Harting by Barry Shimmon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The White Hart Inn, South Harting"
     },
@@ -60,17 +60,18 @@
   "display_address": "B2146, Harting, South Harting, Chichester, West Sussex, England, GU31 5QL, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "downland"
+    "chalk downland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "views"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
+    "pub/cafe",
     "car park"
   ],
   "route_type": "circular",

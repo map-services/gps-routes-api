@@ -3,7 +3,7 @@
   "objectID": "6c326b10018da294b02a77f2af43bad1",
   "ref": "dormansland-four-counties-walking-route",
   "title": "Dormansland Four Counties Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/512px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/500px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6c326b10018da294b02a77f2af43bad1.gpx",
   "_geoloc": {
     "lat": 51.1607412,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/512px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/500px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
       "title": "The Royal Oak, Public House, Dormansland by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Royal Oak, Public House in the village. Dormansland is a rural and semi-rural village situated in a largely cleared, flat area of the Weald, with woodlands primarily covering Greathed's private park within the village and scattered woodlands in Dormans Park, a housing estate near the southern border. This large civil parish lies approximately one mile south of Lingfield. Unlike many English villages, Dormansland is relatively modern. It is bordered by Kent to the east and by West Sussex and East Sussex to the south, making it the only area in the county that borders East Sussex. The nearest town is East Grinstead, a small town just across the West Sussex border adjacent to Dormans Park. The highest point in southeast Surrey, Dry Hill, is located here, standing at 172 metres above sea level and ranking as the 19th highest hill in Surrey. The Prime Meridian runs through the parish, just west of its centre. London is situated 25 miles (40 km) to the north."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ford_Manor_Road%2C_Dormansland_-_geograph.org.uk_-_6351895.jpg/512px-Ford_Manor_Road%2C_Dormansland_-_geograph.org.uk_-_6351895.jpg?20240518083919",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ford_Manor_Road%2C_Dormansland_-_geograph.org.uk_-_6351895.jpg/500px-Ford_Manor_Road%2C_Dormansland_-_geograph.org.uk_-_6351895.jpg?20240518083919",
       "title": "Ford Manor Road, Dormansland by Malc McDonald, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ford Manor Road, Dormansland"
     },
@@ -44,22 +44,17 @@
   "district": "Dormansland",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "countryside"
+    "village"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

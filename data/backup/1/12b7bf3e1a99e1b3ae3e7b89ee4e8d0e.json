@@ -58,7 +58,7 @@
       "caption": "This is a cycle path, however it seems only an unlaiden bicycle of standard design can fit though the barrier. It seems non-standard bicycles and luggage is forbidden."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Regent%27s_Canal%2C_jct._with_Hertford_Union_Canal_-_geograph.org.uk_-_2380855.jpg/512px-Regent%27s_Canal%2C_jct._with_Hertford_Union_Canal_-_geograph.org.uk_-_2380855.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Regent%27s_Canal%2C_jct._with_Hertford_Union_Canal_-_geograph.org.uk_-_2380855.jpg/500px-Regent%27s_Canal%2C_jct._with_Hertford_Union_Canal_-_geograph.org.uk_-_2380855.jpg",
       "title": "Regent's Canal: jct. with Hertford Union Canal by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Regent's Canal, jct. with Hertford Union Canal"
     },
@@ -92,20 +92,18 @@
   "display_address": "Coqfighter, 96, White Post Lane, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, England, E9 5EN, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "canal"
+    "waterside"
   ],
   "points_of_interest": [
-    "park",
-    "canal"
+    "lock",
+    "bridge",
+    "park"
   ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

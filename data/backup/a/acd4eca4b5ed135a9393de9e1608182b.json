@@ -3,7 +3,7 @@
   "objectID": "acd4eca4b5ed135a9393de9e1608182b",
   "ref": "loch-ryan-walking-route",
   "title": "Stranraer Walks - Loch Ryan Coastal Path",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg/512px-Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg?20230906015739",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg/500px-Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg?20230906015739",
   "nearby": [
     {
       "description": "Ayrshire Coastal Path",
@@ -38,12 +38,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg/512px-Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg?20230906015739",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg/500px-Loch_Ryan%2C_Stranraer_-_geograph.org.uk_-_5395959.jpg?20230906015739",
       "title": "Loch Ryan, Stranraer by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Loch Ryan is a sea loch located in the southwest of Scotland, known for its strategic significance as a natural harbour. It serves as a key point for ferry services between Scotland and Northern Ireland due to its calm and sheltered waters. Historically, the loch has played a vital role in both civilian and military maritime activities, offering a safe harbour in what can otherwise be a treacherous area for sea travel. The largest settlement along Loch Ryan is the town of Stranraer, which traditionally operated as a major ferry port. However, in more recent times, ferry operations have shifted to Cairnryan, a smaller village located further north on the loch."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_5769086.jpg/512px-Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_5769086.jpg?20231120040432",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_5769086.jpg/500px-Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_5769086.jpg?20231120040432",
       "title": "Loch Ryan Coastal Path by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Loch Ryan Coastal Path at Cairnryan. Cairnryan now hosts two ferry terminals that provide regular services to Northern Ireland, linking Scotland with the ports of Belfast and Larne. These ferry routes are crucial for both passenger and freight transport between the two regions. Loch Ryan's geography, with its deep and sheltered waters, has made it an ideal location for these operations, supporting the continued economic link between Scotland and Northern Ireland."
     },
@@ -53,7 +53,7 @@
       "caption": "On The Loch Ryan Coastal Path. In addition to its modern use, Loch Ryan has historical significance dating back to World War II when it served as a base for naval operations. The loch's sheltered conditions made it a safe haven for military ships during the war. Today, while its primary function is for commercial ferry traffic, Loch Ryan remains a site of both historical and strategic maritime importance."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_4998896.jpg/512px-Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_4998896.jpg?20230625111801",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_4998896.jpg/500px-Loch_Ryan_Coastal_Path_-_geograph.org.uk_-_4998896.jpg?20230625111801",
       "title": "Loch Ryan Coastal Path by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     }
@@ -78,19 +78,16 @@
   "state": "Alba / Scotland",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "woodland"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical information"
+    "historical site",
+    "viewpoint"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

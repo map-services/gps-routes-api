@@ -3,7 +3,7 @@
   "objectID": "3aa3dc3d18a2bbdf1d7381ce30c4b1f9",
   "ref": "colwall-walking-route",
   "title": "Colwall Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colwall_Church_-_geograph.org.uk_-_3179222.jpg/512px-Colwall_Church_-_geograph.org.uk_-_3179222.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colwall_Church_-_geograph.org.uk_-_3179222.jpg/500px-Colwall_Church_-_geograph.org.uk_-_3179222.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3aa3dc3d18a2bbdf1d7381ce30c4b1f9.gpx",
   "_geoloc": {
     "lat": 52.0799208769,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colwall_Church_-_geograph.org.uk_-_3179222.jpg/512px-Colwall_Church_-_geograph.org.uk_-_3179222.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colwall_Church_-_geograph.org.uk_-_3179222.jpg/500px-Colwall_Church_-_geograph.org.uk_-_3179222.jpg",
       "title": "Colwall Church by Bob Embleton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Colwall Church"
     },
@@ -21,7 +21,7 @@
       "caption": "Parkland, Colwall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Upper_Colwall%2C_Herefordshire_-_geograph.org.uk_-_3260054.jpg/512px-Upper_Colwall%2C_Herefordshire_-_geograph.org.uk_-_3260054.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Upper_Colwall%2C_Herefordshire_-_geograph.org.uk_-_3260054.jpg/500px-Upper_Colwall%2C_Herefordshire_-_geograph.org.uk_-_3260054.jpg",
       "title": "Upper Colwall, Herefordshire by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Upper Colwall, Herefordshire"
     },
@@ -74,18 +74,19 @@
   "postcode": "WR13 6NR",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "woodland",
     "hill"
   ],
   "points_of_interest": [
-    "beacon",
-    "camp"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "hotel",
-    "train station"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

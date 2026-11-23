@@ -3,7 +3,7 @@
   "objectID": "026b59d8dbaa7d5e92283fd92746dedb",
   "ref": "llanbedrog-walking-route",
   "title": "Llanbedrog Walks - Llanbedrog to Pwllheli Coastal Path",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg/512px-Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg/500px-Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg",
   "nearby": [
     {
       "description": "Pwllheli",
@@ -88,17 +88,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg/512px-Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg/500px-Beach_hut_reflections%2C_Llanbedrog_-_geograph.org.uk_-_1885126.jpg",
       "title": "Beach hut reflections, Llanbedrog by Dave Croker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Beach hut reflections, Llanbedrog"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Low_tide_at_Llanbedrog_-_geograph.org.uk_-_1885136.jpg/512px-Low_tide_at_Llanbedrog_-_geograph.org.uk_-_1885136.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Low_tide_at_Llanbedrog_-_geograph.org.uk_-_1885136.jpg/500px-Low_tide_at_Llanbedrog_-_geograph.org.uk_-_1885136.jpg",
       "title": "Low tide at Llanbedrog by Dave Croker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Low tide at Llanbedrog"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_%22Bistro_by_the_Beach%22_Llanbedrog_-_geograph.org.uk_-_1890192.jpg/512px-The_%22Bistro_by_the_Beach%22_Llanbedrog_-_geograph.org.uk_-_1890192.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_%22Bistro_by_the_Beach%22_Llanbedrog_-_geograph.org.uk_-_1890192.jpg/500px-The_%22Bistro_by_the_Beach%22_Llanbedrog_-_geograph.org.uk_-_1890192.jpg",
       "title": "The \"Bistro by the Beach\" Llanbedrog by Dave Croker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Bistro by the Beach Llanbedrog"
     },
@@ -113,7 +113,7 @@
       "caption": "Carreg y Defaid from the headland. Looking north eastwards along the low sandy coastline between Llanbedrog and Pwllheli."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/View_eastwards_along_the_beach_-_geograph.org.uk_-_2086713.jpg/512px-View_eastwards_along_the_beach_-_geograph.org.uk_-_2086713.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/View_eastwards_along_the_beach_-_geograph.org.uk_-_2086713.jpg/500px-View_eastwards_along_the_beach_-_geograph.org.uk_-_2086713.jpg",
       "title": "View eastwards along the beach by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View eastwards along the beach, Pwllheli"
     },
@@ -155,23 +155,25 @@
   "district": "Llanbedrog",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "beach",
+    "coastal",
     "woodland",
     "heathland"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "beach"
+    "beach",
+    "headland",
+    "golf course"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

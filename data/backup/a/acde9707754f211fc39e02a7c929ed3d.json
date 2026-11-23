@@ -3,7 +3,7 @@
   "objectID": "acde9707754f211fc39e02a7c929ed3d",
   "ref": "chantry-wood-walking-route",
   "title": "Chantry Wood and Chantries Hill Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bluebells%2C_Chantry_Wood.jpg/512px-Bluebells%2C_Chantry_Wood.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bluebells%2C_Chantry_Wood.jpg/500px-Bluebells%2C_Chantry_Wood.jpg",
   "nearby": [
     {
       "description": "North Downs Way",
@@ -28,12 +28,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bluebells%2C_Chantry_Wood.jpg/512px-Bluebells%2C_Chantry_Wood.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bluebells%2C_Chantry_Wood.jpg/500px-Bluebells%2C_Chantry_Wood.jpg",
       "title": "AndyScott [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Lovely carpet of Bluebells, Chantry Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cathedral_View%2C_Chantry_Wood%2C_Guildford.jpg/512px-Cathedral_View%2C_Chantry_Wood%2C_Guildford.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cathedral_View%2C_Chantry_Wood%2C_Guildford.jpg/500px-Cathedral_View%2C_Chantry_Wood%2C_Guildford.jpg",
       "title": "AndyScott [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Cathedral viewed through the woods on a fine summer day"
     },
@@ -48,12 +48,12 @@
       "caption": "Chantry Wood Car Park on a frosty winter day"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Chantries_Slopes_-_geograph.org.uk_-_639533.jpg/256px-Chantries_Slopes_-_geograph.org.uk_-_639533.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Chantries_Slopes_-_geograph.org.uk_-_639533.jpg/330px-Chantries_Slopes_-_geograph.org.uk_-_639533.jpg",
       "title": "Colin Smith / Chantries Slopes",
       "caption": "Chantries Hill Slopes. Looking eastwards over the bushy and grassy hillside towards St Martha's Hill (with church tower on skyline)."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Along_the_Pilgrims%27_Way%2C_Near_Chilworth_-_geograph.org.uk_-_1705732.jpg/512px-Along_the_Pilgrims%27_Way%2C_Near_Chilworth_-_geograph.org.uk_-_1705732.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Along_the_Pilgrims%27_Way%2C_Near_Chilworth_-_geograph.org.uk_-_1705732.jpg/500px-Along_the_Pilgrims%27_Way%2C_Near_Chilworth_-_geograph.org.uk_-_1705732.jpg",
       "title": "Peter Trimming / Along the Pilgrims' Way, Near Chilworth",
       "caption": "Along the Pilgrims' Way, Near Chilworth Looking back towards Guildford, the sandy topsoil is evident in this photograph. The two horses give the look of knowing where I am heading; and wishing that they could go, too."
     },
@@ -63,7 +63,7 @@
       "caption": "Scholar's Trail in the Chantries. Surrey University's waymarked footpath winding its way through the mixed woodland of the Chantries on the Greensand Ridge."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Seahorse_Shalford.jpg/512px-The_Seahorse_Shalford.jpg?20190930211257",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Seahorse_Shalford.jpg/500px-The_Seahorse_Shalford.jpg?20190930211257",
       "title": "Switchwitch2007, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "The Seahorse Shalford. A nice place to relax after your walk."
     }
@@ -95,23 +95,25 @@
   "display_address": "Chantries Car Park, Echo Pit Road, Charlotteville, Guildford, Surrey, England, GU1 3TW, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "chalk downland"
+    "meadow",
+    "downland"
   ],
   "points_of_interest": [
     "viewpoint",
-    "summit",
-    "woodland trails"
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "bridleway"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

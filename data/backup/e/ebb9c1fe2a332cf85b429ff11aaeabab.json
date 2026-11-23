@@ -3,7 +3,7 @@
   "objectID": "ebb9c1fe2a332cf85b429ff11aaeabab",
   "ref": "findon-walking-route",
   "title": "Findon Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Houses_in_High_Street%2C_Findon%2C_Sussex.JPG/512px-Houses_in_High_Street%2C_Findon%2C_Sussex.JPG?20110910215211",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Houses_in_High_Street%2C_Findon%2C_Sussex.JPG/500px-Houses_in_High_Street%2C_Findon%2C_Sussex.JPG?20110910215211",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ebb9c1fe2a332cf85b429ff11aaeabab.gpx",
   "_geoloc": {
     "lat": 50.8688991815,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Houses_in_High_Street%2C_Findon%2C_Sussex.JPG/512px-Houses_in_High_Street%2C_Findon%2C_Sussex.JPG?20110910215211",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Houses_in_High_Street%2C_Findon%2C_Sussex.JPG/500px-Houses_in_High_Street%2C_Findon%2C_Sussex.JPG?20110910215211",
       "title": "Charlesdrakew, CC0, via Wikimedia Commons",
       "caption": "Houses in High Street, Findon, Sussex"
     },
@@ -21,12 +21,12 @@
       "caption": "Residences in Findon"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cissbury_Ring_-_geograph.org.uk_-_2431225.jpg/512px-Cissbury_Ring_-_geograph.org.uk_-_2431225.jpg?20210803061825",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cissbury_Ring_-_geograph.org.uk_-_2431225.jpg/500px-Cissbury_Ring_-_geograph.org.uk_-_2431225.jpg?20210803061825",
       "title": "Cissbury Ring by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cissbury Ring"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._John_the_Baptist%2C_Findon_-_geograph.org.uk_-_4033756.jpg/512px-St._John_the_Baptist%2C_Findon_-_geograph.org.uk_-_4033756.jpg?20221122231524",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._John_the_Baptist%2C_Findon_-_geograph.org.uk_-_4033756.jpg/500px-St._John_the_Baptist%2C_Findon_-_geograph.org.uk_-_4033756.jpg?20221122231524",
       "title": "St. John the Baptist, Findon by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St. John the Baptist, Findon"
     }
@@ -49,21 +49,20 @@
   "display_address": "The Chalet, Horsham Road, Nepcote, Findon, Arun, West Sussex, England, BN14 0UY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
     "hill fort",
     "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -58,7 +58,7 @@
       "caption": "Pineapple Garden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Craigtoun_Formal_Garden.jpg/256px-Craigtoun_Formal_Garden.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Craigtoun_Formal_Garden.jpg/330px-Craigtoun_Formal_Garden.jpg",
       "title": "R.Cornwell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Craigtoun Formal Garden"
     },
@@ -68,7 +68,7 @@
       "caption": "Wide lawn area in spring."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St_Andrews_Parkrun%2C_Craigtoun_Park_-_geograph.org.uk_-_4290129.jpg/256px-St_Andrews_Parkrun%2C_Craigtoun_Park_-_geograph.org.uk_-_4290129.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St_Andrews_Parkrun%2C_Craigtoun_Park_-_geograph.org.uk_-_4290129.jpg/330px-St_Andrews_Parkrun%2C_Craigtoun_Park_-_geograph.org.uk_-_4290129.jpg",
       "title": "St Andrews Parkrun, Craigtoun Park by William Starkey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Andrews Parkrun. A free, fun, and friendly weekly 5k community event. Walk, jog, run, volunteer or spectate. Every Saturday at 9:30am."
     }
@@ -100,28 +100,33 @@
   "district": "Mount Melville",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "garden",
-    "woodland"
+    "woodland",
+    "parkland"
   ],
   "points_of_interest": [
     "ruined temple",
     "nature trail",
-    "garden",
+    "Italian garden",
+    "greenhouse",
+    "formal garden",
     "miniature railway",
-    "pond"
+    "pond",
+    "Cypress Walk",
+    "Dutch Village"
   ],
   "facilities": [
     "cafe",
     "barbecue area",
     "car park",
-    "boat hire"
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking",
-    "boating"
+    "rowing",
+    "pedal boating"
   ]
 }

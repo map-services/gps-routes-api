@@ -36,7 +36,7 @@
       "caption": "Nymans Gardens. Nymans was one of the first gardens to come to the National Trust when it was bequeathed into its care in 1953."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Signpost%2C_Staplefield%2C_East_Sussex_-_geograph.org.uk_-_2160117.jpg/512px-Signpost%2C_Staplefield%2C_East_Sussex_-_geograph.org.uk_-_2160117.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Signpost%2C_Staplefield%2C_East_Sussex_-_geograph.org.uk_-_2160117.jpg/500px-Signpost%2C_Staplefield%2C_East_Sussex_-_geograph.org.uk_-_2160117.jpg",
       "title": "Signpost, Staplefield, East Sussex by Christine Matthews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Signpost, Staplefield, East Sussex"
     },
@@ -46,7 +46,7 @@
       "caption": "Slaugham Place. Slaugham Place is now in ruins but, 400 years ago, was a very grand Elizabethan Manor House. Now used as a romantic and atmospheric venue for weddings and other functions. A grade II* listed ruin."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Bolney_Stage_public_house%2C_Bolney_%28geograph_2976549%29.jpg/512px-The_Bolney_Stage_public_house%2C_Bolney_%28geograph_2976549%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Bolney_Stage_public_house%2C_Bolney_%28geograph_2976549%29.jpg/500px-The_Bolney_Stage_public_house%2C_Bolney_%28geograph_2976549%29.jpg",
       "title": "Stacey Harris / The Bolney Stage public house, Bolney",
       "caption": "The Bolney Stage public house, Bolney village"
     }
@@ -78,24 +78,23 @@
   "display_address": "The Barn, Ockenden Lane, Cuckfield, Mid Sussex, West Sussex, England, RH17 5LD, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "pasture"
-  ],
-  "points_of_interest": [
-    "historical site",
-    "gardens",
     "woodland"
   ],
+  "points_of_interest": [
+    "garden",
+    "historical site",
+    "viewpoint"
+  ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "pub/cafe"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

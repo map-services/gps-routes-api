@@ -3,7 +3,7 @@
   "objectID": "3b0379f12042e3836003af8ccb6485f7",
   "ref": "calverton-walking-route",
   "title": "Calverton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg/512px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg/500px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3b0379f12042e3836003af8ccb6485f7.gpx",
   "_geoloc": {
     "lat": 53.0373481823,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg/512px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg/500px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485295.jpg",
       "title": "Calverton NG14, Notts. by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Calverton park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dover_Beck_Valley_-_geograph.org.uk_-_2558559.jpg/512px-Dover_Beck_Valley_-_geograph.org.uk_-_2558559.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dover_Beck_Valley_-_geograph.org.uk_-_2558559.jpg/500px-Dover_Beck_Valley_-_geograph.org.uk_-_2558559.jpg",
       "title": "Dover Beck Valley by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dover Beck Valley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485051.jpg/512px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485051.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485051.jpg/500px-Calverton_NG14%2C_Notts._-_geograph.org.uk_-_3485051.jpg",
       "title": "Calverton NG14, Notts. by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Parish church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pinfold%2C_Calverton%2C_Notts._-_geograph.org.uk_-_4774633.jpg/512px-Pinfold%2C_Calverton%2C_Notts._-_geograph.org.uk_-_4774633.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pinfold%2C_Calverton%2C_Notts._-_geograph.org.uk_-_4774633.jpg/500px-Pinfold%2C_Calverton%2C_Notts._-_geograph.org.uk_-_4774633.jpg",
       "title": "Pinfold, Calverton, Notts. by David Hallam-Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Pinfold, Calverton, Notts."
     }
@@ -44,20 +44,17 @@
   "postcode": "NG14 6QG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "lake"
+    "woodland"
   ],
   "points_of_interest": [
     "country park",
-    "lakes"
+    "lake"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "out and back",
   "activities": [
     "walking",
     "cycling"

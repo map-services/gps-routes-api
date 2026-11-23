@@ -3,7 +3,7 @@
   "objectID": "7b2101cb5b8f23ca89079dd5d22ad83d",
   "ref": "langdale-valley-walking-route",
   "title": "Langdale Valley Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg/512px-Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg/500px-Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg",
   "nearby": [
     {
       "description": "Dungeon Ghyll",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg/512px-Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg/500px-Bridge_over_Langdale_Beck_at_Elterwater%2C_Cumbria_UK_-_panoramio.jpg",
       "title": "Robert Freeman [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Bridge over Langdale Beck at Elterwater, Cumbria UK"
     },
@@ -58,17 +58,17 @@
       "caption": "Elterwater Village centre"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Great_Langdale_Valley%2C_Lake_District_%282754084599%29.jpg/512px-Great_Langdale_Valley%2C_Lake_District_%282754084599%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Great_Langdale_Valley%2C_Lake_District_%282754084599%29.jpg/500px-Great_Langdale_Valley%2C_Lake_District_%282754084599%29.jpg",
       "title": "Paul Stephenson from London [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Great Langdale Valley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cumbria_Way_near_Middle_Fell_Farm_%2814848535258%29.jpg/512px-Cumbria_Way_near_Middle_Fell_Farm_%2814848535258%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cumbria_Way_near_Middle_Fell_Farm_%2814848535258%29.jpg/500px-Cumbria_Way_near_Middle_Fell_Farm_%2814848535258%29.jpg",
       "title": "mhx from London, United Kingdom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Cumbria Way near Middle Fell Farm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Small_Stream_%2814848545018%29.jpg/512px-Small_Stream_%2814848545018%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Small_Stream_%2814848545018%29.jpg/500px-Small_Stream_%2814848545018%29.jpg",
       "title": "mhx from London, United Kingdom [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Mickleden Beck"
     }
@@ -91,22 +91,21 @@
   "district": "Elterwater",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
+    "valley",
     "mountain"
   ],
   "points_of_interest": [
-    "waterside path",
-    "valley"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "cafe",
-    "pub/cafe"
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

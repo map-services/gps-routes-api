@@ -3,7 +3,7 @@
   "objectID": "1b8c1e0f82e483abe3eb8ad7900d8710",
   "ref": "hungerford-walking-route",
   "title": "Hungerford Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg/256px-Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg/330px-Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b8c1e0f82e483abe3eb8ad7900d8710.gpx",
   "_geoloc": {
     "lat": 51.4124142294,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg/256px-Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg/330px-Hungerford_High_Street_-_geograph.org.uk_-_836357.jpg",
       "title": "Graham Horn / Hungerford High Street",
       "caption": "Hungerford High Street. Looking south from the bridge carrying the A338 over the Kennet and Avon Canal. The next bridge is the railway line, with the town hall clock tower behind. The alley to the right leads down to the canal towpath."
     },
@@ -78,20 +78,20 @@
   "display_address": "Down View, Hungerford, West Berkshire, England, RG17 0ED, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "canal"
+    "river",
+    "canalside",
+    "common"
   ],
   "points_of_interest": [
-    "common",
-    "country lane"
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
-    "pub/cafe"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

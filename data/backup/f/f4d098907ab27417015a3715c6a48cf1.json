@@ -3,7 +3,7 @@
   "objectID": "f4d098907ab27417015a3715c6a48cf1",
   "ref": "castle-hedingham-walking-route",
   "title": "Castle Hedingham Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg/512px-Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg/500px-Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4d098907ab27417015a3715c6a48cf1.gpx",
   "_geoloc": {
     "lat": 51.9895183333,
@@ -11,27 +11,27 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg/512px-Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg/500px-Hedingham_Castle_Grounds_-_geograph.org.uk_-_3079602.jpg",
       "title": "Hedingham Castle Grounds by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hedingham Castle Grounds"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Norman_bridge%2C_Hedingham_Castle%2C_Essex_-_geograph.org.uk_-_3079592.jpg/512px-Norman_bridge%2C_Hedingham_Castle%2C_Essex_-_geograph.org.uk_-_3079592.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Norman_bridge%2C_Hedingham_Castle%2C_Essex_-_geograph.org.uk_-_3079592.jpg/500px-Norman_bridge%2C_Hedingham_Castle%2C_Essex_-_geograph.org.uk_-_3079592.jpg",
       "title": "Norman bridge, Hedingham Castle, Essex by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Norman bridge, Hedingham Castle, Essex"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hedingham_Castle_Keep_-_geograph.org.uk_-_3162563.jpg/512px-Hedingham_Castle_Keep_-_geograph.org.uk_-_3162563.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hedingham_Castle_Keep_-_geograph.org.uk_-_3162563.jpg/500px-Hedingham_Castle_Keep_-_geograph.org.uk_-_3162563.jpg",
       "title": "Hedingham Castle Keep by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hedingham Castle Keep"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Hedingham_Town_-_geograph.org.uk_-_2540502.jpg/512px-Castle_Hedingham_Town_-_geograph.org.uk_-_2540502.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Hedingham_Town_-_geograph.org.uk_-_2540502.jpg/500px-Castle_Hedingham_Town_-_geograph.org.uk_-_2540502.jpg",
       "title": "Castle Hedingham Town by Lee Holmes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Castle Hedingham village from across the fields to the north"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Falcon_Square%2C_Castle_Hedingham_-_geograph.org.uk_-_2540696.jpg/512px-Falcon_Square%2C_Castle_Hedingham_-_geograph.org.uk_-_2540696.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Falcon_Square%2C_Castle_Hedingham_-_geograph.org.uk_-_2540696.jpg/500px-Falcon_Square%2C_Castle_Hedingham_-_geograph.org.uk_-_2540696.jpg",
       "title": "Falcon Square, Castle Hedingham by Lee Holmes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Falcon Square in the village"
     },
@@ -46,7 +46,7 @@
       "caption": "Railway Station"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/King_Street%2C_Castle_Hedingham_-_geograph.org.uk_-_2540683.jpg/512px-King_Street%2C_Castle_Hedingham_-_geograph.org.uk_-_2540683.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/King_Street%2C_Castle_Hedingham_-_geograph.org.uk_-_2540683.jpg/500px-King_Street%2C_Castle_Hedingham_-_geograph.org.uk_-_2540683.jpg",
       "title": "King Street, Castle Hedingham by Lee Holmes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "King Street, Castle Hedingham"
     }
@@ -78,22 +78,19 @@
   "district": "Braintree",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "garden",
-    "woodland"
+    "village",
+    "garden"
   ],
   "points_of_interest": [
-    "castle",
-    "lake",
+    "historical site",
     "church",
-    "wood"
+    "castle grounds"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

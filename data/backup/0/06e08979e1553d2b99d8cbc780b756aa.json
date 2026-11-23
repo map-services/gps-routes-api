@@ -3,7 +3,7 @@
   "objectID": "06e08979e1553d2b99d8cbc780b756aa",
   "ref": "bognor-regis-walking-route",
   "title": "Bognor Regis Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg/512px-Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg/500px-Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg",
   "nearby": [
     {
       "description": "Pagham Harbour",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg/512px-Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg/500px-Bognor_Regis_Pier_-_geograph.org.uk_-_1751557.jpg",
       "title": "Peter Trimming / Bognor Regis Pier",
       "caption": "Bognor Regis Pier - route start. The pier opened in 1865. Like other surviving piers, in England, the pier at Bognor is somewhat shorter than when it was in its prime."
     },
@@ -58,7 +58,7 @@
       "caption": "Bognor Rocks. Formed of London clay and exposed along the foreshore at low tide. The clay is initially grey but becomes brown on weathering. The rocks extend out to sea into the next grid square and are visible at low tide whilst providing home for sea life and plants."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Arcade%2C_High_Street_-_geograph.org.uk_-_500818.jpg/256px-The_Arcade%2C_High_Street_-_geograph.org.uk_-_500818.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Arcade%2C_High_Street_-_geograph.org.uk_-_500818.jpg/330px-The_Arcade%2C_High_Street_-_geograph.org.uk_-_500818.jpg",
       "title": "Simon Carey / The Arcade, High Street",
       "caption": "The Arcade, High Street. An shopping arcade constructed by William Tate in 1902 providing the first focal shopping point in the developing town of Bognor. Its entrance is opposite London Road at its junction with High Street."
     },
@@ -110,28 +110,26 @@
   "display_address": "The Esplanade, Bognor Regis, Felpham, Arun, West Sussex, England, PO21 1PJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
-    "beach",
     "coastal",
-    "woodland",
-    "agricultural"
+    "beach",
+    "riverine",
+    "countryside"
   ],
   "points_of_interest": [
     "harbour",
+    "nature reserve",
     "park",
-    "quay"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "cafe",
-    "boating lake",
-    "miniature railway"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

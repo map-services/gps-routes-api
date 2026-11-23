@@ -3,7 +3,7 @@
   "objectID": "b7877877bca6293a1c2fd8a2ad43bc57",
   "ref": "new-brighton-walking-route",
   "title": "New Brighton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_Brighton_beach%2C_Wirral_%282%29.JPG/512px-New_Brighton_beach%2C_Wirral_%282%29.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_Brighton_beach%2C_Wirral_%282%29.JPG/500px-New_Brighton_beach%2C_Wirral_%282%29.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b7877877bca6293a1c2fd8a2ad43bc57.gpx",
   "_geoloc": {
     "lat": 53.4417053254,
@@ -11,27 +11,27 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_Brighton_beach%2C_Wirral_%282%29.JPG/512px-New_Brighton_beach%2C_Wirral_%282%29.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_Brighton_beach%2C_Wirral_%282%29.JPG/500px-New_Brighton_beach%2C_Wirral_%282%29.JPG",
       "title": "Rept0n1x, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "New Brighton beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NEW_BRIGHTON_TAKEN_FROM_THE_SEA_WALL_TOWARDS_THE_MARINE_POOL_WIRRAL_AUG_2013_%289435127830%29.jpg/512px-NEW_BRIGHTON_TAKEN_FROM_THE_SEA_WALL_TOWARDS_THE_MARINE_POOL_WIRRAL_AUG_2013_%289435127830%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NEW_BRIGHTON_TAKEN_FROM_THE_SEA_WALL_TOWARDS_THE_MARINE_POOL_WIRRAL_AUG_2013_%289435127830%29.jpg/500px-NEW_BRIGHTON_TAKEN_FROM_THE_SEA_WALL_TOWARDS_THE_MARINE_POOL_WIRRAL_AUG_2013_%289435127830%29.jpg",
       "title": "calflier001, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "New Brighton from the sea wall."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FORT_PERCH_ROCK_NEW_BRIGHTON_WIRRAL_AUG_2013_%289434910212%29.jpg/512px-FORT_PERCH_ROCK_NEW_BRIGHTON_WIRRAL_AUG_2013_%289434910212%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FORT_PERCH_ROCK_NEW_BRIGHTON_WIRRAL_AUG_2013_%289434910212%29.jpg/500px-FORT_PERCH_ROCK_NEW_BRIGHTON_WIRRAL_AUG_2013_%289434910212%29.jpg",
       "title": "calflier001, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Fort Perch Rock"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/New_Brighton_-_geograph.org.uk_-_3176951.jpg/512px-New_Brighton_-_geograph.org.uk_-_3176951.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/New_Brighton_-_geograph.org.uk_-_3176951.jpg/500px-New_Brighton_-_geograph.org.uk_-_3176951.jpg",
       "title": "New Brighton by Bob Abell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "New Brighton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Marine_Lake_at_New_Brighton_-_geograph.org.uk_-_2164065.jpg/512px-The_Marine_Lake_at_New_Brighton_-_geograph.org.uk_-_2164065.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Marine_Lake_at_New_Brighton_-_geograph.org.uk_-_2164065.jpg/500px-The_Marine_Lake_at_New_Brighton_-_geograph.org.uk_-_2164065.jpg",
       "title": "The Marine Lake at New Brighton by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Marine Lake at New Brighton"
     },
@@ -46,7 +46,7 @@
       "caption": "Leasowe lighthouse"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birket_between_Moreton_and_Leasowe_2.jpg/256px-Birket_between_Moreton_and_Leasowe_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birket_between_Moreton_and_Leasowe_2.jpg/330px-Birket_between_Moreton_and_Leasowe_2.jpg",
       "title": "By Phil Nash from Wikimedia Commons CC BY-SA 4.0 & GFDLViews, Attribution, via Wikimedia Commons",
       "caption": "Birket between Moreton and Leasowe"
     }
@@ -65,21 +65,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours 10 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "natural"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical site",
-    "nature reserve",
-    "park"
+    "fort",
+    "lido",
+    "promenade",
+    "coastal park",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

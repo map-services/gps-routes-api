@@ -73,12 +73,12 @@
       "caption": "Aldeburgh Marshes, Aldeburgh, Suffolk"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Haven%2C_Aldeburgh_4.jpg/512px-The_Haven%2C_Aldeburgh_4.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Haven%2C_Aldeburgh_4.jpg/500px-The_Haven%2C_Aldeburgh_4.jpg",
       "title": "By Dudley Miles (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "The Haven 1"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Haven%2C_Aldeburgh_10.jpg/512px-The_Haven%2C_Aldeburgh_10.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Haven%2C_Aldeburgh_10.jpg/500px-The_Haven%2C_Aldeburgh_10.jpg",
       "title": "By Dudley Miles (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "The Haven 2"
     },
@@ -116,27 +116,31 @@
   "display_address": "The Old Mill, Brudenell Street, Slaughden, Aldeburgh, East Suffolk, Suffolk, England, IP15 5BU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "marshes",
+    "marsh",
+    "grassland",
+    "lowland heath",
+    "shingle",
+    "dune",
     "woodland"
   ],
   "points_of_interest": [
-    "historical site",
+    "sculpture",
     "wildlife watching",
-    "beach"
+    "model yacht pond",
+    "lifeboat station",
+    "look-out tower"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
-    "model yacht pond",
-    "lifeboat station"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

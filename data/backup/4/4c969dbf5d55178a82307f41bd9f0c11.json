@@ -3,7 +3,7 @@
   "objectID": "4c969dbf5d55178a82307f41bd9f0c11",
   "ref": "kirkoswald-walking-route",
   "title": "Kirkoswald Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bell_Tower_-_geograph.org.uk_-_2709138.jpg/512px-Bell_Tower_-_geograph.org.uk_-_2709138.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bell_Tower_-_geograph.org.uk_-_2709138.jpg/500px-Bell_Tower_-_geograph.org.uk_-_2709138.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4c969dbf5d55178a82307f41bd9f0c11.gpx",
   "_geoloc": {
     "lat": 54.76495708,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bell_Tower_-_geograph.org.uk_-_2709138.jpg/512px-Bell_Tower_-_geograph.org.uk_-_2709138.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bell_Tower_-_geograph.org.uk_-_2709138.jpg/500px-Bell_Tower_-_geograph.org.uk_-_2709138.jpg",
       "title": "Bell Tower by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bell Tower of the church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stable_block_of_Kirkoswald_College_-_geograph.org.uk_-_2790880.jpg/512px-Stable_block_of_Kirkoswald_College_-_geograph.org.uk_-_2790880.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stable_block_of_Kirkoswald_College_-_geograph.org.uk_-_2790880.jpg/500px-Stable_block_of_Kirkoswald_College_-_geograph.org.uk_-_2790880.jpg",
       "title": "Stable block of Kirkoswald College by John Illingworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stable block of Kirkoswald College"
     },
@@ -26,7 +26,7 @@
       "caption": "Raven Ghyll, Kirkoswald"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/The_B6413_through_Kirkoswald_-_geograph.org.uk_-_2893813.jpg/512px-The_B6413_through_Kirkoswald_-_geograph.org.uk_-_2893813.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/The_B6413_through_Kirkoswald_-_geograph.org.uk_-_2893813.jpg/500px-The_B6413_through_Kirkoswald_-_geograph.org.uk_-_2893813.jpg",
       "title": "The B6413 through Kirkoswald by John Baker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The B6413 through Kirkoswald"
     },
@@ -41,12 +41,12 @@
       "caption": "Eden Bridge - connecting Lazonby and Kirkoswald. Looking North from the river bank near to the Lazonby and District Swimming Pool."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Church_of_St._Oswald_-_geograph.org.uk_-_2709123.jpg/512px-Church_of_St._Oswald_-_geograph.org.uk_-_2709123.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Church_of_St._Oswald_-_geograph.org.uk_-_2709123.jpg/500px-Church_of_St._Oswald_-_geograph.org.uk_-_2709123.jpg",
       "title": "Church of St. Oswald by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Church of St. Oswald"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lazonby_Railway_Station_-_geograph.org.uk_-_2709165.jpg/512px-Lazonby_Railway_Station_-_geograph.org.uk_-_2709165.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lazonby_Railway_Station_-_geograph.org.uk_-_2709165.jpg/500px-Lazonby_Railway_Station_-_geograph.org.uk_-_2709165.jpg",
       "title": "Lazonby Railway Station by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lazonby Railway Station"
     }
@@ -74,23 +74,21 @@
   "display_address": "Sandhill, High Bankhill, Kirkoswald, Westmorland and Furness, England, CA10 1EL, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "river"
+    "village",
+    "country lane"
   ],
   "points_of_interest": [
-    "church",
-    "historic building",
-    "railway station"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park"
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

@@ -3,7 +3,7 @@
   "objectID": "a27da15a768763cdba2035021e37d05b",
   "ref": "helensburgh-walking-route",
   "title": "Circular Walk around Helensburgh Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg/512px-The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg/500px-The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a27da15a768763cdba2035021e37d05b.gpx",
   "_geoloc": {
     "lat": 56.0034608928,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg/512px-The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg/500px-The_shore_at_Helensburgh_-_geograph.org.uk_-_2935610.jpg",
       "title": "The shore at Helensburgh by Lairich Rig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The shore at Helensburgh"
     },
@@ -31,7 +31,7 @@
       "caption": "Helensburgh Pier"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Craigendoran_Pier_from_the_west%2C_Helensburgh%2C_Scotland.jpg/512px-Craigendoran_Pier_from_the_west%2C_Helensburgh%2C_Scotland.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Craigendoran_Pier_from_the_west%2C_Helensburgh%2C_Scotland.jpg/500px-Craigendoran_Pier_from_the_west%2C_Helensburgh%2C_Scotland.jpg",
       "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Craigendoran railway steamer pier, Camis Eskan Bay, Argyll and Bute, Scotland"
     },
@@ -74,22 +74,20 @@
   "display_address": "Colquhoun Street, Helensburgh, Argyll and Bute, Alba / Scotland, G84 8AJ, United Kingdom",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
-    "forest",
-    "hill"
+    "woodland",
+    "mountain"
   ],
   "points_of_interest": [
-    "historical site",
-    "gardens",
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "figure of eight",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

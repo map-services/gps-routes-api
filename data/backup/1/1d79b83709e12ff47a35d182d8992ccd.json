@@ -3,7 +3,7 @@
   "objectID": "1d79b83709e12ff47a35d182d8992ccd",
   "ref": "dromore-walking-route",
   "title": "Dromore Riverside Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg/512px-The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg/500px-The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1d79b83709e12ff47a35d182d8992ccd.gpx",
   "_geoloc": {
     "lat": 54.41428,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg/512px-The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg/500px-The_War_Memorial_at_the_Market_Square%2C_Dromore_-_geograph.org.uk_-_5352441.jpg",
       "title": "The War Memorial at the Market Square, Dromore by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dromore War Memorial. The town's centre is Market Square, which has a rare set of stocks. It is in the old linen manufacturing district. Dromore has the remains of a castle and earthworks, although these have modern buildings surrounding them, a large motte and bailey or encampment (known locally as \"the Mound\"), and an earlier earthwork known as the Priest's Mount on the Maypole Hill."
     },
@@ -55,21 +55,20 @@
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "mountain"
+    "riverine",
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "historic viaduct"
+    "historic site",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

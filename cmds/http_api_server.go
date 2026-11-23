@@ -3,8 +3,10 @@ package cmds
 import (
 	"context"
 	"fmt"
-	"log"
+	"log/slog"
+	"net/http"
 	"os"
+	"strings"
 	"time"
 
 	"github.com/Depado/ginprom"
@@ -13,39 +15,51 @@ import (
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
-	"github.com/jackc/pgx/v5/stdlib"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
-	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/middlewares"
-	"github.com/rm-hull/gps-routes-api/repositories"
-	"github.com/rm-hull/gps-routes-api/routes"
-	"github.com/rm-hull/gps-routes-api/services"
-	"github.com/rm-hull/gps-routes-api/services/osdatahub"
+	sloggin "github.com/samber/slog-gin"
+
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/internal/health"
+	"github.com/map-services/gps-routes-api/internal/logging"
+	"github.com/map-services/gps-routes-api/internal/metrics"
+	"github.com/map-services/gps-routes-api/middlewares"
+	"github.com/map-services/gps-routes-api/repositories"
+	"github.com/map-services/gps-routes-api/routes"
+	"github.com/map-services/gps-routes-api/services"
+	"github.com/map-services/gps-routes-api/services/osdatahub"
+	"github.com/rm-hull/godx"
 )
 
 func NewHttpApiServer(port int) {
 
-	// Connect to Postgres
+	godx.Diagnostics(slog.Default())
+
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	dbConfig := db.ConfigFromEnv()
-	pool, err := db.NewDBPool(ctx, dbConfig)
-	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
-	}
-	defer pool.Close()
-
 	engine := gin.New()
+
+	// Configure trusted proxies from TRUSTED_PROXIES env var (comma-separated IPs or CIDRs).
+	// If not set, Gin defaults to trusting all proxies, which triggers a warning.
+	if trustedProxies := os.Getenv("TRUSTED_PROXIES"); trustedProxies != "" {
+		proxies := strings.Split(trustedProxies, ",")
+		for i, p := range proxies {
+			proxies[i] = strings.TrimSpace(p)
+		}
+		if err := engine.SetTrustedProxies(proxies); err != nil {
+			slog.Warn("failed to set trusted proxies, using Gin default", "error", err)
+		} else {
+			slog.Info("Trusted proxies configured", "proxies", proxies)
+		}
+	}
 
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
-		ginprom.Namespace("gps_routes"),
-		ginprom.Subsystem("api"),
+		ginprom.Path("/metrics"),
+		ginprom.Ignore("/healthz"),
 	)
 
 	rlStore := ratelimit.InMemoryStore(&ratelimit.InMemoryOptions{
@@ -62,40 +76,78 @@ func NewHttpApiServer(port int) {
 		KeyFunc: func(c *gin.Context) string {
 			return c.ClientIP()
 		},
+		BeforeResponse: func(c *gin.Context, info ratelimit.Info) {
+			c.Header("X-RateLimit-Limit", fmt.Sprintf("%d", info.Limit))
+			c.Header("X-RateLimit-Remaining", fmt.Sprintf("%d", info.RemainingHits))
+			c.Header("X-RateLimit-Reset", fmt.Sprintf("%d", info.ResetTime.Unix()))
+		},
 	})
 
+	// Configure API response caching with ETag support and appropriate Cache-Control headers.
+	apiCacheConfig := map[string]middlewares.CacheConfig{
+		"/v1/gps-routes/ref-data": {MaxAge: 30 * 24 * time.Hour, Private: false},
+		"/v1/gps-routes/":         {MaxAge: 30 * 24 * time.Hour, Private: false},
+		"/v1/gps-routes/search":   {MaxAge: 24 * time.Hour, Private: true},
+	}
+
 	engine.Use(
-		middlewares.AuthMiddleware("/healthz"),
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
+		sloggin.NewWithConfig(slog.Default(), *logging.NewStructuredLoggingConfig("/healthz", "/metrics", "/ready")),
 		gin.Recovery(),
 		cors.New(cors.Config{
 			AllowAllOrigins: true,
-			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type"},
+			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type", "If-None-Match"},
 		}),
+		middlewares.AuthMiddleware("/healthz", "/ready"),
 		middlewares.ErrorHandler(),
+		middlewares.APICache(apiCacheConfig),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
-		cachecontrol.New(cachecontrol.CacheAssetsForeverPreset),
 		prometheus.Instrument(),
 		rateLimiter,
 	)
 
-	db := stdlib.OpenDB(*pool.Config().ConnConfig)
+	// SQLite setup — opens in read-only mode by default (SQLiteConfigFromEnv).
+	// The API never writes to the database, so read-only mode provides
+	// defense-in-depth and allows multiple concurrent reader connections.
+	sqliteConfig := db.SQLiteConfigFromEnv()
+	sqliteDB, err := db.NewSQLiteDB(ctx, sqliteConfig)
+	if err != nil {
+		slog.Error("failed to create SQLite database", "error", err)
+		os.Exit(1)
+	}
 	defer func() {
-		if err := db.Close(); err != nil {
-			log.Printf("failed to close database connection: %v", err)
+		if err := sqliteDB.Close(); err != nil {
+			slog.Warn("failed to close SQLite database", "error", err)
 		}
 	}()
+
+	// Log database connection pool stats on startup.
+	metrics.LogStats(sqliteDB)
+
+	// Start DB stats collector for Prometheus metrics (every 30 seconds).
+	dbMetrics := metrics.NewDBStatsCollector(sqliteDB, 30*time.Second)
+	defer dbMetrics.Stop()
+
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
-		checks.SqlCheck{Sql: db},
+		checks.SqlCheck{Sql: sqliteDB},
 	})
 	if err != nil {
-		log.Fatalf("failed to initialize healthcheck: %v", err)
+		slog.Error("failed to initialize healthcheck", "error", err)
+		os.Exit(1)
 	}
 
-	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
-	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	repo := repositories.NewCachedRepository(prometheus, pg)
+	// Add custom readiness endpoint that performs a thorough database check.
+	engine.GET("/ready", func(c *gin.Context) {
+		result := health.ReadinessProbe(sqliteDB, health.DefaultReadinessTimeout)
+		if result.Status == "healthy" {
+			c.JSON(http.StatusOK, result)
+		} else {
+			c.JSON(http.StatusServiceUnavailable, result)
+		}
+	})
+
+	namesApi := osdatahub.NewNamesApi("https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
+	repo := repositories.NewCachedRepository(repositories.NewSQLiteRouteRepository(sqliteDB))
 	service := services.NewRoutesService(repo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
@@ -104,7 +156,10 @@ func NewHttpApiServer(port int) {
 		},
 	})
 
-	log.Printf("Starting HTTP API Server on port %d...", port)
+	slog.Info("Starting HTTP API Server", "port", port)
 	err = router.Run(fmt.Sprintf(":%d", port))
-	log.Fatalf("HTTP API Server failed to start on port %d: %v", port, err)
+	if err != nil {
+		slog.Error("HTTP API Server failed to start", "port", port, "error", err)
+		os.Exit(1)
+	}
 }

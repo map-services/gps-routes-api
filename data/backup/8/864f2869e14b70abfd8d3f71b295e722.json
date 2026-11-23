@@ -3,7 +3,7 @@
   "objectID": "864f2869e14b70abfd8d3f71b295e722",
   "ref": "tama-lakes-walking-route",
   "title": "Tama Lakes Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg/512px-Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg/500px-Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/864f2869e14b70abfd8d3f71b295e722.gpx",
   "_geoloc": {
     "lat": -39.2009468,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg/512px-Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg/500px-Lower_Tama_Lake_-_Tongariro_N.P._-_panoramio.jpg",
       "title": "Pavel \u0160pindler, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Lower Tama Lake"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Taranaki_Falls_Walking_Track%2C_New_Zealand_%288%29.JPG/512px-Taranaki_Falls_Walking_Track%2C_New_Zealand_%288%29.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Taranaki_Falls_Walking_Track%2C_New_Zealand_%288%29.JPG/500px-Taranaki_Falls_Walking_Track%2C_New_Zealand_%288%29.JPG",
       "title": "Michal Klajban [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Taranaki Falls Walking Track, New Zealand"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Upper_Tama_Lake_and_Ngauruhoe.jpg/512px-Upper_Tama_Lake_and_Ngauruhoe.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Upper_Tama_Lake_and_Ngauruhoe.jpg/500px-Upper_Tama_Lake_and_Ngauruhoe.jpg",
       "title": "Bohwaz, FAL, via Wikimedia Commons",
       "caption": "Upper Tama Lake and Ngauruhoe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Taranaki_Falls%2C_Tongariro_National_Park.jpg/512px-Taranaki_Falls%2C_Tongariro_National_Park.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Taranaki_Falls%2C_Tongariro_National_Park.jpg/500px-Taranaki_Falls%2C_Tongariro_National_Park.jpg",
       "title": "Christoph Str\u00e4ssler, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Taranaki Falls, Tongariro National Park"
     }
@@ -45,21 +45,22 @@
   "state": "Manawat\u016b-Whanganui",
   "country": "New Zealand / Aotearoa",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5-6 hours",
   "difficulty": "hard",
   "terrain": [
+    "alpine",
     "forestry",
-    "alpine"
+    "lava field"
   ],
   "points_of_interest": [
+    "waterfall",
     "viewpoint",
-    "lakes"
+    "lake"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "visitor centre"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

@@ -3,7 +3,7 @@
   "objectID": "c07afb2ac89680d1962157b5328d4a51",
   "ref": "thornham-magna-walking-route",
   "title": "Thornham Magna Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg/512px-Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg/500px-Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c07afb2ac89680d1962157b5328d4a51.gpx",
   "_geoloc": {
     "lat": 52.2990503139,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg/512px-Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg/500px-Entrance_to_Thornham_Estate%2C_Suffolk_-_geograph.org.uk_-_2905410.jpg",
       "title": "Entrance to Thornham Estate, Suffolk by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Entrance to Thornham Estate, Suffolk. The original Thornham Hall, was built in the Tudor period on an E-shaped plan and remodelled in the 17th century and again in the second half of the 19th century, by Sydney Smirke, to resemble a French ch\u00e2teau. The current house, built in 1956 in historical style, is now operated by the ninth Baron Henniker and his wife as a bed and breakfast"
     },
@@ -31,7 +31,7 @@
       "caption": "Water Tower at Thornham Hall. Late 19th Century estate tower beside a restaurant."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Into_The_Walled_Garden_-_geograph.org.uk_-_542290.jpg/256px-Into_The_Walled_Garden_-_geograph.org.uk_-_542290.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Into_The_Walled_Garden_-_geograph.org.uk_-_542290.jpg/330px-Into_The_Walled_Garden_-_geograph.org.uk_-_542290.jpg",
       "title": "Keith Evans / Into The Walled Garden",
       "caption": "Into The Walled Garden"
     },
@@ -46,7 +46,7 @@
       "caption": "Four Horseshoes, Thornham Magna. A Grade II listed pub in the village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Assorted_houses%2C_The_Street%2C_Thornham_Magna_-_geograph.org.uk_-_2905385.jpg/512px-Assorted_houses%2C_The_Street%2C_Thornham_Magna_-_geograph.org.uk_-_2905385.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Assorted_houses%2C_The_Street%2C_Thornham_Magna_-_geograph.org.uk_-_2905385.jpg/500px-Assorted_houses%2C_The_Street%2C_Thornham_Magna_-_geograph.org.uk_-_2905385.jpg",
       "title": "Assorted houses, The Street, Thornham Magna by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Assorted houses, The Street, Thornham Magna. The village has several oak-beamed, thatched Tudor houses, a forge workshop, and a village hall."
     }
@@ -78,25 +78,30 @@
   "district": "Mid Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "parkland"
   ],
   "points_of_interest": [
-    "church",
+    "historical site",
+    "walled garden",
+    "fishing lake",
     "memorial wood",
-    "pinetum"
+    "pinetum",
+    "butterfly ride",
+    "water meadow",
+    "sculpture"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "cafe",
-    "sculptures",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

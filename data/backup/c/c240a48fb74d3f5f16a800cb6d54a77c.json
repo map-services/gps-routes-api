@@ -3,7 +3,7 @@
   "objectID": "c240a48fb74d3f5f16a800cb6d54a77c",
   "ref": "blyth-walking-route",
   "title": "Blyth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blyth%2C_UK_-_panoramio_%2816%29.jpg/512px-Blyth%2C_UK_-_panoramio_%2816%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blyth%2C_UK_-_panoramio_%2816%29.jpg/500px-Blyth%2C_UK_-_panoramio_%2816%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c240a48fb74d3f5f16a800cb6d54a77c.gpx",
   "_geoloc": {
     "lat": 55.1105374522,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blyth%2C_UK_-_panoramio_%2816%29.jpg/512px-Blyth%2C_UK_-_panoramio_%2816%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blyth%2C_UK_-_panoramio_%2816%29.jpg/500px-Blyth%2C_UK_-_panoramio_%2816%29.jpg",
       "title": "Michael Whitehead, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Blyth Beach 1"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Blyth%2C_UK_-_panoramio_%2815%29.jpg/512px-Blyth%2C_UK_-_panoramio_%2815%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Blyth%2C_UK_-_panoramio_%2815%29.jpg/500px-Blyth%2C_UK_-_panoramio_%2815%29.jpg",
       "title": "Michael Whitehead, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Blyth Beach 2"
     },
@@ -41,7 +41,7 @@
       "caption": "Old jetties at Battleship Wharf, Blyth. The wooden staithes at North Blyth were built in 1896 by the North Eastern Railway and these became the main shipping point for coal from the Ashington and Bedlington areas. Only the bottom levels of these massive structures now remain. The large container ship is still docked on the far shore"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/South_Beach_in_Blyth_-_geograph.org.uk_-_2929078.jpg/512px-South_Beach_in_Blyth_-_geograph.org.uk_-_2929078.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/South_Beach_in_Blyth_-_geograph.org.uk_-_2929078.jpg/500px-South_Beach_in_Blyth_-_geograph.org.uk_-_2929078.jpg",
       "title": "South Beach in Blyth by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "South Beach in Blyth"
     },
@@ -65,7 +65,7 @@
   "postcode": "NE24 3UD",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal",
@@ -73,15 +73,12 @@
   ],
   "points_of_interest": [
     "historical site",
-    "garden",
-    "park"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly"
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

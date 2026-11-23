@@ -3,7 +3,7 @@
   "objectID": "d2611da83e9ea2d4b21cf874be281030",
   "ref": "brighton-to-newhaven-walking-and-cycle-route",
   "title": "Brighton to Newhaven Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg/512px-Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg/500px-Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg",
   "nearby": [
     {
       "description": "Sussex Ouse Valley Way",
@@ -43,12 +43,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg/512px-Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg/500px-Clifftop_footpath%2C_Peacehaven_-_geograph.org.uk_-_3154843.jpg",
       "title": "Clifftop footpath, Peacehaven by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cliff Path Peacehaven"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PeacehavenMemorial.jpg/512px-PeacehavenMemorial.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PeacehavenMemorial.jpg/500px-PeacehavenMemorial.jpg",
       "title": "By MortimerCat (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
       "caption": "Peacehaven Memorial"
     },
@@ -63,7 +63,7 @@
       "caption": "Saltdean Lido"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rottingdean_Windmill_-_geograph.org.uk_-_1931014.jpg/512px-Rottingdean_Windmill_-_geograph.org.uk_-_1931014.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rottingdean_Windmill_-_geograph.org.uk_-_1931014.jpg/500px-Rottingdean_Windmill_-_geograph.org.uk_-_1931014.jpg",
       "title": "Rottingdean Windmill by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rottingdean Windmill"
     },
@@ -78,7 +78,7 @@
       "caption": "Newhaven marina"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Newhaven_Fort_-_geograph.org.uk_-_3572368.jpg/512px-Newhaven_Fort_-_geograph.org.uk_-_3572368.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Newhaven_Fort_-_geograph.org.uk_-_3572368.jpg/500px-Newhaven_Fort_-_geograph.org.uk_-_3572368.jpg",
       "title": "Newhaven Fort by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Newhaven Fort"
     }
@@ -102,24 +102,22 @@
   "display_address": "Pier Court, 10, Marine Parade, Kemptown, Brighton, Brighton and Hove, England, BN2 1WP, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "9 miles",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "cliff top"
+    "clifftop"
   ],
   "points_of_interest": [
-    "monument",
-    "harbour"
+    "viewpoint",
+    "historical site",
+    "monument"
   ],
   "facilities": [
-    "pub",
-    "visitor center",
-    "car park",
-    "dog friendly",
-    "play area"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

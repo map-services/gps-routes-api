@@ -3,7 +3,7 @@
   "objectID": "1db2bdb68acf7b373ebe5cb0f07ea9b2",
   "ref": "jurassic-coast-walking-route",
   "title": "Jurassic Coast Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Exmouth_seafront_in_south_devon_arp.jpg/512px-Exmouth_seafront_in_south_devon_arp.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Exmouth_seafront_in_south_devon_arp.jpg/500px-Exmouth_seafront_in_south_devon_arp.jpg",
   "nearby": [
     {
       "description": "Orcombe Point",
@@ -83,7 +83,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Exmouth_seafront_in_south_devon_arp.jpg/512px-Exmouth_seafront_in_south_devon_arp.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Exmouth_seafront_in_south_devon_arp.jpg/500px-Exmouth_seafront_in_south_devon_arp.jpg",
       "title": "By Photographed by Adrian Pingstone (on a chilly Monday before the school holidays, hence so few people) and placed in the public domain. [Public domain], from Wikimedia Commons",
       "caption": "Exmouth seafront"
     },
@@ -93,7 +93,7 @@
       "caption": "Beer Cliffs from Seaton Seafront"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landslip_near_Lyme.JPG/512px-Landslip_near_Lyme.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landslip_near_Lyme.JPG/500px-Landslip_near_Lyme.JPG",
       "title": "Ballista at the English language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
       "caption": "Landslip near Lyme Regis"
     },
@@ -108,12 +108,12 @@
       "caption": "Chesil Beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Durdle_Door_Overview.jpg/512px-Durdle_Door_Overview.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Durdle_Door_Overview.jpg/500px-Durdle_Door_Overview.jpg",
       "title": "By Saffron Blaze [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Durdle Door"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lulworth_Cove.jpg/512px-Lulworth_Cove.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lulworth_Cove.jpg/500px-Lulworth_Cove.jpg",
       "title": "By Paste at English Wikipedia (Transferred from en.wikipedia to Commons.) [Public domain], via Wikimedia Commons",
       "caption": "Lulworth Cove"
     },
@@ -142,29 +142,27 @@
   "display_address": "Pier Head, Exmouth, East Devon, Devon, England, EX8 1ER, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
-    "chalk grassland"
+    "woodland"
   ],
   "points_of_interest": [
+    "UNESCO World Heritage Site",
     "historical site",
-    "natural features",
-    "geological formations",
-    "museum"
+    "viewpoint",
+    "natural reserve",
+    "heritage centre",
+    "beach",
+    "cove",
+    "natural arch"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly",
-    "play area",
-    "beach"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "exploration"
+    "walking"
   ]
 }

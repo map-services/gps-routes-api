@@ -3,7 +3,7 @@
   "objectID": "eea739e0244ceef959db2404aff02586",
   "ref": "oxwich-bay-circular-walking-route",
   "title": "Oxwich Bay Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxwich_Bay%2C_Wales_%283706991026%29.jpg/512px-Oxwich_Bay%2C_Wales_%283706991026%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxwich_Bay%2C_Wales_%283706991026%29.jpg/500px-Oxwich_Bay%2C_Wales_%283706991026%29.jpg",
   "nearby": [
     {
       "description": "Pennard Castle",
@@ -28,7 +28,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxwich_Bay%2C_Wales_%283706991026%29.jpg/512px-Oxwich_Bay%2C_Wales_%283706991026%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxwich_Bay%2C_Wales_%283706991026%29.jpg/500px-Oxwich_Bay%2C_Wales_%283706991026%29.jpg",
       "title": "Rob Young from United Kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Oxwich Bay, Wales"
     },
@@ -43,7 +43,7 @@
       "caption": "Overlooking Oxwich Bay from Nicholaston Woods"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/European_Marram_Grass_%28Ammophila_arenaria%29_growing_on_sand_dunes_in_Wales_06.jpg/512px-European_Marram_Grass_%28Ammophila_arenaria%29_growing_on_sand_dunes_in_Wales_06.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/European_Marram_Grass_%28Ammophila_arenaria%29_growing_on_sand_dunes_in_Wales_06.jpg/500px-European_Marram_Grass_%28Ammophila_arenaria%29_growing_on_sand_dunes_in_Wales_06.jpg",
       "title": "domdomegg [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
       "caption": "European Marram Grass (Ammophila arenaria) growing on sand dunes at the bay"
     },
@@ -53,7 +53,7 @@
       "caption": "The 16th century Oxwich Castle. The walk passes the ruins of this Grade I listed castle to the south of the village. It is a castle in name only as it is was originally a grand Tudor fortified manor house built in courtyard style."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_Illtyd%27s_Church%2C_Oxwich_-_geograph.org.uk_-_3623135.jpg/512px-St_Illtyd%27s_Church%2C_Oxwich_-_geograph.org.uk_-_3623135.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_Illtyd%27s_Church%2C_Oxwich_-_geograph.org.uk_-_3623135.jpg/500px-St_Illtyd%27s_Church%2C_Oxwich_-_geograph.org.uk_-_3623135.jpg",
       "title": "St Illtyd's Church, Oxwich by Philip Pankhurst, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Illtyd's Church. The parish church of St. Illtyd's overlooks Oxwich Bay. A place of worship has stood on this site since the 6th century, but the main tower of today was built in the 14th century. The chancel of this church is thought to be a 6th-century cell. The church bell in the tower also dates back to the 14th century, but was recast in 1892."
     },
@@ -63,7 +63,7 @@
       "caption": "View from Penrice church. The church in its elevated position commands a view of Oxwich Bay to the southeast, across the burrows which are not visible here."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Footbridge%2C_Oxwich_Bay_Beach_-_geograph.org.uk_-_5762396.jpg/512px-Footbridge%2C_Oxwich_Bay_Beach_-_geograph.org.uk_-_5762396.jpg?20231119035601",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Footbridge%2C_Oxwich_Bay_Beach_-_geograph.org.uk_-_5762396.jpg/500px-Footbridge%2C_Oxwich_Bay_Beach_-_geograph.org.uk_-_5762396.jpg?20231119035601",
       "title": "Footbridge, Oxwich Bay Beach by Tim Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Footbridge, Oxwich Bay Beach"
     }
@@ -87,27 +87,23 @@
   "district": "Oxwich",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
     "coastal",
-    "sand dunes"
+    "woodland",
+    "dune"
   ],
   "points_of_interest": [
-    "church",
-    "castle ruins",
-    "nature reserve"
+    "historical site",
+    "viewpoint",
+    "church"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "pub/cafe",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

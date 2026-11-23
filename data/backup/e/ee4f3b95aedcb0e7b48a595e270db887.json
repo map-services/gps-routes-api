@@ -3,7 +3,7 @@
   "objectID": "ee4f3b95aedcb0e7b48a595e270db887",
   "ref": "west-kirby-walking-route",
   "title": "West Kirby Coastal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/West_Kirby_%2812%29.jpg/512px-West_Kirby_%2812%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/West_Kirby_%2812%29.jpg/500px-West_Kirby_%2812%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ee4f3b95aedcb0e7b48a595e270db887.gpx",
   "_geoloc": {
     "lat": 53.3733874721,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/West_Kirby_%2812%29.jpg/512px-West_Kirby_%2812%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/West_Kirby_%2812%29.jpg/500px-West_Kirby_%2812%29.jpg",
       "title": "Rept0n1x [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "West Kirby"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ashton_Park%2C_West_Kirby_%2812%29.JPG/512px-Ashton_Park%2C_West_Kirby_%2812%29.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ashton_Park%2C_West_Kirby_%2812%29.JPG/500px-Ashton_Park%2C_West_Kirby_%2812%29.JPG",
       "title": "Rept0n1x [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Ashton Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/512px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wirral_Country_Park%2C_Lees_Lane_3.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_3.jpg",
       "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Wirral Country Park, Lees Lane. Pond between the visitor area and the Wirral Way."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thors_Stone%2C_Thurstaston_Common_%28geograph_2990423%29.jpg/512px-Thors_Stone%2C_Thurstaston_Common_%28geograph_2990423%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thors_Stone%2C_Thurstaston_Common_%28geograph_2990423%29.jpg/500px-Thors_Stone%2C_Thurstaston_Common_%28geograph_2990423%29.jpg",
       "title": "El Pollock / Thor's Stone, Thurstaston Common",
       "caption": "Thors Stone, Thurstaston Common"
     },
@@ -36,7 +36,7 @@
       "caption": "View from Thurstaston Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wirral_Country_Park%2C_Lees_Lane_2.jpg/512px-Wirral_Country_Park%2C_Lees_Lane_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wirral_Country_Park%2C_Lees_Lane_2.jpg/500px-Wirral_Country_Park%2C_Lees_Lane_2.jpg",
       "title": "Rodhullandemu [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Wirral Country Park. Picnic area near the entrance to the visitor area"
     }
@@ -55,7 +55,7 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "5-6 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
@@ -63,16 +63,14 @@
     "hill"
   ],
   "points_of_interest": [
-    "park",
+    "country park",
     "viewpoint",
     "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

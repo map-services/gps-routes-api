@@ -3,7 +3,7 @@
   "objectID": "c0c0ef073884cd4db4160c1fc42237bf",
   "ref": "okehampton-walking-route",
   "title": "Okehampton Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg/512px-Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg/500px-Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c0c0ef073884cd4db4160c1fc42237bf.gpx",
   "_geoloc": {
     "lat": 50.7314042539,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg/512px-Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg/500px-Okehampton_Castle_-_geograph.org.uk_-_2745119.jpg",
       "title": "Okehampton Castle by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Okehampton Castle"
     },
@@ -36,12 +36,12 @@
       "caption": "Meldon Reservoir"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yes_Tor%2C_West_Devon_-_geograph-4131865-by-Lewis-Clarke.jpg/512px-Yes_Tor%2C_West_Devon_-_geograph-4131865-by-Lewis-Clarke.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yes_Tor%2C_West_Devon_-_geograph-4131865-by-Lewis-Clarke.jpg/500px-Yes_Tor%2C_West_Devon_-_geograph-4131865-by-Lewis-Clarke.jpg",
       "title": "Lewis Clarke / West Devon : Yes Tor",
       "caption": "Yes Tor, West Devon"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_east_range%2C_Okehampton_Castle_-_geograph.org.uk_-_1810284.jpg/512px-The_east_range%2C_Okehampton_Castle_-_geograph.org.uk_-_1810284.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_east_range%2C_Okehampton_Castle_-_geograph.org.uk_-_1810284.jpg/500px-The_east_range%2C_Okehampton_Castle_-_geograph.org.uk_-_1810284.jpg",
       "title": "The east range, Okehampton Castle by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The east range, Okehampton Castle. The medieval motte and bailey castle was built in the late 11th century by Baldwin FitzGilbert following a revolt in Devon against Norman rule, and formed the centre of the Honour of Okehampton, guarding a crossing point across the West Okement River."
     },
@@ -78,7 +78,7 @@
   "postcode": "EX20 1EJ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -89,12 +89,13 @@
     "viewpoint"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

@@ -23,7 +23,7 @@
       "caption": "Hauxley Nature Reserve Lake"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gate_for_Hauxley_Nature_Reserve_-_geograph.org.uk_-_4369287.jpg/512px-Gate_for_Hauxley_Nature_Reserve_-_geograph.org.uk_-_4369287.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gate_for_Hauxley_Nature_Reserve_-_geograph.org.uk_-_4369287.jpg/500px-Gate_for_Hauxley_Nature_Reserve_-_geograph.org.uk_-_4369287.jpg",
       "title": "Gate for Hauxley Nature Reserve by Jim Barton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     },
@@ -33,7 +33,7 @@
       "caption": ""
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hauxley_Nature_Reserve_-_geograph.org.uk_-_5136643.jpg/512px-Hauxley_Nature_Reserve_-_geograph.org.uk_-_5136643.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hauxley_Nature_Reserve_-_geograph.org.uk_-_5136643.jpg/500px-Hauxley_Nature_Reserve_-_geograph.org.uk_-_5136643.jpg",
       "title": "Hauxley Nature Reserve by Graham Robson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     },
@@ -43,7 +43,7 @@
       "caption": "Beach, Hauxley Links"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Low_Hauxley_shore_-_geograph.org.uk_-_2918941.jpg/512px-Low_Hauxley_shore_-_geograph.org.uk_-_2918941.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Low_Hauxley_shore_-_geograph.org.uk_-_2918941.jpg/500px-Low_Hauxley_shore_-_geograph.org.uk_-_2918941.jpg",
       "title": "Low Hauxley shore by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Low Hauxley shore"
     },
@@ -53,7 +53,7 @@
       "caption": "Bondo Carrs is a sandstone outcrop exposed at low tide. This is about half tide."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/On_Bondi_Carrs_-_geograph.org.uk_-_3589494.jpg/512px-On_Bondi_Carrs_-_geograph.org.uk_-_3589494.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/On_Bondi_Carrs_-_geograph.org.uk_-_3589494.jpg/500px-On_Bondi_Carrs_-_geograph.org.uk_-_3589494.jpg",
       "title": "On Bondi Carrs by Russel Wills, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "On Bondi Carrs"
     }
@@ -72,27 +72,22 @@
   "display_address": "Hauxley Lane, Hauxley, Amble, Northumberland, North East, England, NE65 0JW, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
     "coastal",
-    "lake"
+    "woodland",
+    "meadow"
   ],
   "points_of_interest": [
-    "wildlife discovery center",
-    "viewpoint",
-    "lake"
+    "nature reserve",
+    "lake",
+    "country park",
+    "wildlife discovery centre"
   ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "out and back",
   "activities": [
-    "walking",
-    "bird watching",
-    "wildlife watching"
+    "walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "d3d69ed7fe962dc4c5dab4a446a1f844",
   "ref": "hopton-castle-walking-route",
   "title": "Hopton Castle Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg/512px-Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg/500px-Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d3d69ed7fe962dc4c5dab4a446a1f844.gpx",
   "_geoloc": {
     "lat": 52.3951413471,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg/512px-Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg/500px-Hopton_Castle_restored_remains_2012_-_geograph.org.uk_-_2843245.jpg",
       "title": "Hopton Castle restored remains 2012 by Peter Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hopton Castle restored remains"
     },
@@ -36,7 +36,7 @@
       "caption": "Track through Sowdley Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Clun_Castle_-_geograph.org.uk_-_2575855.jpg/512px-Clun_Castle_-_geograph.org.uk_-_2575855.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Clun_Castle_-_geograph.org.uk_-_2575855.jpg/500px-Clun_Castle_-_geograph.org.uk_-_2575855.jpg",
       "title": "Clun Castle by Paul Buckingham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Clun Castle"
     }
@@ -64,23 +64,20 @@
   "district": "Hopton Castle",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "castle ruins",
-    "historic castle",
-    "cottages"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "pub/cafe"
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

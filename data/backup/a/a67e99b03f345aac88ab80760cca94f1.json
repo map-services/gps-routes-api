@@ -3,7 +3,7 @@
   "objectID": "a67e99b03f345aac88ab80760cca94f1",
   "ref": "brigg-walking-route",
   "title": "Brigg Walks - Canal and New River Ancholme Walk",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg/256px-The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg/330px-The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a67e99b03f345aac88ab80760cca94f1.gpx",
   "_geoloc": {
     "lat": 53.5518331012,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg/256px-The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg/330px-The_River_Ancholme_at_Brigg_-_geograph.org.uk_-_804100.jpg",
       "title": "David Wright / The River Ancholme at Brigg",
       "caption": "The River Ancholme at Brigg"
     },
@@ -41,7 +41,7 @@
       "caption": "Broughton Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Ancholme_River_Bank_near_Saxby_Bridge_-_geograph.org.uk_-_1808653.jpg/512px-The_Ancholme_River_Bank_near_Saxby_Bridge_-_geograph.org.uk_-_1808653.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Ancholme_River_Bank_near_Saxby_Bridge_-_geograph.org.uk_-_1808653.jpg/500px-The_Ancholme_River_Bank_near_Saxby_Bridge_-_geograph.org.uk_-_1808653.jpg",
       "title": "The Ancholme River Bank near Saxby Bridge by David Wright, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Ancholme River Bank near Saxby Bridge"
     },
@@ -78,23 +78,20 @@
   "display_address": "Woolpack, 4, Bridge Street, Brigg, North Lincolnshire, England, DN20 8HA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
-    "canal",
-    "river"
+    "waterside"
   ],
   "points_of_interest": [
-    "bridge",
     "marina",
-    "park"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park",
     "aquarium"
   ],
-  "route_type": "out and back",
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

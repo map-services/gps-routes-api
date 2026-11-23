@@ -3,7 +3,7 @@
   "objectID": "149f85b30b62b7a33d474e8ab4358a3f",
   "ref": "broad-haven-walking-route",
   "title": "Broad Haven Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20140822_33_Broad_Haven_%2814979577870%29.jpg/512px-20140822_33_Broad_Haven_%2814979577870%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20140822_33_Broad_Haven_%2814979577870%29.jpg/500px-20140822_33_Broad_Haven_%2814979577870%29.jpg",
   "nearby": [
     {
       "description": "Pembrokeshire Coast Path",
@@ -53,7 +53,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20140822_33_Broad_Haven_%2814979577870%29.jpg/512px-20140822_33_Broad_Haven_%2814979577870%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20140822_33_Broad_Haven_%2814979577870%29.jpg/500px-20140822_33_Broad_Haven_%2814979577870%29.jpg",
       "title": "Sjaak Kempe from Groningen, The Netherlands, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Broad Haven"
     },
@@ -63,12 +63,12 @@
       "caption": "Coast path above Haroldston Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cliffs_seen_from_Settling_Nose_-_geograph.org.uk_-_1538448.jpg/256px-Cliffs_seen_from_Settling_Nose_-_geograph.org.uk_-_1538448.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cliffs_seen_from_Settling_Nose_-_geograph.org.uk_-_1538448.jpg/330px-Cliffs_seen_from_Settling_Nose_-_geograph.org.uk_-_1538448.jpg",
       "title": "David Smith / Cliffs seen from Settling Nose",
       "caption": "Cliffs seen from Settling Nose"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cliff_tops_above_Druidston_Haven%2C_Pembrokeshire_-_geograph.org.uk_-_2075554.jpg/512px-Cliff_tops_above_Druidston_Haven%2C_Pembrokeshire_-_geograph.org.uk_-_2075554.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cliff_tops_above_Druidston_Haven%2C_Pembrokeshire_-_geograph.org.uk_-_2075554.jpg/500px-Cliff_tops_above_Druidston_Haven%2C_Pembrokeshire_-_geograph.org.uk_-_2075554.jpg",
       "title": "Cliff tops above Druidston Haven, Pembrokeshire by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cliff tops above Druidston Haven, Pembrokeshire"
     },
@@ -120,23 +120,24 @@
   "display_address": "Settlands Hill, Walton West, The Havens, Little Haven, Pembrokeshire, Cymru / Wales, SA62 3LA, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "beach",
-    "cliff"
+    "coastal",
+    "cliff top"
   ],
   "points_of_interest": [
-    "arch",
+    "natural arch",
     "cove"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "hotel"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

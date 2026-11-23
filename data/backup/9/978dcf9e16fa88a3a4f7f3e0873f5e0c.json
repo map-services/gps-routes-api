@@ -3,7 +3,7 @@
   "objectID": "978dcf9e16fa88a3a4f7f3e0873f5e0c",
   "ref": "london-to-brighton-walk-walking-route",
   "title": "London to Brighton Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Richmond_Park_-_geograph.org.uk_-_2026198.jpg/512px-Richmond_Park_-_geograph.org.uk_-_2026198.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Richmond_Park_-_geograph.org.uk_-_2026198.jpg/500px-Richmond_Park_-_geograph.org.uk_-_2026198.jpg",
   "nearby": [
     {
       "description": "Banstead Downs",
@@ -68,7 +68,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Richmond_Park_-_geograph.org.uk_-_2026198.jpg/512px-Richmond_Park_-_geograph.org.uk_-_2026198.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Richmond_Park_-_geograph.org.uk_-_2026198.jpg/500px-Richmond_Park_-_geograph.org.uk_-_2026198.jpg",
       "title": "Richmond Park by Peter Trimming, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Richmond Park"
     },
@@ -78,7 +78,7 @@
       "caption": "By the river, Kingston upon Thames"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733012.jpg/512px-Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733012.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733012.jpg/500px-Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733012.jpg",
       "title": "Dr Neil Clifton / Cheam, Surrey: The Mansion House, Nonsuch Park",
       "caption": "Surrey, The Mansion House, Nonsuch Park"
     },
@@ -93,12 +93,12 @@
       "caption": "Bridleway on Farthing Downs. Looking to the north. Here it can be seen that the road and bridleway run along the top of the downs."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Forestry_work_by_bridleway_in_Worth_Forest_-_geograph.org.uk_-_3197298.jpg/512px-Forestry_work_by_bridleway_in_Worth_Forest_-_geograph.org.uk_-_3197298.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Forestry_work_by_bridleway_in_Worth_Forest_-_geograph.org.uk_-_3197298.jpg/500px-Forestry_work_by_bridleway_in_Worth_Forest_-_geograph.org.uk_-_3197298.jpg",
       "title": "Forestry work by bridleway in Worth Forest by Dave Spicer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Forestry work by bridleway in Worth Forest"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wakehurst_Place_-_geograph.org.uk_-_3175833.jpg/512px-Wakehurst_Place_-_geograph.org.uk_-_3175833.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wakehurst_Place_-_geograph.org.uk_-_3175833.jpg/500px-Wakehurst_Place_-_geograph.org.uk_-_3175833.jpg",
       "title": "Wakehurst Place by Kurseong Carl, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wakehurst Place"
     },
@@ -121,23 +121,18 @@
   "postcode": "TW9 1PG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "full day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "road"
+    "country lane",
+    "downs"
   ],
   "points_of_interest": [
-    "park",
-    "countryside",
-    "valley"
+    "park"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

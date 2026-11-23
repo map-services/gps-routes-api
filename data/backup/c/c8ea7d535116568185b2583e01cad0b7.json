@@ -3,7 +3,7 @@
   "objectID": "c8ea7d535116568185b2583e01cad0b7",
   "ref": "stoney-cove-walking-route",
   "title": "Stoney Cove Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg/256px-The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg/330px-The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c8ea7d535116568185b2583e01cad0b7.gpx",
   "_geoloc": {
     "lat": 52.5444761738,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg/256px-The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg/330px-The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg",
       "title": "Mat Fascione / The National Diving Centre, Stoney Cove",
       "caption": "The National Diving Centre, Stoney Cove"
     },
@@ -21,7 +21,7 @@
       "caption": "Farmland near Sapcote. A public bridleway crosses this field on its way to Sapcote."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stoney_Cove%2C_The_National_Diving_Centre_-_geograph.org.uk_-_2875724.jpg/512px-Stoney_Cove%2C_The_National_Diving_Centre_-_geograph.org.uk_-_2875724.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stoney_Cove%2C_The_National_Diving_Centre_-_geograph.org.uk_-_2875724.jpg/500px-Stoney_Cove%2C_The_National_Diving_Centre_-_geograph.org.uk_-_2875724.jpg",
       "title": "Stoney Cove, The National Diving Centre by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stoney Cove, The National Diving Centre"
     },
@@ -70,23 +70,22 @@
   "postcode": "LE9 4JT",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "lake",
-    "quarry"
+    "woodland"
   ],
   "points_of_interest": [
-    "farmland",
-    "church",
-    "geology"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "scuba diving"
   ]
 }

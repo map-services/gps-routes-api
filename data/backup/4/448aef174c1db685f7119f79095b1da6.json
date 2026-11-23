@@ -3,7 +3,7 @@
   "objectID": "448aef174c1db685f7119f79095b1da6",
   "ref": "launceston-walking-route",
   "title": "Launceston Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Launceston_Castle_-_geograph.org.uk_-_93182.jpg/256px-Launceston_Castle_-_geograph.org.uk_-_93182.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Launceston_Castle_-_geograph.org.uk_-_93182.jpg/330px-Launceston_Castle_-_geograph.org.uk_-_93182.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/448aef174c1db685f7119f79095b1da6.gpx",
   "_geoloc": {
     "lat": 50.6365538636,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Launceston_Castle_-_geograph.org.uk_-_93182.jpg/256px-Launceston_Castle_-_geograph.org.uk_-_93182.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Launceston_Castle_-_geograph.org.uk_-_93182.jpg/330px-Launceston_Castle_-_geograph.org.uk_-_93182.jpg",
       "title": "Ernie Camacho / Launceston Castle",
       "caption": "Launceston Castle. This old castle dominates the skyline of Launceston (the only walled town in Cornwall). George Fox, founder of the Quakers, was imprisoned here for 8 months in 1656."
     },
@@ -36,7 +36,7 @@
       "caption": "South Lodge, Lifton This C19 lodge beside Lifton Bridge is one of two for Lifton Park, although technically it is east of the house rather than south of it."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/St_Mary%27s_church%2C_Lifton_-_geograph.org.uk_-_458986.jpg/256px-St_Mary%27s_church%2C_Lifton_-_geograph.org.uk_-_458986.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/St_Mary%27s_church%2C_Lifton_-_geograph.org.uk_-_458986.jpg/330px-St_Mary%27s_church%2C_Lifton_-_geograph.org.uk_-_458986.jpg",
       "title": "Derek Harper / St Mary's church, Lifton",
       "caption": "St Mary's church, Lifton The church, with big pinnacles on its west tower, sits just above the village centre, and just north of a gridline. Seen from the grassy bank beside Parsonage Court."
     }
@@ -59,23 +59,21 @@
   "display_address": "Launceston Castle, Broad Street, St Stephens, Launceston, Cornwall, England, PL15 9AB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "rural",
+    "countryside",
     "riverside"
   ],
   "points_of_interest": [
-    "castle",
-    "village",
+    "historical site",
     "lake"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "bus stop"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

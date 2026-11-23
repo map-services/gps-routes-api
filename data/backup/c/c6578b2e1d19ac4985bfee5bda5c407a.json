@@ -3,7 +3,7 @@
   "objectID": "c6578b2e1d19ac4985bfee5bda5c407a",
   "ref": "west-bridgford-walking-route",
   "title": "West Bridgford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wilford_Suspension_Bridge_0365.JPG/512px-Wilford_Suspension_Bridge_0365.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wilford_Suspension_Bridge_0365.JPG/500px-Wilford_Suspension_Bridge_0365.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c6578b2e1d19ac4985bfee5bda5c407a.gpx",
   "_geoloc": {
     "lat": 52.9252484879,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wilford_Suspension_Bridge_0365.JPG/512px-Wilford_Suspension_Bridge_0365.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wilford_Suspension_Bridge_0365.JPG/500px-Wilford_Suspension_Bridge_0365.JPG",
       "title": "Photograph by Clem Rutter, Rochester, Kent. (www.clemrutter.net)., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Wilford Suspension Bridge is a combined pedestrian footbridge and aqueduct which crosses the River Trent linking the town of West Bridgford to the Meadows in the city of Nottingham. It also carries a gas main."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nottingham_War_Memorial_0370.JPG/512px-Nottingham_War_Memorial_0370.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nottingham_War_Memorial_0370.JPG/500px-Nottingham_War_Memorial_0370.JPG",
       "title": "Photograph by Clem Rutter, Rochester, Kent. (www.clemrutter.net)., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "The City War Memorial, Nottingham is the main War Memorial for the City of Nottingham, It is located the Meadows opposite West Bridgford. It was designed by T. Wallis Gordon, Nottingham City Engineer and Surveyor. The foundation stone was laid 1 August 1923. To the east is the River Trent, and to the west the Memorial Gardens with fountains and a statue of Queen Victoria."
     },
@@ -74,22 +74,21 @@
   "display_address": "Clifton Lane, Wilford, City of Nottingham, East Midlands, England, NG11 7GD, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "5-6 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "parkland"
+    "riverside",
+    "meadow"
   ],
   "points_of_interest": [
+    "medieval church",
     "nature reserve",
     "gardens"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

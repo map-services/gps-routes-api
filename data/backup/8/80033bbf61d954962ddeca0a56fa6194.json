@@ -3,7 +3,7 @@
   "objectID": "80033bbf61d954962ddeca0a56fa6194",
   "ref": "alnwick-walking-route",
   "title": "Walk around Alnwick Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alnwick_castle.jpg/512px-Alnwick_castle.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alnwick_castle.jpg/500px-Alnwick_castle.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/80033bbf61d954962ddeca0a56fa6194.gpx",
   "_geoloc": {
     "lat": 55.4151785434,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alnwick_castle.jpg/512px-Alnwick_castle.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alnwick_castle.jpg/500px-Alnwick_castle.jpg",
       "title": "By Mrscooke [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Alnwick castle 1"
     },
@@ -31,7 +31,7 @@
       "caption": "Water feature at Alnwick Garden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alnwick_Garden_-_geograph.org.uk_-_197972.jpg/256px-Alnwick_Garden_-_geograph.org.uk_-_197972.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alnwick_Garden_-_geograph.org.uk_-_197972.jpg/330px-Alnwick_Garden_-_geograph.org.uk_-_197972.jpg",
       "title": "Ian Knox / Alnwick Garden",
       "caption": "Alnwick Garden"
     },
@@ -70,11 +70,10 @@
   "display_address": "Alnwick Castle, Bailiffgate, Alnwick, Northumberland, North East, England, NE66 1NQ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "coastal"
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
@@ -82,9 +81,7 @@
     "garden"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

@@ -33,7 +33,7 @@
       "caption": "Brockholes Nature Reserve; Reedbeds, Meadow Lake. This shallow lake is close to the visitor centre. The reed fringes are becoming well established."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Visitor_Village_at_Brockholes_Nature_Reserve_%28geograph_2661015%29.jpg/512px-Visitor_Village_at_Brockholes_Nature_Reserve_%28geograph_2661015%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Visitor_Village_at_Brockholes_Nature_Reserve_%28geograph_2661015%29.jpg/500px-Visitor_Village_at_Brockholes_Nature_Reserve_%28geograph_2661015%29.jpg",
       "title": "John Darch / Visitor Village at Brockholes Nature Reserve",
       "caption": "Visitor Village at Brockholes Nature Reserve. Built 2011 despite looking like a Bronze Age lake village."
     },
@@ -62,27 +62,23 @@
   "district": "Preston",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "wetland"
+    "woodland"
   ],
   "points_of_interest": [
-    "visitor centre",
-    "hides",
-    "lookout points"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "cafe",
-    "visitor centre",
-    "cycle racks"
+    "cycle rack"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "bird watching"
+    "cycling"
   ]
 }

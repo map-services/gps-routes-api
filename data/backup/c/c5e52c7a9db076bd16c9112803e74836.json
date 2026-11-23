@@ -3,7 +3,7 @@
   "objectID": "c5e52c7a9db076bd16c9112803e74836",
   "ref": "failand-walking-route",
   "title": "Failand Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Field_edge_boundary_%28geograph_3522458%29.jpg/512px-Field_edge_boundary_%28geograph_3522458%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Field_edge_boundary_%28geograph_3522458%29.jpg/500px-Field_edge_boundary_%28geograph_3522458%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c5e52c7a9db076bd16c9112803e74836.gpx",
   "_geoloc": {
     "lat": 51.4419740322,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Field_edge_boundary_%28geograph_3522458%29.jpg/512px-Field_edge_boundary_%28geograph_3522458%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Field_edge_boundary_%28geograph_3522458%29.jpg/500px-Field_edge_boundary_%28geograph_3522458%29.jpg",
       "title": "Dr Duncan Pepper / Field edge boundary",
       "caption": "Field edge boundary. Looking south. Woods of Wraxall Camp to the left."
     },
@@ -36,17 +36,17 @@
       "caption": "Round Hill Clump. A relatively small plantation on top of a small hill. Taken from a bridleway to the north."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/View_over_Long_Ashton_from_Providence_Lane_-_geograph.org.uk_-_2252458.jpg/512px-View_over_Long_Ashton_from_Providence_Lane_-_geograph.org.uk_-_2252458.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/View_over_Long_Ashton_from_Providence_Lane_-_geograph.org.uk_-_2252458.jpg/500px-View_over_Long_Ashton_from_Providence_Lane_-_geograph.org.uk_-_2252458.jpg",
       "title": "View over Long Ashton from Providence Lane by Anthony O'Neil, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View over Long Ashton from Providence Lane"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ashton_Hill_Plantation_-_geograph.org.uk_-_881561.jpg/256px-Ashton_Hill_Plantation_-_geograph.org.uk_-_881561.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ashton_Hill_Plantation_-_geograph.org.uk_-_881561.jpg/330px-Ashton_Hill_Plantation_-_geograph.org.uk_-_881561.jpg",
       "title": "George Evans / Ashton Hill Plantation",
       "caption": "Ashton Hill Plantation. Sequoia or giant redwood trees next to the main forest track through Ashton Hill plantation."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Woodland_track_through_Ashton_Hill_Plantation_-_geograph.org.uk_-_2155113.jpg/512px-Woodland_track_through_Ashton_Hill_Plantation_-_geograph.org.uk_-_2155113.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Woodland_track_through_Ashton_Hill_Plantation_-_geograph.org.uk_-_2155113.jpg/500px-Woodland_track_through_Ashton_Hill_Plantation_-_geograph.org.uk_-_2155113.jpg",
       "title": "Woodland track through Ashton Hill Plantation by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Woodland track through Ashton Hill Plantation"
     }
@@ -78,22 +78,23 @@
   "postcode": "BS8 3TW",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "3 hours 20 minutes",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill"
+    "hills"
   ],
   "points_of_interest": [
     "nature reserve",
-    "footpath"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

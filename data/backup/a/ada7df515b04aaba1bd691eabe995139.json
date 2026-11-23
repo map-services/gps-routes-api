@@ -78,7 +78,7 @@
       "caption": "The Greensand Way and Stour Valley Walk meet near Hothfield Common. Here the trail meets with the Greensand Way (long distance path from Hothfield, along the hedge). Both paths head through a horse's paddock beside Cobb Cottage, towards the heathland nature reserve."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg/512px-Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg/500px-Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg",
       "title": "Barbican Gate, Sandwich by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Barbican Gate, Sandwich. The Barbican dates from the 14th century and stands at the end of the bridge over the River Stour where it was used as a toll house. The nearby Fisher Gate on the quay dates from 1384, and has been scheduled as an Ancient Monument."
     }
@@ -102,26 +102,30 @@
   "postcode": "ME17 2PH",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
     "downland",
     "woodland",
+    "orchard",
+    "farmland",
     "marshland"
   ],
   "points_of_interest": [
-    "villages",
-    "hamlets",
-    "historic towns",
+    "historic town",
+    "cathedral",
     "lake",
     "watermill",
-    "Norman Keep"
+    "Norman Keep",
+    "national nature reserve",
+    "estuary"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "car park",
+    "picnic area"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

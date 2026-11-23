@@ -3,7 +3,7 @@
   "objectID": "be083885197fc245ad5628e5643ef5fc",
   "ref": "foss-walk-walking-route",
   "title": "River Foss Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/River_Foss%2C_York.jpg/512px-River_Foss%2C_York.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/River_Foss%2C_York.jpg/500px-River_Foss%2C_York.jpg",
   "nearby": [
     {
       "description": "Centenary Way Yorkshire",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/River_Foss%2C_York.jpg/512px-River_Foss%2C_York.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/River_Foss%2C_York.jpg/500px-River_Foss%2C_York.jpg",
       "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "River Foss, York"
     },
@@ -78,7 +78,7 @@
       "caption": "Footbridge over the River Foss. Taken from the footbridge over Black Dike, as it crosses Foss Walk and Ebor Way, the structure visible in mid ground is the footbridge where the trails cross the river. To the left a signpost is visible and this is the point where the Centenary Way, which has followed the Northwestern bank of the river Foss, joins the Foss Walk and Ebor Way, which continues to the North, beyond the belt of riverside trees."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Oulston_Reservoir_-_geograph.org.uk_-_2299298.jpg/512px-Oulston_Reservoir_-_geograph.org.uk_-_2299298.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Oulston_Reservoir_-_geograph.org.uk_-_2299298.jpg/500px-Oulston_Reservoir_-_geograph.org.uk_-_2299298.jpg",
       "title": "Oulston Reservoir by Paul Buckingham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A view Oulston Reservoir. The pretty lake is located just south of the historic 12th century Newburgh Priory and Byland Abbey where there are some atmospheric ancient ruins to explore."
     }
@@ -106,19 +106,21 @@
   "district": "York",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 day",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "rural"
+    "riverside"
   ],
   "points_of_interest": [
-    "villages"
+    "historic city",
+    "castle",
+    "church",
+    "ruined castle"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

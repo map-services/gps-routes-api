@@ -3,7 +3,7 @@
   "objectID": "2c85dac9bb92bbcf7c8250af3bddc79d",
   "ref": "ringmer-walking-route",
   "title": "Ringmer Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg/512px-Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg/500px-Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2c85dac9bb92bbcf7c8250af3bddc79d.gpx",
   "_geoloc": {
     "lat": 50.8889784765,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg/512px-Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg/500px-Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg",
       "title": "Church of St Mary the Virgin, Ringmer by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Church of St Mary the Virgin, Ringmer"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg/512px-Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg/500px-Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg",
       "title": "Ringmer Post (Mill) by Peter Jeffery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ringmer Post (Mill). Ringmer Mill stood for centuries on Mill Plain overlooking Ringmer. This post mill was in operation until 1921 but collapsed in 1925 leaving the mill post, on which the body of the mill rotated, standing as a local landmark."
     },
@@ -31,7 +31,7 @@
       "caption": "Ringmer"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Garden_in_Ringmer_Park_-_geograph.org.uk_-_4056778.jpg/512px-Garden_in_Ringmer_Park_-_geograph.org.uk_-_4056778.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Garden_in_Ringmer_Park_-_geograph.org.uk_-_4056778.jpg/500px-Garden_in_Ringmer_Park_-_geograph.org.uk_-_4056778.jpg",
       "title": "Garden in Ringmer Park by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Garden in Ringmer Park"
     },
@@ -41,12 +41,12 @@
       "caption": "Ringmer War Memorial"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg/512px-Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg/500px-Mount_Caburn_Fort_-_geograph.org.uk_-_2039123.jpg",
       "title": "Mount Caburn Fort by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Mount Caburn Fort"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Glynde_Place%2C_Glynde%2C_East_Sussex-geograph-2434925-by-nick-macneill.jpg/512px-Glynde_Place%2C_Glynde%2C_East_Sussex-geograph-2434925-by-nick-macneill.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Glynde_Place%2C_Glynde%2C_East_Sussex-geograph-2434925-by-nick-macneill.jpg/500px-Glynde_Place%2C_Glynde%2C_East_Sussex-geograph-2434925-by-nick-macneill.jpg",
       "title": "nick macneill / Glynde Place, Glynde, East Sussex",
       "caption": "Glynde Place, Glynde, East Sussex"
     }
@@ -70,24 +70,23 @@
   "display_address": "Gote Lane, Ringmer, Lewes, East Sussex, England, BN8 5HG, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
-    "hill"
+    "downland"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "historic house",
-    "church"
+    "church",
+    "historical site",
+    "viewpoint",
+    "manor house"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

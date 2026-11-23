@@ -3,7 +3,7 @@
   "objectID": "60ad5be456784c327958d71e8138036b",
   "ref": "bexhill-walking-route",
   "title": "Bexhill Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg/512px-Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg/500px-Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/60ad5be456784c327958d71e8138036b.gpx",
   "_geoloc": {
     "lat": 50.83711639,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg/512px-Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg/500px-Boats_in_Egerton_Park_-_geograph.org.uk_-_1822100.jpg",
       "title": "Boats in Egerton Park by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Boats in Egerton Park"
     },
@@ -41,7 +41,7 @@
       "caption": "Cooden Beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Folly_in_Egerton_Park%2C_Bexhill_-_geograph.org.uk_-_305699.jpg/256px-Folly_in_Egerton_Park%2C_Bexhill_-_geograph.org.uk_-_305699.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Folly_in_Egerton_Park%2C_Bexhill_-_geograph.org.uk_-_305699.jpg/330px-Folly_in_Egerton_Park%2C_Bexhill_-_geograph.org.uk_-_305699.jpg",
       "title": "Nigel Stickells / Folly in Egerton Park, Bexhill",
       "caption": "Folly in Egerton Park. This decorative folly is on an island in a pleasure lake that extends to the north side of Egerton Park."
     },
@@ -78,21 +78,18 @@
   "display_address": "Central Parade, Central, Bexhill-on-Sea, Rother, East Sussex, England, TN40 1BN, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "beach"
+    "park"
   ],
   "points_of_interest": [
-    "park",
-    "beach",
-    "historical site"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "boating lake",
-    "visitor center",
-    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "out and back",

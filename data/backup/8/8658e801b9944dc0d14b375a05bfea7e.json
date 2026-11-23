@@ -3,7 +3,7 @@
   "objectID": "8658e801b9944dc0d14b375a05bfea7e",
   "ref": "riverhead-walking-route",
   "title": "Riverhead Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg/512px-St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg/500px-St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8658e801b9944dc0d14b375a05bfea7e.gpx",
   "_geoloc": {
     "lat": 51.2852408733,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg/512px-St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg/500px-St_Mary%27s_church%2C_Riverhead_-_geograph.org.uk_-_4291536.jpg",
       "title": "St Mary's church, Riverhead by J.Hannan-Briggs, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Mary's church, Riverhead. The village has a central conservation area that covers some 25 acres (10 ha) and contains about 30 listed buildings. The listed properties in the Conservation Area date from the 17th-18th centuries and the older unlisted properties date mainly from the 19th Century"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amherst_Avenue%2C_Riverhead_-_geograph.org.uk_-_4466143.jpg/512px-Amherst_Avenue%2C_Riverhead_-_geograph.org.uk_-_4466143.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amherst_Avenue%2C_Riverhead_-_geograph.org.uk_-_4466143.jpg/500px-Amherst_Avenue%2C_Riverhead_-_geograph.org.uk_-_4466143.jpg",
       "title": "Amherst Avenue, Riverhead by Chris Whippet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Amherst Avenue, Riverhead"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Bullfinch%2C_Riverhead_-_geograph.org.uk_-_4466177.jpg/512px-The_Bullfinch%2C_Riverhead_-_geograph.org.uk_-_4466177.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Bullfinch%2C_Riverhead_-_geograph.org.uk_-_4466177.jpg/500px-The_Bullfinch%2C_Riverhead_-_geograph.org.uk_-_4466177.jpg",
       "title": "The Bullfinch, Riverhead by Chris Whippet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Bullfinch"
     },
@@ -31,7 +31,7 @@
       "caption": "A Bird Hide in Sevenoaks Wildlife Centre, run by Kent Wildlife Trust"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Elemental_Garden%2C_Sevenoaks_Wildlife_Reserve_-_geograph.org.uk_-_3050648.jpg/512px-The_Elemental_Garden%2C_Sevenoaks_Wildlife_Reserve_-_geograph.org.uk_-_3050648.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Elemental_Garden%2C_Sevenoaks_Wildlife_Reserve_-_geograph.org.uk_-_3050648.jpg/500px-The_Elemental_Garden%2C_Sevenoaks_Wildlife_Reserve_-_geograph.org.uk_-_3050648.jpg",
       "title": "The Elemental Garden, Sevenoaks Wildlife Reserve by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Elemental Garden, Sevenoaks Wildlife Reserve"
     },
@@ -41,7 +41,7 @@
       "caption": "Darenth Valley Path towards Chipstead"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Otford_-_geograph.org.uk_-_2206534.jpg/512px-Otford_-_geograph.org.uk_-_2206534.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Otford_-_geograph.org.uk_-_2206534.jpg/500px-Otford_-_geograph.org.uk_-_2206534.jpg",
       "title": "Otford by Roger Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Otford"
     },
@@ -69,20 +69,17 @@
   "display_address": "2,3, London Road, Montreal Park, Riverhead, Dunton Green, Sevenoaks, Kent, England, TN13 2DF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "path",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "village",
-    "lake"
+    "wildlife reserve",
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

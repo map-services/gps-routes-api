@@ -3,7 +3,7 @@
   "objectID": "eb6bedb391109a6e992cdc37afeb03db",
   "ref": "holland-park-walking-route",
   "title": "Holland Park Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holland_Park_%2833479085325%29.jpg/512px-Holland_Park_%2833479085325%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holland_Park_%2833479085325%29.jpg/500px-Holland_Park_%2833479085325%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eb6bedb391109a6e992cdc37afeb03db.gpx",
   "_geoloc": {
     "lat": 51.5029925322,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holland_Park_%2833479085325%29.jpg/512px-Holland_Park_%2833479085325%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holland_Park_%2833479085325%29.jpg/500px-Holland_Park_%2833479085325%29.jpg",
       "title": "Peter Trimming from Croydon, England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Holland Park gardens"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lord_Holland_sitting_in_his_favourite_chair_-_geograph.org.uk_-_2066504.jpg/512px-Lord_Holland_sitting_in_his_favourite_chair_-_geograph.org.uk_-_2066504.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lord_Holland_sitting_in_his_favourite_chair_-_geograph.org.uk_-_2066504.jpg/500px-Lord_Holland_sitting_in_his_favourite_chair_-_geograph.org.uk_-_2066504.jpg",
       "title": "Lord Holland sitting in his favourite chair by Robert Lamb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lord Holland sitting in his favourite chair"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Holland_Park_%2850349812722%29.jpg/512px-Holland_Park_%2850349812722%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Holland_Park_%2850349812722%29.jpg/500px-Holland_Park_%2850349812722%29.jpg",
       "title": "Simon from London, United Kingdom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Holland Park gardens"
     },
@@ -46,7 +46,7 @@
       "caption": "Looking towards the Orangery. The grass is scorched after a long dry spell."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Holland_Park_LT_station_geograph-3683334-by-Ben-Brooksbank.jpg/512px-Holland_Park_LT_station_geograph-3683334-by-Ben-Brooksbank.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Holland_Park_LT_station_geograph-3683334-by-Ben-Brooksbank.jpg/500px-Holland_Park_LT_station_geograph-3683334-by-Ben-Brooksbank.jpg",
       "title": "Ben Brooksbank / Holland Park LT station, 1993",
       "caption": "Holland Park tube station. NW on Holland Park Avenue at the corner of Lansdowne Road: LT Underground Central Line station, westward to Ealing Broadway/West Ruislip, eastward to Oxford Circus, Liverpool Street, Stratford, Epping/Hainault."
     }
@@ -65,24 +65,20 @@
   "postcode": "W8 7QU",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "20 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "garden"
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
     "garden"
   ],
   "facilities": [
-    "cafe",
-    "visitor center",
-    "car park"
+    "cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

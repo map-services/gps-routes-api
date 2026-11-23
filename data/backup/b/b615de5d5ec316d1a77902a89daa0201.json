@@ -3,7 +3,7 @@
   "objectID": "b615de5d5ec316d1a77902a89daa0201",
   "ref": "batheaston-walking-route",
   "title": "Batheaston Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Public_Gardens%2C_Batheaston_-_panoramio.jpg/512px-Public_Gardens%2C_Batheaston_-_panoramio.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Public_Gardens%2C_Batheaston_-_panoramio.jpg/500px-Public_Gardens%2C_Batheaston_-_panoramio.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b615de5d5ec316d1a77902a89daa0201.gpx",
   "_geoloc": {
     "lat": 51.4064615377,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Public_Gardens%2C_Batheaston_-_panoramio.jpg/512px-Public_Gardens%2C_Batheaston_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Public_Gardens%2C_Batheaston_-_panoramio.jpg/500px-Public_Gardens%2C_Batheaston_-_panoramio.jpg",
       "title": "Keith Daulby, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Public Gardens, Batheaston"
     },
@@ -21,7 +21,7 @@
       "caption": "The River Avon just west of the village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bathampton_Toll_Bridge_the_River_Avon_-_panoramio.jpg/512px-Bathampton_Toll_Bridge_the_River_Avon_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bathampton_Toll_Bridge_the_River_Avon_-_panoramio.jpg/500px-Bathampton_Toll_Bridge_the_River_Avon_-_panoramio.jpg",
       "title": "Heikki Immonen, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Bathampton Toll Bridge the River Avon"
     },
@@ -31,7 +31,7 @@
       "caption": "Toll bridge and weir, Batheaston"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bathampton_Bridge_-_geograph.org.uk_-_1838324.jpg/512px-Bathampton_Bridge_-_geograph.org.uk_-_1838324.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bathampton_Bridge_-_geograph.org.uk_-_1838324.jpg/500px-Bathampton_Bridge_-_geograph.org.uk_-_1838324.jpg",
       "title": "Bathampton Bridge by Mark Anderson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bathampton Bridge"
     },
@@ -41,12 +41,12 @@
       "caption": "South eastern slope of Little Solsbury Hill. Present thinking is that these hilltop settlements were more in the nature of towns and villages than positions of defence against invaders. The area enclosed by the ramparts was usually large enough to hold a number of semi permanent dwellings and possibly some livestock, whereas a smaller area would have been much easier to defend."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pubs_and_shops_in_Batheaston_-_geograph.org.uk_-_2174165.jpg/512px-Pubs_and_shops_in_Batheaston_-_geograph.org.uk_-_2174165.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pubs_and_shops_in_Batheaston_-_geograph.org.uk_-_2174165.jpg/500px-Pubs_and_shops_in_Batheaston_-_geograph.org.uk_-_2174165.jpg",
       "title": "Pubs and shops in Batheaston by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Pubs and shops in Batheaston"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Old_Mill_Hotel_Garden_-_panoramio.jpg/512px-The_Old_Mill_Hotel_Garden_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Old_Mill_Hotel_Garden_-_panoramio.jpg/500px-The_Old_Mill_Hotel_Garden_-_panoramio.jpg",
       "title": "Heikki Immonen, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "The Old Mill Hotel Garden"
     }
@@ -78,24 +78,24 @@
   "display_address": "Penthouse Hill, Elmhurst Estate, Batheaston, Bath and North East Somerset, West of England, England, BA1 7NQ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "river",
-    "canal",
-    "hill"
+    "canal"
   ],
   "points_of_interest": [
     "viewpoint",
-    "bridge",
-    "canal"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

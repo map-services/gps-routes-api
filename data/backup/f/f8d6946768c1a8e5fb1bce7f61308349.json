@@ -3,7 +3,7 @@
   "objectID": "f8d6946768c1a8e5fb1bce7f61308349",
   "ref": "debenham-walking-route",
   "title": "Debenham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg/512px-High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg/500px-High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f8d6946768c1a8e5fb1bce7f61308349.gpx",
   "_geoloc": {
     "lat": 52.2245454744,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg/512px-High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg/500px-High_Street%2C_Debenham_-_geograph.org.uk_-_1846424.jpg",
       "title": "High Street, Debenham by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "High Street, Debenham"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Longest_Ford_In_Great_Britain_-_geograph.org.uk_-_1364214.jpg/256px-The_Longest_Ford_In_Great_Britain_-_geograph.org.uk_-_1364214.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Longest_Ford_In_Great_Britain_-_geograph.org.uk_-_1364214.jpg/330px-The_Longest_Ford_In_Great_Britain_-_geograph.org.uk_-_1364214.jpg",
       "title": "Keith Evans / The Longest Ford In Great Britain",
       "caption": "The Longest Ford In Great Britain Stoney Lane (sometimes called Derrybrook Lane) Debenham, Suffolk which is reputed to be the longest ford in the country. The River Deben runs for about a mile along a metalled road (a council maintained public road, although there are only three houses served by it) which is normally flooded in the winter and reasonably dry in summer"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gracechurch_Street%2C_Debenham_-_geograph.org.uk_-_4659839.jpg/512px-Gracechurch_Street%2C_Debenham_-_geograph.org.uk_-_4659839.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gracechurch_Street%2C_Debenham_-_geograph.org.uk_-_4659839.jpg/500px-Gracechurch_Street%2C_Debenham_-_geograph.org.uk_-_4659839.jpg",
       "title": "Gracechurch Street, Debenham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Gracechurch Street, Debenham"
     },
@@ -46,7 +46,7 @@
       "caption": "The Woolpack pub"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cross_Green%2C_Debenham_-_geograph.org.uk_-_4637411.jpg/512px-Cross_Green%2C_Debenham_-_geograph.org.uk_-_4637411.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cross_Green%2C_Debenham_-_geograph.org.uk_-_4637411.jpg/500px-Cross_Green%2C_Debenham_-_geograph.org.uk_-_4637411.jpg",
       "title": "Cross Green, Debenham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cross Green, Debenham"
     }
@@ -69,23 +69,21 @@
   "district": "Mid Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "garden"
+    "waterside"
   ],
   "points_of_interest": [
-    "historical hall",
-    "lake"
+    "historical site",
+    "hall"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

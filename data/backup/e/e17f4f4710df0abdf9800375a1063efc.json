@@ -3,7 +3,7 @@
   "objectID": "e17f4f4710df0abdf9800375a1063efc",
   "ref": "diggle-canal-walk",
   "title": "Diggle Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg/512px-Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg/500px-Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e17f4f4710df0abdf9800375a1063efc.gpx",
   "_geoloc": {
     "lat": 53.5677399837,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg/512px-Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg/500px-Diggle_from_Harrop_Edge_Geograph-1941039-by-Bill-Boaden.jpg",
       "title": "Bill Boaden / Diggle from Harrop Edge",
       "caption": "Diggle from Harrop Edge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fairbanks%2C_Diggle_%28geograph_2395221%29.jpg/512px-Fairbanks%2C_Diggle_%28geograph_2395221%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fairbanks%2C_Diggle_%28geograph_2395221%29.jpg/500px-Fairbanks%2C_Diggle_%28geograph_2395221%29.jpg",
       "title": "Michael Fox / Fairbanks, Diggle",
       "caption": "Fairbanks, Diggle"
     },
@@ -31,7 +31,7 @@
       "caption": "Huddersfield Narrow Canal near Diggle"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Huddersfield_Narrow_Canal%2C_Diggle_%2842282908932%29.jpg/512px-Huddersfield_Narrow_Canal%2C_Diggle_%2842282908932%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Huddersfield_Narrow_Canal%2C_Diggle_%2842282908932%29.jpg/500px-Huddersfield_Narrow_Canal%2C_Diggle_%2842282908932%29.jpg",
       "title": "Tim Green from Bradford, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Huddersfield Narrow Canal, Diggle"
     },
@@ -41,7 +41,7 @@
       "caption": "Warth Mill Diggle. Built in 1919 Warth Mill now houses a variety of different business units. The water in the foreground is the Huddersfield Narrow Canal that runs for 20 miles between Huddersfield in West Yorkshire and Ashton under Lyne in Greater Manchester"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Standedge_Tunnel_Visitor_Centre_%2817560349399%29.jpg/512px-Standedge_Tunnel_Visitor_Centre_%2817560349399%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Standedge_Tunnel_Visitor_Centre_%2817560349399%29.jpg/500px-Standedge_Tunnel_Visitor_Centre_%2817560349399%29.jpg",
       "title": "Tim Green from Bradford, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Standedge Tunnel Visitor Centre"
     },
@@ -74,23 +74,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "canal",
-    "moor"
+    "canal towpath"
   ],
   "points_of_interest": [
-    "historic mills",
-    "wildlife"
+    "historic mill",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

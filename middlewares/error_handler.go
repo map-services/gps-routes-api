@@ -1,10 +1,12 @@
 package middlewares
 
 import (
-	"log"
+	"log/slog"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 func ErrorHandler() gin.HandlerFunc {
@@ -13,12 +15,10 @@ func ErrorHandler() gin.HandlerFunc {
 
 		if len(c.Errors) > 0 {
 			for _, ginErr := range c.Errors {
-				log.Printf("Error: %v", ginErr.Err)
+				slog.Error("Handler error", "error", ginErr.Err)
 			}
 
-			c.JSON(http.StatusInternalServerError, gin.H{
-				"error": "An unexpected error occurred",
-			})
+			c.JSON(http.StatusInternalServerError, common.NewErrorResponse("INTERNAL_ERROR", "An unexpected error occurred"))
 		}
 	}
 }

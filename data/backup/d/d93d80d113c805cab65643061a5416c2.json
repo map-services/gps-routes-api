@@ -3,7 +3,7 @@
     "objectID": "d93d80d113c805cab65643061a5416c2",
     "ref": "monarchs-way-walking-route",
     "title": "Monarch's Way Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/512px-Monarch%27s_Way_sign.JPG",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
     "nearby": [
         {
             "description": "Fonthill Estate",
@@ -78,7 +78,7 @@
     ],
     "images": [
         {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/512px-Monarch%27s_Way_sign.JPG",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Monarch%27s_Way_sign.JPG/500px-Monarch%27s_Way_sign.JPG",
             "title": "Rodw [Public domain], via Wikimedia Commons",
             "caption": "Monarch's Way sign"
         },
@@ -98,7 +98,7 @@
             "caption": "The Monarch's Way long distance path runs along the field edge. This view is looking towards Moreton-in-Marsh. The spire of St David's church is seen to the left of the image."
         },
         {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg/512px-Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg/500px-Clock_Tower%2C_Mere%2C_Wiltshire%2C_UK.jpg",
             "title": "Nicola K. Reiss, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
             "caption": "Clock Tower, Mere, Wiltshire, UK. This listed building dates from 1868 and sits in a prime position in the town centre."
         },
@@ -131,11 +131,15 @@
     "state": "England",
     "country": "United Kingdom",
     "llama_cpp": true,
-    "estimated_duration": "multiple days",
+    "estimated_duration": null,
     "difficulty": "moderate",
-    "terrain": ["coastal", "hill", "rural"],
-    "points_of_interest": ["historical site", "museums"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
+    "terrain": ["coastal", "woodland"],
+    "points_of_interest": [
+        "historical site",
+        "national park",
+        "world heritage site"
+    ],
+    "facilities": ["pub/cafe", "car park"],
+    "route_type": "one-way",
     "activities": ["walking"]
 }

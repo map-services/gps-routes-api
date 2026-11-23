@@ -3,7 +3,7 @@
   "objectID": "b973128618e024ff08f768974465ea4a",
   "ref": "stamford-walking-route",
   "title": "Stamford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg/512px-Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg/500px-Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b973128618e024ff08f768974465ea4a.gpx",
   "_geoloc": {
     "lat": 52.6526613732,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg/512px-Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg/500px-Town_Hall_1_St_Marys_Hill_%28geograph_3593789%29.jpg",
       "title": "Jo Turner [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Stamford Town Hall"
     },
@@ -69,25 +69,22 @@
   "display_address": "Card Factory, 24, High Street, Baron St Martin, Stamford, South Kesteven, Lincolnshire, England, PE9 2AY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland",
-    "pasture"
+    "riverside",
+    "parkland",
+    "countryside",
+    "woodland"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "parkland",
-    "city",
-    "river"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "sculpture park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

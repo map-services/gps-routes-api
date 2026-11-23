@@ -1,116 +1,126 @@
 {
-    "created_at": "2025-01-06T02:11:02.055041+00:00",
-    "objectID": "aa6b71a86e629ad49a8aca9a073573bc",
-    "ref": "burnsall-to-grassington-walking-route",
-    "title": "Burnsall to Grassington Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/View_of_Burnsall_-_geograph.org.uk_-_1060637.jpg",
-    "nearby": [
-        {
-            "description": "Dales Way",
-            "objectID": "605d1dad48e02d248ecb985988bc777c",
-            "ref": "dales-way-walking-route"
-        },
-        {
-            "description": "Linton Falls",
-            "objectID": "11a08617617af634fd7557116e1bd62c",
-            "ref": "linton-falls-walking-route"
-        },
-        {
-            "description": "Troller's Gill",
-            "objectID": "aa105c0287b49e8ddb1b88c19738a81f",
-            "ref": "trollers-gill-walking-route"
-        },
-        {
-            "description": "Grimwith Reservoir",
-            "objectID": "304350b79fb90da37b07bf8a91f5a46b",
-            "ref": "grimwith-reservoir-walking-route"
-        },
-        {
-            "description": "Grassington Circular Walk",
-            "objectID": "f7c1eadf27501cfc8d89fdf08a8d4edc",
-            "ref": "grassington-circular-walk-walking-route"
-        },
-        {
-            "description": "Grassington to Kettlewell",
-            "objectID": "f4a8d8398fac427e7f3ee739351812fe",
-            "ref": "grassington-to-kettlewell-walking-route"
-        },
-        {
-            "description": "Burnsall to Appletreewick and Simon's Seat",
-            "objectID": "ed6057c3467a194ffc8a4f2da66391d0",
-            "ref": "burnsall-to-appletreewick-and-simons-seat-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aa6b71a86e629ad49a8aca9a073573bc.gpx",
-    "_geoloc": {
-        "lat": 54.0462921452,
-        "lng": -1.9510934829
+  "created_at": "2025-01-06T02:11:02.055041+00:00",
+  "objectID": "aa6b71a86e629ad49a8aca9a073573bc",
+  "ref": "burnsall-to-grassington-walking-route",
+  "title": "Burnsall to Grassington Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/View_of_Burnsall_-_geograph.org.uk_-_1060637.jpg",
+  "nearby": [
+    {
+      "description": "Dales Way",
+      "objectID": "605d1dad48e02d248ecb985988bc777c",
+      "ref": "dales-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/View_of_Burnsall_-_geograph.org.uk_-_1060637.jpg",
-            "title": "Andy Jamieson [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "View of Burnsall. For history enthusiasts, the area is steeped in heritage. Grassington has a history dating back to the lead mining boom of the 18th and 19th centuries, remnants of which can still be found in the surrounding hills. Burnsall Church (pictured here), dedicated to St. Wilfrid, is another point of interest, with parts dating back to the Norman period."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Burnsall_Bridge%2C_Wharfedale%2C_Yorkshire_-_geograph.org.uk_-_853773.jpg",
-            "title": "Dr Neil Clifton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Burnsall Bridge, Wharfedale, Yorkshire. The riverside environment is particularly rich in plant life, with species such as buttercups, marsh marigolds, and meadowsweet flourishing along the banks. In summer, wildflowers like purple loosestrife and blue forget-me-nots add splashes of colour to the scenery. In the woodlands and hedgerows, you may encounter native trees such as ash, oak, and sycamore, as well as abundant brambles, wild garlic, and ferns in shaded areas."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Loup_Scar_-_geograph.org.uk_-_501876.jpg",
-            "title": "DS Pugh [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Loup Scar 1. The River Wharfe is home to aquatic life, including brown trout and otters, though sightings of the latter are rare and often fleeting. Birds are a highlight of the walk, with species such as dippers and grey wagtails frequently seen flitting over the water. In the meadows, skylarks and lapwings can sometimes be heard and seen, while red kites and buzzards are often spotted circling overhead. Along the route, you may also encounter rabbits and, in the more open stretches, hares darting across the fields."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Loup_Scar%2C_Near_Burnsall_-_geograph.org.uk_-_1263079.jpg",
-            "title": "John Smith / Loup Scar, Near Burnsall, via Wikimedia Commons",
-            "caption": "Loup Scar 2. One of the most striking geological features of the area is the limestone that dominates the landscape. The flat-topped hills and stone walls typical of the Yorkshire Dales are made from this sedimentary rock, formed millions of years ago when the area was covered by a shallow tropical sea. The karst landscape includes features like clints and grykes, providing habitats for unique flora such as mosses and ferns."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_stepping_stones_across_the_Wharfe_-_geograph.org.uk_-_820097.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The stepping stones across the Wharfe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Horse_Chestnut_by_the_bridge%2C_Hebden_-_geograph.org.uk_-_820102.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "A Horse Chestnut by the bridge, Hebden"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Stepping_Stones_to_Linton_Church._-_geograph.org.uk_-_388060.jpg",
-            "title": "mauldy [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Stepping Stones to Linton Church."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/River_Wharfe_at_Linton_Falls_-_geograph.org.uk_-_399421.jpg",
-            "title": "Frank Glover [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "River Wharfe at Linton Falls"
-        }
-    ],
-    "distance_km": 6.0,
-    "description": "A delightful waterside walk along the River Wharfe from Burnsall to Grassington in the Yorkshire Dales. It's a very beautiful part of the river with stunning views of Wharfedale and a visit to Linton Falls to enjoy. The route is fairly easy going, running for just a few miles along a section of the waymarked Dales Way long distance trail. You can park in the car park in Burnsall where there is also a Grade II listed grammar school building dating from 1602. The walk starts on Burnsall Bridge and follows the waymarked trail along the western side of the river to nearby Hebden. Here you cross to the other side on the suspension bridge and continue west passing Linton Church which can be reached via stepping stones when the river is low enough. Shortly after you come to the beautiful Linton Falls where there is a bridge with fine views down to the falls. The final section takes you into the town of Grassington where there are lots of nice pubs and tea rooms for refreshments after your walk. There's lots of other great walks to try in the area if you would like to continue your exercise. You could visit the wonderful limestone gorge at Troller's Gill, try the waterside trail at Grimwith Reservoir or visit the village of Hebden on our Grassington Circular Walk. There's also the option of picking up the Dales Way on the Grassington to Kettlewell Walk .",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Also starting from the village is our Burnsall to Appletreewick and Simon's Seat Walk. This climbs to a wonderful viewpoint and visits the pretty village of Appletreewick where you can pay a visit to the historic Craven Arms Pub. The 16th century is one of the highlights of the area with its old world charm. Just to the west of Grassington you'll find the worthy village of Threshfield. The pretty settlement includes an historic 16th century inn and the nearby Threshfield Quarry. The quarry is an unusual and atmospheric place for a walk with its limestone rocky cliffs and distinctive turquoise lakes."
-        }
-    ],
-    "postcode": "BD23 6BU",
-    "district": "Burnsall",
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Burnsall Bridge, Hartlington, Burnsall, North Yorkshire, York and North Yorkshire, England, BD23 6BU, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["river", "rural"],
-    "points_of_interest": ["waterfall", "church", "historic building"],
-    "facilities": ["car park", "pub/cafe", "tea room"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Linton Falls",
+      "objectID": "11a08617617af634fd7557116e1bd62c",
+      "ref": "linton-falls-walking-route"
+    },
+    {
+      "description": "Troller's Gill",
+      "objectID": "aa105c0287b49e8ddb1b88c19738a81f",
+      "ref": "trollers-gill-walking-route"
+    },
+    {
+      "description": "Grimwith Reservoir",
+      "objectID": "304350b79fb90da37b07bf8a91f5a46b",
+      "ref": "grimwith-reservoir-walking-route"
+    },
+    {
+      "description": "Grassington Circular Walk",
+      "objectID": "f7c1eadf27501cfc8d89fdf08a8d4edc",
+      "ref": "grassington-circular-walk-walking-route"
+    },
+    {
+      "description": "Grassington to Kettlewell",
+      "objectID": "f4a8d8398fac427e7f3ee739351812fe",
+      "ref": "grassington-to-kettlewell-walking-route"
+    },
+    {
+      "description": "Burnsall to Appletreewick and Simon's Seat",
+      "objectID": "ed6057c3467a194ffc8a4f2da66391d0",
+      "ref": "burnsall-to-appletreewick-and-simons-seat-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aa6b71a86e629ad49a8aca9a073573bc.gpx",
+  "_geoloc": {
+    "lat": 54.0462921452,
+    "lng": -1.9510934829
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/View_of_Burnsall_-_geograph.org.uk_-_1060637.jpg",
+      "title": "Andy Jamieson [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "View of Burnsall. For history enthusiasts, the area is steeped in heritage. Grassington has a history dating back to the lead mining boom of the 18th and 19th centuries, remnants of which can still be found in the surrounding hills. Burnsall Church (pictured here), dedicated to St. Wilfrid, is another point of interest, with parts dating back to the Norman period."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Burnsall_Bridge%2C_Wharfedale%2C_Yorkshire_-_geograph.org.uk_-_853773.jpg",
+      "title": "Dr Neil Clifton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Burnsall Bridge, Wharfedale, Yorkshire. The riverside environment is particularly rich in plant life, with species such as buttercups, marsh marigolds, and meadowsweet flourishing along the banks. In summer, wildflowers like purple loosestrife and blue forget-me-nots add splashes of colour to the scenery. In the woodlands and hedgerows, you may encounter native trees such as ash, oak, and sycamore, as well as abundant brambles, wild garlic, and ferns in shaded areas."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Loup_Scar_-_geograph.org.uk_-_501876.jpg",
+      "title": "DS Pugh [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Loup Scar 1. The River Wharfe is home to aquatic life, including brown trout and otters, though sightings of the latter are rare and often fleeting. Birds are a highlight of the walk, with species such as dippers and grey wagtails frequently seen flitting over the water. In the meadows, skylarks and lapwings can sometimes be heard and seen, while red kites and buzzards are often spotted circling overhead. Along the route, you may also encounter rabbits and, in the more open stretches, hares darting across the fields."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Loup_Scar%2C_Near_Burnsall_-_geograph.org.uk_-_1263079.jpg",
+      "title": "John Smith / Loup Scar, Near Burnsall, via Wikimedia Commons",
+      "caption": "Loup Scar 2. One of the most striking geological features of the area is the limestone that dominates the landscape. The flat-topped hills and stone walls typical of the Yorkshire Dales are made from this sedimentary rock, formed millions of years ago when the area was covered by a shallow tropical sea. The karst landscape includes features like clints and grykes, providing habitats for unique flora such as mosses and ferns."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_stepping_stones_across_the_Wharfe_-_geograph.org.uk_-_820097.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The stepping stones across the Wharfe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_Horse_Chestnut_by_the_bridge%2C_Hebden_-_geograph.org.uk_-_820102.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "A Horse Chestnut by the bridge, Hebden"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Stepping_Stones_to_Linton_Church._-_geograph.org.uk_-_388060.jpg",
+      "title": "mauldy [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Stepping Stones to Linton Church."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/River_Wharfe_at_Linton_Falls_-_geograph.org.uk_-_399421.jpg",
+      "title": "Frank Glover [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "River Wharfe at Linton Falls"
+    }
+  ],
+  "distance_km": 6.0,
+  "description": "A delightful waterside walk along the River Wharfe from Burnsall to Grassington in the Yorkshire Dales. It's a very beautiful part of the river with stunning views of Wharfedale and a visit to Linton Falls to enjoy. The route is fairly easy going, running for just a few miles along a section of the waymarked Dales Way long distance trail. You can park in the car park in Burnsall where there is also a Grade II listed grammar school building dating from 1602. The walk starts on Burnsall Bridge and follows the waymarked trail along the western side of the river to nearby Hebden. Here you cross to the other side on the suspension bridge and continue west passing Linton Church which can be reached via stepping stones when the river is low enough. Shortly after you come to the beautiful Linton Falls where there is a bridge with fine views down to the falls. The final section takes you into the town of Grassington where there are lots of nice pubs and tea rooms for refreshments after your walk. There's lots of other great walks to try in the area if you would like to continue your exercise. You could visit the wonderful limestone gorge at Troller's Gill, try the waterside trail at Grimwith Reservoir or visit the village of Hebden on our Grassington Circular Walk. There's also the option of picking up the Dales Way on the Grassington to Kettlewell Walk .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Also starting from the village is our Burnsall to Appletreewick and Simon's Seat Walk. This climbs to a wonderful viewpoint and visits the pretty village of Appletreewick where you can pay a visit to the historic Craven Arms Pub. The 16th century is one of the highlights of the area with its old world charm. Just to the west of Grassington you'll find the worthy village of Threshfield. The pretty settlement includes an historic 16th century inn and the nearby Threshfield Quarry. The quarry is an unusual and atmospheric place for a walk with its limestone rocky cliffs and distinctive turquoise lakes."
+    }
+  ],
+  "postcode": "BD23 6BU",
+  "district": "Burnsall",
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Burnsall Bridge, Hartlington, Burnsall, North Yorkshire, York and North Yorkshire, England, BD23 6BU, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

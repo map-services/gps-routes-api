@@ -3,7 +3,7 @@
   "objectID": "ab2c233ccd2dcd7e140ef86f69ef3f28",
   "ref": "winterbourne-walking-route",
   "title": "Winterbourne Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg/512px-Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg/500px-Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg",
   "nearby": [
     {
       "description": "Snuff Mills",
@@ -38,7 +38,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg/512px-Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg/500px-Winterbourne_railway_station_%28site%29%2C_Gloucestershire_%28geograph_5724364%29.jpg",
       "title": "Nigel Thompson / Winterbourne railway station (site), Gloucestershire",
       "caption": "Winterbourne railway station (site), Gloucestershire Opened in 1903 by the Great Western Railway on the line from Swindon to the Severn Tunnel, this station closed in 1963. View east towards Coalpit Heath and Swindon, as the electrification masts were going up."
     },
@@ -48,7 +48,7 @@
       "caption": "Viaduct over the Frome. The footbridge is, however, clearly in the next square to the north. The viaduct carries the trains on the line between London and Wales via Bristol Parkway 3 km away to the west."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Damsons_Bridge_Winterbourne_Down_%28geograph_4302812%29.jpg/512px-Damsons_Bridge_Winterbourne_Down_%28geograph_4302812%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Damsons_Bridge_Winterbourne_Down_%28geograph_4302812%29.jpg/500px-Damsons_Bridge_Winterbourne_Down_%28geograph_4302812%29.jpg",
       "title": "Steve Coffin / Damsons Bridge Winterbourne Down",
       "caption": "Damsons Bridge"
     },
@@ -63,17 +63,17 @@
       "caption": "Weir on River Frome-Oldbury Court"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bridge_over_the_River_Frome_-_geograph.org.uk_-_3212070.jpg/256px-Bridge_over_the_River_Frome_-_geograph.org.uk_-_3212070.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bridge_over_the_River_Frome_-_geograph.org.uk_-_3212070.jpg/330px-Bridge_over_the_River_Frome_-_geograph.org.uk_-_3212070.jpg",
       "title": "Bridge over the River Frome by Neil Owen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bridge over the River Frome"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Snuff_Mills_restored_mill.jpg/512px-Snuff_Mills_restored_mill.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Snuff_Mills_restored_mill.jpg/500px-Snuff_Mills_restored_mill.jpg",
       "title": "William Avery, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
       "caption": "Snuff Mills restored mill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2011_%2C_River_Frome_from_Damsons_Bridge_-_geograph.org.uk_-_2335143.jpg/512px-2011_%2C_River_Frome_from_Damsons_Bridge_-_geograph.org.uk_-_2335143.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2011_%2C_River_Frome_from_Damsons_Bridge_-_geograph.org.uk_-_2335143.jpg/500px-2011_%2C_River_Frome_from_Damsons_Bridge_-_geograph.org.uk_-_2335143.jpg",
       "title": "2011 : River Frome from Damsons Bridge by Maurice Pullin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Frome from Damsons Bridge"
     }
@@ -97,27 +97,25 @@
   "display_address": "Hicks Common Road, Winterbourne, Winterbourne Down, South Gloucestershire, West of England, England, BS36 1EJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "church",
-    "tithe barn",
-    "nature reserve",
-    "historic mill",
+    "riverbank",
+    "woodland",
     "parkland"
   ],
-  "facilities": [
-    "footbridge",
-    "visitor center",
-    "pub/cafe",
-    "dog friendly",
-    "play area"
+  "points_of_interest": [
+    "fishing pond",
+    "church",
+    "tithe barn",
+    "quarry",
+    "historic mill",
+    "estate"
   ],
-  "route_type": "out and back",
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

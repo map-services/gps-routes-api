@@ -3,7 +3,7 @@
   "objectID": "03cb8dc1b9a6194e29fb9564b8a79092",
   "ref": "salisbury-circular-walk-walking-route",
   "title": "Salisbury Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Salisbury_Cathedral.jpg/512px-Salisbury_Cathedral.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Salisbury_Cathedral.jpg/500px-Salisbury_Cathedral.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/03cb8dc1b9a6194e29fb9564b8a79092.gpx",
   "_geoloc": {
     "lat": 51.0652838642,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Salisbury_Cathedral.jpg/512px-Salisbury_Cathedral.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Salisbury_Cathedral.jpg/500px-Salisbury_Cathedral.jpg",
       "title": "Andrew Dunn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Salisbury Cathedral in early morning light. The cathedral has the tallest church spire in the UK."
     },
@@ -21,17 +21,17 @@
       "caption": "Mompesson House. One of the superb houses bordering The Green. Part of the Cathedral Close. This house, owned by The National Trust, was featured in the film Sense and Sensibility."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Queen_Elizabeth_Gardens_2011.jpg/512px-Queen_Elizabeth_Gardens_2011.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Queen_Elizabeth_Gardens_2011.jpg/500px-Queen_Elizabeth_Gardens_2011.jpg",
       "title": "Richard Avery, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Queen Elizabeth Gardens. Showing part of the River Avon diverted through the gardens."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_pollarded_willow_in_Harnham_water_meadows%2C_Saliisbury.jpg/512px-A_pollarded_willow_in_Harnham_water_meadows%2C_Saliisbury.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_pollarded_willow_in_Harnham_water_meadows%2C_Saliisbury.jpg/500px-A_pollarded_willow_in_Harnham_water_meadows%2C_Saliisbury.jpg",
       "title": "Richard Avery, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "An image of a recently pollarded willow tree, the larger branches are stacked at the base of the tree and finer brushwood is piled nearby."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Old_Mill_at_West_Harnham_ca_1970_-_geograph.org.uk_-_3825582.jpg/512px-The_Old_Mill_at_West_Harnham_ca_1970_-_geograph.org.uk_-_3825582.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Old_Mill_at_West_Harnham_ca_1970_-_geograph.org.uk_-_3825582.jpg/500px-The_Old_Mill_at_West_Harnham_ca_1970_-_geograph.org.uk_-_3825582.jpg",
       "title": "The Old Mill at West Harnham ca 1970 by Ronald Searle, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Old Mill at West Harnham ca 1970"
     },
@@ -41,7 +41,7 @@
       "caption": "Public footpath to the Old Mill, Harnham. The path crosses the water meadows from the Queen Elizabeth Park to Harnham."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/River_Nadder%2C_Salisbury_-_geograph.org.uk_-_3775357.jpg/512px-River_Nadder%2C_Salisbury_-_geograph.org.uk_-_3775357.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/River_Nadder%2C_Salisbury_-_geograph.org.uk_-_3775357.jpg/500px-River_Nadder%2C_Salisbury_-_geograph.org.uk_-_3775357.jpg",
       "title": "River Nadder, Salisbury by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Nadder, Salisbury"
     },
@@ -74,28 +74,26 @@
   "postcode": "SP1 2ED",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
-    "pasture"
+    "riverbank",
+    "farmland"
   ],
   "points_of_interest": [
+    "cathedral",
     "gardens",
-    "park",
-    "mill",
-    "palace",
+    "historical site",
+    "ruined palace",
     "castle"
   ],
   "facilities": [
-    "pub/cafe",
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

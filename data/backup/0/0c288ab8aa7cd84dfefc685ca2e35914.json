@@ -46,7 +46,7 @@
       "caption": "Thornes Flood Lock from river"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/At_Pugneys_Country_Park%2C_Wakefield_-_geograph.org.uk_-_5137405.jpg/512px-At_Pugneys_Country_Park%2C_Wakefield_-_geograph.org.uk_-_5137405.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/At_Pugneys_Country_Park%2C_Wakefield_-_geograph.org.uk_-_5137405.jpg/500px-At_Pugneys_Country_Park%2C_Wakefield_-_geograph.org.uk_-_5137405.jpg",
       "title": "At Pugneys Country Park, Wakefield by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "At Pugneys Country Park, Wakefield"
     }
@@ -70,22 +70,21 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "lake"
+    "waterside"
   ],
   "points_of_interest": [
+    "country park",
     "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

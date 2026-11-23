@@ -3,7 +3,7 @@
   "objectID": "1d5341b9b1c74e75ed47c0541598cf9d",
   "ref": "meldon-reservoir-walking-route",
   "title": "Meldon Reservoir Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Meldon_Reservoir_4.jpg/512px-Meldon_Reservoir_4.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Meldon_Reservoir_4.jpg/500px-Meldon_Reservoir_4.jpg",
   "nearby": [
     {
       "description": "Meldon Viaduct",
@@ -43,12 +43,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Meldon_Reservoir_4.jpg/512px-Meldon_Reservoir_4.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Meldon_Reservoir_4.jpg/500px-Meldon_Reservoir_4.jpg",
       "title": "Nilfanion [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Meldon Reservoir 1"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Meldon_reservoir_2.jpg/512px-Meldon_reservoir_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Meldon_reservoir_2.jpg/500px-Meldon_reservoir_2.jpg",
       "title": "Velvet [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Meldon reservoir 2"
     },
@@ -100,23 +100,26 @@
   "display_address": "Granite Way, Meldon, Okehampton Hamlets, West Devon, Devon, England, EX20 4LU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "moorland"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "historical structure"
+    "dam",
+    "viaduct",
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "dog walking"
   ]
 }

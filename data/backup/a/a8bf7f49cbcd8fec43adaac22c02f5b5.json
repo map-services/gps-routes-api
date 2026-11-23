@@ -3,7 +3,7 @@
   "objectID": "a8bf7f49cbcd8fec43adaac22c02f5b5",
   "ref": "hotham-walking-route",
   "title": "Hotham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Main_Street_Hotham.jpg/512px-Main_Street_Hotham.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Main_Street_Hotham.jpg/500px-Main_Street_Hotham.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a8bf7f49cbcd8fec43adaac22c02f5b5.gpx",
   "_geoloc": {
     "lat": 53.7974986969,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Main_Street_Hotham.jpg/512px-Main_Street_Hotham.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Main_Street_Hotham.jpg/500px-Main_Street_Hotham.jpg",
       "title": "Paul Harrop / Main Street, Hotham",
       "caption": "Main Street Hotham"
     },
@@ -21,12 +21,12 @@
       "caption": "Field on The Park towards Hotham Hall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tree_with_a_lean%2C_Hotham_Hall_-_geograph.org.uk_-_3944582.jpg/512px-Tree_with_a_lean%2C_Hotham_Hall_-_geograph.org.uk_-_3944582.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tree_with_a_lean%2C_Hotham_Hall_-_geograph.org.uk_-_3944582.jpg/500px-Tree_with_a_lean%2C_Hotham_Hall_-_geograph.org.uk_-_3944582.jpg",
       "title": "Tree with a lean, Hotham Hall by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tree with a lean, Hotham Hall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_front%2C_Hotham_Hall_-_geograph.org.uk_-_3944577.jpg/512px-South_front%2C_Hotham_Hall_-_geograph.org.uk_-_3944577.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_front%2C_Hotham_Hall_-_geograph.org.uk_-_3944577.jpg/500px-South_front%2C_Hotham_Hall_-_geograph.org.uk_-_3944577.jpg",
       "title": "South front, Hotham Hall by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "South front, Hotham Hall"
     },
@@ -46,7 +46,7 @@
       "caption": "St Oswald's Church, Hotham, East Yorkshire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%22Hotham_Arms%22%2C_Hotham_-_geograph.org.uk_-_4193393.jpg/512px-%22Hotham_Arms%22%2C_Hotham_-_geograph.org.uk_-_4193393.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%22Hotham_Arms%22%2C_Hotham_-_geograph.org.uk_-_4193393.jpg/500px-%22Hotham_Arms%22%2C_Hotham_-_geograph.org.uk_-_4193393.jpg",
       "title": "\"Hotham Arms\", Hotham by Neil Theasby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "\"Hotham Arms\", Hotham"
     }
@@ -69,25 +69,20 @@
   "postcode": "YO43 4UW",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "parkland",
-    "garden",
-    "lake",
-    "natural"
+    "parkland"
   ],
   "points_of_interest": [
-    "historic estate",
+    "historical site",
     "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

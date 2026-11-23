@@ -3,7 +3,7 @@
   "objectID": "17cc1a86fdfb1a95a1a29d2924c6591e",
   "ref": "litlington-walking-route",
   "title": "Litlington to Alfriston and White Horse Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Litlington_April_2018_01.jpg/512px-Litlington_April_2018_01.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Litlington_April_2018_01.jpg/500px-Litlington_April_2018_01.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17cc1a86fdfb1a95a1a29d2924c6591e.gpx",
   "_geoloc": {
     "lat": 50.7945908838,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Litlington_April_2018_01.jpg/512px-Litlington_April_2018_01.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Litlington_April_2018_01.jpg/500px-Litlington_April_2018_01.jpg",
       "title": "Arild V\u00e5gen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Litlington seen from South Downs Way."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Parish_Church_Of_St_Michael_The_Archangel_April_2018_01.jpg/512px-The_Parish_Church_Of_St_Michael_The_Archangel_April_2018_01.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Parish_Church_Of_St_Michael_The_Archangel_April_2018_01.jpg/500px-The_Parish_Church_Of_St_Michael_The_Archangel_April_2018_01.jpg",
       "title": "Arild V\u00e5gen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "The Parish Church Of St Michael The Archangel"
     },
@@ -31,7 +31,7 @@
       "caption": "Litlington"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/River_Cuckmere_near_Alfriston_-_geograph.org.uk_-_3069756.jpg/512px-River_Cuckmere_near_Alfriston_-_geograph.org.uk_-_3069756.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/River_Cuckmere_near_Alfriston_-_geograph.org.uk_-_3069756.jpg/500px-River_Cuckmere_near_Alfriston_-_geograph.org.uk_-_3069756.jpg",
       "title": "River Cuckmere near Alfriston by Julian P Guffogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Cuckmere near Alfriston"
     },
@@ -41,12 +41,12 @@
       "caption": "Centre of Alfriston"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Litlington_White_Horse_-_geograph.org.uk_-_3047848.jpg/512px-The_Litlington_White_Horse_-_geograph.org.uk_-_3047848.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Litlington_White_Horse_-_geograph.org.uk_-_3047848.jpg/500px-The_Litlington_White_Horse_-_geograph.org.uk_-_3047848.jpg",
       "title": "The Litlington White Horse by PAUL FARMER, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Litlington White Horse"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lullington_Heath_-_geograph.org.uk_-_2264951.jpg/512px-Lullington_Heath_-_geograph.org.uk_-_2264951.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lullington_Heath_-_geograph.org.uk_-_2264951.jpg/500px-Lullington_Heath_-_geograph.org.uk_-_2264951.jpg",
       "title": "Lullington Heath by Ian Cunliffe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bridle track on Lullington Heath"
     }
@@ -70,22 +70,19 @@
   "display_address": "Cow lane, Cuckmere Valley, Litlington, Wealden, East Sussex, England, BN26 5RG, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5-6 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "hill",
-    "heathland",
-    "chalk"
+    "riverine",
+    "countryside"
   ],
   "points_of_interest": [
     "hill figure",
-    "nature reserve",
-    "white horse"
+    "national nature reserve",
+    "historical site"
   ],
   "facilities": [
-    "pub",
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

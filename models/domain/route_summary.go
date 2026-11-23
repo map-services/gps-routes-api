@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"github.com/rm-hull/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 type RouteSummary struct {
@@ -24,5 +24,5 @@ type RouteSummary struct {
 	// A rough distance indicating the length of the route
 	DistanceKm float64 `json:"distance_km,omitempty"`
 
-	StartPosition common.GeoLoc `json:"_geoloc,omitempty"`
+	StartPosition common.GeoLoc `json:"_geoloc"`
 }

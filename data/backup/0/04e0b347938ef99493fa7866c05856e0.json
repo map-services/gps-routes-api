@@ -3,7 +3,7 @@
   "objectID": "04e0b347938ef99493fa7866c05856e0",
   "ref": "ambergate-walking-route",
   "title": "Ambergate Canal Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg/512px-Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg/500px-Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/04e0b347938ef99493fa7866c05856e0.gpx",
   "_geoloc": {
     "lat": 53.0608171873,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg/512px-Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg/500px-Overlooking_Ambergate_-_geograph.org.uk_-_2642508.jpg",
       "title": "Overlooking Ambergate by Graham Hogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Overlooking Ambergate"
     },
@@ -41,12 +41,12 @@
       "caption": "Cromford Canal View"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Footpath_through_Shining_Cliff_Woods_-_geograph.org.uk_-_3412376.jpg/256px-Footpath_through_Shining_Cliff_Woods_-_geograph.org.uk_-_3412376.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Footpath_through_Shining_Cliff_Woods_-_geograph.org.uk_-_3412376.jpg/330px-Footpath_through_Shining_Cliff_Woods_-_geograph.org.uk_-_3412376.jpg",
       "title": "Footpath through Shining Cliff Woods by Eirian Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Footpath through Shining Cliff Woods"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Oak_Hurst_Mills_near_Ambergate_-_geograph.org.uk_-_3262128.jpg/512px-Oak_Hurst_Mills_near_Ambergate_-_geograph.org.uk_-_3262128.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Oak_Hurst_Mills_near_Ambergate_-_geograph.org.uk_-_3262128.jpg/500px-Oak_Hurst_Mills_near_Ambergate_-_geograph.org.uk_-_3262128.jpg",
       "title": "Oak Hurst Mills near Ambergate by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Oak Hurst Mills near Ambergate"
     }
@@ -74,19 +74,18 @@
   "district": "Amber Valley",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "canal"
-  ],
-  "points_of_interest": [
-    "heritage site",
+    "waterside",
     "woodland"
   ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
   "facilities": [
-    "visitor center",
-    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

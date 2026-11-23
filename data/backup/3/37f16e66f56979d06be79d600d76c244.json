@@ -3,7 +3,7 @@
   "objectID": "37f16e66f56979d06be79d600d76c244",
   "ref": "coventry-walking-route",
   "title": "Circular Walk Around Coventry Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg/512px-Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg/500px-Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/37f16e66f56979d06be79d600d76c244.gpx",
   "_geoloc": {
     "lat": 52.406,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg/512px-Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg/500px-Coventry_Cathedral_Ruins_with_Rainbow_edit.jpg",
       "title": "Andrew Walker (walker44) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
       "caption": "Coventry Cathedral Ruins with Rainbow edit"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/River_Sherbourne%2C_Coventry%2C_open_field.jpg/256px-River_Sherbourne%2C_Coventry%2C_open_field.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/River_Sherbourne%2C_Coventry%2C_open_field.jpg/330px-River_Sherbourne%2C_Coventry%2C_open_field.jpg",
       "title": "Shi Annan [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "River Sherbourne, Coventry, near the Charterhouse"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Whitley_bridge_arch_19o06.jpg/256px-Whitley_bridge_arch_19o06.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Whitley_bridge_arch_19o06.jpg/330px-Whitley_bridge_arch_19o06.jpg",
       "title": "Snowmanradio at en.wikipedia (Original text : snowmanradio) [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons",
       "caption": "Showing the arch of the road bridge over the River Sherbourne in Whitley,"
     },
@@ -31,12 +31,12 @@
       "caption": "War Memorial Park, Coventry, England. Over a bank the tops of cars are seen in the main car park."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Avenue_of_Atlantic_Cedars_in_the_War_Memorial_Park_in_Coventry%2C_England.jpg/256px-Avenue_of_Atlantic_Cedars_in_the_War_Memorial_Park_in_Coventry%2C_England.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Avenue_of_Atlantic_Cedars_in_the_War_Memorial_Park_in_Coventry%2C_England.jpg/330px-Avenue_of_Atlantic_Cedars_in_the_War_Memorial_Park_in_Coventry%2C_England.jpg",
       "title": "Donnelt [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Autumnal photograph of the iconic avenue of Atlantic cedars in Coventry's War Memorial Park looking North"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/War_Memorial_Park_-concrete_blocks_-Coventry_-7o08.jpg/256px-War_Memorial_Park_-concrete_blocks_-Coventry_-7o08.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/War_Memorial_Park_-concrete_blocks_-Coventry_-7o08.jpg/330px-War_Memorial_Park_-concrete_blocks_-Coventry_-7o08.jpg",
       "title": "Snowmanradio [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "War Memorial Park. Concrete blocks in the park near to Coat of Arms Bridge Road that were once used to secure barage balloons in the second world war. Several have been removed and these three are the only remaining ones."
     },
@@ -69,21 +69,17 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "urban"
-  ],
-  "points_of_interest": [
-    "historical locations",
-    "parks",
     "common land"
   ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
   "facilities": [
-    "car park",
-    "nature reserve",
     "dog friendly"
   ],
   "route_type": "circular",

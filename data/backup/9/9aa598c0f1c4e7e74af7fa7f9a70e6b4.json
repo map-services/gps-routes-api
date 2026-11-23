@@ -3,7 +3,7 @@
   "objectID": "9aa598c0f1c4e7e74af7fa7f9a70e6b4",
   "ref": "slade-reservoirs-walking-route",
   "title": "Slade Reservoirs Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg/512px-Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg/500px-Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg",
   "nearby": [
     {
       "description": "Ilfracombe to Ossaborough Railway Path",
@@ -18,12 +18,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg/512px-Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg/500px-Slade_Reservoir_now_known_as_Slade_Fishery_-_geograph.org.uk_-_1966154.jpg",
       "title": "Slade Reservoir now known as Slade Fishery by Roger A Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Slade Reservoirs are a pair of reservoirs located in the town of Ilfracombe, North Devon, England. They are under the ownership of South West Water and leased to the South West Lakes Trust. While they are no longer utilised for water supply purposes, they serve as fisheries, particularly the lower reservoir. The original waterworks infrastructure has been dismantled, with Hore Down Works now serving as Ilfracombe's primary waterworks on the town's outskirts. Initially constructed to impound potable water, both the Higher and Lower Slade Reservoirs are currently believed to be inactive for this purpose and are classified as natural bodies of water by the environmental agency. The reservoir complex encompasses a 6-acre mixed fishery, managed by the SW Lakes Trust, offering opportunities for carp, bream, tench, perch, roach, and pike fishing."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Upper_Slade_Reservoir.jpg/512px-Upper_Slade_Reservoir.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Upper_Slade_Reservoir.jpg/500px-Upper_Slade_Reservoir.jpg",
       "title": "Roger A Smith / The upper of two bodies of water which form the old Slade Reservoir",
       "caption": "The reservoirs were built to supply water to the urban district of Ilfracombe. The reservoirs were insufficient, so Wistlandpound Reservoir was constructed. It was completed in 1956 and is now used as a fishery. Fishing here is restricted, as a permit is required. Upper Slade Reservoir is a twin reservoir of Lower Slade Reservoir and served the same purpose. While it may seem that the River Wilder is the primary inflow, it is not; the Wilder intercepts the spillway between the two reservoirs. A staircase has been constructed between the dam and the former railway line between Barnstaple and Ilfracombe. Fishing is allowed in this reservoir but is strictly limited and requires a special permit."
     },
@@ -33,7 +33,7 @@
       "caption": "Alpacas at Lower Mullacott Farm."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Heron_sits_on_the_wall_at_the_Northern_end_of_Slade_Reservoir_-_geograph.org.uk_-_1965552.jpg/512px-A_Heron_sits_on_the_wall_at_the_Northern_end_of_Slade_Reservoir_-_geograph.org.uk_-_1965552.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Heron_sits_on_the_wall_at_the_Northern_end_of_Slade_Reservoir_-_geograph.org.uk_-_1965552.jpg/500px-A_Heron_sits_on_the_wall_at_the_Northern_end_of_Slade_Reservoir_-_geograph.org.uk_-_1965552.jpg",
       "title": "A Heron sits on the wall at the Northern end of Slade Reservoir by Roger A Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A Heron sits on the wall at the Northern end of Slade Reservoir"
     }
@@ -52,23 +52,20 @@
   "display_address": "Pall Corporation Ilfracombe, Kingsley Avenue, Slade, Ilfracombe, North Devon, Devon, England, EX34 8BP, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "woodland"
+    "waterside"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "lake"
+    "reservoir"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
-    "cycling",
-    "bird watching"
+    "cycling"
   ]
 }

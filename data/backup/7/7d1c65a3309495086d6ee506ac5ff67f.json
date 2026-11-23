@@ -3,7 +3,7 @@
   "objectID": "7d1c65a3309495086d6ee506ac5ff67f",
   "ref": "thorner-walking-route",
   "title": "Thorner Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Main_Street_Thorner_%28geograph_6025890%29.jpg/512px-Main_Street_Thorner_%28geograph_6025890%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Main_Street_Thorner_%28geograph_6025890%29.jpg/500px-Main_Street_Thorner_%28geograph_6025890%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d1c65a3309495086d6ee506ac5ff67f.gpx",
   "_geoloc": {
     "lat": 53.8577355915,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Main_Street_Thorner_%28geograph_6025890%29.jpg/512px-Main_Street_Thorner_%28geograph_6025890%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Main_Street_Thorner_%28geograph_6025890%29.jpg/500px-Main_Street_Thorner_%28geograph_6025890%29.jpg",
       "title": "Gordon Hatton / Main Street Thorner",
       "caption": "Main Street Thorner"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Towards_the_church_in_Thorner_%28geograph_6025909%29.jpg/512px-Towards_the_church_in_Thorner_%28geograph_6025909%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Towards_the_church_in_Thorner_%28geograph_6025909%29.jpg/500px-Towards_the_church_in_Thorner_%28geograph_6025909%29.jpg",
       "title": "Gordon Hatton / Towards the church in Thorner",
       "caption": "Towards the church in Thorner"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Leeds_Country_Way_near_Redhills_Plantation_-_geograph.org.uk_-_3025490.jpg/512px-Leeds_Country_Way_near_Redhills_Plantation_-_geograph.org.uk_-_3025490.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Leeds_Country_Way_near_Redhills_Plantation_-_geograph.org.uk_-_3025490.jpg/500px-Leeds_Country_Way_near_Redhills_Plantation_-_geograph.org.uk_-_3025490.jpg",
       "title": "Leeds Country Way near Redhills Plantation by John Slater, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Leeds Country Way near Redhills Plantation"
     },
@@ -31,7 +31,7 @@
       "caption": "Houses on The Cross, Barwick in Elmet"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barwick_Hall_Tower_Earthworks_14_June_2017.jpg/512px-Barwick_Hall_Tower_Earthworks_14_June_2017.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barwick_Hall_Tower_Earthworks_14_June_2017.jpg/500px-Barwick_Hall_Tower_Earthworks_14_June_2017.jpg",
       "title": "Chemical Engineer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Hall Tower earthworks, Barwick-in-Elmet. Iron age hill fort mound with ditch, which was also used for a wooden Norman motte and bailey castle"
     },
@@ -77,24 +77,21 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "moorland"
+    "woodland"
   ],
   "points_of_interest": [
-    "parkland",
-    "woodland",
-    "ponds",
-    "gardens"
+    "park"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

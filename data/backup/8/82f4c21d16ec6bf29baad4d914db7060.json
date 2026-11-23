@@ -95,26 +95,24 @@
   "display_address": "Imperial Road short stay car park, The Royal Avenue, Withycombe, Exmouth, East Devon, Devon, England, EX8 1DG, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
     "heathland",
     "woodland",
-    "valley"
+    "valley",
+    "coastal"
   ],
   "points_of_interest": [
-    "hill fort",
-    "nature reserve",
-    "river"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "river watching"
+    "walking"
   ]
 }

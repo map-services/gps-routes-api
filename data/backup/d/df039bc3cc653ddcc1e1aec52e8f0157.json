@@ -58,7 +58,7 @@
       "caption": "Peat Knowe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Annandale_Way_leaving_the_A701_-_geograph.org.uk_-_2292810.jpg/512px-Annandale_Way_leaving_the_A701_-_geograph.org.uk_-_2292810.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Annandale_Way_leaving_the_A701_-_geograph.org.uk_-_2292810.jpg/500px-Annandale_Way_leaving_the_A701_-_geograph.org.uk_-_2292810.jpg",
       "title": "Annandale Way leaving the A701 by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Annandale Way leaving the A701"
     },
@@ -68,7 +68,7 @@
       "caption": "Bowling at Lochmaben"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/River_bridge%2C_Annan_-_geograph.org.uk_-_3536087.jpg/512px-River_bridge%2C_Annan_-_geograph.org.uk_-_3536087.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/River_bridge%2C_Annan_-_geograph.org.uk_-_3536087.jpg/500px-River_bridge%2C_Annan_-_geograph.org.uk_-_3536087.jpg",
       "title": "River bridge, Annan by Richard Dorrell, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River bridge, Annan"
     },
@@ -101,21 +101,22 @@
   "postcode": "DG10 9HB",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "river",
+    "woodland",
+    "riverside",
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "historical site"
+    "source of river",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

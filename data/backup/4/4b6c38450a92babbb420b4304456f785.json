@@ -3,7 +3,7 @@
   "objectID": "4b6c38450a92babbb420b4304456f785",
   "ref": "uffculme-walking-route",
   "title": "Uffculme and Bridwell Park Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg/512px-Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg/500px-Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4b6c38450a92babbb420b4304456f785.gpx",
   "_geoloc": {
     "lat": 50.905569608,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg/512px-Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg/500px-Bridwell_Park%2C_Devon-geograph.org.uk-3707036.jpg",
       "title": "Lewis Clarke / Mid Devon : Bridwell Park",
       "caption": "Bridwell Park, Devon-geograph.org.uk-3707036"
     },
@@ -26,7 +26,7 @@
       "caption": "Wall at Old Bridwell"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uffculme_%2C_Coldharbour_Mill_-_geograph.org.uk_-_2095696.jpg/512px-Uffculme_%2C_Coldharbour_Mill_-_geograph.org.uk_-_2095696.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uffculme_%2C_Coldharbour_Mill_-_geograph.org.uk_-_2095696.jpg/500px-Uffculme_%2C_Coldharbour_Mill_-_geograph.org.uk_-_2095696.jpg",
       "title": "Uffculme : Coldharbour Mill by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Uffculme, Coldharbour Mill"
     },
@@ -46,7 +46,7 @@
       "caption": "Uffculme, River Culm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/River_Culm_near_Smithincott_-_geograph.org.uk_-_3189973.jpg/512px-River_Culm_near_Smithincott_-_geograph.org.uk_-_3189973.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/River_Culm_near_Smithincott_-_geograph.org.uk_-_3189973.jpg/500px-River_Culm_near_Smithincott_-_geograph.org.uk_-_3189973.jpg",
       "title": "River Culm near Smithincott by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Culm near Smithincott"
     }
@@ -74,23 +74,23 @@
   "postcode": "EX15 3AX",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "parkland",
-    "river"
+    "riverside"
   ],
   "points_of_interest": [
-    "historic mill",
-    "country estate"
+    "historical site",
+    "country estate",
+    "mill"
   ],
   "facilities": [
-    "visitor center",
-    "museum",
-    "car park"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

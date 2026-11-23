@@ -3,7 +3,7 @@
   "objectID": "5c117506c14026f4183b860b9350c6d2",
   "ref": "upper-hulme-walking-route",
   "title": "Upper Hulme Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg/512px-Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg/500px-Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5c117506c14026f4183b860b9350c6d2.gpx",
   "_geoloc": {
     "lat": 53.1460585032,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg/512px-Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg/500px-Weir_%5E_Ford_-_Upper_Hulme_-_geograph.org.uk_-_2377279.jpg",
       "title": "Weir & Ford - Upper Hulme by Anthony Parkes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Weir in the village"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cottages_in_Upper_Hulme_-_geograph.org.uk_-_3487326.jpg/512px-Cottages_in_Upper_Hulme_-_geograph.org.uk_-_3487326.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cottages_in_Upper_Hulme_-_geograph.org.uk_-_3487326.jpg/500px-Cottages_in_Upper_Hulme_-_geograph.org.uk_-_3487326.jpg",
       "title": "Cottages in Upper Hulme by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cottages in Upper Hulme"
     },
@@ -60,23 +60,21 @@
   "district": "Staffordshire Moorlands",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2 hours 30 minutes",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "waterfront"
+    "woodland"
   ],
   "points_of_interest": [
     "viewpoint",
-    "water wheel"
+    "historical site"
   ],
   "facilities": [
-    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "wildlife watching"
+    "walking"
   ]
 }

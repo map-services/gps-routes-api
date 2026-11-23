@@ -3,7 +3,7 @@
   "objectID": "eb8dcf4422ca23e32282c646adf39c9d",
   "ref": "scarborough-walking-route",
   "title": "Scarborough Walks - Castle Circular Walk",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg/512px-Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg/500px-Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eb8dcf4422ca23e32282c646adf39c9d.gpx",
   "_geoloc": {
     "lat": 54.2890091669,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg/512px-Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg/500px-Scarborough_Castle_-_geograph.org.uk_-_1951734.jpg",
       "title": "Scarborough Castle by Nick Mutton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Scarborough Castle 1"
     },
@@ -41,12 +41,12 @@
       "caption": "St. Nicholas Cliff Lift and the Grand Hotel, Scarborough"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Master_Gunner%27s_House%2C_Scarborough_Castle_-_geograph.org.uk_-_1778227.jpg/512px-The_Master_Gunner%27s_House%2C_Scarborough_Castle_-_geograph.org.uk_-_1778227.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Master_Gunner%27s_House%2C_Scarborough_Castle_-_geograph.org.uk_-_1778227.jpg/500px-The_Master_Gunner%27s_House%2C_Scarborough_Castle_-_geograph.org.uk_-_1778227.jpg",
       "title": "Michael Steele / The Master Gunner's House, Scarborough Castle",
       "caption": "The Master Gunner's House, Scarborough Castle"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Scarborough_Spa_Complex_from_Castle_Viewing_Platform_-_geograph.org.uk_-_1778540.jpg/512px-Scarborough_Spa_Complex_from_Castle_Viewing_Platform_-_geograph.org.uk_-_1778540.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Scarborough_Spa_Complex_from_Castle_Viewing_Platform_-_geograph.org.uk_-_1778540.jpg/500px-Scarborough_Spa_Complex_from_Castle_Viewing_Platform_-_geograph.org.uk_-_1778540.jpg",
       "title": "Michael Steele / Scarborough Spa Complex from Castle Viewing Platform",
       "caption": "Scarborough Spa Complex from Castle Viewing Platform"
     }
@@ -78,24 +78,21 @@
   "display_address": "Marine Drive, The Old Town, Scarborough, North Yorkshire, York and North Yorkshire, England, YO11 1JA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "garden"
+    "coastal"
   ],
   "points_of_interest": [
     "castle",
+    "viewpoint",
+    "beach",
     "harbour",
-    "park",
-    "lake",
-    "gardens"
+    "park"
   ],
   "facilities": [
-    "visitor center",
-    "audio tours",
-    "exhibitions",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

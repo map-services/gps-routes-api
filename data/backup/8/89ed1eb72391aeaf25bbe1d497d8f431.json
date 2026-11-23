@@ -130,20 +130,24 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland"
+    "heathland"
   ],
   "points_of_interest": [
+    "pond",
     "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

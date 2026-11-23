@@ -3,7 +3,7 @@
   "objectID": "53c744dbeac3d1f9c3d9776a16d46b1f",
   "ref": "wolverhampton-canal-walk-walking-route",
   "title": "Wolverhampton Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wolverhemton_-_panoramio_%281%29.jpg/512px-Wolverhemton_-_panoramio_%281%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wolverhemton_-_panoramio_%281%29.jpg/500px-Wolverhemton_-_panoramio_%281%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/53c744dbeac3d1f9c3d9776a16d46b1f.gpx",
   "_geoloc": {
     "lat": 52.5887928751,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wolverhemton_-_panoramio_%281%29.jpg/512px-Wolverhemton_-_panoramio_%281%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wolverhemton_-_panoramio_%281%29.jpg/500px-Wolverhemton_-_panoramio_%281%29.jpg",
       "title": "Tanya Dedyukhina [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Canal view at the start"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wolverhemton_-_panoramio.jpg/512px-Wolverhemton_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wolverhemton_-_panoramio.jpg/500px-Wolverhemton_-_panoramio.jpg",
       "title": "Tanya Dedyukhina [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Barges on the canal"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canals_and_railways%2C_Wolverhampton_-_geograph.org.uk_-_1718425.jpg/512px-Canals_and_railways%2C_Wolverhampton_-_geograph.org.uk_-_1718425.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canals_and_railways%2C_Wolverhampton_-_geograph.org.uk_-_1718425.jpg/500px-Canals_and_railways%2C_Wolverhampton_-_geograph.org.uk_-_1718425.jpg",
       "title": "Michael Westley [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Canals and railways, Wolverhampton"
     },
@@ -36,7 +36,7 @@
       "caption": "Dunstall Railway Arches"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aldersley_Junction_and_Wolverhampton_bottom_lock.jpg/512px-Aldersley_Junction_and_Wolverhampton_bottom_lock.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aldersley_Junction_and_Wolverhampton_bottom_lock.jpg/500px-Aldersley_Junction_and_Wolverhampton_bottom_lock.jpg",
       "title": "Oosoom at English Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Aldersley Junction and Wolverhampton bottom lock"
     }
@@ -59,21 +59,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "30 minutes",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "canal"
+    "canal towpath"
   ],
   "points_of_interest": [
-    "lock cottages",
-    "railway bridges",
-    "racecourse"
+    "lock",
+    "bridge",
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

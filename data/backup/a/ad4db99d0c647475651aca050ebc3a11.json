@@ -3,7 +3,7 @@
   "objectID": "ad4db99d0c647475651aca050ebc3a11",
   "ref": "houghton-forest-walking-and-cycle-route",
   "title": "Houghton Forest Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg/256px-Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg/330px-Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg",
   "nearby": [
     {
       "description": "Midhurst Way",
@@ -38,7 +38,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg/256px-Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg/330px-Cycle_Track_through_Houghton_Forest_-_geograph.org.uk_-_236571.jpg",
       "title": "Simon Carey / Cycle Track through Houghton Forest",
       "caption": "Cycle Track through Houghton Forest"
     },
@@ -48,7 +48,7 @@
       "caption": "Houghton Forest. Bridleway passing along the western edge of the thickly wooded forest, a mixed wood."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Houghton_Forest_-_geograph.org.uk_-_236569.jpg/256px-Houghton_Forest_-_geograph.org.uk_-_236569.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Houghton_Forest_-_geograph.org.uk_-_236569.jpg/330px-Houghton_Forest_-_geograph.org.uk_-_236569.jpg",
       "title": "Simon Carey / Houghton Forest",
       "caption": "The Beeches keep out both summer sun and winter rain."
     },
@@ -86,20 +86,21 @@
   "district": "Arun",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoint"
+    "historical site"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

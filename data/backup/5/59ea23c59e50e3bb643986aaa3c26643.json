@@ -3,7 +3,7 @@
   "objectID": "59ea23c59e50e3bb643986aaa3c26643",
   "ref": "lincolnshire-wolds-way-walking-route",
   "title": "Lincolnshire Wolds Way - Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg/512px-Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg/500px-Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/59ea23c59e50e3bb643986aaa3c26643.gpx",
   "_geoloc": {
     "lat": 53.36758,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg/512px-Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg/500px-Cornmarket%2C_Louth_-_geograph.org.uk_-_3760890.jpg",
       "title": "Cornmarket, Louth by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cornmarket, Louth"
     },
@@ -26,12 +26,12 @@
       "caption": "View across site of medieval village of Biscathorpe. Very little to see in terms of the old village. But a nice view across the River Bain towards the church of St Helen"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Autumn_colour_in_Tealby_-_geograph.org.uk_-_3174799.jpg/512px-Autumn_colour_in_Tealby_-_geograph.org.uk_-_3174799.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Autumn_colour_in_Tealby_-_geograph.org.uk_-_3174799.jpg/500px-Autumn_colour_in_Tealby_-_geograph.org.uk_-_3174799.jpg",
       "title": "Autumn colour in Tealby by Jonathan Thacker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Autumn colour in Tealby"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pond_by_the_church_at_Beesby_-_geograph.org.uk_-_3282896.jpg/512px-Pond_by_the_church_at_Beesby_-_geograph.org.uk_-_3282896.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pond_by_the_church_at_Beesby_-_geograph.org.uk_-_3282896.jpg/500px-Pond_by_the_church_at_Beesby_-_geograph.org.uk_-_3282896.jpg",
       "title": "Pond by the church at Beesby by Jonathan Thacker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Pond by the church at Beesby"
     },
@@ -60,22 +60,21 @@
   "display_address": "John Taylors Estate Agents & Chartered Surveyors, 127, Eastgate, Louth, East Lindsey, Lincolnshire, England, LN11 9QE, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "country"
+    "hill"
   ],
   "points_of_interest": [
-    "village",
-    "park"
+    "country park",
+    "nature reserve"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "campsite"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

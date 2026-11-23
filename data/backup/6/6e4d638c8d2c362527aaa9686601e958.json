@@ -3,7 +3,7 @@
   "objectID": "6e4d638c8d2c362527aaa9686601e958",
   "ref": "holmes-chapel-walking-route",
   "title": "Holmes Chapel Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg/256px-Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg/330px-Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6e4d638c8d2c362527aaa9686601e958.gpx",
   "_geoloc": {
     "lat": 53.2065576448,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg/256px-Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg/330px-Holmes_Chapel%2C_church_tower_-_geograph.org.uk_-_1469096.jpg",
       "title": "Mike Faherty / Holmes Chapel, church tower",
       "caption": "Holmes Chapel, church tower. Looking up London Road towards the tower of St. Luke's Parish Church, at the junction with Knutsford Road."
     },
@@ -31,7 +31,7 @@
       "caption": "Dane Valley Way. Five bar gate on the Dane Valley footpath. The Dane Valley Way runs from Buxton to Middlewich, a distance of approximately 40 miles."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lavender_and_Sunflower_Meadow%2C_Swettenham_Arms.jpg/512px-Lavender_and_Sunflower_Meadow%2C_Swettenham_Arms.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lavender_and_Sunflower_Meadow%2C_Swettenham_Arms.jpg/500px-Lavender_and_Sunflower_Meadow%2C_Swettenham_Arms.jpg",
       "title": "Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Lavender and Sunflower Meadow, Swettenham Arms"
     },
@@ -41,7 +41,7 @@
       "caption": "Dane valley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Looking_towards_the_meadow_across_the_lake_-_geograph.org.uk_-_1738426.jpg/512px-Looking_towards_the_meadow_across_the_lake_-_geograph.org.uk_-_1738426.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Looking_towards_the_meadow_across_the_lake_-_geograph.org.uk_-_1738426.jpg/500px-Looking_towards_the_meadow_across_the_lake_-_geograph.org.uk_-_1738426.jpg",
       "title": "Jonathan Kington / Looking towards the meadow across the lake",
       "caption": "Looking towards the meadow across the lake at Brereton Heath. This view across the lake on Brereton Heath Country Park was taken from near the visitor centre and looks over towards the meadow area. Taken on a lovely day in early March, there was just a very slight breeze to disturb the water surface. The lake itself is man-made and was created after a silica sand quarry closed down."
     },
@@ -78,25 +78,23 @@
   "display_address": "Knutsford Road, Cranage, Holmes Chapel, Cheshire East, England, CW4 8EF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
-    "grassland"
+    "riverine"
   ],
   "points_of_interest": [
-    "footpath",
-    "viaduct",
     "nature reserve",
-    "hall"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

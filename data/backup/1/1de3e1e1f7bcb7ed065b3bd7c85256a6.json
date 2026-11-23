@@ -3,7 +3,7 @@
   "objectID": "1de3e1e1f7bcb7ed065b3bd7c85256a6",
   "ref": "havering-country-park-walking-route",
   "title": "Havering Country Park Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Havering_Country_Park_5.JPG/512px-Havering_Country_Park_5.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Havering_Country_Park_5.JPG/500px-Havering_Country_Park_5.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1de3e1e1f7bcb7ed065b3bd7c85256a6.gpx",
   "_geoloc": {
     "lat": 51.6162538959,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Havering_Country_Park_5.JPG/512px-Havering_Country_Park_5.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Havering_Country_Park_5.JPG/500px-Havering_Country_Park_5.JPG",
       "title": "Dudley Miles [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]",
       "caption": "Havering Country Park lawn"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Havering_Country_Park_6.JPG/512px-Havering_Country_Park_6.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Havering_Country_Park_6.JPG/500px-Havering_Country_Park_6.JPG",
       "title": "Dudley Miles [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]",
       "caption": "Information board and map at the site"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Havering_Country_Park_1.JPG/512px-Havering_Country_Park_1.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Havering_Country_Park_1.JPG/500px-Havering_Country_Park_1.JPG",
       "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Woodland trail in autumn"
     },
@@ -36,7 +36,7 @@
       "caption": "Countryside view north from Havering Country Park access track"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/London_Loop_walk_through_Havering_Country_Park_-_geograph.org.uk_-_4254913.jpg/512px-London_Loop_walk_through_Havering_Country_Park_-_geograph.org.uk_-_4254913.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/London_Loop_walk_through_Havering_Country_Park_-_geograph.org.uk_-_4254913.jpg/500px-London_Loop_walk_through_Havering_Country_Park_-_geograph.org.uk_-_4254913.jpg",
       "title": "London Loop walk through Havering Country Park by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "London Loop walk through Havering Country Park"
     },
@@ -46,7 +46,7 @@
       "caption": "Havering Pasture"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Old_Cottage%2C_Havering_atte_Bower_-_geograph.org.uk_-_4171855.jpg/512px-Old_Cottage%2C_Havering_atte_Bower_-_geograph.org.uk_-_4171855.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Old_Cottage%2C_Havering_atte_Bower_-_geograph.org.uk_-_4171855.jpg/500px-Old_Cottage%2C_Havering_atte_Bower_-_geograph.org.uk_-_4171855.jpg",
       "title": "Old Cottage, Havering atte Bower by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Old Cottage, Havering atte Bower."
     }
@@ -70,8 +70,8 @@
   "display_address": "Wellingtonia Avenue, London Borough of Havering, London, Greater London, England, RM4 1QR, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland"
@@ -79,10 +79,8 @@
   "points_of_interest": [
     "avenue"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

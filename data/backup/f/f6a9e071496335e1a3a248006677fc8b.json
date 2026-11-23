@@ -3,7 +3,7 @@
   "objectID": "f6a9e071496335e1a3a248006677fc8b",
   "ref": "ecchinswell-walking-route",
   "title": "Ecchinswell Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg/512px-The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg/500px-The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f6a9e071496335e1a3a248006677fc8b.gpx",
   "_geoloc": {
     "lat": 51.3313799337,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg/512px-The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg/500px-The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg",
       "title": "The main street, Ecchinswell by Stuart Logan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The main street, Ecchinswell"
     },
@@ -21,7 +21,7 @@
       "caption": "Track, Sydmonton This is the public footpath approaching Watership Farm from the west."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/View_southeast_to_Watership_Farm_-_geograph.org.uk_-_1728686.jpg/512px-View_southeast_to_Watership_Farm_-_geograph.org.uk_-_1728686.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/View_southeast_to_Watership_Farm_-_geograph.org.uk_-_1728686.jpg/500px-View_southeast_to_Watership_Farm_-_geograph.org.uk_-_1728686.jpg",
       "title": "Colin Park / View southeast to Watership Farm",
       "caption": "View southeast to Watership Farm"
     },
@@ -78,17 +78,18 @@
   "display_address": "White Hill, Ecchinswell, Sydmonton and Bishops Green, Ecchinswell, Basingstoke and Deane, Hampshire, England, RG20 4UF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "downland"
+    "woodland"
   ],
   "points_of_interest": [
     "viewpoint",
-    "estate"
+    "historical site"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -3,7 +3,7 @@
   "objectID": "1b77e498340cd766398e40aee3105021",
   "ref": "channel-to-channel-walking-route",
   "title": "Channel to Channel Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg/512px-The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg/500px-The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg",
   "nearby": [
     {
       "description": "Fyne Court",
@@ -38,7 +38,7 @@
   ],
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg/512px-The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg/500px-The_Clock_Tower%2C_Seaton%2C_Devon_-_geograph.org.uk_-_2270914.jpg",
       "title": "The Clock Tower, Seaton, Devon by michael cooper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Clock Tower, Seaton, Devon"
     },
@@ -96,21 +96,24 @@
   "state": "England",
   "country": "United Kingdom",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
+    "coastal",
     "woodland",
     "hill"
   ],
   "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "Iron Age hill fort enclosure",
     "historic house",
-    "burial chamber"
+    "Bronze Age burial chamber"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

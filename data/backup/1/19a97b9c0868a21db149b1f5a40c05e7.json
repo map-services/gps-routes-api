@@ -1,99 +1,109 @@
 {
-    "created_at": "2025-01-06T18:47:07.632133+00:00",
-    "objectID": "19a97b9c0868a21db149b1f5a40c05e7",
-    "ref": "davagh-forest-walking-and-cycle-route",
-    "title": "Davagh Forest Walks and MTB",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Forest_road%2C_Davagh_Forest_-_geograph.org.uk_-_3588088.jpg",
-    "nearby": [
-        {
-            "description": "Banagher Glen",
-            "objectID": "241f73136cc729c1459b82a1c709af98",
-            "ref": "banagher-glen-walking-route"
-        },
-        {
-            "description": "Gortin Glen",
-            "objectID": "3744590638405276e7bfbc5bbc8bdd42",
-            "ref": "gortin-glen-walking-and-cycle-route"
-        },
-        {
-            "description": "Ballinderry River Walk",
-            "objectID": "02d394328628731f24d9d2d4ac80e72e",
-            "ref": "dunnamore-ballinderry-river-walking-route"
-        },
-        {
-            "description": "An Creagan",
-            "objectID": "9993f3a7e9e779bc2ee27051b6950700",
-            "ref": "an-creagan-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/19a97b9c0868a21db149b1f5a40c05e7.gpx",
-    "_geoloc": {
-        "lat": 54.7215,
-        "lng": -6.913
+  "created_at": "2025-01-06T18:47:07.632133+00:00",
+  "objectID": "19a97b9c0868a21db149b1f5a40c05e7",
+  "ref": "davagh-forest-walking-and-cycle-route",
+  "title": "Davagh Forest Walks and MTB",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Forest_road%2C_Davagh_Forest_-_geograph.org.uk_-_3588088.jpg",
+  "nearby": [
+    {
+      "description": "Banagher Glen",
+      "objectID": "241f73136cc729c1459b82a1c709af98",
+      "ref": "banagher-glen-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Forest_road%2C_Davagh_Forest_-_geograph.org.uk_-_3588088.jpg",
-            "title": "Forest road, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Forest road, Davagh Forest. The forest is predominantly made up of native species such as Scots pine, oak, and beech, which provide a rich and diverse habitat for wildlife."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyclist%27s_trail%2C_Davagh_Forest_-_geograph.org.uk_-_3587982.jpg",
-            "title": "Cyclist's trail, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Cyclist's trail, Davagh Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Davagh_Forest_-_geograph.org.uk_-_4022367.jpg",
-            "title": "Davagh Forest by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Davagh Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Davagh_Forest_-_geograph.org.uk_-_506793.jpg",
-            "title": "Kenneth Allen / Davagh Forest",
-            "caption": "Davagh Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Small_lake%2C_Davagh_Forest_-_geograph.org.uk_-_2353740.jpg",
-            "title": "Small lake, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Small lake, Davagh Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_grassy_track%2C_Davagh_Forest_-_geograph.org.uk_-_3588048.jpg",
-            "title": "A grassy track, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A grassy track, Davagh Forest"
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This expansive forest is located near Cookstown in the Sperrin Mountains of County Tyrone. There's miles of walking paths and mountain bike trails taking you through lush woodland with river views and lots of wildlife to look out for. The site includes some easier family trails as well as more challenging red graded mountain bike trails - see the video below to get an idea of what to expect on the exhilarating trail. Other facilities include a visitor centre, a car park, bike hire and a OM Dark Sky Park and Observatory. To continue your walking in the area head north to visit Banagher Glen Nature Reserve. Here you can explore the Banagher Dam and a series of pretty waterfalls with red squirrels to look out for on the way. To the west there's Gortin Glen where there's another red graded mountain bike trail and a series of waymarked footpaths to try. Near here there's also Loughmacrory Lough. Here you will find a 2km circular trail running along the shoreline of the pretty lake.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head north west into Derry city and you can pick up the Foyle Valley Cycle Route. The ride takes you along a dismantled railway and the River Foyle to Lifford and Strabane. The opening section is traffic free so suitable for walkers. Just to the east there's the pretty Lough Fea where you'll find a nice waterside circular walk and a picnic area to relax in. Just to the south there's the lovely Ballinderry River Walk in nearby Dunnamore. Near here you can pick up the circular loop walk around An Creagan. There's a visitor centre, a boardwalk over the Creggan Bog Nature Reserve and woodland trails to be found in this interesting area."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/GS3mvVEcyXI",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Davagh Road, County Tyrone, Northern Ireland / Tuaisceart \u00c9ireann, United Kingdom",
-    "postcode": null,
-    "district": null,
-    "county": "County Tyrone",
-    "region": null,
-    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "mountain"],
-    "points_of_interest": ["waterfall", "nature reserve", "lake"],
-    "facilities": [
-        "visitor center",
-        "car park",
-        "bike hire",
-        "dark sky park",
-        "observatory",
-        "pub/cafe"
-    ],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Gortin Glen",
+      "objectID": "3744590638405276e7bfbc5bbc8bdd42",
+      "ref": "gortin-glen-walking-and-cycle-route"
+    },
+    {
+      "description": "Ballinderry River Walk",
+      "objectID": "02d394328628731f24d9d2d4ac80e72e",
+      "ref": "dunnamore-ballinderry-river-walking-route"
+    },
+    {
+      "description": "An Creagan",
+      "objectID": "9993f3a7e9e779bc2ee27051b6950700",
+      "ref": "an-creagan-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/19a97b9c0868a21db149b1f5a40c05e7.gpx",
+  "_geoloc": {
+    "lat": 54.7215,
+    "lng": -6.913
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Forest_road%2C_Davagh_Forest_-_geograph.org.uk_-_3588088.jpg",
+      "title": "Forest road, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Forest road, Davagh Forest. The forest is predominantly made up of native species such as Scots pine, oak, and beech, which provide a rich and diverse habitat for wildlife."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyclist%27s_trail%2C_Davagh_Forest_-_geograph.org.uk_-_3587982.jpg",
+      "title": "Cyclist's trail, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Cyclist's trail, Davagh Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Davagh_Forest_-_geograph.org.uk_-_4022367.jpg",
+      "title": "Davagh Forest by Anne Burgess, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Davagh Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Davagh_Forest_-_geograph.org.uk_-_506793.jpg",
+      "title": "Kenneth Allen / Davagh Forest",
+      "caption": "Davagh Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Small_lake%2C_Davagh_Forest_-_geograph.org.uk_-_2353740.jpg",
+      "title": "Small lake, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Small lake, Davagh Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_grassy_track%2C_Davagh_Forest_-_geograph.org.uk_-_3588048.jpg",
+      "title": "A grassy track, Davagh Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A grassy track, Davagh Forest"
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This expansive forest is located near Cookstown in the Sperrin Mountains of County Tyrone. There's miles of walking paths and mountain bike trails taking you through lush woodland with river views and lots of wildlife to look out for. The site includes some easier family trails as well as more challenging red graded mountain bike trails - see the video below to get an idea of what to expect on the exhilarating trail. Other facilities include a visitor centre, a car park, bike hire and a OM Dark Sky Park and Observatory. To continue your walking in the area head north to visit Banagher Glen Nature Reserve. Here you can explore the Banagher Dam and a series of pretty waterfalls with red squirrels to look out for on the way. To the west there's Gortin Glen where there's another red graded mountain bike trail and a series of waymarked footpaths to try. Near here there's also Loughmacrory Lough. Here you will find a 2km circular trail running along the shoreline of the pretty lake.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west into Derry city and you can pick up the Foyle Valley Cycle Route. The ride takes you along a dismantled railway and the River Foyle to Lifford and Strabane. The opening section is traffic free so suitable for walkers. Just to the east there's the pretty Lough Fea where you'll find a nice waterside circular walk and a picnic area to relax in. Just to the south there's the lovely Ballinderry River Walk in nearby Dunnamore. Near here you can pick up the circular loop walk around An Creagan. There's a visitor centre, a boardwalk over the Creggan Bog Nature Reserve and woodland trails to be found in this interesting area."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/GS3mvVEcyXI",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Davagh Road, County Tyrone, Northern Ireland / Tuaisceart \u00c9ireann, United Kingdom",
+  "postcode": null,
+  "district": null,
+  "county": "County Tyrone",
+  "region": null,
+  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "river view",
+    "wildlife",
+    "nature reserve",
+    "dam",
+    "waterfall",
+    "lake"
+  ],
+  "facilities": [
+    "visitor centre",
+    "car park",
+    "bike hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "mountain biking"
+  ]
 }

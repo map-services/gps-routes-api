@@ -93,7 +93,7 @@
       "caption": "The route includes the cliff top walk from Seaford to Cuckmere Haven. This area includes the Seaford Head Nature Reserve which includes a variety of flora and fauna with some spectacular views of the Cuckmere valley."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Vanguard_Way_near_Gills_Lap_-_geograph.org.uk_-_410908.jpg/512px-The_Vanguard_Way_near_Gills_Lap_-_geograph.org.uk_-_410908.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Vanguard_Way_near_Gills_Lap_-_geograph.org.uk_-_410908.jpg/500px-The_Vanguard_Way_near_Gills_Lap_-_geograph.org.uk_-_410908.jpg",
       "title": "Trish Steel, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Vanguard Way near Gills Lap in Ashdown Forest"
     }
@@ -121,25 +121,23 @@
   "display_address": "No. 1 Croydon, 12-18, Addiscombe Road, Addiscombe, London Borough of Croydon, London, Greater London, England, CR0 0XT, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "forest",
-    "coastal",
-    "river"
+    "woodland",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical landmark",
-    "natural landmark",
-    "beach"
+    "forest",
+    "cliffs",
+    "beach",
+    "river"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

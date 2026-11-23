@@ -43,7 +43,7 @@
       "caption": "Trail view 2"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Picnic_area_by_Blakeshall_car_park%2C_Kingsford_Forest_Park_-_geograph.org.uk_-_886463.jpg/256px-Picnic_area_by_Blakeshall_car_park%2C_Kingsford_Forest_Park_-_geograph.org.uk_-_886463.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Picnic_area_by_Blakeshall_car_park%2C_Kingsford_Forest_Park_-_geograph.org.uk_-_886463.jpg/330px-Picnic_area_by_Blakeshall_car_park%2C_Kingsford_Forest_Park_-_geograph.org.uk_-_886463.jpg",
       "title": "P L Chadwick / Picnic area by Blakeshall car park, Kingsford Forest Park",
       "caption": "Picnic area by Blakeshall car park. Kingsford Forest Park contains 200 acres of mixed woodland and heathland. It is in the northwest of Worcestershire. Just over the county border in Staffordshire is Kinver Edge and the village of Kinver. By the Blakeshall car park is this small wooded picnic area with several picnic tables."
     },
@@ -53,7 +53,7 @@
       "caption": "Dog walking in Kingsford Forest Park. The attractive Kingsford Forest Park is popular with many different types of visitor. These include walkers, naturalists, bird spotters, cyclists, horse riders, dogs and their walkers. Here two dogs take their human companion for a brisk trot. They are walking on the Horse Route as can be seen by the evidence in the foreground."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Footpath_in_Kingsford_Forest_Park_-_geograph.org.uk_-_1185923.jpg/256px-Footpath_in_Kingsford_Forest_Park_-_geograph.org.uk_-_1185923.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Footpath_in_Kingsford_Forest_Park_-_geograph.org.uk_-_1185923.jpg/330px-Footpath_in_Kingsford_Forest_Park_-_geograph.org.uk_-_1185923.jpg",
       "title": "P L Chadwick / Footpath in Kingsford Forest Park",
       "caption": "This footpath leads out of the forest and onto Blakeshall Lane."
     },
@@ -86,22 +86,23 @@
   "district": "Wyre Forest",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2 hours 30 minutes",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "sandstone ridge"
+    "hill",
+    "cliff"
   ],
   "points_of_interest": [
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

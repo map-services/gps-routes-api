@@ -1,139 +1,124 @@
 {
-  "created_at": "2025-01-06T00:47:05.366092+00:00",
-  "objectID": "feb879e9f1005b6ae2d09118cf41dacc",
-  "ref": "willington-walking-route",
-  "title": "Willington Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trent_and_Mersey_Canal_west_of_Willington%2C_Derbyshire_-_geograph.org.uk_-_1586744.jpg",
-  "nearby": [
-    {
-      "description": "Burton on Trent to Barton under Needwood Canal Walk",
-      "objectID": "0d3a1c7c29203b4f06d195cf39fc1564",
-      "ref": "burton-on-trent-to-barton-under-needwood-canal-walk-walking-route"
+    "created_at": "2025-01-06T00:47:05.366092+00:00",
+    "objectID": "feb879e9f1005b6ae2d09118cf41dacc",
+    "ref": "willington-walking-route",
+    "title": "Willington Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trent_and_Mersey_Canal_west_of_Willington%2C_Derbyshire_-_geograph.org.uk_-_1586744.jpg",
+    "nearby": [
+        {
+            "description": "Burton on Trent to Barton under Needwood Canal Walk",
+            "objectID": "0d3a1c7c29203b4f06d195cf39fc1564",
+            "ref": "burton-on-trent-to-barton-under-needwood-canal-walk-walking-route"
+        },
+        {
+            "description": "Trent and Mersey Canal",
+            "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
+            "ref": "trent-and-mersey-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Mercia Marina",
+            "objectID": "d4504fd5d0d87039f350d4bf0b703f07",
+            "ref": "mercia-marina-walking-route"
+        },
+        {
+            "description": "Foremark Reservoir",
+            "objectID": "21afd33527f96f7f6d8f57de8a3e5d97",
+            "ref": "foremark-reservoir-walking-route"
+        },
+        {
+            "description": "Horseshoe Trail",
+            "objectID": "a7fd8c594180d9dc0fbb59400f2d0e0f",
+            "ref": "horseshoe-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Tutbury",
+            "objectID": "8840633459e698da96abdcb6478281dd",
+            "ref": "tutbury-walking-route"
+        },
+        {
+            "description": "Yoxall and Needwood Forest Walk",
+            "objectID": "c418baeb1c4af9517a806a0e5b249a03",
+            "ref": "yoxall-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/feb879e9f1005b6ae2d09118cf41dacc.gpx",
+    "_geoloc": {
+        "lat": 52.8523668416,
+        "lng": -1.5684551194
     },
-    {
-      "description": "Trent and Mersey Canal",
-      "objectID": "3398f9b83ee5bd08a7215c52ac4d2c61",
-      "ref": "trent-and-mersey-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Mercia Marina",
-      "objectID": "d4504fd5d0d87039f350d4bf0b703f07",
-      "ref": "mercia-marina-walking-route"
-    },
-    {
-      "description": "Foremark Reservoir",
-      "objectID": "21afd33527f96f7f6d8f57de8a3e5d97",
-      "ref": "foremark-reservoir-walking-route"
-    },
-    {
-      "description": "Horseshoe Trail",
-      "objectID": "a7fd8c594180d9dc0fbb59400f2d0e0f",
-      "ref": "horseshoe-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Tutbury",
-      "objectID": "8840633459e698da96abdcb6478281dd",
-      "ref": "tutbury-walking-route"
-    },
-    {
-      "description": "Yoxall and Needwood Forest Walk",
-      "objectID": "c418baeb1c4af9517a806a0e5b249a03",
-      "ref": "yoxall-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/feb879e9f1005b6ae2d09118cf41dacc.gpx",
-  "_geoloc": {
-    "lat": 52.8523668416,
-    "lng": -1.5684551194
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trent_and_Mersey_Canal_west_of_Willington%2C_Derbyshire_-_geograph.org.uk_-_1586744.jpg",
-      "title": "Roger Kidd / Trent and Mersey Canal west of Willington, Derbyshire",
-      "caption": "Trent and Mersey Canal west of Willington. Looking towards Bridge No 24A. This bridge still does not appear on some maps, and is dated 1997. I am unsure as to the purpose in building this new bridge, as no public right of way is indicated. Maybe it had something to do with quarry work at SK277272, or restrictions in accessing the A38 through Every Arms Farm."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Trent_and_Mersey_Canal_near_Egginton%2C_Derbyshire_-_geograph.org.uk_-_1586644.jpg",
-      "title": "Roger Kidd / Trent and Mersey Canal near Egginton, Derbyshire",
-      "caption": "Canal near Egginton. This is the scene just east of Coach and Horses Bridge. Two of the 300 foot cooling towers of Willington (de-commissioned) coal fired power station can be seen on the right. The Trent and Mersey Canal was opened fully by 1777. It is 93.5 miles long, from Preston Brook (near Runcorn) to Derwent Mouth (east of Shardlow). There are 76 locks to enable the canal to cross hills where it could not be routed any other way. The engineer responsible for planning and engineering the canal was James Brindley, who died in 1772 before the project was finished."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bridge_%28detail%29_over_the_River_Dove%2C_near_Burton-on-Trent_-_geograph.org.uk_-_1656512.jpg",
-      "title": "Roger Kidd / Bridge (detail) over the River Dove, near Burton-on-Trent",
-      "caption": "Bridge (detail) over the River Dove, near Burton-on-Trent. This fine stone road bridge used to carry the A38 road before the recent dual carriageway upgrades round Burton were constructed in 1967/8. Because the river was so low I was able to go right down onto the part of the bed which is submerged to varying degrees whenever heavy rain has fallen. The arch shown is on the right in this picture showing the river in a very state."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Trent_and_Mersey_Canal_near_Egginton%2C_Derbyshire_-_geograph.org.uk_-_1586300.jpg",
-      "title": "Roger Kidd / Trent and Mersey Canal near Egginton, Derbyshire",
-      "caption": "Trent and Mersey Canal near Egginton, Derbyshire. The towpath is on the right. Private long term mooring facilities have been developed on the left. High bridge (No 26) is ahead, and carries a farm track towards fields by the River Trent."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Willington_Gravel_Pits_-_geograph.org.uk_-_252261.jpg",
-      "title": "Phil Myott / Willington Gravel Pits",
-      "caption": "Willington Gravel Pits, a nature and conservation area created by the Derbyshire Wildlife Trust."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Viewing_Platform_-_geograph.org.uk_-_252271.jpg",
-      "title": "Phil Myott / Viewing Platform",
-      "caption": "Viewing Platform over the lakes at the gravel pits nature reserve."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pipe_Bridge_over_the_River_Trent_%28geograph_1888593%29.jpg",
-      "title": "John M / Pipe Bridge over the River Trent",
-      "caption": "Pipe Bridge over the River Trent (geograph 1888593)"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/River_Trent_From_Willington_Bridge_-_geograph.org.uk_-_134668.jpg",
-      "title": "Rob Court / River Trent From Willington Bridge",
-      "caption": "River Trent From Willington Bridge. Looking South West. This bridge was built in 1836 and was one of the last main road toll bridges in England. It was made free in 1898."
-    }
-  ],
-  "distance_km": 9.5,
-  "description": "This south Derbyshire based village has some pleasant waterside walks along the local canal and river. There's also a good sized nature reserve right next to the village where you can enjoy easy strolls with good birdwatching opportunities. Willington is home to the noteworthy Mercia Marina. The site is notable as the largest inland marina in the UK and one of the largest in Europe. There are 74 acres of landscaped grounds and a good range of shops and eateries here. This circular walk visits the Trent and Mersey Canal, the River Trent and the Willington Gravel Pits Nature Reserve. The walk starts on the canal, just to the west of the train station. Follow the towpath south west to High Bridge where you turn south. This will take you to the point where the River Dove meets the River Trent. Cross the river and then head north east back towards the town. You can then branch off to the west to explore the Willington Wetlands Gravel Pits Nature Reserve. The former gravel quarry is now a bird reserve run by the Derbyshire Wildlife Trust. There's a series of pools where you can look out for a wide variety of birdlife from the on site viewing stations. Keep your eyes peeled for bittern, marsh harrier, curlew, hobby, sand martin and otters at the site. After exploring the reserve you return to the village centre where the walk finishes.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "After your exercise head to the The Dragon for some post walk refreshment. The 150 year old pub is in a great location right next to the canal. Here you can sit outside in the garden area and watch the boats go by. There's also a 70-seater restaurant, a cosy bar area and a beautiful conservatory. You can find them at postcode DE65 6BP for your sat navs."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The waterside trails make for a nice dog walk. Please keep them on leads in the nature reserve area though. The Dragon mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "If you head east along the canal you will soon come to the Mercia Marina where there are more easy paths and wildlife spotting opportunities. Head into nearby Burton Upon Trent and you can pick up the Burton on Trent to Barton under Needwood Canal Walk. It follows a lovely section of the canal to the pretty Barton Marina, passing the Branston Water Park on the way. Foremark Reservoir is also located in this area. Head a few miles to the west and you could visit the delightful village of Tutbury. There's nice trails here along the River Dove to the ruins of the photogenic medieval ruined castle. Rolleston on Dove with its 12th century church and 16th century pub is also located in this area. For more walking ideas in the area see the Derbyshire Walks page."
-    }
-  ],
-  "postcode": "DE65 6BS",
-  "district": "South Derbyshire",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Ivy Close, Willington CP, South Derbyshire, Derbyshire, East Midlands, England, DE65 6BS, United Kingdom",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
-  "terrain": [
-    "canal",
-    "river",
-    "nature"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "gravel pits",
-    "bird watching"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "pub/cafe"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trent_and_Mersey_Canal_west_of_Willington%2C_Derbyshire_-_geograph.org.uk_-_1586744.jpg",
+            "title": "Roger Kidd / Trent and Mersey Canal west of Willington, Derbyshire",
+            "caption": "Trent and Mersey Canal west of Willington. Looking towards Bridge No 24A. This bridge still does not appear on some maps, and is dated 1997. I am unsure as to the purpose in building this new bridge, as no public right of way is indicated. Maybe it had something to do with quarry work at SK277272, or restrictions in accessing the A38 through Every Arms Farm."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Trent_and_Mersey_Canal_near_Egginton%2C_Derbyshire_-_geograph.org.uk_-_1586644.jpg",
+            "title": "Roger Kidd / Trent and Mersey Canal near Egginton, Derbyshire",
+            "caption": "Canal near Egginton. This is the scene just east of Coach and Horses Bridge. Two of the 300 foot cooling towers of Willington (de-commissioned) coal fired power station can be seen on the right. The Trent and Mersey Canal was opened fully by 1777. It is 93.5 miles long, from Preston Brook (near Runcorn) to Derwent Mouth (east of Shardlow). There are 76 locks to enable the canal to cross hills where it could not be routed any other way. The engineer responsible for planning and engineering the canal was James Brindley, who died in 1772 before the project was finished."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bridge_%28detail%29_over_the_River_Dove%2C_near_Burton-on-Trent_-_geograph.org.uk_-_1656512.jpg",
+            "title": "Roger Kidd / Bridge (detail) over the River Dove, near Burton-on-Trent",
+            "caption": "Bridge (detail) over the River Dove, near Burton-on-Trent. This fine stone road bridge used to carry the A38 road before the recent dual carriageway upgrades round Burton were constructed in 1967/8. Because the river was so low I was able to go right down onto the part of the bed which is submerged to varying degrees whenever heavy rain has fallen. The arch shown is on the right in this picture showing the river in a very state."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Trent_and_Mersey_Canal_near_Egginton%2C_Derbyshire_-_geograph.org.uk_-_1586300.jpg",
+            "title": "Roger Kidd / Trent and Mersey Canal near Egginton, Derbyshire",
+            "caption": "Trent and Mersey Canal near Egginton, Derbyshire. The towpath is on the right. Private long term mooring facilities have been developed on the left. High bridge (No 26) is ahead, and carries a farm track towards fields by the River Trent."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Willington_Gravel_Pits_-_geograph.org.uk_-_252261.jpg",
+            "title": "Phil Myott / Willington Gravel Pits",
+            "caption": "Willington Gravel Pits, a nature and conservation area created by the Derbyshire Wildlife Trust."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Viewing_Platform_-_geograph.org.uk_-_252271.jpg",
+            "title": "Phil Myott / Viewing Platform",
+            "caption": "Viewing Platform over the lakes at the gravel pits nature reserve."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pipe_Bridge_over_the_River_Trent_%28geograph_1888593%29.jpg",
+            "title": "John M / Pipe Bridge over the River Trent",
+            "caption": "Pipe Bridge over the River Trent (geograph 1888593)"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/River_Trent_From_Willington_Bridge_-_geograph.org.uk_-_134668.jpg",
+            "title": "Rob Court / River Trent From Willington Bridge",
+            "caption": "River Trent From Willington Bridge. Looking South West. This bridge was built in 1836 and was one of the last main road toll bridges in England. It was made free in 1898."
+        }
+    ],
+    "distance_km": 9.5,
+    "description": "This south Derbyshire based village has some pleasant waterside walks along the local canal and river. There's also a good sized nature reserve right next to the village where you can enjoy easy strolls with good birdwatching opportunities. Willington is home to the noteworthy Mercia Marina. The site is notable as the largest inland marina in the UK and one of the largest in Europe. There are 74 acres of landscaped grounds and a good range of shops and eateries here. This circular walk visits the Trent and Mersey Canal, the River Trent and the Willington Gravel Pits Nature Reserve. The walk starts on the canal, just to the west of the train station. Follow the towpath south west to High Bridge where you turn south. This will take you to the point where the River Dove meets the River Trent. Cross the river and then head north east back towards the town. You can then branch off to the west to explore the Willington Wetlands Gravel Pits Nature Reserve. The former gravel quarry is now a bird reserve run by the Derbyshire Wildlife Trust. There's a series of pools where you can look out for a wide variety of birdlife from the on site viewing stations. Keep your eyes peeled for bittern, marsh harrier, curlew, hobby, sand martin and otters at the site. After exploring the reserve you return to the village centre where the walk finishes.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "After your exercise head to the The Dragon for some post walk refreshment. The 150 year old pub is in a great location right next to the canal. Here you can sit outside in the garden area and watch the boats go by. There's also a 70-seater restaurant, a cosy bar area and a beautiful conservatory. You can find them at postcode DE65 6BP for your sat navs."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The waterside trails make for a nice dog walk. Please keep them on leads in the nature reserve area though. The Dragon mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "If you head east along the canal you will soon come to the Mercia Marina where there are more easy paths and wildlife spotting opportunities. Head into nearby Burton Upon Trent and you can pick up the Burton on Trent to Barton under Needwood Canal Walk. It follows a lovely section of the canal to the pretty Barton Marina, passing the Branston Water Park on the way. Foremark Reservoir is also located in this area. Head a few miles to the west and you could visit the delightful village of Tutbury. There's nice trails here along the River Dove to the ruins of the photogenic medieval ruined castle. Rolleston on Dove with its 12th century church and 16th century pub is also located in this area. For more walking ideas in the area see the Derbyshire Walks page."
+        }
+    ],
+    "postcode": "DE65 6BS",
+    "district": "South Derbyshire",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Ivy Close, Willington CP, South Derbyshire, Derbyshire, East Midlands, England, DE65 6BS, United Kingdom",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "3 hours",
+    "difficulty": "easy",
+    "terrain": ["waterside"],
+    "points_of_interest": ["marina", "nature reserve"],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching", "dog walking"]
 }

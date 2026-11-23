@@ -3,7 +3,7 @@
   "objectID": "10cecdad4b682e8a0ca4ead897f79f8f",
   "ref": "bakewell-walking-route",
   "title": "Bakewell Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bakewell_Ford_%28geograph_3432987%29.jpg/512px-Bakewell_Ford_%28geograph_3432987%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bakewell_Ford_%28geograph_3432987%29.jpg/500px-Bakewell_Ford_%28geograph_3432987%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/10cecdad4b682e8a0ca4ead897f79f8f.gpx",
   "_geoloc": {
     "lat": 53.2140039318,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bakewell_Ford_%28geograph_3432987%29.jpg/512px-Bakewell_Ford_%28geograph_3432987%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bakewell_Ford_%28geograph_3432987%29.jpg/500px-Bakewell_Ford_%28geograph_3432987%29.jpg",
       "title": "John Walton / Bakewell Ford",
       "caption": "Bakewell Ford. Found beside the packhorse bridge on the River Wye and adjacent to Holme Hall this ford has been blocked to by concrete bollards on the A6 side."
     },
@@ -36,7 +36,7 @@
       "caption": "Chatsworth House"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haddon_Hall_%28geograph_2270973%29.jpg/512px-Haddon_Hall_%28geograph_2270973%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haddon_Hall_%28geograph_2270973%29.jpg/500px-Haddon_Hall_%28geograph_2270973%29.jpg",
       "title": "Trevor Rickard / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
       "caption": "Haddon Hall"
     }
@@ -68,30 +68,23 @@
   "postcode": "DE45 1AR",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5-6 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "river"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic halls",
-    "trig point",
-    "church",
-    "memorial",
+    "historical site",
+    "viewpoint",
     "park"
   ],
   "facilities": [
-    "tea room",
     "pub/cafe",
-    "car park",
-    "churchyard",
-    "gardens"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "waterside walk"
+    "walking"
   ]
 }

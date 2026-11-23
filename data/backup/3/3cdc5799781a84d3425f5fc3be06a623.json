@@ -3,7 +3,7 @@
   "objectID": "3cdc5799781a84d3425f5fc3be06a623",
   "ref": "crosby-ravensworth-walking-route",
   "title": "Crosby Ravensworth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg/512px-Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg/500px-Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3cdc5799781a84d3425f5fc3be06a623.gpx",
   "_geoloc": {
     "lat": 54.5250105544,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg/512px-Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg/500px-Stone_footbridge_at_Crosby_Ravensworth_-_geograph.org.uk_-_2990184.jpg",
       "title": "Stone footbridge at Crosby Ravensworth by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stone footbridge at Crosby Ravensworth"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ford_in_Crosby_Ravensworth_-_geograph.org.uk_-_3027793.jpg/512px-Ford_in_Crosby_Ravensworth_-_geograph.org.uk_-_3027793.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ford_in_Crosby_Ravensworth_-_geograph.org.uk_-_3027793.jpg/500px-Ford_in_Crosby_Ravensworth_-_geograph.org.uk_-_3027793.jpg",
       "title": "Ford in Crosby Ravensworth by John H Darch, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ford in Crosby Ravensworth"
     },
@@ -73,20 +73,21 @@
   "district": "Crosby Ravensworth",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "3.5 hours",
   "difficulty": "moderate",
   "terrain": [
-    "limestone pavement",
-    "fell"
+    "woodland",
+    "limestone pavement"
   ],
   "points_of_interest": [
-    "church",
-    "quarries",
-    "reservoir"
+    "ancient church",
+    "historical site",
+    "viewpoint",
+    "quarry"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

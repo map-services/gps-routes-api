@@ -31,12 +31,12 @@
       "caption": "Entering Belford"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lindisfarne_National_Nature_Reserve_-_geograph.org.uk_-_3478180.jpg/512px-Lindisfarne_National_Nature_Reserve_-_geograph.org.uk_-_3478180.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lindisfarne_National_Nature_Reserve_-_geograph.org.uk_-_3478180.jpg/500px-Lindisfarne_National_Nature_Reserve_-_geograph.org.uk_-_3478180.jpg",
       "title": "Lindisfarne National Nature Reserve by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lindisfarne National Nature Reserve"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg/512px-Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg/500px-Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg",
       "title": "mattbuck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bamburgh Castle"
     }
@@ -63,23 +63,24 @@
   "district": "Belford",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural"
+    "agricultural"
   ],
   "points_of_interest": [
     "castle",
-    "nature reserve",
+    "national nature reserve",
     "cave"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

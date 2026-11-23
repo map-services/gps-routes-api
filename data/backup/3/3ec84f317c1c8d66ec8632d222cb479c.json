@@ -3,7 +3,7 @@
   "objectID": "3ec84f317c1c8d66ec8632d222cb479c",
   "ref": "duffield-walking-route",
   "title": "Duffield Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg/512px-Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg/500px-Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3ec84f317c1c8d66ec8632d222cb479c.gpx",
   "_geoloc": {
     "lat": 52.9884249949,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg/512px-Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg/500px-Makeney_Road_Bridge-River_Derwent%2C_Duffield%2C_Derbyshire_-_geograph.org.uk_-_1829059.jpg",
       "title": "Makeney Road Bridge/River Derwent, Duffield, Derbyshire by Eamon Curry, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Makeney Road Bridge-River Derwent, Duffield, Derbyshire"
     },
@@ -36,7 +36,7 @@
       "caption": "Duffield Castle is/was an 11th century stone motte and bailey fortress, founded by Henry de Ferrers, Earl of Derby. The castle was destroyed in the 13th century and not much survives other than a few areas of tarmac and concrete showing the outlines."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duffield_DMU_on_Ecclesbourne_Valley_Railway_geograph-2647355-by-Roger-Templeman.jpg/512px-Duffield_DMU_on_Ecclesbourne_Valley_Railway_geograph-2647355-by-Roger-Templeman.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duffield_DMU_on_Ecclesbourne_Valley_Railway_geograph-2647355-by-Roger-Templeman.jpg/500px-Duffield_DMU_on_Ecclesbourne_Valley_Railway_geograph-2647355-by-Roger-Templeman.jpg",
       "title": "Roger Templeman / DMU on Ecclesbourne Valley Railway at Duffield",
       "caption": "DMU on Ecclesbourne Valley Railway at Duffield. The front coach is Class 117 Pressed Steel suburban unit no 51360."
     },
@@ -78,24 +78,23 @@
   "postcode": "DE56 4GG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
+    "riverside",
     "countryside"
   ],
   "points_of_interest": [
     "historical site",
-    "nature reserve",
-    "village"
+    "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

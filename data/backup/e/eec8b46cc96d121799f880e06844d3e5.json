@@ -3,7 +3,7 @@
   "objectID": "eec8b46cc96d121799f880e06844d3e5",
   "ref": "loch-insh-walking-route",
   "title": "Loch Insh Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg/256px-Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg/330px-Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg",
   "nearby": [
     {
       "description": "Aviemore",
@@ -33,7 +33,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg/256px-Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg/330px-Loch_Insh_through_the_trees_-_geograph.org.uk_-_1574283.jpg",
       "title": "Chris Haworth / Loch Insh through the trees",
       "caption": "Loch Insh through the trees"
     },
@@ -53,7 +53,7 @@
       "caption": "Loch on the Spey, with miles of marshland upstream towards Kingussie. Many of the outstanding features of the Cairngorm National Park are visible here. The loch and marshes, the vast forests of Glen Feshie and Inshriach, with the 1100m granite hills of the western Monadh Ruadh beyond. Loch Insh is a popular water sport site, with a popular centre at the downstream end."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Osprey_Nest%2C_Loch_Insh_-_geograph.org.uk_-_530184.jpg/256px-Osprey_Nest%2C_Loch_Insh_-_geograph.org.uk_-_530184.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Osprey_Nest%2C_Loch_Insh_-_geograph.org.uk_-_530184.jpg/330px-Osprey_Nest%2C_Loch_Insh_-_geograph.org.uk_-_530184.jpg",
       "title": "Mick Garratt / Osprey Nest, Loch Insh",
       "caption": "Osprey Nest, Loch Insh"
     },
@@ -96,23 +96,21 @@
   "district": "Kincraig",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "water",
-    "woodland"
+    "path"
   ],
   "points_of_interest": [
-    "churchyard",
-    "viewpoint"
+    "viewpoint",
+    "churchyard"
   ],
   "facilities": [
-    "watersports centre",
+    "pub/cafe",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

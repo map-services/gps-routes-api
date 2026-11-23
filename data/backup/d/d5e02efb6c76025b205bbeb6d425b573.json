@@ -3,7 +3,7 @@
   "objectID": "d5e02efb6c76025b205bbeb6d425b573",
   "ref": "instow-walking-route",
   "title": "Instow Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg/512px-Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg/500px-Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d5e02efb6c76025b205bbeb6d425b573.gpx",
   "_geoloc": {
     "lat": 51.0519331855,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg/512px-Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg/500px-Appledore%2C_viewed_from_the_beach%2C_at_Instow_-_geograph.org.uk_-_3055408.jpg",
       "title": "Appledore, viewed from the beach, at Instow by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Appledore, viewed from the beach, at Instow. The village includes this iver beach and sand dunes, which are home to some rare species of orchid including the pyramid orchid. During the height of the tourist season in the summer, the beach, also referred to as Instow Sands, is heavily frequented. The sandbanks at the mouth of the estuary cancel out most of the ocean swell, making the beach calm and ideal for families. On the sands, there are many anchored boats. Many can only be reached at low tide or by dinghy or what is known as a \"tender\" in the area. Utilising the open space and calm waters, windsurfing and kitesurfing have grown in popularity. Canoeing and kayaking are also popular."
     },
@@ -26,7 +26,7 @@
       "caption": "This picture is taken from the south of the village and shows the old quayside where you can catch the ferry. In the summer, the service connects Appledore slipway and Instow Quay across the Torridge estuary. There are two hours of service on either side of high tide. This service, which is aimed at both residents and visitors who use the Tarka Trail and South West Coast Path, has recently been provided on days when the estuary's water levels have been high enough as a not-for-profit endeavour."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marine_Parade%2C_Instow_-_geograph.org.uk_-_3055386.jpg/512px-Marine_Parade%2C_Instow_-_geograph.org.uk_-_3055386.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marine_Parade%2C_Instow_-_geograph.org.uk_-_3055386.jpg/500px-Marine_Parade%2C_Instow_-_geograph.org.uk_-_3055386.jpg",
       "title": "Marine Parade, Instow by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Marine Parade, Instow"
     },
@@ -36,7 +36,7 @@
       "caption": "Abandoned boats on the Torridge north of Bideford"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bideford_Long_Bridge_-_geograph.org.uk_-_2824681.jpg/512px-Bideford_Long_Bridge_-_geograph.org.uk_-_2824681.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bideford_Long_Bridge_-_geograph.org.uk_-_2824681.jpg/500px-Bideford_Long_Bridge_-_geograph.org.uk_-_2824681.jpg",
       "title": "Bideford Long Bridge by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bideford Long Bridge. The bridge spans the River Torridge near its estuary and connects the old part of the town, and formerly important river port, of Bideford on the left bank (west side) with East-the-Water on the right bank (east side). It is one of the longest mediaeval bridges in England, being 677 feet (222 yards) long with 24 arches."
     },
@@ -74,25 +74,22 @@
   "display_address": "Marine Parade, Instow, North Devon, Devon, England, EX39 4JL, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "trail",
-    "coastal"
+    "coastal",
+    "river"
   ],
   "points_of_interest": [
-    "beach",
-    "church",
-    "bridge"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "ferry"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "99c78399141216bcf4f89fda63862850",
   "ref": "prestbury-walking-route",
   "title": "Prestbury Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%E2%80%934_The_Village%2C_Prestbury.jpg/512px-1%E2%80%934_The_Village%2C_Prestbury.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%E2%80%934_The_Village%2C_Prestbury.jpg/500px-1%E2%80%934_The_Village%2C_Prestbury.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/99c78399141216bcf4f89fda63862850.gpx",
   "_geoloc": {
     "lat": 53.2900780196,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%E2%80%934_The_Village%2C_Prestbury.jpg/512px-1%E2%80%934_The_Village%2C_Prestbury.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%E2%80%934_The_Village%2C_Prestbury.jpg/500px-1%E2%80%934_The_Village%2C_Prestbury.jpg",
       "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "1\u20134 The Village, Grade II listed houses"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prestbury_Norman_Chapel.jpg/512px-Prestbury_Norman_Chapel.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prestbury_Norman_Chapel.jpg/500px-Prestbury_Norman_Chapel.jpg",
       "title": "JD554, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Prestbury Norman Chapel"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/National_Westminster_Bank%2C_Prestbury._Formerly_known_as_the_Priest%27s_House..JPG/512px-National_Westminster_Bank%2C_Prestbury._Formerly_known_as_the_Priest%27s_House..JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/National_Westminster_Bank%2C_Prestbury._Formerly_known_as_the_Priest%27s_House..JPG/500px-National_Westminster_Bank%2C_Prestbury._Formerly_known_as_the_Priest%27s_House..JPG",
       "title": "Mike in Macc, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "National Westminster Bank, old timber framed building in the village. Formerly known as the Priest's House."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hearse_House%2C_Prestbury.jpg/512px-Hearse_House%2C_Prestbury.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hearse_House%2C_Prestbury.jpg/500px-Hearse_House%2C_Prestbury.jpg",
       "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Hearse House. Grade II listed building"
     },
@@ -36,17 +36,17 @@
       "caption": "Prestbury Churchyard. A robin alights briefly on a celtic cross. The church stands on the remains of an earlier Saxon church demolished by the monks of St Werburgh abbey as they constructed the church that we see today starting with the earliest phase of building back in 1220 AD"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lych_gate%2C_Prestbury.jpg/512px-Lych_gate%2C_Prestbury.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lych_gate%2C_Prestbury.jpg/500px-Lych_gate%2C_Prestbury.jpg",
       "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Grade II listed stone lychgate at the entrance to St Peter's Church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/River_Bollin_at_rear_of_Bollin_Grove_-_geograph.org.uk_-_2361668.jpg/512px-River_Bollin_at_rear_of_Bollin_Grove_-_geograph.org.uk_-_2361668.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/River_Bollin_at_rear_of_Bollin_Grove_-_geograph.org.uk_-_2361668.jpg/500px-River_Bollin_at_rear_of_Bollin_Grove_-_geograph.org.uk_-_2361668.jpg",
       "title": "River Bollin at rear of Bollin Grove by Peter Turner, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Bollin at rear of Bollin Grove"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lilac_Cottage%2C_Prestbury.jpg/512px-Lilac_Cottage%2C_Prestbury.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lilac_Cottage%2C_Prestbury.jpg/500px-Lilac_Cottage%2C_Prestbury.jpg",
       "title": "Dave.Dunford, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Lilac Cottage. Grade II listed restaurant and wine bar"
     }
@@ -77,16 +77,17 @@
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "river"
+    "village"
   ],
   "points_of_interest": [
-    "church",
-    "chapel"
+    "historical site",
+    "churchyard",
+    "chapel",
+    "hall"
   ],
   "facilities": [
     "pub/cafe",
-    "hotel"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

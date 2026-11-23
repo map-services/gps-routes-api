@@ -1,189 +1,172 @@
 {
-  "created_at": "2025-01-06T01:50:40.101279+00:00",
-  "objectID": "dfc85c31d62e609f13eea74ca40f670f",
-  "ref": "anglesey-coast-path-walking-route",
-  "title": "Anglesey Coast Path Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Trearddur_Bay_-_geograph.org.uk_-_170599.jpg",
-  "nearby": [
-    {
-      "description": "Red Wharf Bay",
-      "objectID": "bd2b738a37a63e202e12389dec6ca28e",
-      "ref": "red-wharf-bay-walking-route"
+    "created_at": "2025-01-06T01:50:40.101279+00:00",
+    "objectID": "dfc85c31d62e609f13eea74ca40f670f",
+    "ref": "anglesey-coast-path-walking-route",
+    "title": "Anglesey Coast Path Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Trearddur_Bay_-_geograph.org.uk_-_170599.jpg",
+    "nearby": [
+        {
+            "description": "Red Wharf Bay",
+            "objectID": "bd2b738a37a63e202e12389dec6ca28e",
+            "ref": "red-wharf-bay-walking-route"
+        },
+        {
+            "description": "Penmon Point",
+            "objectID": "6b3f6d8857099988e20c60370b318e82",
+            "ref": "penmon-point-walking-route"
+        },
+        {
+            "description": "South Stack Lighthouse",
+            "objectID": "ad978c3c0ee9788e8f17468a0933befb",
+            "ref": "south-stack-lighthouse-walking-route"
+        },
+        {
+            "description": "Cemlyn Bay",
+            "objectID": "f125a2ec76856b96393f08ddff0d8ddc",
+            "ref": "cemlyn-bay-walking-route"
+        },
+        {
+            "description": "Breakwater Country Park",
+            "objectID": "a6cf6091cde59d7289f7f3d21d1feed8",
+            "ref": "breakwater-country-park-walking-route"
+        },
+        {
+            "description": "Newborough Forest",
+            "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
+            "ref": "newborough-forest-walking-and-cycle-route"
+        },
+        {
+            "description": "Llanddwyn Island",
+            "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
+            "ref": "llanddwyn-island-walking-route"
+        },
+        {
+            "description": "Trearddur Bay",
+            "objectID": "65500b0b75da0603381e50d423bf49e2",
+            "ref": "trearddur-bay-walking-route"
+        },
+        {
+            "description": "Cemaes Bay",
+            "objectID": "fd572418a82996316505f8cf1e79aa93",
+            "ref": "cemaes-bay-walking-route"
+        },
+        {
+            "description": "Benllech to Moelfre Coastal Path",
+            "objectID": "3f159e777dc709d0005092a8e0e0ced2",
+            "ref": "benllech-to-moelfre-coastal-path-walking-route"
+        },
+        {
+            "description": "Aberffraw",
+            "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
+            "ref": "aberffraw-walking-route"
+        },
+        {
+            "description": "Rhoscolyn",
+            "objectID": "263cdd15c03896632cc7eaa1a567e2f8",
+            "ref": "rhoscolyn-walking-route"
+        },
+        {
+            "description": "Plas Newydd",
+            "objectID": "f644f6e5c00fa390d2fa7bf2a0962063",
+            "ref": "plas-newydd-walking-route"
+        },
+        {
+            "description": "Menai Bridge",
+            "objectID": "ffa8058905315f9f53279aea9ea9ae62",
+            "ref": "menai-bridge-walking-route"
+        },
+        {
+            "description": "Bull Bay",
+            "objectID": "4d1fec28506734db2271e1612e517c17",
+            "ref": "bull-bay-walking-route"
+        },
+        {
+            "description": "Malltraeth",
+            "objectID": "a432abdf0a887aa958f7335acc2377fe",
+            "ref": "malltraeth-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dfc85c31d62e609f13eea74ca40f670f.gpx",
+    "_geoloc": {
+        "lat": 53.31143607,
+        "lng": -4.6321040736
     },
-    {
-      "description": "Penmon Point",
-      "objectID": "6b3f6d8857099988e20c60370b318e82",
-      "ref": "penmon-point-walking-route"
-    },
-    {
-      "description": "South Stack Lighthouse",
-      "objectID": "ad978c3c0ee9788e8f17468a0933befb",
-      "ref": "south-stack-lighthouse-walking-route"
-    },
-    {
-      "description": "Cemlyn Bay",
-      "objectID": "f125a2ec76856b96393f08ddff0d8ddc",
-      "ref": "cemlyn-bay-walking-route"
-    },
-    {
-      "description": "Breakwater Country Park",
-      "objectID": "a6cf6091cde59d7289f7f3d21d1feed8",
-      "ref": "breakwater-country-park-walking-route"
-    },
-    {
-      "description": "Newborough Forest",
-      "objectID": "6d873c05bf96c7e25356f9e59831aa4d",
-      "ref": "newborough-forest-walking-and-cycle-route"
-    },
-    {
-      "description": "Llanddwyn Island",
-      "objectID": "d6bd15e3d31abc8d0f0d6d895adf63b2",
-      "ref": "llanddwyn-island-walking-route"
-    },
-    {
-      "description": "Trearddur Bay",
-      "objectID": "65500b0b75da0603381e50d423bf49e2",
-      "ref": "trearddur-bay-walking-route"
-    },
-    {
-      "description": "Cemaes Bay",
-      "objectID": "fd572418a82996316505f8cf1e79aa93",
-      "ref": "cemaes-bay-walking-route"
-    },
-    {
-      "description": "Benllech to Moelfre Coastal Path",
-      "objectID": "3f159e777dc709d0005092a8e0e0ced2",
-      "ref": "benllech-to-moelfre-coastal-path-walking-route"
-    },
-    {
-      "description": "Aberffraw",
-      "objectID": "588b0fe9116b2f3846e0c3b8b738a092",
-      "ref": "aberffraw-walking-route"
-    },
-    {
-      "description": "Rhoscolyn",
-      "objectID": "263cdd15c03896632cc7eaa1a567e2f8",
-      "ref": "rhoscolyn-walking-route"
-    },
-    {
-      "description": "Plas Newydd",
-      "objectID": "f644f6e5c00fa390d2fa7bf2a0962063",
-      "ref": "plas-newydd-walking-route"
-    },
-    {
-      "description": "Menai Bridge",
-      "objectID": "ffa8058905315f9f53279aea9ea9ae62",
-      "ref": "menai-bridge-walking-route"
-    },
-    {
-      "description": "Bull Bay",
-      "objectID": "4d1fec28506734db2271e1612e517c17",
-      "ref": "bull-bay-walking-route"
-    },
-    {
-      "description": "Malltraeth",
-      "objectID": "a432abdf0a887aa958f7335acc2377fe",
-      "ref": "malltraeth-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dfc85c31d62e609f13eea74ca40f670f.gpx",
-  "_geoloc": {
-    "lat": 53.31143607,
-    "lng": -4.6321040736
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Trearddur_Bay_-_geograph.org.uk_-_170599.jpg",
-      "title": "Phil Williams / Trearddur Bay, via Wikimedia Commons",
-      "caption": "Trearddur Bay. Lovely bay and beach on Holy Island off the north west coast of Anglesey."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Porth_Castell_-_geograph.org.uk_-_426140.jpg",
-      "title": "Lynne Kirton / Porth Castell, via Wikimedia Commons",
-      "caption": "Porth Castell. Pretty little bay adjacent to the slightly larger Porth Diana. Very popular with divers and kayakers as it is very sheltered and has easy entry into the water, although the only car parking spaces nearby are the few available at the local dive shop, just out of shot to the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cemlyn_Bay_-_geograph.org.uk_-_933993.jpg",
-      "title": "Robin Drayton / Cemlyn Bay, via Wikimedia Commons",
-      "caption": "Cemlyn Bay 1"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cemlyn_Bay_-_geograph.org.uk_-_51082.jpg",
-      "title": "Phil Williams / Cemlyn Bay, via Wikimedia Commons",
-      "caption": "Cemlyn Bay 2"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Porth_Ogof_cove_on_Wylfa_Head_-_geograph.org.uk_-_1178275.jpg",
-      "title": "Eric Jones / Porth Ogof cove on Wylfa Head, via Wikimedia Commons",
-      "caption": "Porth Ogof cove on Wylfa Head Porth Ogof means \"cave cove\". The slipway, in the shelter of Ynys yr Wyn (lambs island), is that of an old lifeboat station. The station is named on OS plans dating between 1881 and 1926. The headlands of Llanbadrig and Llanlleiana can be seen in the background across the waters of Cemaes Bay."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cliffs_on_the_western_side_of_Wylfa_Head_-_geograph.org.uk_-_1192911.jpg",
-      "title": "Eric Jones / Cliffs on the western side of Wylfa Head, via Wikimedia Commons",
-      "caption": "Cliffs on the western side of Wylfa Head. These cliffs are composed of very ancient Mona Complex rocks of the Gwna and Fydlyn groups. These rocks form a very stable block and this was one of the reasons for locating a nuclear station here."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Llaneilian_Bay_-_geograph.org.uk_-_1106911.jpg",
-      "title": "Andrew Fielding / Llaneilian Bay, via Wikimedia Commons",
-      "caption": "Llaneilian Bay viewed from the Isle of Anglesey Coastal Path. This section is also known as the Copper Trail. Porth Llaneilian was an early port for the copper trade later based at Amlwch to the west."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Traeth_Benllech_-_geograph.org.uk_-_568466.jpg",
-      "title": "Keith Williamson / Traeth Benllech, via Wikimedia Commons",
-      "caption": "Traeth Benllech. The beautiful sands at Benllech from the headland above Beach Road. Summer wildflowers in the foreground and the hills in the background can be seen in this shot."
-    }
-  ],
-  "distance_km": 195.0,
-  "description": "Follow the beautiful coastline of the Isle of Anglesey on the fabulous walk. The Isle of Anglesey Coastal Path falls within an Area of Outstanding Natural Beauty covering 95% of the coast. It passes through landscape that includes a mixture of farmland, coastal heath, dunes, salt-marsh, foreshore, cliffs, woodland and a National Nature Reserve. Highlights on the route include the lovely Cemlyn Bay Nature Reserve with its shingle beach and pretty lagoon. It's a great place for wildlife spotting with various coastal birds to look out for. These include Ringed Plover, Arctic Terns, Oystercatcher and Shelduck. The colony of Sandwich terns is the third largest in the UK. The delightful Cemaes Bay is located close to the reserve and provides fine views over to the Isle of Man and the Lake District. Near the bay the path passes the Dinas Gynfor coastal hillfort, Llanlleiana Porcelain Works and the fascinating Porth Wen Brickworks. This scheduled ancient monument consists of a disused Victorian brickworks which produced fire bricks, made from quartzite (silica) used to line steel-making furnaces. The remains include a number of buildings and some of the machinery. It's a photgoenic spot with the coastal scenery making a wonderful backdrop to the old buildings. Also of note is the splendid Breakwater Country Park where you can climb Holyhead Mountain for wonderful views over the island. Also on Holyhead is the spectacularly positioned South Stack Lighthouse. You can descend the 400 steps to the island and enjoy fabulous views on the way. The area also includes the South Stack RSPB nature reserve where you can look out for puffins and porpoises. Trearddur Bay on Holy Island has two lovely beaches and is popular with divers and kayakers. Red Wharf Bay is area of outstanding natural beauty located on the east coast of Anglesey. The coast path passes right along this expansive bay with its rock pools, beautiful beaches and pretty village. Just east of the bay the path takes you to Penmon Point where you can visit the Trwyn Du Lighthouse and enjoy wonderful views towards Puffin Island, Great Orme and Snowdon. Newborough Forest and Llanddwyn Island are located at the southern tip of the island near Malltraeth. The tidal island is a magical place with wonderful views across the Menai Strait, a 19th century lighthouse and an atmospheric ruined old chapel. Near here there's also the pretty village of Aberffraw and the adjacent Tywyn Aberffraw. This area of common land is one of the finest dune systems in the country.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "In the pretty village of Cemaes you can stop and enjoy refreshments at one of the nice pubs or cafes. The Stag Inn is located in the village centre and has a very good menu and selection of drinks. It's dog friendly and there's also a beer garden to sit out and relax in. You can find it on the High St at postcode LL67 0EW for your sat navs. One other idea in this village is to head to the interesting Cemaes Heritage Centre which forms a permanent exhibition, a meeting room and training room. It features a brand new heritage experience, in which one can learn about the bygone era of Cemaes and the parish of Llanbadrig. There's also a a nice tea room where you can enjoy a snack and a rest. The Ship Inn at Red Whard Bay on the eastern side of the island is a pub of some note. The inn is located right on the bay with outdoor seats with fine views on summer days. Facing east on the lee side of a hill, it is protected from the prevailing winds and catches the morning and afternoon sun perfectly. Indoors the pub is decked out with all sorts of quaint objects, mostly from old ships. With a good menu and decent selection of ales it's a splendid place to unwind after exploring the area on foot. In the delightful little village of Moelfre, on the east coast, you could head to the Kimmel Arms. The pub sits close to a small shingle beach and has fantastic, panoramic views of Moelfre Bay. The pub has a good menu and is also dog friendly with treats at the bar for your pet! You can find the pub at 8 Maes Hyfryd with a postcode of LL72 8HN. The Pilot House Cafe is located at Penmon Point in a fabulous coastal location. They offer a selection of hot & cold snacks, ice-creams, speciality coffees & a variety of mouth-watering cakes. They also serve delicious Welsh cream teas. The cafe occupies a stunning position looking out towards Puffin Island. The long, low, whitewashed building was originally home to three lighthouse pilots and their families in the early 1800's at which time it was made up of 3 seperate cottages. You can enjoy refreshments with a stunning view either indoors or outdoors if the weather is good. The Crown (Y Goron) is a really nice pub located next to the beach in the little village of Aberffraw on the south west coast of the island. The historic pub is several centuries old, pre-dating the adjacent Seion Chapel. Inside there's a cosy fire, while outside there's a large terraced garden for warmer days. You can find the pub at Stryd Y Bont with a postcode of LL63 5BX for your sat navs. It's also dog friendly if you have your pet with you. The village of Rhoscolyn is notable as the most southerly settlement on the island. It's an interesting area with the mediaeval St Gwenfaen's Well, the lovely sandy Borthwen Beach and the dramatic rocky coastline with its islands and two natural arches. There's also an excellent pub in the shape of the White Eagle. There's a lovely outdoor terrace here with splendid views to enjoy. They serve excellent food including oysters freshly caught from the Menai. You can find them at postcode LL65 2NJ for your sat navs. On the eastern side of the island you'll pass the splendid Plas Newydd. Here you'll find a National Trust owned mansion surrounded by beautiful parkland and gardens. There's a couple of good on site cafes here where you could enjoy refreshment. They are at postcode LL61 6DQ. Near here there's also the famous Menai Bridge which crosses the Menai Strait from Anglesey to mainland Wales. In Amlwch there's the Adelphi Vaults. They serve good food and have a nice suntrap garden out the back. You can find them on Quay Street at postcode LL68 9HD for your sat navs. The town is also worth exploring with the Copper Kingdom visitor centre in Port Almwch to visit. Here you can learn all about the history of Amlwch's 18th century \u201cCopper Rush\u201d in a series of interesting exhibitions. You can find them at a postcode of LL68 9DB for your sat navs. Just west of Amlwch in Bull Bay there's the Trecastell Hotel. They are positioned in a great spot with an outdoor seating area providing fine views over the water. You can find them at 28 Trecastell Park with postcode LL68 9SA for your sat navs."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "Near to the South Stack car park at the foot of the south western side of Holyhead Mountain you will find the interesting Ty Mawr Hut Circles. Also known as Cytiau'r Gwyddelod or the Irishmen's Huts, they are the remains of a group of prehistoric huts and one of the best-preserved hut groups in Wales. The settlement is to the southeast of the South Stack Lighthouse, on the opposite side of the road from the small car park provided by the Royal Society for the Protection of Birds. It's well worth a visit if you have time after your climb.Near the path at Moelfre you'll find the noteworthy Mynydd Bodafon, the highest point on the Island of Anglesey. There are great views over the island from the 178 metre high summit. For more walking ideas in the area see the Anglesey Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/TH38xrvZPNc",
-  "postcode": "LL65 1UD",
-  "district": "Holyhead",
-  "county": "Ynys M\u00f4n / Isle of Anglesey",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Victoria Road, Porth-y-Felin, Holyhead, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 1UD, United Kingdom",
-  "state": "Cymru / Wales",
-  "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
-  "terrain": [
-    "woodland",
-    "coastal",
-    "dunes",
-    "salt-marsh",
-    "cliffs",
-    "beach"
-  ],
-  "points_of_interest": [
-    "nature reserve",
-    "hillfort",
-    "lighthouse",
-    "brickworks",
-    "tidal island",
-    "village"
-  ],
-  "facilities": [
-    "visitor center",
-    "dog friendly",
-    "car park",
-    "pub/cafe"
-  ],
-  "route_type": "circular",
-  "activities": [
-    "walking",
-    "bird watching",
-    "cycling"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Trearddur_Bay_-_geograph.org.uk_-_170599.jpg",
+            "title": "Phil Williams / Trearddur Bay, via Wikimedia Commons",
+            "caption": "Trearddur Bay. Lovely bay and beach on Holy Island off the north west coast of Anglesey."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Porth_Castell_-_geograph.org.uk_-_426140.jpg",
+            "title": "Lynne Kirton / Porth Castell, via Wikimedia Commons",
+            "caption": "Porth Castell. Pretty little bay adjacent to the slightly larger Porth Diana. Very popular with divers and kayakers as it is very sheltered and has easy entry into the water, although the only car parking spaces nearby are the few available at the local dive shop, just out of shot to the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cemlyn_Bay_-_geograph.org.uk_-_933993.jpg",
+            "title": "Robin Drayton / Cemlyn Bay, via Wikimedia Commons",
+            "caption": "Cemlyn Bay 1"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cemlyn_Bay_-_geograph.org.uk_-_51082.jpg",
+            "title": "Phil Williams / Cemlyn Bay, via Wikimedia Commons",
+            "caption": "Cemlyn Bay 2"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Porth_Ogof_cove_on_Wylfa_Head_-_geograph.org.uk_-_1178275.jpg",
+            "title": "Eric Jones / Porth Ogof cove on Wylfa Head, via Wikimedia Commons",
+            "caption": "Porth Ogof cove on Wylfa Head Porth Ogof means \"cave cove\". The slipway, in the shelter of Ynys yr Wyn (lambs island), is that of an old lifeboat station. The station is named on OS plans dating between 1881 and 1926. The headlands of Llanbadrig and Llanlleiana can be seen in the background across the waters of Cemaes Bay."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cliffs_on_the_western_side_of_Wylfa_Head_-_geograph.org.uk_-_1192911.jpg",
+            "title": "Eric Jones / Cliffs on the western side of Wylfa Head, via Wikimedia Commons",
+            "caption": "Cliffs on the western side of Wylfa Head. These cliffs are composed of very ancient Mona Complex rocks of the Gwna and Fydlyn groups. These rocks form a very stable block and this was one of the reasons for locating a nuclear station here."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Llaneilian_Bay_-_geograph.org.uk_-_1106911.jpg",
+            "title": "Andrew Fielding / Llaneilian Bay, via Wikimedia Commons",
+            "caption": "Llaneilian Bay viewed from the Isle of Anglesey Coastal Path. This section is also known as the Copper Trail. Porth Llaneilian was an early port for the copper trade later based at Amlwch to the west."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Traeth_Benllech_-_geograph.org.uk_-_568466.jpg",
+            "title": "Keith Williamson / Traeth Benllech, via Wikimedia Commons",
+            "caption": "Traeth Benllech. The beautiful sands at Benllech from the headland above Beach Road. Summer wildflowers in the foreground and the hills in the background can be seen in this shot."
+        }
+    ],
+    "distance_km": 195.0,
+    "description": "Follow the beautiful coastline of the Isle of Anglesey on the fabulous walk. The Isle of Anglesey Coastal Path falls within an Area of Outstanding Natural Beauty covering 95% of the coast. It passes through landscape that includes a mixture of farmland, coastal heath, dunes, salt-marsh, foreshore, cliffs, woodland and a National Nature Reserve. Highlights on the route include the lovely Cemlyn Bay Nature Reserve with its shingle beach and pretty lagoon. It's a great place for wildlife spotting with various coastal birds to look out for. These include Ringed Plover, Arctic Terns, Oystercatcher and Shelduck. The colony of Sandwich terns is the third largest in the UK. The delightful Cemaes Bay is located close to the reserve and provides fine views over to the Isle of Man and the Lake District. Near the bay the path passes the Dinas Gynfor coastal hillfort, Llanlleiana Porcelain Works and the fascinating Porth Wen Brickworks. This scheduled ancient monument consists of a disused Victorian brickworks which produced fire bricks, made from quartzite (silica) used to line steel-making furnaces. The remains include a number of buildings and some of the machinery. It's a photgoenic spot with the coastal scenery making a wonderful backdrop to the old buildings. Also of note is the splendid Breakwater Country Park where you can climb Holyhead Mountain for wonderful views over the island. Also on Holyhead is the spectacularly positioned South Stack Lighthouse. You can descend the 400 steps to the island and enjoy fabulous views on the way. The area also includes the South Stack RSPB nature reserve where you can look out for puffins and porpoises. Trearddur Bay on Holy Island has two lovely beaches and is popular with divers and kayakers. Red Wharf Bay is area of outstanding natural beauty located on the east coast of Anglesey. The coast path passes right along this expansive bay with its rock pools, beautiful beaches and pretty village. Just east of the bay the path takes you to Penmon Point where you can visit the Trwyn Du Lighthouse and enjoy wonderful views towards Puffin Island, Great Orme and Snowdon. Newborough Forest and Llanddwyn Island are located at the southern tip of the island near Malltraeth. The tidal island is a magical place with wonderful views across the Menai Strait, a 19th century lighthouse and an atmospheric ruined old chapel. Near here there's also the pretty village of Aberffraw and the adjacent Tywyn Aberffraw. This area of common land is one of the finest dune systems in the country.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "In the pretty village of Cemaes you can stop and enjoy refreshments at one of the nice pubs or cafes. The Stag Inn is located in the village centre and has a very good menu and selection of drinks. It's dog friendly and there's also a beer garden to sit out and relax in. You can find it on the High St at postcode LL67 0EW for your sat navs. One other idea in this village is to head to the interesting Cemaes Heritage Centre which forms a permanent exhibition, a meeting room and training room. It features a brand new heritage experience, in which one can learn about the bygone era of Cemaes and the parish of Llanbadrig. There's also a a nice tea room where you can enjoy a snack and a rest. The Ship Inn at Red Whard Bay on the eastern side of the island is a pub of some note. The inn is located right on the bay with outdoor seats with fine views on summer days. Facing east on the lee side of a hill, it is protected from the prevailing winds and catches the morning and afternoon sun perfectly. Indoors the pub is decked out with all sorts of quaint objects, mostly from old ships. With a good menu and decent selection of ales it's a splendid place to unwind after exploring the area on foot. In the delightful little village of Moelfre, on the east coast, you could head to the Kimmel Arms. The pub sits close to a small shingle beach and has fantastic, panoramic views of Moelfre Bay. The pub has a good menu and is also dog friendly with treats at the bar for your pet! You can find the pub at 8 Maes Hyfryd with a postcode of LL72 8HN. The Pilot House Cafe is located at Penmon Point in a fabulous coastal location. They offer a selection of hot & cold snacks, ice-creams, speciality coffees & a variety of mouth-watering cakes. They also serve delicious Welsh cream teas. The cafe occupies a stunning position looking out towards Puffin Island. The long, low, whitewashed building was originally home to three lighthouse pilots and their families in the early 1800's at which time it was made up of 3 seperate cottages. You can enjoy refreshments with a stunning view either indoors or outdoors if the weather is good. The Crown (Y Goron) is a really nice pub located next to the beach in the little village of Aberffraw on the south west coast of the island. The historic pub is several centuries old, pre-dating the adjacent Seion Chapel. Inside there's a cosy fire, while outside there's a large terraced garden for warmer days. You can find the pub at Stryd Y Bont with a postcode of LL63 5BX for your sat navs. It's also dog friendly if you have your pet with you. The village of Rhoscolyn is notable as the most southerly settlement on the island. It's an interesting area with the mediaeval St Gwenfaen's Well, the lovely sandy Borthwen Beach and the dramatic rocky coastline with its islands and two natural arches. There's also an excellent pub in the shape of the White Eagle. There's a lovely outdoor terrace here with splendid views to enjoy. They serve excellent food including oysters freshly caught from the Menai. You can find them at postcode LL65 2NJ for your sat navs. On the eastern side of the island you'll pass the splendid Plas Newydd. Here you'll find a National Trust owned mansion surrounded by beautiful parkland and gardens. There's a couple of good on site cafes here where you could enjoy refreshment. They are at postcode LL61 6DQ. Near here there's also the famous Menai Bridge which crosses the Menai Strait from Anglesey to mainland Wales. In Amlwch there's the Adelphi Vaults. They serve good food and have a nice suntrap garden out the back. You can find them on Quay Street at postcode LL68 9HD for your sat navs. The town is also worth exploring with the Copper Kingdom visitor centre in Port Almwch to visit. Here you can learn all about the history of Amlwch's 18th century \u201cCopper Rush\u201d in a series of interesting exhibitions. You can find them at a postcode of LL68 9DB for your sat navs. Just west of Amlwch in Bull Bay there's the Trecastell Hotel. They are positioned in a great spot with an outdoor seating area providing fine views over the water. You can find them at 28 Trecastell Park with postcode LL68 9SA for your sat navs."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "Near to the South Stack car park at the foot of the south western side of Holyhead Mountain you will find the interesting Ty Mawr Hut Circles. Also known as Cytiau'r Gwyddelod or the Irishmen's Huts, they are the remains of a group of prehistoric huts and one of the best-preserved hut groups in Wales. The settlement is to the southeast of the South Stack Lighthouse, on the opposite side of the road from the small car park provided by the Royal Society for the Protection of Birds. It's well worth a visit if you have time after your climb.Near the path at Moelfre you'll find the noteworthy Mynydd Bodafon, the highest point on the Island of Anglesey. There are great views over the island from the 178 metre high summit. For more walking ideas in the area see the Anglesey Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/TH38xrvZPNc",
+    "postcode": "LL65 1UD",
+    "district": "Holyhead",
+    "county": "Ynys M\u00f4n / Isle of Anglesey",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Victoria Road, Porth-y-Felin, Holyhead, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 1UD, United Kingdom",
+    "state": "Cymru / Wales",
+    "llama_cpp": true,
+    "estimated_duration": null,
+    "difficulty": "moderate",
+    "terrain": ["coastal", "dune", "salt-marsh", "cliffs", "woodland"],
+    "points_of_interest": [
+        "nature reserve",
+        "coastal hillfort",
+        "lighthouse",
+        "national nature reserve",
+        "mansion"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
+    "activities": ["walking", "wildlife spotting", "diving", "kayaking"]
 }

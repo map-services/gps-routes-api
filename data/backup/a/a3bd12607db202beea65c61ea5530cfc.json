@@ -53,7 +53,7 @@
       "caption": "Sorn Castle from the River Ayr Way"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/River_Ayr_Gorge_woodlands_-_Ballochmyle.JPG/512px-River_Ayr_Gorge_woodlands_-_Ballochmyle.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/River_Ayr_Gorge_woodlands_-_Ballochmyle.JPG/500px-River_Ayr_Gorge_woodlands_-_Ballochmyle.JPG",
       "title": "Rosser1954 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "The River Ayr woodlands, Ballochmyle Viaduct, Mauchline, East Ayrshire, Scotland."
     },
@@ -76,11 +76,11 @@
   "district": null,
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
+    "riverside",
     "woodland",
-    "river",
     "gorge"
   ],
   "points_of_interest": [
@@ -89,11 +89,9 @@
     "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

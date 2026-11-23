@@ -1,135 +1,144 @@
 {
-    "created_at": "2025-01-06T00:04:42.520043+00:00",
-    "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
-    "ref": "medway-valley-walk-walking-route",
-    "title": "Medway Valley Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Medway_Valley_Walk_-_geograph.org.uk_-_778185.jpg",
-    "nearby": [
-        {
-            "description": "Leybourne Lakes Country Park",
-            "objectID": "8b32e1bfeee2537065447b4f98b181ef",
-            "ref": "leybourne-lakes-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Tonbridge",
-            "objectID": "845b2d21023c0e96b027ae1a9f03ede7",
-            "ref": "tonbridge-walking-route"
-        },
-        {
-            "description": "Rochester",
-            "objectID": "707c8a46d964974a8f122216dcd60869",
-            "ref": "rochester-walking-route"
-        },
-        {
-            "description": "Wateringbury",
-            "objectID": "847501100a2a9f86a8f64bb0548db379",
-            "ref": "wateringbury-walking-route"
-        },
-        {
-            "description": "Yalding River Walk",
-            "objectID": "ed4b9ed12129a20339480b266cd24d16",
-            "ref": "yalding-river-walk-walking-route"
-        },
-        {
-            "description": "East Peckham",
-            "objectID": "3c01e166aff44d8b3c1d1411c243381f",
-            "ref": "east-peckham-walking-route"
-        },
-        {
-            "description": "Upnor",
-            "objectID": "ef9f9d9f2bf594f6771dda4275cff4a6",
-            "ref": "upnor-walking-route"
-        },
-        {
-            "description": "Snodland",
-            "objectID": "862a719872d4f65d8f7e4b80bba3ddce",
-            "ref": "snodland-walking-route"
-        },
-        {
-            "description": "Allington Lock",
-            "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
-            "ref": "allington-lock-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aac959bb6db8589e8c3ce6a74e4089ca.gpx",
-    "_geoloc": {
-        "lat": 51.1952261459,
-        "lng": 0.2752912851
+  "created_at": "2025-01-06T00:04:42.520043+00:00",
+  "objectID": "aac959bb6db8589e8c3ce6a74e4089ca",
+  "ref": "medway-valley-walk-walking-route",
+  "title": "Medway Valley Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Medway_Valley_Walk_-_geograph.org.uk_-_778185.jpg",
+  "nearby": [
+    {
+      "description": "Leybourne Lakes Country Park",
+      "objectID": "8b32e1bfeee2537065447b4f98b181ef",
+      "ref": "leybourne-lakes-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Medway_Valley_Walk_-_geograph.org.uk_-_778185.jpg",
-            "title": "Colin Smith / Medway Valley Walk",
-            "caption": "Looking upstream above Barming Bridge. The walk follows the north bank here, across grassy fields."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Millennium_Bridge_crosses_the_Medway_Valley_Walk_-_geograph.org.uk_-_1512677.jpg",
-            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Millennium Bridge crosses the trail in Maidstone."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/An_tunnel_of_trees_to_pass_through%2C_Medway_Valley_Walk_-_geograph.org.uk_-_1265809.jpg",
-            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "An tunnel of trees to pass through near East Farleigh."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/River_Medway_from_the_Medway_Valley_Walk%2C_Maidstone%2C_Kent_-_geograph.org.uk_-_187910.jpg",
-            "title": "Rodney Burton / River Medway from the Medway Valley Walk, Maidstone, Kent",
-            "caption": "River Medway view, just south west of Maidstone."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/River_Medway_in_Tonbridge_-_geograph.org.uk_-_175049.jpg",
-            "title": "Nigel Cox / River Medway in Tonbridge",
-            "caption": "River Medway in Tonbridge. Viewed looking downstream from The Big Bridge towards Town Lock with The Wharf public house on the left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/River_Medway%2C_Rochester%2C_Kent_-_geograph.org.uk_-_167570.jpg",
-            "title": "Ron Hann / River Medway, Rochester, Kent",
-            "caption": "Rochester. Looking upstream along the Medway towards the motorway bridge. Photograph taken from the Castle. The land protruding into the river on the starboard side is Temple Marsh."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Teston_Bridge_-_geograph.org.uk_-_779684.jpg",
-            "title": "Colin Smith / Teston Bridge",
-            "caption": "Teston Bridge. This medieval stone bridge spans the River near Maidstone. Note the enlarged arch for the benefit of barge traffic."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Swans_and_boats_on_the_River_Medway_east_of_Bow_bridge%2C_Wateringbury_-_geograph.org.uk_-_1267081.jpg",
-            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Swans and boats on the River Medway east of Bow bridge, Wateringbury"
-        }
-    ],
-    "distance_km": 45.0,
-    "description": "This is a lovely, easy riverside walk along the River Medway from Tonbridge to Rochester. You start at Tonbridge castle and head east towards Maidstone via Yalding and East Farleigh. The second section takes you onto Rochester via the attractive Allington Lock. The landscape is varied and includes woodland, orchards, meadows and farmland. You will also pass through a series of pretty riverside villages and towns which are steeped in history. For wildlife lovers look out for Kingfishers and listen out for the sweet song of the nightingale. Route highlights include the pretty Leybourne Lakes Country Park around Aylesford and Snodland. You could also take a small detour near Burham to visit the ancient Medway Megaliths .",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "At the village of East Peckham you could enjoy a pit stop at the riverside Man of Kent. On a sunny day you can sit outside in the garden area and enjoy a meal with lovely views over the water. The pub has some history too, being set in a Grade II listed traditional Coaching Inn dating back to 1588. Indoors there's quirky low ceilings and a cosy wood burner for the colder months. You can find them at 226 Tonbridge Road, Little Mill with a postcode of TN12 5LA for your sat navs. In Aylesford the historic Chequers is a pub of some note. It's the oldest pub in the village, dating all the way back to 1511. It's set in a Grade II listed timber framed, former wool merchants house. The pub is located in a lovely spot with views of the old bridge from the riverside garden area in the back. You can find them on the High Street at postcode ME20 7AY for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "For a circular walk on the trail you could try the Wateringbury River Walk which starts from the train station in the village. Near here you can also visit the lovely Teston Bridge Country Park where you'll find a medieval 14th century bridge, a rushing weir, river trails and lots of river loving wildlife. There's also the circular Yalding River Walk which uses part of the trail to explore the area around the interesting village near Maidstone. Around Aylesford there are several interesting sites to see including Allington Castle, Allington Locks, Aylesford Priory and the Museum of Kent Life. The open-air museum includes a thatched barn, an oast house and a farm with animals. The priory is also well worth a visit. Also known as The Friars this historic site dates back to the 13th century. You can explore the lovely grounds and take in the stunning medieval buildings, before enjoying walks down the Peace Garden and Rosary Way. Just east of Rochester you could extend the walk by visiting the attractive village of Upnor with its English Heritage owned 16th century castle and quaint old village centre. For more walking ideas in the area see the Kent Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/7MgYc7z3v0c",
-    "postcode": "TN9 1SY",
-    "district": "Tonbridge and Malling",
-    "county": "Kent",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "TN9 33, Medway Wharf Road, Brook Street, Tonbridge, Tonbridge and Malling, Kent, England, TN9 1SY, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["woodland", "farmland", "meadow"],
-    "points_of_interest": [
-        "historical site",
-        "country park",
-        "archaeological site"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Tonbridge",
+      "objectID": "845b2d21023c0e96b027ae1a9f03ede7",
+      "ref": "tonbridge-walking-route"
+    },
+    {
+      "description": "Rochester",
+      "objectID": "707c8a46d964974a8f122216dcd60869",
+      "ref": "rochester-walking-route"
+    },
+    {
+      "description": "Wateringbury",
+      "objectID": "847501100a2a9f86a8f64bb0548db379",
+      "ref": "wateringbury-walking-route"
+    },
+    {
+      "description": "Yalding River Walk",
+      "objectID": "ed4b9ed12129a20339480b266cd24d16",
+      "ref": "yalding-river-walk-walking-route"
+    },
+    {
+      "description": "East Peckham",
+      "objectID": "3c01e166aff44d8b3c1d1411c243381f",
+      "ref": "east-peckham-walking-route"
+    },
+    {
+      "description": "Upnor",
+      "objectID": "ef9f9d9f2bf594f6771dda4275cff4a6",
+      "ref": "upnor-walking-route"
+    },
+    {
+      "description": "Snodland",
+      "objectID": "862a719872d4f65d8f7e4b80bba3ddce",
+      "ref": "snodland-walking-route"
+    },
+    {
+      "description": "Allington Lock",
+      "objectID": "8f54659bdcd45cc54ee30dc8c39163e4",
+      "ref": "allington-lock-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aac959bb6db8589e8c3ce6a74e4089ca.gpx",
+  "_geoloc": {
+    "lat": 51.1952261459,
+    "lng": 0.2752912851
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Medway_Valley_Walk_-_geograph.org.uk_-_778185.jpg",
+      "title": "Colin Smith / Medway Valley Walk",
+      "caption": "Looking upstream above Barming Bridge. The walk follows the north bank here, across grassy fields."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Millennium_Bridge_crosses_the_Medway_Valley_Walk_-_geograph.org.uk_-_1512677.jpg",
+      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Millennium Bridge crosses the trail in Maidstone."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/An_tunnel_of_trees_to_pass_through%2C_Medway_Valley_Walk_-_geograph.org.uk_-_1265809.jpg",
+      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "An tunnel of trees to pass through near East Farleigh."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/River_Medway_from_the_Medway_Valley_Walk%2C_Maidstone%2C_Kent_-_geograph.org.uk_-_187910.jpg",
+      "title": "Rodney Burton / River Medway from the Medway Valley Walk, Maidstone, Kent",
+      "caption": "River Medway view, just south west of Maidstone."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/River_Medway_in_Tonbridge_-_geograph.org.uk_-_175049.jpg",
+      "title": "Nigel Cox / River Medway in Tonbridge",
+      "caption": "River Medway in Tonbridge. Viewed looking downstream from The Big Bridge towards Town Lock with The Wharf public house on the left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/River_Medway%2C_Rochester%2C_Kent_-_geograph.org.uk_-_167570.jpg",
+      "title": "Ron Hann / River Medway, Rochester, Kent",
+      "caption": "Rochester. Looking upstream along the Medway towards the motorway bridge. Photograph taken from the Castle. The land protruding into the river on the starboard side is Temple Marsh."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Teston_Bridge_-_geograph.org.uk_-_779684.jpg",
+      "title": "Colin Smith / Teston Bridge",
+      "caption": "Teston Bridge. This medieval stone bridge spans the River near Maidstone. Note the enlarged arch for the benefit of barge traffic."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Swans_and_boats_on_the_River_Medway_east_of_Bow_bridge%2C_Wateringbury_-_geograph.org.uk_-_1267081.jpg",
+      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Swans and boats on the River Medway east of Bow bridge, Wateringbury"
+    }
+  ],
+  "distance_km": 45.0,
+  "description": "This is a lovely, easy riverside walk along the River Medway from Tonbridge to Rochester. You start at Tonbridge castle and head east towards Maidstone via Yalding and East Farleigh. The second section takes you onto Rochester via the attractive Allington Lock. The landscape is varied and includes woodland, orchards, meadows and farmland. You will also pass through a series of pretty riverside villages and towns which are steeped in history. For wildlife lovers look out for Kingfishers and listen out for the sweet song of the nightingale. Route highlights include the pretty Leybourne Lakes Country Park around Aylesford and Snodland. You could also take a small detour near Burham to visit the ancient Medway Megaliths .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the village of East Peckham you could enjoy a pit stop at the riverside Man of Kent. On a sunny day you can sit outside in the garden area and enjoy a meal with lovely views over the water. The pub has some history too, being set in a Grade II listed traditional Coaching Inn dating back to 1588. Indoors there's quirky low ceilings and a cosy wood burner for the colder months. You can find them at 226 Tonbridge Road, Little Mill with a postcode of TN12 5LA for your sat navs. In Aylesford the historic Chequers is a pub of some note. It's the oldest pub in the village, dating all the way back to 1511. It's set in a Grade II listed timber framed, former wool merchants house. The pub is located in a lovely spot with views of the old bridge from the riverside garden area in the back. You can find them on the High Street at postcode ME20 7AY for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a circular walk on the trail you could try the Wateringbury River Walk which starts from the train station in the village. Near here you can also visit the lovely Teston Bridge Country Park where you'll find a medieval 14th century bridge, a rushing weir, river trails and lots of river loving wildlife. There's also the circular Yalding River Walk which uses part of the trail to explore the area around the interesting village near Maidstone. Around Aylesford there are several interesting sites to see including Allington Castle, Allington Locks, Aylesford Priory and the Museum of Kent Life. The open-air museum includes a thatched barn, an oast house and a farm with animals. The priory is also well worth a visit. Also known as The Friars this historic site dates back to the 13th century. You can explore the lovely grounds and take in the stunning medieval buildings, before enjoying walks down the Peace Garden and Rosary Way. Just east of Rochester you could extend the walk by visiting the attractive village of Upnor with its English Heritage owned 16th century castle and quaint old village centre. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/7MgYc7z3v0c",
+  "postcode": "TN9 1SY",
+  "district": "Tonbridge and Malling",
+  "county": "Kent",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "TN9 33, Medway Wharf Road, Brook Street, Tonbridge, Tonbridge and Malling, Kent, England, TN9 1SY, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 to 3 days",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside",
+    "woodland",
+    "meadow",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "ancient megalith"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

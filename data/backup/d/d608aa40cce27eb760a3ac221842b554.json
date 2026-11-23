@@ -3,7 +3,7 @@
   "objectID": "d608aa40cce27eb760a3ac221842b554",
   "ref": "icklingham-walking-route",
   "title": "Icklingham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg/256px-River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg/330px-River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d608aa40cce27eb760a3ac221842b554.gpx",
   "_geoloc": {
     "lat": 52.3275817106,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg/256px-River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg/330px-River_Lark_at_Icklingham_-_geograph.org.uk_-_667668.jpg",
       "title": "Bob Jones / River Lark at Icklingham",
       "caption": "River Lark at Icklingham. A stretch of the formerly navigable river between Farthing Bridge and Icklingham Mill."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Icklingham_Mill_Lock_-_geograph.org.uk_-_667694.jpg/256px-Icklingham_Mill_Lock_-_geograph.org.uk_-_667694.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Icklingham_Mill_Lock_-_geograph.org.uk_-_667694.jpg/330px-Icklingham_Mill_Lock_-_geograph.org.uk_-_667694.jpg",
       "title": "Bob Jones / Icklingham Mill Lock",
       "caption": "Icklingham Mill Lock. The gates of this disused lock on the River Lark have been replaced by a sluice gate."
     },
@@ -41,7 +41,7 @@
       "caption": "Woodland near Icklingham"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Guinness_Arms_pub_Icklingham_Suffolk.jpg/512px-Guinness_Arms_pub_Icklingham_Suffolk.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Guinness_Arms_pub_Icklingham_Suffolk.jpg/500px-Guinness_Arms_pub_Icklingham_Suffolk.jpg",
       "title": "FiSt71, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Guinness Arms pub Icklingham Suffolk"
     },
@@ -70,20 +70,20 @@
   "district": "West Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
+    "riverside",
     "woodland"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "countryside"
+    "nature reserve"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

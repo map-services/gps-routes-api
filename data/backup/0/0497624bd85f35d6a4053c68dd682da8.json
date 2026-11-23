@@ -48,7 +48,7 @@
       "caption": "Monsal Dale. The classic view from Monsal Head, changing with the seasons and the light."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monsal_Head_Viaduct%2C_Peak_District_%286214959899%29.jpg/512px-Monsal_Head_Viaduct%2C_Peak_District_%286214959899%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monsal_Head_Viaduct%2C_Peak_District_%286214959899%29.jpg/500px-Monsal_Head_Viaduct%2C_Peak_District_%286214959899%29.jpg",
       "title": "Paul Stephenson from London / CC BY (https://creativecommons.org/licenses/by/2.0)",
       "caption": "Looking down on the Monsal Head Viaduct, a popular walking and cycling destination. Just to the left of the photo, the old tunnel, and the 3 other tunnels between Bakewell and Buxton, has been re-opened, and the Monsal Trail is now a very popular cycling route."
     },
@@ -110,22 +110,24 @@
   "district": "Derbyshire Dales",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "river"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "river"
+    "viaduct",
+    "weir"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

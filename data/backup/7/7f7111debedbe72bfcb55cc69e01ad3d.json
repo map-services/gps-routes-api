@@ -1,91 +1,100 @@
 {
-    "created_at": "2025-01-06T10:18:21.456669+00:00",
-    "objectID": "7f7111debedbe72bfcb55cc69e01ad3d",
-    "ref": "lake-farm-country-park-walking-route",
-    "title": "Lake Farm Country Park Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stockley_Country_Park_-_geograph.org.uk_-_815486.jpg",
-    "nearby": [
-        {
-            "description": "Minet Country Park",
-            "objectID": "2bccbd35df19e5836d6341f95398a999",
-            "ref": "minet-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Grand Union Canal Walk",
-            "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
-            "ref": "grand-union-canal-walk-walking-route"
-        },
-        {
-            "description": "Crane Park",
-            "objectID": "85912f23d80d3889bd46ea6e2eddeec4",
-            "ref": "crane-park-walking-route"
-        },
-        {
-            "description": "Cranford Country Park",
-            "objectID": "c8dc00862dc6feeb50524bdf98d7a06e",
-            "ref": "cranford-country-park-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f7111debedbe72bfcb55cc69e01ad3d.gpx",
-    "_geoloc": {
-        "lat": 51.5112656257,
-        "lng": -0.4318072021
+  "created_at": "2025-01-06T10:18:21.456669+00:00",
+  "objectID": "7f7111debedbe72bfcb55cc69e01ad3d",
+  "ref": "lake-farm-country-park-walking-route",
+  "title": "Lake Farm Country Park Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stockley_Country_Park_-_geograph.org.uk_-_815486.jpg",
+  "nearby": [
+    {
+      "description": "Minet Country Park",
+      "objectID": "2bccbd35df19e5836d6341f95398a999",
+      "ref": "minet-country-park-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stockley_Country_Park_-_geograph.org.uk_-_815486.jpg",
-            "title": "David Hawgood / Stockley Country Park",
-            "caption": "Stockley Country Park. Cow parsley in the grass, hawthorn blossom in the hedges, and fitness equipment beside the gravel paths which are available to pedestrians or cyclists."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lake_Farm_BMX_and_skate_park%2C_Stockley_Park_-_geograph.org.uk_-_815506.jpg",
-            "title": "David Hawgood / Lake Farm BMX and skate park, Stockley Park",
-            "caption": "Lake Farm BMX and skate park, Stockley Park. This photo shows the highest ramp, there is a circuit of smaller bumps."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Paths%2C_Lake_Farm_Country_Park_-_geograph.org.uk_-_2084428.jpg",
-            "title": "Paths, Lake Farm Country Park by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Paths, Lake Farm Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Grand_Union_Canal_-_geograph.org.uk_-_2084475.jpg",
-            "title": "Grand Union Canal by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Grand Union Canal"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Path_into_Stockley_Country_Park_-_geograph.org.uk_-_809697.jpg",
-            "title": "David Hawgood / Path into Stockley Country Park",
-            "caption": "Path into Stockley Country Park. This is a few yards from the Grand Union Canal. Stockley Park has been developed as an area of office buildings close to Heathrow Airport. The northern 274 acres have been laid out as parkland for recreational use, with 11 lakes and nearly 200,000 trees and shrubs. The blossom in the photo is hawthorn."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/%22Log_hops%22_in_fitness_circuit%2C_Stockley_Park_-_geograph.org.uk_-_815478.jpg",
-            "title": "David Hawgood / \"Log hops\" in fitness circuit, Stockley Park",
-            "caption": "\"Log hops\" in fitness circuit, Stockley Park"
-        }
-    ],
-    "distance_km": 1.5,
-    "description": "This pleasant park in Hillingdon has some nice footpaths, a trim trail and a BMX track to try. You can also enjoy a walk along the Grand Union Canal which runs along the southern end of the park. The park includes over 60 acres of meadows and open grassland with a variety of flora and fauna to look out for. To extend your walk you can head east and visit Minet Country Park. Here you will find ponds, grassland and the Hillingdon Cycle Circuit. Heading west will take you to Stockley Country Park.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west you can link up with the Celandine Route. This popular walk will take you along the River Pinn from Pinner to Cowley. Head south and there's some pleasant riverside trails through Crane Park and Cranford Country Park."
-        }
-    ],
-    "postcode": "UB3 1EJ",
-    "district": "London",
-    "county": null,
-    "region": "Greater London",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Dawley Road, Hayes, London Borough of Hillingdon, London, Greater London, England, UB3 1EJ, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["grassland", "meadow"],
-    "points_of_interest": ["nature trail", "park"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Grand Union Canal Walk",
+      "objectID": "dae6d837fcdb83dc44e94da2b24b4040",
+      "ref": "grand-union-canal-walk-walking-route"
+    },
+    {
+      "description": "Crane Park",
+      "objectID": "85912f23d80d3889bd46ea6e2eddeec4",
+      "ref": "crane-park-walking-route"
+    },
+    {
+      "description": "Cranford Country Park",
+      "objectID": "c8dc00862dc6feeb50524bdf98d7a06e",
+      "ref": "cranford-country-park-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7f7111debedbe72bfcb55cc69e01ad3d.gpx",
+  "_geoloc": {
+    "lat": 51.5112656257,
+    "lng": -0.4318072021
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stockley_Country_Park_-_geograph.org.uk_-_815486.jpg",
+      "title": "David Hawgood / Stockley Country Park",
+      "caption": "Stockley Country Park. Cow parsley in the grass, hawthorn blossom in the hedges, and fitness equipment beside the gravel paths which are available to pedestrians or cyclists."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lake_Farm_BMX_and_skate_park%2C_Stockley_Park_-_geograph.org.uk_-_815506.jpg",
+      "title": "David Hawgood / Lake Farm BMX and skate park, Stockley Park",
+      "caption": "Lake Farm BMX and skate park, Stockley Park. This photo shows the highest ramp, there is a circuit of smaller bumps."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Paths%2C_Lake_Farm_Country_Park_-_geograph.org.uk_-_2084428.jpg",
+      "title": "Paths, Lake Farm Country Park by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Paths, Lake Farm Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Grand_Union_Canal_-_geograph.org.uk_-_2084475.jpg",
+      "title": "Grand Union Canal by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Grand Union Canal"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Path_into_Stockley_Country_Park_-_geograph.org.uk_-_809697.jpg",
+      "title": "David Hawgood / Path into Stockley Country Park",
+      "caption": "Path into Stockley Country Park. This is a few yards from the Grand Union Canal. Stockley Park has been developed as an area of office buildings close to Heathrow Airport. The northern 274 acres have been laid out as parkland for recreational use, with 11 lakes and nearly 200,000 trees and shrubs. The blossom in the photo is hawthorn."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/%22Log_hops%22_in_fitness_circuit%2C_Stockley_Park_-_geograph.org.uk_-_815478.jpg",
+      "title": "David Hawgood / \"Log hops\" in fitness circuit, Stockley Park",
+      "caption": "\"Log hops\" in fitness circuit, Stockley Park"
+    }
+  ],
+  "distance_km": 1.5,
+  "description": "This pleasant park in Hillingdon has some nice footpaths, a trim trail and a BMX track to try. You can also enjoy a walk along the Grand Union Canal which runs along the southern end of the park. The park includes over 60 acres of meadows and open grassland with a variety of flora and fauna to look out for. To extend your walk you can head east and visit Minet Country Park. Here you will find ponds, grassland and the Hillingdon Cycle Circuit. Heading west will take you to Stockley Country Park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you can link up with the Celandine Route. This popular walk will take you along the River Pinn from Pinner to Cowley. Head south and there's some pleasant riverside trails through Crane Park and Cranford Country Park."
+    }
+  ],
+  "postcode": "UB3 1EJ",
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Dawley Road, Hayes, London Borough of Hillingdon, London, Greater London, England, UB3 1EJ, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland"
+  ],
+  "points_of_interest": [
+    "canal"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

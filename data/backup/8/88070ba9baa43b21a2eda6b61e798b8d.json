@@ -3,7 +3,7 @@
   "objectID": "88070ba9baa43b21a2eda6b61e798b8d",
   "ref": "pontarddulais-walking-route",
   "title": "Pontarddulais Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg/512px-Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg/500px-Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/88070ba9baa43b21a2eda6b61e798b8d.gpx",
   "_geoloc": {
     "lat": 51.7158974325,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg/512px-Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg/500px-Pontarddulais_War_Memorial_-_geograph.org.uk_-_4358954.jpg",
       "title": "Jaggery / Pontarddulais War Memorial",
       "caption": "Pontarddulais War Memorial. Set back from the N side of St Teilo Street, to the west of St Michael & All Angels Church. The War Memorial was Grade II listed in 2003."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/View_towards_Pontarddulais_-_geograph.org.uk_-_2172942.jpg/512px-View_towards_Pontarddulais_-_geograph.org.uk_-_2172942.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/View_towards_Pontarddulais_-_geograph.org.uk_-_2172942.jpg/500px-View_towards_Pontarddulais_-_geograph.org.uk_-_2172942.jpg",
       "title": "View towards Pontarddulais by Marion Phillips, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View towards Pontarddulais from the east of the town."
     },
@@ -60,19 +60,17 @@
   "display_address": "Water Street, Pontarddulais, Swansea, Cymru / Wales, SA4 8TL, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "3 hours 40 minutes",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "countryside"
   ],
   "points_of_interest": [
+    "summit",
     "viewpoint"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

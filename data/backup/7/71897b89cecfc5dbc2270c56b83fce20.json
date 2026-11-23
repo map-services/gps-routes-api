@@ -3,7 +3,7 @@
   "objectID": "71897b89cecfc5dbc2270c56b83fce20",
   "ref": "tynemouth-walking-route",
   "title": "Tynemouth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/512px-The_Collingwood_Monument_%2828576442291%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/500px-The_Collingwood_Monument_%2828576442291%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/71897b89cecfc5dbc2270c56b83fce20.gpx",
   "_geoloc": {
     "lat": 55.01561,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/512px-The_Collingwood_Monument_%2828576442291%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/500px-The_Collingwood_Monument_%2828576442291%29.jpg",
       "title": "Robert Cutts from Bristol, England, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Vice-Admiral Cuthbert Collingwood, 1st Baron Collingwood, (1748-1810) is chiefly remembered for his service to his country during the Napoleonic War. He was born at Newcastle-upon-Tyne 1748 and died in the Service of his country, on board of the \u201cVille de Paris\u201d on 7th March 1810 and was buried in St Paul\u2019s Cathedral. The four guns upon this monument belonged to his ship the \u201cRoyal Sovereign\u201d. The monument is situated on the Spanish Battery, the headland that dominates the mouth of the River Tyne near Tynemouth."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Radar_GBSAR_Parking_Spanish_Battery_Tynemouth_North_Tyneside_7.jpg/512px-Radar_GBSAR_Parking_Spanish_Battery_Tynemouth_North_Tyneside_7.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Radar_GBSAR_Parking_Spanish_Battery_Tynemouth_North_Tyneside_7.jpg/500px-Radar_GBSAR_Parking_Spanish_Battery_Tynemouth_North_Tyneside_7.jpg",
       "title": "Chabe01, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Radar GBSAR Parking Spanish Battery Tynemouth North Tyneside 7"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tynemouth_Castle_Panorama.jpg/512px-Tynemouth_Castle_Panorama.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tynemouth_Castle_Panorama.jpg/500px-Tynemouth_Castle_Panorama.jpg",
       "title": "Mariegriffiths, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Tynemouth Castle Panorama"
     },
@@ -36,7 +36,7 @@
       "caption": "North and South Piers, Tynemouth"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Long_Sands%2C_Tynemouth_-_geograph.org.uk_-_1633670.jpg/512px-Long_Sands%2C_Tynemouth_-_geograph.org.uk_-_1633670.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Long_Sands%2C_Tynemouth_-_geograph.org.uk_-_1633670.jpg/500px-Long_Sands%2C_Tynemouth_-_geograph.org.uk_-_1633670.jpg",
       "title": "Andrew Curtis / Long Sands, Tynemouth",
       "caption": "Long Sands,. The Castle and Priory ruins at Tynemouth can be seen on the left above the nearby Sharpness Point. The large, squat building on the nearby cliff top to the right houses the Toy Museum"
     },
@@ -74,22 +74,19 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "urban"
+    "coastal"
   ],
   "points_of_interest": [
-    "museum",
-    "monument",
-    "castle ruins",
-    "beaches"
+    "historical site",
+    "viewpoint",
+    "castle"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "museum"
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

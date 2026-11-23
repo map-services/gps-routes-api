@@ -3,7 +3,7 @@
   "objectID": "0a99012b873d88c0d5d0a3d17af78b38",
   "ref": "knighton-walking-route",
   "title": "Circular Walk around Knighton Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg/512px-Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg/500px-Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0a99012b873d88c0d5d0a3d17af78b38.gpx",
   "_geoloc": {
     "lat": 52.3459830295,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg/512px-Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg/500px-Clock_Tower._Knighton_-_Tref-y-clawdd%2C_Powys_-_Flickr_-_S._Rae.jpg",
       "title": "S. Rae from Scotland, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "The Welsh name for this town means \"Town on the Dyke\" referring to Offa's Dyke built in the 8th century by the Mercian king Offa."
     },
@@ -46,7 +46,7 @@
       "caption": "The Lloyney Inn"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cwm_Sanahan_Hill_from_Garbett_Hall_Farm_-_geograph.org.uk_-_549739.jpg/256px-Cwm_Sanahan_Hill_from_Garbett_Hall_Farm_-_geograph.org.uk_-_549739.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cwm_Sanahan_Hill_from_Garbett_Hall_Farm_-_geograph.org.uk_-_549739.jpg/330px-Cwm_Sanahan_Hill_from_Garbett_Hall_Farm_-_geograph.org.uk_-_549739.jpg",
       "title": "Robert Pyke / Cwm Sanahan Hill from Garbett Hall Farm",
       "caption": "Bwlch-y-Plain"
     }
@@ -78,19 +78,20 @@
   "display_address": "Offa's Dyke Centre, West Street, Knighton, Powys, Cymru / Wales, LD7 1EP, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5 hours 20 minutes",
   "difficulty": "moderate",
   "terrain": [
-    "river",
+    "riverine",
+    "woodland",
     "hill"
   ],
   "points_of_interest": [
     "viewpoint",
-    "landscape"
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

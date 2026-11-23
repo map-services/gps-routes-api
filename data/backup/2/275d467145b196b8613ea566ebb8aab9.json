@@ -3,7 +3,7 @@
   "objectID": "275d467145b196b8613ea566ebb8aab9",
   "ref": "amwell-nature-reserve-walking-route",
   "title": "Amwell Nature Reserve Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg/512px-Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg/500px-Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/275d467145b196b8613ea566ebb8aab9.gpx",
   "_geoloc": {
     "lat": 51.7890612505,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg/512px-Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg/500px-Amwell_Nature_Reserve_%E2%80%93_view_across_the_lake_-_geograph.org.uk_-_4824775.jpg",
       "title": "Amwell Nature Reserve \u2013 view across the lake by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Amwell Nature Reserve \u2013 view across the lake"
     },
@@ -26,7 +26,7 @@
       "caption": "Hardmead Lock, River Lee Navigation near Ware"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Walnut_Tree_Walk%2C_Great_Amwell_-_geograph.org.uk_-_1978794.jpg/512px-Walnut_Tree_Walk%2C_Great_Amwell_-_geograph.org.uk_-_1978794.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Walnut_Tree_Walk%2C_Great_Amwell_-_geograph.org.uk_-_1978794.jpg/500px-Walnut_Tree_Walk%2C_Great_Amwell_-_geograph.org.uk_-_1978794.jpg",
       "title": "Walnut Tree Walk, Great Amwell by Rob Candlish, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Walnut Tree Walk, Great Amwell"
     },
@@ -36,7 +36,7 @@
       "caption": "The New River just east of Great Amwell"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_IV_public_house%2C_Great_Amwell_-_geograph.org.uk_-_1978788.jpg/512px-George_IV_public_house%2C_Great_Amwell_-_geograph.org.uk_-_1978788.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_IV_public_house%2C_Great_Amwell_-_geograph.org.uk_-_1978788.jpg/500px-George_IV_public_house%2C_Great_Amwell_-_geograph.org.uk_-_1978788.jpg",
       "title": "George IV public house, Great Amwell by Rob Candlish, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "George IV public house, Great Amwell"
     },
@@ -46,7 +46,7 @@
       "caption": "Stanstead Mill Stream at Amwell Magna near the Amwell Nature Reserve \u2014 in Hertfordshire, eastern England. Away from the Lee Navigation the River Lea is more natural. This shows the Stanstead Mill Stream soon after it splits from the River Lea at a weir within the Amwell Magna Fishery near the Amwell Quarry. It rejoins the Lea Navigation in the navigable waters below Stanstead Abbots."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amwell_Nature_Reserve_-_geograph.org.uk_-_3143416.jpg/512px-Amwell_Nature_Reserve_-_geograph.org.uk_-_3143416.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amwell_Nature_Reserve_-_geograph.org.uk_-_3143416.jpg/500px-Amwell_Nature_Reserve_-_geograph.org.uk_-_3143416.jpg",
       "title": "Amwell Nature Reserve by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Amwell Nature Reserve"
     }
@@ -70,23 +70,24 @@
   "display_address": "High Street, Abbotts Court, Stanstead Abbots, Stanstead St Margarets, East Hertfordshire, Hertfordshire, England, SG12 8UZ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river"
+    "grassland"
   ],
   "points_of_interest": [
-    "riverbank",
-    "waterway"
+    "lakes",
+    "reedbed",
+    "river"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

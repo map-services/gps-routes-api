@@ -3,7 +3,7 @@
   "objectID": "f57417de92cefae84a687b695671bf43",
   "ref": "iron-acton-walking-route",
   "title": "Iron Acton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg/512px-Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg/500px-Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f57417de92cefae84a687b695671bf43.gpx",
   "_geoloc": {
     "lat": 51.5503467811,
@@ -11,27 +11,27 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg/512px-Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg/500px-Ford_at_Iron_Acton_-_geograph.org.uk_-_3663125.jpg",
       "title": "Ford at Iron Acton by John Walton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The village is so named because Iron used to be mined near the village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St._James_the_Less%2C_Iron_Acton._-_panoramio_%281%29.jpg/512px-St._James_the_Less%2C_Iron_Acton._-_panoramio_%281%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St._James_the_Less%2C_Iron_Acton._-_panoramio_%281%29.jpg/500px-St._James_the_Less%2C_Iron_Acton._-_panoramio_%281%29.jpg",
       "title": "Robert Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "St. James the Less, Iron Acton."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dyers_Lane_-_geograph.org.uk_-_2878948.jpg/512px-Dyers_Lane_-_geograph.org.uk_-_2878948.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dyers_Lane_-_geograph.org.uk_-_2878948.jpg/500px-Dyers_Lane_-_geograph.org.uk_-_2878948.jpg",
       "title": "Dyers Lane by Jonathan Billinger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dyers Lane"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Down_Iron_Acton_High_Street_-_geograph.org.uk_-_522645.jpg/256px-Down_Iron_Acton_High_Street_-_geograph.org.uk_-_522645.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Down_Iron_Acton_High_Street_-_geograph.org.uk_-_522645.jpg/330px-Down_Iron_Acton_High_Street_-_geograph.org.uk_-_522645.jpg",
       "title": "Toby / Down Iron Acton High Street",
       "caption": "Down Iron Acton High Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Footpath_through_tunnel%2C_Iron_Acton_-_geograph.org.uk_-_522582.jpg/256px-Footpath_through_tunnel%2C_Iron_Acton_-_geograph.org.uk_-_522582.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Footpath_through_tunnel%2C_Iron_Acton_-_geograph.org.uk_-_522582.jpg/330px-Footpath_through_tunnel%2C_Iron_Acton_-_geograph.org.uk_-_522582.jpg",
       "title": "Toby / Footpath through tunnel, Iron Acton",
       "caption": "Footpath through tunnel. The footpath goes through this tunnel and under the drive to the Old Rectory behind the church."
     },
@@ -41,7 +41,7 @@
       "caption": "Field opposite church in Iron Acton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Old_mill_pond%2C_Algars_Manor_-_geograph.org.uk_-_522623.jpg/256px-Old_mill_pond%2C_Algars_Manor_-_geograph.org.uk_-_522623.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Old_mill_pond%2C_Algars_Manor_-_geograph.org.uk_-_522623.jpg/330px-Old_mill_pond%2C_Algars_Manor_-_geograph.org.uk_-_522623.jpg",
       "title": "Toby / Old mill pond, Algars Manor",
       "caption": "Old mill pond, Algars Manor. No longer in use except as an ornamental garden. Next to the River Frome."
     },
@@ -70,21 +70,19 @@
   "display_address": "Gerrings, High Street, Iron Acton, Nibley, Iron Acton, South Gloucestershire, West of England, England, BS37 9UQ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "rural"
+    "riverside"
   ],
   "points_of_interest": [
     "historic church",
-    "garden centre",
-    "detention reservoir"
+    "mill pond"
   ],
   "facilities": [
-    "pub",
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

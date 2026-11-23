@@ -3,7 +3,7 @@
   "objectID": "4e9287e5fab5e21e5bfec7ab86617d32",
   "ref": "mossley-walking-route",
   "title": "Mossley Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg/512px-Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg/500px-Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4e9287e5fab5e21e5bfec7ab86617d32.gpx",
   "_geoloc": {
     "lat": 53.5151522002,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg/512px-Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg/500px-Mossley%2C_Arundel_Street_-_geograph.org.uk_-_2012090.jpg",
       "title": "Mossley: Arundel Street by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Mossley, Arundel Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/New_canalside_housing%2C_Mossley_-_geograph.org.uk_-_1880406.jpg/512px-New_canalside_housing%2C_Mossley_-_geograph.org.uk_-_1880406.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/New_canalside_housing%2C_Mossley_-_geograph.org.uk_-_1880406.jpg/500px-New_canalside_housing%2C_Mossley_-_geograph.org.uk_-_1880406.jpg",
       "title": "New canalside housing, Mossley by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "New canalside housing, Mossley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/River_Tame%2C_Mossley_-_geograph.org.uk_-_1880410.jpg/256px-River_Tame%2C_Mossley_-_geograph.org.uk_-_1880410.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/River_Tame%2C_Mossley_-_geograph.org.uk_-_1880410.jpg/330px-River_Tame%2C_Mossley_-_geograph.org.uk_-_1880410.jpg",
       "title": "River Tame, Mossley by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Tame, Mossley"
     },
@@ -31,7 +31,7 @@
       "caption": "Walkerwood Reservoir"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/An_entrance_to_Stalybridge_Country_Park_-_geograph.org.uk_-_1915936.jpg/512px-An_entrance_to_Stalybridge_Country_Park_-_geograph.org.uk_-_1915936.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/An_entrance_to_Stalybridge_Country_Park_-_geograph.org.uk_-_1915936.jpg/500px-An_entrance_to_Stalybridge_Country_Park_-_geograph.org.uk_-_1915936.jpg",
       "title": "An entrance to Stalybridge Country Park by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "An entrance to Stalybridge Country Park"
     },
@@ -78,23 +78,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "6 hours",
   "difficulty": "moderate",
   "terrain": [
-    "canal",
-    "moorland",
-    "woodland"
+    "waterside",
+    "moorland"
   ],
   "points_of_interest": [
-    "valley way",
-    "canal",
-    "country park",
     "reservoir",
-    "moor"
+    "castle",
+    "quarry",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

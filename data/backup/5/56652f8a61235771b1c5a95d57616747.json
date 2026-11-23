@@ -3,7 +3,7 @@
   "objectID": "56652f8a61235771b1c5a95d57616747",
   "ref": "kings-lynn-and-the-walks-walking-route",
   "title": "King's Lynn and The Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kings-lynn-walks-and-red-mount.JPG/512px-Kings-lynn-walks-and-red-mount.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kings-lynn-walks-and-red-mount.JPG/500px-Kings-lynn-walks-and-red-mount.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/56652f8a61235771b1c5a95d57616747.gpx",
   "_geoloc": {
     "lat": 52.753096747,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kings-lynn-walks-and-red-mount.JPG/512px-Kings-lynn-walks-and-red-mount.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kings-lynn-walks-and-red-mount.JPG/500px-Kings-lynn-walks-and-red-mount.JPG",
       "title": "Alienturnedhuman at English Wikipedia / Public domain",
       "caption": "The Red Mount in the Walks"
     },
@@ -36,7 +36,7 @@
       "caption": "East Quay and Great Ouse. Looking north towards the Wash - on a northerly bearing the next stop is the Arctic Circle"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Saint_Edmund_Kings_Lynn_on_the_mud_of_the_River_Great_Ouse_%28geograph_5886542%29.jpg/512px-Saint_Edmund_Kings_Lynn_on_the_mud_of_the_River_Great_Ouse_%28geograph_5886542%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Saint_Edmund_Kings_Lynn_on_the_mud_of_the_River_Great_Ouse_%28geograph_5886542%29.jpg/500px-Saint_Edmund_Kings_Lynn_on_the_mud_of_the_River_Great_Ouse_%28geograph_5886542%29.jpg",
       "title": "Richard Humphrey / Saint Edmund King's Lynn on the mud of the River Great Ouse",
       "caption": "Saint Edmund on the mud of the River Great Ouse. This vessel is used to carry buoys to and from their positions in The Wash. It has been repainted since this photo was taken a few years ago."
     }
@@ -68,22 +68,21 @@
   "display_address": "Saint John's Walk, North Lynn, King's Lynn, King's Lynn and West Norfolk, Norfolk, England, PE30 1NT, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "urban",
+    "riverside"
   ],
   "points_of_interest": [
     "historical site",
-    "architectural highlights",
-    "tourist information centre"
+    "viewpoint"
   ],
   "facilities": [
     "cafe",
-    "visitor center",
-    "car park",
+    "toilets",
     "play area",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

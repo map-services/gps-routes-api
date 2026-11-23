@@ -3,7 +3,7 @@
   "objectID": "9c7e2bd600de008c3ceee9ee3883035b",
   "ref": "tree-top-walk-tasmania-walking-route",
   "title": "Tree Top Walk Tasmania Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tahune_Airwalk_.jpg/512px-Tahune_Airwalk_.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tahune_Airwalk_.jpg/500px-Tahune_Airwalk_.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9c7e2bd600de008c3ceee9ee3883035b.gpx",
   "_geoloc": {
     "lat": -43.0952081,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tahune_Airwalk_.jpg/512px-Tahune_Airwalk_.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tahune_Airwalk_.jpg/500px-Tahune_Airwalk_.jpg",
       "title": "By Tahuneairwalk [CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0 )], from Wikimedia Commons",
       "caption": "Tahune Airwalk"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Huon_river%2C_Tahune_Airwalk.jpg/256px-Huon_river%2C_Tahune_Airwalk.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Huon_river%2C_Tahune_Airwalk.jpg/330px-Huon_river%2C_Tahune_Airwalk.jpg",
       "title": "By Andrea Schaffer from Sydney, Australia (Huon river, Tahune Airwalk Uploaded by berichard) [CC BY 2.0  (https://creativecommons.org/licenses/by/2.0 )], via Wikimedia Commons",
       "caption": "Huon river, Tahune Airwalk"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Huon-River-2008.jpg/512px-Huon-River-2008.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Huon-River-2008.jpg/500px-Huon-River-2008.jpg",
       "title": "By Kham Tran - www.khamtran.com [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 ) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
       "caption": "Huon-River-2008"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suspension-Bridge-Huon-River-2008.jpg/512px-Suspension-Bridge-Huon-River-2008.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suspension-Bridge-Huon-River-2008.jpg/500px-Suspension-Bridge-Huon-River-2008.jpg",
       "title": "By Kham Tran - www.khamtran.com [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 ) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
       "caption": "Suspension-Bridge-Huon-River-2008"
     }
@@ -45,22 +45,20 @@
   "state": "Tasmania",
   "country": "Australia",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "forest"
+    "woodland"
   ],
   "points_of_interest": [
-    "information boards"
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "toilets",
     "cafe",
-    "dog friendly"
+    "car park",
+    "toilet"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

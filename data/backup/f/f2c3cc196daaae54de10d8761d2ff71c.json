@@ -1,59 +1,67 @@
 {
-    "created_at": "2025-01-06T10:38:27.506109+00:00",
-    "objectID": "f2c3cc196daaae54de10d8761d2ff71c",
-    "ref": "lady-dixon-park-walking-route",
-    "title": "Lady Dixon Park Walking Route",
-    "nearby": [
-        {
-            "description": "Belvoir Park Forest",
-            "objectID": "fcea8bb9425ebc1c08c498f8b2f16b6e",
-            "ref": "belvoir-park-forest-walking-route"
-        },
-        {
-            "description": "Lagan Towpath",
-            "objectID": "b7aaee10a6370b92186d54e36317c93b",
-            "ref": "lagan-towpath-walking-and-cycle-route"
-        },
-        {
-            "description": "Lagan Valley Regional Park",
-            "objectID": "7702d0722d55cae393ec7fe15e63edea",
-            "ref": "lagan-valley-regional-park-walking-route"
-        },
-        {
-            "description": "Belfast",
-            "objectID": "00627f96ea5b07949800e4e899bb2fdc",
-            "ref": "belfast-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2c3cc196daaae54de10d8761d2ff71c.gpx",
-    "_geoloc": {
-        "lat": 54.5411091164,
-        "lng": -5.9797767867
+  "created_at": "2025-01-06T10:38:27.506109+00:00",
+  "objectID": "f2c3cc196daaae54de10d8761d2ff71c",
+  "ref": "lady-dixon-park-walking-route",
+  "title": "Lady Dixon Park Walking Route",
+  "nearby": [
+    {
+      "description": "Belvoir Park Forest",
+      "objectID": "fcea8bb9425ebc1c08c498f8b2f16b6e",
+      "ref": "belvoir-park-forest-walking-route"
     },
-    "distance_km": 2.5,
-    "description": "This 128 acre park in Belfast is a great place for an afternoon stroll. The park consists of meadows, woodland and gardens with a number of well laid out footpaths to follow. Highlights in the park include the 19th century Wilmont House, arboretum, the Azalea Walk, fountains, a walled garden and a delightful a Japanese-style garden with pretty water features. The primary attraction, though is the splendid City of Belfast International Rose Garden. In the summer it contains over 40,000 roses, divided into trial and display beds, a historical section and a heritage garden that displays the best roses from local breeders. It also has a Diana, Princess of Wales memorial garden. The park also has woodland sections where you can look out for red and grey squirrels. Facilities are also very good with a car park, toilets and cafe. To extend your walking in Belfast you could head to the nearby Belvoir Park Forest and Lagan Valley Regional Park. Here you will find woodland trails and riverside paths along the pretty River Lagan. The Lagan Towpath also passes through the park, so you could pick this up to explore the Lagan Valley and head to Lisburn.",
-    "details": [],
-    "video_url": "https://www.youtube.com/embed/nSVrBgWeuWs",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Upper Malone Road, Finaghy, Belfast, County Antrim, Northern Ireland / Tuaisceart \u00c9ireann, BT17 9LL, United Kingdom",
-    "postcode": "BT17 9LL",
-    "district": "Belfast",
-    "county": "County Antrim",
-    "region": null,
-    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["meadow", "woodland", "garden"],
-    "points_of_interest": [
-        "historical house",
-        "arboretum",
-        "rose garden",
-        "memorial garden"
-    ],
-    "facilities": ["car park", "toilets", "cafe", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Lagan Towpath",
+      "objectID": "b7aaee10a6370b92186d54e36317c93b",
+      "ref": "lagan-towpath-walking-and-cycle-route"
+    },
+    {
+      "description": "Lagan Valley Regional Park",
+      "objectID": "7702d0722d55cae393ec7fe15e63edea",
+      "ref": "lagan-valley-regional-park-walking-route"
+    },
+    {
+      "description": "Belfast",
+      "objectID": "00627f96ea5b07949800e4e899bb2fdc",
+      "ref": "belfast-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2c3cc196daaae54de10d8761d2ff71c.gpx",
+  "_geoloc": {
+    "lat": 54.5411091164,
+    "lng": -5.9797767867
+  },
+  "distance_km": 2.5,
+  "description": "This 128 acre park in Belfast is a great place for an afternoon stroll. The park consists of meadows, woodland and gardens with a number of well laid out footpaths to follow. Highlights in the park include the 19th century Wilmont House, arboretum, the Azalea Walk, fountains, a walled garden and a delightful a Japanese-style garden with pretty water features. The primary attraction, though is the splendid City of Belfast International Rose Garden. In the summer it contains over 40,000 roses, divided into trial and display beds, a historical section and a heritage garden that displays the best roses from local breeders. It also has a Diana, Princess of Wales memorial garden. The park also has woodland sections where you can look out for red and grey squirrels. Facilities are also very good with a car park, toilets and cafe. To extend your walking in Belfast you could head to the nearby Belvoir Park Forest and Lagan Valley Regional Park. Here you will find woodland trails and riverside paths along the pretty River Lagan. The Lagan Towpath also passes through the park, so you could pick this up to explore the Lagan Valley and head to Lisburn.",
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/nSVrBgWeuWs",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Upper Malone Road, Finaghy, Belfast, County Antrim, Northern Ireland / Tuaisceart \u00c9ireann, BT17 9LL, United Kingdom",
+  "postcode": "BT17 9LL",
+  "district": "Belfast",
+  "county": "County Antrim",
+  "region": null,
+  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "rose garden",
+    "memorial garden"
+  ],
+  "facilities": [
+    "car park",
+    "toilet",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

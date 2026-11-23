@@ -3,7 +3,7 @@ package domain
 import (
 	"time"
 
-	"github.com/rm-hull/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 type RouteMetadata struct {
@@ -23,12 +23,12 @@ type RouteMetadata struct {
 	// The main image URL associated with the route
 	HeadlineImageUrl *string `json:"headline_image_url"`
 
-	StartPosition common.GeoLoc `json:"_geoloc,omitempty"`
+	StartPosition common.GeoLoc `json:"_geoloc"`
 
 	// The time the route was generated.
 	CreatedAt time.Time `json:"created_at"`
 
-	Nearby []Nearby `json:"nearby,omitempty"`
+	Nearby []RouteSummary `json:"nearby,omitempty"`
 
 	Details []Detail `json:"details,omitempty"`
 

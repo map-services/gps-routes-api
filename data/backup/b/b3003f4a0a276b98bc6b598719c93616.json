@@ -3,7 +3,7 @@
   "objectID": "b3003f4a0a276b98bc6b598719c93616",
   "ref": "barford-walking-route",
   "title": "Barford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg/512px-Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg/500px-Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b3003f4a0a276b98bc6b598719c93616.gpx",
   "_geoloc": {
     "lat": 52.2455800753,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg/512px-Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg/500px-Barford%2CThe_River_Avon_-_geograph.org.uk_-_3406392.jpg",
       "title": "Barford,The River Avon by D Holte, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Barford,The River Avon"
     },
@@ -31,12 +31,12 @@
       "caption": "Stables and Clock Tower Barford Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spring_flowers_in_Oakley_Wood_-_geograph.org.uk_-_3466444.jpg/512px-Spring_flowers_in_Oakley_Wood_-_geograph.org.uk_-_3466444.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Spring_flowers_in_Oakley_Wood_-_geograph.org.uk_-_3466444.jpg/500px-Spring_flowers_in_Oakley_Wood_-_geograph.org.uk_-_3466444.jpg",
       "title": "Spring flowers in Oakley Wood by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Spring flowers in Oakley Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wasperton_Lane_-_geograph.org.uk_-_2414947.jpg/512px-Wasperton_Lane_-_geograph.org.uk_-_2414947.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wasperton_Lane_-_geograph.org.uk_-_2414947.jpg/500px-Wasperton_Lane_-_geograph.org.uk_-_2414947.jpg",
       "title": "Wasperton Lane by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wasperton Lane"
     }
@@ -59,9 +59,10 @@
   "postcode": "CV35 8EN",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "2 hours 4 minutes",
   "difficulty": "easy",
   "terrain": [
+    "countryside",
     "woodland"
   ],
   "points_of_interest": [
@@ -69,9 +70,11 @@
     "viewpoint"
   ],
   "facilities": [
-    "pub/cafe"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

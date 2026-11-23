@@ -1,61 +1,72 @@
 {
-    "created_at": "2025-01-06T10:27:38.037823+00:00",
-    "objectID": "7afaffbee84da43088091e31a2ff769f",
-    "ref": "pembrey-forest-walking-route",
-    "title": "Pembrey Forest Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Side_of_Pembrey_Forest_-_geograph.org.uk_-_853865.jpg",
-    "nearby": [
-        {
-            "description": "Pembrey Country Park",
-            "objectID": "404176d761a6f038672b008d4b0f0774",
-            "ref": "pembrey-country-park-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7afaffbee84da43088091e31a2ff769f.gpx",
-    "_geoloc": {
-        "lat": 51.67758494,
-        "lng": -4.3112111
+  "created_at": "2025-01-06T10:27:38.037823+00:00",
+  "objectID": "7afaffbee84da43088091e31a2ff769f",
+  "ref": "pembrey-forest-walking-route",
+  "title": "Pembrey Forest Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Side_of_Pembrey_Forest_-_geograph.org.uk_-_853865.jpg",
+  "nearby": [
+    {
+      "description": "Pembrey Country Park",
+      "objectID": "404176d761a6f038672b008d4b0f0774",
+      "ref": "pembrey-country-park-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7afaffbee84da43088091e31a2ff769f.gpx",
+  "_geoloc": {
+    "lat": 51.67758494,
+    "lng": -4.3112111
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Side_of_Pembrey_Forest_-_geograph.org.uk_-_853865.jpg",
+      "title": "Colin Bell / Side of Pembrey Forest, via Wikimedia Commons",
+      "caption": "Side of Pembrey Forest. National Cycle Route 4 just skirts this square."
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Side_of_Pembrey_Forest_-_geograph.org.uk_-_853865.jpg",
-            "title": "Colin Bell / Side of Pembrey Forest, via Wikimedia Commons",
-            "caption": "Side of Pembrey Forest. National Cycle Route 4 just skirts this square."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Path_through_Pembrey_Forest_-_geograph.org.uk_-_853831.jpg",
-            "title": "Colin Bell / Path through Pembrey Forest, via Wikimedia Commons",
-            "caption": "Path through Pembrey Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Track_junction_near_the_entrance_to_Pembrey_Forest_-_geograph.org.uk_-_853790.jpg",
-            "title": "Colin Bell / Track junction near the entrance to Pembrey Forest, via Wikimedia Commons",
-            "caption": "Track junction near the entrance to Pembrey Forest"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Track_through_Pembrey_Forest_-_geograph.org.uk_-_853870.jpg",
-            "title": "Colin Bell / Track through Pembrey Forest, via Wikimedia Commons",
-            "caption": "Track through Pembrey Forest"
-        }
-    ],
-    "distance_km": 14.5,
-    "description": "Enjoy a long circular walk around this large forest in Carmarthenshire. There's miles of nice, wide cycling and walking trails with lots of wildlife to look out for on the way. The route starts in at the visitor centre and car park in Pembrey Country Park. From here you can head up trails heading north west through the park and into the forest. Here you'll find wonderful, towering Corsican Pine, picnic areas, a pond and a wide variety of interesting flora and fauna. Look out for White water Lily, Early Purple Orchid and Red Campion as you make your way along the paths. St Illtyd's Walk passes through the forest so you could pick up the trail to extend your walk. Head east and you will soon come to Penybedd Wood and Burry Wood. Just to the north of the forest you will find the interesting town of Kidwelly. Our circular walk visits the pretty quay, the River Gwendraeth and the historic Kidwelly Castle.",
-    "details": [],
-    "postcode": "SA16 0EJ",
-    "county": "Sir Gaerfyrddin / Carmarthenshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Pembrey and Burry Port Town, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA16 0EJ, United Kingdom",
-    "district": null,
-    "state": "Cymru / Wales",
-    "llama_cpp": true,
-    "estimated_duration": "3-4 hours",
-    "difficulty": "moderate",
-    "terrain": ["forest", "woodland"],
-    "points_of_interest": ["historic site", "natural area"],
-    "facilities": ["visitor center", "car park", "picnic area", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Path_through_Pembrey_Forest_-_geograph.org.uk_-_853831.jpg",
+      "title": "Colin Bell / Path through Pembrey Forest, via Wikimedia Commons",
+      "caption": "Path through Pembrey Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Track_junction_near_the_entrance_to_Pembrey_Forest_-_geograph.org.uk_-_853790.jpg",
+      "title": "Colin Bell / Track junction near the entrance to Pembrey Forest, via Wikimedia Commons",
+      "caption": "Track junction near the entrance to Pembrey Forest"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Track_through_Pembrey_Forest_-_geograph.org.uk_-_853870.jpg",
+      "title": "Colin Bell / Track through Pembrey Forest, via Wikimedia Commons",
+      "caption": "Track through Pembrey Forest"
+    }
+  ],
+  "distance_km": 14.5,
+  "description": "Enjoy a long circular walk around this large forest in Carmarthenshire. There's miles of nice, wide cycling and walking trails with lots of wildlife to look out for on the way. The route starts in at the visitor centre and car park in Pembrey Country Park. From here you can head up trails heading north west through the park and into the forest. Here you'll find wonderful, towering Corsican Pine, picnic areas, a pond and a wide variety of interesting flora and fauna. Look out for White water Lily, Early Purple Orchid and Red Campion as you make your way along the paths. St Illtyd's Walk passes through the forest so you could pick up the trail to extend your walk. Head east and you will soon come to Penybedd Wood and Burry Wood. Just to the north of the forest you will find the interesting town of Kidwelly. Our circular walk visits the pretty quay, the River Gwendraeth and the historic Kidwelly Castle.",
+  "details": [],
+  "postcode": "SA16 0EJ",
+  "county": "Sir Gaerfyrddin / Carmarthenshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Pembrey and Burry Port Town, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA16 0EJ, United Kingdom",
+  "district": null,
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historic site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

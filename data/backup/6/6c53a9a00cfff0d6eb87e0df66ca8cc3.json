@@ -3,7 +3,7 @@
   "objectID": "6c53a9a00cfff0d6eb87e0df66ca8cc3",
   "ref": "melford-hall-walking-route",
   "title": "Long Melford Hall Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg/512px-Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg/500px-Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6c53a9a00cfff0d6eb87e0df66ca8cc3.gpx",
   "_geoloc": {
     "lat": 52.0881548766,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg/512px-Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg/500px-Ha-ha_at_Melford_Hall_-_geograph.org.uk_-_4135092.jpg",
       "title": "Ha-ha at Melford Hall by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ha-ha at Melford Hall"
     },
@@ -21,12 +21,12 @@
       "caption": "Long Melford"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hall_Street%2C_Long_Melford_-_geograph.org.uk_-_3138597.jpg/512px-Hall_Street%2C_Long_Melford_-_geograph.org.uk_-_3138597.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hall_Street%2C_Long_Melford_-_geograph.org.uk_-_3138597.jpg/500px-Hall_Street%2C_Long_Melford_-_geograph.org.uk_-_3138597.jpg",
       "title": "Hall Street, Long Melford by John Salmon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hall Street, Long Melford"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Banqueting_House_at_Melford_Hall_-_geograph.org.uk_-_4148134.jpg/512px-The_Banqueting_House_at_Melford_Hall_-_geograph.org.uk_-_4148134.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Banqueting_House_at_Melford_Hall_-_geograph.org.uk_-_4148134.jpg/500px-The_Banqueting_House_at_Melford_Hall_-_geograph.org.uk_-_4148134.jpg",
       "title": "The Banqueting House at Melford Hall by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Banqueting House at Melford Hall"
     }
@@ -45,22 +45,19 @@
   "postcode": "CO10 9DF",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour 20 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "garden",
-    "historical"
+    "garden"
   ],
   "points_of_interest": [
     "historical site",
-    "church",
-    "village"
+    "church"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

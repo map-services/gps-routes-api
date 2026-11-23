@@ -3,7 +3,7 @@
   "objectID": "68c1df86926be190277ab87a25a73a93",
   "ref": "pontypool-walking-route",
   "title": "Pontypool Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg/512px-Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg/500px-Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/68c1df86926be190277ab87a25a73a93.gpx",
   "_geoloc": {
     "lat": 51.7033066048,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg/512px-Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg/500px-Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg",
       "title": "Autumn Sunlight in Pontypool Park by David Roberts, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Autumn Sunlight in Pontypool Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pontypool_Park_Colours_-_geograph.org.uk_-_2110515.jpg/256px-Pontypool_Park_Colours_-_geograph.org.uk_-_2110515.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pontypool_Park_Colours_-_geograph.org.uk_-_2110515.jpg/330px-Pontypool_Park_Colours_-_geograph.org.uk_-_2110515.jpg",
       "title": "Pontypool Park Colours by David Roberts, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Pontypool Park Colours"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Path_by_the_Pond_-_geograph.org.uk_-_1913149.jpg/512px-Path_by_the_Pond_-_geograph.org.uk_-_1913149.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Path_by_the_Pond_-_geograph.org.uk_-_1913149.jpg/500px-Path_by_the_Pond_-_geograph.org.uk_-_1913149.jpg",
       "title": "Path by the Pond by David Roberts, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Path by the Pond"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stream_near_the_Ski_Slope_-_geograph.org.uk_-_1913190.jpg/256px-Stream_near_the_Ski_Slope_-_geograph.org.uk_-_1913190.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stream_near_the_Ski_Slope_-_geograph.org.uk_-_1913190.jpg/330px-Stream_near_the_Ski_Slope_-_geograph.org.uk_-_1913190.jpg",
       "title": "Stream near the Ski Slope by David Roberts, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stream near the Ski Slope"
     },
@@ -41,7 +41,7 @@
       "caption": "Crane Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boats_moored_on_the_canal%2C_Pontymoel_-_geograph.org.uk_-_2291587.jpg/512px-Boats_moored_on_the_canal%2C_Pontymoel_-_geograph.org.uk_-_2291587.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boats_moored_on_the_canal%2C_Pontymoel_-_geograph.org.uk_-_2291587.jpg/500px-Boats_moored_on_the_canal%2C_Pontymoel_-_geograph.org.uk_-_2291587.jpg",
       "title": "Boats moored on the canal, Pontymoel by John Lord, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Boats moored on the canal, Pontymoel"
     },
@@ -74,27 +74,26 @@
   "display_address": "St Alban's R.C. High School, Park Road, Trosnant, Pontymoile, Pontypool, Torfaen, Cymru / Wales, NP4 6XG, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river",
-    "canal"
+    "woodland"
   ],
   "points_of_interest": [
-    "park",
-    "gardens",
+    "pond",
     "stone circle",
+    "Italian garden",
+    "ski slope",
     "reservoir",
-    "community woodland"
+    "heritage centre"
   ],
   "facilities": [
-    "visitor center",
-    "cafe",
-    "boat hire"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

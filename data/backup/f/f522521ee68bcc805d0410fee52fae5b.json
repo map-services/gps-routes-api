@@ -3,7 +3,7 @@
   "objectID": "f522521ee68bcc805d0410fee52fae5b",
   "ref": "mendlesham-walking-route",
   "title": "Mendlesham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg/512px-Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg/500px-Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f522521ee68bcc805d0410fee52fae5b.gpx",
   "_geoloc": {
     "lat": 52.2503767706,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg/512px-Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg/500px-Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg",
       "title": "Front Street, Mendlesham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Front Street, Mendlesham. The village is known for its large street fair which is held on every May Day bank holiday."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Church_Road%2C_Mendlesham_-_geograph.org.uk_-_4671159.jpg/512px-Church_Road%2C_Mendlesham_-_geograph.org.uk_-_4671159.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Church_Road%2C_Mendlesham_-_geograph.org.uk_-_4671159.jpg/500px-Church_Road%2C_Mendlesham_-_geograph.org.uk_-_4671159.jpg",
       "title": "Church Road, Mendlesham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Church Road, Mendlesham"
     },
@@ -36,12 +36,12 @@
       "caption": "Farm buildings near Mendlesham Green. These farm buildings are located on Hoggars Road, whilst the view is from Lambert's Lane."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mendlesham_Green_-_geograph.org.uk_-_2062983.jpg/512px-Mendlesham_Green_-_geograph.org.uk_-_2062983.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mendlesham_Green_-_geograph.org.uk_-_2062983.jpg/500px-Mendlesham_Green_-_geograph.org.uk_-_2062983.jpg",
       "title": "Mendlesham Green by Keith Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Mendlesham Green"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Old_Market_Street%2C_Mendlesham_-_geograph.org.uk_-_4670373.jpg/512px-Old_Market_Street%2C_Mendlesham_-_geograph.org.uk_-_4670373.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Old_Market_Street%2C_Mendlesham_-_geograph.org.uk_-_4670373.jpg/500px-Old_Market_Street%2C_Mendlesham_-_geograph.org.uk_-_4670373.jpg",
       "title": "Old Market Street, Mendlesham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Old Market Street, Mendlesham"
     },
@@ -74,22 +74,21 @@
   "display_address": "Front Street, Mendlesham, Mid Suffolk, Suffolk, England, IP14 5RY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "about 4 hours",
+  "difficulty": "easy",
   "terrain": [
-    "rural",
-    "countryside"
+    "countryside",
+    "farmland"
   ],
   "points_of_interest": [
-    "views"
+    "hamlet"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

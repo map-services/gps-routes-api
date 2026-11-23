@@ -3,7 +3,7 @@
   "objectID": "bc61689abd93d0531d213a8f5fc0598a",
   "ref": "loughton-walking-route",
   "title": "Loughton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg/512px-High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg/500px-High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bc61689abd93d0531d213a8f5fc0598a.gpx",
   "_geoloc": {
     "lat": 51.6417150247,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg/512px-High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg/500px-High_Road%2C_Loughton%2C_Essex_-_geograph.org.uk_-_2151568.jpg",
       "title": "High Road, Loughton, Essex by Peter Trimming, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "High Road, Loughton, Essex"
     },
@@ -21,7 +21,7 @@
       "caption": "Sluice on Loughton Brook"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Loughton_Underground_Station%2C_Essex_-_geograph.org.uk_-_2151501.jpg/512px-Loughton_Underground_Station%2C_Essex_-_geograph.org.uk_-_2151501.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Loughton_Underground_Station%2C_Essex_-_geograph.org.uk_-_2151501.jpg/500px-Loughton_Underground_Station%2C_Essex_-_geograph.org.uk_-_2151501.jpg",
       "title": "Loughton Underground Station, Essex by Peter Trimming, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Loughton Underground Station, Essex. The station is on the Central line and lies between Buckhurst Hill and Debden. It is in Zone 6."
     },
@@ -31,7 +31,7 @@
       "caption": "The War Memorial at Loughton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/River_Roding_in_Roding_Valley_Meadows_2.JPG/512px-River_Roding_in_Roding_Valley_Meadows_2.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/River_Roding_in_Roding_Valley_Meadows_2.JPG/500px-River_Roding_in_Roding_Valley_Meadows_2.JPG",
       "title": "Dudley Miles, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "River Roding in Roding Valley Meadows"
     },
@@ -46,7 +46,7 @@
       "caption": "Waterlilies and Coots on Connaught Water"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Island_on_Hainault_Forest_Country_Park_-_geograph.org.uk_-_2667749.jpg/512px-Island_on_Hainault_Forest_Country_Park_-_geograph.org.uk_-_2667749.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Island_on_Hainault_Forest_Country_Park_-_geograph.org.uk_-_2667749.jpg/500px-Island_on_Hainault_Forest_Country_Park_-_geograph.org.uk_-_2667749.jpg",
       "title": "Island on Hainault Forest Country Park by Richard Hoare, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Island on Hainault Forest Country Park"
     }
@@ -65,20 +65,17 @@
   "display_address": "Spicy Tandoori, Alderton Hill, Loughton, Epping Forest, Essex, England, IG10 3HZ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
-    "forest",
-    "waterfront"
+    "woodland",
+    "waterside"
   ],
   "points_of_interest": [
     "nature reserve",
-    "trails"
+    "forest"
   ],
-  "facilities": [
-    "car park",
-    "dog friendly"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking"

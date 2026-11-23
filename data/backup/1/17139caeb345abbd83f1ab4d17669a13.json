@@ -1,114 +1,122 @@
 {
-    "created_at": "2025-01-06T00:06:45.744922+00:00",
-    "objectID": "17139caeb345abbd83f1ab4d17669a13",
-    "ref": "calke-park-walking-route",
-    "title": "Calke Abbey Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ancient_oak_in_Calke_Park_-_geograph.org.uk_-_1429075.jpg",
-    "nearby": [
-        {
-            "description": "Foremark Reservoir",
-            "objectID": "21afd33527f96f7f6d8f57de8a3e5d97",
-            "ref": "foremark-reservoir-walking-route"
-        },
-        {
-            "description": "Ticknall Tramway Tunnel Walk",
-            "objectID": "a42d6c13e51cb8bcabb124ad5c3f7f86",
-            "ref": "ticknall-tramway-tunnel-walk-walking-route"
-        },
-        {
-            "description": "Staunton Harold Reservoir",
-            "objectID": "346d68b440468414343cafa95b753d5d",
-            "ref": "staunton-harold-reservoir-walking-route"
-        },
-        {
-            "description": "National Forest Way",
-            "objectID": "33273a16668d5733c3b1e311dffdbaed",
-            "ref": "national-forest-way-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17139caeb345abbd83f1ab4d17669a13.gpx",
-    "_geoloc": {
-        "lat": 52.8007258069,
-        "lng": -1.4450801695
+  "created_at": "2025-01-06T00:06:45.744922+00:00",
+  "objectID": "17139caeb345abbd83f1ab4d17669a13",
+  "ref": "calke-park-walking-route",
+  "title": "Calke Abbey Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ancient_oak_in_Calke_Park_-_geograph.org.uk_-_1429075.jpg",
+  "nearby": [
+    {
+      "description": "Foremark Reservoir",
+      "objectID": "21afd33527f96f7f6d8f57de8a3e5d97",
+      "ref": "foremark-reservoir-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ancient_oak_in_Calke_Park_-_geograph.org.uk_-_1429075.jpg",
-            "title": "Trevor Rickard / Ancient oak in Calke Park",
-            "caption": "Ancient oak in Calke Park One of many in the 600-acre park. This one has plenty of room inside at the base. The park's ancient trees, some over 1,200 years old, provide essential habitats for a variety of species. The 'Old Man of Calke', a 1,200-year-old oak, is a notable feature, offering a glimpse into the park's long-standing natural heritage. The presence of these ancient trees supports a range of wildlife, including bats, birds, and invertebrates, contributing to the park's biodiversity."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lake_in_Calke_Park_-_geograph.org.uk_-_797541.jpg",
-            "title": "Simon Huguet / Lake in Calke Park",
-            "caption": "Lake in Calke Park.The park is renowned for its rich biodiversity, particularly its ancient woodlands and veteran trees. The park is home to over 350 species of beetles, indicating a healthy and diverse ecosystem. Woodland birds such as woodpeckers, treecreepers, nuthatches, and various tit species are commonly observed, thriving in the mature trees and dense undergrowth. Birds of prey, including buzzards and the occasional red kite, can be seen soaring above the open areas, taking advantage of the varied terrain. The park's diverse habitats support a range of wildlife, including small mammals and invertebrates, indicative of a healthy ecosystem."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Weir_on_pond%2C_Calke_Park_-_geograph.org.uk_-_401822.jpg",
-            "title": "E Gammie / Weir on pond, Calke Park",
-            "caption": "Weir on pond, Calke Park. The weir on a series of four recreational ponds, linked by a weir and culverts, built by the Harpur Crewe family in the 18th century. The ponds provide a suitable habitat for creatures such as white-clawed crayfish, frogs, toads, damselflies and dragonflies."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Calke_Abbey_-_geograph.org.uk_-_401831.jpg",
-            "title": "E Gammie / Calke Abbey",
-            "caption": "Calke Abbey is a baroque mansion owned by the National Trust and set in 600 acres of Calke Park National Nature Reserve. It was founded as an Augustinian priory by the 2nd Earl of Chester in the early 12th century and never progressed to become an abbey. By the mid 1100s it was already reduced to serving nearby Repton Priory and continued as such until the Dissolution in the 16th century. It then passed through the hands of many owners, gaining the name Calke Abbey in 1808, before being passed to the National Trust in the 1980s. Nothing of the original building remains, the earliest masonry being Elizabethan. It was largely rebuilt in 1701-1704."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Calke_Abbey_church_-_geograph.org.uk_-_401827.jpg",
-            "title": "E Gammie / Calke Abbey church",
-            "caption": "Calke Abbey church. St Giles church, built 1826."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Old_Man_of_Calke_-_geograph.org.uk_-_251044.jpg",
-            "title": "Mike Bardill / The Old Man of Calke",
-            "caption": "The Old Man of Calke This ancient oak tree in Calke Park is believed to be anything up to 1500 years old and is a prime example of a veteran tree. It is suggested that there may be no more than a hundred or so trees of this age and historic significance in the whole of Western Europe"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Stone_stile%2C_Calke_Park_-_geograph.org.uk_-_401867.jpg",
-            "title": "E Gammie / Stone stile, Calke Park",
-            "caption": "Stone stile, Calke Park. There was no obvious footpath on the other side of the wall - the 1:25,000 map shows the right of way crossing the boundary at this point and continuing alongside the other side of the wall, although, on the ground, the path continued on the inside of the wall."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bluebells_in_Poker%27s_Leys_Wood_from_Calke_Park_-_geograph.org.uk_-_797538.jpg",
-            "title": "Simon Huguet / Bluebells in Poker's Leys Wood from Calke Park",
-            "caption": "Bluebells in Poker's Leys Wood from Calke Park"
-        }
-    ],
-    "distance_km": 5.0,
-    "description": "This walk takes you around the magnificent Calke country estate located in Ticknall, Derby. The walk begins at the car park and takes you along the beautiful Staunton Harold Reservoir before exploring the woodland, ponds and meadows of Calke Park. There is also a deer park with Calke's herd of fallow and red deer, while the wetlands area is also home to more wildlife with dragonflies and damselflies to see. The site has an interesting history having been an Augustinian priory from the 12th century until its dissolution by Henry VIII. If you head a mile north you can visit the visitor centre and enjoy a well surfaced walk along the water to their wildflower meadow. To continue your walking in the park try our circular Ticknall Tramway Tunnel Walk. This visits the old industrial tramway which connected the brickyards, lime quarries and lime yards of Ticknall to the Ashby Canal. The horse drawn system operated from 1802 to 1913. Today part of the route makes for a nice leisurely walk or cycle.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "There's a National Trust cafe at Staunton Harold Reservoir where you can buy light lunches, tasty snacks and refreshing drinks. The cafe is located at Calke Road, Windmill Hill with a postcode of DE73 8DN. If you head about 1 mile north west of the park you'll come to the village of Ticknall where there are a few refreshment options. For example there's the excellent Chequers Inn. The friendly pub has a cosy fire indoors and a good sized garden area to sit out in. You can find it in the village at 27 High St with a postcode of DE73 7JH for your sat navs. The Holly Bush in nearby Breedon is another good option. It's a historic pub of some note, dating all the way back to the 16th century. They serve high quality locally sourced food with some particularly delicious pies. The pub can be found at 1 Melbourne Lane with a postcode of DE73 8AT."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The expansive park makes for an excellent dog walk so you'll probably see plenty of other owners on a fine day. Please keep them on leads and under control around the areas with livestock though. You can find water bowls at the cafe."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The park is located close to the town of Melbourne where there are some lovely walks at the southern end of the town. Our Melbourne Hall and Pool Walk visits the historic hall and the pretty pool. You can pick up the two mile trail near the north eastern end of Staunton Harold Reservoir. Just over a mile north of the town you can also join with the Trent and Mersey Canal near Weston-on-Trent. There's some nice easy cycling and walking along the towpath here. About two miles east of the abbey you'll find the noteworthy little village of Breedon on the Hill. Here you can try the circular Breedon Hill Walk which climbs to the village's limestone hill. On the hill top you'll find an Iron Age Hillfort and a fascinating ancient church which is something of a local landmark. You can also visit a splendid 16th century village pub for refreshment after your exercise. The National Forest Way passes through the area. The long distance trail takes you to several of the highlights of the National Forest area. For more walking ideas in the area see the Derbyshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/NGRSPFk7SXw",
-    "county": "Leicestershire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Springwood, Staunton Harold, North West Leicestershire, Leicestershire, England, LE65 1RR, United Kingdom",
-    "postcode": "LE65 1RR",
-    "district": "North West Leicestershire",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland", "meadow", "water"],
-    "points_of_interest": [
-        "historical site",
-        "wildflower meadow",
-        "industrial tramway"
-    ],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Ticknall Tramway Tunnel Walk",
+      "objectID": "a42d6c13e51cb8bcabb124ad5c3f7f86",
+      "ref": "ticknall-tramway-tunnel-walk-walking-route"
+    },
+    {
+      "description": "Staunton Harold Reservoir",
+      "objectID": "346d68b440468414343cafa95b753d5d",
+      "ref": "staunton-harold-reservoir-walking-route"
+    },
+    {
+      "description": "National Forest Way",
+      "objectID": "33273a16668d5733c3b1e311dffdbaed",
+      "ref": "national-forest-way-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17139caeb345abbd83f1ab4d17669a13.gpx",
+  "_geoloc": {
+    "lat": 52.8007258069,
+    "lng": -1.4450801695
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ancient_oak_in_Calke_Park_-_geograph.org.uk_-_1429075.jpg",
+      "title": "Trevor Rickard / Ancient oak in Calke Park",
+      "caption": "Ancient oak in Calke Park One of many in the 600-acre park. This one has plenty of room inside at the base. The park's ancient trees, some over 1,200 years old, provide essential habitats for a variety of species. The 'Old Man of Calke', a 1,200-year-old oak, is a notable feature, offering a glimpse into the park's long-standing natural heritage. The presence of these ancient trees supports a range of wildlife, including bats, birds, and invertebrates, contributing to the park's biodiversity."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lake_in_Calke_Park_-_geograph.org.uk_-_797541.jpg",
+      "title": "Simon Huguet / Lake in Calke Park",
+      "caption": "Lake in Calke Park.The park is renowned for its rich biodiversity, particularly its ancient woodlands and veteran trees. The park is home to over 350 species of beetles, indicating a healthy and diverse ecosystem. Woodland birds such as woodpeckers, treecreepers, nuthatches, and various tit species are commonly observed, thriving in the mature trees and dense undergrowth. Birds of prey, including buzzards and the occasional red kite, can be seen soaring above the open areas, taking advantage of the varied terrain. The park's diverse habitats support a range of wildlife, including small mammals and invertebrates, indicative of a healthy ecosystem."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Weir_on_pond%2C_Calke_Park_-_geograph.org.uk_-_401822.jpg",
+      "title": "E Gammie / Weir on pond, Calke Park",
+      "caption": "Weir on pond, Calke Park. The weir on a series of four recreational ponds, linked by a weir and culverts, built by the Harpur Crewe family in the 18th century. The ponds provide a suitable habitat for creatures such as white-clawed crayfish, frogs, toads, damselflies and dragonflies."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Calke_Abbey_-_geograph.org.uk_-_401831.jpg",
+      "title": "E Gammie / Calke Abbey",
+      "caption": "Calke Abbey is a baroque mansion owned by the National Trust and set in 600 acres of Calke Park National Nature Reserve. It was founded as an Augustinian priory by the 2nd Earl of Chester in the early 12th century and never progressed to become an abbey. By the mid 1100s it was already reduced to serving nearby Repton Priory and continued as such until the Dissolution in the 16th century. It then passed through the hands of many owners, gaining the name Calke Abbey in 1808, before being passed to the National Trust in the 1980s. Nothing of the original building remains, the earliest masonry being Elizabethan. It was largely rebuilt in 1701-1704."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Calke_Abbey_church_-_geograph.org.uk_-_401827.jpg",
+      "title": "E Gammie / Calke Abbey church",
+      "caption": "Calke Abbey church. St Giles church, built 1826."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Old_Man_of_Calke_-_geograph.org.uk_-_251044.jpg",
+      "title": "Mike Bardill / The Old Man of Calke",
+      "caption": "The Old Man of Calke This ancient oak tree in Calke Park is believed to be anything up to 1500 years old and is a prime example of a veteran tree. It is suggested that there may be no more than a hundred or so trees of this age and historic significance in the whole of Western Europe"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Stone_stile%2C_Calke_Park_-_geograph.org.uk_-_401867.jpg",
+      "title": "E Gammie / Stone stile, Calke Park",
+      "caption": "Stone stile, Calke Park. There was no obvious footpath on the other side of the wall - the 1:25,000 map shows the right of way crossing the boundary at this point and continuing alongside the other side of the wall, although, on the ground, the path continued on the inside of the wall."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bluebells_in_Poker%27s_Leys_Wood_from_Calke_Park_-_geograph.org.uk_-_797538.jpg",
+      "title": "Simon Huguet / Bluebells in Poker's Leys Wood from Calke Park",
+      "caption": "Bluebells in Poker's Leys Wood from Calke Park"
+    }
+  ],
+  "distance_km": 5.0,
+  "description": "This walk takes you around the magnificent Calke country estate located in Ticknall, Derby. The walk begins at the car park and takes you along the beautiful Staunton Harold Reservoir before exploring the woodland, ponds and meadows of Calke Park. There is also a deer park with Calke's herd of fallow and red deer, while the wetlands area is also home to more wildlife with dragonflies and damselflies to see. The site has an interesting history having been an Augustinian priory from the 12th century until its dissolution by Henry VIII. If you head a mile north you can visit the visitor centre and enjoy a well surfaced walk along the water to their wildflower meadow. To continue your walking in the park try our circular Ticknall Tramway Tunnel Walk. This visits the old industrial tramway which connected the brickyards, lime quarries and lime yards of Ticknall to the Ashby Canal. The horse drawn system operated from 1802 to 1913. Today part of the route makes for a nice leisurely walk or cycle.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a National Trust cafe at Staunton Harold Reservoir where you can buy light lunches, tasty snacks and refreshing drinks. The cafe is located at Calke Road, Windmill Hill with a postcode of DE73 8DN. If you head about 1 mile north west of the park you'll come to the village of Ticknall where there are a few refreshment options. For example there's the excellent Chequers Inn. The friendly pub has a cosy fire indoors and a good sized garden area to sit out in. You can find it in the village at 27 High St with a postcode of DE73 7JH for your sat navs. The Holly Bush in nearby Breedon is another good option. It's a historic pub of some note, dating all the way back to the 16th century. They serve high quality locally sourced food with some particularly delicious pies. The pub can be found at 1 Melbourne Lane with a postcode of DE73 8AT."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive park makes for an excellent dog walk so you'll probably see plenty of other owners on a fine day. Please keep them on leads and under control around the areas with livestock though. You can find water bowls at the cafe."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The park is located close to the town of Melbourne where there are some lovely walks at the southern end of the town. Our Melbourne Hall and Pool Walk visits the historic hall and the pretty pool. You can pick up the two mile trail near the north eastern end of Staunton Harold Reservoir. Just over a mile north of the town you can also join with the Trent and Mersey Canal near Weston-on-Trent. There's some nice easy cycling and walking along the towpath here. About two miles east of the abbey you'll find the noteworthy little village of Breedon on the Hill. Here you can try the circular Breedon Hill Walk which climbs to the village's limestone hill. On the hill top you'll find an Iron Age Hillfort and a fascinating ancient church which is something of a local landmark. You can also visit a splendid 16th century village pub for refreshment after your exercise. The National Forest Way passes through the area. The long distance trail takes you to several of the highlights of the National Forest area. For more walking ideas in the area see the Derbyshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/NGRSPFk7SXw",
+  "county": "Leicestershire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Springwood, Staunton Harold, North West Leicestershire, Leicestershire, England, LE65 1RR, United Kingdom",
+  "postcode": "LE65 1RR",
+  "district": "North West Leicestershire",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

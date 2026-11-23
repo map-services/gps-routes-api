@@ -3,7 +3,7 @@
   "objectID": "979b9b721764037f3a6965491d0b4612",
   "ref": "chulmleigh-walking-route",
   "title": "Chulmleigh Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg/512px-Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg/500px-Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/979b9b721764037f3a6965491d0b4612.gpx",
   "_geoloc": {
     "lat": 50.9122254046,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg/512px-Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg/500px-Chulmleigh_%2C_South_Molton_Street_-_geograph.org.uk_-_4531385.jpg",
       "title": "Chulmleigh : South Molton Street by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Chulmleigh, South Molton Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Church_of_St_Mary_Magdalene_at_Chulmleigh_%28geograph_4720949%29.jpg/512px-The_Church_of_St_Mary_Magdalene_at_Chulmleigh_%28geograph_4720949%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Church_of_St_Mary_Magdalene_at_Chulmleigh_%28geograph_4720949%29.jpg/500px-The_Church_of_St_Mary_Magdalene_at_Chulmleigh_%28geograph_4720949%29.jpg",
       "title": "Peter Wood / The Church of St Mary Magdalene at Chulmleigh",
       "caption": "The Church of St Mary Magdalene at Chulmleigh"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Looking_down_the_Little_Dart_River_from_Chulmleigh_Bridge_-_geograph.org.uk_-_4367910.jpg/512px-Looking_down_the_Little_Dart_River_from_Chulmleigh_Bridge_-_geograph.org.uk_-_4367910.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Looking_down_the_Little_Dart_River_from_Chulmleigh_Bridge_-_geograph.org.uk_-_4367910.jpg/500px-Looking_down_the_Little_Dart_River_from_Chulmleigh_Bridge_-_geograph.org.uk_-_4367910.jpg",
       "title": "Looking down the Little Dart River from Chulmleigh Bridge by Roger A Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Looking down the Little Dart River from Chulmleigh Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mid_Devon_%2C_Upcott_Wood_-_geograph.org.uk_-_2800298.jpg/512px-Mid_Devon_%2C_Upcott_Wood_-_geograph.org.uk_-_2800298.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mid_Devon_%2C_Upcott_Wood_-_geograph.org.uk_-_2800298.jpg/500px-Mid_Devon_%2C_Upcott_Wood_-_geograph.org.uk_-_2800298.jpg",
       "title": "Mid Devon : Upcott Wood by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Mid Devon, Upcott Wood"
     },
@@ -36,7 +36,7 @@
       "caption": "Ridge and Valley Walk near Nethercott"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tarka_Line_bridge_over_River_Taw_near_Eggesford_-_geograph.org.uk_-_3588513.jpg/512px-Tarka_Line_bridge_over_River_Taw_near_Eggesford_-_geograph.org.uk_-_3588513.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tarka_Line_bridge_over_River_Taw_near_Eggesford_-_geograph.org.uk_-_3588513.jpg/500px-Tarka_Line_bridge_over_River_Taw_near_Eggesford_-_geograph.org.uk_-_3588513.jpg",
       "title": "Tarka Line bridge over River Taw near Eggesford by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tarka Line bridge over River Taw near Eggesford"
     },
@@ -70,23 +70,20 @@
   "postcode": "EX18 7DA",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "forest"
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
-    "garden center",
     "castle"
   ],
   "facilities": [
     "pub/cafe",
-    "restaurant",
-    "car park"
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

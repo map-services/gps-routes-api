@@ -3,7 +3,7 @@
   "objectID": "f2553b110836dbf911389e7f449508c4",
   "ref": "braintree-walking-route",
   "title": "Braintree Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bocking_Blackwater_10.jpg/256px-Bocking_Blackwater_10.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bocking_Blackwater_10.jpg/330px-Bocking_Blackwater_10.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2553b110836dbf911389e7f449508c4.gpx",
   "_geoloc": {
     "lat": 51.8857539055,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bocking_Blackwater_10.jpg/256px-Bocking_Blackwater_10.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bocking_Blackwater_10.jpg/330px-Bocking_Blackwater_10.jpg",
       "title": "Dudley Miles / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
       "caption": "Bocking Blackwater is a Local Nature Reserve on the banks of the River Blackwater in Braintree Essex"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bocking_Blackwater_17.jpg/256px-Bocking_Blackwater_17.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bocking_Blackwater_17.jpg/330px-Bocking_Blackwater_17.jpg",
       "title": "Dudley Miles / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
       "caption": "View of the river, grassland and trees in the reserve. Taken in the spring of 2016"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/War_Memorial%2C_Public_Gardens%2C_Bocking_End%2C_Braintree%2C_Essex_-_geograph.org.uk_-_1411125.jpg/512px-War_Memorial%2C_Public_Gardens%2C_Bocking_End%2C_Braintree%2C_Essex_-_geograph.org.uk_-_1411125.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/War_Memorial%2C_Public_Gardens%2C_Bocking_End%2C_Braintree%2C_Essex_-_geograph.org.uk_-_1411125.jpg/500px-War_Memorial%2C_Public_Gardens%2C_Bocking_End%2C_Braintree%2C_Essex_-_geograph.org.uk_-_1411125.jpg",
       "title": "Trevor Wright / War Memorial, Public Gardens, Bocking End, Braintree, Essex",
       "caption": "War Memorial, Public Gardens, Bocking End, Braintree, Essex. UK National Inventory of War Memorials No.22070. The gardens are located a short stroll to the south east of the reserve"
     },
@@ -69,22 +69,20 @@
   "display_address": "Warwick Close, Braintree, Essex, England, CM7 9JZ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
+    "river",
     "woodland",
-    "grassland",
-    "wetland"
+    "grassland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical hall",
+    "historical site",
     "windmill"
   ],
   "facilities": [
-    "visitor center",
-    "play area",
-    "car park"
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

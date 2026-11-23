@@ -78,7 +78,7 @@
       "caption": "Whitlingham Country Park - an overgrown water course"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Whitlingham_Country_Park_-_bird_hide_information_board_-_geograph.org.uk_-_1381755.jpg/256px-Whitlingham_Country_Park_-_bird_hide_information_board_-_geograph.org.uk_-_1381755.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Whitlingham_Country_Park_-_bird_hide_information_board_-_geograph.org.uk_-_1381755.jpg/330px-Whitlingham_Country_Park_-_bird_hide_information_board_-_geograph.org.uk_-_1381755.jpg",
       "title": "Evelyn Simak / Whitlingham Country Park - bird hide information board, via Wikimedia Commons",
       "caption": "Bird hide information board. This information board is situated by the bird hide within the conservation area on the northern shore of Whitlingham Great Broad."
     },
@@ -88,7 +88,7 @@
       "caption": "Footbridge over drain. The bridge takes the circular walk around Whitlingham Great Broad over a drain."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Whitlingham_Country_Park_-_one_of_the_story_telling_points_along_the_way_-_geograph.org.uk_-_1381920.jpg/256px-Whitlingham_Country_Park_-_one_of_the_story_telling_points_along_the_way_-_geograph.org.uk_-_1381920.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Whitlingham_Country_Park_-_one_of_the_story_telling_points_along_the_way_-_geograph.org.uk_-_1381920.jpg/330px-Whitlingham_Country_Park_-_one_of_the_story_telling_points_along_the_way_-_geograph.org.uk_-_1381920.jpg",
       "title": "Evelyn Simak / Whitlingham Country Park - one of the story telling points along the way, via Wikimedia Commons",
       "caption": "One of the story telling points along the way"
     },
@@ -108,7 +108,7 @@
       "caption": "The Outdoor Education Centre offers a full range of water-based activities which include sailing, windsurfing, kayaking, rafting and canoeing with training being available for novices. The park also operates week-long activity water courses."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A_woodland_walk_-_geograph.org.uk_-_1387335.jpg/256px-A_woodland_walk_-_geograph.org.uk_-_1387335.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A_woodland_walk_-_geograph.org.uk_-_1387335.jpg/330px-A_woodland_walk_-_geograph.org.uk_-_1387335.jpg",
       "title": "Evelyn Simak / A woodland walk, via Wikimedia Commons",
       "caption": "A woodland walk"
     }
@@ -131,23 +131,27 @@
   "display_address": "Whitlingham Lane, Trowse with Newton, Trowse, South Norfolk, Norfolk, England, NR14 8TR, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
+    "waterside",
     "heathland",
-    "woodland",
-    "ponds"
+    "woodland"
   ],
   "points_of_interest": [
-    "trails"
+    "lake",
+    "river"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "windsurfing",
+    "sailing",
+    "archery",
+    "kayaking"
   ]
 }

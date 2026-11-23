@@ -3,7 +3,7 @@
   "objectID": "b7800dc07cb1ea0b4bbeb9ac4a54261d",
   "ref": "wrentham-walking-route",
   "title": "Wrentham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg/512px-Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg/500px-Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b7800dc07cb1ea0b4bbeb9ac4a54261d.gpx",
   "_geoloc": {
     "lat": 52.384708107,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg/512px-Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg/500px-Crossroads_in_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2925516.jpg",
       "title": "Crossroads in Wrentham, Suffolk by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Crossroads in Wrentham, Suffolk"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/High_Street%2C_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2922414.jpg/512px-High_Street%2C_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2922414.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/High_Street%2C_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2922414.jpg/500px-High_Street%2C_Wrentham%2C_Suffolk_-_geograph.org.uk_-_2922414.jpg",
       "title": "High Street, Wrentham, Suffolk by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "High Street, Wrentham, Suffolk"
     },
@@ -36,12 +36,12 @@
       "caption": "Wrentham St Nicholas' church. The parish church of Wrentham, dedicated to Saint Nicholas, is located approximately 1 mile (1.6 km) to the west of the village center. This historical church boasts a mix of architectural elements from different periods. The tower, porch, and south aisle of the church date back to the 15th century, representing a notable example of medieval architecture. In contrast, the north aisle is a Victorian addition. The chancel, believed to be the oldest part of the church, likely dates back to the 13th century. It is characterized by its distinctive red-brick flying buttresses, which support the structure."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/St.Nicholas_Church%2C_Wrentham_-_geograph.org.uk_-_2849092.jpg/512px-St.Nicholas_Church%2C_Wrentham_-_geograph.org.uk_-_2849092.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/St.Nicholas_Church%2C_Wrentham_-_geograph.org.uk_-_2849092.jpg/500px-St.Nicholas_Church%2C_Wrentham_-_geograph.org.uk_-_2849092.jpg",
       "title": "St.Nicholas Church, Wrentham by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Both the nave and chancel of the church are remarkably spacious. The south aisle features wooden posts along the south wall, providing support for the roof beams. Inside the north aisle, there is a medieval stained glass window that depicts St. Nicholas, believed to be one of the oldest surviving pictures in England."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Five_Bells_Inn_at_Wrentham_-_geograph.org.uk_-_5301605.jpg/512px-Five_Bells_Inn_at_Wrentham_-_geograph.org.uk_-_5301605.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Five_Bells_Inn_at_Wrentham_-_geograph.org.uk_-_5301605.jpg/500px-Five_Bells_Inn_at_Wrentham_-_geograph.org.uk_-_5301605.jpg",
       "title": "Five Bells Inn at Wrentham by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Five Bells Inn at Wrentham"
     }
@@ -64,19 +64,21 @@
   "district": "East Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "coastal"
   ],
   "points_of_interest": [
-    "church",
-    "nature reserve"
+    "historical site",
+    "nature reserve",
+    "beach"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

@@ -33,22 +33,22 @@
       "caption": "Lahinch seafront. The start point for the walk."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Burren_Way_descending_to_Fanore_-_geograph.org.uk_-_4933316.jpg/512px-The_Burren_Way_descending_to_Fanore_-_geograph.org.uk_-_4933316.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Burren_Way_descending_to_Fanore_-_geograph.org.uk_-_4933316.jpg/500px-The_Burren_Way_descending_to_Fanore_-_geograph.org.uk_-_4933316.jpg",
       "title": "The Burren Way descending to Fanore by David Purchase, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Burren Way descending to Fanore"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cliffs_of_Moher_with_Sea_Thrift.jpg/512px-Cliffs_of_Moher_with_Sea_Thrift.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cliffs_of_Moher_with_Sea_Thrift.jpg/500px-Cliffs_of_Moher_with_Sea_Thrift.jpg",
       "title": "Karie Kuiper, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Cliffs of Moher with Sea Thrift"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lisdoonvarna2.JPG/512px-Lisdoonvarna2.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lisdoonvarna2.JPG/500px-Lisdoonvarna2.JPG",
       "title": "MaxPride, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Lisdoonvarna"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Burren_in_the_evening_sun.JPG/512px-The_Burren_in_the_evening_sun.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Burren_in_the_evening_sun.JPG/500px-The_Burren_in_the_evening_sun.JPG",
       "title": "YvonneM, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "The Burren in the evening sun"
     },
@@ -58,12 +58,12 @@
       "caption": "Some ruined buildings beside the Burren Way near Ballyelly."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burren_Way_%26_Doonagore_Castle%2C_Doolin_%28506354%29_%2827001367350%29.jpg/512px-Burren_Way_%26_Doonagore_Castle%2C_Doolin_%28506354%29_%2827001367350%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burren_Way_%26_Doonagore_Castle%2C_Doolin_%28506354%29_%2827001367350%29.jpg/500px-Burren_Way_%26_Doonagore_Castle%2C_Doolin_%28506354%29_%2827001367350%29.jpg",
       "title": "Robert Linsdell from St. Andrews, Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Doonagore Castle. A round 16th-century tower house with a small walled enclosure located about 1 km south of the coastal village of Doolin"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burren_National_Park.jpg/512px-Burren_National_Park.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burren_National_Park.jpg/500px-Burren_National_Park.jpg",
       "title": "Karie Kuiper, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Burren National Park. An Irish terrier surveys his pastures, with the limestone bedrock and glacio-karst landscape of the Burren National Park in the distance. The park features 1,500 hectares of mountains, bogs, heaths, grasslands and forests. It is the smallest of Ireland's national parks"
     }
@@ -82,24 +82,21 @@
   "state": null,
   "country": "\u00c9ire / Ireland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "mountain",
-    "karst"
+    "karst limestone",
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "national park",
-    "settlements"
+    "clifftop",
+    "national park"
   ],
   "facilities": [
-    "visitor center",
-    "pub/cafe",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

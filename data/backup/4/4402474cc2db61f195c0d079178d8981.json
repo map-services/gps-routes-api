@@ -3,7 +3,7 @@
   "objectID": "4402474cc2db61f195c0d079178d8981",
   "ref": "shenstone-walking-route",
   "title": "Shenstone Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fox_and_Hounds%2C_Shenstone.jpg/512px-Fox_and_Hounds%2C_Shenstone.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fox_and_Hounds%2C_Shenstone.jpg/500px-Fox_and_Hounds%2C_Shenstone.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4402474cc2db61f195c0d079178d8981.gpx",
   "_geoloc": {
     "lat": 52.6394808308,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fox_and_Hounds%2C_Shenstone.jpg/512px-Fox_and_Hounds%2C_Shenstone.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fox_and_Hounds%2C_Shenstone.jpg/500px-Fox_and_Hounds%2C_Shenstone.jpg",
       "title": "Geoff Pick / The Fox & Hounds, Shenstone",
       "caption": "Fox and Hounds, Shenstone"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Station_Road_-_geograph.org.uk_-_2382648.jpg/512px-Station_Road_-_geograph.org.uk_-_2382648.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Station_Road_-_geograph.org.uk_-_2382648.jpg/500px-Station_Road_-_geograph.org.uk_-_2382648.jpg",
       "title": "Station Road by Chris' Buet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Station Road"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_Railway%2C_Shenstone_-_geograph.org.uk_-_2031475.jpg/512px-The_Railway%2C_Shenstone_-_geograph.org.uk_-_2031475.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_Railway%2C_Shenstone_-_geograph.org.uk_-_2031475.jpg/500px-The_Railway%2C_Shenstone_-_geograph.org.uk_-_2031475.jpg",
       "title": "The Railway, Shenstone by Geoff Pick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Railway, Shenstone"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shenstone_railway_station_-_2008-02-17.jpg/512px-Shenstone_railway_station_-_2008-02-17.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shenstone_railway_station_-_2008-02-17.jpg/500px-Shenstone_railway_station_-_2008-02-17.jpg",
       "title": "Voice of Clam, Public domain, via Wikimedia Commons",
       "caption": "Shenstone railway station"
     },
@@ -46,7 +46,7 @@
       "caption": "Letocetum Roman Remains"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Wall%2C_Roman_remains_-_geograph.org.uk_-_2790567.jpg/512px-Wall%2C_Roman_remains_-_geograph.org.uk_-_2790567.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Wall%2C_Roman_remains_-_geograph.org.uk_-_2790567.jpg/500px-Wall%2C_Roman_remains_-_geograph.org.uk_-_2790567.jpg",
       "title": "Wall, Roman remains by Michael Westley, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wall, Roman remains"
     }
@@ -70,20 +70,19 @@
   "postcode": "WS14 0NW",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour 30 minutes",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "rural"
+    "country lane"
   ],
   "points_of_interest": [
     "historical site",
     "museum"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

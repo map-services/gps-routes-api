@@ -1,78 +1,91 @@
 {
-    "created_at": "2025-01-06T00:50:45.491256+00:00",
-    "objectID": "cdd424fed1ee309107ffda9f18035157",
-    "ref": "shipton-gorge-walking-route",
-    "title": "Shipton Gorge Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Shipton_Gorge_village_-_geograph.org.uk_-_2101701.jpg",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdd424fed1ee309107ffda9f18035157.gpx",
-    "_geoloc": {
-        "lat": 50.72116757,
-        "lng": -2.711368312
+  "created_at": "2025-01-06T00:50:45.491256+00:00",
+  "objectID": "cdd424fed1ee309107ffda9f18035157",
+  "ref": "shipton-gorge-walking-route",
+  "title": "Shipton Gorge Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Shipton_Gorge_village_-_geograph.org.uk_-_2101701.jpg",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdd424fed1ee309107ffda9f18035157.gpx",
+  "_geoloc": {
+    "lat": 50.72116757,
+    "lng": -2.711368312
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Shipton_Gorge_village_-_geograph.org.uk_-_2101701.jpg",
+      "title": "View of Shipton Gorge village by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View of Shipton Gorge village"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Shipton_Gorge_village_-_geograph.org.uk_-_2101701.jpg",
-            "title": "View of Shipton Gorge village by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View of Shipton Gorge village"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Shipton_Hill_-_geograph.org.uk_-_94283.jpg",
-            "title": "Maurice D Budden / Shipton Hill",
-            "caption": "Shipton Hill. On the hill is evidence of a prehistoric settlement"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Summit_of_Shipton_Hill_-_geograph.org.uk_-_1125926.jpg",
-            "title": "Nigel Mykura / Summit of Shipton Hill",
-            "caption": "Summit of Shipton Hill. View NW with the trig point in the foreground and the strip lynchets at Loders in the distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Parish_Church%2C_Shipton_Gorge_-_geograph.org.uk_-_1022206.jpg",
-            "title": "Mick Finn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View south from Brook Street, Shipton Gorge, Dorset across cottage gardens to St Martin's parish church"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Farmland_near_Shipton_Gorge_-_geograph.org.uk_-_325939.jpg",
-            "title": "Chris Eaton / Farmland near Shipton Gorge",
-            "caption": "Farmland near Shipton Gorge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/View_North_From_Shipton_Hill_-_geograph.org.uk_-_1125925.jpg",
-            "title": "Nigel Mykura / View North From Shipton Hill",
-            "caption": "View North From Shipton Hill. The hill is one of the highest and most prominent hills in the area visible from a considerable distance. In the middle is the unnamed copse above Uploders Farm and beyond are the strip lynchets between Loders and Uploders."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Shipton_Gorge%2C_St._Martin%27s_Church_-_geograph.org.uk_-_1369755.jpg",
-            "title": "Mike Faherty / Shipton Gorge, St. Martin's Church",
-            "caption": "St. Martin's Church. The church sits on a hill overlooking the main street with some splendid views across the countryside from its elevated position. The noteworthy building includes an early 15th century tower and a 13th century font."
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This small village is located just east of Bridport in the county of Dorset. The pretty settlement is surrounded by some lovely rolling countryside and is close to the wonderful Jurassic Coast at Burton Bradstock. There's also a historic 15th century church, picturesque thatched cottages and a fine local pub for refreshments after your walk. This circular walk from the village takes you up to Shipton Hill. The hill stands at a height of 170 metres and lies just to the north east of the village. You can follow a mixture of quiet country lanes and public footpaths up to the hill summit where you'll find a trig point and some pleasant views over the surrounding countryside.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Back in the village the New Inn is a nice place for some post exercise rest and refreshment. The village pub serves fine food and a has a good selection of ales. There's also a lovely garden area for warmer days. You can find them on Shipton Road at postcode DT6 4LT for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The hill and country trails are ideal for fit dogs. The New Inn mentioned above is also dog friendly."
-        }
-    ],
-    "district": "Shipton Gorge",
-    "county": "Dorset",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Brook Street, Shipton Gorge, Dorset, England, DT6 4NA, United Kingdom",
-    "postcode": "DT6 4NA",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["countryside", "hill"],
-    "points_of_interest": ["historic church", "cottages", "trig point"],
-    "facilities": ["pub", "footpath"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Shipton_Hill_-_geograph.org.uk_-_94283.jpg",
+      "title": "Maurice D Budden / Shipton Hill",
+      "caption": "Shipton Hill. On the hill is evidence of a prehistoric settlement"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Summit_of_Shipton_Hill_-_geograph.org.uk_-_1125926.jpg",
+      "title": "Nigel Mykura / Summit of Shipton Hill",
+      "caption": "Summit of Shipton Hill. View NW with the trig point in the foreground and the strip lynchets at Loders in the distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Parish_Church%2C_Shipton_Gorge_-_geograph.org.uk_-_1022206.jpg",
+      "title": "Mick Finn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View south from Brook Street, Shipton Gorge, Dorset across cottage gardens to St Martin's parish church"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Farmland_near_Shipton_Gorge_-_geograph.org.uk_-_325939.jpg",
+      "title": "Chris Eaton / Farmland near Shipton Gorge",
+      "caption": "Farmland near Shipton Gorge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/View_North_From_Shipton_Hill_-_geograph.org.uk_-_1125925.jpg",
+      "title": "Nigel Mykura / View North From Shipton Hill",
+      "caption": "View North From Shipton Hill. The hill is one of the highest and most prominent hills in the area visible from a considerable distance. In the middle is the unnamed copse above Uploders Farm and beyond are the strip lynchets between Loders and Uploders."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Shipton_Gorge%2C_St._Martin%27s_Church_-_geograph.org.uk_-_1369755.jpg",
+      "title": "Mike Faherty / Shipton Gorge, St. Martin's Church",
+      "caption": "St. Martin's Church. The church sits on a hill overlooking the main street with some splendid views across the countryside from its elevated position. The noteworthy building includes an early 15th century tower and a 13th century font."
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This small village is located just east of Bridport in the county of Dorset. The pretty settlement is surrounded by some lovely rolling countryside and is close to the wonderful Jurassic Coast at Burton Bradstock. There's also a historic 15th century church, picturesque thatched cottages and a fine local pub for refreshments after your walk. This circular walk from the village takes you up to Shipton Hill. The hill stands at a height of 170 metres and lies just to the north east of the village. You can follow a mixture of quiet country lanes and public footpaths up to the hill summit where you'll find a trig point and some pleasant views over the surrounding countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village the New Inn is a nice place for some post exercise rest and refreshment. The village pub serves fine food and a has a good selection of ales. There's also a lovely garden area for warmer days. You can find them on Shipton Road at postcode DT6 4LT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The hill and country trails are ideal for fit dogs. The New Inn mentioned above is also dog friendly."
+    }
+  ],
+  "district": "Shipton Gorge",
+  "county": "Dorset",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Brook Street, Shipton Gorge, Dorset, England, DT6 4NA, United Kingdom",
+  "postcode": "DT6 4NA",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "country lane",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "trig point"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "dog walking"
+  ]
 }

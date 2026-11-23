@@ -127,28 +127,23 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "coastal"
   ],
   "points_of_interest": [
-    "park",
-    "woods",
-    "statue",
-    "garden house",
-    "historical site"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
     "pub/cafe",
+    "car park",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

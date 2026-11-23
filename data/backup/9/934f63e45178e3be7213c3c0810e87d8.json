@@ -3,7 +3,7 @@
   "objectID": "934f63e45178e3be7213c3c0810e87d8",
   "ref": "waterford-greenway-walking-route",
   "title": "Waterford Greenway Map - Cycle and Walking Route Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/River_Suir_Bridge%2C_Waterford.jpg/512px-River_Suir_Bridge%2C_Waterford.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/River_Suir_Bridge%2C_Waterford.jpg/500px-River_Suir_Bridge%2C_Waterford.jpg",
   "nearby": [
     {
       "description": "Ardmore Cliff Walk",
@@ -58,7 +58,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/River_Suir_Bridge%2C_Waterford.jpg/512px-River_Suir_Bridge%2C_Waterford.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/River_Suir_Bridge%2C_Waterford.jpg/500px-River_Suir_Bridge%2C_Waterford.jpg",
       "title": "DeFacto [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "River Suir Bridge, Waterford"
     },
@@ -68,22 +68,22 @@
       "caption": "Kilmacthomas Viaduct part of Deise Greenway"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dungarvan_Harbour.jpg/512px-Dungarvan_Harbour.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dungarvan_Harbour.jpg/500px-Dungarvan_Harbour.jpg",
       "title": "Suckindiesel at en.wikipedia [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Dungarvan Harbour. The historic town includes an interesting 13th century castle."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_remains_of_the_former_Durrow_and_Stradbally_station_%28geograph_5444458%29.jpg/512px-The_remains_of_the_former_Durrow_and_Stradbally_station_%28geograph_5444458%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_remains_of_the_former_Durrow_and_Stradbally_station_%28geograph_5444458%29.jpg/500px-The_remains_of_the_former_Durrow_and_Stradbally_station_%28geograph_5444458%29.jpg",
       "title": "Jonathan Thacker / The remains of the former Durrow and Stradbally station",
       "caption": "The remains of the former Durrow and Stradbally station. Built by the Waterford, Dungarvan and Lismore Railway Company and opened in 1872. The line was closed completely in 1967 but this section was then reopened to serve a magnesite factory at Ballinacourty finally closing in 1987 though regular traffic had ceased a few years earlier. The trackbed now forms the Waterford Greenway cycle and walking route."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Remains_of_the_station%2C_Kilmacthomas_%28geograph_5475840%29.jpg/512px-Remains_of_the_station%2C_Kilmacthomas_%28geograph_5475840%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Remains_of_the_station%2C_Kilmacthomas_%28geograph_5475840%29.jpg/500px-Remains_of_the_station%2C_Kilmacthomas_%28geograph_5475840%29.jpg",
       "title": "Jonathan Thacker / Remains of the station, Kilmacthomas",
       "caption": "Remains of the station, Kilmacthomas"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kilmeadan_Castle.png/512px-Kilmeadan_Castle.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kilmeadan_Castle.png/500px-Kilmeadan_Castle.png",
       "title": "A.-K. D., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Kilmeadan Castle as seen from the bridge over the Whelansbridge River on the Waterford Greenway."
     }
@@ -107,20 +107,17 @@
   "state": null,
   "country": "\u00c9ire / Ireland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 to 3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
     "coastal"
   ],
   "points_of_interest": [
-    "historical bridge",
+    "viaduct",
     "geopark"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "cycling",
     "walking"

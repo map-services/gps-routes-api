@@ -3,7 +3,7 @@
   "objectID": "d13a823173ad098c301f769934089a66",
   "ref": "green-hammerton-walking-route",
   "title": "Green Hammerton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Green_Hammerton_%2826th_April_2013%29_001.JPG/512px-Green_Hammerton_%2826th_April_2013%29_001.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Green_Hammerton_%2826th_April_2013%29_001.JPG/500px-Green_Hammerton_%2826th_April_2013%29_001.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d13a823173ad098c301f769934089a66.gpx",
   "_geoloc": {
     "lat": 54.0058268021,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Green_Hammerton_%2826th_April_2013%29_001.JPG/512px-Green_Hammerton_%2826th_April_2013%29_001.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Green_Hammerton_%2826th_April_2013%29_001.JPG/500px-Green_Hammerton_%2826th_April_2013%29_001.JPG",
       "title": "Mtaylor848, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Green Hammerton village scene."
     },
@@ -70,21 +70,20 @@
   "display_address": "Cowley Mews, Green Hammerton, North Yorkshire, York and North Yorkshire, England, YO26 8HF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "rural",
-    "river"
+    "country lane"
   ],
   "points_of_interest": [
     "historic hall",
-    "gardens",
-    "countryside views"
+    "river"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

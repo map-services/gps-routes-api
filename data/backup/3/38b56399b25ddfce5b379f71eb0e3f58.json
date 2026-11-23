@@ -3,7 +3,7 @@
   "objectID": "38b56399b25ddfce5b379f71eb0e3f58",
   "ref": "southstoke-walking-route",
   "title": "Southstoke Bath Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg/512px-A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg?20231101093703",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg/500px-A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg?20231101093703",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/38b56399b25ddfce5b379f71eb0e3f58.gpx",
   "_geoloc": {
     "lat": 51.3488559397,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg/512px-A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg?20231101093703",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg/500px-A_view_over_South_Stoke_-_geograph.org.uk_-_5655759.jpg?20231101093703",
       "title": "A view over South Stoke by Neil Owen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A view over South Stoke"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lodge_to_Southstoke_Hall_-_geograph.org.uk_-_3700108.jpg/512px-Lodge_to_Southstoke_Hall_-_geograph.org.uk_-_3700108.jpg?20220817104554",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lodge_to_Southstoke_Hall_-_geograph.org.uk_-_3700108.jpg/500px-Lodge_to_Southstoke_Hall_-_geograph.org.uk_-_3700108.jpg?20220817104554",
       "title": "Lodge to Southstoke Hall by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lodge to Southstoke Hall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monkton_Combe_Mill_-_geograph.org.uk_-_4842125.jpg/512px-Monkton_Combe_Mill_-_geograph.org.uk_-_4842125.jpg?20230528133418",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monkton_Combe_Mill_-_geograph.org.uk_-_4842125.jpg/500px-Monkton_Combe_Mill_-_geograph.org.uk_-_4842125.jpg?20230528133418",
       "title": "Monkton Combe Mill by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Monkton Combe Mill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dundas_Aqueduct%2C_Kennett_%26_Avon_Canal._-_panoramio.jpg/512px-Dundas_Aqueduct%2C_Kennett_%26_Avon_Canal._-_panoramio.jpg?20160124023956",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dundas_Aqueduct%2C_Kennett_%26_Avon_Canal._-_panoramio.jpg/500px-Dundas_Aqueduct%2C_Kennett_%26_Avon_Canal._-_panoramio.jpg?20160124023956",
       "title": "Bob&Anne Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Dundas Aqueduct, Kennett & Avon Canal."
     }
@@ -45,23 +45,17 @@
   "display_address": "Old School Hill, Midford, Southstoke, Bath and North East Somerset, West of England, England, BA2 7DU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours 35 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "canal",
-    "historic"
+    "woodland"
   ],
   "points_of_interest": [
-    "aqueduct",
-    "trail"
+    "historic site"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

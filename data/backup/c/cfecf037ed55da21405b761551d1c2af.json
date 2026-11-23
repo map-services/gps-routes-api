@@ -3,7 +3,7 @@
   "objectID": "cfecf037ed55da21405b761551d1c2af",
   "ref": "pattingham-walking-route",
   "title": "Pattingham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg/512px-The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg/500px-The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cfecf037ed55da21405b761551d1c2af.gpx",
   "_geoloc": {
     "lat": 52.5871748058,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg/512px-The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg/500px-The_Crown%2C_Pattingham_-_geograph.org.uk_-_1961223.jpg",
       "title": "The Crown, Pattingham by Richard Law, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Crown, Pattingham"
     },
@@ -36,7 +36,7 @@
       "caption": "Farmland near Great Moor, Staffordshire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Staffordshire_and_Worcestershire_Canal_near_Castlecroft%2C_Wolverhampton_-_geograph.org.uk_-_3998386.jpg/512px-Staffordshire_and_Worcestershire_Canal_near_Castlecroft%2C_Wolverhampton_-_geograph.org.uk_-_3998386.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Staffordshire_and_Worcestershire_Canal_near_Castlecroft%2C_Wolverhampton_-_geograph.org.uk_-_3998386.jpg/500px-Staffordshire_and_Worcestershire_Canal_near_Castlecroft%2C_Wolverhampton_-_geograph.org.uk_-_3998386.jpg",
       "title": "Staffordshire and Worcestershire Canal near Castlecroft, Wolverhampton by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Staffordshire and Worcestershire Canal near Castlecroft, Wolverhampton"
     },
@@ -46,7 +46,7 @@
       "caption": "Quiet stroll along the towpath"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wightwick_Manor_2016_002.jpg/512px-Wightwick_Manor_2016_002.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wightwick_Manor_2016_002.jpg/500px-Wightwick_Manor_2016_002.jpg",
       "title": "Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Wightwick Manor"
     }
@@ -69,25 +69,22 @@
   "postcode": "WV6 7DN",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "canal"
+    "countryside",
+    "waterside"
   ],
   "points_of_interest": [
-    "historic manor",
-    "nature reserve",
-    "canal bridge"
+    "historical site",
+    "manor house",
+    "nature reserve"
   ],
   "facilities": [
-    "tea room",
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "waterside walking"
+    "walking"
   ]
 }

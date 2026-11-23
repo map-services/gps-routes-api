@@ -3,7 +3,7 @@
   "objectID": "d337636cdd961a57bcf18e45e6e9a926",
   "ref": "tilford-walking-route",
   "title": "Tilford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tilford_Village_-_geograph.org.uk_-_2960625.jpg/512px-Tilford_Village_-_geograph.org.uk_-_2960625.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tilford_Village_-_geograph.org.uk_-_2960625.jpg/500px-Tilford_Village_-_geograph.org.uk_-_2960625.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d337636cdd961a57bcf18e45e6e9a926.gpx",
   "_geoloc": {
     "lat": 51.1834289138,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tilford_Village_-_geograph.org.uk_-_2960625.jpg/512px-Tilford_Village_-_geograph.org.uk_-_2960625.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tilford_Village_-_geograph.org.uk_-_2960625.jpg/500px-Tilford_Village_-_geograph.org.uk_-_2960625.jpg",
       "title": "Tilford Village by Len Williams, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tilford Village"
     },
@@ -31,7 +31,7 @@
       "caption": "Footpath leaves byway on Tilford Common"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Stockbridge_Pond_-_geograph.org.uk_-_1745494.jpg/512px-Stockbridge_Pond_-_geograph.org.uk_-_1745494.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Stockbridge_Pond_-_geograph.org.uk_-_1745494.jpg/500px-Stockbridge_Pond_-_geograph.org.uk_-_1745494.jpg",
       "title": "Mark Percy / Stockbridge Pond",
       "caption": "Stockbridge Pond"
     },
@@ -74,21 +74,22 @@
   "display_address": "Tilford Street, Tilford, Waverley, Surrey, England, GU10 2BU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "river"
-  ],
-  "points_of_interest": [
-    "village",
-    "pond",
     "common"
   ],
+  "points_of_interest": [
+    "village green",
+    "cricket pitch",
+    "historical site",
+    "pond"
+  ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

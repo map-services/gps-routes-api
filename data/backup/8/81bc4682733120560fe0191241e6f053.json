@@ -3,7 +3,7 @@
   "objectID": "81bc4682733120560fe0191241e6f053",
   "ref": "backwell-lake-walking-route",
   "title": "Backwell Lake Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Backwell_MMB_02_Lake.jpg/512px-Backwell_MMB_02_Lake.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Backwell_MMB_02_Lake.jpg/500px-Backwell_MMB_02_Lake.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/81bc4682733120560fe0191241e6f053.gpx",
   "_geoloc": {
     "lat": 51.4211663711,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Backwell_MMB_02_Lake.jpg/512px-Backwell_MMB_02_Lake.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Backwell_MMB_02_Lake.jpg/500px-Backwell_MMB_02_Lake.jpg",
       "title": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Backwell Lake"
     },
@@ -31,7 +31,7 @@
       "caption": "Jubilee Stone. This viewpoint is located just to the south east of the village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cross%2C_Backwell_churchyard_%28geograph_4081015%29.jpg/256px-Cross%2C_Backwell_churchyard_%28geograph_4081015%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cross%2C_Backwell_churchyard_%28geograph_4081015%29.jpg/330px-Cross%2C_Backwell_churchyard_%28geograph_4081015%29.jpg",
       "title": "Philip Halling / Cross, Backwell churchyard",
       "caption": "Churchyard cross outside St Andrew's parish church, Backwell, North Somerset. The base is 15th-century. The shaft and head are replacements added in 1962."
     },
@@ -74,23 +74,22 @@
   "district": "Backwell",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "20 minutes",
   "difficulty": "easy",
   "terrain": [
-    "lake",
-    "woodland"
+    "lake"
   ],
   "points_of_interest": [
-    "sculpture trail",
+    "nature reserve",
     "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

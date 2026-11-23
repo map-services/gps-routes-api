@@ -1,7 +1,7 @@
 package osdatahub
 
 import (
-	"github.com/rm-hull/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/common"
 	"github.com/wroge/wgs84"
 )
 

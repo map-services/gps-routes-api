@@ -12,10 +12,10 @@ import (
 	"strings"
 
 	"github.com/earthboundkid/versioninfo/v2"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 func NewSseMcpServer(port int) {

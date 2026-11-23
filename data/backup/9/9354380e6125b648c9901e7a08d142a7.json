@@ -3,7 +3,7 @@
   "objectID": "9354380e6125b648c9901e7a08d142a7",
   "ref": "merrivale-walking-route",
   "title": "Merrivale Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kist_off_merrivale_row-4.jpg/512px-Kist_off_merrivale_row-4.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kist_off_merrivale_row-4.jpg/500px-Kist_off_merrivale_row-4.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9354380e6125b648c9901e7a08d142a7.gpx",
   "_geoloc": {
     "lat": 50.5570214186,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kist_off_merrivale_row-4.jpg/512px-Kist_off_merrivale_row-4.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kist_off_merrivale_row-4.jpg/500px-Kist_off_merrivale_row-4.jpg",
       "title": "Herbythyme, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Merrivale Kistvaen. This is offset from the stone rows (south of them) but is in good condition despite the capstone having been cut for stone to use elsewhere. In the background are Great Mis & Little Mis Tors."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stone_row%2C_Merrivale%2C_Dartmoor_-_geograph.org.uk_-_2807163.jpg/256px-Stone_row%2C_Merrivale%2C_Dartmoor_-_geograph.org.uk_-_2807163.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stone_row%2C_Merrivale%2C_Dartmoor_-_geograph.org.uk_-_2807163.jpg/330px-Stone_row%2C_Merrivale%2C_Dartmoor_-_geograph.org.uk_-_2807163.jpg",
       "title": "Stone row, Merrivale, Dartmoor by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stone row, Merrivale. It is quite possible that the ritual monuments of the Merrivale landscape belong to several different periods. In what way they might be related is a matter of conjecture, but such a vast array of monuments indicates that the site was of great spiritual importance to the people who lived in the area."
     },
@@ -31,7 +31,7 @@
       "caption": "Merrivale, Leat at Four Winds. North Hessary TV mast (inevitably) and the rocky outcrop of Rundlestone Tor are in view on the horizon"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Merrivale_Old_Bridge_-_geograph.org.uk_-_5474018.jpg/512px-Merrivale_Old_Bridge_-_geograph.org.uk_-_5474018.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Merrivale_Old_Bridge_-_geograph.org.uk_-_5474018.jpg/500px-Merrivale_Old_Bridge_-_geograph.org.uk_-_5474018.jpg",
       "title": "Merrivale Old Bridge by Guy Wareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Merrivale Old Bridge"
     },
@@ -55,20 +55,24 @@
   "display_address": "B3357, Dartmoor Forest, West Devon, Devon, England, PL20 6ST, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "moorland",
-    "hill"
+    "moorland"
   ],
   "points_of_interest": [
-    "archaeological site",
+    "prehistoric settlement",
+    "ritual site",
+    "stone row",
+    "stone circle",
+    "standing stone",
+    "cairn",
     "viewpoint"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

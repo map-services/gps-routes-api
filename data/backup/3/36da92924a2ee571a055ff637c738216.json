@@ -38,7 +38,7 @@
       "caption": "Huddersfield Canal at Booth, Marsden. Looking east along the Huddersfield Narrow Canal from Booth Bridge, between Marsden and Slaithwaite."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg/512px-Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg/500px-Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg",
       "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Series of locks between Marsden and Slaithwaite"
     },
@@ -48,7 +48,7 @@
       "caption": "Pig Tail Lock, Huddersfield Canal, Marsden. Lock 32e of the Huddersfield Narrow Canal near Marsden, known as Pig Tail Lock, is the bottom of the Marsden flight of locks."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg/512px-Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg/500px-Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg",
       "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Canal Barge Slaithwaite"
     },
@@ -90,23 +90,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "towpath"
+    "flat"
   ],
   "points_of_interest": [
-    "locks",
-    "canal barges",
-    "historic mills",
-    "weirs",
-    "canalside pubs"
+    "historic mill",
+    "weir",
+    "canal"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

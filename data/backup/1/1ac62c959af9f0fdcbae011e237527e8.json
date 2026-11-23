@@ -3,7 +3,7 @@
   "objectID": "1ac62c959af9f0fdcbae011e237527e8",
   "ref": "pontefract-walking-route",
   "title": "Pontefract Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pontefract_Park_lake_%28geograph_6148017%29.jpg/512px-Pontefract_Park_lake_%28geograph_6148017%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pontefract_Park_lake_%28geograph_6148017%29.jpg/500px-Pontefract_Park_lake_%28geograph_6148017%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1ac62c959af9f0fdcbae011e237527e8.gpx",
   "_geoloc": {
     "lat": 53.6947969657,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pontefract_Park_lake_%28geograph_6148017%29.jpg/512px-Pontefract_Park_lake_%28geograph_6148017%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pontefract_Park_lake_%28geograph_6148017%29.jpg/500px-Pontefract_Park_lake_%28geograph_6148017%29.jpg",
       "title": "derek dye / Pontefract Park lake",
       "caption": "Pontefract Park lake"
     },
@@ -21,12 +21,12 @@
       "caption": "Entrance to Pontefract Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pontefract_park_sports_fields_and_lake_%28geograph_5669991%29.jpg/512px-Pontefract_park_sports_fields_and_lake_%28geograph_5669991%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pontefract_park_sports_fields_and_lake_%28geograph_5669991%29.jpg/500px-Pontefract_park_sports_fields_and_lake_%28geograph_5669991%29.jpg",
       "title": "derek dye / Pontefract park sports fields and lake",
       "caption": "Pontefract park sports fields and lake"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Buttercross_and_St_Giless_Church%2C_Pontefract_%28geograph_4402106%29.jpg/512px-The_Buttercross_and_St_Giless_Church%2C_Pontefract_%28geograph_4402106%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Buttercross_and_St_Giless_Church%2C_Pontefract_%28geograph_4402106%29.jpg/500px-The_Buttercross_and_St_Giless_Church%2C_Pontefract_%28geograph_4402106%29.jpg",
       "title": "Neil Theasby / The Buttercross and St Giles's Church, Pontefract",
       "caption": "The Buttercross and the 12th century St Giles Church. The church was rebuilt in the early 18th century and is Grade II listed. The Buttercross dates from 1734 and is located on the market place. It was built on the site of St. Oswald\u2019s Cross"
     },
@@ -36,17 +36,17 @@
       "caption": "The Blackmoor Head Inn"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/All_Saints_Church_Pontefract_%28geograph_3470356%29.jpg/512px-All_Saints_Church_Pontefract_%28geograph_3470356%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/All_Saints_Church_Pontefract_%28geograph_3470356%29.jpg/500px-All_Saints_Church_Pontefract_%28geograph_3470356%29.jpg",
       "title": "derek dye / All Saints Church Pontefract",
       "caption": "All Saints Church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pontefract_-_houses_on_Castle_Chain_%28geograph_3682731%29.jpg/512px-Pontefract_-_houses_on_Castle_Chain_%28geograph_3682731%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pontefract_-_houses_on_Castle_Chain_%28geograph_3682731%29.jpg/500px-Pontefract_-_houses_on_Castle_Chain_%28geograph_3682731%29.jpg",
       "title": "Dave Bevis / Pontefract - houses on Castle Chain",
       "caption": "Old stone houses on Castle Chain"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Valley_Gardens%2C_Pontefract_%28geograph_3949340%29.jpg/512px-Valley_Gardens%2C_Pontefract_%28geograph_3949340%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Valley_Gardens%2C_Pontefract_%28geograph_3949340%29.jpg/500px-Valley_Gardens%2C_Pontefract_%28geograph_3949340%29.jpg",
       "title": "Bill Henderson / Valley Gardens, Pontefract",
       "caption": "Valley Gardens in spring."
     }
@@ -78,22 +78,24 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
     "woodland",
+    "grassland",
     "wetland"
   ],
   "points_of_interest": [
-    "nature reserve"
+    "lake",
+    "local nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

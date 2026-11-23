@@ -1,6 +1,6 @@
 package request
 
-import "github.com/rm-hull/gps-routes-api/models/common"
+import "github.com/map-services/gps-routes-api/models/common"
 
 type SearchRequest struct {
 
@@ -11,8 +11,8 @@ type SearchRequest struct {
 
 	Limit int32 `json:"limit,omitempty"`
 
-	// the bounding box with bottom-left lng/lat, followed by top-right lng/lat
-	BoundingBox []float64 `json:"boundingBox,omitempty"`
+	// A bounding box filter for proximity search. Mutually exclusive with Nearby.
+	BoundingBox *common.BoundingBox `json:"boundingBox,omitempty"`
 
 	// Filtering by facet values
 	Facets map[string][]string `json:"facets,omitempty"`
@@ -22,6 +22,9 @@ type SearchRequest struct {
 	TruncateText bool `json:"truncateText,omitempty"`
 
 	SkipFacets bool `json:"skipFacets,omitempty"`
+
+	// Sort criteria for ordering results. Optional.
+	Sort *common.Sort `json:"sort,omitempty"`
 }
 
 type Nearby struct {

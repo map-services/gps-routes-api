@@ -3,7 +3,7 @@
   "objectID": "7cf98725acb2f4314f691715a2582540",
   "ref": "car-colston-walking-route",
   "title": "Car Colston Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg/512px-Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg/500px-Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7cf98725acb2f4314f691715a2582540.gpx",
   "_geoloc": {
     "lat": 52.9784518269,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg/512px-Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg/500px-Cattle_grazing_on_Large_Green%2C_Car_Colston_-_geograph.org.uk_-_3933282.jpg",
       "title": "Cattle grazing on Large Green, Car Colston by Alan Murray-Rust, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cattle grazing on Large Green, Car Colston. In 1598 landowners had fields within the parish enclosed, but agreed on leaving the greens open so that cottagers could graze their cattle, geese and horses."
     },
@@ -73,18 +73,20 @@
   "district": "Rushcliffe",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "rural"
+    "village",
+    "riverside"
   ],
   "points_of_interest": [
-    "historic buildings",
+    "historical site",
     "church"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

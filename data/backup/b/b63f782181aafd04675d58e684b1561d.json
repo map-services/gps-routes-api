@@ -3,7 +3,7 @@
   "objectID": "b63f782181aafd04675d58e684b1561d",
   "ref": "preston-guild-wheel-walking-and-cycle-route",
   "title": "Preston Guild Wheel Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Tram_Bridge%2C_Preston_232-01.jpg/256px-Old_Tram_Bridge%2C_Preston_232-01.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Tram_Bridge%2C_Preston_232-01.jpg/330px-Old_Tram_Bridge%2C_Preston_232-01.jpg",
   "nearby": [
     {
       "description": "Avenham Park",
@@ -28,7 +28,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Tram_Bridge%2C_Preston_232-01.jpg/256px-Old_Tram_Bridge%2C_Preston_232-01.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Tram_Bridge%2C_Preston_232-01.jpg/330px-Old_Tram_Bridge%2C_Preston_232-01.jpg",
       "title": "Dr Greg / CC BY (https://creativecommons.org/licenses/by/3.0)",
       "caption": "The Old Tram Bridge across the Ribble in Preston, Lancashire, England. This is a 1960s concrete replica of a wooden trestle bridge that once carried the Lancaster Canal Tramroad across the river. The trail runs along the River Ribble through Avenham Park here. Preston is also notable as the midpoint of the National Cycle Network. The route has encouraged an increased interest in cycling in the Preston area. It's popularity has also led to proposals to create similar routes in nearby Blackburn, Leyland and Longridge."
     },
@@ -38,7 +38,7 @@
       "caption": "Preston 'Riversway' Docklands. Preston's Albert Edward dock has been rejuvenated with recreational boating facilities, modern flats and a retail estate. The steeple of St Walburge's Church, one of the highest in England, is visible in the background."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brockholes_Visitor_Centre.JPG/256px-Brockholes_Visitor_Centre.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brockholes_Visitor_Centre.JPG/330px-Brockholes_Visitor_Centre.JPG",
       "title": "Novalia / CC0",
       "caption": "Brockholes Visitor Centre. There's pools, reedbeds and woodland at this nature reserve on the outskirts of Preston. It's great for birdwatching with lots of bird hides and surfaced footpaths to try."
     },
@@ -58,7 +58,7 @@
       "caption": "Brockholes Bridge Carries the A59 over the River Ribble"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg/512px-The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg?20220518023830",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg/500px-The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg?20220518023830",
       "title": "The Millennium Ribble Link by K A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Millennium Ribble Link and the Savick Brook, on the western side of Preston. The Ribble Link is a linear water park and new navigation which links the once-isolated Lancaster Canal in Lancashire, England to the River Ribble. There is a nice cycle and walking path running alongside it in the Lea area."
     },
@@ -86,24 +86,25 @@
   "display_address": "Avenham Pavillion Cafe, Broad Walk, Broadgate, Avenham, Preston, Lancashire, England, PR1 8JT, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 to 3 hours",
+  "difficulty": "easy",
   "terrain": [
     "park",
-    "river",
+    "riverside",
+    "docklands",
     "countryside"
   ],
   "points_of_interest": [
-    "gardens",
-    "nature reserve"
+    "park",
+    "nature reserve",
+    "marina"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

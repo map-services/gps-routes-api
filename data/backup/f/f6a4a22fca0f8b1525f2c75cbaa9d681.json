@@ -1,99 +1,112 @@
 {
-    "created_at": "2025-01-06T02:56:57.239980+00:00",
-    "objectID": "f6a4a22fca0f8b1525f2c75cbaa9d681",
-    "ref": "anglers-country-park-walking-and-cycle-route",
-    "title": "Anglers Country Park Walking and Cycle Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anglers_Country_Park._-_geograph.org.uk_-_74091.jpg",
-    "nearby": [
-        {
-            "description": "Wintersett Reservoir",
-            "objectID": "e7401baaf8b91e9ee164c4a31f913d15",
-            "ref": "wintersett-reservoir-walking-route"
-        },
-        {
-            "description": "Barnsley Canal",
-            "objectID": "bb0aed1edc31fff703289a79911dd6ec",
-            "ref": "barnsley-canal-walking-and-cycle-route"
-        },
-        {
-            "description": "Nostell Priory",
-            "objectID": "a818937986884063f252277c9055026b",
-            "ref": "nostell-priory-walking-route"
-        },
-        {
-            "description": "Leeds to Barnsley",
-            "objectID": "ec1bac2387b571543afc5981b87a97a1",
-            "ref": "leeds-to-barnsley-cycle-route"
-        },
-        {
-            "description": "Trans Pennine Trail",
-            "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-            "ref": "trans-pennine-trail-walking-and-cycle-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f6a4a22fca0f8b1525f2c75cbaa9d681.gpx",
-    "_geoloc": {
-        "lat": 53.6354434306,
-        "lng": -1.4320020597
+  "created_at": "2025-01-06T02:56:57.239980+00:00",
+  "objectID": "f6a4a22fca0f8b1525f2c75cbaa9d681",
+  "ref": "anglers-country-park-walking-and-cycle-route",
+  "title": "Anglers Country Park Walking and Cycle Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anglers_Country_Park._-_geograph.org.uk_-_74091.jpg",
+  "nearby": [
+    {
+      "description": "Wintersett Reservoir",
+      "objectID": "e7401baaf8b91e9ee164c4a31f913d15",
+      "ref": "wintersett-reservoir-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anglers_Country_Park._-_geograph.org.uk_-_74091.jpg",
-            "title": "Steve Partridge / Anglers Country Park.",
-            "caption": "Birds on the lake in the park."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Blue_water_at_Anglers_Country_Park_-_geograph.org.uk_-_1087791.jpg",
-            "title": "SMJ / Blue water at Anglers Country Park",
-            "caption": "Blue water at Anglers Country Park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_North_Shore_of_Anglers_Country_Park_Lake_-_geograph.org.uk_-_702964.jpg",
-            "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The North Shore of Anglers Country Park Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Black_Beauty_meets_Duck_-_geograph.org.uk_-_491245.jpg",
-            "title": "John Fielding / Black Beauty meets Duck",
-            "caption": "Black Swan viewed from the lakeside walk"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/St_Michael_and_Our_Lady_Wragby_-_geograph.org.uk_-_827139.jpg",
-            "title": "John Fielding / St Michael & Our Lady Wragby",
-            "caption": "St Michael and Our Lady Wragby"
-        }
-    ],
-    "distance_km": 2.5,
-    "description": "Enjoy a peaceful walk or cycle around this pretty country park in Wakefield. The park consists of a large lake and pretty pond with several bird hides for you to observe the wildfowl visitors. These includes herons, coots, mallard, pied wagtail, osprey, widgeon and yellow wagtail. The lakeside path is perfect for a nice, easy stroll or ride. If you'd like to continue your activity then the nearby Barnsley Canal leading into Wakefield is a good option. Just south of the park you will find a nice walking trail along Wintersett Reservoir. Nostell Priory with its delightful gardens and 300 acres of parkland is also only a couple of miles away. Anglers Country Park is located just a few miles south east of Wakefield. See the Wakefield Cycle Routes page for more rides around the area.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head to the walker friendly Anglers Retreat for a rest and some refreshments after your walk. The nice country pub has a good menu and a nice garden to sit out in on warmer days. The Anglers was names Pub of the Year 2013 Runner-Up. You can find it a short stroll to the south of the park on Ferry Top Lane with a postcode of WF4 2PY for your sat navs."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The park is a great place for a dog walk and you will probably see plenty of other owners on your visit. The Anglers pub mentioned above is also dog friendly."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just over two miles west of the reservoir you'll find Newmillerdam Country Park. There's another nice lake and some woodland trails to be found here. The popular Wakefield Wheel Cycle Route passes the reservoir. The 38 mile circular route visits several of the local highlights, using a waymarked trail. It's a great way of exploring the rivers, canals, parks, woods, lakes and countryside around the town."
-        }
-    ],
-    "region": "West Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Lakeside Walk, Wintersett, Wakefield, West Yorkshire, England, WF4 2EE, United Kingdom",
-    "postcode": "WF4 2EE",
-    "district": "Wakefield",
-    "county": null,
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "easy",
-    "terrain": ["lake", "pond", "woodland"],
-    "points_of_interest": ["bird hide", "walking trail", "gardens"],
-    "facilities": ["visitor center", "car park", "dog friendly"],
-    "route_type": "circular",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Barnsley Canal",
+      "objectID": "bb0aed1edc31fff703289a79911dd6ec",
+      "ref": "barnsley-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Nostell Priory",
+      "objectID": "a818937986884063f252277c9055026b",
+      "ref": "nostell-priory-walking-route"
+    },
+    {
+      "description": "Leeds to Barnsley",
+      "objectID": "ec1bac2387b571543afc5981b87a97a1",
+      "ref": "leeds-to-barnsley-cycle-route"
+    },
+    {
+      "description": "Trans Pennine Trail",
+      "objectID": "92a97add7ee3d3d55980d4993637b5c5",
+      "ref": "trans-pennine-trail-walking-and-cycle-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f6a4a22fca0f8b1525f2c75cbaa9d681.gpx",
+  "_geoloc": {
+    "lat": 53.6354434306,
+    "lng": -1.4320020597
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Anglers_Country_Park._-_geograph.org.uk_-_74091.jpg",
+      "title": "Steve Partridge / Anglers Country Park.",
+      "caption": "Birds on the lake in the park."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Blue_water_at_Anglers_Country_Park_-_geograph.org.uk_-_1087791.jpg",
+      "title": "SMJ / Blue water at Anglers Country Park",
+      "caption": "Blue water at Anglers Country Park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_North_Shore_of_Anglers_Country_Park_Lake_-_geograph.org.uk_-_702964.jpg",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The North Shore of Anglers Country Park Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Black_Beauty_meets_Duck_-_geograph.org.uk_-_491245.jpg",
+      "title": "John Fielding / Black Beauty meets Duck",
+      "caption": "Black Swan viewed from the lakeside walk"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/St_Michael_and_Our_Lady_Wragby_-_geograph.org.uk_-_827139.jpg",
+      "title": "John Fielding / St Michael & Our Lady Wragby",
+      "caption": "St Michael and Our Lady Wragby"
+    }
+  ],
+  "distance_km": 2.5,
+  "description": "Enjoy a peaceful walk or cycle around this pretty country park in Wakefield. The park consists of a large lake and pretty pond with several bird hides for you to observe the wildfowl visitors. These includes herons, coots, mallard, pied wagtail, osprey, widgeon and yellow wagtail. The lakeside path is perfect for a nice, easy stroll or ride. If you'd like to continue your activity then the nearby Barnsley Canal leading into Wakefield is a good option. Just south of the park you will find a nice walking trail along Wintersett Reservoir. Nostell Priory with its delightful gardens and 300 acres of parkland is also only a couple of miles away. Anglers Country Park is located just a few miles south east of Wakefield. See the Wakefield Cycle Routes page for more rides around the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the walker friendly Anglers Retreat for a rest and some refreshments after your walk. The nice country pub has a good menu and a nice garden to sit out in on warmer days. The Anglers was names Pub of the Year 2013 Runner-Up. You can find it a short stroll to the south of the park on Ferry Top Lane with a postcode of WF4 2PY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place for a dog walk and you will probably see plenty of other owners on your visit. The Anglers pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just over two miles west of the reservoir you'll find Newmillerdam Country Park. There's another nice lake and some woodland trails to be found here. The popular Wakefield Wheel Cycle Route passes the reservoir. The 38 mile circular route visits several of the local highlights, using a waymarked trail. It's a great way of exploring the rivers, canals, parks, woods, lakes and countryside around the town."
+    }
+  ],
+  "region": "West Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lakeside Walk, Wintersett, Wakefield, West Yorkshire, England, WF4 2EE, United Kingdom",
+  "postcode": "WF4 2EE",
+  "district": "Wakefield",
+  "county": null,
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "parkland"
+  ],
+  "points_of_interest": [
+    "lake",
+    "pond",
+    "bird hide",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

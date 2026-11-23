@@ -1,97 +1,106 @@
 {
-    "created_at": "2025-01-06T01:18:22.548100+00:00",
-    "objectID": "849a0c89cc5f92f59abf1e0cd8b431f1",
-    "ref": "cransley-reservoir-walking-route",
-    "title": "Cransley Reservoir Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_view_of_the_Cransley_Reservoir_-_geograph.org.uk_-_1095148.jpg",
-    "nearby": [
-        {
-            "description": "Kettering",
-            "objectID": "b4c0ef4c39031e1b9ab8f8b902166327",
-            "ref": "kettering-walking-route"
-        },
-        {
-            "description": "Thrapston",
-            "objectID": "078991c3700bf1370329c1d2d0e7fa17",
-            "ref": "thrapston-walking-route"
-        },
-        {
-            "description": "Titchmarsh Nature Reserve",
-            "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
-            "ref": "titchmarsh-nature-reserve-walking-route"
-        },
-        {
-            "description": "Barnwell Country Park",
-            "objectID": "c4b3d0640c3916a7ef301b9d782e5549",
-            "ref": "barnwell-country-park-walking-route"
-        },
-        {
-            "description": "Nene Way",
-            "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
-            "ref": "nene-way-walking-route"
-        },
-        {
-            "description": "Stanwick Lakes",
-            "objectID": "f9e110757579a1deb8828fdc69ed12c3",
-            "ref": "stanwick-lakes-walking-and-cycle-route"
-        },
-        {
-            "description": "Fermyn Woods",
-            "objectID": "0cdf6632ade4d869c2e2ab1c1df278b4",
-            "ref": "fermyn-woods-walking-and-cycle-route"
-        },
-        {
-            "description": "Ringstead Circular Walk",
-            "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
-            "ref": "ringstead-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/849a0c89cc5f92f59abf1e0cd8b431f1.gpx",
-    "_geoloc": {
-        "lat": 52.4028875007,
-        "lng": -0.7764393589
+  "created_at": "2025-01-06T01:18:22.548100+00:00",
+  "objectID": "849a0c89cc5f92f59abf1e0cd8b431f1",
+  "ref": "cransley-reservoir-walking-route",
+  "title": "Cransley Reservoir Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_view_of_the_Cransley_Reservoir_-_geograph.org.uk_-_1095148.jpg",
+  "nearby": [
+    {
+      "description": "Kettering",
+      "objectID": "b4c0ef4c39031e1b9ab8f8b902166327",
+      "ref": "kettering-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_view_of_the_Cransley_Reservoir_-_geograph.org.uk_-_1095148.jpg",
-            "title": "James Haynes / A view of the Cransley Reservoir",
-            "caption": "A view of the Cransley Reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Thorpe_Malsor_-_geograph.org.uk_-_390701.jpg",
-            "title": "Les Harvey / Thorpe Malsor",
-            "caption": "Thorpe Malsor"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Farmland_NE_of_Loddington_-_geograph.org.uk_-_46856.jpg",
-            "title": "John Stolarski / Farmland NE of Loddington",
-            "caption": "Farmland NE of Loddington"
-        }
-    ],
-    "distance_km": 3.0,
-    "description": "This walk visits Cransley Reservoir from the village of Thorpe Malsor in Northamptonshire. You can start the walk in the village and then follow footpaths south west to the reservoir. You can walk along the eastern end of the water before following country lanes back to the village. There is a sailing club on the eastern side which you can join to try some sailing on the lake. The reservoir can also be reached from Loddington which lies just to the north west.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The reservoir is located just to the east of Kettering where you can visit the lovely Boughton House and explore the landscaped gardens. For more walking ideas in the area see the Northamptonshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/hWsa33PV3X0",
-    "district": "Thorpe Malsor",
-    "county": "North Northamptonshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Church Way, Thorpe Malsor, North Northamptonshire, England, NN14 1JS, United Kingdom",
-    "postcode": "NN14 1JS",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["rural", "waterfront"],
-    "points_of_interest": ["lake", "country lane"],
-    "facilities": ["sailing club"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Thrapston",
+      "objectID": "078991c3700bf1370329c1d2d0e7fa17",
+      "ref": "thrapston-walking-route"
+    },
+    {
+      "description": "Titchmarsh Nature Reserve",
+      "objectID": "ce52019fa42cc2e75f7bab25f7d24381",
+      "ref": "titchmarsh-nature-reserve-walking-route"
+    },
+    {
+      "description": "Barnwell Country Park",
+      "objectID": "c4b3d0640c3916a7ef301b9d782e5549",
+      "ref": "barnwell-country-park-walking-route"
+    },
+    {
+      "description": "Nene Way",
+      "objectID": "069bba7a02799aa7ca3ec8c4f9c867fe",
+      "ref": "nene-way-walking-route"
+    },
+    {
+      "description": "Stanwick Lakes",
+      "objectID": "f9e110757579a1deb8828fdc69ed12c3",
+      "ref": "stanwick-lakes-walking-and-cycle-route"
+    },
+    {
+      "description": "Fermyn Woods",
+      "objectID": "0cdf6632ade4d869c2e2ab1c1df278b4",
+      "ref": "fermyn-woods-walking-and-cycle-route"
+    },
+    {
+      "description": "Ringstead Circular Walk",
+      "objectID": "326168442b7c60a9cbc9eb36dc91b26f",
+      "ref": "ringstead-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/849a0c89cc5f92f59abf1e0cd8b431f1.gpx",
+  "_geoloc": {
+    "lat": 52.4028875007,
+    "lng": -0.7764393589
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_view_of_the_Cransley_Reservoir_-_geograph.org.uk_-_1095148.jpg",
+      "title": "James Haynes / A view of the Cransley Reservoir",
+      "caption": "A view of the Cransley Reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Thorpe_Malsor_-_geograph.org.uk_-_390701.jpg",
+      "title": "Les Harvey / Thorpe Malsor",
+      "caption": "Thorpe Malsor"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Farmland_NE_of_Loddington_-_geograph.org.uk_-_46856.jpg",
+      "title": "John Stolarski / Farmland NE of Loddington",
+      "caption": "Farmland NE of Loddington"
+    }
+  ],
+  "distance_km": 3.0,
+  "description": "This walk visits Cransley Reservoir from the village of Thorpe Malsor in Northamptonshire. You can start the walk in the village and then follow footpaths south west to the reservoir. You can walk along the eastern end of the water before following country lanes back to the village. There is a sailing club on the eastern side which you can join to try some sailing on the lake. The reservoir can also be reached from Loddington which lies just to the north west.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The reservoir is located just to the east of Kettering where you can visit the lovely Boughton House and explore the landscaped gardens. For more walking ideas in the area see the Northamptonshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/hWsa33PV3X0",
+  "district": "Thorpe Malsor",
+  "county": "North Northamptonshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Way, Thorpe Malsor, North Northamptonshire, England, NN14 1JS, United Kingdom",
+  "postcode": "NN14 1JS",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "reservoir"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "sailing"
+  ]
 }

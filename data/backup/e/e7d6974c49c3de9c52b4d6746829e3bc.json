@@ -3,7 +3,7 @@
   "objectID": "e7d6974c49c3de9c52b4d6746829e3bc",
   "ref": "bethersden-walking-route",
   "title": "Bethersden Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg/512px-Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg/500px-Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e7d6974c49c3de9c52b4d6746829e3bc.gpx",
   "_geoloc": {
     "lat": 51.1292507231,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg/512px-Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg/500px-Bethersden%2C_Forge_Hill_-_geograph.org.uk_-_2378818.jpg",
       "title": "Bethersden: Forge Hill by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bethersden, Forge Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Bull_Inn%2C_Bethersden_-_geograph.org.uk_-_1974745.jpg/512px-The_Bull_Inn%2C_Bethersden_-_geograph.org.uk_-_1974745.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Bull_Inn%2C_Bethersden_-_geograph.org.uk_-_1974745.jpg/500px-The_Bull_Inn%2C_Bethersden_-_geograph.org.uk_-_1974745.jpg",
       "title": "The Bull Inn, Bethersden by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Bull Inn, Bethersden"
     },
@@ -26,7 +26,7 @@
       "caption": "Church of St Margaret, Bethersden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Forgefield_Oast%2C_Bethersden_-_geograph.org.uk_-_2941748.jpg/512px-Forgefield_Oast%2C_Bethersden_-_geograph.org.uk_-_2941748.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Forgefield_Oast%2C_Bethersden_-_geograph.org.uk_-_2941748.jpg/500px-Forgefield_Oast%2C_Bethersden_-_geograph.org.uk_-_2941748.jpg",
       "title": "Forgefield Oast, Bethersden by Julian P Guffogg, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Forgefield Oast, Bethersden"
     }
@@ -44,18 +44,15 @@
   "district": "Ashford",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "trails"
+    "common"
   ],
-  "facilities": [
-    "visitor center"
-  ],
+  "facilities": [],
   "route_type": "out and back",
   "activities": [
     "walking",

@@ -3,7 +3,7 @@
   "objectID": "d3a1bf77d3e246b4a6723f90ee3f0bdd",
   "ref": "heybridge-basin-walking-route",
   "title": "Heybridge Basin Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heybridge_Basin_%286201059028%29.jpg/512px-Heybridge_Basin_%286201059028%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heybridge_Basin_%286201059028%29.jpg/500px-Heybridge_Basin_%286201059028%29.jpg",
   "nearby": [
     {
       "description": "Blackwater Estuary",
@@ -28,22 +28,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heybridge_Basin_%286201059028%29.jpg/512px-Heybridge_Basin_%286201059028%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heybridge_Basin_%286201059028%29.jpg/500px-Heybridge_Basin_%286201059028%29.jpg",
       "title": "Ronnie Macdonald from Chelmsford, United Kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Heybridge Basin 1"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heybridge_Basin_%286200973204%29.jpg/512px-Heybridge_Basin_%286200973204%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heybridge_Basin_%286200973204%29.jpg/500px-Heybridge_Basin_%286200973204%29.jpg",
       "title": "Ronnie Macdonald from Chelmsford, United Kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Heybridge Basin 2"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heybridge_Basin_%286200884728%29.jpg/512px-Heybridge_Basin_%286200884728%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heybridge_Basin_%286200884728%29.jpg/500px-Heybridge_Basin_%286200884728%29.jpg",
       "title": "Ronnie Macdonald from Chelmsford, United Kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Heybridge Basin 3"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heybridge_Basin_%286200391905%29.jpg/512px-Heybridge_Basin_%286200391905%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heybridge_Basin_%286200391905%29.jpg/500px-Heybridge_Basin_%286200391905%29.jpg",
       "title": "Ronnie Macdonald from Chelmsford, United Kingdom [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Heybridge Basin 4"
     },
@@ -86,22 +86,21 @@
   "display_address": "Basin Road, Heybridge Basin, Maldon, Essex, England, CM9 4RS, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "footpath",
-    "estuary"
+    "waterside",
+    "flat"
   ],
   "points_of_interest": [
-    "island",
-    "nature reserve"
+    "nature reserve",
+    "historical site"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

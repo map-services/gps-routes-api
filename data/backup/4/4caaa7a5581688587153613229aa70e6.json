@@ -3,7 +3,7 @@
   "objectID": "4caaa7a5581688587153613229aa70e6",
   "ref": "sheffield-country-walk-walking-route",
   "title": "Sheffield Country Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg/512px-Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg/500px-Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg",
   "nearby": [
     {
       "description": "Damflask Reservoir",
@@ -63,7 +63,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg/512px-Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg/500px-Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg",
       "title": "Sheffield Country walk looking towards Strines Moor and Boot's Folly by Chris Morgan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sheffield Country walk looking towards Strines Moor and Boot's Folly"
     },
@@ -73,7 +73,7 @@
       "caption": "Trig Point Stanage Edge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Sheffield_Country_Walk_near_Bowshaw_-_geograph.org.uk_-_2967641.jpg/512px-The_Sheffield_Country_Walk_near_Bowshaw_-_geograph.org.uk_-_2967641.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Sheffield_Country_Walk_near_Bowshaw_-_geograph.org.uk_-_2967641.jpg/500px-The_Sheffield_Country_Walk_near_Bowshaw_-_geograph.org.uk_-_2967641.jpg",
       "title": "The Sheffield Country Walk near Bowshaw by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Sheffield Country Walk near Bowshaw"
     },
@@ -88,7 +88,7 @@
       "caption": "Burbage view"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Sheffield_Country_Walk_near_Eckington_-_geograph.org.uk_-_2012390.jpg/512px-The_Sheffield_Country_Walk_near_Eckington_-_geograph.org.uk_-_2012390.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Sheffield_Country_Walk_near_Eckington_-_geograph.org.uk_-_2012390.jpg/500px-The_Sheffield_Country_Walk_near_Eckington_-_geograph.org.uk_-_2012390.jpg",
       "title": "The Sheffield Country Walk near Eckington by Jonathan Clitheroe, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Near Eckington"
     },
@@ -126,18 +126,20 @@
   "postcode": "S21 4FP",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "a full day",
   "difficulty": "moderate",
   "terrain": [
+    "countryside",
     "reservoir",
-    "country park",
-    "edge"
+    "dyke"
   ],
   "points_of_interest": [
-    "viewpoint"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

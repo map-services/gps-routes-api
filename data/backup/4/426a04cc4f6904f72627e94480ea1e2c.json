@@ -3,7 +3,7 @@
   "objectID": "426a04cc4f6904f72627e94480ea1e2c",
   "ref": "brighton-to-eastbourne-walking-route",
   "title": "Brighton to Eastbourne Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/500px-Brighton_Undercliff_Walk_2.JPG",
   "nearby": [
     {
       "description": "Undercliff Walk Brighton",
@@ -43,12 +43,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/500px-Brighton_Undercliff_Walk_2.JPG",
       "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Brighton Undercliff Walk 2"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brighton_Undercliff_Walk_and_beach.JPG/512px-Brighton_Undercliff_Walk_and_beach.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brighton_Undercliff_Walk_and_beach.JPG/500px-Brighton_Undercliff_Walk_and_beach.JPG",
       "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Brighton Undercliff Walk and beach"
     },
@@ -58,7 +58,7 @@
       "caption": "Cliff Path Peacehaven"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PeacehavenMemorial.jpg/512px-PeacehavenMemorial.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PeacehavenMemorial.jpg/500px-PeacehavenMemorial.jpg",
       "title": "By MortimerCat (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
       "caption": "Peace haven Memorial"
     },
@@ -68,7 +68,7 @@
       "caption": "Seaford beach, East Sussex"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cuckmere_River_at_Seven_Sisters_Country_Park.JPG/512px-Cuckmere_River_at_Seven_Sisters_Country_Park.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cuckmere_River_at_Seven_Sisters_Country_Park.JPG/500px-Cuckmere_River_at_Seven_Sisters_Country_Park.JPG",
       "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Cuckmere River at Seven Sisters Country Park"
     },
@@ -78,7 +78,7 @@
       "caption": "Seven Sisters Country Park Sign"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Eastbourne_Pier_March_2017_03.jpg/512px-Eastbourne_Pier_March_2017_03.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Eastbourne_Pier_March_2017_03.jpg/500px-Eastbourne_Pier_March_2017_03.jpg",
       "title": "By Arild V\u00e5gen (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Eastbourne Pier"
     }
@@ -96,24 +96,22 @@
   "display_address": "Pier Court, 10, Marine Parade, Kemptown, Brighton, Brighton and Hove, England, BN2 1WP, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "12 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "cliff"
+    "cliff top",
+    "riverside"
   ],
   "points_of_interest": [
-    "historical monument",
-    "nature reserve",
-    "country park",
+    "viewpoint",
+    "historical site",
     "lighthouse"
   ],
   "facilities": [
-    "cafe",
-    "visitor center",
-    "car park"
+    "cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

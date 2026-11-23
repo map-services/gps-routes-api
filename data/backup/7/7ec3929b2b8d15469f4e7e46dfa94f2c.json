@@ -53,7 +53,7 @@
       "caption": "Sandy beach and waders. There's three miles or so of superb beach stretching northwards from Rhossili to Llangennith Burrows. Worms Head in the distance."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhossili_Bay_-_geograph.org.uk_-_3739877.jpg/512px-Rhossili_Bay_-_geograph.org.uk_-_3739877.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhossili_Bay_-_geograph.org.uk_-_3739877.jpg/500px-Rhossili_Bay_-_geograph.org.uk_-_3739877.jpg",
       "title": "Rhossili Bay by Mr Eugene Birchall, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rhossili Bay"
     },
@@ -87,19 +87,22 @@
   "district": "Llangennith",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
+    "coastal",
     "beach",
-    "cliff tops"
+    "cliff"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

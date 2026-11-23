@@ -3,7 +3,7 @@
   "objectID": "2b5825031438ff9d3e74569d4dd72955",
   "ref": "winsford-walking-route",
   "title": "Winsford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/War_Memorial_Winsford.jpg/512px-War_Memorial_Winsford.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/War_Memorial_Winsford.jpg/500px-War_Memorial_Winsford.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b5825031438ff9d3e74569d4dd72955.gpx",
   "_geoloc": {
     "lat": 53.1935441242,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/War_Memorial_Winsford.jpg/512px-War_Memorial_Winsford.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/War_Memorial_Winsford.jpg/500px-War_Memorial_Winsford.jpg",
       "title": "Peter Turner / War memorials Winsford",
       "caption": "War Memorial in Winsford town centre."
     },
@@ -78,22 +78,22 @@
   "display_address": "Wharton Road, Wharton, Winsford, Cheshire West and Chester, England, CW7 3AA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland"
+    "waterside"
   ],
   "points_of_interest": [
-    "historical site",
-    "wildlife"
+    "reservoir",
+    "salt mine",
+    "locks"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

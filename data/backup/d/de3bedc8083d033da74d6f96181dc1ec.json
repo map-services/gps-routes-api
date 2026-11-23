@@ -1,121 +1,133 @@
 {
-    "created_at": "2025-01-05T23:47:48.497766+00:00",
-    "objectID": "de3bedc8083d033da74d6f96181dc1ec",
-    "ref": "loch-ettrick-walking-route",
-    "title": "Loch Ettrick Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loch_Ettrick_-_geograph.org.uk_-_160303.jpg",
-    "nearby": [
-        {
-            "description": "Mabie Forest",
-            "objectID": "788bf75ff8ea9a13d98d8688f7b98095",
-            "ref": "mabie-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Loch Arthur",
-            "objectID": "8ab2569cbdea18c97d5ab3854caa7fba",
-            "ref": "loch-arthur-walking-route"
-        },
-        {
-            "description": "Loch Ken",
-            "objectID": "e37a5ee665e76e14f89a7cd8e1eb19ab",
-            "ref": "loch-ken-walking-route"
-        },
-        {
-            "description": "Rockcliffe",
-            "objectID": "15f41dfc3b0a3f74a81f3fd0242b765d",
-            "ref": "rockcliffe-walking-route"
-        },
-        {
-            "description": "Dalbeattie Forest",
-            "objectID": "d2ce494b668d40b6a4939a69d4757b92",
-            "ref": "dalbeattie-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Daer Reservoir",
-            "objectID": "b0623bd9db322d56633cb7235a535905",
-            "ref": "daer-reservoir-walking-route"
-        },
-        {
-            "description": "Southern Upland Way",
-            "objectID": "d6cd1ceadfa9a4d01878922009d6b35c",
-            "ref": "southern-upland-way-walking-route"
-        },
-        {
-            "description": "Crichope Linn",
-            "objectID": "85e63394c0fe336bd5c53781e82a9e67",
-            "ref": "crichope-linn-walking-route"
-        },
-        {
-            "description": "Afton Reservoir",
-            "objectID": "85bd39451e6ee702dd3a5fc78df3c0bd",
-            "ref": "afton-reservoir-walking-route"
-        },
-        {
-            "description": "Drumlanrig Castle",
-            "objectID": "b51e7cabdb1ead11903de4ca26f9abdc",
-            "ref": "drumlanrig-castle-walking-route"
-        },
-        {
-            "description": "Ae Forest",
-            "objectID": "19614ee321f13902d884edb1a51561a1",
-            "ref": "ae-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Romans and Reivers Route",
-            "objectID": "5cbbbc073939c6536f0384286fa2ac8d",
-            "ref": "romans-and-reivers-route-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/de3bedc8083d033da74d6f96181dc1ec.gpx",
-    "_geoloc": {
-        "lat": 55.2258970711,
-        "lng": -3.6630636558
+  "created_at": "2025-01-05T23:47:48.497766+00:00",
+  "objectID": "de3bedc8083d033da74d6f96181dc1ec",
+  "ref": "loch-ettrick-walking-route",
+  "title": "Loch Ettrick Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loch_Ettrick_-_geograph.org.uk_-_160303.jpg",
+  "nearby": [
+    {
+      "description": "Mabie Forest",
+      "objectID": "788bf75ff8ea9a13d98d8688f7b98095",
+      "ref": "mabie-forest-walking-and-cycle-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loch_Ettrick_-_geograph.org.uk_-_160303.jpg",
-            "title": "Iain Thompson / Loch Ettrick",
-            "caption": "Loch Ettrick 1"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Loch_Ettrick_-_geograph.org.uk_-_1503265.jpg",
-            "title": "Colin Pyle / Loch Ettrick",
-            "caption": "Loch Ettrick 2"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Track_in_Ettrick_Hill_Forest_-_geograph.org.uk_-_160306.jpg",
-            "title": "Iain Thompson / Track in Ettrick Hill Forest",
-            "caption": "Track in Ettrick Hill Forest"
-        }
-    ],
-    "distance_km": 1.0,
-    "description": "This walk visits the lovely Loch Ettrick near the village of Thornhill in Dumfries and Galloway. It's a small but very beautiful loch surrounded by attractive woodland trails. The loch is also nice for swimming and kayaking. There are parking areas on the country lane running along the southern side of the loch. The loch is located on the western side of the Ae Forest where there are lots of good footpaths and cycling trails to try. The long distance Romans and Reivers Route also starts in the forest. This 52 mile route follows the old Roman Roads to Hawick in the Scottish Borders. Following the trail north east will take you to Moffat where you can enjoy a riverside walk along the River Annan on the Annadale Way.",
-    "details": [
-        {
-            "subtitle": "Dog Walking",
-            "content": "The loch and the surrounding woodland trails are ideal for dog walking."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the north west you'll find the Crichope Linn waterfall near Gatelawbridge. Here you'll find a wooded red sandstone gorge with interesting rock formations, carvings and a pretty waterfall. Head south and you could visit Mabie Forest, Dalbeattie Forest, Loch Arthur, Loch Ken and the National Trust's Rockcliffe. To the north there's the lovely Daer Reservoir which is located on the epic Southern Upland Way long distance trail. To the north west you'll find the 17th century Drumlanrig Castle. The castle is surrounded by extensive grounds with several waymarked walking paths and some challenging mountain bike trails to try. To the south east there's Lochmaben where you can enjoy a lovely circular trail around Castle Loch. There's also the remains of the 12th century Lochmaben Castle to see here."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/TtRb4W0K7TU",
-    "county": "Dumfries and Galloway",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "C6n, Park, Dumfries and Galloway, Alba / Scotland, DG3 5HL, United Kingdom",
-    "postcode": "DG3 5HL",
-    "district": "Park",
-    "state": "Alba / Scotland",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["woodland"],
-    "points_of_interest": ["footpath", "cycling trails"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking", "cycling"]
+    {
+      "description": "Loch Arthur",
+      "objectID": "8ab2569cbdea18c97d5ab3854caa7fba",
+      "ref": "loch-arthur-walking-route"
+    },
+    {
+      "description": "Loch Ken",
+      "objectID": "e37a5ee665e76e14f89a7cd8e1eb19ab",
+      "ref": "loch-ken-walking-route"
+    },
+    {
+      "description": "Rockcliffe",
+      "objectID": "15f41dfc3b0a3f74a81f3fd0242b765d",
+      "ref": "rockcliffe-walking-route"
+    },
+    {
+      "description": "Dalbeattie Forest",
+      "objectID": "d2ce494b668d40b6a4939a69d4757b92",
+      "ref": "dalbeattie-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Daer Reservoir",
+      "objectID": "b0623bd9db322d56633cb7235a535905",
+      "ref": "daer-reservoir-walking-route"
+    },
+    {
+      "description": "Southern Upland Way",
+      "objectID": "d6cd1ceadfa9a4d01878922009d6b35c",
+      "ref": "southern-upland-way-walking-route"
+    },
+    {
+      "description": "Crichope Linn",
+      "objectID": "85e63394c0fe336bd5c53781e82a9e67",
+      "ref": "crichope-linn-walking-route"
+    },
+    {
+      "description": "Afton Reservoir",
+      "objectID": "85bd39451e6ee702dd3a5fc78df3c0bd",
+      "ref": "afton-reservoir-walking-route"
+    },
+    {
+      "description": "Drumlanrig Castle",
+      "objectID": "b51e7cabdb1ead11903de4ca26f9abdc",
+      "ref": "drumlanrig-castle-walking-route"
+    },
+    {
+      "description": "Ae Forest",
+      "objectID": "19614ee321f13902d884edb1a51561a1",
+      "ref": "ae-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Romans and Reivers Route",
+      "objectID": "5cbbbc073939c6536f0384286fa2ac8d",
+      "ref": "romans-and-reivers-route-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/de3bedc8083d033da74d6f96181dc1ec.gpx",
+  "_geoloc": {
+    "lat": 55.2258970711,
+    "lng": -3.6630636558
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loch_Ettrick_-_geograph.org.uk_-_160303.jpg",
+      "title": "Iain Thompson / Loch Ettrick",
+      "caption": "Loch Ettrick 1"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Loch_Ettrick_-_geograph.org.uk_-_1503265.jpg",
+      "title": "Colin Pyle / Loch Ettrick",
+      "caption": "Loch Ettrick 2"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Track_in_Ettrick_Hill_Forest_-_geograph.org.uk_-_160306.jpg",
+      "title": "Iain Thompson / Track in Ettrick Hill Forest",
+      "caption": "Track in Ettrick Hill Forest"
+    }
+  ],
+  "distance_km": 1.0,
+  "description": "This walk visits the lovely Loch Ettrick near the village of Thornhill in Dumfries and Galloway. It's a small but very beautiful loch surrounded by attractive woodland trails. The loch is also nice for swimming and kayaking. There are parking areas on the country lane running along the southern side of the loch. The loch is located on the western side of the Ae Forest where there are lots of good footpaths and cycling trails to try. The long distance Romans and Reivers Route also starts in the forest. This 52 mile route follows the old Roman Roads to Hawick in the Scottish Borders. Following the trail north east will take you to Moffat where you can enjoy a riverside walk along the River Annan on the Annadale Way.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The loch and the surrounding woodland trails are ideal for dog walking."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north west you'll find the Crichope Linn waterfall near Gatelawbridge. Here you'll find a wooded red sandstone gorge with interesting rock formations, carvings and a pretty waterfall. Head south and you could visit Mabie Forest, Dalbeattie Forest, Loch Arthur, Loch Ken and the National Trust's Rockcliffe. To the north there's the lovely Daer Reservoir which is located on the epic Southern Upland Way long distance trail. To the north west you'll find the 17th century Drumlanrig Castle. The castle is surrounded by extensive grounds with several waymarked walking paths and some challenging mountain bike trails to try. To the south east there's Lochmaben where you can enjoy a lovely circular trail around Castle Loch. There's also the remains of the 12th century Lochmaben Castle to see here."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/TtRb4W0K7TU",
+  "county": "Dumfries and Galloway",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "C6n, Park, Dumfries and Galloway, Alba / Scotland, DG3 5HL, United Kingdom",
+  "postcode": "DG3 5HL",
+  "district": "Park",
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "loch"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "swimming",
+    "kayaking",
+    "cycling"
+  ]
 }

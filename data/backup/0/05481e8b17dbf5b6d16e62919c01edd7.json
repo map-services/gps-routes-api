@@ -3,7 +3,7 @@
   "objectID": "05481e8b17dbf5b6d16e62919c01edd7",
   "ref": "westward-ho-walking-route",
   "title": "Westward Ho Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westward_Ho%21_%283562887362%29.jpg/512px-Westward_Ho%21_%283562887362%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westward_Ho%21_%283562887362%29.jpg/500px-Westward_Ho%21_%283562887362%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/05481e8b17dbf5b6d16e62919c01edd7.gpx",
   "_geoloc": {
     "lat": 51.0403921252,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westward_Ho%21_%283562887362%29.jpg/512px-Westward_Ho%21_%283562887362%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westward_Ho%21_%283562887362%29.jpg/500px-Westward_Ho%21_%283562887362%29.jpg",
       "title": "xlibber [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Westward Ho! beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seafront_at_Westward_Ho%21.jpg/512px-Seafront_at_Westward_Ho%21.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seafront_at_Westward_Ho%21.jpg/500px-Seafront_at_Westward_Ho%21.jpg",
       "title": "Ethan Doyle White [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "The seafront at Westward Ho! in North Devon. Twenty-first century apartment blocks can be seen on the left of the image, some still in a state of construction."
     },
@@ -26,7 +26,7 @@
       "caption": "Cliff walk at Westward Ho! Devon taken 1967 Cliff walk at Westward Ho! with the rocky shore on the left and the wide sweep of the bay in the distance."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Holy_Trinity_Church%2C_Westward_Ho%21.jpg/512px-Holy_Trinity_Church%2C_Westward_Ho%21.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Holy_Trinity_Church%2C_Westward_Ho%21.jpg/500px-Holy_Trinity_Church%2C_Westward_Ho%21.jpg",
       "title": "Ethan Doyle White [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Holy Trinity Church, Westward Ho!"
     },
@@ -70,20 +70,20 @@
   "display_address": "Ennisfarne Road, Northam, Westward Ho!, Torridge, Devon, England, EX39 1JX, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "woodland"
+    "sand dune",
+    "grassland"
   ],
   "points_of_interest": [
-    "nature reserve",
     "beach",
-    "river estuary"
+    "estuary",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "ferry service"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

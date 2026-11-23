@@ -3,7 +3,7 @@
   "objectID": "ae7ce45be7aed3eaec6774291786ce75",
   "ref": "didcot-walking-route",
   "title": "Didcot Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/City_of_Truro_3717_Didcot_%289%29.jpg/512px-City_of_Truro_3717_Didcot_%289%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/City_of_Truro_3717_Didcot_%289%29.jpg/500px-City_of_Truro_3717_Didcot_%289%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae7ce45be7aed3eaec6774291786ce75.gpx",
   "_geoloc": {
     "lat": 51.6110797265,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/City_of_Truro_3717_Didcot_%289%29.jpg/512px-City_of_Truro_3717_Didcot_%289%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/City_of_Truro_3717_Didcot_%289%29.jpg/500px-City_of_Truro_3717_Didcot_%289%29.jpg",
       "title": "Tony Hisgett from Birmingham, UK [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Steam train at Didcot Railway Centre"
     },
@@ -69,26 +69,22 @@
   "postcode": "OX11 7TW",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "5-6 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "countryside",
-    "river"
+    "country lane",
+    "public footpath",
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
-    "museum",
-    "hill summit",
-    "river"
+    "viewpoint",
+    "museum"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "pub/cafe",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

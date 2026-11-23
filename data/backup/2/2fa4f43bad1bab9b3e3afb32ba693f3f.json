@@ -3,7 +3,7 @@
   "objectID": "2fa4f43bad1bab9b3e3afb32ba693f3f",
   "ref": "tiptree-walking-route",
   "title": "Tiptree Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg/512px-West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg/500px-West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2fa4f43bad1bab9b3e3afb32ba693f3f.gpx",
   "_geoloc": {
     "lat": 51.8008087443,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg/512px-West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg/500px-West_End_Road%2C_Tiptree_Heath_%28geograph_4122905%29.jpg",
       "title": "Roger Jones / West End Road, Tiptree Heath",
       "caption": "West End Road, Tiptree Heath"
     },
@@ -78,22 +78,25 @@
   "postcode": "CO5 0PQ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "heathland",
-    "woodland"
+    "heath",
+    "woodland",
+    "countryside"
   ],
   "points_of_interest": [
     "ancient monument",
-    "woodland trails"
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

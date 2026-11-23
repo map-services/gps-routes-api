@@ -3,7 +3,7 @@
   "objectID": "7b9c8b9f69924c9e4a3ed329d55c112e",
   "ref": "overstrand-walking-route",
   "title": "Overstrand Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Overstrand_War_Memorial_%28geograph_4604725%29.jpg/512px-Overstrand_War_Memorial_%28geograph_4604725%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Overstrand_War_Memorial_%28geograph_4604725%29.jpg/500px-Overstrand_War_Memorial_%28geograph_4604725%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7b9c8b9f69924c9e4a3ed329d55c112e.gpx",
   "_geoloc": {
     "lat": 52.9197277842,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Overstrand_War_Memorial_%28geograph_4604725%29.jpg/512px-Overstrand_War_Memorial_%28geograph_4604725%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Overstrand_War_Memorial_%28geograph_4604725%29.jpg/500px-Overstrand_War_Memorial_%28geograph_4604725%29.jpg",
       "title": "Adrian S Pye / Overstrand War Memorial",
       "caption": "Overstrand War Memorial"
     },
@@ -36,12 +36,12 @@
       "caption": "Protecting the cliffs at Overstrand"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cromer_Pier_by_Amy_Letts.jpg/512px-Cromer_Pier_by_Amy_Letts.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cromer_Pier_by_Amy_Letts.jpg/500px-Cromer_Pier_by_Amy_Letts.jpg",
       "title": "AmY Letts, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Cromer Pier"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Felbrigg_Hall%2C_Norfolk_-_geograph.org.uk_-_2430285.jpg/512px-Felbrigg_Hall%2C_Norfolk_-_geograph.org.uk_-_2430285.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Felbrigg_Hall%2C_Norfolk_-_geograph.org.uk_-_2430285.jpg/500px-Felbrigg_Hall%2C_Norfolk_-_geograph.org.uk_-_2430285.jpg",
       "title": "Felbrigg Hall, Norfolk by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Felbrigg Hall, Norfolk"
     },
@@ -70,22 +70,21 @@
   "display_address": "Pauls Lane, Overstrand, North Norfolk, Norfolk, England, NR27 0PP, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "rural"
+    "coastal"
   ],
   "points_of_interest": [
-    "historic hall",
-    "parkland",
-    "gardens"
+    "historical site",
+    "park"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "play area",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

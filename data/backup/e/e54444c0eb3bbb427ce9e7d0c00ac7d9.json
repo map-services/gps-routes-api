@@ -3,7 +3,7 @@
   "objectID": "e54444c0eb3bbb427ce9e7d0c00ac7d9",
   "ref": "arbroath-coastal-path-walking-route",
   "title": "Arbroath Cliff Trail Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg/512px-Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg/500px-Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e54444c0eb3bbb427ce9e7d0c00ac7d9.gpx",
   "_geoloc": {
     "lat": 56.5608796154,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg/512px-Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg/500px-Cliffs_near_Arbroath_i_Seaton_Cliffs_Wildlife_Reserve_sign.jpg",
       "title": "Yottanesia [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Seaton Cliffs Wildlife Reserve sign"
     },
@@ -31,12 +31,12 @@
       "caption": "Carlingheugh Bay. The bay has some fine examples of eroded Old Red Sandstone outcrops. The ones in the centre are known as the Three Sisters."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Castlesea_Bay_-_panoramio.jpg/512px-Castlesea_Bay_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Castlesea_Bay_-_panoramio.jpg/500px-Castlesea_Bay_-_panoramio.jpg",
       "title": "Jim Dewar [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Castlesea Bay"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_But_n_Ben%2C_1_Auchmithie.jpg/512px-The_But_n_Ben%2C_1_Auchmithie.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_But_n_Ben%2C_1_Auchmithie.jpg/500px-The_But_n_Ben%2C_1_Auchmithie.jpg",
       "title": "Graeme Churchard [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "The But n Ben, Auchmithie"
     },
@@ -65,23 +65,23 @@
   "district": "Arbroath",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "cliff"
+    "coastal"
   ],
   "points_of_interest": [
     "wildlife reserve",
-    "sandstone outcrops"
+    "seabird colony",
+    "sandstone outcrop",
+    "harbour",
+    "beach"
   ],
   "facilities": [
     "car park",
-    "pub/cafe",
-    "beach",
-    "harbour"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

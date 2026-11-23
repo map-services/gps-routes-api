@@ -3,7 +3,7 @@
   "objectID": "4f19ac39933d8332d9e371737b31e66b",
   "ref": "snitterfield-walking-route",
   "title": "Snitterfield Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg/512px-Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg/500px-Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4f19ac39933d8332d9e371737b31e66b.gpx",
   "_geoloc": {
     "lat": 52.2364887467,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg/512px-Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg/500px-Houses_along_The_Green%2C_Snitterfield_-_geograph.org.uk_-_2267479.jpg",
       "title": "Houses along The Green, Snitterfield by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Houses along The Green, Snitterfield"
     },
@@ -21,7 +21,7 @@
       "caption": "Houses, Brookside, Snitterfield"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Snitterfield_Recreation_Ground_-_geograph.org.uk_-_2267883.jpg/512px-Snitterfield_Recreation_Ground_-_geograph.org.uk_-_2267883.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Snitterfield_Recreation_Ground_-_geograph.org.uk_-_2267883.jpg/500px-Snitterfield_Recreation_Ground_-_geograph.org.uk_-_2267883.jpg",
       "title": "Snitterfield Recreation Ground by Robin Stott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Snitterfield Recreation Ground"
     },
@@ -41,7 +41,7 @@
       "caption": "Monarch's Way leaving Stratford-upon-Avon. The footpath towards Snitterfield starting at the end of Maidenhead Road"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Obelisk_in_the_Welcombe_Hills_Country_Park_-_geograph.org.uk_-_2308271.jpg/512px-Obelisk_in_the_Welcombe_Hills_Country_Park_-_geograph.org.uk_-_2308271.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Obelisk_in_the_Welcombe_Hills_Country_Park_-_geograph.org.uk_-_2308271.jpg/500px-Obelisk_in_the_Welcombe_Hills_Country_Park_-_geograph.org.uk_-_2308271.jpg",
       "title": "Obelisk in the Welcombe Hills Country Park by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Obelisk in the Welcombe Hills Country Park"
     },
@@ -78,24 +78,24 @@
   "district": "Stratford-on-Avon",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "country park",
     "nature reserve",
-    "river"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park"
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "215a66c53eeb44ef9eecd53c62709c41",
   "ref": "dewstow-gardens-and-grottoes-walking-route",
   "title": "Dewstow Gardens and Grottoes Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg/512px-Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg/500px-Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/215a66c53eeb44ef9eecd53c62709c41.gpx",
   "_geoloc": {
     "lat": 51.5961348817,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg/512px-Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg/500px-Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg",
       "title": "Robin Drayton / Dewstow Gardens",
       "caption": "Pond and water garden at Dewstow Gardens \u2014 in Rogiet, Wales."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dewstow_Gardens_-_geograph.org.uk_-_656371.jpg/512px-Dewstow_Gardens_-_geograph.org.uk_-_656371.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dewstow_Gardens_-_geograph.org.uk_-_656371.jpg/500px-Dewstow_Gardens_-_geograph.org.uk_-_656371.jpg",
       "title": "Robin Drayton / Dewstow Gardens",
       "caption": "Dewstow Gardens"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Grotto%2C_Dewstow_Gardens_-_geograph.org.uk_-_656357.jpg/512px-Grotto%2C_Dewstow_Gardens_-_geograph.org.uk_-_656357.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Grotto%2C_Dewstow_Gardens_-_geograph.org.uk_-_656357.jpg/500px-Grotto%2C_Dewstow_Gardens_-_geograph.org.uk_-_656357.jpg",
       "title": "Robin Drayton / Grotto, Dewstow Gardens",
       "caption": "After being hidden under tons of rubble for over 50 years these grottos have now been restored."
     },
@@ -54,22 +54,19 @@
   "district": "Caldicot",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "garden",
     "woodland"
   ],
   "points_of_interest": [
-    "grottoes",
-    "tunnels",
-    "ferneries"
+    "garden",
+    "grotto"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "cafe"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

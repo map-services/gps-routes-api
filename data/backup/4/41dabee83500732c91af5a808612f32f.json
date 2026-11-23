@@ -3,7 +3,7 @@
   "objectID": "41dabee83500732c91af5a808612f32f",
   "ref": "anstruther-to-crail-walking-route",
   "title": "Anstruther to Crail Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg/512px-Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg/500px-Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg",
   "nearby": [
     {
       "description": "Fife Coastal Path",
@@ -33,7 +33,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg/512px-Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg/500px-Anstruther_Harbour_-_geograph.org.uk_-_2566834.jpg",
       "title": "Anstruther Harbour by Bob Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Anstruther Harbour"
     },
@@ -63,7 +63,7 @@
       "caption": "A grassy section of the path, south of Crail."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Fife_Coast_path_near_Crail_-_geograph.org.uk_-_3031293.jpg/512px-The_Fife_Coast_path_near_Crail_-_geograph.org.uk_-_3031293.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Fife_Coast_path_near_Crail_-_geograph.org.uk_-_3031293.jpg/500px-The_Fife_Coast_path_near_Crail_-_geograph.org.uk_-_3031293.jpg",
       "title": "The Fife Coast path near Crail by Richard Law, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Fife Coast path near Crail"
     },
@@ -87,20 +87,21 @@
   "display_address": "The Cellar, 24, East Green, Anstruther Easter, Anstruther, Fife, Alba / Scotland, KY10 3AA, United Kingdom",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "rock formations"
+    "harbour",
+    "rock formation",
+    "cave",
+    "cliff"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

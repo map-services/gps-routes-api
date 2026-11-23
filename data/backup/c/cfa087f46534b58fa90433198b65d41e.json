@@ -3,7 +3,7 @@
   "objectID": "cfa087f46534b58fa90433198b65d41e",
   "ref": "longframlington-walking-route",
   "title": "Longframlington Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg/512px-A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg/500px-A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cfa087f46534b58fa90433198b65d41e.gpx",
   "_geoloc": {
     "lat": 55.300673609,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg/512px-A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg/500px-A697%2C_Longframlington_-_geograph.org.uk_-_3235033.jpg",
       "title": "A697, Longframlington by wfmillar, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A697, Longframlington"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Longframlington_Gardens_-_geograph.org.uk_-_3557692.jpg/512px-Longframlington_Gardens_-_geograph.org.uk_-_3557692.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Longframlington_Gardens_-_geograph.org.uk_-_3557692.jpg/500px-Longframlington_Gardens_-_geograph.org.uk_-_3557692.jpg",
       "title": "Longframlington Gardens by Norman Caesar, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Longframlington Gardens"
     },
@@ -26,7 +26,7 @@
       "caption": "Coronation drinking fountain, Longframlington"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Elms_in_Longframlington_-_geograph.org.uk_-_3216585.jpg/512px-The_Elms_in_Longframlington_-_geograph.org.uk_-_3216585.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Elms_in_Longframlington_-_geograph.org.uk_-_3216585.jpg/500px-The_Elms_in_Longframlington_-_geograph.org.uk_-_3216585.jpg",
       "title": "The Elms in Longframlington by peter robinson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Elms in Longframlington"
     },
@@ -36,12 +36,12 @@
       "caption": "Cockshot Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brinkburn_Priory_-_geograph.org.uk_-_3454773.jpg/512px-Brinkburn_Priory_-_geograph.org.uk_-_3454773.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brinkburn_Priory_-_geograph.org.uk_-_3454773.jpg/500px-Brinkburn_Priory_-_geograph.org.uk_-_3454773.jpg",
       "title": "Brinkburn Priory by Kim Fyson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Brinkburn Priory"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_River_Coquet_at_Brinkburn_Priory_-_geograph.org.uk_-_3005294.jpg/512px-The_River_Coquet_at_Brinkburn_Priory_-_geograph.org.uk_-_3005294.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_River_Coquet_at_Brinkburn_Priory_-_geograph.org.uk_-_3005294.jpg/500px-The_River_Coquet_at_Brinkburn_Priory_-_geograph.org.uk_-_3005294.jpg",
       "title": "The River Coquet at Brinkburn Priory by Paul Franks, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The River Coquet at Brinkburn Priory"
     },
@@ -64,21 +64,19 @@
   "postcode": "NE65 8AJ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 30 minutes",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river"
+    "parkland"
   ],
   "points_of_interest": [
-    "historical site",
-    "park"
+    "historic country estate",
+    "historic priory",
+    "historic park"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

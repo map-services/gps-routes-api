@@ -3,7 +3,7 @@
   "objectID": "f287cc3049974fb59a287e54172d8bb3",
   "ref": "rudry-walking-route",
   "title": "Rudry Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg/512px-The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg/500px-The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f287cc3049974fb59a287e54172d8bb3.gpx",
   "_geoloc": {
     "lat": 51.5720615201,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg/512px-The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg/500px-The_church_of_St_James%2C_Rudry_-_geograph.org.uk_-_1728709.jpg",
       "title": "Colin Park / The church of St James, Rudry",
       "caption": "The church of St James, Rudry. It is thought that Oliver Cromwell took shelter in the church, which has existed in the village since the 13th century"
     },
@@ -68,21 +68,23 @@
   "display_address": "Cwrt Griffin, Rudry, Caerphilly, Cymru / Wales, CF83 3JQ, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
     "viewpoint",
-    "church"
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "pub/cafe"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "c8f70c1aca66efc31aa9fcf15890966f",
   "ref": "mytholmroyd-walking-route",
   "title": "Mytholmroyd Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg/256px-Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg/330px-Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c8f70c1aca66efc31aa9fcf15890966f.gpx",
   "_geoloc": {
     "lat": 53.7292092233,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg/256px-Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg/330px-Sculpture_in_the_car_park%2C_Church_Street%2C_Mytholmroyd_-_geograph.org.uk_-_2687311.jpg",
       "title": "Sculpture in the car park, Church Street, Mytholmroyd by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sculpture in the car park, Church Street, Mytholmroyd"
     },
@@ -41,12 +41,12 @@
       "caption": "Walking east along the Rochdale Canal"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Canal_at_Mytholmroyd_-_panoramio_-_PJMarriott_%283%29.jpg/512px-Canal_at_Mytholmroyd_-_panoramio_-_PJMarriott_%283%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Canal_at_Mytholmroyd_-_panoramio_-_PJMarriott_%283%29.jpg/500px-Canal_at_Mytholmroyd_-_panoramio_-_PJMarriott_%283%29.jpg",
       "title": "PJMarriott, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Canal at Mytholmroyd"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/County_Bridge%2C_Mytholmroyd_-_geograph.org.uk_-_2687289.jpg/512px-County_Bridge%2C_Mytholmroyd_-_geograph.org.uk_-_2687289.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/County_Bridge%2C_Mytholmroyd_-_geograph.org.uk_-_2687289.jpg/500px-County_Bridge%2C_Mytholmroyd_-_geograph.org.uk_-_2687289.jpg",
       "title": "County Bridge, Mytholmroyd by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "County Bridge, Mytholmroyd"
     }
@@ -70,26 +70,22 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "moor",
-    "canal"
+    "moorland",
+    "waterside"
   ],
   "points_of_interest": [
     "historical site",
-    "reservoir",
-    "village"
+    "viewpoint",
+    "canal"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
     "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "waterside stroll"
+    "walking"
   ]
 }

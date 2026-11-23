@@ -1,37 +1,45 @@
 {
-    "created_at": "2025-01-06T04:53:41.063875+00:00",
-    "objectID": "1c9ed9e81a05e8393c9bae758c520b83",
-    "ref": "crawfordsburn-country-park-walking-route",
-    "title": "Crawfordsburn Country Park Walking Route",
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1c9ed9e81a05e8393c9bae758c520b83.gpx",
-    "_geoloc": {
-        "lat": 54.6645021411,
-        "lng": -5.7267852561
-    },
-    "distance_km": 1.0,
-    "description": "Follow the waymarked walking trails through this large country park in County Down. The park is located near Bangor on the coast with beautiful beaches, views across Belfast Lough, meadows, streams, wooded glens and a stunning waterfall. Look out for wildlife including seals, herons, shags and guillemots.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Head north east to the coast and you could try the popular Blackhead Lighthouse Walk near Whitehead. There's also the spectacular Gobbins Cliff Path near here. For more walking ideas in the area see the Belfast Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/YEjFPxdOsnQ",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Old Windmill Road, Crawfordsburn, County Down, Northern Ireland / Tuaisceart \u00c9ireann, BT19 1JA, United Kingdom",
-    "postcode": "BT19 1JA",
-    "district": "Crawfordsburn",
-    "county": "County Down",
-    "region": null,
-    "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-    "country": "United Kingdom",
-    "llama_cpp": true,
-    "estimated_duration": "half day",
-    "difficulty": "moderate",
-    "terrain": ["coastal", "meadow", "woodland"],
-    "points_of_interest": ["viewpoint", "waterfall"],
-    "facilities": ["visitor center", "car park"],
-    "route_type": "circular",
-    "activities": ["walking"]
+  "created_at": "2025-01-06T04:53:41.063875+00:00",
+  "objectID": "1c9ed9e81a05e8393c9bae758c520b83",
+  "ref": "crawfordsburn-country-park-walking-route",
+  "title": "Crawfordsburn Country Park Walking Route",
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1c9ed9e81a05e8393c9bae758c520b83.gpx",
+  "_geoloc": {
+    "lat": 54.6645021411,
+    "lng": -5.7267852561
+  },
+  "distance_km": 1.0,
+  "description": "Follow the waymarked walking trails through this large country park in County Down. The park is located near Bangor on the coast with beautiful beaches, views across Belfast Lough, meadows, streams, wooded glens and a stunning waterfall. Look out for wildlife including seals, herons, shags and guillemots.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north east to the coast and you could try the popular Blackhead Lighthouse Walk near Whitehead. There's also the spectacular Gobbins Cliff Path near here. For more walking ideas in the area see the Belfast Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/YEjFPxdOsnQ",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Old Windmill Road, Crawfordsburn, County Down, Northern Ireland / Tuaisceart \u00c9ireann, BT19 1JA, United Kingdom",
+  "postcode": "BT19 1JA",
+  "district": "Crawfordsburn",
+  "county": "County Down",
+  "region": null,
+  "state": "Northern Ireland / Tuaisceart \u00c9ireann",
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "beach"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

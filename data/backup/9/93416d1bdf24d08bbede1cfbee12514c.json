@@ -3,7 +3,7 @@
   "objectID": "93416d1bdf24d08bbede1cfbee12514c",
   "ref": "wendling-way-walking-route",
   "title": "Wendling Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dereham_market_place.JPG/512px-Dereham_market_place.JPG?20100930084449",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dereham_market_place.JPG/500px-Dereham_market_place.JPG?20100930084449",
   "nearby": [
     {
       "description": "Dereham",
@@ -28,22 +28,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dereham_market_place.JPG/512px-Dereham_market_place.JPG?20100930084449",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dereham_market_place.JPG/500px-Dereham_market_place.JPG?20100930084449",
       "title": "Charlesdrakew, Public domain, via Wikimedia Commons",
       "caption": "Dereham market place"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/St_Withburga%27s_well.JPG/512px-St_Withburga%27s_well.JPG?20100930091353",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/St_Withburga%27s_well.JPG/500px-St_Withburga%27s_well.JPG?20100930091353",
       "title": "Charlesdrakew, Public domain, via Wikimedia Commons",
       "caption": "St Withburga's well in Dereham"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dereham_Rush_Meadow_2.jpg/512px-Dereham_Rush_Meadow_2.jpg?20181007225226",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dereham_Rush_Meadow_2.jpg/500px-Dereham_Rush_Meadow_2.jpg?20181007225226",
       "title": "Dudley Miles, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Dereham Rush Meadow. This nature reserve supports wetland specialist plants such as bogbean, marsh orchid and tubular dropwort. It is also the home for many birds including snipe, reed bunting, sedge warbler and reed warbler."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gressenhall_Workhouse_Museum.jpg/512px-Gressenhall_Workhouse_Museum.jpg?20070815031154",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gressenhall_Workhouse_Museum.jpg/500px-Gressenhall_Workhouse_Museum.jpg?20070815031154",
       "title": "Tim Drury from Cambridge, Cambridgeshire, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
       "caption": "Gressenhall Workhouse Museum"
     },
@@ -77,24 +77,19 @@
   "district": "Breckland",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river"
+    "riverine"
   ],
   "points_of_interest": [
     "nature reserve",
-    "wildlife area"
+    "rewilding project"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching",
-    "wildlife watching"
+    "walking"
   ]
 }

@@ -43,7 +43,7 @@
       "caption": "Footpath by Helvellyn Gill near the start of the walk."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Browncove_Crags_-_geograph.org.uk_-_4234307.jpg/512px-Browncove_Crags_-_geograph.org.uk_-_4234307.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Browncove_Crags_-_geograph.org.uk_-_4234307.jpg/500px-Browncove_Crags_-_geograph.org.uk_-_4234307.jpg",
       "title": "Browncove Crags by Anthony Parkes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Browncove Crags"
     },
@@ -63,12 +63,12 @@
       "caption": "Cairn above Swirral Edge. The Cairn marks the descent onto the edge. Looking over Whiteside towards Skiddaw looking like a smoking volcano."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Helvellyn_Range_for_High_Street_-_geograph.org.uk_-_2829002.jpg/512px-Helvellyn_Range_for_High_Street_-_geograph.org.uk_-_2829002.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Helvellyn_Range_for_High_Street_-_geograph.org.uk_-_2829002.jpg/500px-Helvellyn_Range_for_High_Street_-_geograph.org.uk_-_2829002.jpg",
       "title": "Helvellyn Range for High Street by Robert Skipworth, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Helvellyn Range for High Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/On_Helvellyn_-_geograph.org.uk_-_2135170.jpg/512px-On_Helvellyn_-_geograph.org.uk_-_2135170.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/On_Helvellyn_-_geograph.org.uk_-_2135170.jpg/500px-On_Helvellyn_-_geograph.org.uk_-_2135170.jpg",
       "title": "On Helvellyn by Michael Graham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "On Helvellyn summit"
     }
@@ -96,8 +96,8 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "hard",
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
@@ -105,11 +105,12 @@
     "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "climbing"
+    "walking"
   ]
 }

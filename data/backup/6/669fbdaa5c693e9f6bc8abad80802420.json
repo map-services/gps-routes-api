@@ -3,7 +3,7 @@
   "objectID": "669fbdaa5c693e9f6bc8abad80802420",
   "ref": "hurst-green-to-oxted-walk-walking-route",
   "title": "Hurst Green to Oxted Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/512px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/500px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
   "nearby": [
     {
       "description": "Oxted Circular Walk",
@@ -23,7 +23,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/512px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/500px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
       "title": "Ben Brooksbank [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
       "caption": "Hurst Green Station"
     },
@@ -38,7 +38,7 @@
       "caption": "Entering Hurst Green"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxted_Mill_-_geograph.org.uk_-_1807357.jpg/512px-Oxted_Mill_-_geograph.org.uk_-_1807357.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxted_Mill_-_geograph.org.uk_-_1807357.jpg/500px-Oxted_Mill_-_geograph.org.uk_-_1807357.jpg",
       "title": "Oxted Mill by patrick connolly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Oxted Mill"
     }
@@ -61,19 +61,19 @@
   "display_address": "Greenhurst Lane, Hurst Green, Oxted, Broadham Green, Tandridge, Surrey, England, RH8 0LL, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour 30 minutes",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "footpath",
-    "country lane"
+    "country lane",
+    "footpath"
   ],
   "points_of_interest": [
-    "view"
+    "river view",
+    "farm",
+    "mill"
   ],
-  "facilities": [
-    "visitor center"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

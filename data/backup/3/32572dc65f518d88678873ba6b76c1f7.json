@@ -3,7 +3,7 @@
   "objectID": "32572dc65f518d88678873ba6b76c1f7",
   "ref": "silsden-walking-route",
   "title": "Walk around Silsden - Reservoir and Country Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg/512px-Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg/500px-Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/32572dc65f518d88678873ba6b76c1f7.gpx",
   "_geoloc": {
     "lat": 53.9154387412,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg/512px-Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg/500px-Memorial_garden%2C_Silsden_-_geograph.org.uk_-_1833016.jpg",
       "title": "Memorial garden, Silsden by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Memorial garden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Silsden_Beck_-_Clog_Bridge_-_geograph.org.uk_-_2107827.jpg/256px-Silsden_Beck_-_Clog_Bridge_-_geograph.org.uk_-_2107827.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Silsden_Beck_-_Clog_Bridge_-_geograph.org.uk_-_2107827.jpg/330px-Silsden_Beck_-_Clog_Bridge_-_geograph.org.uk_-_2107827.jpg",
       "title": "Silsden Beck - Clog Bridge by Betty Longbottom, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Silsden Beck"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pastures_beside_Silsden_Reservoir_-_geograph.org.uk_-_2506592.jpg/512px-Pastures_beside_Silsden_Reservoir_-_geograph.org.uk_-_2506592.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pastures_beside_Silsden_Reservoir_-_geograph.org.uk_-_2506592.jpg/500px-Pastures_beside_Silsden_Reservoir_-_geograph.org.uk_-_2506592.jpg",
       "title": "Pastures beside Silsden Reservoir by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Pastures beside Silsden Reservoir"
     },
@@ -78,24 +78,20 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "countryside",
-    "water"
+    "countryside"
   ],
   "points_of_interest": [
-    "footpath",
-    "moor",
-    "farm"
+    "reservoir"
   ],
   "facilities": [
-    "car park",
-    "canal"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "water sports"
+    "walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "c0a2c203e51deae118b3d84de172ebed",
   "ref": "st-mawes-walking-route",
   "title": "St Mawes Walks - Walk to Hidden Hut and Portscatho",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Mawes_-_geograph.org.uk_-_2101474.jpg/512px-St_Mawes_-_geograph.org.uk_-_2101474.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Mawes_-_geograph.org.uk_-_2101474.jpg/500px-St_Mawes_-_geograph.org.uk_-_2101474.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c0a2c203e51deae118b3d84de172ebed.gpx",
   "_geoloc": {
     "lat": 50.1583804786,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Mawes_-_geograph.org.uk_-_2101474.jpg/512px-St_Mawes_-_geograph.org.uk_-_2101474.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Mawes_-_geograph.org.uk_-_2101474.jpg/500px-St_Mawes_-_geograph.org.uk_-_2101474.jpg",
       "title": "St Mawes by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Mawes"
     },
@@ -31,7 +31,7 @@
       "caption": "Porthcurnick Beach. Quiet beach with very limited parking on the lane leading down to it. Here viewed from the coast path leading from the car park north of Portscatho. Nare Head in the distance."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Boats_in_Portscatho_-_geograph.org.uk_-_2095899.jpg/512px-Boats_in_Portscatho_-_geograph.org.uk_-_2095899.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Boats_in_Portscatho_-_geograph.org.uk_-_2095899.jpg/500px-Boats_in_Portscatho_-_geograph.org.uk_-_2095899.jpg",
       "title": "Boats in Portscatho by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Boats in Portscatho"
     },
@@ -41,12 +41,12 @@
       "caption": "Portscatho"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/St_Mawes%2C_harbour_side-8985-87.jpg/512px-St_Mawes%2C_harbour_side-8985-87.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/St_Mawes%2C_harbour_side-8985-87.jpg/500px-St_Mawes%2C_harbour_side-8985-87.jpg",
       "title": "\u00a9 Raimond Spekking",
       "caption": "St Mawes, harbour side-8985-87"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Mawes_Castle_Entry.jpg/512px-St_Mawes_Castle_Entry.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Mawes_Castle_Entry.jpg/500px-St_Mawes_Castle_Entry.jpg",
       "title": "Geertivp, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "St Mawes Castle Entry"
     }
@@ -65,23 +65,19 @@
   "postcode": "TR2 5DG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 40 minutes",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "beach",
     "countryside"
   ],
   "points_of_interest": [
-    "beach",
-    "cafe"
+    "beach"
   ],
   "facilities": [
-    "car park",
-    "pub/cafe",
-    "beach kitchen"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

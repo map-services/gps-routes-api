@@ -3,7 +3,7 @@
   "objectID": "e104a0bf0597a157826f57ca1274a8e9",
   "ref": "honington-walking-route",
   "title": "Honington Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg/256px-Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg/330px-Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e104a0bf0597a157826f57ca1274a8e9.gpx",
   "_geoloc": {
     "lat": 52.3367242921,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg/256px-Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg/330px-Honington_Village_sign_-_geograph.org.uk_-_5114962.jpg",
       "title": "Honington Village sign by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Honington Village sign"
     },
@@ -34,14 +34,16 @@
   "postcode": "IP31 1RQ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
     "river"
   ],
-  "points_of_interest": [],
   "facilities": [],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

@@ -3,7 +3,7 @@
   "objectID": "3481ee621177db2269ffa8223fba82c7",
   "ref": "sandwich-walking-route",
   "title": "Sandwich Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg/512px-Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg/500px-Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3481ee621177db2269ffa8223fba82c7.gpx",
   "_geoloc": {
     "lat": 51.2736152664,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg/512px-Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg/500px-Bridge_over_Sandwich_Haven_-_geograph.org.uk_-_2650751.jpg",
       "title": "Bridge over Sandwich Haven by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bridge over Sandwich Haven"
     },
@@ -21,7 +21,7 @@
       "caption": "The Stour Valley Walk towards Sandwich Bay"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sandwich_Bay_Beach_-_geograph.org.uk_-_2356857.jpg/512px-Sandwich_Bay_Beach_-_geograph.org.uk_-_2356857.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sandwich_Bay_Beach_-_geograph.org.uk_-_2356857.jpg/500px-Sandwich_Bay_Beach_-_geograph.org.uk_-_2356857.jpg",
       "title": "Sandwich Bay Beach by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sandwich Bay Beach"
     },
@@ -31,7 +31,7 @@
       "caption": "Royal St George's Golf Links. On the horizon are the buildings of Pfizer which is the European headquarters for research and development and the global manufacturing site for the UK. It stands on a 340 acre site and employs approximately 3600 staff"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/River_Stour_at_Sandwich_-_geograph.org.uk_-_2211256.jpg/512px-River_Stour_at_Sandwich_-_geograph.org.uk_-_2211256.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/River_Stour_at_Sandwich_-_geograph.org.uk_-_2211256.jpg/500px-River_Stour_at_Sandwich_-_geograph.org.uk_-_2211256.jpg",
       "title": "River Stour at Sandwich by Roger Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "River Stour at Sandwich"
     },
@@ -41,7 +41,7 @@
       "caption": "High tide on the River Stour, near Gazen Salts, Sandwich"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg/512px-Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg/500px-Barbican_Gate%2C_Sandwich_-_geograph.org.uk_-_2650725.jpg",
       "title": "Barbican Gate, Sandwich by Philip Halling, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Barbican Gate, Sandwich. The Barbican dates from the 14th century and stands at the end of the bridge over the River Stour where it was used as a toll house. The nearby Fisher Gate on the quay dates from 1384, and has been scheduled as an Ancient Monument."
     },
@@ -79,24 +79,24 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "river",
     "coastal",
-    "historic"
+    "river"
   ],
   "points_of_interest": [
+    "historical site",
+    "viewpoint",
     "nature reserve",
-    "golf course",
-    "roman fort"
+    "castle"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

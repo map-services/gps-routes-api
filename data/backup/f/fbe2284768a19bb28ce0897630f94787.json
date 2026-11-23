@@ -3,7 +3,7 @@
   "objectID": "fbe2284768a19bb28ce0897630f94787",
   "ref": "dymchurch-walking-route",
   "title": "Dymchurch Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg/512px-Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg/500px-Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fbe2284768a19bb28ce0897630f94787.gpx",
   "_geoloc": {
     "lat": 51.0229328675,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg/512px-Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg/500px-Dymchurch_Station_-_geograph.org.uk_-_1944353.jpg",
       "title": "Dymchurch Station by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dymchurch Station"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dymchurch_Seafront_-_geograph.org.uk_-_2071943.jpg/512px-Dymchurch_Seafront_-_geograph.org.uk_-_2071943.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dymchurch_Seafront_-_geograph.org.uk_-_2071943.jpg/500px-Dymchurch_Seafront_-_geograph.org.uk_-_2071943.jpg",
       "title": "Dymchurch Seafront by Chris Whippet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Seafront"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Martello_Towers_at_Dymchurch_-_geograph.org.uk_-_2210850.jpg/512px-Martello_Towers_at_Dymchurch_-_geograph.org.uk_-_2210850.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Martello_Towers_at_Dymchurch_-_geograph.org.uk_-_2210850.jpg/500px-Martello_Towers_at_Dymchurch_-_geograph.org.uk_-_2210850.jpg",
       "title": "Martello Towers at Dymchurch by Roger Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Martello Towers"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tidal_basin_in_Dymchurch_-_geograph.org.uk_-_2063075.jpg/512px-Tidal_basin_in_Dymchurch_-_geograph.org.uk_-_2063075.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tidal_basin_in_Dymchurch_-_geograph.org.uk_-_2063075.jpg/500px-Tidal_basin_in_Dymchurch_-_geograph.org.uk_-_2063075.jpg",
       "title": "Tidal basin in Dymchurch by Richard Law, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tidal basin"
     },
@@ -46,7 +46,7 @@
       "caption": "Romney Sands. Looking southwards as Greatstone sand dunes peter out and the extent of the sands become narrower."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dungeness_Old_Lighthouse_-_geograph.org.uk_-_1389082.jpg/256px-Dungeness_Old_Lighthouse_-_geograph.org.uk_-_1389082.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dungeness_Old_Lighthouse_-_geograph.org.uk_-_1389082.jpg/330px-Dungeness_Old_Lighthouse_-_geograph.org.uk_-_1389082.jpg",
       "title": "RRRR NNNN / Dungeness Old Lighthouse",
       "caption": "Dungeness Old Lighthouse"
     }
@@ -71,23 +71,23 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
     "beach",
-    "shingle"
+    "dune"
   ],
   "points_of_interest": [
     "fort",
-    "towers",
+    "tower",
     "nature reserve",
-    "beach"
+    "lighthouse",
+    "nuclear power station"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

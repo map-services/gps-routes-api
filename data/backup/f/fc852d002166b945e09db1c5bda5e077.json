@@ -3,7 +3,7 @@
   "objectID": "fc852d002166b945e09db1c5bda5e077",
   "ref": "aberlady-bay-to-gullane-walk-walking-route",
   "title": "Aberlady Bay to Gullane Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aberlady_Bay_Footbridge.jpg/512px-Aberlady_Bay_Footbridge.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aberlady_Bay_Footbridge.jpg/500px-Aberlady_Bay_Footbridge.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fc852d002166b945e09db1c5bda5e077.gpx",
   "_geoloc": {
     "lat": 56.01042,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aberlady_Bay_Footbridge.jpg/512px-Aberlady_Bay_Footbridge.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aberlady_Bay_Footbridge.jpg/500px-Aberlady_Bay_Footbridge.jpg",
       "title": "Renata, Public domain, via Wikimedia Commons",
       "caption": "Aberlady Bay Footbridge. In the Middle Ages, Aberlady was an important harbour for fishing, sealing, and whaling."
     },
@@ -36,7 +36,7 @@
       "caption": "Beach, Gullane"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hummell_Rocks_at_Gullane_-_geograph.org.uk_-_1979342.jpg/512px-Hummell_Rocks_at_Gullane_-_geograph.org.uk_-_1979342.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hummell_Rocks_at_Gullane_-_geograph.org.uk_-_1979342.jpg/500px-Hummell_Rocks_at_Gullane_-_geograph.org.uk_-_1979342.jpg",
       "title": "Hummell Rocks at Gullane by Calum McRoberts, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hummell Rocks at Gullane"
     },
@@ -70,25 +70,19 @@
   "display_address": "Kilspindie Castle, West Main Street, Aberlady, East Lothian, Alba / Scotland, EH32 0RQ, United Kingdom",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 45 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "sand"
+    "coastal"
   ],
   "points_of_interest": [
-    "library",
     "nature reserve",
-    "bird watching"
+    "historical site",
+    "viewpoint"
   ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

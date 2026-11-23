@@ -3,7 +3,7 @@
   "objectID": "c2232b7341c404f4f3ce2f8a62d02c42",
   "ref": "mawgan-porth-to-watergate-bay-walking-route",
   "title": "Mawgan Porth to Watergate Bay Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg/512px-Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg/500px-Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg",
   "nearby": [
     {
       "description": "South West Coast Path",
@@ -28,7 +28,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg/512px-Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg/500px-Mawgan_Porth_-_geograph.org.uk_-_3831666.jpg",
       "title": "Mawgan Porth by Wayland Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Mawgan Porth"
     },
@@ -87,21 +87,23 @@
   "display_address": "B3276, Mawgan-in-Pydar, Mawgan Porth, Cornwall, England, TR8 4BJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "beach"
+    "beach",
+    "river mouth",
+    "point",
+    "cove",
+    "headland"
   ],
   "facilities": [
-    "car park",
-    "beach"
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

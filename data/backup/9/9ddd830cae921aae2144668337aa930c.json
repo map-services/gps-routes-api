@@ -3,7 +3,7 @@
   "objectID": "9ddd830cae921aae2144668337aa930c",
   "ref": "dublin-coastal-walk-walking-route",
   "title": "Dublin Coastal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg/512px-Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg/500px-Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg",
   "nearby": [
     {
       "description": "Howth Cliff Walk",
@@ -23,7 +23,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg/512px-Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg/500px-Yachts_off_Clontarf_-_geograph.org.uk_-_2077772.jpg",
       "title": "Yachts off Clontarf by Eric Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Yachts off Clontarf"
     },
@@ -33,12 +33,12 @@
       "caption": "Bull Wall Bridge, North Bull Wall, Dollymount, Dublin The building of the Bull Wall (as an aid to shipping) commenced in 1819 and was completed in 1824. The materials used were granite and local limestone. It stretches for 9,000 feet from the shore at Dollymount to the North Bull light at the entrance to the Port. It is connected to the mainland by the wooden bridge depicted here."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clontarf%2C_Dublin_Bay_%28507228%29_%2832607943630%29.jpg/512px-Clontarf%2C_Dublin_Bay_%28507228%29_%2832607943630%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clontarf%2C_Dublin_Bay_%28507228%29_%2832607943630%29.jpg/500px-Clontarf%2C_Dublin_Bay_%28507228%29_%2832607943630%29.jpg",
       "title": "Robert Linsdell from St. Andrews, Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Clontarf, Dublin Bay"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/St.Anne%60s_Park-Rose_Garden%2CDublin%2CIreland_-_panoramio_%2820%29.jpg/512px-St.Anne%60s_Park-Rose_Garden%2CDublin%2CIreland_-_panoramio_%2820%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/St.Anne%60s_Park-Rose_Garden%2CDublin%2CIreland_-_panoramio_%2820%29.jpg/500px-St.Anne%60s_Park-Rose_Garden%2CDublin%2CIreland_-_panoramio_%2820%29.jpg",
       "title": "Geyo John, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "St.Anne`s Park-Rose Garden,Dublin,Ireland"
     }
@@ -62,21 +62,19 @@
   "state": null,
   "country": "\u00c9ire / Ireland",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "woodland"
+    "coastal"
   ],
   "points_of_interest": [
+    "park",
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "rose garden",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

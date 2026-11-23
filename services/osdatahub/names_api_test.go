@@ -5,18 +5,15 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Depado/ginprom"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
-var prometheus = ginprom.New()
-
 func TestNewNamesApi(t *testing.T) {
-	api := NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", "test-api-key")
+	api := NewNamesApi("https://api.os.uk/search/names/v1", "test-api-key")
 	assert.NotNil(t, api)
 	assert.Equal(t, "https://api.os.uk/search/names/v1", api.baseUrl)
 	assert.Equal(t, "test-api-key", api.apiKey)
-	assert.Equal(t, prometheus, api.prometheus)
 }
 
 func TestFind_Success(t *testing.T) {
@@ -50,16 +47,13 @@ func TestFind_Success(t *testing.T) {
 				}
 			]
 		}`))
-		if err != nil {
-			t.Fatalf("Failed to write response: %v", err)
-		}
+		require.NoError(t, err, "write response")
 	}))
 
 	defer server.Close()
-	api := NewNamesApi(nil, server.URL, "test-api-key")
+	api := NewNamesApi(server.URL, "test-api-key")
 	result, err := api.Find(t.Context(), "London")
 	assert.NoError(t, err)
-	assert.NotNil(t, result)
 	assert.Equal(t, "123", result.GazetteerEntry.ID)
 	assert.Equal(t, "London", result.GazetteerEntry.Name1)
 	assert.Equal(t, float64(529824), result.GazetteerEntry.GeometryX)
@@ -82,12 +76,10 @@ func TestFind_NoResults(t *testing.T) {
 			},
 			"results": []
 		}`))
-		if err != nil {
-			t.Fatalf("Failed to write response: %v", err)
-		}
+		require.NoError(t, err, "write response")
 	}))
 	defer server.Close()
-	api := NewNamesApi(nil, server.URL, "test-api-key")
+	api := NewNamesApi(server.URL, "test-api-key")
 	result, err := api.Find(t.Context(), "NonExistentPlace")
 	assert.NoError(t, err)
 	assert.Nil(t, result)
@@ -106,12 +98,10 @@ func TestFind_Error(t *testing.T) {
 				}
 			}
 		}`))
-		if err != nil {
-			t.Fatalf("Failed to write response: %v", err)
-		}
+		require.NoError(t, err, "write response")
 	}))
 	defer server.Close()
-	api := NewNamesApi(nil, server.URL, "invalid-api-key")
+	api := NewNamesApi(server.URL, "invalid-api-key")
 	result, err := api.Find(t.Context(), "London")
 	assert.Error(t, err)
 	assert.Nil(t, result)
@@ -124,12 +114,10 @@ func TestFind_InvalidJSON(t *testing.T) {
 
 		w.WriteHeader(http.StatusOK)
 		_, err := w.Write([]byte(`invalid json response`))
-		if err != nil {
-			t.Fatalf("Failed to write response: %v", err)
-		}
+		require.NoError(t, err, "write response")
 	}))
 	defer server.Close()
-	api := NewNamesApi(nil, server.URL, "test-api-key")
+	api := NewNamesApi(server.URL, "test-api-key")
 	result, err := api.Find(t.Context(), "London")
 	assert.Error(t, err)
 	assert.Nil(t, result)
@@ -149,12 +137,10 @@ func TestFind_ErrorResponse(t *testing.T) {
 				}
 			}
 		}`))
-		if err != nil {
-			t.Fatalf("Failed to write response: %v", err)
-		}
+		require.NoError(t, err, "write response")
 	}))
 	defer server.Close()
-	api := NewNamesApi(nil, server.URL, "test-api-key")
+	api := NewNamesApi(server.URL, "test-api-key")
 	result, err := api.Find(t.Context(), "London")
 	assert.Error(t, err)
 	assert.Nil(t, result)
@@ -162,7 +148,7 @@ func TestFind_ErrorResponse(t *testing.T) {
 }
 
 func TestFind_RequestError(t *testing.T) {
-	api := NewNamesApi(nil, "http://invalid-url-that-should-cause-an-error", "test-api-key")
+	api := NewNamesApi("http://invalid-url-that-should-cause-an-error", "test-api-key")
 	result, err := api.Find(t.Context(), "London")
 	assert.Error(t, err)
 	assert.Nil(t, result)

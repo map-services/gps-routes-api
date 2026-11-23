@@ -3,7 +3,7 @@
   "objectID": "5b7ae1a8b887dfb3d1ae9ccd9e9b14b4",
   "ref": "creech-st-michael-walking-route",
   "title": "Creech St Michael Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg/512px-Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg?20220922034655",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg/500px-Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg?20220922034655",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5b7ae1a8b887dfb3d1ae9ccd9e9b14b4.gpx",
   "_geoloc": {
     "lat": 51.0247824943,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg/512px-Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg?20220922034655",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg/500px-Canal_at_Creech_St_Michael_-_geograph.org.uk_-_3829604.jpg?20220922034655",
       "title": "Canal at Creech St Michael by Wayland Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Canal at Creech St Michael. The Bridgwater & Taunton Canal provides a picturesque route through the village for pleasure boats, and the towpath is open to pedestrians and cyclists. There are also dramatic remains of the Chard Canal, including the (filled) junction with the Bridgwater & Taunton Canal, a raised embankment leading south from the village, a ruined aqueduct that would have carried the canal over the River Tone, and the abutments of a second aqueduct across a local road."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Creech_St_Michael_Church_-_geograph.org.uk_-_5531095.jpg/512px-Creech_St_Michael_Church_-_geograph.org.uk_-_5531095.jpg?20231013162038",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Creech_St_Michael_Church_-_geograph.org.uk_-_5531095.jpg/500px-Creech_St_Michael_Church_-_geograph.org.uk_-_5531095.jpg?20231013162038",
       "title": "Creech St Michael Church by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Creech St Michael Church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Artists_on_the_tow_path%2C_Creech_St_Michael_-_geograph.org.uk_-_4936556.jpg/512px-Artists_on_the_tow_path%2C_Creech_St_Michael_-_geograph.org.uk_-_4936556.jpg?20230615164714",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Artists_on_the_tow_path%2C_Creech_St_Michael_-_geograph.org.uk_-_4936556.jpg/500px-Artists_on_the_tow_path%2C_Creech_St_Michael_-_geograph.org.uk_-_4936556.jpg?20230615164714",
       "title": "Artists on the tow path, Creech St Michael by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Artists on the tow path, Creech St Michael"
     },
@@ -45,19 +45,20 @@
   "display_address": "N70, Ryesland Way, Creech St. Michael, Somerset, England, TA3 5TD, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "canal"
+    "canal towpath"
   ],
   "points_of_interest": [
-    "solar system models"
+    "solar system model",
+    "lock"
   ],
   "facilities": [
     "car park",
-    "tea room"
+    "cafe"
   ],
-  "route_type": "linear",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

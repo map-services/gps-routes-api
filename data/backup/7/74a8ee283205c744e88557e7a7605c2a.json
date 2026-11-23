@@ -3,7 +3,7 @@
   "objectID": "74a8ee283205c744e88557e7a7605c2a",
   "ref": "clapham-common-walking-and-cycle-route",
   "title": "Clapham Common Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg/512px-The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg/500px-The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg",
   "nearby": [
     {
       "description": "Capital Ring",
@@ -23,7 +23,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg/512px-The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg/500px-The_Dome_on_the_Victorian_Bandstand_on_Clapham_Common_-_geograph.org.uk_-_1325255.jpg",
       "title": "Chris Reynolds / The Dome on the Victorian Bandstand on Clapham Common, via Wikimedia Commons",
       "caption": "The Dome on the Victorian Bandstand on Clapham Common. A delight of Victorian Iron-work which looks so much better after the refurbishment."
     },
@@ -43,7 +43,7 @@
       "caption": "The former common was enclosed in 1812 and is located between the village and the current A27, part is wooded the rest seems to be scrub and waste. This part is near the crossroads of footpaths that run across the common."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Pond%2C_Clapham_Common_-_geograph.org.uk_-_1278274.jpg/512px-Mount_Pond%2C_Clapham_Common_-_geograph.org.uk_-_1278274.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Pond%2C_Clapham_Common_-_geograph.org.uk_-_1278274.jpg/500px-Mount_Pond%2C_Clapham_Common_-_geograph.org.uk_-_1278274.jpg",
       "title": "Chris Reynolds / Mount Pond, Clapham Common, via Wikimedia Commons",
       "caption": "Mount Pond, Clapham Common"
     },
@@ -82,24 +82,23 @@
   "display_address": "The Avenue, Balham, London Borough of Wandsworth, London, Greater London, England, SW4 9AP, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "pond"
+    "open grassland"
   ],
   "points_of_interest": [
-    "gardens",
-    "bandstand"
+    "pond",
+    "bandstand",
+    "flower garden"
   ],
   "facilities": [
-    "running track",
-    "bowling green",
     "pub/cafe",
-    "skateboard park",
-    "tennis courts"
+    "running track",
+    "tennis court",
+    "skateboard park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

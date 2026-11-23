@@ -3,7 +3,7 @@
   "objectID": "d4c56e66c9ea59d8a17b7948a3d58f8b",
   "ref": "hartest-walking-route",
   "title": "Hartest Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg/512px-Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg/500px-Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d4c56e66c9ea59d8a17b7948a3d58f8b.gpx",
   "_geoloc": {
     "lat": 52.1401457166,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg/512px-Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg/500px-Village_view_from_Hartest_Hill_-_geograph.org.uk_-_3935113.jpg",
       "title": "Village view from Hartest Hill by Bob Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Village view from Hartest Hill"
     },
@@ -26,7 +26,7 @@
       "caption": "Hartest Stone."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hartest_Village_Green_-_geograph.org.uk_-_4000909.jpg/512px-Hartest_Village_Green_-_geograph.org.uk_-_4000909.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hartest_Village_Green_-_geograph.org.uk_-_4000909.jpg/500px-Hartest_Village_Green_-_geograph.org.uk_-_4000909.jpg",
       "title": "Hartest Village Green by Roger Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hartest Village Green"
     }
@@ -49,24 +49,21 @@
   "postcode": "IP29 4DH",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
-    "historic monument",
-    "church",
-    "institute"
+    "historical site",
+    "church"
   ],
   "facilities": [
-    "car park",
-    "event space"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

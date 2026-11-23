@@ -3,7 +3,7 @@
   "objectID": "bf18b56b8bbec2eec88a35596c75188f",
   "ref": "everdon-stubbs-walking-route",
   "title": "Everdon Stubbs Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg/512px-From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg/500px-From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg",
   "nearby": [
     {
       "description": "Macmillan Way",
@@ -43,12 +43,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg/512px-From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg/500px-From_Everdon_Stubbs_-_geograph.org.uk_-_1871636.jpg",
       "title": "From Everdon Stubbs by Richard Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Countryside view from Everdon Stubbs"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Everdon_Stubbs_-_geograph.org.uk_-_834173.jpg/256px-Everdon_Stubbs_-_geograph.org.uk_-_834173.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Everdon_Stubbs_-_geograph.org.uk_-_834173.jpg/330px-Everdon_Stubbs_-_geograph.org.uk_-_834173.jpg",
       "title": "Richard Smith / Everdon Stubbs",
       "caption": "Bluebell woods"
     },
@@ -58,7 +58,7 @@
       "caption": "Cattle Grid. On the road from Everdon Stubbs to Preston Capes."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Everdon_Stubbs%2C_path_junction_-_geograph.org.uk_-_4169422.jpg/512px-Everdon_Stubbs%2C_path_junction_-_geograph.org.uk_-_4169422.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Everdon_Stubbs%2C_path_junction_-_geograph.org.uk_-_4169422.jpg/500px-Everdon_Stubbs%2C_path_junction_-_geograph.org.uk_-_4169422.jpg",
       "title": "Everdon Stubbs, path junction by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Path junction"
     },
@@ -68,7 +68,7 @@
       "caption": "Everdon High Street. A view of the village which lies just to the north west of the woods."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Plough%2C_Everdon_-_geograph.org.uk_-_4640228.jpg/512px-The_Plough%2C_Everdon_-_geograph.org.uk_-_4640228.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Plough%2C_Everdon_-_geograph.org.uk_-_4640228.jpg/500px-The_Plough%2C_Everdon_-_geograph.org.uk_-_4640228.jpg",
       "title": "The Plough, Everdon by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Plough in Everdon village"
     }
@@ -100,20 +100,22 @@
   "district": "Farthingstone",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

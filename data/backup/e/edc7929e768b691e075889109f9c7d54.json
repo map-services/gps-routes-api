@@ -3,7 +3,7 @@
   "objectID": "edc7929e768b691e075889109f9c7d54",
   "ref": "cowal-way-walking-route",
   "title": "Cowal Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg/512px-Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg/500px-Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg",
   "nearby": [
     {
       "description": "Arrochar",
@@ -43,7 +43,7 @@
   ],
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg/512px-Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg/500px-Cowal_Way_marker_post_above_the_Donich_Water_%28geograph_5477451%29.jpg",
       "title": "Alan O'Dowd / Cowal Way marker post above the Donich Water",
       "caption": "Cowal Way marker post above the Donich Water"
     },
@@ -106,21 +106,16 @@
   "state": "Alba / Scotland",
   "country": "United Kingdom",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "waterway",
-    "river",
-    "lake"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical site",
-    "viewpoint"
+    "loch"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

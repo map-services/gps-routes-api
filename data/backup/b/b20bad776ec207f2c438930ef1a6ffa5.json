@@ -3,7 +3,7 @@
   "objectID": "b20bad776ec207f2c438930ef1a6ffa5",
   "ref": "steam-coast-trail-walking-and-cycle-route",
   "title": "Steam Coast Trail Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg/512px-Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg/500px-Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg",
   "nearby": [
     {
       "description": "Blue Anchor To Dunster Beach Walk",
@@ -23,7 +23,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg/512px-Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg/500px-Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg",
       "title": "Dunster Beach The River Avill by Ian Rob, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dunster Beach The River Avill"
     },
@@ -33,7 +33,7 @@
       "caption": "Grazing sheep, near the coast, at Blue Anchor"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shingle_above_most_tides%2C_Blue_Anchor_Bay_-_geograph.org.uk_-_4092854.jpg/512px-Shingle_above_most_tides%2C_Blue_Anchor_Bay_-_geograph.org.uk_-_4092854.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shingle_above_most_tides%2C_Blue_Anchor_Bay_-_geograph.org.uk_-_4092854.jpg/500px-Shingle_above_most_tides%2C_Blue_Anchor_Bay_-_geograph.org.uk_-_4092854.jpg",
       "title": "Shingle above most tides, Blue Anchor Bay by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Shingle above most tides, Blue Anchor Bay"
     }
@@ -52,19 +52,17 @@
   "district": "Dunster",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoint",
-    "nature reserve"
+    "nature reserve",
+    "viewpoint"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

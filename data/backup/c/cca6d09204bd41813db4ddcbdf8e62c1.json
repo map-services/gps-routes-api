@@ -3,7 +3,7 @@
   "objectID": "cca6d09204bd41813db4ddcbdf8e62c1",
   "ref": "aldworth-walking-route",
   "title": "Aldworth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg/512px-Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg/500px-Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cca6d09204bd41813db4ddcbdf8e62c1.gpx",
   "_geoloc": {
     "lat": 51.5108118101,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg/512px-Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg/500px-Parsonage_Green%2C_Aldworth_-_geograph.org.uk_-_3457878.jpg",
       "title": "Parsonage Green, Aldworth by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Parsonage Green, Aldworth"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Path_by_the_church%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4618949.jpg/512px-Path_by_the_church%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4618949.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Path_by_the_church%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4618949.jpg/500px-Path_by_the_church%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4618949.jpg",
       "title": "Path by the church, Aldworth, Berkshire by Oswald Bertram, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Path by the church, Aldworth, Berkshire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Bell_at_Aldworth_%28geograph_3020115%29.jpg/512px-The_Bell_at_Aldworth_%28geograph_3020115%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Bell_at_Aldworth_%28geograph_3020115%29.jpg/500px-The_Bell_at_Aldworth_%28geograph_3020115%29.jpg",
       "title": "Des Blenkinsopp / The Bell at Aldworth",
       "caption": "The Bell at Aldworth. Besides its listing and awards, the pub is also notable for having been owned and run by the same family continuously since the 18th century."
     },
@@ -36,7 +36,7 @@
       "caption": "Barley, Lowbury Hill. Looking down across the Aston Upthorpe Downs with their steep dry valley. In the distance are the twin wooded hilltops of Wittenham Clumps."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Ridgeway%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4548470.jpg/512px-The_Ridgeway%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4548470.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Ridgeway%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4548470.jpg/500px-The_Ridgeway%2C_Aldworth%2C_Berkshire_-_geograph.org.uk_-_4548470.jpg",
       "title": "The Ridgeway, Aldworth, Berkshire by Oswald Bertram, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Ridgeway, Aldworth, Berkshire"
     },
@@ -74,22 +74,20 @@
   "postcode": "RG8 9RX",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "countryside",
-    "hill"
+    "countryside"
   ],
   "points_of_interest": [
-    "church",
-    "temple",
-    "national trail"
+    "historical site",
+    "viewpoint",
+    "ancient Roman temple"
   ],
   "facilities": [
-    "pub",
-    "river path"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

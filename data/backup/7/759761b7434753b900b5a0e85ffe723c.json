@@ -68,12 +68,12 @@
       "caption": "Forest track"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Robin_Hood_Way%2C_Blidworth_Woods_-_geograph.org.uk_-_3506738.jpg/512px-Robin_Hood_Way%2C_Blidworth_Woods_-_geograph.org.uk_-_3506738.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Robin_Hood_Way%2C_Blidworth_Woods_-_geograph.org.uk_-_3506738.jpg/500px-Robin_Hood_Way%2C_Blidworth_Woods_-_geograph.org.uk_-_3506738.jpg",
       "title": "Robin Hood Way, Blidworth Woods by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Robin Hood Way passing through the site."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wheelchair_accessible_route%2C_Blidworth_Woods_-_geograph.org.uk_-_3506729.jpg/512px-Wheelchair_accessible_route%2C_Blidworth_Woods_-_geograph.org.uk_-_3506729.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wheelchair_accessible_route%2C_Blidworth_Woods_-_geograph.org.uk_-_3506729.jpg/500px-Wheelchair_accessible_route%2C_Blidworth_Woods_-_geograph.org.uk_-_3506729.jpg",
       "title": "Wheelchair accessible route, Blidworth Woods by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wheelchair accessible route"
     }
@@ -105,23 +105,25 @@
   "postcode": "NG14 6NY",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "heathland"
+    "heath"
   ],
   "points_of_interest": [
-    "village",
     "reservoir",
-    "park"
+    "country park"
   ],
   "facilities": [
     "car park",
-    "trail"
+    "pub/cafe",
+    "play area",
+    "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

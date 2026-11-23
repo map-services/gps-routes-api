@@ -3,7 +3,7 @@
   "objectID": "4597f7c8ba4d3601a16f0a2c0ea0b3ed",
   "ref": "burnham-overy-staithe-walking-route",
   "title": "Burnham Overy Staithe to Holkham Beach Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg/512px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg/500px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4597f7c8ba4d3601a16f0a2c0ea0b3ed.gpx",
   "_geoloc": {
     "lat": 52.9635821222,
@@ -11,17 +11,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg/512px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg/500px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_2180550.jpg",
       "title": "Boats at Burnham Overy Staithe by Chris Holifield, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Boats at Burnham Overy Staithe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tower_Windmill_-_Burnham_Overy_Staithe.jpg/256px-Tower_Windmill_-_Burnham_Overy_Staithe.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tower_Windmill_-_Burnham_Overy_Staithe.jpg/330px-Tower_Windmill_-_Burnham_Overy_Staithe.jpg",
       "title": "Elliott Brown, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Tower Windmill. Grade II* listed windmill."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_4815141.jpg/512px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_4815141.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_4815141.jpg/500px-Boats_at_Burnham_Overy_Staithe_-_geograph.org.uk_-_4815141.jpg",
       "title": "Boats at Burnham Overy Staithe by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Boats at Burnham Overy Staithe"
     },
@@ -36,7 +36,7 @@
       "caption": "Burnham Overy Mill. A disused water mill -about 1km from Burnham Overy Staithe - this property is owned by the National Trust who let bits out as self catering flats."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dune_slack%2C_Burnham_Overy_Dunes_-_geograph.org.uk_-_3166358.jpg/512px-Dune_slack%2C_Burnham_Overy_Dunes_-_geograph.org.uk_-_3166358.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dune_slack%2C_Burnham_Overy_Dunes_-_geograph.org.uk_-_3166358.jpg/500px-Dune_slack%2C_Burnham_Overy_Dunes_-_geograph.org.uk_-_3166358.jpg",
       "title": "Dune slack, Burnham Overy Dunes by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dune slack, Burnham Overy Dunes"
     },
@@ -70,24 +70,25 @@
   "display_address": "Wells Road, Burnham Overy Staithe, Burnham Overy, King's Lynn and West Norfolk, Norfolk, England, PE31 8JE, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 40 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
     "coastal",
-    "beach"
+    "salt marsh",
+    "sand dune",
+    "woodland"
   ],
   "points_of_interest": [
-    "nature reserve",
+    "harbour",
+    "national nature reserve",
     "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

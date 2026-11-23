@@ -3,7 +3,7 @@
   "objectID": "68b8ef7f1f32e006d5288f6361c69832",
   "ref": "llanfair-caereinion-walking-route",
   "title": "Llanfair Caereinion Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg/512px-Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg/500px-Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/68b8ef7f1f32e006d5288f6361c69832.gpx",
   "_geoloc": {
     "lat": 52.6486040532,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg/512px-Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg/500px-Llanfair_Caereinion_station_-_geograph.org.uk_-_2511327.jpg",
       "title": "Llanfair Caereinion station by Gareth James, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Llanfair Caereinion station"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dark_brown%2C_fast_and_high_-_geograph.org.uk_-_2562827.jpg/512px-Dark_brown%2C_fast_and_high_-_geograph.org.uk_-_2562827.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dark_brown%2C_fast_and_high_-_geograph.org.uk_-_2562827.jpg/500px-Dark_brown%2C_fast_and_high_-_geograph.org.uk_-_2562827.jpg",
       "title": "Dark brown, fast and high by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dark brown, fast and high. River Banwy near the station"
     },
@@ -70,23 +70,20 @@
   "display_address": "Llanfair Caereinion, Powys, Cymru / Wales, SY21 0RR, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "canal",
-    "path"
+    "riverside"
   ],
   "points_of_interest": [
     "rail station",
-    "historic castle",
-    "long distance path"
+    "historic castle"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

@@ -3,7 +3,7 @@
   "objectID": "3f56c74e2976f5eea3c8140bffee6a45",
   "ref": "tysoe-windmill-walking-route",
   "title": "Tysoe Windmill Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg/512px-Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg/500px-Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f56c74e2976f5eea3c8140bffee6a45.gpx",
   "_geoloc": {
     "lat": 52.0954929928,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg/512px-Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg/500px-Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg",
       "title": "Walking towards the windmill on Windmill Hill, Compton Wynyates by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Walking towards the windmill on Windmill Hill, Compton Wynyates. The mill was in operation until it was struck by lightning in 1915."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/View_towards_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736589.jpg/512px-View_towards_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736589.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/View_towards_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736589.jpg/500px-View_towards_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736589.jpg",
       "title": "View towards Windmill Hill, Compton Wynyates by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View towards Windmill Hill, Compton Wynyates"
     },
@@ -26,17 +26,17 @@
       "caption": "Compton Wynyates manor. The manor is home to the Compton family and is set in topiary gardens and green lawns. It has been used as filming location on several occasions including a 1995 episode of Keeping Up Appearances and the television series The Tudors."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Windmill_Hill_%283%29_-_geograph.org.uk_-_3025111.jpg/512px-Windmill_Hill_%283%29_-_geograph.org.uk_-_3025111.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Windmill_Hill_%283%29_-_geograph.org.uk_-_3025111.jpg/500px-Windmill_Hill_%283%29_-_geograph.org.uk_-_3025111.jpg",
       "title": "Windmill Hill [3] by Michael Dibb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Windmill Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Down_the_hill_-_geograph.org.uk_-_3025158.jpg/512px-Down_the_hill_-_geograph.org.uk_-_3025158.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Down_the_hill_-_geograph.org.uk_-_3025158.jpg/500px-Down_the_hill_-_geograph.org.uk_-_3025158.jpg",
       "title": "Down the hill by Michael Dibb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Down the hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Peacock_Inn%2C_Middle_Tysoe_-_geograph.org.uk_-_2996849.jpg/512px-The_Peacock_Inn%2C_Middle_Tysoe_-_geograph.org.uk_-_2996849.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Peacock_Inn%2C_Middle_Tysoe_-_geograph.org.uk_-_2996849.jpg/500px-The_Peacock_Inn%2C_Middle_Tysoe_-_geograph.org.uk_-_2996849.jpg",
       "title": "The Peacock Inn, Middle Tysoe by David P Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Peacock Inn, Middle Tysoe"
     }
@@ -68,20 +68,23 @@
   "postcode": "CV35 0SH",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "hill"
   ],
   "points_of_interest": [
     "historical site",
-    "architectural landmark"
+    "viewpoint",
+    "country house"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

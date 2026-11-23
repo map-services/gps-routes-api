@@ -3,7 +3,7 @@
   "objectID": "81d3659173d56a946b21b12bb1553691",
   "ref": "forest-farm-country-park-walking-and-cycle-route",
   "title": "Forest Farm Country Park Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg/512px-Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg/500px-Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg",
   "nearby": [
     {
       "description": "Glamorganshire Canal",
@@ -38,12 +38,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg/512px-Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg/500px-Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg",
       "title": "Mick Lobb / Snowdrops at Forest Farm",
       "caption": "Snowdrops at Forest Farm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/The_River_Taff_adjacent_to_Forest_Farm_-_geograph.org.uk_-_1748154.jpg/512px-The_River_Taff_adjacent_to_Forest_Farm_-_geograph.org.uk_-_1748154.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/The_River_Taff_adjacent_to_Forest_Farm_-_geograph.org.uk_-_1748154.jpg/500px-The_River_Taff_adjacent_to_Forest_Farm_-_geograph.org.uk_-_1748154.jpg",
       "title": "Mick Lobb / The River Taff adjacent to Forest Farm",
       "caption": "The River Taff adjacent to Forest Farm. The Taff Trail runs beside the river and the Forest Farm Country Park between Whitchurch and Radyr at this point."
     },
@@ -90,21 +90,19 @@
   "postcode": "CF14 2HG",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "canal"
-  ],
-  "points_of_interest": [
-    "waterway",
     "woodland"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
+  "points_of_interest": [
+    "river",
+    "canal"
   ],
-  "route_type": "circular",
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "out and back",
   "activities": [
     "walking",
     "cycling"

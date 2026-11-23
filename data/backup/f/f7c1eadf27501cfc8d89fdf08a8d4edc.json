@@ -1,145 +1,158 @@
 {
-    "created_at": "2025-01-06T03:28:13.188010+00:00",
-    "objectID": "f7c1eadf27501cfc8d89fdf08a8d4edc",
-    "ref": "grassington-circular-walk-walking-route",
-    "title": "Grassington Circular Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grassington_Village_Square_-_geograph.org.uk_-_543176.jpg",
-    "nearby": [
-        {
-            "description": "Grassington",
-            "objectID": "9b0ebc708d7f6edf19dcccfd0a0f336d",
-            "ref": "grassington-walking-route"
-        },
-        {
-            "description": "Dales Way",
-            "objectID": "605d1dad48e02d248ecb985988bc777c",
-            "ref": "dales-way-walking-route"
-        },
-        {
-            "description": "Linton Falls",
-            "objectID": "11a08617617af634fd7557116e1bd62c",
-            "ref": "linton-falls-walking-route"
-        },
-        {
-            "description": "Troller's Gill",
-            "objectID": "aa105c0287b49e8ddb1b88c19738a81f",
-            "ref": "trollers-gill-walking-route"
-        },
-        {
-            "description": "Grimwith Reservoir",
-            "objectID": "304350b79fb90da37b07bf8a91f5a46b",
-            "ref": "grimwith-reservoir-walking-route"
-        },
-        {
-            "description": "Bolton Abbey",
-            "objectID": "a69fb3e102efb21a6b6da81a52a3c551",
-            "ref": "bolton-abbey-walking-route"
-        },
-        {
-            "description": "Winterburn Reservoir",
-            "objectID": "a58e2016595bc513df78b99ce8bfc2cb",
-            "ref": "winterburn-reservoir-walk"
-        },
-        {
-            "description": "Malham Tarn Estate",
-            "objectID": "0e1b77883047f9f0f66863ff12a65c1c",
-            "ref": "malham-tarn-estate-walking-and-cycle-route"
-        },
-        {
-            "description": "Malham Cove",
-            "objectID": "f69ffccaf926b2bbfa4b17aed1fcadc5",
-            "ref": "malham-cove-walking-route"
-        },
-        {
-            "description": "Threshfield Quarry",
-            "objectID": "bb70afe05e90dbaafcd6e75caabb6fd0",
-            "ref": "threshfield-quarry-walking-route"
-        },
-        {
-            "description": "Grass Wood",
-            "objectID": "73464b923afc2f4574cadc58391b8ac2",
-            "ref": "grass-wood-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f7c1eadf27501cfc8d89fdf08a8d4edc.gpx",
-    "_geoloc": {
-        "lat": 54.0716006722,
-        "lng": -1.9982060493
+  "created_at": "2025-01-06T03:28:13.188010+00:00",
+  "objectID": "f7c1eadf27501cfc8d89fdf08a8d4edc",
+  "ref": "grassington-circular-walk-walking-route",
+  "title": "Grassington Circular Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grassington_Village_Square_-_geograph.org.uk_-_543176.jpg",
+  "nearby": [
+    {
+      "description": "Grassington",
+      "objectID": "9b0ebc708d7f6edf19dcccfd0a0f336d",
+      "ref": "grassington-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grassington_Village_Square_-_geograph.org.uk_-_543176.jpg",
-            "title": "HENRY CLARK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Grassington Village Square"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_River_Wharfe_-_geograph.org.uk_-_820106.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "The Wharfe approaching Hebden. Looking upstream from the suspension bridge at Hebden. The path (Dales Way) is on the eastern bank by the trees."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/A_choice_of_crossings_over_the_river_Wharfe_-_geograph.org.uk_-_820087.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Hebden Stepping Stones and Bridge over the Wharfe. A choice of crossings over the river. Wharfe There are the popular stepping stones and there is also the suspension bridge (or you can wade across). The stepping stones are a little variable in spacing, and the bridge is a little wobbly in the middle."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Footbridge_near_Hebden_Fish_Farm_-_geograph.org.uk_-_745954.jpg",
-            "title": "John Sparshatt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Along the Hebden Beck to Hebden"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cottages_at_Hebden%2C1973_-_geograph.org.uk_-_500774.jpg",
-            "title": "Anthony Eden [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Cottages in Hebden. The old stone bridge is over Hebden Beck."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Garrs_Lathe_-_geograph.org.uk_-_820032.jpg",
-            "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Countryside above the town. Garrs Lathe is the prominent building, being a shelter and food store for cattle. The meadows are used for hay making, and the fields further up the hillside are used for grazing sheep and cows."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grassington_to_Hebden_-_geograph.org.uk_-_76499.jpg",
-            "title": "John Naisbitt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Through the meadows returning to Grassington"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Main_Street%2C_Grassington_-_geograph.org.uk_-_75907.jpg",
-            "title": "Chris Heaton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Grassington High Street. Looking up Main Street from the Famous Wine Shop in Grassington, as it passes through The Square"
-        }
-    ],
-    "distance_km": 8.0,
-    "description": "A lovely circular walk around Grassington, taking you along the River Wharfe to the village of Hebden before climbing into the countryside above the town. Along the way there's pretty weirs, waterfalls and fabulous views over Wharfdale from the high points. Starting in the town centre you head west to the river where you pick up the Dales Way long distance trail. Follow the trail east past Linton Falls to the stepping stones and suspension bridge where you cross the river. The route then follows the waters of Hebden Beck into the little village of Hebden. It's about the halfway point on the walk, so a nice place to stop for refreshments. After leaving the village you follow High Lane west through some lovely countryside. This section climbs to a height of nearly 800ft so there's great views to enjoy here. If you wish you can head north to Garnshaw House and Edge Top to go even higher. At the end of High Lane you descend back into Grassington where the route finishes. To extend your walking in the area you can try our alternative Walk around Grassington which takes you up to the lovely Grimwith Reservoir. You could also continue south along the Dales Way and visit the wonderful Bolton Abbey where there's some nice trails to follow around the atmospheric ruins of a 12th-century Augustinian monastery.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Back in Grassington head to the Devonshire Arms for some post walk refreshments. The noteworthy pub was used in the 2020 series of All Creatures Great and Small on Channel 5, a remake of the beloved tv show based upon the \u201cJames Herriott\u201d books following a Scottish vet on his move to a sleepy Dales village. Grassington was used as the fictional Darrowby in the show which starred Anna Madeley, Samuel West, Nicholas Ralph as James Herriott. The Devonshire was the front of \u201cThe Drovers Arms\u201d in the pretty village square. The inn dates from the 18th century and includes an attractive interior with flagged floors, open fires, wooden beamed ceilings and historic photographs of the local area. They serve good quality home cooked food and have a nice garden area for warmer weather. You can find them there at 27 Main Street, with a postcode of BD23 5AD for your sat navs. In Hebden we heartily recommend you stop off at the delightful Old School Tea Room. It's an idyllic spot with the tea room housed in the wonderful old school which dates from 1874. The charming building includes the old school clock which was restored in the millennium and continues to chime every hour. From inside, there is a picturesque view down to the beck and across the fields and there is also a large garden area for warmer days. In the outdoor section there's the additional attraction of a variety of farm animals including pygmy goats, hens and guinea pigs. Free parking is available in the adjacent car park. You can find the tea rooms in on the Main Street in Hebden with a postcode of BD23 5DX for your sat navs.  Pictured above left the Old School in Hebden where you can enjoy delicious home made dishes and tasty cakes using locally sourced ingredients. On the right is the Gold Post Box at Hebden Post Office. To mark Andrew Triggs Hodge's gold medal winning performance, Royal Mail has painted a post box at Hebden Post Office, Yorkshire, gold."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "The country and river trails make for a fine walk with your dog. The Devonshire pub and the Old School Tea Room mentioned above are also dog friendly. The Grass Wood Nature Reserve is located just to the north west of the town. There's some nice woodland trails here for you and your dog. The reserve is one of the largest areas of broadleaved woodland in the Dales."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west you'll find the worthy village of Threshfield. The pretty settlement includes an historic 16th century inn and the nearby Threshfield Quarry. The quarry is an unusual and atmospheric place for a walk with its limestone rocky cliffs and distinctive turquoise lakes. A few miles east of the town there's Troller's Gill to visit. There's a wonderful limestone gorge here with more riverside paths to enjoy. For more walking ideas in the area see the Yorkshire Dales Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/pfT28kGe7ws",
-    "postcode": "BD23 5AP",
-    "district": "Grassington",
-    "county": "North Yorkshire",
-    "region": "York and North Yorkshire",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Ragdoll Interiors, Main Street, Grassington, North Yorkshire, York and North Yorkshire, England, BD23 5AP, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "countryside", "hill"],
-    "points_of_interest": ["waterfall", "views"],
-    "facilities": ["visitor center", "pub/cafe"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Dales Way",
+      "objectID": "605d1dad48e02d248ecb985988bc777c",
+      "ref": "dales-way-walking-route"
+    },
+    {
+      "description": "Linton Falls",
+      "objectID": "11a08617617af634fd7557116e1bd62c",
+      "ref": "linton-falls-walking-route"
+    },
+    {
+      "description": "Troller's Gill",
+      "objectID": "aa105c0287b49e8ddb1b88c19738a81f",
+      "ref": "trollers-gill-walking-route"
+    },
+    {
+      "description": "Grimwith Reservoir",
+      "objectID": "304350b79fb90da37b07bf8a91f5a46b",
+      "ref": "grimwith-reservoir-walking-route"
+    },
+    {
+      "description": "Bolton Abbey",
+      "objectID": "a69fb3e102efb21a6b6da81a52a3c551",
+      "ref": "bolton-abbey-walking-route"
+    },
+    {
+      "description": "Winterburn Reservoir",
+      "objectID": "a58e2016595bc513df78b99ce8bfc2cb",
+      "ref": "winterburn-reservoir-walk"
+    },
+    {
+      "description": "Malham Tarn Estate",
+      "objectID": "0e1b77883047f9f0f66863ff12a65c1c",
+      "ref": "malham-tarn-estate-walking-and-cycle-route"
+    },
+    {
+      "description": "Malham Cove",
+      "objectID": "f69ffccaf926b2bbfa4b17aed1fcadc5",
+      "ref": "malham-cove-walking-route"
+    },
+    {
+      "description": "Threshfield Quarry",
+      "objectID": "bb70afe05e90dbaafcd6e75caabb6fd0",
+      "ref": "threshfield-quarry-walking-route"
+    },
+    {
+      "description": "Grass Wood",
+      "objectID": "73464b923afc2f4574cadc58391b8ac2",
+      "ref": "grass-wood-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f7c1eadf27501cfc8d89fdf08a8d4edc.gpx",
+  "_geoloc": {
+    "lat": 54.0716006722,
+    "lng": -1.9982060493
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grassington_Village_Square_-_geograph.org.uk_-_543176.jpg",
+      "title": "HENRY CLARK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Grassington Village Square"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_River_Wharfe_-_geograph.org.uk_-_820106.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "The Wharfe approaching Hebden. Looking upstream from the suspension bridge at Hebden. The path (Dales Way) is on the eastern bank by the trees."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/A_choice_of_crossings_over_the_river_Wharfe_-_geograph.org.uk_-_820087.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Hebden Stepping Stones and Bridge over the Wharfe. A choice of crossings over the river. Wharfe There are the popular stepping stones and there is also the suspension bridge (or you can wade across). The stepping stones are a little variable in spacing, and the bridge is a little wobbly in the middle."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Footbridge_near_Hebden_Fish_Farm_-_geograph.org.uk_-_745954.jpg",
+      "title": "John Sparshatt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Along the Hebden Beck to Hebden"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cottages_at_Hebden%2C1973_-_geograph.org.uk_-_500774.jpg",
+      "title": "Anthony Eden [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Cottages in Hebden. The old stone bridge is over Hebden Beck."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Garrs_Lathe_-_geograph.org.uk_-_820032.jpg",
+      "title": "Peter Church [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Countryside above the town. Garrs Lathe is the prominent building, being a shelter and food store for cattle. The meadows are used for hay making, and the fields further up the hillside are used for grazing sheep and cows."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grassington_to_Hebden_-_geograph.org.uk_-_76499.jpg",
+      "title": "John Naisbitt [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Through the meadows returning to Grassington"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Main_Street%2C_Grassington_-_geograph.org.uk_-_75907.jpg",
+      "title": "Chris Heaton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Grassington High Street. Looking up Main Street from the Famous Wine Shop in Grassington, as it passes through The Square"
+    }
+  ],
+  "distance_km": 8.0,
+  "description": "A lovely circular walk around Grassington, taking you along the River Wharfe to the village of Hebden before climbing into the countryside above the town. Along the way there's pretty weirs, waterfalls and fabulous views over Wharfdale from the high points. Starting in the town centre you head west to the river where you pick up the Dales Way long distance trail. Follow the trail east past Linton Falls to the stepping stones and suspension bridge where you cross the river. The route then follows the waters of Hebden Beck into the little village of Hebden. It's about the halfway point on the walk, so a nice place to stop for refreshments. After leaving the village you follow High Lane west through some lovely countryside. This section climbs to a height of nearly 800ft so there's great views to enjoy here. If you wish you can head north to Garnshaw House and Edge Top to go even higher. At the end of High Lane you descend back into Grassington where the route finishes. To extend your walking in the area you can try our alternative Walk around Grassington which takes you up to the lovely Grimwith Reservoir. You could also continue south along the Dales Way and visit the wonderful Bolton Abbey where there's some nice trails to follow around the atmospheric ruins of a 12th-century Augustinian monastery.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in Grassington head to the Devonshire Arms for some post walk refreshments. The noteworthy pub was used in the 2020 series of All Creatures Great and Small on Channel 5, a remake of the beloved tv show based upon the \u201cJames Herriott\u201d books following a Scottish vet on his move to a sleepy Dales village. Grassington was used as the fictional Darrowby in the show which starred Anna Madeley, Samuel West, Nicholas Ralph as James Herriott. The Devonshire was the front of \u201cThe Drovers Arms\u201d in the pretty village square. The inn dates from the 18th century and includes an attractive interior with flagged floors, open fires, wooden beamed ceilings and historic photographs of the local area. They serve good quality home cooked food and have a nice garden area for warmer weather. You can find them there at 27 Main Street, with a postcode of BD23 5AD for your sat navs. In Hebden we heartily recommend you stop off at the delightful Old School Tea Room. It's an idyllic spot with the tea room housed in the wonderful old school which dates from 1874. The charming building includes the old school clock which was restored in the millennium and continues to chime every hour. From inside, there is a picturesque view down to the beck and across the fields and there is also a large garden area for warmer days. In the outdoor section there's the additional attraction of a variety of farm animals including pygmy goats, hens and guinea pigs. Free parking is available in the adjacent car park. You can find the tea rooms in on the Main Street in Hebden with a postcode of BD23 5DX for your sat navs.  Pictured above left the Old School in Hebden where you can enjoy delicious home made dishes and tasty cakes using locally sourced ingredients. On the right is the Gold Post Box at Hebden Post Office. To mark Andrew Triggs Hodge's gold medal winning performance, Royal Mail has painted a post box at Hebden Post Office, Yorkshire, gold."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and river trails make for a fine walk with your dog. The Devonshire pub and the Old School Tea Room mentioned above are also dog friendly. The Grass Wood Nature Reserve is located just to the north west of the town. There's some nice woodland trails here for you and your dog. The reserve is one of the largest areas of broadleaved woodland in the Dales."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you'll find the worthy village of Threshfield. The pretty settlement includes an historic 16th century inn and the nearby Threshfield Quarry. The quarry is an unusual and atmospheric place for a walk with its limestone rocky cliffs and distinctive turquoise lakes. A few miles east of the town there's Troller's Gill to visit. There's a wonderful limestone gorge here with more riverside paths to enjoy. For more walking ideas in the area see the Yorkshire Dales Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/pfT28kGe7ws",
+  "postcode": "BD23 5AP",
+  "district": "Grassington",
+  "county": "North Yorkshire",
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ragdoll Interiors, Main Street, Grassington, North Yorkshire, York and North Yorkshire, England, BD23 5AP, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "viewpoint",
+    "historical site"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

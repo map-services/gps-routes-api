@@ -3,12 +3,15 @@ package services
 import (
 	"context"
 	"fmt"
+	"os"
+	"strconv"
 	"time"
 
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
-	repo "github.com/rm-hull/gps-routes-api/repositories"
-	"github.com/rm-hull/gps-routes-api/services/osdatahub"
+	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
+	repo "github.com/map-services/gps-routes-api/repositories"
+	"github.com/map-services/gps-routes-api/services/osdatahub"
 )
 
 var ATTRIBUTION = []string{
@@ -118,12 +121,82 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		}
 	}
 
+	// Determine the effective limit (defaults to 10 when 0)
+	effectiveLimit := criteria.Limit
+	if effectiveLimit == 0 {
+		effectiveLimit = 10
+	}
+
+	hasMore := int64(criteria.Offset)+int64(effectiveLimit) < total
+	nextOffset := int32(0)
+	if hasMore {
+		nextOffset = criteria.Offset + effectiveLimit
+	}
+
+	// Compute bounding box encompassing all hits
+	var boundingBox *common.BoundingBox
+	for i, hit := range results {
+		if i == 0 {
+			boundingBox = common.NewBoundingBox(hit.StartPosition)
+		} else {
+			boundingBox.Expand(hit.StartPosition)
+		}
+	}
+
+	// Compute the effective sort for the response
+	effectiveSort := computeEffectiveSort(criteria)
+
 	return &domain.SearchResults{
 		Hits:        results,
+		BoundingBox: boundingBox,
 		Total:       total,
 		Facets:      facets,
 		Attribution: ATTRIBUTION,
+		Offset:      criteria.Offset,
+		Limit:       effectiveLimit,
+		HasMore:     hasMore,
+		NextOffset:  nextOffset,
+		Sort:        effectiveSort,
 	}, nil
+}
+
+// computeEffectiveSort determines the effective sort field and direction based on
+// the search criteria. If an explicit sort is provided, it uses that with defaults
+// applied for missing direction. Otherwise, it returns the default sort for the
+// current search context.
+func computeEffectiveSort(criteria *request.SearchRequest) *common.Sort {
+	if criteria.Sort != nil && common.IsValidSortField(criteria.Sort.Field) {
+		direction := criteria.Sort.Direction
+		if direction == "" {
+			if criteria.Sort.Field == "relevance" {
+				direction = "DESC"
+			} else {
+				direction = "ASC"
+			}
+		}
+		return &common.Sort{
+			Field:     criteria.Sort.Field,
+			Direction: direction,
+		}
+	}
+
+	// Default sort logic
+	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
+		return &common.Sort{
+			Field:     "distance_km",
+			Direction: "ASC",
+		}
+	}
+	if criteria.Query != "" {
+		return &common.Sort{
+			Field:     "relevance",
+			Direction: "DESC",
+		}
+	}
+	return &common.Sort{
+		Field:     "random",
+		Direction: "ASC",
+	}
 }
 
 func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {
@@ -166,10 +239,28 @@ func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {
 	}, nil
 }
 
+// defaultSearchTimeout is the fallback when SEARCH_TIMEOUT_SECONDS is not set.
+const defaultSearchTimeout = 10 * time.Second
+
+// GetSearchTimeout reads the SEARCH_TIMEOUT_SECONDS environment variable and
+// returns the parsed duration.  It falls back to 10 seconds when the variable
+// is unset, empty, or contains an invalid value.
+func GetSearchTimeout() time.Duration {
+	val := os.Getenv("SEARCH_TIMEOUT_SECONDS")
+	if val == "" {
+		return defaultSearchTimeout
+	}
+	seconds, err := strconv.Atoi(val)
+	if err != nil || seconds <= 0 {
+		return defaultSearchTimeout
+	}
+	return time.Duration(seconds) * time.Second
+}
+
 func NewRoutesService(repo repo.DbRepository, namesApi osdatahub.NamesApi) *RoutesServiceImpl {
 	return &RoutesServiceImpl{
 		repository:    repo,
 		namesApi:      namesApi,
-		searchTimeout: 10 * time.Second, // TODO: Consider changing to configurable options
+		searchTimeout: GetSearchTimeout(),
 	}
 }

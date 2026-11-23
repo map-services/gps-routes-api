@@ -79,26 +79,23 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "canal towpath",
-    "woodland"
+    "waterside",
+    "woodland",
+    "coastal"
   ],
   "points_of_interest": [
     "historical site",
-    "museum",
-    "church",
-    "park",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "dog friendly",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

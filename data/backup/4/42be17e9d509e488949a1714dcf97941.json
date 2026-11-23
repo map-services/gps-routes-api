@@ -3,7 +3,7 @@
   "objectID": "42be17e9d509e488949a1714dcf97941",
   "ref": "charfield-walking-route",
   "title": "Charfield Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charfield_Hill_-_geograph.org.uk_-_2872730.jpg/512px-Charfield_Hill_-_geograph.org.uk_-_2872730.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charfield_Hill_-_geograph.org.uk_-_2872730.jpg/500px-Charfield_Hill_-_geograph.org.uk_-_2872730.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/42be17e9d509e488949a1714dcf97941.gpx",
   "_geoloc": {
     "lat": 51.6293170816,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charfield_Hill_-_geograph.org.uk_-_2872730.jpg/512px-Charfield_Hill_-_geograph.org.uk_-_2872730.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charfield_Hill_-_geograph.org.uk_-_2872730.jpg/500px-Charfield_Hill_-_geograph.org.uk_-_2872730.jpg",
       "title": "Charfield Hill by Jonathan Billinger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Charfield Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Main_road_through_Charfield_Green_-_geograph.org.uk_-_3142182.jpg/512px-Main_road_through_Charfield_Green_-_geograph.org.uk_-_3142182.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Main_road_through_Charfield_Green_-_geograph.org.uk_-_3142182.jpg/500px-Main_road_through_Charfield_Green_-_geograph.org.uk_-_3142182.jpg",
       "title": "Main road through Charfield Green by Roger Davies, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Main road through Charfield Green"
     },
@@ -26,7 +26,7 @@
       "caption": "The Railway Inn"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Track_through_the_crops%2C_Charfield_-_geograph.org.uk_-_3726260.jpg/512px-Track_through_the_crops%2C_Charfield_-_geograph.org.uk_-_3726260.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Track_through_the_crops%2C_Charfield_-_geograph.org.uk_-_3726260.jpg/500px-Track_through_the_crops%2C_Charfield_-_geograph.org.uk_-_3726260.jpg",
       "title": "Track through the crops, Charfield by Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Track through the crops, Charfield"
     }
@@ -44,14 +44,12 @@
   "district": "Charfield",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "20 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "village"
   ],
-  "points_of_interest": [
-    "historical site"
-  ],
+  "points_of_interest": [],
   "facilities": [],
   "route_type": "out and back",
   "activities": [

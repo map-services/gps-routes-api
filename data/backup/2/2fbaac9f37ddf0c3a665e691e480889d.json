@@ -3,7 +3,7 @@
   "objectID": "2fbaac9f37ddf0c3a665e691e480889d",
   "ref": "deeside-way-walking-and-cycle-route",
   "title": "Deeside Way Railway Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duthie_Park%2C_Aberdeen.JPG/512px-Duthie_Park%2C_Aberdeen.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duthie_Park%2C_Aberdeen.JPG/500px-Duthie_Park%2C_Aberdeen.JPG",
   "nearby": [
     {
       "description": "Loch Kinord",
@@ -33,7 +33,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duthie_Park%2C_Aberdeen.JPG/512px-Duthie_Park%2C_Aberdeen.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duthie_Park%2C_Aberdeen.JPG/500px-Duthie_Park%2C_Aberdeen.JPG",
       "title": "Ragazzi99, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Duthie Park, Aberdeen. Route start."
     },
@@ -58,7 +58,7 @@
       "caption": "Loch Kinord. Loch Kinord and the nearby Loch Davan were both formed when the last glaciers melted here more than 10.000 years ago. They are textbook examples of kettle holes. These were formed when large blocks of ice became separated from the melting glacier and were buried by sand and gravel. When that ice finally melted, the sand and gravel that once lay on top of the ice collapsed, leaving a hollow (kettle hole) on the ground surface which later filled with water. The lochs are relatively shallow. Loch Kinord has an average depth of about 2 metres. The shallow depth means that light can penetrate to the loch floor. Consequently, the loch has a rich flora with many species of aquatic plants recorded."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Deeside_Way_at_Aboyne_-_geograph.org.uk_-_1462701.jpg/512px-The_Deeside_Way_at_Aboyne_-_geograph.org.uk_-_1462701.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Deeside_Way_at_Aboyne_-_geograph.org.uk_-_1462701.jpg/500px-The_Deeside_Way_at_Aboyne_-_geograph.org.uk_-_1462701.jpg",
       "title": "Alan Findlay / The Deeside Way at Aboyne",
       "caption": "The Deeside Way at Aboyne"
     },
@@ -92,24 +92,20 @@
   "postcode": "AB11 7RX",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2-3 days",
   "difficulty": "moderate",
   "terrain": [
-    "forest",
-    "mountain",
-    "river"
+    "woodland",
+    "river",
+    "mountain"
   ],
   "points_of_interest": [
-    "waterfall",
-    "forest"
+    "waterfall"
   ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

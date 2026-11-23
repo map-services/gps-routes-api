@@ -3,7 +3,7 @@
   "objectID": "014b68fe31be9475694554e35248c9aa",
   "ref": "great-northern-railway-trail-walking-and-cycle-route",
   "title": "Great Northern Railway Trail Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg/512px-Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg/500px-Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg",
   "nearby": [
     {
       "description": "Thornton Viaduct",
@@ -48,7 +48,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg/512px-Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg/500px-Foot_of_Station_Road%2C_Queensbury_%282487514326%29.jpg",
       "title": "Tim Green from Bradford / CC BY (https://creativecommons.org/licenses/by/2.0)",
       "caption": "Start of the route at Queensbury,from the site of the old station. The old station-master's house is pretty much all that remains, among the trees"
     },
@@ -105,22 +105,22 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "path"
+    "flat"
   ],
   "points_of_interest": [
-    "viaducts",
-    "reservoir",
-    "valley"
+    "viaduct",
+    "reservoir"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

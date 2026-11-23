@@ -78,7 +78,7 @@
       "caption": "A public footpath signpost, featuring a Dipper. Near Gainford Spa. The mineral spa fountain has a sulphur smell but pleasant tasting water. It is thought to have healing properties. Gainford also includes a picturesque village green, some historic Georgian Houses and the Gainford Millennium Green, a small riverside park on the south western side of the settlement."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Teesdale_Way_-_geograph.org.uk_-_1730533.jpg/512px-Teesdale_Way_-_geograph.org.uk_-_1730533.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Teesdale_Way_-_geograph.org.uk_-_1730533.jpg/500px-Teesdale_Way_-_geograph.org.uk_-_1730533.jpg",
       "title": "Alan Murray-Rust / Teesdale Way",
       "caption": "Teesdale Way Looking north-east from near the bridge into Teesport. There are the remains of a fence between footpath and railway, but the pipelines do the job of forming a barrier between the footpath and the steelworks."
     },
@@ -88,7 +88,7 @@
       "caption": "Victoria Bridge, Stockton-on-Tees. Opened on the 20 June 1887, the new bridge spanning the Tees was so named in commemoration of the 50th anniversary of the reign of Queen Victoria."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Teesdale_Way_-_geograph.org.uk_-_1730533.jpg/512px-Teesdale_Way_-_geograph.org.uk_-_1730533.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Teesdale_Way_-_geograph.org.uk_-_1730533.jpg/500px-Teesdale_Way_-_geograph.org.uk_-_1730533.jpg",
       "title": "Alan Murray-Rust / Teesdale Way",
       "caption": "Looking north-east from near the bridge into Teesport. There are the remains of a fence between footpath and railway, but the pipelines do the job of forming a barrier between the footpath and the steelworks."
     },
@@ -126,24 +126,22 @@
   "display_address": "Dufton, Westmorland and Furness, England, CA16 6BZ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "river"
+    "coastal",
+    "river",
+    "hilly"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "Roman fort",
-    "bridge",
-    "airport",
-    "docks"
+    "historical site",
+    "viewpoint",
+    "fort"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

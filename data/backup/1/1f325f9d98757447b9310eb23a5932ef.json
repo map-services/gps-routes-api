@@ -1,48 +1,57 @@
 {
-    "created_at": "2025-01-06T10:13:27.168001+00:00",
-    "objectID": "1f325f9d98757447b9310eb23a5932ef",
-    "ref": "barton-farm-country-park-walking-route",
-    "title": "Barton Farm Country Park Walking Route",
-    "nearby": [
-        {
-            "description": "Kennet and Avon Canal Walk",
-            "objectID": "0c879db862142efde19b17abd060ac05",
-            "ref": "kennet-and-avon-canal-walk-walking-route"
-        },
-        {
-            "description": "Bath Canal Walk",
-            "objectID": "72a9c33668da9c68ccd74aea1a4c3288",
-            "ref": "bath-canal-walk-walking-route"
-        },
-        {
-            "description": "Bradford on Avon Canal and River Walk",
-            "objectID": "894b72e8509ad0d9282c08ad12367482",
-            "ref": "bradford-on-avon-canal-and-river-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1f325f9d98757447b9310eb23a5932ef.gpx",
-    "_geoloc": {
-        "lat": 51.3447198858,
-        "lng": -2.2517408553
+  "created_at": "2025-01-06T10:13:27.168001+00:00",
+  "objectID": "1f325f9d98757447b9310eb23a5932ef",
+  "ref": "barton-farm-country-park-walking-route",
+  "title": "Barton Farm Country Park Walking Route",
+  "nearby": [
+    {
+      "description": "Kennet and Avon Canal Walk",
+      "objectID": "0c879db862142efde19b17abd060ac05",
+      "ref": "kennet-and-avon-canal-walk-walking-route"
     },
-    "distance_km": 5.5,
-    "description": "This delightful country park is conveniently situated near Bradford On Avon town centre. The park is located next to the River Avon and the Kennet and Avon Canal so is perfect for leisurely waterside walking. There are also historic buildings, craft shops and tea rooms while the farmhouse, granary and tithe barn of the original Barton Farm date back to the 14th century. To extend your walking in the area you could try the Bradford Upon Avon to Bath canal walk. It will take you all the way into Bath from the country park, visiting the impressive Avoncliff Aqueduct on the way. There's also our circular Bradford on Avon Canal and River Walk which takes you along the canal and the river, visiting some of the highlights of the town.",
-    "district": "Bradford-on-Avon",
-    "county": "Wiltshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "details": [],
-    "nominatim_found": true,
-    "display_address": "Frome Road, Bradford-on-Avon, Wiltshire, England, BA15 1FS, United Kingdom",
-    "postcode": "BA15 1FS",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["river", "canal"],
-    "points_of_interest": ["historic buildings", "tea room", "aqueduct"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Bath Canal Walk",
+      "objectID": "72a9c33668da9c68ccd74aea1a4c3288",
+      "ref": "bath-canal-walk-walking-route"
+    },
+    {
+      "description": "Bradford on Avon Canal and River Walk",
+      "objectID": "894b72e8509ad0d9282c08ad12367482",
+      "ref": "bradford-on-avon-canal-and-river-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1f325f9d98757447b9310eb23a5932ef.gpx",
+  "_geoloc": {
+    "lat": 51.3447198858,
+    "lng": -2.2517408553
+  },
+  "distance_km": 5.5,
+  "description": "This delightful country park is conveniently situated near Bradford On Avon town centre. The park is located next to the River Avon and the Kennet and Avon Canal so is perfect for leisurely waterside walking. There are also historic buildings, craft shops and tea rooms while the farmhouse, granary and tithe barn of the original Barton Farm date back to the 14th century. To extend your walking in the area you could try the Bradford Upon Avon to Bath canal walk. It will take you all the way into Bath from the country park, visiting the impressive Avoncliff Aqueduct on the way. There's also our circular Bradford on Avon Canal and River Walk which takes you along the canal and the river, visiting some of the highlights of the town.",
+  "district": "Bradford-on-Avon",
+  "county": "Wiltshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "details": [],
+  "nominatim_found": true,
+  "display_address": "Frome Road, Bradford-on-Avon, Wiltshire, England, BA15 1FS, United Kingdom",
+  "postcode": "BA15 1FS",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -78,7 +78,7 @@
       "caption": "The Fence Post marking Barton Hills Nature Reserve. Looking down the glen to Leet Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Royal_Oak%2C_Barton_Le_Clay_%28geograph_2500196%29.jpg/512px-The_Royal_Oak%2C_Barton_Le_Clay_%28geograph_2500196%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Royal_Oak%2C_Barton_Le_Clay_%28geograph_2500196%29.jpg/500px-The_Royal_Oak%2C_Barton_Le_Clay_%28geograph_2500196%29.jpg",
       "title": "Raymond Cubberley / The Royal Oak, Barton Le Clay",
       "caption": "The Royal Oak, Barton Le Clay"
     },
@@ -88,7 +88,7 @@
       "caption": "Barton-le-Clay Post Office, part of parade of businesses and pub in distance"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stream_at_the_Barton_Hills_National_Nature_Reserve_-_geograph.org.uk_-_4508930.jpg/512px-Stream_at_the_Barton_Hills_National_Nature_Reserve_-_geograph.org.uk_-_4508930.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stream_at_the_Barton_Hills_National_Nature_Reserve_-_geograph.org.uk_-_4508930.jpg/500px-Stream_at_the_Barton_Hills_National_Nature_Reserve_-_geograph.org.uk_-_4508930.jpg",
       "title": "Stream at the Barton Hills National Nature Reserve by michael szebor, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tumbling stream at the reserve"
     },
@@ -103,7 +103,7 @@
       "caption": "John Bunyan Trail on the eastern side of the site."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St_Nicholas_Churchyard_%26_Church_%28geograph_3559249%29.jpg/512px-St_Nicholas_Churchyard_%26_Church_%28geograph_3559249%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St_Nicholas_Churchyard_%26_Church_%28geograph_3559249%29.jpg/500px-St_Nicholas_Churchyard_%26_Church_%28geograph_3559249%29.jpg",
       "title": "Tom Presland / St Nicholas Churchyard & Church",
       "caption": "St Nicholas Churchyard & Church. Located on the northern side of the reserve the church has an interesting history dating back to the 12th century. It was rebuilt in the 13th century, with the nave being expanded in the 14th century and with the church tower being built in the 15th century."
     }
@@ -135,24 +135,25 @@
   "display_address": "Church Road, Barton-le-Clay, Central Bedfordshire, England, MK45 4LA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
+    "downland",
     "chalk grassland",
-    "woodland",
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
+    "pub/cafe",
     "car park",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

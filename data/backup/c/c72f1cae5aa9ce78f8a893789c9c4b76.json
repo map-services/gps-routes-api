@@ -3,7 +3,7 @@
   "objectID": "c72f1cae5aa9ce78f8a893789c9c4b76",
   "ref": "daresbury-walking-route",
   "title": "Daresbury Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg/512px-Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg/500px-Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c72f1cae5aa9ce78f8a893789c9c4b76.gpx",
   "_geoloc": {
     "lat": 53.3404225414,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg/512px-Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg/500px-Daresbury_Tower%2C_Daresbury_%28geograph_4019927%29.jpg",
       "title": "El Pollock / Daresbury Tower, Daresbury",
       "caption": "Daresbury Tower"
     },
@@ -36,7 +36,7 @@
       "caption": "Acton Grange Bridge2, Walton, Cheshire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Walton_Hall_1997.JPG/512px-Walton_Hall_1997.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Walton_Hall_1997.JPG/500px-Walton_Hall_1997.JPG",
       "title": "Clem Rutter, Rochester, Kent., CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Walton Hall 1997"
     },
@@ -70,21 +70,18 @@
   "postcode": "WA4 4AJ",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "canal"
+    "canalside",
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
-    "garden",
-    "woodland"
+    "gardens"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

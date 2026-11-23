@@ -3,7 +3,7 @@
   "objectID": "a31794ecef24d118a9634461be0fe520",
   "ref": "rothwell-walking-route",
   "title": "Rothwell Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg/512px-Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg/500px-Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a31794ecef24d118a9634461be0fe520.gpx",
   "_geoloc": {
     "lat": 52.4226244825,
@@ -11,32 +11,32 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg/512px-Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg/500px-Rothwell%2C_Market_Hill_-_geograph.org.uk_-_3973918.jpg",
       "title": "Rothwell, Market Hill by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rothwell, Market Hill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Path_by_the_Slade_Brook_in_Rothwell_-_geograph.org.uk_-_1834610.jpg/512px-Path_by_the_Slade_Brook_in_Rothwell_-_geograph.org.uk_-_1834610.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Path_by_the_Slade_Brook_in_Rothwell_-_geograph.org.uk_-_1834610.jpg/500px-Path_by_the_Slade_Brook_in_Rothwell_-_geograph.org.uk_-_1834610.jpg",
       "title": "Path by the Slade Brook in Rothwell by M J Richardson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Path by the Slade Brook in Rothwell"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rothwell%2C_Kettering_Road_-_geograph.org.uk_-_3974162.jpg/512px-Rothwell%2C_Kettering_Road_-_geograph.org.uk_-_3974162.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rothwell%2C_Kettering_Road_-_geograph.org.uk_-_3974162.jpg/500px-Rothwell%2C_Kettering_Road_-_geograph.org.uk_-_3974162.jpg",
       "title": "Rothwell, Kettering Road by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rothwell, Kettering Road"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rothwell%2C_Red_Lion_-_geograph.org.uk_-_3973958.jpg/512px-Rothwell%2C_Red_Lion_-_geograph.org.uk_-_3973958.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rothwell%2C_Red_Lion_-_geograph.org.uk_-_3973958.jpg/500px-Rothwell%2C_Red_Lion_-_geograph.org.uk_-_3973958.jpg",
       "title": "Rothwell, Red Lion by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rothwell, Red Lion"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rothwell_Parish_Church_-_geograph.org.uk_-_4803247.jpg/256px-Rothwell_Parish_Church_-_geograph.org.uk_-_4803247.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rothwell_Parish_Church_-_geograph.org.uk_-_4803247.jpg/330px-Rothwell_Parish_Church_-_geograph.org.uk_-_4803247.jpg",
       "title": "Rothwell Parish Church by Dave Thompson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rothwell Parish Church"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Park_-_panoramio_%2842%29.jpg/512px-Park_-_panoramio_%2842%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Park_-_panoramio_%2842%29.jpg/500px-Park_-_panoramio_%2842%29.jpg",
       "title": "Immanuel Giel, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "Local Park"
     }
@@ -55,20 +55,17 @@
   "display_address": "Pretty Woman, High Street, Rothwell, North Northamptonshire, England, NN14 6AD, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "reservoir",
-    "garden"
+    "woodland"
   ],
   "points_of_interest": [
-    "garden",
-    "reservoir"
+    "reservoir",
+    "historical site"
   ],
-  "facilities": [
-    "visitor center"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

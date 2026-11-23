@@ -43,7 +43,7 @@
       "caption": "Viewed looking west towards Rickmansworth from north of the Vale Industrial Estate."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Colne_from_Ebury_Way%2C_Watford_-_geograph.org.uk_-_44005.jpg/256px-River_Colne_from_Ebury_Way%2C_Watford_-_geograph.org.uk_-_44005.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Colne_from_Ebury_Way%2C_Watford_-_geograph.org.uk_-_44005.jpg/330px-River_Colne_from_Ebury_Way%2C_Watford_-_geograph.org.uk_-_44005.jpg",
       "title": "David Hawgood / River Colne from Ebury Way, Watford",
       "caption": "River Colne from Ebury Way, Watford"
     },
@@ -79,22 +79,24 @@
   "display_address": "2, Skidmore Way, The Cedars Estate, Batchworth, Rickmansworth, Three Rivers, Hertfordshire, England, WD3 1JF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "estimated_duration": "less than 1 hour",
   "difficulty": "easy",
   "terrain": [
-    "moor",
+    "open moor",
     "woodland",
-    "wetlands"
+    "wetland"
   ],
   "points_of_interest": [
-    "habitat"
+    "waterway",
+    "canal"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

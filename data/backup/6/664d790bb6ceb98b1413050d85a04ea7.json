@@ -3,7 +3,7 @@
   "objectID": "664d790bb6ceb98b1413050d85a04ea7",
   "ref": "stiffkey-walking-route",
   "title": "Stiffkey Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg/256px-Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg/330px-Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/664d790bb6ceb98b1413050d85a04ea7.gpx",
   "_geoloc": {
     "lat": 52.9498398719,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg/256px-Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg/330px-Stiffkey_village_sign_-_geograph.org.uk_-_1052927.jpg",
       "title": "Ian Capper / Stiffkey village sign",
       "caption": "Stiffkey village sign. The colours on the beak of the tern depicted on the sign suggests that it is supposed to be a Little Tern (Sterna albifrons), of which there is a nesting colony on the nearby marshes. This sign is at the eastern entrance to the village, on the green in front of Camping Hill."
     },
@@ -78,21 +78,26 @@
   "display_address": "Stiffkey Antiques, Wells Road, Stiffkey, North Norfolk, Norfolk, England, NR23 1QQ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 to 4 hours",
+  "difficulty": "easy",
   "terrain": [
     "marshland",
-    "coastal"
+    "coastal",
+    "country"
   ],
   "points_of_interest": [
+    "wildlife",
+    "lagoon",
     "wetland",
-    "trails"
+    "historical site"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

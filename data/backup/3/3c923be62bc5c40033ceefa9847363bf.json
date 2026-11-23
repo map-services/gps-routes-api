@@ -3,7 +3,7 @@
   "objectID": "3c923be62bc5c40033ceefa9847363bf",
   "ref": "nenthead-walking-route",
   "title": "Nenthead Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg/512px-Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg/500px-Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3c923be62bc5c40033ceefa9847363bf.gpx",
   "_geoloc": {
     "lat": 54.7868171211,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg/512px-Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg/500px-Panorama_of_Nenthead_-_geograph.org.uk_-_2708617.jpg",
       "title": "Panorama of Nenthead by Robert W Watt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Panorama of Nenthead"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nenthead_Lead_Mines_-_geograph.org.uk_-_2555958.jpg/512px-Nenthead_Lead_Mines_-_geograph.org.uk_-_2555958.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nenthead_Lead_Mines_-_geograph.org.uk_-_2555958.jpg/500px-Nenthead_Lead_Mines_-_geograph.org.uk_-_2555958.jpg",
       "title": "Nenthead Lead Mines by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Nenthead Lead Mines. The area was a significant centre for lead and silver mining. George Liddle constructed the first smelt mill at Nenthead in 1737, and the London Lead Company later added to it. The smelt mill could smelt 8,000 bings, or 64,000 long hundredweight (3,300 t), of ore annually by 1882."
     },
@@ -41,7 +41,7 @@
       "caption": "Footbridge and Waterfall, Ash Gill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Perry%27s_Dam_-_geograph.org.uk_-_2315332.jpg/512px-Perry%27s_Dam_-_geograph.org.uk_-_2315332.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Perry%27s_Dam_-_geograph.org.uk_-_2315332.jpg/500px-Perry%27s_Dam_-_geograph.org.uk_-_2315332.jpg",
       "title": "Perry's Dam by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Perry's Dam"
     },
@@ -78,24 +78,23 @@
   "display_address": "Nenthead Car Park, A689, Overwater, Alston Moor, Nenthead, Westmorland and Furness, England, CA9 3PF, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "5 hours",
   "difficulty": "moderate",
   "terrain": [
-    "pasture",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "heritage center",
-    "waterfall",
-    "village"
+    "historical site",
+    "waterfall"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
-    "trail"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

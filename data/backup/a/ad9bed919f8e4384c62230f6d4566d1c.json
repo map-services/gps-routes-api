@@ -3,7 +3,7 @@
   "objectID": "ad9bed919f8e4384c62230f6d4566d1c",
   "ref": "ossett-walking-route",
   "title": "Ossett Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ossett_Town_Hall_%28geograph_5250873%29.jpg/512px-Ossett_Town_Hall_%28geograph_5250873%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ossett_Town_Hall_%28geograph_5250873%29.jpg/500px-Ossett_Town_Hall_%28geograph_5250873%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad9bed919f8e4384c62230f6d4566d1c.gpx",
   "_geoloc": {
     "lat": 53.6872750346,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ossett_Town_Hall_%28geograph_5250873%29.jpg/512px-Ossett_Town_Hall_%28geograph_5250873%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ossett_Town_Hall_%28geograph_5250873%29.jpg/500px-Ossett_Town_Hall_%28geograph_5250873%29.jpg",
       "title": "Bill Boaden / Ossett Town Hall",
       "caption": "Ossett Town Hall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Town_End%2C_Ossett_-_geograph.org.uk_-_2487423.jpg/512px-Town_End%2C_Ossett_-_geograph.org.uk_-_2487423.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Town_End%2C_Ossett_-_geograph.org.uk_-_2487423.jpg/500px-Town_End%2C_Ossett_-_geograph.org.uk_-_2487423.jpg",
       "title": "Town End, Ossett by Geoff Pick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Town End, Ossett"
     },
@@ -68,20 +68,22 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3.5 hours",
+  "difficulty": "easy",
   "terrain": [
-    "rural",
-    "water"
+    "country trail",
+    "riverside"
   ],
   "points_of_interest": [
-    "lake"
+    "reservoir"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

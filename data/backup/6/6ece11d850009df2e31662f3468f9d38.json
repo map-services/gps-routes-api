@@ -3,7 +3,7 @@
   "objectID": "6ece11d850009df2e31662f3468f9d38",
   "ref": "wetheral-walking-route",
   "title": "Wetheral Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG/512px-The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG/500px-The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6ece11d850009df2e31662f3468f9d38.gpx",
   "_geoloc": {
     "lat": 54.8836005978,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG/512px-The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG/500px-The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG",
       "title": "JonnyH, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "The Cross"
     },
@@ -26,7 +26,7 @@
       "caption": "Railway bridge at Wetheral taken from the banks of the river"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wetheral_Priory_Gatehouse_-_geograph.org.uk_-_68550.jpg/256px-Wetheral_Priory_Gatehouse_-_geograph.org.uk_-_68550.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wetheral_Priory_Gatehouse_-_geograph.org.uk_-_68550.jpg/330px-Wetheral_Priory_Gatehouse_-_geograph.org.uk_-_68550.jpg",
       "title": "Lynne Kirton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wetheral Priory Gatehouse"
     },
@@ -78,23 +78,23 @@
   "display_address": "Corby Bridge, Woodlands, Wetheral, Great Corby, Cumberland, England, CA4 8LX, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland"
+    "woodland",
+    "riverside"
   ],
   "points_of_interest": [
-    "priory",
-    "woods",
-    "tower"
+    "historical site",
+    "ancient priory"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

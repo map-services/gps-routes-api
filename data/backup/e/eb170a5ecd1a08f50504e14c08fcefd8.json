@@ -3,7 +3,7 @@
   "objectID": "eb170a5ecd1a08f50504e14c08fcefd8",
   "ref": "monkland-canal-walking-route",
   "title": "Monkland Canal Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MonklandCanalHomeFarmBridge1.JPG/512px-MonklandCanalHomeFarmBridge1.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MonklandCanalHomeFarmBridge1.JPG/500px-MonklandCanalHomeFarmBridge1.JPG",
   "nearby": [
     {
       "description": "Drumpellier Country Park",
@@ -48,12 +48,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MonklandCanalHomeFarmBridge1.JPG/512px-MonklandCanalHomeFarmBridge1.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MonklandCanalHomeFarmBridge1.JPG/500px-MonklandCanalHomeFarmBridge1.JPG",
       "title": "ML5 at English Wikipedia, Public domain, via Wikimedia Commons",
       "caption": "Home Farm Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bank_Street_Basin_in_Coatbridge_-_geograph.org.uk_-_1811262.jpg/512px-Bank_Street_Basin_in_Coatbridge_-_geograph.org.uk_-_1811262.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bank_Street_Basin_in_Coatbridge_-_geograph.org.uk_-_1811262.jpg/500px-Bank_Street_Basin_in_Coatbridge_-_geograph.org.uk_-_1811262.jpg",
       "title": "Bank Street Basin in Coatbridge by Stevie Spiers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bank Street Basin in Coatbridge"
     },
@@ -73,17 +73,17 @@
       "caption": "Monkland Canal, near Cuilhill"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MonklandCanalKingStreet.JPG/512px-MonklandCanalKingStreet.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MonklandCanalKingStreet.JPG/500px-MonklandCanalKingStreet.JPG",
       "title": "ML5 at English Wikipedia, Public domain, via Wikimedia Commons",
       "caption": "Looking east from Blair Road along buried section under King Street"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Drumpellier_Home_Farm_bridge_-_MonklandCanal.jpg/512px-Drumpellier_Home_Farm_bridge_-_MonklandCanal.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Drumpellier_Home_Farm_bridge_-_MonklandCanal.jpg/500px-Drumpellier_Home_Farm_bridge_-_MonklandCanal.jpg",
       "title": "ML5 at English Wikipedia, Public domain, via Wikimedia Commons",
       "caption": "Drumpellier Home Farm bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/MonklandCanalTowPathDrumpPark.JPG/512px-MonklandCanalTowPathDrumpPark.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/MonklandCanalTowPathDrumpPark.JPG/500px-MonklandCanalTowPathDrumpPark.JPG",
       "title": "ML5 at English Wikipedia, Public domain, via Wikimedia Commons",
       "caption": "Tow path view at Drumpellier"
     }
@@ -107,20 +107,20 @@
   "postcode": "ML5 1AW",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "canal",
+    "waterside",
+    "lowland heath",
     "woodland",
-    "grassland"
+    "open grassland"
   ],
   "points_of_interest": [
-    "park"
+    "canal",
+    "country park"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

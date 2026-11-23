@@ -3,7 +3,7 @@
     "objectID": "158891488846dc8d1f43a5eb9e491778",
     "ref": "north-downs-way-walking-route",
     "title": "North Downs Way National Trail Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/512px-North_Downs_Way_near_Hollingbourne_1.JPG",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
     "nearby": [
         {
             "description": "Blue Bell Hill",
@@ -98,7 +98,7 @@
     },
     "images": [
         {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/512px-North_Downs_Way_near_Hollingbourne_1.JPG",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/North_Downs_Way_near_Hollingbourne_1.JPG/500px-North_Downs_Way_near_Hollingbourne_1.JPG",
             "title": "GkgAlf at the English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons",
             "caption": "North Downs Way near Hollingbourne"
         },
@@ -147,11 +147,16 @@
     "display_address": "50, South Street, Fairfield, Farnham, Waverley, Surrey, England, GU9 7RN, United Kingdom",
     "state": "England",
     "llama_cpp": true,
-    "estimated_duration": "half day",
+    "estimated_duration": null,
     "difficulty": "moderate",
-    "terrain": ["woodland", "rural"],
-    "points_of_interest": ["towns", "historic site"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
+    "terrain": ["countryside"],
+    "points_of_interest": [
+        "historic city",
+        "area of outstanding natural beauty",
+        "historic site",
+        "church"
+    ],
+    "facilities": ["pub/cafe", "dog friendly"],
+    "route_type": "one-way",
     "activities": ["walking"]
 }

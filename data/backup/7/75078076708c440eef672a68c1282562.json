@@ -3,7 +3,7 @@
   "objectID": "75078076708c440eef672a68c1282562",
   "ref": "biddestone-walking-route",
   "title": "Biddestone Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg/512px-Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg/500px-Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/75078076708c440eef672a68c1282562.gpx",
   "_geoloc": {
     "lat": 51.4603486768,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg/512px-Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg/500px-Biddestone_village_pond_-_geograph.org.uk_-_1941767.jpg",
       "title": "Biddestone village pond by Brian Robert Marshall, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Biddestone village pond"
     },
@@ -26,7 +26,7 @@
       "caption": "The White Horse, Biddestone"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Road_Bridge_over_By_Brook%2C_Slaughterford._-_panoramio.jpg/512px-Road_Bridge_over_By_Brook%2C_Slaughterford._-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Road_Bridge_over_By_Brook%2C_Slaughterford._-_panoramio.jpg/500px-Road_Bridge_over_By_Brook%2C_Slaughterford._-_panoramio.jpg",
       "title": "Robert Powell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Road Bridge over By Brook, Slaughterford."
     },
@@ -78,22 +78,23 @@
   "display_address": "Greystones, The Butts, Biddestone, Wiltshire, England, SN14 7DY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "countryside"
+    "countryside",
+    "riverside"
   ],
   "points_of_interest": [
-    "villages",
-    "bridge",
-    "woodland"
+    "village pond",
+    "old bridge"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

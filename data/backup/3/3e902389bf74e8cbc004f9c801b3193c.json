@@ -3,7 +3,7 @@
   "objectID": "3e902389bf74e8cbc004f9c801b3193c",
   "ref": "frieth-walking-route",
   "title": "Frieth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg/512px-The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg/500px-The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e902389bf74e8cbc004f9c801b3193c.gpx",
   "_geoloc": {
     "lat": 51.6084065196,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg/512px-The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg/500px-The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg",
       "title": "The Prince Albert Pub, Frieth by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Prince Albert Pub, Frieth"
     },
@@ -41,12 +41,12 @@
       "caption": "Pasture near Frieth"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/View_from_Fingest_Wood_towards_Fingest_geograph-6588834-by-David-Hillas.jpg/512px-View_from_Fingest_Wood_towards_Fingest_geograph-6588834-by-David-Hillas.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/View_from_Fingest_Wood_towards_Fingest_geograph-6588834-by-David-Hillas.jpg/500px-View_from_Fingest_Wood_towards_Fingest_geograph-6588834-by-David-Hillas.jpg",
       "title": "David Hillas / View from Fingest Wood towards Fingest",
       "caption": "View from Fingest Wood towards Fingest geograph-6588834-by-David-Hillas"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Holloway_Lane%2C_Turville-geograph-3503476-by-Des-Blenkinsopp.jpg/512px-Holloway_Lane%2C_Turville-geograph-3503476-by-Des-Blenkinsopp.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Holloway_Lane%2C_Turville-geograph-3503476-by-Des-Blenkinsopp.jpg/500px-Holloway_Lane%2C_Turville-geograph-3503476-by-Des-Blenkinsopp.jpg",
       "title": "Des Blenkinsopp / Holloway Lane, Turville",
       "caption": "Holloway Lane, Turville"
     }
@@ -69,19 +69,20 @@
   "display_address": "Spurgrove Lane, Frieth, Hambleden, Buckinghamshire, England, RG9 6NY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "historical site",
-    "viewpoint"
+    "historical site"
   ],
   "facilities": [
-    "visitor center"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

@@ -43,17 +43,17 @@
       "caption": "View of the surfaced path next to Sparth Reservoir"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Canalside_reservoir_-_geograph.org.uk_-_1885903.jpg/512px-Canalside_reservoir_-_geograph.org.uk_-_1885903.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Canalside_reservoir_-_geograph.org.uk_-_1885903.jpg/500px-Canalside_reservoir_-_geograph.org.uk_-_1885903.jpg",
       "title": "Canalside reservoir by Christine Johnstone, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Canal lock and reservoir"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Canal_Feeder_Steps_-_geograph.org.uk_-_2349845.jpg/256px-Canal_Feeder_Steps_-_geograph.org.uk_-_2349845.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Canal_Feeder_Steps_-_geograph.org.uk_-_2349845.jpg/330px-Canal_Feeder_Steps_-_geograph.org.uk_-_2349845.jpg",
       "title": "Canal Feeder Steps by Andy Beecroft, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Canal Feeder Steps"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Huddersfield_Narrow_Canal_%2841493811055%29.jpg/512px-Huddersfield_Narrow_Canal_%2841493811055%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Huddersfield_Narrow_Canal_%2841493811055%29.jpg/500px-Huddersfield_Narrow_Canal_%2841493811055%29.jpg",
       "title": "Tim Green from Bradford, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Huddersfield Narrow Canal passing between the two pretty lakes."
     }
@@ -72,24 +72,22 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "20 minutes",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "canal"
+    "waterside"
   ],
   "points_of_interest": [
-    "lake",
-    "reservoir"
+    "reservoir",
+    "canal"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "loop",
+  "route_type": "one-way",
   "activities": [
     "walking",
-    "swimming",
+    "wild swimming",
     "fishing"
   ]
 }

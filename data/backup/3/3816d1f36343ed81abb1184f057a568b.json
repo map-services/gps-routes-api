@@ -3,7 +3,7 @@
   "objectID": "3816d1f36343ed81abb1184f057a568b",
   "ref": "new-mills-walking-route",
   "title": "New Mills River and Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/New_Mills%2C_Torrs_Hydro_1641.JPG/512px-New_Mills%2C_Torrs_Hydro_1641.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/New_Mills%2C_Torrs_Hydro_1641.JPG/500px-New_Mills%2C_Torrs_Hydro_1641.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3816d1f36343ed81abb1184f057a568b.gpx",
   "_geoloc": {
     "lat": 53.3645975289,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/New_Mills%2C_Torrs_Hydro_1641.JPG/512px-New_Mills%2C_Torrs_Hydro_1641.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/New_Mills%2C_Torrs_Hydro_1641.JPG/500px-New_Mills%2C_Torrs_Hydro_1641.JPG",
       "title": "By Clem Rutter, Rochester, Kent. [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "New Mills, Torrs Hydro. View of the Union Bridge which lies close to the confluence of the River Sett and the River Goyt"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bridge_29%2C_Peak_Forest_Canal.JPG/512px-Bridge_29%2C_Peak_Forest_Canal.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bridge_29%2C_Peak_Forest_Canal.JPG/500px-Bridge_29%2C_Peak_Forest_Canal.JPG",
       "title": "By Dave.Dunford [CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0 )], from Wikimedia Commons",
       "caption": "Bridge 29, Peak Forest Canal"
     },
@@ -26,7 +26,7 @@
       "caption": "New Mills. Splendid view of the Goyt valley from Peak Forest Canal towpath. The Midland Railway viaduct can be seen in the middle of the photo."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newtown%2C_New_Mills_Swizzels_Mills_from_marina_1853.JPG/512px-Newtown%2C_New_Mills_Swizzels_Mills_from_marina_1853.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newtown%2C_New_Mills_Swizzels_Mills_from_marina_1853.JPG/500px-Newtown%2C_New_Mills_Swizzels_Mills_from_marina_1853.JPG",
       "title": "By Clem Rutter, Rochester, Kent. [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Newtown, New Mills Swizzels Mills from marina 1853"
     },
@@ -36,12 +36,12 @@
       "caption": "River Goyt and Goytside Farm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Newtown%2C_New_Mills_PFC_Swizzels_1805.JPG/512px-Newtown%2C_New_Mills_PFC_Swizzels_1805.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Newtown%2C_New_Mills_PFC_Swizzels_1805.JPG/500px-Newtown%2C_New_Mills_PFC_Swizzels_1805.JPG",
       "title": "By Clem Rutter, Rochester, Kent. [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Newtown, New Mills PFC Swizzels 1805"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal_bridge_no_27%2C_Peak_Forest_Canal.jpg/512px-Canal_bridge_no_27%2C_Peak_Forest_Canal.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal_bridge_no_27%2C_Peak_Forest_Canal.jpg/500px-Canal_bridge_no_27%2C_Peak_Forest_Canal.jpg",
       "title": "John Darch [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
       "caption": "Canal bridge no 27, Peak Forest Canal"
     },
@@ -73,20 +73,17 @@
   "postcode": "SK22 3JB",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "park",
-    "nature reserve",
-    "river gorge"
+    "river gorge",
+    "nature reserve"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

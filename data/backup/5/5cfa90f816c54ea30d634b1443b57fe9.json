@@ -3,7 +3,7 @@
   "objectID": "5cfa90f816c54ea30d634b1443b57fe9",
   "ref": "borth-y-gest-walking-route",
   "title": "Borth-Y-Gest Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/512px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/500px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5cfa90f816c54ea30d634b1443b57fe9.gpx",
   "_geoloc": {
     "lat": 52.91581,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/512px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/500px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
       "title": "Borth-y-Gest harbour by David Tyers, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Borth-y-Gest harbour"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Afon_Glaslyn_flows_past_Garreg-Goch_-_geograph.org.uk_-_2560334.jpg/512px-Afon_Glaslyn_flows_past_Garreg-Goch_-_geograph.org.uk_-_2560334.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Afon_Glaslyn_flows_past_Garreg-Goch_-_geograph.org.uk_-_2560334.jpg/500px-Afon_Glaslyn_flows_past_Garreg-Goch_-_geograph.org.uk_-_2560334.jpg",
       "title": "Afon Glaslyn flows past Garreg-Goch by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Afon Glaslyn flows past Garreg-Goch"
     },
@@ -36,17 +36,17 @@
       "caption": "View from start of footpath to Garreg Wen. (Cnicht Moelwyn Mawr& Moelwyn Bach in background)"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Slate_on_the_beach_in_Samson%27s_Bay_-_geograph.org.uk_-_2902131.jpg/512px-Slate_on_the_beach_in_Samson%27s_Bay_-_geograph.org.uk_-_2902131.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Slate_on_the_beach_in_Samson%27s_Bay_-_geograph.org.uk_-_2902131.jpg/500px-Slate_on_the_beach_in_Samson%27s_Bay_-_geograph.org.uk_-_2902131.jpg",
       "title": "Slate on the beach in Samson's Bay by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Slate on the beach in Samson's Bay"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borth-y-Gest_-_geograph.org.uk_-_4605936.jpg/512px-Borth-y-Gest_-_geograph.org.uk_-_4605936.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borth-y-Gest_-_geograph.org.uk_-_4605936.jpg/500px-Borth-y-Gest_-_geograph.org.uk_-_4605936.jpg",
       "title": "Borth-y-Gest by Jeff Buck, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Borth-y-Gest cottages"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sandcastle_on_Black_Rock_Sands_-_geograph.org.uk_-_2903674.jpg/512px-Sandcastle_on_Black_Rock_Sands_-_geograph.org.uk_-_2903674.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sandcastle_on_Black_Rock_Sands_-_geograph.org.uk_-_2903674.jpg/500px-Sandcastle_on_Black_Rock_Sands_-_geograph.org.uk_-_2903674.jpg",
       "title": "Sandcastle on Black Rock Sands by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sandcastle on Black Rock Sands"
     }
@@ -70,24 +70,22 @@
   "postcode": "LL49 9TT",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour 40 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
     "harbour",
     "beach",
-    "nature reserve",
-    "castle ruins"
+    "national nature reserve",
+    "castle ruin"
   ],
   "facilities": [
-    "car park",
-    "beach",
-    "rock pools"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

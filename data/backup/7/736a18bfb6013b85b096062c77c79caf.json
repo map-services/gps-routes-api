@@ -3,7 +3,7 @@
   "objectID": "736a18bfb6013b85b096062c77c79caf",
   "ref": "okehampton-to-princetown-walking-route",
   "title": "Okehampton to Princetown Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Okehampton_centre.jpg/512px-Okehampton_centre.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Okehampton_centre.jpg/500px-Okehampton_centre.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/736a18bfb6013b85b096062c77c79caf.gpx",
   "_geoloc": {
     "lat": 50.7376841437,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Okehampton_centre.jpg/512px-Okehampton_centre.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Okehampton_centre.jpg/500px-Okehampton_centre.jpg",
       "title": "Kicior99 [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Okehampton centre"
     },
@@ -21,7 +21,7 @@
       "caption": "Devil's Cauldron, Lydford Gorge This picture shows the steep and slightly dangerous single track path into and out of the Devil's Cauldron. The river flows out through the gap in the rocks to the right and below the people on the path."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tin_workings_north_of_King%27s_Tor_%282902%29.jpg/512px-Tin_workings_north_of_King%27s_Tor_%282902%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tin_workings_north_of_King%27s_Tor_%282902%29.jpg/500px-Tin_workings_north_of_King%27s_Tor_%282902%29.jpg",
       "title": "Nilfanion [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Tin workings north of King's Tor"
     },
@@ -49,23 +49,19 @@
   "display_address": "1, Castle Road, Okemoor Park, Okehampton, West Devon, Devon, England, EX20 1HT, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "mountain"
+    "riverside"
   ],
   "points_of_interest": [
-    "towns",
-    "villages",
-    "geological features"
+    "gorge",
+    "reservoir",
+    "tor"
   ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

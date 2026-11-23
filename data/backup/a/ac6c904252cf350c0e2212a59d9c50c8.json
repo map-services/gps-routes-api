@@ -3,7 +3,7 @@
   "objectID": "ac6c904252cf350c0e2212a59d9c50c8",
   "ref": "gomshall-walking-route",
   "title": "Gomshall Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg/256px-Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg/330px-Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ac6c904252cf350c0e2212a59d9c50c8.gpx",
   "_geoloc": {
     "lat": 51.2183407741,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg/256px-Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg/330px-Tilling_Bourne%2C_Gomshall%2C_Surrey_-_geograph.org.uk_-_1434832.jpg",
       "title": "Peter Trimming / Tilling Bourne, Gomshall, Surrey",
       "caption": "Tilling Bourne, Gomshall. This pretty stream flows through the village. Taken from the road bridge beside Gomshall Mill."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gomshall_station_geograph-3565499-by-Ben-Brooksbank.jpg/512px-Gomshall_station_geograph-3565499-by-Ben-Brooksbank.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gomshall_station_geograph-3565499-by-Ben-Brooksbank.jpg/500px-Gomshall_station_geograph-3565499-by-Ben-Brooksbank.jpg",
       "title": "Ben Brooksbank, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Gomshall station, eastbound platform 1993. View eastward, towards Redhill: ex-SE&CR Redhill - Guildford - Reading secondary main line. 'Gomshall & Shere' until 12/5/80, this station has staggered platforms withe westbound behind the camera. The North Downs are prominent in the background"
     },
@@ -26,7 +26,7 @@
       "caption": "Gomshall Mill. Now a public house and restaurant, the river flows beneath the right-hand part of the building."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Shere_Beacon_-_geograph.org.uk_-_656294.jpg/256px-Shere_Beacon_-_geograph.org.uk_-_656294.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Shere_Beacon_-_geograph.org.uk_-_656294.jpg/330px-Shere_Beacon_-_geograph.org.uk_-_656294.jpg",
       "title": "Colin Smith / Shere Beacon",
       "caption": "Shere Beacon, near to Shere, Surrey, Great Britain. Sited on a grassy shelf south-east of the village. The spire belongs to St James. Beyond is the Manor House and the North Downs."
     },
@@ -46,7 +46,7 @@
       "caption": "North Downs Way, Netley Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_North_Downs_Way_-_geograph.org.uk_-_2331336.jpg/256px-The_North_Downs_Way_-_geograph.org.uk_-_2331336.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_North_Downs_Way_-_geograph.org.uk_-_2331336.jpg/330px-The_North_Downs_Way_-_geograph.org.uk_-_2331336.jpg",
       "title": "The North Downs Way by don cload, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The North Downs Way"
     }
@@ -74,21 +74,23 @@
   "display_address": "Wonham Way, Shere, Gomshall, Guildford, Surrey, England, GU5 9NR, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "countryside"
   ],
   "points_of_interest": [
-    "settlement",
-    "trail"
+    "historical site"
   ],
   "facilities": [
-    "train station"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

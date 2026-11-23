@@ -3,7 +3,7 @@
   "objectID": "0669dadab4b3865af458053ec5a9e392",
   "ref": "bromley-walking-route",
   "title": "Circular Walk around Bromley Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jubilee_Country_Park_grassland.JPG/256px-Jubilee_Country_Park_grassland.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jubilee_Country_Park_grassland.JPG/330px-Jubilee_Country_Park_grassland.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0669dadab4b3865af458053ec5a9e392.gpx",
   "_geoloc": {
     "lat": 51.3919232518,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jubilee_Country_Park_grassland.JPG/256px-Jubilee_Country_Park_grassland.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jubilee_Country_Park_grassland.JPG/330px-Jubilee_Country_Park_grassland.JPG",
       "title": "Dudley Miles / CC0",
       "caption": "Jubilee Country Park grassland"
     },
@@ -26,7 +26,7 @@
       "caption": "Keston: lawn on Hayes Common A drinking fountain punctuates this lawn at the southern end of Hayes Common, alongside Keston village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clearing_in_Keston_Common.jpg/256px-Clearing_in_Keston_Common.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clearing_in_Keston_Common.jpg/330px-Clearing_in_Keston_Common.jpg",
       "title": "Ethan Doyle White / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
       "caption": "Clearing in Keston Common"
     },
@@ -36,7 +36,7 @@
       "caption": "Market Square, Bromley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Looking_towards_Crofton_Heath_-_geograph.org.uk_-_3926545.jpg/512px-Looking_towards_Crofton_Heath_-_geograph.org.uk_-_3926545.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Looking_towards_Crofton_Heath_-_geograph.org.uk_-_3926545.jpg/500px-Looking_towards_Crofton_Heath_-_geograph.org.uk_-_3926545.jpg",
       "title": "Looking towards Crofton Heath by Marathon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Looking towards Crofton Heath"
     },
@@ -78,24 +78,26 @@
   "postcode": "BR5 1BY",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "grassland"
+    "parkland"
   ],
   "points_of_interest": [
-    "parkland",
-    "countryside views",
-    "nature reserve"
+    "country park",
+    "nature reserve",
+    "formal garden"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "footpath"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "0fe72d5f3607ffa7138b22629754e9f1",
   "ref": "fairford-walking-route",
   "title": "Fairford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fishing_River_Coln_Fairford.jpg/256px-Fishing_River_Coln_Fairford.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fishing_River_Coln_Fairford.jpg/330px-Fishing_River_Coln_Fairford.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0fe72d5f3607ffa7138b22629754e9f1.gpx",
   "_geoloc": {
     "lat": 51.7073732926,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fishing_River_Coln_Fairford.jpg/256px-Fishing_River_Coln_Fairford.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fishing_River_Coln_Fairford.jpg/330px-Fishing_River_Coln_Fairford.jpg",
       "title": "Saffron Blaze [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "The River Coln as it passes through Fairford."
     },
@@ -36,7 +36,7 @@
       "caption": "Entrance to gravel pits. The gravel extraction around Lechlade and Fairford over the years has resulted in many flooded lakes which now comprise the Cotswold Water Park. This scene is north of the river Coln, one of the headstreams of the Thames, and is well into Gloucestershire, not Swindon."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/River_Thames_at_Lechlade_%2843646417745%29.jpg/512px-River_Thames_at_Lechlade_%2843646417745%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/River_Thames_at_Lechlade_%2843646417745%29.jpg/500px-River_Thames_at_Lechlade_%2843646417745%29.jpg",
       "title": "Hugh Llewelyn from Keynsham, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "River Thames at Lechlade"
     }
@@ -60,21 +60,17 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "lake",
-    "river"
+    "woodland",
+    "riverside"
   ],
   "points_of_interest": [
     "lake",
-    "town",
-    "river"
+    "town"
   ],
   "facilities": [
-    "visitor center",
-    "pub/cafe",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

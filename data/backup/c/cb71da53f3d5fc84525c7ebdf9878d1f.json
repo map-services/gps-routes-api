@@ -1,130 +1,141 @@
 {
-    "created_at": "2025-01-06T01:59:38.614104+00:00",
-    "objectID": "cb71da53f3d5fc84525c7ebdf9878d1f",
-    "ref": "freiston-shore-walking-route",
-    "title": "Freiston Shore Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Freiston_Shore_-_RSPB_Reserve_-_geograph.org.uk_-_1933111.jpg",
-    "nearby": [
-        {
-            "description": "Boston",
-            "objectID": "f2a6262b5ff836b18f9e465279f4d742",
-            "ref": "boston-walking-route"
-        },
-        {
-            "description": "Frampton Marsh",
-            "objectID": "f11cf2c7c69af18db1f404a1c61b5ad1",
-            "ref": "frampton-marsh-walking-route"
-        },
-        {
-            "description": "Sleaford",
-            "objectID": "8c49838dc460c77b37ae884c33f45834",
-            "ref": "sleaford-walking-route"
-        },
-        {
-            "description": "Gibraltar Point",
-            "objectID": "f5840286fdf7aa6126d67c18218305a1",
-            "ref": "gibraltar-point-walking-route"
-        },
-        {
-            "description": "Skegness",
-            "objectID": "892cfa63bfb47095028c7a246fbd73f8",
-            "ref": "skegness-walking-route"
-        },
-        {
-            "description": "Tattershall Lakes",
-            "objectID": "0e13014317d3c00572595a270b999d21",
-            "ref": "tattershall-lakes-walking-route"
-        },
-        {
-            "description": "Woodhall Spa",
-            "objectID": "a57330331a68f84a3402a443b227dd80",
-            "ref": "woodhall-spa-walking-route"
-        },
-        {
-            "description": "Peter Scott Walk",
-            "objectID": "7a5303a055eba1e07871eaf5a4e405f0",
-            "ref": "peter-scott-walk-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cb71da53f3d5fc84525c7ebdf9878d1f.gpx",
-    "_geoloc": {
-        "lat": 52.9601118298,
-        "lng": 0.0784983008
+  "created_at": "2025-01-06T01:59:38.614104+00:00",
+  "objectID": "cb71da53f3d5fc84525c7ebdf9878d1f",
+  "ref": "freiston-shore-walking-route",
+  "title": "Freiston Shore Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Freiston_Shore_-_RSPB_Reserve_-_geograph.org.uk_-_1933111.jpg",
+  "nearby": [
+    {
+      "description": "Boston",
+      "objectID": "f2a6262b5ff836b18f9e465279f4d742",
+      "ref": "boston-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Freiston_Shore_-_RSPB_Reserve_-_geograph.org.uk_-_1933111.jpg",
-            "title": "Freiston Shore - RSPB Reserve by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Information board and view across the lagoons at the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Freiston_Shore_managed_realignment_site_at_high_tide_-_geograph.org.uk_-_389102.jpg",
-            "title": "Dan Friess / Freiston Shore managed realignment site at high tide",
-            "caption": "Freiston Shore managed realignment site at high tide. This image shows the managed realignment site and the outer saltmarsh both under water during a high spring tide. This illustrates the amount of tidal exchange that occurs between a mature marsh, and new areas of marsh creation by managed realignment. This view also highlights public access to the site."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Freiston_Shore_Lincolnshire_-_geograph.org.uk_-_302222.jpg",
-            "title": "Robin Jones / Freiston Shore Lincolnshire",
-            "caption": "The picture is taken from the top of a sea wall. The reclaimed field covers what 150 years ago was a golden sandy beach at Lincolnshire's first seaside resort, Freiston Shore. The white house in the distance is part of the Plummer's Hotel, which was built to serve the resort."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Artificial_lagoon%2C_Freiston_Shore_managed_realignment_site_-_geograph.org.uk_-_389063.jpg",
-            "title": "Dan Friess / Artificial lagoon, Freiston Shore managed realignment site",
-            "caption": "An artificially created brackish lagoon, constructed to attract waders and other migratory bird species to the RSPB reserve at Freiston Shore. Constructed between 2001-2002 as part of the managed realignment trial."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Inner_Marshes_near_Cold_Harbour_-_geograph.org.uk_-_558391.jpg",
-            "title": "Dave Hitchborne / Inner Marshes near Cold Harbour",
-            "caption": "Inner Marshes near Cold Harbour. The outer marshes can just be seen over the defences"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nature_reserve_car_park%2C_Freiston_Shore_-_geograph.org.uk_-_558311.jpg",
-            "title": "Dave Hitchborne / Nature reserve car park, Freiston Shore",
-            "caption": "Nature reserve car park. The car park affords a good view of the nature reserve and all the wild birds, so you don't even need to get out of your car to enjoy them."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Saltmarsh_creek_near_Cold_Harbour_-_geograph.org.uk_-_558501.jpg",
-            "title": "Dave Hitchborne / Saltmarsh creek near Cold Harbour",
-            "caption": "Saltmarsh creek near Cold Harbour. The first sign of the turn of the tide will be these creeks filling with sea water."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cow_at_Freiston_Shore_-_geograph.org.uk_-_1010890.jpg",
-            "title": "Jay Haywood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A cow poses for a photo on one of the small islands at the site."
-        }
-    ],
-    "distance_km": 4.0,
-    "description": "This circular walk explores the RSPB's Freiston Shore nature reserve near Boston in Lincolnshire. The coastal reserve is located on The Wash, one of the most significant wildlife watching sites in the country. Look out for species such as ringed plovers, brent geese, hen harrier, knot, black tailed godwit yellowhammers and skylarks as you make your way around the site. You can start your walk from the RSPB car park at postcode PE22 0LY. Then pick up a circular footpath running for just under 3 miles around the lagoons and sea wall at the site.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "Head north into nearby Freiston and there's a few good options for post refreshment. The Castle Inn has a good menu and includes a garden area for warmer weather. You can find them at Wainfleet Rd, Haltoft End, PE22 0PF."
-        },
-        {
-            "subtitle": "Dog Walking",
-            "content": "Dogs are allowed at the site but you are asked to please keep the under close control due to the wildlife."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Right next to the reserve is the We'll Meet Again Museum. It's a great museum with lots of artefacts relating to both world wars. There's also a 360vr Lancaster bomber flight simulator and a series of WW2 coastal defences to see here. You can find them just south of the reserve at Shore Road, PE22 0LY. If you head west into nearby Boston you could pick up the Macmillan Way and enjoy a walk along The Haven river from the town. There's also another reserve located on The Wash nearby in the shape of Frampton Marsh. To the south is the Peter Scott Walk which travels along a Norfolk section of the Wash. For more walking ideas in the area see the Lincolnshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/nL8hmpwiHwc",
-    "postcode": "PE22 0LY",
-    "district": "Boston",
-    "county": "Lincolnshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Shore Road, Freiston Shore, Freiston CP, Boston, Lincolnshire, England, PE22 0LY, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["coastal"],
-    "points_of_interest": ["wildlife watching site"],
-    "facilities": ["car park", "visitor center"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Frampton Marsh",
+      "objectID": "f11cf2c7c69af18db1f404a1c61b5ad1",
+      "ref": "frampton-marsh-walking-route"
+    },
+    {
+      "description": "Sleaford",
+      "objectID": "8c49838dc460c77b37ae884c33f45834",
+      "ref": "sleaford-walking-route"
+    },
+    {
+      "description": "Gibraltar Point",
+      "objectID": "f5840286fdf7aa6126d67c18218305a1",
+      "ref": "gibraltar-point-walking-route"
+    },
+    {
+      "description": "Skegness",
+      "objectID": "892cfa63bfb47095028c7a246fbd73f8",
+      "ref": "skegness-walking-route"
+    },
+    {
+      "description": "Tattershall Lakes",
+      "objectID": "0e13014317d3c00572595a270b999d21",
+      "ref": "tattershall-lakes-walking-route"
+    },
+    {
+      "description": "Woodhall Spa",
+      "objectID": "a57330331a68f84a3402a443b227dd80",
+      "ref": "woodhall-spa-walking-route"
+    },
+    {
+      "description": "Peter Scott Walk",
+      "objectID": "7a5303a055eba1e07871eaf5a4e405f0",
+      "ref": "peter-scott-walk-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cb71da53f3d5fc84525c7ebdf9878d1f.gpx",
+  "_geoloc": {
+    "lat": 52.9601118298,
+    "lng": 0.0784983008
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Freiston_Shore_-_RSPB_Reserve_-_geograph.org.uk_-_1933111.jpg",
+      "title": "Freiston Shore - RSPB Reserve by Alan Heardman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Information board and view across the lagoons at the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Freiston_Shore_managed_realignment_site_at_high_tide_-_geograph.org.uk_-_389102.jpg",
+      "title": "Dan Friess / Freiston Shore managed realignment site at high tide",
+      "caption": "Freiston Shore managed realignment site at high tide. This image shows the managed realignment site and the outer saltmarsh both under water during a high spring tide. This illustrates the amount of tidal exchange that occurs between a mature marsh, and new areas of marsh creation by managed realignment. This view also highlights public access to the site."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Freiston_Shore_Lincolnshire_-_geograph.org.uk_-_302222.jpg",
+      "title": "Robin Jones / Freiston Shore Lincolnshire",
+      "caption": "The picture is taken from the top of a sea wall. The reclaimed field covers what 150 years ago was a golden sandy beach at Lincolnshire's first seaside resort, Freiston Shore. The white house in the distance is part of the Plummer's Hotel, which was built to serve the resort."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Artificial_lagoon%2C_Freiston_Shore_managed_realignment_site_-_geograph.org.uk_-_389063.jpg",
+      "title": "Dan Friess / Artificial lagoon, Freiston Shore managed realignment site",
+      "caption": "An artificially created brackish lagoon, constructed to attract waders and other migratory bird species to the RSPB reserve at Freiston Shore. Constructed between 2001-2002 as part of the managed realignment trial."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Inner_Marshes_near_Cold_Harbour_-_geograph.org.uk_-_558391.jpg",
+      "title": "Dave Hitchborne / Inner Marshes near Cold Harbour",
+      "caption": "Inner Marshes near Cold Harbour. The outer marshes can just be seen over the defences"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nature_reserve_car_park%2C_Freiston_Shore_-_geograph.org.uk_-_558311.jpg",
+      "title": "Dave Hitchborne / Nature reserve car park, Freiston Shore",
+      "caption": "Nature reserve car park. The car park affords a good view of the nature reserve and all the wild birds, so you don't even need to get out of your car to enjoy them."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Saltmarsh_creek_near_Cold_Harbour_-_geograph.org.uk_-_558501.jpg",
+      "title": "Dave Hitchborne / Saltmarsh creek near Cold Harbour",
+      "caption": "Saltmarsh creek near Cold Harbour. The first sign of the turn of the tide will be these creeks filling with sea water."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cow_at_Freiston_Shore_-_geograph.org.uk_-_1010890.jpg",
+      "title": "Jay Haywood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A cow poses for a photo on one of the small islands at the site."
+    }
+  ],
+  "distance_km": 4.0,
+  "description": "This circular walk explores the RSPB's Freiston Shore nature reserve near Boston in Lincolnshire. The coastal reserve is located on The Wash, one of the most significant wildlife watching sites in the country. Look out for species such as ringed plovers, brent geese, hen harrier, knot, black tailed godwit yellowhammers and skylarks as you make your way around the site. You can start your walk from the RSPB car park at postcode PE22 0LY. Then pick up a circular footpath running for just under 3 miles around the lagoons and sea wall at the site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head north into nearby Freiston and there's a few good options for post refreshment. The Castle Inn has a good menu and includes a garden area for warmer weather. You can find them at Wainfleet Rd, Haltoft End, PE22 0PF."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are allowed at the site but you are asked to please keep the under close control due to the wildlife."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Right next to the reserve is the We'll Meet Again Museum. It's a great museum with lots of artefacts relating to both world wars. There's also a 360vr Lancaster bomber flight simulator and a series of WW2 coastal defences to see here. You can find them just south of the reserve at Shore Road, PE22 0LY. If you head west into nearby Boston you could pick up the Macmillan Way and enjoy a walk along The Haven river from the town. There's also another reserve located on The Wash nearby in the shape of Frampton Marsh. To the south is the Peter Scott Walk which travels along a Norfolk section of the Wash. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/nL8hmpwiHwc",
+  "postcode": "PE22 0LY",
+  "district": "Boston",
+  "county": "Lincolnshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Shore Road, Freiston Shore, Freiston CP, Boston, Lincolnshire, England, PE22 0LY, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife watching site"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -1,142 +1,150 @@
 {
-    "created_at": "2025-01-06T18:44:01.389820+00:00",
-    "objectID": "67e5be52b3d7ec452c385c701d859c0b",
-    "ref": "annascaul-lake-walking-route",
-    "title": "Annascaul Lake Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sheep_at_Anascaul_bridge_-_geograph.org.uk_-_108753.jpg",
-    "nearby": [
-        {
-            "description": "Annascaul River Walk",
-            "objectID": "682560af1cf70e651ea036d41a3bf9f5",
-            "ref": "annascaul-river-walk"
-        },
-        {
-            "description": "Mucross Lake",
-            "objectID": "7344e35278699cb66481e45662cf217a",
-            "ref": "muckross-lake-walking-route"
-        },
-        {
-            "description": "Torc Waterfall",
-            "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
-            "ref": "torc-waterfall-walking-route"
-        },
-        {
-            "description": "Dingle Way",
-            "objectID": "6fffbd347c9117478d29580ce3d17c1d",
-            "ref": "dingle-way-walking-route"
-        },
-        {
-            "description": "Lough Guitane",
-            "objectID": "1cb9b2a074abfb914de6def908f9b106",
-            "ref": "lough-guitane-walking-route"
-        },
-        {
-            "description": "Lough Leane And Ross Castle",
-            "objectID": "d4590c5479bee012cc65a06a1131f049",
-            "ref": "lough-leane-and-ross-castle-walking-route"
-        },
-        {
-            "description": "Caragh Lake",
-            "objectID": "3a40b56d757464f237bd53a4bb63362e",
-            "ref": "caragh-lake-walking-route"
-        },
-        {
-            "description": "Carrauntoohil",
-            "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
-            "ref": "carrauntoohil-walking-route"
-        },
-        {
-            "description": "Tralee Canal Walk",
-            "objectID": "d983d0cdf9b343988f28444b87761ce9",
-            "ref": "tralee-canal-walk"
-        },
-        {
-            "description": "Glanageenty Loop",
-            "objectID": "9dc8ba0c97c15797bc7af717803b5c23",
-            "ref": "glanageenty-loop-walking-route"
-        },
-        {
-            "description": "Slea Head",
-            "objectID": "35c9466a6bdd57ced9ffc6a0db278666",
-            "ref": "slea-head-walking-route"
-        },
-        {
-            "description": "Dunmore Head",
-            "objectID": "4490ab29c21182cc1bd8567b5c2f032d",
-            "ref": "dunmore-head-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/67e5be52b3d7ec452c385c701d859c0b.gpx",
-    "_geoloc": {
-        "lat": 52.15124,
-        "lng": -10.05686
+  "created_at": "2025-01-06T18:44:01.389820+00:00",
+  "objectID": "67e5be52b3d7ec452c385c701d859c0b",
+  "ref": "annascaul-lake-walking-route",
+  "title": "Annascaul Lake Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sheep_at_Anascaul_bridge_-_geograph.org.uk_-_108753.jpg",
+  "nearby": [
+    {
+      "description": "Annascaul River Walk",
+      "objectID": "682560af1cf70e651ea036d41a3bf9f5",
+      "ref": "annascaul-river-walk"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sheep_at_Anascaul_bridge_-_geograph.org.uk_-_108753.jpg",
-            "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sheep at Anascaul bridge. Sheep being herded along the main street of Anascaul, across the bridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Stone_Built_Shed_-_geograph.org.uk_-_845072.jpg",
-            "title": "kevin higgins / Stone Built Shed",
-            "caption": "Stone built shed at An Corn Dubh Mor."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/A_green_Irish_valley_near_Anascaul_-_geograph.org.uk_-_918145.jpg",
-            "title": "Peter Church / A green Irish valley near Anascaul",
-            "caption": "A green Irish valley near Anascaul. The view is southeast just as the land starts to rise towards the col. This is the walking / pony trail from the Inch peninsula to Brandon Bay."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_track_beside_Lough_Anascaul_-_geograph.org.uk_-_333141.jpg",
-            "title": "Colin Park / The track beside Lough Anascaul",
-            "caption": "The track beside Lough Anascaul This fine track leads across the Dingle Peninsula but is very wet over the col. On the right is Lough Anascaul."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lough_an_Scail_-_Lake_Anascaul_-_geograph.org.uk_-_920005.jpg",
-            "title": "Peter Church / Lough an Scail - Lake Anascaul",
-            "caption": "Lough an Scail - Lake Anascaul. This view of the lake is eastwards across the southern end."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Waterfall_on_Garrivagh_River_-_geograph.org.uk_-_333146.jpg",
-            "title": "Colin Park / Waterfall on Garrivagh River",
-            "caption": "Waterfall on Garrivagh River. The Garrivagh River rises on the northern slopes of Cnoc Mhaoilionain and flows to the sea south of Anascaul."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_track_down_to_Loch_an_Scail_-_geograph.org.uk_-_914142.jpg",
-            "title": "Peter Church / The track down to Loch an Scail",
-            "caption": "The track down to Loch an Scail. Below the photographer is a zigzag path that is seen on the lower right side of the photograph. From there it descends gently along the west side of the valley to the lake."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Valley_of_Lough_Anascaul_-_geograph.org.uk_-_845086.jpg",
-            "title": "kevin higgins / Valley of Lough Anascaul",
-            "caption": "The valley of Anascaul Lake, near the birthplace of Tom Crean, survivor of a number of early Antarctic expeditions."
-        }
-    ],
-    "distance_km": 5.7,
-    "description": "This walk visits the beautiful Annascaul Lake on the Dingle Peninsula in County Kerry. It's a remote and peaceful spot in a picturesque green river valley surrounded by striking mountainous scenery. The walk starts from the village of Annascaul which lies just to the south of the lake. From here you can follow quiet country lanes north to the lake. There's a nice track running along the western side of the lough with views across the water to the surrounding mountains. You can then continue north along the river to visit a series of pretty waterfalls on the Garrivagh River.",
-    "details": [
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "The Dingle Way is one of Ireland's National Waymarked Trails. The long distance walk passes through Annascaul village as it explores the beautiful coastline of Dingle Peninsula. You could follow the trail west to the coast and try the Ballydavid Cliff Walk, the Dunmore Head Walk and the Slea Head Walk where you can enjoy some fine views over the Atlantic Ocean. To the south east there's the wonderful Killarney National Park where you could visit narrow mountain pass at the Gap of Dunloe or enjoy more waterside walking at Mucross Lake, Lough Guitane and the Torc Waterfall. To the south you can try the Glenbeigh and Rossbeigh Hill Loop which visits the beautiful beach at Rossbeigh Strand and a fine viewpoint overlooking the village. Near here there's also the picturesque Caragh Lake where you can climb to a splendid viewpoint with views over Inch beach, the Dingle peninsula and MacGillycuddy's Reeks mountains. Also of interest is the popular climb to Carrauntoohil in the MacGillycuddy's Reeks mountain range. Here you can climb to the highest mountain in Ireland and enjoy some incredible views from the summit."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/rstXlbUZ26c",
-    "gazetteer_found": false,
-    "nominatim_found": true,
-    "display_address": "Statue of Our Lady, N86, Ballinvoher ED, Kenmare Municipal District, County Kerry, Munster, V92 N220, \u00c9ire / Ireland",
-    "postcode": "V92 N220",
-    "district": null,
-    "county": "County Kerry",
-    "region": null,
-    "state": null,
-    "country": "\u00c9ire / Ireland",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["mountain"],
-    "points_of_interest": ["waterfall"],
-    "facilities": ["car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Mucross Lake",
+      "objectID": "7344e35278699cb66481e45662cf217a",
+      "ref": "muckross-lake-walking-route"
+    },
+    {
+      "description": "Torc Waterfall",
+      "objectID": "c8909a703dbcb897b996fa8d6ff5e66a",
+      "ref": "torc-waterfall-walking-route"
+    },
+    {
+      "description": "Dingle Way",
+      "objectID": "6fffbd347c9117478d29580ce3d17c1d",
+      "ref": "dingle-way-walking-route"
+    },
+    {
+      "description": "Lough Guitane",
+      "objectID": "1cb9b2a074abfb914de6def908f9b106",
+      "ref": "lough-guitane-walking-route"
+    },
+    {
+      "description": "Lough Leane And Ross Castle",
+      "objectID": "d4590c5479bee012cc65a06a1131f049",
+      "ref": "lough-leane-and-ross-castle-walking-route"
+    },
+    {
+      "description": "Caragh Lake",
+      "objectID": "3a40b56d757464f237bd53a4bb63362e",
+      "ref": "caragh-lake-walking-route"
+    },
+    {
+      "description": "Carrauntoohil",
+      "objectID": "f90f4bebae415b4b36a18cd06dc90c95",
+      "ref": "carrauntoohil-walking-route"
+    },
+    {
+      "description": "Tralee Canal Walk",
+      "objectID": "d983d0cdf9b343988f28444b87761ce9",
+      "ref": "tralee-canal-walk"
+    },
+    {
+      "description": "Glanageenty Loop",
+      "objectID": "9dc8ba0c97c15797bc7af717803b5c23",
+      "ref": "glanageenty-loop-walking-route"
+    },
+    {
+      "description": "Slea Head",
+      "objectID": "35c9466a6bdd57ced9ffc6a0db278666",
+      "ref": "slea-head-walking-route"
+    },
+    {
+      "description": "Dunmore Head",
+      "objectID": "4490ab29c21182cc1bd8567b5c2f032d",
+      "ref": "dunmore-head-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/67e5be52b3d7ec452c385c701d859c0b.gpx",
+  "_geoloc": {
+    "lat": 52.15124,
+    "lng": -10.05686
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sheep_at_Anascaul_bridge_-_geograph.org.uk_-_108753.jpg",
+      "title": "RichTea, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sheep at Anascaul bridge. Sheep being herded along the main street of Anascaul, across the bridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Stone_Built_Shed_-_geograph.org.uk_-_845072.jpg",
+      "title": "kevin higgins / Stone Built Shed",
+      "caption": "Stone built shed at An Corn Dubh Mor."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/A_green_Irish_valley_near_Anascaul_-_geograph.org.uk_-_918145.jpg",
+      "title": "Peter Church / A green Irish valley near Anascaul",
+      "caption": "A green Irish valley near Anascaul. The view is southeast just as the land starts to rise towards the col. This is the walking / pony trail from the Inch peninsula to Brandon Bay."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_track_beside_Lough_Anascaul_-_geograph.org.uk_-_333141.jpg",
+      "title": "Colin Park / The track beside Lough Anascaul",
+      "caption": "The track beside Lough Anascaul This fine track leads across the Dingle Peninsula but is very wet over the col. On the right is Lough Anascaul."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lough_an_Scail_-_Lake_Anascaul_-_geograph.org.uk_-_920005.jpg",
+      "title": "Peter Church / Lough an Scail - Lake Anascaul",
+      "caption": "Lough an Scail - Lake Anascaul. This view of the lake is eastwards across the southern end."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Waterfall_on_Garrivagh_River_-_geograph.org.uk_-_333146.jpg",
+      "title": "Colin Park / Waterfall on Garrivagh River",
+      "caption": "Waterfall on Garrivagh River. The Garrivagh River rises on the northern slopes of Cnoc Mhaoilionain and flows to the sea south of Anascaul."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_track_down_to_Loch_an_Scail_-_geograph.org.uk_-_914142.jpg",
+      "title": "Peter Church / The track down to Loch an Scail",
+      "caption": "The track down to Loch an Scail. Below the photographer is a zigzag path that is seen on the lower right side of the photograph. From there it descends gently along the west side of the valley to the lake."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Valley_of_Lough_Anascaul_-_geograph.org.uk_-_845086.jpg",
+      "title": "kevin higgins / Valley of Lough Anascaul",
+      "caption": "The valley of Anascaul Lake, near the birthplace of Tom Crean, survivor of a number of early Antarctic expeditions."
+    }
+  ],
+  "distance_km": 5.7,
+  "description": "This walk visits the beautiful Annascaul Lake on the Dingle Peninsula in County Kerry. It's a remote and peaceful spot in a picturesque green river valley surrounded by striking mountainous scenery. The walk starts from the village of Annascaul which lies just to the south of the lake. From here you can follow quiet country lanes north to the lake. There's a nice track running along the western side of the lough with views across the water to the surrounding mountains. You can then continue north along the river to visit a series of pretty waterfalls on the Garrivagh River.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Dingle Way is one of Ireland's National Waymarked Trails. The long distance walk passes through Annascaul village as it explores the beautiful coastline of Dingle Peninsula. You could follow the trail west to the coast and try the Ballydavid Cliff Walk, the Dunmore Head Walk and the Slea Head Walk where you can enjoy some fine views over the Atlantic Ocean. To the south east there's the wonderful Killarney National Park where you could visit narrow mountain pass at the Gap of Dunloe or enjoy more waterside walking at Mucross Lake, Lough Guitane and the Torc Waterfall. To the south you can try the Glenbeigh and Rossbeigh Hill Loop which visits the beautiful beach at Rossbeigh Strand and a fine viewpoint overlooking the village. Near here there's also the picturesque Caragh Lake where you can climb to a splendid viewpoint with views over Inch beach, the Dingle peninsula and MacGillycuddy's Reeks mountains. Also of interest is the popular climb to Carrauntoohil in the MacGillycuddy's Reeks mountain range. Here you can climb to the highest mountain in Ireland and enjoy some incredible views from the summit."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/rstXlbUZ26c",
+  "gazetteer_found": false,
+  "nominatim_found": true,
+  "display_address": "Statue of Our Lady, N86, Ballinvoher ED, Kenmare Municipal District, County Kerry, Munster, V92 N220, \u00c9ire / Ireland",
+  "postcode": "V92 N220",
+  "district": null,
+  "county": "County Kerry",
+  "region": null,
+  "state": null,
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river valley",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "lake",
+    "waterfall"
+  ],
+  "facilities": [],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

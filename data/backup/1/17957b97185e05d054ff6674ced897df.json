@@ -3,7 +3,7 @@
   "objectID": "17957b97185e05d054ff6674ced897df",
   "ref": "kesgrave-walking-route",
   "title": "Kesgrave Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg/512px-A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg/500px-A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/17957b97185e05d054ff6674ced897df.gpx",
   "_geoloc": {
     "lat": 52.0613629719,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg/512px-A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg/500px-A1214_Main_Road_in_Kesgrave_-_geograph.org.uk_-_2544629.jpg",
       "title": "A1214 Main Road in Kesgrave by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A1214 Main Road in Kesgrave"
     },
@@ -44,8 +44,8 @@
   "display_address": "Twelve Acre Approach, Bell Lane, Old Kesgrave, Kesgrave, East Suffolk, Suffolk, England, IP5 1JR, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "heathland"
@@ -53,11 +53,10 @@
   "points_of_interest": [
     "historical site"
   ],
-  "facilities": [
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

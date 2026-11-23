@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<script>
+(function() {
+    var url = window.location.href;
+    var tracking = [
+        "fbclid=",
+        "gclid=",
+        "dclid=",
+        "wbraid=",
+        "gbraid=",
+        "msclkid=",
+        "ttclid=",
+        "twclid=",
+        "yclid=",
+        "igshid=",
+        "mc_cid=",
+        "mc_eid=",
+        "utm_source=",
+        "utm_medium=",
+        "utm_campaign=",
+        "utm_term=",
+        "utm_content="
+    ];
+
+    for (var i = 0; i < tracking.length; i++) {
+        if (url.indexOf(tracking[i]) !== -1) {
+            window.location.replace(url.split("?")[0]);
+            return;
+        }
+    }
+})();
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/?&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">Very sorry but this page doesn't seem to exist - <a href="/">Please Click here for the Homepage</a></form>
+</body>
+</html>

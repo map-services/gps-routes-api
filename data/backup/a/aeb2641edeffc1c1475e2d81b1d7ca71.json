@@ -3,7 +3,7 @@
   "objectID": "aeb2641edeffc1c1475e2d81b1d7ca71",
   "ref": "loch-avon-walking-route",
   "title": "Loch Avon Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg/512px-The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg/500px-The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg",
   "nearby": [
     {
       "description": "Cairn Gorm",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg/512px-The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg/500px-The_foot_of_Loch_Avon_-_geograph.org.uk_-_662616.jpg",
       "title": "Nigel Brown / The foot of Loch Avon",
       "caption": "The foot of Loch Avon"
     },
@@ -63,7 +63,7 @@
       "caption": "View of Loch Avon, Beinn Mheadhoin and Shelter Stone Crag from the point where the Feith Bhuide plunges from the Cairngorm Plateau into the glaciated valley containing Loch Avon."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Loch_Avon-Loch_A%27an_-_geograph.org.uk_-_2021349.jpg/512px-Loch_Avon-Loch_A%27an_-_geograph.org.uk_-_2021349.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Loch_Avon-Loch_A%27an_-_geograph.org.uk_-_2021349.jpg/500px-Loch_Avon-Loch_A%27an_-_geograph.org.uk_-_2021349.jpg",
       "title": "Loch Avon/Loch A'an by Colin Kinnear, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Loch Avon-Loch A'an"
     },
@@ -92,18 +92,17 @@
   "district": null,
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoint"
+    "loch",
+    "historical site"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

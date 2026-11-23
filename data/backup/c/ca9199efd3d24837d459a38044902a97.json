@@ -3,7 +3,7 @@
   "objectID": "ca9199efd3d24837d459a38044902a97",
   "ref": "great-staughton-and-little-staughton-walking-route",
   "title": "Great Staughton and Little Staughton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg/512px-The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg/500px-The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ca9199efd3d24837d459a38044902a97.gpx",
   "_geoloc": {
     "lat": 52.2668189158,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg/512px-The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg/500px-The_Highway%2C_Great_Staughton_-_geograph.org.uk_-_3630315.jpg",
       "title": "The Highway, Great Staughton by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Highway, Great Staughton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snooty_Tavern%2C_Great_Staughton_-_geograph.org.uk_-_3483785.jpg/512px-Snooty_Tavern%2C_Great_Staughton_-_geograph.org.uk_-_3483785.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snooty_Tavern%2C_Great_Staughton_-_geograph.org.uk_-_3483785.jpg/500px-Snooty_Tavern%2C_Great_Staughton_-_geograph.org.uk_-_3483785.jpg",
       "title": "Snooty Tavern, Great Staughton by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Snooty Tavern, Great Staughton"
     },
@@ -31,12 +31,12 @@
       "caption": "Footpath to Old Manor Farm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/All_Saints%27_Little_Staughton_-_geograph.org.uk_-_4512194.jpg/512px-All_Saints%27_Little_Staughton_-_geograph.org.uk_-_4512194.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/All_Saints%27_Little_Staughton_-_geograph.org.uk_-_4512194.jpg/500px-All_Saints%27_Little_Staughton_-_geograph.org.uk_-_4512194.jpg",
       "title": "All Saints' Little Staughton by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "All Saints' Little Staughton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RAF_Little_Staughton_memorial_-_geograph.org.uk_-_4512160.jpg/512px-RAF_Little_Staughton_memorial_-_geograph.org.uk_-_4512160.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RAF_Little_Staughton_memorial_-_geograph.org.uk_-_4512160.jpg/500px-RAF_Little_Staughton_memorial_-_geograph.org.uk_-_4512160.jpg",
       "title": "RAF Little Staughton memorial by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "RAF Little Staughton memorial"
     }
@@ -63,19 +63,20 @@
   "postcode": "PE19 5LB",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "1 hour 40 minutes",
   "difficulty": "easy",
   "terrain": [
-    "rural"
-  ],
-  "points_of_interest": [
     "countryside"
   ],
-  "facilities": [
-    "car park"
+  "points_of_interest": [
+    "historical site"
   ],
-  "route_type": "circular",
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "b1723da5ef959e826b3ccffacf9f0611",
   "ref": "stourbridge-canal-walking-route",
   "title": "Stourbridge Canal Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg/256px-Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg/330px-Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg",
   "nearby": [
     {
       "description": "Staffordshire and Worcestershire Canal",
@@ -58,7 +58,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg/256px-Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg/330px-Stourbridge_Canal%2C_Stourbridge_-_geograph.org.uk_-_840012.jpg",
       "title": "Stephen McKay / Stourbridge Canal, Stourbridge",
       "caption": "The end of the Stourbridge Canal arm in the centre of Stourbridge. The building on the right is the bonded warehouse, dating from 1779. The sign directs boaters to the 'winding hole' - a location where it is possible to turn narrowboats."
     },
@@ -107,20 +107,16 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "countryside"
+    "waterside"
   ],
   "points_of_interest": [
-    "locks",
-    "countryside"
+    "canal lock"
   ],
-  "facilities": [
-    "car park"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

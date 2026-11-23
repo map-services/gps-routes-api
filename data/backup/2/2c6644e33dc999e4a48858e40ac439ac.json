@@ -3,7 +3,7 @@
   "objectID": "2c6644e33dc999e4a48858e40ac439ac",
   "ref": "malton-walking-route",
   "title": "Walk Around Malton Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_Festival.JPG/512px-Church_Festival.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_Festival.JPG/500px-Church_Festival.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2c6644e33dc999e4a48858e40ac439ac.gpx",
   "_geoloc": {
     "lat": 54.1349304398,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_Festival.JPG/512px-Church_Festival.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_Festival.JPG/500px-Church_Festival.JPG",
       "title": "By Malton and Norton [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons",
       "caption": "Church Festival"
     },
@@ -46,7 +46,7 @@
       "caption": "The Market Square, Malton"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Malton%2C_North_Yorkshire_..._YO17_1002_delivery_office._%285047174535%29.jpg/256px-Malton%2C_North_Yorkshire_..._YO17_1002_delivery_office._%285047174535%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Malton%2C_North_Yorkshire_..._YO17_1002_delivery_office._%285047174535%29.jpg/330px-Malton%2C_North_Yorkshire_..._YO17_1002_delivery_office._%285047174535%29.jpg",
       "title": "By BazzaDaRambler [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Town centre buildings"
     }
@@ -70,26 +70,21 @@
   "display_address": "St Leonard's with St Marys, Church Hill, Old Malton, Malton, North Yorkshire, York and North Yorkshire, England, YO17 7HJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "garden",
-    "river",
-    "rural"
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
-    "castle",
-    "fort",
-    "market place",
-    "ruins",
-    "parkland"
+    "historical site",
+    "viewpoint",
+    "castle"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

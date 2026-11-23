@@ -3,7 +3,7 @@
   "objectID": "d685b88c2e2fa33c526f519cc7dd9fc0",
   "ref": "haydon-bridge-walking-route",
   "title": "Haydon Bridge Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg/512px-Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg/500px-Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d685b88c2e2fa33c526f519cc7dd9fc0.gpx",
   "_geoloc": {
     "lat": 54.973245453,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg/512px-Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg/500px-Haydon_Bridge_-_geograph.org.uk_-_2138728.jpg",
       "title": "Haydon Bridge by Peter McDermott, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Haydon Bridge"
     },
@@ -78,21 +78,23 @@
   "district": "Haydon Bridge",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "countryside",
-    "river"
+    "river",
+    "country"
   ],
   "points_of_interest": [
-    "views",
-    "castle"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

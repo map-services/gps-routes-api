@@ -4,7 +4,14 @@ __pycache__
 .vscode
 api
 archive
-data
+# Exclude the data dir, but re-include the tracked `data/backup` sample used to
+# seed the SQLite image at build time (Dockerfile.sqlite). The gitignored
+# local `data/routes.db` and any other `data/*` artifacts stay excluded, so the
+# default Postgres build context is unaffected except for the ~58MB sample JSON
+# (already tracked in the repo) carried into the sqlite build context.
+data/*
+!data/backup/
+!data/backup/**
 openapi-spec
 templates
 openapitools.json

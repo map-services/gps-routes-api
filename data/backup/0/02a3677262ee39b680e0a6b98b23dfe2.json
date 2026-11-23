@@ -53,7 +53,7 @@
       "caption": "Fishing boat on Aldeburgh beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Haven%2C_Aldeburgh_4.jpg/512px-The_Haven%2C_Aldeburgh_4.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Haven%2C_Aldeburgh_4.jpg/500px-The_Haven%2C_Aldeburgh_4.jpg",
       "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "The Haven, Aldeburgh"
     },
@@ -63,22 +63,22 @@
       "caption": "Footbridge, Black Heath Forest"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Snape_Marshes_9.jpg/512px-Snape_Marshes_9.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Snape_Marshes_9.jpg/500px-Snape_Marshes_9.jpg",
       "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Snape Marshes 1"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Snape_Marshes_5.jpg/512px-Snape_Marshes_5.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Snape_Marshes_5.jpg/500px-Snape_Marshes_5.jpg",
       "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Snape Marshes 2"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snape_Marshes_2.jpg/512px-Snape_Marshes_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snape_Marshes_2.jpg/500px-Snape_Marshes_2.jpg",
       "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Snape Marshes 3"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snape_Marshes_2.jpg/512px-Snape_Marshes_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Snape_Marshes_2.jpg/500px-Snape_Marshes_2.jpg",
       "title": "Dudley Miles [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
       "caption": "Snape Marshes 4"
     },
@@ -112,24 +112,21 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
+    "coastal",
     "woodland",
-    "beach",
     "marshland"
   ],
   "points_of_interest": [
+    "nature reserve",
     "arts complex",
-    "concert hall",
-    "nature reserve"
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "shops",
-    "restaurants",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

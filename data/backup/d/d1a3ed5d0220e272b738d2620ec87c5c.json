@@ -3,7 +3,7 @@
   "objectID": "d1a3ed5d0220e272b738d2620ec87c5c",
   "ref": "bovey-tracey-walking-route",
   "title": "Bovey Tracey Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg/512px-Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg/500px-Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1a3ed5d0220e272b738d2620ec87c5c.gpx",
   "_geoloc": {
     "lat": 50.5922234322,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg/512px-Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg/500px-Station_Road%2C_Bovey_Tracey_-_geograph.org.uk_-_1992835.jpg",
       "title": "Station Road, Bovey Tracey by Andrew Hackney, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Station Road in the town."
     },
@@ -41,12 +41,12 @@
       "caption": "On Lustleigh Cleave"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/View_from_Sharpitor_-_geograph.org.uk_-_2140926.jpg/512px-View_from_Sharpitor_-_geograph.org.uk_-_2140926.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/View_from_Sharpitor_-_geograph.org.uk_-_2140926.jpg/500px-View_from_Sharpitor_-_geograph.org.uk_-_2140926.jpg",
       "title": "View from Sharpitor by Guy Wareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View from Sharpitor"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meadow%2C_Bovey_valley_-_geograph.org.uk_-_1210196.jpg/256px-Meadow%2C_Bovey_valley_-_geograph.org.uk_-_1210196.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meadow%2C_Bovey_valley_-_geograph.org.uk_-_1210196.jpg/330px-Meadow%2C_Bovey_valley_-_geograph.org.uk_-_1210196.jpg",
       "title": "Derek Harper / Meadow, Bovey valley",
       "caption": "Meadow, Bovey valley. The Parke estate is a mixture of woodland and meadows, the latter on the Bovey floodplain. Here a gate provides access from the riverside path to a meadow beside the wooded railway embankment."
     }
@@ -82,23 +82,23 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "valley",
-    "moor"
+    "river",
+    "heath"
   ],
   "points_of_interest": [
-    "church",
+    "ancient fort",
+    "historical site",
     "visitor attraction",
-    "fort",
-    "nature reserve"
+    "beauty spot",
+    "rock"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "dog friendly",
-    "footpath"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

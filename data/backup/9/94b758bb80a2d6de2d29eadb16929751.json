@@ -26,7 +26,7 @@
       "caption": "River confluence. The Can meets the Chelmer, just to the south east of the town centre."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NCN_Millennium_Milepost_MP814_Admirals_Park_Chelmsford.jpeg/512px-NCN_Millennium_Milepost_MP814_Admirals_Park_Chelmsford.jpeg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NCN_Millennium_Milepost_MP814_Admirals_Park_Chelmsford.jpeg/500px-NCN_Millennium_Milepost_MP814_Admirals_Park_Chelmsford.jpeg",
       "title": "Chris Morgan / Bridge over River Cam, Chelmsford",
       "caption": "A National Cycle Network Millennium Milepost in Admirals Park. Also shown here is a bridge over the River Cam which runs through the park. The park is another nice place for a stroll in the town."
     },
@@ -60,25 +60,23 @@
   "display_address": "Parkway, Moulsham, Chelmsford, Essex, England, CM1 1PB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "3 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "park"
+    "riverbank",
+    "meadow"
   ],
   "points_of_interest": [
+    "railway viaduct",
     "nature reserve",
-    "canal",
-    "town"
+    "cricket ground",
+    "canal"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
     "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

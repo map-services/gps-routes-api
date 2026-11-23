@@ -1,131 +1,144 @@
 {
-    "created_at": "2025-01-06T03:13:31.547427+00:00",
-    "objectID": "49d72d8ff2a5a0c644bc9086983c4e3c",
-    "ref": "riding-mill-walking-route",
-    "title": "Riding Mill Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Riding_Mill_Station.jpg",
-    "nearby": [
-        {
-            "description": "Corbridge",
-            "objectID": "132d9dc762e3426de4d38f39ec71d778",
-            "ref": "corbridge-walking-route"
-        },
-        {
-            "description": "Hexham",
-            "objectID": "791fdfe6ae4a208ef4d9ead8d8c0b38d",
-            "ref": "hexham-walking-route"
-        },
-        {
-            "description": "Hexham to Corbridge",
-            "objectID": "829fc354f3447e90c7f114b1d0a69b1a",
-            "ref": "hexham-to-corbridge-walking-route"
-        },
-        {
-            "description": "Whittle Dene Reservoir",
-            "objectID": "3d3409af55409a80af70b70eb3510e03",
-            "ref": "whittle-dene-reservoir-walking-route"
-        },
-        {
-            "description": "Hadrian's Wall Path",
-            "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
-            "ref": "hadrians-wall-path-walking-route"
-        },
-        {
-            "description": "Tyne Green Country Park",
-            "objectID": "e11fa1ed85caf08431f68f74fa951502",
-            "ref": "tyne-green-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Allen Banks and Staward Gorge",
-            "objectID": "53098583b01b281164a4be625247c55c",
-            "ref": "allen-banks-and-staward-gorge-walking-route"
-        },
-        {
-            "description": "Slalely Forest",
-            "objectID": "328467c23ec07df59ce8f25489a46cd1",
-            "ref": "slalely-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Stocksfield",
-            "objectID": "97965c49273bf6b74d7c8529866490e3",
-            "ref": "stocksfield-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/49d72d8ff2a5a0c644bc9086983c4e3c.gpx",
-    "_geoloc": {
-        "lat": 54.948530686,
-        "lng": -1.9699537377
+  "created_at": "2025-01-06T03:13:31.547427+00:00",
+  "objectID": "49d72d8ff2a5a0c644bc9086983c4e3c",
+  "ref": "riding-mill-walking-route",
+  "title": "Riding Mill Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Riding_Mill_Station.jpg",
+  "nearby": [
+    {
+      "description": "Corbridge",
+      "objectID": "132d9dc762e3426de4d38f39ec71d778",
+      "ref": "corbridge-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Riding_Mill_Station.jpg",
-            "title": "Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Riding Mill Station"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/River_Tyne_between_Styford_Hall_and_Riding_Mill_-_geograph.org.uk_-_1588590.jpg",
-            "title": "John Clive Nicholson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Tyne between Styford Hall and Riding Mill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_north_bank_of_the_River_Tyne_below_Corbridge_-_geograph.org.uk_-_1812330.jpg",
-            "title": "The north bank of the River Tyne below Corbridge by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The north bank of the River Tyne below Corbridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Bridge_at_Corbridge_from_the_east_side_-_geograph.org.uk_-_1561177.jpg",
-            "title": "John Clive Nicholson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Bridge at Corbridge from the east side"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Falls_on_the_Devil%27s_Water_-_geograph.org.uk_-_1736773.jpg",
-            "title": "Joan Sykes / Falls on the Devil's Water",
-            "caption": "Falls on the Devil's Water"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bridge_at_Dilston_-_geograph.org.uk_-_1723404.jpg",
-            "title": "Oliver Dixon / Bridge at Dilston",
-            "caption": "Bridge at Dilston"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/On_the_banks_of_the_Tyne_-_geograph.org.uk_-_1700288.jpg",
-            "title": "Oliver Dixon / On the banks of the Tyne",
-            "caption": "On the banks of the Tyne. A nearly-fallen tree hangs over the riverside path on the south bank of the Tyne opposite Corbridge."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Devil%27s_Water_Flood_Wall_-_geograph.org.uk_-_1260739.jpg",
-            "title": "wfmillar / Devil's Water Flood Wall",
-            "caption": "Devil's Water Flood Wall. Strengthening project to the flood defence (left of tree) is near completion, just the grass to grow. River Tyne on the right with Egger factory's steam plume in the distance."
-        }
-    ],
-    "distance_km": 16.0,
-    "description": "This walk from the Northumberland village of Riding Mill takes you along a pleasant section of the River Tyne to Dilston via Corbridge. The historic riverside village is a nice place for a stroll with a packhorse bridge and local pub dating from the 17th century. The walk starts from the train station which is located very close to the river. Follow the river trail north and it will take you past Styford Park to Farnley Haugh Gravel Pits. The route continues to Corbridge where you can cross the bridge to explore the town on the opposite side. Here you will find an impressive Roman Fort and a museum detailing the interesting history of the town. The route then crosses back over to continue to Dilston where you can explore the point where the river meets with Devil's Water. In this scenic area there are a number of waterfalls, an old chapel and Dilston Castle to see. To extend the walk you could continue west to visit nearby Hexham. See the Hexham to Corbridge Walk for more details.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "The Wellington Hotel dates back to 1660 and serves good quality dishes. You can find them near the train station on the Main Road at postcode NE44 6DQ for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just a few miles to the north east you can pick up the epic Hadrian's Wall Path and explore the pictiresque Whittle Dene Reservoir on the wall."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/mExAeVujM3s",
-    "postcode": "NE44 6EE",
-    "district": "Riding Mill",
-    "county": "Northumberland",
-    "region": "North East",
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Broomhaugh, Broomhaugh and Riding, Riding Mill, Northumberland, North East, England, NE44 6EE, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "moderate",
-    "terrain": ["river", "park"],
-    "points_of_interest": ["bridge", "museum", "castle", "waterfall", "chapel"],
-    "facilities": ["pub/cafe", "visitor center", "car park"],
-    "route_type": "out and back",
-    "activities": ["walking"]
+    {
+      "description": "Hexham",
+      "objectID": "791fdfe6ae4a208ef4d9ead8d8c0b38d",
+      "ref": "hexham-walking-route"
+    },
+    {
+      "description": "Hexham to Corbridge",
+      "objectID": "829fc354f3447e90c7f114b1d0a69b1a",
+      "ref": "hexham-to-corbridge-walking-route"
+    },
+    {
+      "description": "Whittle Dene Reservoir",
+      "objectID": "3d3409af55409a80af70b70eb3510e03",
+      "ref": "whittle-dene-reservoir-walking-route"
+    },
+    {
+      "description": "Hadrian's Wall Path",
+      "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
+      "ref": "hadrians-wall-path-walking-route"
+    },
+    {
+      "description": "Tyne Green Country Park",
+      "objectID": "e11fa1ed85caf08431f68f74fa951502",
+      "ref": "tyne-green-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Allen Banks and Staward Gorge",
+      "objectID": "53098583b01b281164a4be625247c55c",
+      "ref": "allen-banks-and-staward-gorge-walking-route"
+    },
+    {
+      "description": "Slalely Forest",
+      "objectID": "328467c23ec07df59ce8f25489a46cd1",
+      "ref": "slalely-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Stocksfield",
+      "objectID": "97965c49273bf6b74d7c8529866490e3",
+      "ref": "stocksfield-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/49d72d8ff2a5a0c644bc9086983c4e3c.gpx",
+  "_geoloc": {
+    "lat": 54.948530686,
+    "lng": -1.9699537377
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Riding_Mill_Station.jpg",
+      "title": "Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Riding Mill Station"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/River_Tyne_between_Styford_Hall_and_Riding_Mill_-_geograph.org.uk_-_1588590.jpg",
+      "title": "John Clive Nicholson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Tyne between Styford Hall and Riding Mill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_north_bank_of_the_River_Tyne_below_Corbridge_-_geograph.org.uk_-_1812330.jpg",
+      "title": "The north bank of the River Tyne below Corbridge by Mike Quinn, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The north bank of the River Tyne below Corbridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Bridge_at_Corbridge_from_the_east_side_-_geograph.org.uk_-_1561177.jpg",
+      "title": "John Clive Nicholson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Bridge at Corbridge from the east side"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Falls_on_the_Devil%27s_Water_-_geograph.org.uk_-_1736773.jpg",
+      "title": "Joan Sykes / Falls on the Devil's Water",
+      "caption": "Falls on the Devil's Water"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bridge_at_Dilston_-_geograph.org.uk_-_1723404.jpg",
+      "title": "Oliver Dixon / Bridge at Dilston",
+      "caption": "Bridge at Dilston"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/On_the_banks_of_the_Tyne_-_geograph.org.uk_-_1700288.jpg",
+      "title": "Oliver Dixon / On the banks of the Tyne",
+      "caption": "On the banks of the Tyne. A nearly-fallen tree hangs over the riverside path on the south bank of the Tyne opposite Corbridge."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Devil%27s_Water_Flood_Wall_-_geograph.org.uk_-_1260739.jpg",
+      "title": "wfmillar / Devil's Water Flood Wall",
+      "caption": "Devil's Water Flood Wall. Strengthening project to the flood defence (left of tree) is near completion, just the grass to grow. River Tyne on the right with Egger factory's steam plume in the distance."
+    }
+  ],
+  "distance_km": 16.0,
+  "description": "This walk from the Northumberland village of Riding Mill takes you along a pleasant section of the River Tyne to Dilston via Corbridge. The historic riverside village is a nice place for a stroll with a packhorse bridge and local pub dating from the 17th century. The walk starts from the train station which is located very close to the river. Follow the river trail north and it will take you past Styford Park to Farnley Haugh Gravel Pits. The route continues to Corbridge where you can cross the bridge to explore the town on the opposite side. Here you will find an impressive Roman Fort and a museum detailing the interesting history of the town. The route then crosses back over to continue to Dilston where you can explore the point where the river meets with Devil's Water. In this scenic area there are a number of waterfalls, an old chapel and Dilston Castle to see. To extend the walk you could continue west to visit nearby Hexham. See the Hexham to Corbridge Walk for more details.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Wellington Hotel dates back to 1660 and serves good quality dishes. You can find them near the train station on the Main Road at postcode NE44 6DQ for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a few miles to the north east you can pick up the epic Hadrian's Wall Path and explore the pictiresque Whittle Dene Reservoir on the wall."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/mExAeVujM3s",
+  "postcode": "NE44 6EE",
+  "district": "Riding Mill",
+  "county": "Northumberland",
+  "region": "North East",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Broomhaugh, Broomhaugh and Riding, Riding Mill, Northumberland, North East, England, NE44 6EE, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 hours 20 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "river"
+  ],
+  "points_of_interest": [
+    "historical site",
+    "viewpoint",
+    "Roman Fort",
+    "museum",
+    "waterfall",
+    "castle"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

@@ -3,7 +3,7 @@
   "objectID": "385d3164a296c738c4f81dab6ca18c9f",
   "ref": "poolewe-walking-route",
   "title": "Poolewe and Loch Ewe Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg/512px-Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg?20210625111351",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg/500px-Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg?20210625111351",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/385d3164a296c738c4f81dab6ca18c9f.gpx",
   "_geoloc": {
     "lat": 57.7689448127,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg/512px-Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg?20210625111351",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg/500px-Gairloch_%2C_Inverewe_House_at_Inverewe_Garden_-_geograph.org.uk_-_2227934.jpg?20210625111351",
       "title": "Gairloch : Inverewe House at Inverewe Garden by Ken Bagnall, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Gairloch, Inverewe House at Inverewe Garden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/In_Inverewe_Garden_-_geograph.org.uk_-_3478137.jpg/512px-In_Inverewe_Garden_-_geograph.org.uk_-_3478137.jpg?20220503131547",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/In_Inverewe_Garden_-_geograph.org.uk_-_3478137.jpg/500px-In_Inverewe_Garden_-_geograph.org.uk_-_3478137.jpg?20220503131547",
       "title": "In Inverewe Garden by Jim Barton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "In Inverewe Garden"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Inverewe_Garden_03.jpg/512px-Inverewe_Garden_03.jpg?20100222213531",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Inverewe_Garden_03.jpg/500px-Inverewe_Garden_03.jpg?20100222213531",
       "title": "Alexandre Dulaunoy from Les Bulles, Chiny, Belgium, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Inverewe Garden 03"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tea_shop_at_Poolewe_-_geograph.org.uk_-_3360818.jpg/512px-Tea_shop_at_Poolewe_-_geograph.org.uk_-_3360818.jpg?20220404074459",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tea_shop_at_Poolewe_-_geograph.org.uk_-_3360818.jpg/500px-Tea_shop_at_Poolewe_-_geograph.org.uk_-_3360818.jpg?20220404074459",
       "title": "Tea shop at Poolewe by Jennifer Jones, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tea shop at Poolewe"
     },
@@ -36,7 +36,7 @@
       "caption": "The Post Office, Poolewe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Poolewe_bridge_-_geograph.org.uk_-_2423165.jpg/512px-Poolewe_bridge_-_geograph.org.uk_-_2423165.jpg?20210801120209",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Poolewe_bridge_-_geograph.org.uk_-_2423165.jpg/500px-Poolewe_bridge_-_geograph.org.uk_-_2423165.jpg?20210801120209",
       "title": "Poolewe bridge by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Poolewe bridge"
     }
@@ -55,24 +55,22 @@
   "district": "Poolewe",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
     "coastal",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
     "garden",
-    "viewpoint",
-    "loch"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

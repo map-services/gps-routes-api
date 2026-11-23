@@ -68,7 +68,7 @@
       "caption": "Path enters Clowes Wood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/512px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/500px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg",
       "title": "By Hans Musil (Picture taken and postprocessed by Hans Musil.) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Canterbury Cathedral"
     }
@@ -91,27 +91,25 @@
   "postcode": "CT5 1SD",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "2 to 3 hours",
   "difficulty": "easy",
   "terrain": [
+    "coastal",
     "woodland",
-    "woodland",
-    "heathland",
-    "meadow"
+    "heathland"
   ],
   "points_of_interest": [
     "harbour",
-    "nature reserve",
-    "university buildings"
+    "national nature reserve",
+    "cathedral",
+    "university"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "pub/cafe"
+    "train station"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

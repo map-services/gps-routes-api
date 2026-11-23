@@ -3,7 +3,7 @@
   "objectID": "35fb02cd47a0472a955c1baabb689aa6",
   "ref": "longton-walking-route",
   "title": "Longton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg/512px-Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg/500px-Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/35fb02cd47a0472a955c1baabb689aa6.gpx",
   "_geoloc": {
     "lat": 53.719832317,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg/512px-Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg/500px-Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg",
       "title": "Longton Brickcroft Visitor's Centre by Gerald McKenna, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Longton Brickcroft Visitor's Centre"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Longton_Brickcroft_Local_Nature_Reserve_-_geograph.org.uk_-_2422945.jpg/512px-Longton_Brickcroft_Local_Nature_Reserve_-_geograph.org.uk_-_2422945.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Longton_Brickcroft_Local_Nature_Reserve_-_geograph.org.uk_-_2422945.jpg/500px-Longton_Brickcroft_Local_Nature_Reserve_-_geograph.org.uk_-_2422945.jpg",
       "title": "Longton Brickcroft Local Nature Reserve by Gerald McKenna, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A view across the pond in spring. Created from water which has filled the former clay pits. The areas surrounding the water have been allowed to develop naturally with trees, shrubbery and wild plants."
     },
@@ -50,21 +50,20 @@
   "display_address": "Drumacre Lane West, Longton, Walmer Bridge, South Ribble, Lancashire, England, PR4 4SB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "water"
+    "woodland"
   ],
   "points_of_interest": [
-    "visitor center",
-    "viewpoint"
+    "nature reserve",
+    "visitor centre",
+    "river"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

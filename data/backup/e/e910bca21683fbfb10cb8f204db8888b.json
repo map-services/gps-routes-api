@@ -3,7 +3,7 @@
   "objectID": "e910bca21683fbfb10cb8f204db8888b",
   "ref": "acaster-malbis-walking-route",
   "title": "Acaster Malbis Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg/512px-Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg/500px-Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e910bca21683fbfb10cb8f204db8888b.gpx",
   "_geoloc": {
     "lat": 53.8991150729,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg/512px-Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg/500px-Riverside_Footpath_Acaster_Malbis_-_geograph.org.uk_-_3383642.jpg",
       "title": "Riverside Footpath Acaster Malbis by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Riverside Footpath Acaster Malbis"
     },
@@ -21,22 +21,22 @@
       "caption": "River Ouse at Acaster Malbis"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Riverside_path_at_Acaster_Malbis_-_geograph.org.uk_-_4107264.jpg/512px-The_Riverside_path_at_Acaster_Malbis_-_geograph.org.uk_-_4107264.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Riverside_path_at_Acaster_Malbis_-_geograph.org.uk_-_4107264.jpg/500px-The_Riverside_path_at_Acaster_Malbis_-_geograph.org.uk_-_4107264.jpg",
       "title": "The Riverside path at Acaster Malbis by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Riverside path at Acaster Malbis"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Church_Ings%2C_Acaster_Malbis_-_geograph.org.uk_-_2730222.jpg/512px-Church_Ings%2C_Acaster_Malbis_-_geograph.org.uk_-_2730222.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Church_Ings%2C_Acaster_Malbis_-_geograph.org.uk_-_2730222.jpg/500px-Church_Ings%2C_Acaster_Malbis_-_geograph.org.uk_-_2730222.jpg",
       "title": "Church Ings, Acaster Malbis by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Church Ings, Acaster Malbis"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/View_of_River_Ouse%2C_looking_towards_the_old_Railway_Bridge_-_geograph.org.uk_-_1818992.jpg/512px-View_of_River_Ouse%2C_looking_towards_the_old_Railway_Bridge_-_geograph.org.uk_-_1818992.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/View_of_River_Ouse%2C_looking_towards_the_old_Railway_Bridge_-_geograph.org.uk_-_1818992.jpg/500px-View_of_River_Ouse%2C_looking_towards_the_old_Railway_Bridge_-_geograph.org.uk_-_1818992.jpg",
       "title": "View of River Ouse, looking towards the old Railway Bridge by Michael Jagger, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View of River Ouse, looking towards the old Railway Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Naburn_Bridge%2C_Bishopthorpe_-_geograph.org.uk_-_4107019.jpg/512px-Naburn_Bridge%2C_Bishopthorpe_-_geograph.org.uk_-_4107019.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Naburn_Bridge%2C_Bishopthorpe_-_geograph.org.uk_-_4107019.jpg/500px-Naburn_Bridge%2C_Bishopthorpe_-_geograph.org.uk_-_4107019.jpg",
       "title": "Naburn Bridge, Bishopthorpe by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Naburn Bridge, Bishopthorpe"
     }
@@ -60,20 +60,21 @@
   "display_address": "Port Lodge, Cobblers Trod, Acaster Malbis, York, York and North Yorkshire, England, YO23 2TZ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "path"
+    "riverside",
+    "countryside"
   ],
   "points_of_interest": [
     "village",
-    "countryside"
+    "locks",
+    "sensory garden"
   ],
   "facilities": [
-    "visitor center",
-    "nature trail",
-    "sensory garden"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

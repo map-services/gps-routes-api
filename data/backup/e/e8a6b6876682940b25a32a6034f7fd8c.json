@@ -23,12 +23,12 @@
       "caption": "Lochan a' Choire. View east of the summit of Stob Poite Coire Ardair, overlooking Lochan a' Choire."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Creag_Meagaidh01LB.jpg/512px-Creag_Meagaidh01LB.jpg?20190809124614",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Creag_Meagaidh01LB.jpg/500px-Creag_Meagaidh01LB.jpg?20190809124614",
       "title": "Lesbardd, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Signs in English & in Scottish Gaelic at the entrance to Creag Meagaidh National Nature Reserve. Birdlife in the reserve include Snow bunting and golden plover which breed on the higher heaths and summit plateau. Red grouse and greenshank are often seen on the lower slopes. The denser woodland on the lower part of the reserve also provides a home for chaffinch, willow warbler, tree pipit and wren."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Post_Face%2C_Coire_Ardair_%28geograph_4523069%29.jpg/512px-The_Post_Face%2C_Coire_Ardair_%28geograph_4523069%29.jpg?20210501131845",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Post_Face%2C_Coire_Ardair_%28geograph_4523069%29.jpg/500px-The_Post_Face%2C_Coire_Ardair_%28geograph_4523069%29.jpg?20210501131845",
       "title": "Jim Barton / The Post Face, Coire Ardair",
       "caption": "The Post Face, Coire Ardair. The area is probably most well known for the cliffs surrounding the corrie of Coire Ardair on the north-eastern face. These crags are a renowned venue for ice climbing. The cliffs above Coire Ardair have mostly avoided grazing and support a number of rare species such as alpine foxtail, alpine lady-fern, Norwegian cudweed, downy willow and sibbaldia."
     },
@@ -38,12 +38,12 @@
       "caption": "The summit of Stob Poite Coire Ardair. Looking past the cairn along the almost level ridge to Stob Poite Coire Ardair's other slightly lower summit."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Summit_ridge_of_Creag_Meagaidh_-_geograph.org.uk_-_2780639.jpg/512px-Summit_ridge_of_Creag_Meagaidh_-_geograph.org.uk_-_2780639.jpg?20211125083100",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Summit_ridge_of_Creag_Meagaidh_-_geograph.org.uk_-_2780639.jpg/500px-Summit_ridge_of_Creag_Meagaidh_-_geograph.org.uk_-_2780639.jpg?20211125083100",
       "title": "Summit ridge of Creag Meagaidh by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Summit ridge of Creag Meagaidh"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_west_southwest_from_Carn_Liath_-_geograph.org.uk_-_739560.jpg/512px-View_west_southwest_from_Carn_Liath_-_geograph.org.uk_-_739560.jpg?20170830223841",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_west_southwest_from_Carn_Liath_-_geograph.org.uk_-_739560.jpg/500px-View_west_southwest_from_Carn_Liath_-_geograph.org.uk_-_739560.jpg?20170830223841",
       "title": "Nigel Brown / View west southwest from Carn Liath",
       "caption": "View west southwest from Carn Liath. Taken from west of the summit, where the plateau is beginning to fall away. Creag Megaidh, Coire Ardair and Stob Poite Coire Ardair can be seen in the distance."
     }
@@ -62,17 +62,18 @@
   "district": null,
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "6 hours",
   "difficulty": "moderate",
   "terrain": [
-    "mountain"
+    "mountain",
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoint"
+    "summit",
+    "viewpoint",
+    "sandy beach"
   ],
-  "facilities": [
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking"

@@ -3,7 +3,7 @@
   "objectID": "47bb810f4d5da563492bdac78c793a42",
   "ref": "threlkeld-walking-route",
   "title": "Threlkeld Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg/512px-Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg/500px-Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/47bb810f4d5da563492bdac78c793a42.gpx",
   "_geoloc": {
     "lat": 54.6184960386,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg/512px-Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg/500px-Main_street%2C_Threlkeld_-_geograph.org.uk_-_4549387.jpg",
       "title": "Main street, Threlkeld by Nigel Brown, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Main street, Threlkeld. The name is of Norse origin and is a combination of thraell, meaning slave or serf, and kelda, meaning a spring or well. Thraell was probably a reference to native Cumbrians subjugated by the incoming Norse."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Horse_%5E_Farrier_Inn%2C_Threlkeld_%282%29_-_geograph.org.uk_-_4658156.jpg/512px-Horse_%5E_Farrier_Inn%2C_Threlkeld_%282%29_-_geograph.org.uk_-_4658156.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Horse_%5E_Farrier_Inn%2C_Threlkeld_%282%29_-_geograph.org.uk_-_4658156.jpg/500px-Horse_%5E_Farrier_Inn%2C_Threlkeld_%282%29_-_geograph.org.uk_-_4658156.jpg",
       "title": "Horse & Farrier Inn, Threlkeld (2) by The Carlisle Kid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Horse and Farrier Inn"
     },
@@ -41,12 +41,12 @@
       "caption": "River Glenderamackin. The river rises on Mungrisdale Common north of Blencathra and drains much of the eastern and southern sides of the mountain."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Threlkeld_cricket_ground_-_geograph.org.uk_-_4653819.jpg/512px-Threlkeld_cricket_ground_-_geograph.org.uk_-_4653819.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Threlkeld_cricket_ground_-_geograph.org.uk_-_4653819.jpg/500px-Threlkeld_cricket_ground_-_geograph.org.uk_-_4653819.jpg",
       "title": "Threlkeld cricket ground by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Threlkeld cricket ground"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/St_Mary%27s_Church%2C_Threlkeld%2C_Cumbria_%281%29_-_geograph.org.uk_-_4656701.jpg/512px-St_Mary%27s_Church%2C_Threlkeld%2C_Cumbria_%281%29_-_geograph.org.uk_-_4656701.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/St_Mary%27s_Church%2C_Threlkeld%2C_Cumbria_%281%29_-_geograph.org.uk_-_4656701.jpg/500px-St_Mary%27s_Church%2C_Threlkeld%2C_Cumbria_%281%29_-_geograph.org.uk_-_4656701.jpg",
       "title": "St Mary's Church, Threlkeld, Cumbria (1) by The Carlisle Kid, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Mary's Church. Dates to 1777."
     }
@@ -74,22 +74,21 @@
   "display_address": "A594, Threlkeld, Westmorland and Furness, England, CA12 4SJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
     "woodland"
   ],
   "points_of_interest": [
-    "museum",
-    "historical site"
+    "viewpoint",
+    "historical site",
+    "museum"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "railway"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

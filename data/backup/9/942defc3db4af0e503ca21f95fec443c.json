@@ -16,12 +16,12 @@
       "caption": "Heswall Dales. Fine view to the coast from the heath."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rocky_outcrop_at_Heswall_Dales_-_geograph.org.uk_-_341719.jpg/256px-Rocky_outcrop_at_Heswall_Dales_-_geograph.org.uk_-_341719.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rocky_outcrop_at_Heswall_Dales_-_geograph.org.uk_-_341719.jpg/330px-Rocky_outcrop_at_Heswall_Dales_-_geograph.org.uk_-_341719.jpg",
       "title": "Peter Craine, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rocky outcrop at Heswall Dales"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heswall_Dales%2C_Wirral%2C_Merseyside_%282008%29.jpg/512px-Heswall_Dales%2C_Wirral%2C_Merseyside_%282008%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heswall_Dales%2C_Wirral%2C_Merseyside_%282008%29.jpg/500px-Heswall_Dales%2C_Wirral%2C_Merseyside_%282008%29.jpg",
       "title": "Moogleboi at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Heswall Dales, Wirral, Merseyside"
     },
@@ -31,7 +31,7 @@
       "caption": "Telegraph Road in the town"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Entrance_to_Heswall_Fields_from_Wirral_Way_-_geograph.org.uk_-_2585477.jpg/512px-Entrance_to_Heswall_Fields_from_Wirral_Way_-_geograph.org.uk_-_2585477.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Entrance_to_Heswall_Fields_from_Wirral_Way_-_geograph.org.uk_-_2585477.jpg/500px-Entrance_to_Heswall_Fields_from_Wirral_Way_-_geograph.org.uk_-_2585477.jpg",
       "title": "Entrance to Heswall Fields from Wirral Way by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Entrance to Heswall Fields from Wirral Way"
     },
@@ -41,7 +41,7 @@
       "caption": "High tide at Heswall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jug_%26_Bottle%2C_Heswall.jpg/512px-Jug_%26_Bottle%2C_Heswall.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jug_%26_Bottle%2C_Heswall.jpg/500px-Jug_%26_Bottle%2C_Heswall.jpg",
       "title": "Rodhullandemu, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Jug and Bottle pub. Rest and refresh yourself at this fine pub after exploring the heath. The pub is located in the town's former council offices."
     },
@@ -78,9 +78,10 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
+    "coastal",
     "heathland",
     "woodland"
   ],
@@ -89,11 +90,12 @@
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

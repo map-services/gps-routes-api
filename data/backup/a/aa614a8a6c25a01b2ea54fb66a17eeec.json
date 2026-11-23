@@ -3,7 +3,7 @@
   "objectID": "aa614a8a6c25a01b2ea54fb66a17eeec",
   "ref": "bosley-cloud-walking-route",
   "title": "Bosley Cloud Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/512px-Bosley_Cloud_facing_Cheshire.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/500px-Bosley_Cloud_facing_Cheshire.jpg",
   "nearby": [
     {
       "description": "Bosley Reservoir",
@@ -48,17 +48,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/512px-Bosley_Cloud_facing_Cheshire.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/500px-Bosley_Cloud_facing_Cheshire.jpg",
       "title": "Kentynet [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "View from Bosley Cloud facing Cheshire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/512px-Bosley_Cloud_facing_Cheshire.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bosley_Cloud_facing_Cheshire.jpg/500px-Bosley_Cloud_facing_Cheshire.jpg",
       "title": "Kentynet [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "The Ordnance Survey triangulation point at the north end of Bosley Cloud"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BosleyCloud.jpg/512px-BosleyCloud.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BosleyCloud.jpg/500px-BosleyCloud.jpg",
       "title": "Dave.Dunford [Public domain], via Wikimedia Commons",
       "caption": "View of the hill from below"
     },
@@ -68,7 +68,7 @@
       "caption": "The Cloud as seen from a footpath near Pool Bank. The Cloud seems to dominate, almost threaten Congleton. It is the outstanding feature from Mow Cop to the south to Gawsworth Common to the north."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosley_Cloud_-_geograph.org.uk_-_36616.jpg/256px-Bosley_Cloud_-_geograph.org.uk_-_36616.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosley_Cloud_-_geograph.org.uk_-_36616.jpg/330px-Bosley_Cloud_-_geograph.org.uk_-_36616.jpg",
       "title": "Richard Webb / Bosley Cloud",
       "caption": "Path up this gritstone Pennine outlier on the Cheshire Staffordshire border."
     },
@@ -101,22 +101,24 @@
   "display_address": "Ivy Cottage, Tunstall Road, The Paddock, Timbersbrook, Congleton, Cheshire East, England, CW12 3QA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "craggy"
   ],
   "points_of_interest": [
-    "viewpoint"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

@@ -26,7 +26,7 @@
       "caption": "Footpath to the beach, Aber Draw"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Pembrokeshire_Coast_Path_near_Pwll_Crochan_-_geograph.org.uk_-_5437864.jpg/512px-The_Pembrokeshire_Coast_Path_near_Pwll_Crochan_-_geograph.org.uk_-_5437864.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Pembrokeshire_Coast_Path_near_Pwll_Crochan_-_geograph.org.uk_-_5437864.jpg/500px-The_Pembrokeshire_Coast_Path_near_Pwll_Crochan_-_geograph.org.uk_-_5437864.jpg",
       "title": "The Pembrokeshire Coast Path near Pwll Crochan by Dave Kelly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Pembrokeshire Coast Path near Pwll Crochan"
     },
@@ -36,12 +36,12 @@
       "caption": "Standing stone above Trefin bay"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Pembrokeshire_Coast_Path_near_Gribinau_-_geograph.org.uk_-_5437858.jpg/512px-The_Pembrokeshire_Coast_Path_near_Gribinau_-_geograph.org.uk_-_5437858.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Pembrokeshire_Coast_Path_near_Gribinau_-_geograph.org.uk_-_5437858.jpg/500px-The_Pembrokeshire_Coast_Path_near_Gribinau_-_geograph.org.uk_-_5437858.jpg",
       "title": "The Pembrokeshire Coast Path near Gribinau by Dave Kelly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Pembrokeshire Coast Path near Gribinau"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Pembrokeshire_Coast_Path_near_Porthgain_-_geograph.org.uk_-_5437842.jpg/512px-The_Pembrokeshire_Coast_Path_near_Porthgain_-_geograph.org.uk_-_5437842.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Pembrokeshire_Coast_Path_near_Porthgain_-_geograph.org.uk_-_5437842.jpg/500px-The_Pembrokeshire_Coast_Path_near_Porthgain_-_geograph.org.uk_-_5437842.jpg",
       "title": "The Pembrokeshire Coast Path near Porthgain by Dave Kelly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Pembrokeshire Coast Path near Porthgain"
     },
@@ -64,28 +64,25 @@
   "district": "Trefin",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "coastal",
-    "cliff"
+    "cliff top"
   ],
   "points_of_interest": [
     "historic mill",
-    "rock formations",
-    "caves",
+    "rock formation",
+    "cave",
+    "waterfall",
     "harbour",
-    "galleries",
-    "quarries"
+    "quarry"
   ],
   "facilities": [
-    "pub/cafe",
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "f6b8024033c64b8164b85712621b4eea",
   "ref": "fordingbridge-walking-route",
   "title": "Fordingbridge River Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Avon_and_bridge_at_Fordingbridge.JPG/512px-River_Avon_and_bridge_at_Fordingbridge.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Avon_and_bridge_at_Fordingbridge.JPG/500px-River_Avon_and_bridge_at_Fordingbridge.JPG",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f6b8024033c64b8164b85712621b4eea.gpx",
   "_geoloc": {
     "lat": 50.9273070775,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Avon_and_bridge_at_Fordingbridge.JPG/512px-River_Avon_and_bridge_at_Fordingbridge.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/River_Avon_and_bridge_at_Fordingbridge.JPG/500px-River_Avon_and_bridge_at_Fordingbridge.JPG",
       "title": "(Wellington) [Public domain], via Wikimedia Commons",
       "caption": "The bridge over the Avon at Fordingbridge. The historic bridge is 40 metres long and consists of seven stone arches. As such it is one of just two bridges with seven arches in the UK. It's also known as \"The Great Bridge\" and dates from the medieval period. The town takes its name from the bridge."
     },
@@ -78,21 +78,22 @@
   "display_address": "Created by You, 5, High Street, Horseport, Fordingbridge, New Forest, Hampshire, England, SP6 1AS, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "path",
-    "riverside"
+    "waterside"
   ],
   "points_of_interest": [
-    "church",
-    "farms"
+    "historical site",
+    "church"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

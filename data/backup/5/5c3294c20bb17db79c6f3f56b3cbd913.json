@@ -3,7 +3,7 @@
   "objectID": "5c3294c20bb17db79c6f3f56b3cbd913",
   "ref": "doveridge-walking-route",
   "title": "Doveridge Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg/256px-Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg/330px-Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5c3294c20bb17db79c6f3f56b3cbd913.gpx",
   "_geoloc": {
     "lat": 52.9032389466,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg/256px-Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg/330px-Village_cross%2C_Doveridge_-_geograph.org.uk_-_200461.jpg",
       "title": "Oliver Dixon / Village cross, Doveridge",
       "caption": "Village cross, Doveridge. At the start of Church Lane"
     },
@@ -21,7 +21,7 @@
       "caption": "Raised causeway leading to footbridge over River Dove The footpath and the suspension bridge, was constructed at the behest of the Brace family who were living at Doveridge Hall at the turn of the 20th Century. It opened in 1901. Raising the pathway allowed people to continue to use the path even when the Dove was in flood."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Footpath_suspension_bridge_over_the_River_Dove_-_geograph.org.uk_-_1262655.jpg/256px-Footpath_suspension_bridge_over_the_River_Dove_-_geograph.org.uk_-_1262655.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Footpath_suspension_bridge_over_the_River_Dove_-_geograph.org.uk_-_1262655.jpg/330px-Footpath_suspension_bridge_over_the_River_Dove_-_geograph.org.uk_-_1262655.jpg",
       "title": "Peter Taylor / Footpath suspension bridge over the River Dove",
       "caption": "Footpath suspension bridge over the River Dove. The bridge was built in 1901."
     },
@@ -41,7 +41,7 @@
       "caption": "Two Bridges over the Dove. The ancient Dove Bridge on the right, simple modern beam bridge for the A50 on the left. The latter has probably carried more people than the former."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Manor_House_in_Doveridge_%28geograph_3642611%29.jpg/512px-Manor_House_in_Doveridge_%28geograph_3642611%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Manor_House_in_Doveridge_%28geograph_3642611%29.jpg/500px-Manor_House_in_Doveridge_%28geograph_3642611%29.jpg",
       "title": "Jonathan Clitheroe / Manor House in Doveridge",
       "caption": "Manor House in Doveridge"
     },
@@ -74,20 +74,19 @@
   "postcode": "DE6 5PL",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "rural",
-    "river"
+    "countryside"
   ],
   "points_of_interest": [
-    "church",
-    "river"
+    "bridge",
+    "weir"
   ],
   "facilities": [
-    "footbridge"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

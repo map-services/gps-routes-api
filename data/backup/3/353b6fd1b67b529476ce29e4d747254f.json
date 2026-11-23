@@ -3,7 +3,7 @@
   "objectID": "353b6fd1b67b529476ce29e4d747254f",
   "ref": "borehamwood-walking-route",
   "title": "Borehamwood Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg/512px-Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg/500px-Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/353b6fd1b67b529476ce29e4d747254f.gpx",
   "_geoloc": {
     "lat": 51.6529633729,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg/512px-Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg/500px-Shenley_Road%2C_Borehamwood_-_geograph.org.uk_-_1817292.jpg",
       "title": "Shenley Road, Borehamwood by David Howard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Shenley Road, Borehamwood"
     },
@@ -46,7 +46,7 @@
       "caption": "Bentley Priory. Bentley Priory was occupied by the RAF from 1926 until the spring of 2008, perhaps the most important time in its history was during World War Two when it was the headquarters of Fighter Command. The site has been sold to a developer and plans to convert some of the building to luxury apartments and build new houses have been approved. The Bentley Priory Battle of Britain Trust has secured part of the building to be used as a museum and memorial dedicated to those who served in the RAF. In September 2008 the site was open to the public for the first time part of the Civic Trust Heritage Open Days, this photograph shows the south face of the main buildings on one of those days."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stanmore_Country_Park%2C_Wood_Farm_Viewpoint%2C_London_View_1.jpg/512px-Stanmore_Country_Park%2C_Wood_Farm_Viewpoint%2C_London_View_1.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stanmore_Country_Park%2C_Wood_Farm_Viewpoint%2C_London_View_1.jpg/500px-Stanmore_Country_Park%2C_Wood_Farm_Viewpoint%2C_London_View_1.jpg",
       "title": "TheFrog001, CC0, via Wikimedia Commons",
       "caption": "Stanmore Country Park, Wood Farm Viewpoint, London View."
     }
@@ -78,22 +78,24 @@
   "display_address": "Grade Close, Elstree and Borehamwood, Borehamwood, Hertsmere, Hertfordshire, England, WD6 3HU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "heath",
     "pasture"
   ],
   "points_of_interest": [
+    "nature reserve",
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

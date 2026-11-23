@@ -3,7 +3,7 @@
   "objectID": "fa1d10090cc2e9b43b24f3267934f9cc",
   "ref": "charing-walking-route",
   "title": "Charing Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charing_Windmill_-_geograph.org.uk_-_1266297.jpg/256px-Charing_Windmill_-_geograph.org.uk_-_1266297.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charing_Windmill_-_geograph.org.uk_-_1266297.jpg/330px-Charing_Windmill_-_geograph.org.uk_-_1266297.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa1d10090cc2e9b43b24f3267934f9cc.gpx",
   "_geoloc": {
     "lat": 51.2153408375,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charing_Windmill_-_geograph.org.uk_-_1266297.jpg/256px-Charing_Windmill_-_geograph.org.uk_-_1266297.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charing_Windmill_-_geograph.org.uk_-_1266297.jpg/330px-Charing_Windmill_-_geograph.org.uk_-_1266297.jpg",
       "title": "Paul / Charing Windmill",
       "caption": "Charing Windmill. Perched on the top of the North Downs"
     },
@@ -46,7 +46,7 @@
       "caption": "North Downs Way between Charing - Westwell. The North Downs Way is the track on the right. It runs through woods along the North Downs escarpment"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Archbishop%27s_Palace%2C_Charing%2C_Dec_2020.jpg/512px-Archbishop%27s_Palace%2C_Charing%2C_Dec_2020.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Archbishop%27s_Palace%2C_Charing%2C_Dec_2020.jpg/500px-Archbishop%27s_Palace%2C_Charing%2C_Dec_2020.jpg",
       "title": "Poliphilo, CC0, via Wikimedia Commons",
       "caption": "Archbishop's Palace, Charing. An important heritage site dating back to the eighth century, and one of the earliest to be owned by the see of Canterbury. The current palace dates back to the late thirteenth century with later additions and rebuilding, notably under Archbishop John Morton in the late fifteenth century who 'made great building at Charing'"
     }
@@ -78,25 +78,25 @@
   "display_address": "Pilgrims Way, Charing, Ashford, Kent, England, TN27 0JS, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "4 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "historic"
+    "countryside"
   ],
   "points_of_interest": [
-    "windmill",
+    "historical site",
     "church",
-    "palace",
-    "common"
+    "windmill",
+    "manor"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

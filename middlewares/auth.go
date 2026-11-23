@@ -1,15 +1,21 @@
 package middlewares
 
 import (
-	"log"
+	"crypto/subtle"
 	"net/http"
 	"os"
+	"slices"
 
 	"github.com/gin-gonic/gin"
+
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
-func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
+func AuthMiddleware(excluded ...string) gin.HandlerFunc {
 	apiKey := os.Getenv("GPS_ROUTES_API_KEY")
+	if apiKey == "" {
+		panic("GPS_ROUTES_API_KEY environment variable is not set")
+	}
 
 	return func(c *gin.Context) {
 
@@ -19,23 +25,20 @@ func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
 			return
 		}
 
-		for _, path := range notlogged {
-			log.Printf("Checking path: %s against notlogged path %s", c.Request.RequestURI, path)
-			if path == c.Request.RequestURI {
-				c.Next() // Skip authentication for this path
-				return
-			}
+		if slices.Contains(excluded, c.Request.URL.Path) {
+			c.Next() // Skip authentication for this path
+			return
 		}
 
 		clientKey := c.GetHeader("X-API-Key")
 
 		if clientKey == "" {
-			c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{"error": "API Key Required"})
+			c.AbortWithStatusJSON(http.StatusUnauthorized, common.NewErrorResponse("UNAUTHORIZED", "API Key Required"))
 			return
 		}
 
-		if clientKey != apiKey {
-			c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{"error": "Invalid API Key"})
+		if subtle.ConstantTimeCompare([]byte(clientKey), []byte(apiKey)) != 1 {
+			c.AbortWithStatusJSON(http.StatusUnauthorized, common.NewErrorResponse("UNAUTHORIZED", "Invalid API Key"))
 			return
 		}
 

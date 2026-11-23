@@ -83,12 +83,12 @@
       "caption": "Tyne Bridge, Haltwhistle"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hexham_Bridge_-_geograph.org.uk_-_3268193.jpg/512px-Hexham_Bridge_-_geograph.org.uk_-_3268193.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hexham_Bridge_-_geograph.org.uk_-_3268193.jpg/500px-Hexham_Bridge_-_geograph.org.uk_-_3268193.jpg",
       "title": "Hexham Bridge by Richard Cooke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hexham Bridge"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/South_Tyne_Lambley_Viaduct0087.JPG/512px-South_Tyne_Lambley_Viaduct0087.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/South_Tyne_Lambley_Viaduct0087.JPG/500px-South_Tyne_Lambley_Viaduct0087.JPG",
       "title": "Clem Rutter, Rochester, Kent, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "South Tyne Lambley Viaduc"
     },
@@ -98,7 +98,7 @@
       "caption": "Slaggyford Station, South Tyne Trail"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/South_Tyne_nearLambley_Viaduct_6179.JPG/512px-South_Tyne_nearLambley_Viaduct_6179.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/South_Tyne_nearLambley_Viaduct_6179.JPG/500px-South_Tyne_nearLambley_Viaduct_6179.JPG",
       "title": "Clem Rutter, Rochester, Kent, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
       "caption": "South Tyne near Lambley Viaduct. The 13 arch Lambley viaduct was constructed over the River South Tyne in 1852 to complete the Alston Line between Haltwhistle in Northumberland and Alston in Cumbria. The line closed in May 1976. The trackbed is now a walking trail, the South Tyne Trail."
     },
@@ -127,24 +127,23 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "gorge"
+    "coastal",
+    "woodland"
   ],
   "points_of_interest": [
-    "castle",
+    "ruined castle",
     "priory",
-    "national trail",
+    "gorge",
+    "viaduct",
     "waterfall"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "linear",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

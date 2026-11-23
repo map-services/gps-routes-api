@@ -3,7 +3,7 @@
   "objectID": "7b1d02cf3b040ac05c2e43f8b22f7315",
   "ref": "blockley-walking-route",
   "title": "Blockley Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/St_Peter_and_St_Paul%2C_Blockley.jpg/512px-St_Peter_and_St_Paul%2C_Blockley.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/St_Peter_and_St_Paul%2C_Blockley.jpg/500px-St_Peter_and_St_Paul%2C_Blockley.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7b1d02cf3b040ac05c2e43f8b22f7315.gpx",
   "_geoloc": {
     "lat": 52.0120880617,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/St_Peter_and_St_Paul%2C_Blockley.jpg/512px-St_Peter_and_St_Paul%2C_Blockley.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/St_Peter_and_St_Paul%2C_Blockley.jpg/500px-St_Peter_and_St_Paul%2C_Blockley.jpg",
       "title": "DeFacto [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "The church of St Peter and St Paul in Blockley, Gloucestershire. This church, parts of which date back to the 12th century, is a Grade II* Listed Building in England."
     },
@@ -21,27 +21,27 @@
       "caption": "Waterside, Blockley. This property alongside Blockley Brook is called Waterside. Although I can't find any reference to it being a former water mill the blocked up opening in the wall on the left could well have housed a bearing for a wheel."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Greystones%2C_Blockley-geograph-1939832-by-Michael-Dibb.jpg/512px-Greystones%2C_Blockley-geograph-1939832-by-Michael-Dibb.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Greystones%2C_Blockley-geograph-1939832-by-Michael-Dibb.jpg/500px-Greystones%2C_Blockley-geograph-1939832-by-Michael-Dibb.jpg",
       "title": "Michael Dibb / Greystones, Blockley, via Wikimedia Commons",
       "caption": "Greystones, Blockley"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Batsford-Arboretum-bridge.jpg/512px-Batsford-Arboretum-bridge.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Batsford-Arboretum-bridge.jpg/500px-Batsford-Arboretum-bridge.jpg",
       "title": "Mervyn [Public domain], via Wikimedia Commons",
       "caption": "Japanese bridge at Batsford Arboretum"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Batsford_Arboretum_lily_pond-7267380244.jpg/512px-Batsford_Arboretum_lily_pond-7267380244.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Batsford_Arboretum_lily_pond-7267380244.jpg/500px-Batsford_Arboretum_lily_pond-7267380244.jpg",
       "title": "RachTHeH [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Batsford Arboretum lily pond"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sezincote_House_%28geograph_5866723%29.jpg/512px-Sezincote_House_%28geograph_5866723%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sezincote_House_%28geograph_5866723%29.jpg/500px-Sezincote_House_%28geograph_5866723%29.jpg",
       "title": "Philip Halling / Sezincote House, via Wikimedia Commons",
       "caption": "Sezincote House"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_grounds_of_Sezincote_%28geograph_4492572%29.jpg/512px-The_grounds_of_Sezincote_%28geograph_4492572%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_grounds_of_Sezincote_%28geograph_4492572%29.jpg/500px-The_grounds_of_Sezincote_%28geograph_4492572%29.jpg",
       "title": "Philip Halling / The grounds of Sezincote, via Wikimedia Commons",
       "caption": "The grounds of Sezincote"
     },
@@ -70,21 +70,18 @@
   "display_address": "Bell Bank, Blockley, Cotswold, Gloucestershire, England, GL56 9EU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "pasture"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical church",
-    "palace",
-    "gardens",
-    "arboretum"
+    "historical site",
+    "arboretum",
+    "house"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

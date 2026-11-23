@@ -3,7 +3,7 @@
   "objectID": "218db180804d809ac0b6c5a65f184d11",
   "ref": "wickford-walking-route",
   "title": "Wickford Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg/512px-Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg/500px-Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/218db180804d809ac0b6c5a65f184d11.gpx",
   "_geoloc": {
     "lat": 51.618036736,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg/512px-Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg/500px-Memorial_Park%2C_Wickford_-_geograph.org.uk_-_2164091.jpg",
       "title": "Memorial Park, Wickford by terry joyce, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Memorial Park, Wickford"
     },
@@ -21,12 +21,12 @@
       "caption": "Shotgate Pond"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Giddings_Copse_-_geograph.org.uk_-_1253439.jpg/256px-Giddings_Copse_-_geograph.org.uk_-_1253439.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Giddings_Copse_-_geograph.org.uk_-_1253439.jpg/330px-Giddings_Copse_-_geograph.org.uk_-_1253439.jpg",
       "title": "Glyn Baker / Giddings Copse",
       "caption": "Giddings Copse. The bird box in Giddings Copse was almost certainly placed with the advice of the Wickford Wildlife Society"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shotgate_Thickets_-_geograph.org.uk_-_1253314.jpg/256px-Shotgate_Thickets_-_geograph.org.uk_-_1253314.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shotgate_Thickets_-_geograph.org.uk_-_1253314.jpg/330px-Shotgate_Thickets_-_geograph.org.uk_-_1253314.jpg",
       "title": "Glyn Baker / Shotgate Thickets",
       "caption": "Shotgate Thickets. This reserve is owned by Essex Wildlife trust all three types of U.K woodpecker frequent the reserve. There is a good mix of aquatic, scrub and woodland habitats that support lots of wildlife. This is the entrance on the footpath from Battlesbridge"
     },
@@ -41,12 +41,12 @@
       "caption": "River Crouch. Downstream of Wickford and viewed looking downstream."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Wick_Country_Park_-_geograph.org.uk_-_2171664.jpg/512px-The_Wick_Country_Park_-_geograph.org.uk_-_2171664.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Wick_Country_Park_-_geograph.org.uk_-_2171664.jpg/500px-The_Wick_Country_Park_-_geograph.org.uk_-_2171664.jpg",
       "title": "The Wick Country Park by terry joyce, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Wick Country Park trail"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wick_Country_Park_-_geograph.org.uk_-_2172052.jpg/512px-Wick_Country_Park_-_geograph.org.uk_-_2172052.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wick_Country_Park_-_geograph.org.uk_-_2172052.jpg/500px-Wick_Country_Park_-_geograph.org.uk_-_2172052.jpg",
       "title": "Wick Country Park by terry joyce, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Wick Country Park wetlands"
     }
@@ -77,21 +77,19 @@
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "park"
+    "country park",
+    "lake"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

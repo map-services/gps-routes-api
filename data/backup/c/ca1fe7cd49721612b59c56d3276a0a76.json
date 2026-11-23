@@ -3,7 +3,7 @@
   "objectID": "ca1fe7cd49721612b59c56d3276a0a76",
   "ref": "cairn-gorm-walking-route",
   "title": "Cairn Gorm Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/512px-Cairngorm_mountains_with_cumulus_clouds.JPG",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/500px-Cairngorm_mountains_with_cumulus_clouds.JPG",
   "nearby": [
     {
       "description": "Ben Macdui",
@@ -33,7 +33,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/512px-Cairngorm_mountains_with_cumulus_clouds.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/500px-Cairngorm_mountains_with_cumulus_clouds.JPG",
       "title": "Oliver Arend, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Cairngorm mountains, looking north, taken from the \"Windy Ridge Path\" to the Cairn Gorm summit, showing cumulus clouds. The walk traverses a range of habitats, each supporting distinctive flora and fauna. At lower elevations, remnants of Caledonian pine forests feature Scots pine, birch, and juniper, providing habitats for species such as red squirrels and crossbills. As the altitude increases, the landscape transitions to heather moorland, dominated by ling heather and blaeberry, which support insects like the mountain bumblebee. In the alpine zone, hardy plants such as moss campion and dwarf willow adapt to the harsh conditions, and ptarmigans, well-camouflaged birds, can often be spotted among the rocks."
     },
@@ -48,7 +48,7 @@
       "caption": "View to the South from the Summit of Cairngorm"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rocky_terrain_leading_to_Cairngorm_summit_-_geograph.org.uk_-_1975599.jpg/512px-Rocky_terrain_leading_to_Cairngorm_summit_-_geograph.org.uk_-_1975599.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rocky_terrain_leading_to_Cairngorm_summit_-_geograph.org.uk_-_1975599.jpg/500px-Rocky_terrain_leading_to_Cairngorm_summit_-_geograph.org.uk_-_1975599.jpg",
       "title": "Rocky terrain leading to Cairngorm summit by Peter S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Rocky terrain leading to the summit"
     },
@@ -91,23 +91,22 @@
   "district": null,
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "restaurant",
-    "weather station",
-    "viewpoint"
+    "summit",
+    "weather station"
   ],
   "facilities": [
-    "car park",
-    "funicular railway",
-    "visitor center"
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "mountain biking"
   ]
 }

@@ -48,12 +48,12 @@
       "caption": "Dover Western Docks"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dover-Beach-20040907-001.jpg/512px-Dover-Beach-20040907-001.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dover-Beach-20040907-001.jpg/500px-Dover-Beach-20040907-001.jpg",
       "title": "By Gary Houston (Own work) [CC0], via Wikimedia Commons",
       "caption": "Dover Beach"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DoverTemplarChurch_CMOKT.JPG/512px-DoverTemplarChurch_CMOKT.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DoverTemplarChurch_CMOKT.JPG/500px-DoverTemplarChurch_CMOKT.JPG",
       "title": "By Gabirro (Own work) [Public domain], via Wikimedia Commons",
       "caption": "Knights Templar Church"
     },
@@ -68,7 +68,7 @@
       "caption": "Lagoons and White Cliffs at Samphire Hoe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_of_Folkestone%2C_Warren_and_harbour_from_Battle_of_Britain_Memorial_0265.JPG/512px-View_of_Folkestone%2C_Warren_and_harbour_from_Battle_of_Britain_Memorial_0265.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_of_Folkestone%2C_Warren_and_harbour_from_Battle_of_Britain_Memorial_0265.JPG/500px-View_of_Folkestone%2C_Warren_and_harbour_from_Battle_of_Britain_Memorial_0265.JPG",
       "title": "By Clem Rutter, Rochester, Kent [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
       "caption": "Folkestone, Warren and harbour from Battle of Britain Memorial"
     },
@@ -78,7 +78,7 @@
       "caption": "Folkestone Harbour"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Beach_of_Folkestone_1.JPG/512px-Beach_of_Folkestone_1.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Beach_of_Folkestone_1.JPG/500px-Beach_of_Folkestone_1.JPG",
       "title": "By Immanuel Giel (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Beach at Folkestone"
     }
@@ -97,28 +97,26 @@
   "postcode": "CT16 1LH",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "7 miles",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "cliff tops",
-    "woodland",
-    "coastal"
+    "coastal",
+    "cliff top",
+    "woodland"
   ],
   "points_of_interest": [
-    "country parks",
-    "ruins",
-    "Nature Reserve",
-    "Roman Villa",
-    "Martello Towers"
+    "historical site",
+    "viewpoint",
+    "country park",
+    "nature reserve",
+    "ruin",
+    "fortification",
+    "roman villa"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly",
-    "adventure play area",
-    "pub/cafe"
+    "play area"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

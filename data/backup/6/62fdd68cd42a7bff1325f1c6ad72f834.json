@@ -3,7 +3,7 @@
   "objectID": "62fdd68cd42a7bff1325f1c6ad72f834",
   "ref": "hailsham-walking-route",
   "title": "Hailsham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg/512px-Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg/500px-Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/62fdd68cd42a7bff1325f1c6ad72f834.gpx",
   "_geoloc": {
     "lat": 50.8588197484,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg/512px-Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg/500px-Common_Pond%2C_Hailsham_-_geograph.org.uk_-_4353021.jpg",
       "title": "Common Pond, Hailsham by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Common Pond, Hailsham"
     },
@@ -31,7 +31,7 @@
       "caption": "Moat at Michelham Priory. This is the longest medieval water filled moat in the UK."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Michelham_Priory_Gardens_-_geograph.org.uk_-_2508878.jpg/512px-Michelham_Priory_Gardens_-_geograph.org.uk_-_2508878.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Michelham_Priory_Gardens_-_geograph.org.uk_-_2508878.jpg/500px-Michelham_Priory_Gardens_-_geograph.org.uk_-_2508878.jpg",
       "title": "Michelham Priory Gardens by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Michelham Priory Gardens"
     },
@@ -70,22 +70,19 @@
   "district": "Wealden",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
     "historical site",
-    "gardens",
-    "water mill"
+    "pond"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

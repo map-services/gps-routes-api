@@ -53,12 +53,12 @@
       "caption": "RSPB Lakenheath Fen. The far western end, where it meets Botany Bay (the other side of the houses)."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kestrel_-_Lakenheath_Fen_%2838515855171%29.jpg/512px-Kestrel_-_Lakenheath_Fen_%2838515855171%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kestrel_-_Lakenheath_Fen_%2838515855171%29.jpg/500px-Kestrel_-_Lakenheath_Fen_%2838515855171%29.jpg",
       "title": "Airwolfhound from Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Kestrel"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Swan_-_Lakenheath_Fen_%2831914166443%29.jpg/512px-Swan_-_Lakenheath_Fen_%2831914166443%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Swan_-_Lakenheath_Fen_%2831914166443%29.jpg/500px-Swan_-_Lakenheath_Fen_%2831914166443%29.jpg",
       "title": "Airwolfhound [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Swan"
     },
@@ -115,20 +115,23 @@
   "district": "West Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "wetland",
-    "marsh"
+    "marsh",
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife watching"
+    "wildlife watching",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "train station"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

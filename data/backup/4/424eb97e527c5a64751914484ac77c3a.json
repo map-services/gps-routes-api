@@ -3,7 +3,7 @@
   "objectID": "424eb97e527c5a64751914484ac77c3a",
   "ref": "dinas-powys-walking-route",
   "title": "Dinas Powys Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg/512px-Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg/500px-Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg",
   "nearby": [
     {
       "description": "Cosmeston Lakes Country Park",
@@ -53,12 +53,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg/512px-Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg/500px-Cadoxton_River%2C_Dinas_Powys_-_geograph.org.uk_-_5071260.jpg",
       "title": "Jaggery / Cadoxton River, Dinas Powys",
       "caption": "Cadoxton River, Dinas Powys. Flowing towards the camera on the north side of an A4055 Cardiff Road bridge. About 8km long, the streamlike Cadoxton River is one of the shortest rivers (so named) in Wales."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/War_memorial_at_Dinas_Powys_-_geograph.org.uk_-_3435727.jpg/512px-War_memorial_at_Dinas_Powys_-_geograph.org.uk_-_3435727.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/War_memorial_at_Dinas_Powys_-_geograph.org.uk_-_3435727.jpg/500px-War_memorial_at_Dinas_Powys_-_geograph.org.uk_-_3435727.jpg",
       "title": "Bill Boaden / War memorial at Dinas Powys",
       "caption": "A view of the War memorial at Dinas Powys. Located on the green in the centre of the village."
     },
@@ -83,12 +83,12 @@
       "caption": "Michelston-le-Pit Village Green, Vale of Glamorgan. This small village carries no through traffic, being at the end of a \"Cul de sac\" about a mile from the nearest main road"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dinas_Powys_Parish_Hall_-_geograph.org.uk_-_5072626.jpg/512px-Dinas_Powys_Parish_Hall_-_geograph.org.uk_-_5072626.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dinas_Powys_Parish_Hall_-_geograph.org.uk_-_5072626.jpg/500px-Dinas_Powys_Parish_Hall_-_geograph.org.uk_-_5072626.jpg",
       "title": "Jaggery / Dinas Powys Parish Hall",
       "caption": "Dinas Powys Parish Hall. Viewed across Britway Road. Built in 1907 in the Arts and Crafts style. Grade II listed in 2002."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dinas_Powys_Methodist_Church%2C_Dinas_Powys_-_geograph.org.uk_-_5070221.jpg/512px-Dinas_Powys_Methodist_Church%2C_Dinas_Powys_-_geograph.org.uk_-_5070221.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dinas_Powys_Methodist_Church%2C_Dinas_Powys_-_geograph.org.uk_-_5070221.jpg/500px-Dinas_Powys_Methodist_Church%2C_Dinas_Powys_-_geograph.org.uk_-_5070221.jpg",
       "title": "Jaggery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dinas Powys Methodist Church. Viewed across Station Road in August 2016. The information board states that the church entrance is now from Mount Road. The church is part of the Vale of Glamorgan Methodist Circuit, a group of ten Methodist churches in the southern part of the old county of Glamorgan, between Cardiff and Bridgend."
     }
@@ -119,23 +119,27 @@
   "postcode": "CF64 4AG",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "river"
   ],
   "points_of_interest": [
-    "historical site",
-    "village"
+    "listed building",
+    "village common",
+    "salmon leap",
+    "lake",
+    "weir",
+    "castle remains"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

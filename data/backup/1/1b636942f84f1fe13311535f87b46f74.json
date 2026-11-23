@@ -3,7 +3,7 @@
   "objectID": "1b636942f84f1fe13311535f87b46f74",
   "ref": "white-peak-walking-route",
   "title": "White Peak Circular Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monsal_Head_Headstone_viaduct.jpg/512px-Monsal_Head_Headstone_viaduct.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monsal_Head_Headstone_viaduct.jpg/500px-Monsal_Head_Headstone_viaduct.jpg",
   "nearby": [
     {
       "description": "Bakewell",
@@ -78,7 +78,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monsal_Head_Headstone_viaduct.jpg/512px-Monsal_Head_Headstone_viaduct.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monsal_Head_Headstone_viaduct.jpg/500px-Monsal_Head_Headstone_viaduct.jpg",
       "title": "Rob Bendall(For more information, see my userpage...) [Attribution], via Wikimedia Commons",
       "caption": "Monsal Head Headstone viaduct"
     },
@@ -117,22 +117,21 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "2 days",
-  "difficulty": "challenging",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river"
+    "dale"
   ],
   "points_of_interest": [
-    "viewpoint",
+    "viaduct",
     "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
     "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

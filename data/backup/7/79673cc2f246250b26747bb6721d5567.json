@@ -3,7 +3,7 @@
   "objectID": "79673cc2f246250b26747bb6721d5567",
   "ref": "penrith-walking-route",
   "title": "Penrith Walks - Near and Around",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg/256px-War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg/330px-War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/79673cc2f246250b26747bb6721d5567.gpx",
   "_geoloc": {
     "lat": 54.6603843974,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg/256px-War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg/330px-War_Memorial%2C_Castle_Park_-_geograph.org.uk_-_803331.jpg",
       "title": "Alexander P Kapp [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "War Memorial, Castle Park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alhambra_Cinema_-_panoramio.jpg/512px-Alhambra_Cinema_-_panoramio.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alhambra_Cinema_-_panoramio.jpg/500px-Alhambra_Cinema_-_panoramio.jpg",
       "title": "flipflopnick [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "Town centre"
     },
@@ -60,24 +60,19 @@
   "postcode": "CA11 7EE",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river",
-    "grass"
+    "woodland"
   ],
   "points_of_interest": [
-    "castle ruins",
-    "historic site",
-    "stone circle"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

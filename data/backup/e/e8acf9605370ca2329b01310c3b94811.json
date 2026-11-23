@@ -3,7 +3,7 @@
   "objectID": "e8acf9605370ca2329b01310c3b94811",
   "ref": "saxmundham-walking-route",
   "title": "Saxmundham Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg/512px-Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg/500px-Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e8acf9605370ca2329b01310c3b94811.gpx",
   "_geoloc": {
     "lat": 52.2149302693,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg/512px-Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg/500px-Saxmundham_High_Street_-_geograph.org.uk_-_1024963.jpg",
       "title": "Adrian Cable, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Saxmundham High Street"
     },
@@ -21,7 +21,7 @@
       "caption": "Field south of Saxmundham. This field leads down to the River Fromus, where the row of trees is situated. On the other side of the Fromus are the grounds of Hurts Hall. At one time the Fromus was dammed at Sternfield to create a lake here."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ford_and_the_River_Fromus_at_Benhall_Green_-_geograph.org.uk_-_1912843.jpg/512px-Ford_and_the_River_Fromus_at_Benhall_Green_-_geograph.org.uk_-_1912843.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ford_and_the_River_Fromus_at_Benhall_Green_-_geograph.org.uk_-_1912843.jpg/500px-Ford_and_the_River_Fromus_at_Benhall_Green_-_geograph.org.uk_-_1912843.jpg",
       "title": "Ford and the River Fromus at Benhall Green by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ford and the River Fromus at Benhall Green"
     },
@@ -31,7 +31,7 @@
       "caption": "Gromford Lane. Looking South East along Gromford Lane. Photo shows junction with a no through road that leads due South, together with a cottage on the corner. Also visible are the sign pointing to the no through road and signs to two different public footpaths."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Crown_Public_House%2C_Village_Sign_and_The_Green_Postbox_-_geograph.org.uk_-_1434820.jpg/512px-The_Crown_Public_House%2C_Village_Sign_and_The_Green_Postbox_-_geograph.org.uk_-_1434820.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Crown_Public_House%2C_Village_Sign_and_The_Green_Postbox_-_geograph.org.uk_-_1434820.jpg/500px-The_Crown_Public_House%2C_Village_Sign_and_The_Green_Postbox_-_geograph.org.uk_-_1434820.jpg",
       "title": "Adrian Cable / The Crown Public House, Village Sign & The Green Postbox",
       "caption": "Snape. The Crown Public House, Village Sign and The Green Postbox"
     },
@@ -46,7 +46,7 @@
       "caption": "Snape Maltings Concert Hall. Former Victorian maltings, now converted into a world-famous concert venue."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marshland_near_the_River_Alde_and_Snape_Maltings.jpg/512px-Marshland_near_the_River_Alde_and_Snape_Maltings.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marshland_near_the_River_Alde_and_Snape_Maltings.jpg/500px-Marshland_near_the_River_Alde_and_Snape_Maltings.jpg",
       "title": "CT Cooper, Public domain, via Wikimedia Commons",
       "caption": "Marshland near the River Alde and Snape Maltings"
     }
@@ -78,24 +78,23 @@
   "postcode": "IP17 1BW",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "valley",
+    "wet woodland",
     "marshland"
   ],
   "points_of_interest": [
-    "arts complex",
+    "historical site",
     "nature reserve",
-    "historical buildings"
+    "arts complex"
   ],
   "facilities": [
-    "shops",
-    "restaurants",
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

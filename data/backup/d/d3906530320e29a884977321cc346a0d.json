@@ -3,7 +3,7 @@
   "objectID": "d3906530320e29a884977321cc346a0d",
   "ref": "avon-dassett-walking-route",
   "title": "Avon Dassett Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg/512px-The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg/500px-The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d3906530320e29a884977321cc346a0d.gpx",
   "_geoloc": {
     "lat": 52.1451495863,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg/512px-The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg/500px-The_Avon_in_Avon_Dassett_-_geograph.org.uk_-_1991112.jpg",
       "title": "The Avon in Avon Dassett by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Avon in the village"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Avon_Dassett_-_geograph.org.uk_-_1992671.jpg/512px-Avon_Dassett_-_geograph.org.uk_-_1992671.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Avon_Dassett_-_geograph.org.uk_-_1992671.jpg/500px-Avon_Dassett_-_geograph.org.uk_-_1992671.jpg",
       "title": "Avon Dassett by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Avon Dassett street view"
     },
@@ -36,12 +36,12 @@
       "caption": "Church of St. John the Baptist, Avon Dassett. The Church is built on the side of a steep hill, surrounded by trees, with the road passing closely by."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gate_to_Farnborough_Hall_-_geograph.org.uk_-_1994497.jpg/512px-Gate_to_Farnborough_Hall_-_geograph.org.uk_-_1994497.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gate_to_Farnborough_Hall_-_geograph.org.uk_-_1994497.jpg/500px-Gate_to_Farnborough_Hall_-_geograph.org.uk_-_1994497.jpg",
       "title": "Gate to Farnborough Hall by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Gate to Farnborough Hall"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sourland_Pool_-_geograph.org.uk_-_1994487.jpg/512px-Sourland_Pool_-_geograph.org.uk_-_1994487.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sourland_Pool_-_geograph.org.uk_-_1994487.jpg/500px-Sourland_Pool_-_geograph.org.uk_-_1994487.jpg",
       "title": "Sourland Pool by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sourland Pool, Farnborough"
     },
@@ -77,23 +77,22 @@
   "display_address": "Avon Dassett CP, Stratford-on-Avon, Warwickshire, England, CV47 2AX, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "hill",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "country park",
-    "historic hall",
-    "gardens"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

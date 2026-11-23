@@ -3,7 +3,7 @@
   "objectID": "124e4b5fa93c283d71006fcca2ad867b",
   "ref": "lodsworth-walking-route",
   "title": "Lodsworth Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg/256px-Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg/330px-Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/124e4b5fa93c283d71006fcca2ad867b.gpx",
   "_geoloc": {
     "lat": 50.998056372,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg/256px-Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg/330px-Lodsworth_Village_Centre._-_geograph.org.uk_-_203156.jpg",
       "title": "Colin Smith / Lodsworth Village Centre.",
       "caption": "Lodsworth Village Centre. This is outside the Hollist Arms, looking south. The car on the right was one of many old MGs on a rally through the Sussex Wealden lanes."
     },
@@ -59,21 +59,18 @@
   "postcode": "GU28 9DF",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "countryside"
   ],
   "points_of_interest": [
-    "trail"
+    "tributary stream"
   ],
-  "facilities": [
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

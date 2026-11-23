@@ -3,7 +3,7 @@
   "objectID": "c3e01b479745ff61e81e479b5bd61609",
   "ref": "cardiff-walking-route",
   "title": "Cardiff Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg/512px-Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg/500px-Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c3e01b479745ff61e81e479b5bd61609.gpx",
   "_geoloc": {
     "lat": 51.4762107604,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg/512px-Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg/500px-Atlantic_Wharf%2C_Cardiff_%28aka_Bute_East_Dock%29_from_its_southern_end.jpg",
       "title": "John Lord [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Atlantic Wharf, Cardiff (aka Bute East Dock) from its southern end"
     },
@@ -69,26 +69,23 @@
   "display_address": "Novotel, Schooner Way, Newtown, Butetown, Cardiff, Cymru / Wales, CF10 4RT, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
-    "limestone cliffs"
+    "riverine",
+    "woodland"
   ],
   "points_of_interest": [
+    "viewpoint",
     "nature reserve",
-    "historical site",
-    "country park"
+    "historical site"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "dog friendly",
-    "play area",
-    "waterside trails"
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

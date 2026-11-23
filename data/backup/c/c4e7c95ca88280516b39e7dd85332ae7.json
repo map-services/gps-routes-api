@@ -3,7 +3,7 @@
   "objectID": "c4e7c95ca88280516b39e7dd85332ae7",
   "ref": "wellington-monument-walking-route",
   "title": "Wellington Monument Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg/512px-Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg/500px-Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg",
   "nearby": [
     {
       "description": "Culmstock Beacon",
@@ -33,12 +33,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg/512px-Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg/500px-Blackdown_Hills_%2C_The_Wellington_Monument_-_geograph.org.uk_-_1243004.jpg",
       "title": "Lewis Clarke [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Blackdown Hills, The Wellington Monument. The Monument is a 175 feet (53 m) high triangular tower located on the highest point of the Blackdown Hills, 3km south of Wellington."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Footpath_to_Wellington_Monument.jpg/512px-Footpath_to_Wellington_Monument.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Footpath_to_Wellington_Monument.jpg/500px-Footpath_to_Wellington_Monument.jpg",
       "title": "By Nilfanion (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
       "caption": "The tree-lined footpath to the monument in autumn."
     },
@@ -48,7 +48,7 @@
       "caption": "Wellington Monument in the mist"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cannon_beneath_the_Wellington_Monument%2C_Somerset_-_geograph-3881061.jpg/512px-Cannon_beneath_the_Wellington_Monument%2C_Somerset_-_geograph-3881061.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cannon_beneath_the_Wellington_Monument%2C_Somerset_-_geograph-3881061.jpg/500px-Cannon_beneath_the_Wellington_Monument%2C_Somerset_-_geograph-3881061.jpg",
       "title": "Roger Cornfoot / Cannon at Wellington Monument",
       "caption": "Cannon beneath the Monument."
     },
@@ -58,7 +58,7 @@
       "caption": "Blackdown Hills, National Trust Sign and Uphill Track"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blackdown_Hills_%2C_Wellington_Hill_Steps_-_geograph.org.uk_-_1243956.jpg/256px-Blackdown_Hills_%2C_Wellington_Hill_Steps_-_geograph.org.uk_-_1243956.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blackdown_Hills_%2C_Wellington_Hill_Steps_-_geograph.org.uk_-_1243956.jpg/330px-Blackdown_Hills_%2C_Wellington_Hill_Steps_-_geograph.org.uk_-_1243956.jpg",
       "title": "Lewis Clarke / Blackdown Hills : Wellington Hill Steps",
       "caption": "Steps leading from the woodlands to the top of the hill and Wellington"
     }
@@ -90,22 +90,26 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
     "monument",
-    "viewpoint"
+    "historical site",
+    "viewpoint",
+    "ruined castle"
   ],
   "facilities": [
+    "pub/cafe",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

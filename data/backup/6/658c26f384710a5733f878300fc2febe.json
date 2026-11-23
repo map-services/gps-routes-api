@@ -3,7 +3,7 @@
   "objectID": "658c26f384710a5733f878300fc2febe",
   "ref": "newton-stewart-riverside-walk",
   "title": "Newton Stewart Riverside Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg/512px-Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg/500px-Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/658c26f384710a5733f878300fc2febe.gpx",
   "_geoloc": {
     "lat": 54.9600526919,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg/512px-Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg/500px-Eastern_bank_of_the_Cree_in_Newton_Stewart_-_geograph.org.uk_-_2403149.jpg",
       "title": "Eastern bank of the Cree in Newton Stewart by Anthony O'Neil, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Eastern bank of the Cree in Newton Stewart. The river runs through Newton Stewart and into the Solway Firth. It forms part of the boundary between the counties of Wigtownshire and Kirkcudbrightshire."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Newton_Stewart_Local_Walks_beside_the_Cree_-_geograph.org.uk_-_3899660.jpg/512px-Newton_Stewart_Local_Walks_beside_the_Cree_-_geograph.org.uk_-_3899660.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Newton_Stewart_Local_Walks_beside_the_Cree_-_geograph.org.uk_-_3899660.jpg/500px-Newton_Stewart_Local_Walks_beside_the_Cree_-_geograph.org.uk_-_3899660.jpg",
       "title": "Newton Stewart Local Walks beside the Cree by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Newton Stewart Local Walks beside the Cree. The town is on the River Cree with most of the town to the west of the river, and is sometimes referred to as the \"Gateway to the Galloway Hills\"."
     },
@@ -26,7 +26,7 @@
       "caption": "The Cree in Newton Stewar"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/River_Cree_bridge%2C_Newton_Stewart%2C_Dumfries_%26_Galloway%2C_Scotland.jpg/512px-River_Cree_bridge%2C_Newton_Stewart%2C_Dumfries_%26_Galloway%2C_Scotland.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/River_Cree_bridge%2C_Newton_Stewart%2C_Dumfries_%26_Galloway%2C_Scotland.jpg/500px-River_Cree_bridge%2C_Newton_Stewart%2C_Dumfries_%26_Galloway%2C_Scotland.jpg",
       "title": "Rosser1954, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "River Cree bridge, Newton Stewart, Dumfries & Galloway, Scotland. It was on a pilgrimage to the shrine of St Ninian at Whithorn in 1329 that Robert the Bruce forded the river where the present bridge stands. Designed by John Rennie the Elder and built in 1813 the present bridge replaced the old bridge of 1745."
     }
@@ -50,22 +50,18 @@
   "district": "Newton Stewart",
   "state": "Alba / Scotland",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland",
-    "pasture"
+    "riverbank"
   ],
   "points_of_interest": [
-    "countryside views",
-    "nature reserve"
+    "wildlife reserve"
   ],
-  "facilities": [
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

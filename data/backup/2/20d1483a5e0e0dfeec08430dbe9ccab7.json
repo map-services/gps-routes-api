@@ -1,131 +1,142 @@
 {
-    "created_at": "2025-01-06T09:09:10.398981+00:00",
-    "objectID": "20d1483a5e0e0dfeec08430dbe9ccab7",
-    "ref": "bishops-stortford-canal-and-river-walk-walking-route",
-    "title": "Bishop's Stortford Canal and River Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Riverside_Apartments%2C_Bishop%27s_Stortford_-_geograph.org.uk_-_1616517.jpg",
-    "nearby": [
-        {
-            "description": "Hertfordshire Way",
-            "objectID": "122beca6a3afb5c24d0ef76fc7326e27",
-            "ref": "hertfordshire-way-walking-route"
-        },
-        {
-            "description": "Lea Valley Walk",
-            "objectID": "af6db7140df05d5e84b785fb63202b0d",
-            "ref": "lea-valley-walk-walking-route"
-        },
-        {
-            "description": "Harlow",
-            "objectID": "dee89ae4d56d7d95d3f3a689d0fe6a36",
-            "ref": "harlow-walking-route"
-        },
-        {
-            "description": "Rye Meads",
-            "objectID": "518ab65ecd282006032be5d192377ca6",
-            "ref": "rye-meads-walking-route"
-        },
-        {
-            "description": "Birchanger Wood",
-            "objectID": "9a099efe5c83810e3c60b557fe40942a",
-            "ref": "birchanger-wood-walking-route"
-        },
-        {
-            "description": "Hatfield Forest",
-            "objectID": "99871d04f21359e440329f4bb183d45b",
-            "ref": "hatfield-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Clavering",
-            "objectID": "abcf4eaf909deba3a26b856cb48995e5",
-            "ref": "clavering-walking-route"
-        },
-        {
-            "description": "Stansted Mountfitchet",
-            "objectID": "f9aedffc0bde8bc4ca108e3df7b0779c",
-            "ref": "stansted-mountfitchet-walking-route"
-        },
-        {
-            "description": "Sawbridgeworth",
-            "objectID": "a23758a2b3f2f06cf74018a9086d5d11",
-            "ref": "sawbridgeworth-walking-route"
-        }
-    ],
-    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/20d1483a5e0e0dfeec08430dbe9ccab7.gpx",
-    "_geoloc": {
-        "lat": 51.8706615501,
-        "lng": 0.1552540202
+  "created_at": "2025-01-06T09:09:10.398981+00:00",
+  "objectID": "20d1483a5e0e0dfeec08430dbe9ccab7",
+  "ref": "bishops-stortford-canal-and-river-walk-walking-route",
+  "title": "Bishop's Stortford Canal and River Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Riverside_Apartments%2C_Bishop%27s_Stortford_-_geograph.org.uk_-_1616517.jpg",
+  "nearby": [
+    {
+      "description": "Hertfordshire Way",
+      "objectID": "122beca6a3afb5c24d0ef76fc7326e27",
+      "ref": "hertfordshire-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Riverside_Apartments%2C_Bishop%27s_Stortford_-_geograph.org.uk_-_1616517.jpg",
-            "title": "Colin Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Riverside Apartments, Bishop's Stortford"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Southmill_Lock%2C_River_Stort_-_geograph.org.uk_-_234160.jpg",
-            "title": "John Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Southmill Lock"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Spellbrook_weir_-_geograph.org.uk_-_245764.jpg",
-            "title": "John Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Spellbrook weir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Harlow_Mill_lock_-_geograph.org.uk_-_1323599.jpg",
-            "title": "Claire Stretch [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Harlow Mill lock"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rose_of_Essex_-_geograph.org.uk_-_707916.jpg",
-            "title": "Thomas Nugent [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Harlow"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Queue_for_Hunsdon_Lock_-_geograph.org.uk_-_1317377.jpg",
-            "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Hunsdon Lock"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Your_global_journey_starts_here_-_geograph.org.uk_-_1445031.jpg",
-            "title": "Stephen Craven [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Riverside sculpture"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lockkeeper%27s_cottage_at_Brick_Lock_-_geograph.org.uk_-_1377068.jpg",
-            "title": "Mike W Hallett [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Lock keeper's cottage at Brick Lock"
-        }
-    ],
-    "distance_km": 22.0,
-    "description": "Follow the River Stort Navigation canal from Bishop's Stortford to Hoddesdon, on this delightful waterside walk through Hertfordshire. The walk follows the flat towpath through Sawbridgeworth and Harlow with lots of barges, weirs and pretty locks to look out for on the way. Starting in the town centre follow the Hertfordshire Way east and then south to the river. You then head south to Sawbridgeworth, passing the Thorley Wash nature reserve on the way. In summer you'll see lots of attractive wildflowers and plants including early marsh orchid. There's also a number of wooden sculptures and a variety of wildlife to see in this area. The route continues towards Harlow, passing Beckingham Palace, the former country house of footballer David Beckham. The river also passes close to Harlow Town Park which is worth a small detour. The 164 acre park includes nice footpaths, Water Gardens and woodland. On this section you'll also pass Pishiobury Park in Sawbridgeworth. The riverside park includes wet woodland (The Osier Bed), grazed fields and flood meadows. The final section takes you past Roydon and into the splendid Lee Valley Regional Park. Here the Stort Navigation meets with the River Lee Navigation just after Lower Lock. The park is Greater London's largest park and includes country parks, nature reserves, lakes and riverside trails. In the park you can extend your walk by picking up the Lea Valley Walk. This will take along the river all the way to the Thames at Limehouse Basin.",
-    "details": [
-        {
-            "subtitle": "Pubs/Cafes",
-            "content": "In Harlow you could stop off at The Moorhen. The riverside pub has a nice garden area where you can sit out and enjoy views over the water. They also do good food at reasonable prices. You can find them close to Harlow Town train station on Burnt Mill Lane with a postcode of CM20 2QS for your sat navs."
-        },
-        {
-            "subtitle": "Further Information and Other Local Ideas",
-            "content": "Just to the west there's the interesting village of Much Hadham. The village is well worth exploring with a number of listed buildings including the 13th century church and a number of fine looking timber framed cottages. There's also several good pubs for post walk refreshment. At the end of the route in Hoddesdon you can pay a visit to the Rye Meads RSPB Nature Reserve. Just to the north east of the town there's some nice woodland trails around Birchanger Wood, next to the village of Birchanger. A little further on from here is the more expansive Hatfield Forest. To the north there's the rural village of Clavering where there's a noteworthy 14th century church and some delightful almshouses dating back to the 15th century. Near here there's also picturesque Arkesden which is well worth exploring. A few miles to the north there's the interesting village of Stansted Mountfitchet. The village includes a number of interesting local attractions including a church dating from the 12th-13th century, an 18th century windmill and a toy museum which claims to be the largest in the world. There's also the noteworthy Mountfitchet Castle which is now run as a wonderful Living History Museum where you can experience life as a villager in 1066. For more walking ideas in the area see the Hertfordshire Walks page."
-        }
-    ],
-    "video_url": "https://www.youtube.com/embed/Nc8ZRZ24dVA",
-    "postcode": "CM23 2NG",
-    "district": "East Hertfordshire",
-    "county": "Hertfordshire",
-    "region": null,
-    "country": "United Kingdom",
-    "gazetteer_found": true,
-    "nominatim_found": true,
-    "display_address": "Bushel House, 11A, Windhill, Hockerill, Bishop's Stortford, East Hertfordshire, Hertfordshire, England, CM23 2NG, United Kingdom",
-    "state": "England",
-    "llama_cpp": true,
-    "estimated_duration": "2-3 hours",
-    "difficulty": "easy",
-    "terrain": ["canal", "woodland", "park"],
-    "points_of_interest": ["nature reserve", "sculptures", "park"],
-    "facilities": ["car park", "visitor center", "footpath", "water gardens"],
-    "route_type": "circular",
-    "activities": ["walking"]
+    {
+      "description": "Lea Valley Walk",
+      "objectID": "af6db7140df05d5e84b785fb63202b0d",
+      "ref": "lea-valley-walk-walking-route"
+    },
+    {
+      "description": "Harlow",
+      "objectID": "dee89ae4d56d7d95d3f3a689d0fe6a36",
+      "ref": "harlow-walking-route"
+    },
+    {
+      "description": "Rye Meads",
+      "objectID": "518ab65ecd282006032be5d192377ca6",
+      "ref": "rye-meads-walking-route"
+    },
+    {
+      "description": "Birchanger Wood",
+      "objectID": "9a099efe5c83810e3c60b557fe40942a",
+      "ref": "birchanger-wood-walking-route"
+    },
+    {
+      "description": "Hatfield Forest",
+      "objectID": "99871d04f21359e440329f4bb183d45b",
+      "ref": "hatfield-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Clavering",
+      "objectID": "abcf4eaf909deba3a26b856cb48995e5",
+      "ref": "clavering-walking-route"
+    },
+    {
+      "description": "Stansted Mountfitchet",
+      "objectID": "f9aedffc0bde8bc4ca108e3df7b0779c",
+      "ref": "stansted-mountfitchet-walking-route"
+    },
+    {
+      "description": "Sawbridgeworth",
+      "objectID": "a23758a2b3f2f06cf74018a9086d5d11",
+      "ref": "sawbridgeworth-walking-route"
+    }
+  ],
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/20d1483a5e0e0dfeec08430dbe9ccab7.gpx",
+  "_geoloc": {
+    "lat": 51.8706615501,
+    "lng": 0.1552540202
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Riverside_Apartments%2C_Bishop%27s_Stortford_-_geograph.org.uk_-_1616517.jpg",
+      "title": "Colin Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Riverside Apartments, Bishop's Stortford"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Southmill_Lock%2C_River_Stort_-_geograph.org.uk_-_234160.jpg",
+      "title": "John Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Southmill Lock"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Spellbrook_weir_-_geograph.org.uk_-_245764.jpg",
+      "title": "John Smith [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Spellbrook weir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Harlow_Mill_lock_-_geograph.org.uk_-_1323599.jpg",
+      "title": "Claire Stretch [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Harlow Mill lock"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rose_of_Essex_-_geograph.org.uk_-_707916.jpg",
+      "title": "Thomas Nugent [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Harlow"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Queue_for_Hunsdon_Lock_-_geograph.org.uk_-_1317377.jpg",
+      "title": "Glyn Baker [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Hunsdon Lock"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Your_global_journey_starts_here_-_geograph.org.uk_-_1445031.jpg",
+      "title": "Stephen Craven [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Riverside sculpture"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lockkeeper%27s_cottage_at_Brick_Lock_-_geograph.org.uk_-_1377068.jpg",
+      "title": "Mike W Hallett [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Lock keeper's cottage at Brick Lock"
+    }
+  ],
+  "distance_km": 22.0,
+  "description": "Follow the River Stort Navigation canal from Bishop's Stortford to Hoddesdon, on this delightful waterside walk through Hertfordshire. The walk follows the flat towpath through Sawbridgeworth and Harlow with lots of barges, weirs and pretty locks to look out for on the way. Starting in the town centre follow the Hertfordshire Way east and then south to the river. You then head south to Sawbridgeworth, passing the Thorley Wash nature reserve on the way. In summer you'll see lots of attractive wildflowers and plants including early marsh orchid. There's also a number of wooden sculptures and a variety of wildlife to see in this area. The route continues towards Harlow, passing Beckingham Palace, the former country house of footballer David Beckham. The river also passes close to Harlow Town Park which is worth a small detour. The 164 acre park includes nice footpaths, Water Gardens and woodland. On this section you'll also pass Pishiobury Park in Sawbridgeworth. The riverside park includes wet woodland (The Osier Bed), grazed fields and flood meadows. The final section takes you past Roydon and into the splendid Lee Valley Regional Park. Here the Stort Navigation meets with the River Lee Navigation just after Lower Lock. The park is Greater London's largest park and includes country parks, nature reserves, lakes and riverside trails. In the park you can extend your walk by picking up the Lea Valley Walk. This will take along the river all the way to the Thames at Limehouse Basin.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Harlow you could stop off at The Moorhen. The riverside pub has a nice garden area where you can sit out and enjoy views over the water. They also do good food at reasonable prices. You can find them close to Harlow Town train station on Burnt Mill Lane with a postcode of CM20 2QS for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west there's the interesting village of Much Hadham. The village is well worth exploring with a number of listed buildings including the 13th century church and a number of fine looking timber framed cottages. There's also several good pubs for post walk refreshment. At the end of the route in Hoddesdon you can pay a visit to the Rye Meads RSPB Nature Reserve. Just to the north east of the town there's some nice woodland trails around Birchanger Wood, next to the village of Birchanger. A little further on from here is the more expansive Hatfield Forest. To the north there's the rural village of Clavering where there's a noteworthy 14th century church and some delightful almshouses dating back to the 15th century. Near here there's also picturesque Arkesden which is well worth exploring. A few miles to the north there's the interesting village of Stansted Mountfitchet. The village includes a number of interesting local attractions including a church dating from the 12th-13th century, an 18th century windmill and a toy museum which claims to be the largest in the world. There's also the noteworthy Mountfitchet Castle which is now run as a wonderful Living History Museum where you can experience life as a villager in 1066. For more walking ideas in the area see the Hertfordshire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Nc8ZRZ24dVA",
+  "postcode": "CM23 2NG",
+  "district": "East Hertfordshire",
+  "county": "Hertfordshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bushel House, 11A, Windhill, Hockerill, Bishop's Stortford, East Hertfordshire, Hertfordshire, England, CM23 2NG, United Kingdom",
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "flat"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical site",
+    "park",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "one-way",
+  "activities": [
+    "walking"
+  ]
 }

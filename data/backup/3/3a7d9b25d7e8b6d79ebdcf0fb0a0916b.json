@@ -3,7 +3,7 @@
   "objectID": "3a7d9b25d7e8b6d79ebdcf0fb0a0916b",
   "ref": "hesketh-bank-walking-route",
   "title": "Hesketh Bank Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg/512px-Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg/500px-Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3a7d9b25d7e8b6d79ebdcf0fb0a0916b.gpx",
   "_geoloc": {
     "lat": 53.7001796147,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg/512px-Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg/500px-Station_Road%2C_Hesketh_Bank_-_geograph.org.uk_-_2641987.jpg",
       "title": "Station Road, Hesketh Bank by nick macneill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Station Road, Hesketh Bank"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Viewpoint_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976977.jpg/512px-Viewpoint_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976977.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Viewpoint_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976977.jpg/500px-Viewpoint_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976977.jpg",
       "title": "Viewpoint at RSPB Hesketh Out Marshes by peter robinson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Viewpoint at RSPB Hesketh Out Marshes"
     },
@@ -26,7 +26,7 @@
       "caption": "River Douglas and Bank Seen from the top of the sea defence embankment with Longton Marsh on the far side of the river"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Car_park_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976984.jpg/512px-Car_park_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976984.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Car_park_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976984.jpg/500px-Car_park_at_RSPB_Hesketh_Out_Marshes_-_geograph.org.uk_-_2976984.jpg",
       "title": "Car park at RSPB Hesketh Out Marshes by peter robinson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Car park at RSPB Hesketh Out Marshes"
     },
@@ -70,23 +70,20 @@
   "postcode": "PR4 6SP",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "half day",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "marsh"
+    "riverbank"
   ],
   "points_of_interest": [
     "nature reserve",
     "birdwatching site"
   ],
   "facilities": [
-    "visitor center",
-    "railway station"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

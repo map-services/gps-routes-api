@@ -3,7 +3,7 @@
   "objectID": "a4a9223258d8388fae4cf17727878867",
   "ref": "north-wales-path-walking-route",
   "title": "North Wales Coastal Path Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/512px-Great_Orme_Lighthouse_-_view_from_E.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/500px-Great_Orme_Lighthouse_-_view_from_E.jpg",
   "nearby": [
     {
       "description": "Aber Falls",
@@ -78,7 +78,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/512px-Great_Orme_Lighthouse_-_view_from_E.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/500px-Great_Orme_Lighthouse_-_view_from_E.jpg",
       "title": "Tom Parnell [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "Great Orme Lighthouse"
     },
@@ -98,22 +98,22 @@
       "caption": "Bridge at Rhuddlan. Road bridge over the River Clwyd at Rhuddlan, with Rhuddlan Castle in the distance."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Conwy_Castle%2C_Conwy_-_geograph.org.uk_-_3833044.jpg/512px-Conwy_Castle%2C_Conwy_-_geograph.org.uk_-_3833044.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Conwy_Castle%2C_Conwy_-_geograph.org.uk_-_3833044.jpg/500px-Conwy_Castle%2C_Conwy_-_geograph.org.uk_-_3833044.jpg",
       "title": "Conwy Castle, Conwy by Ian S, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Conwy Castle, Conwy"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rhaeadr_Fawr_%28Aber_Falls%29_nr_Penmaenmawr%2C_Gwynedd%2C_Wales_-_Coedydd_Aber_National_Nature_Reserve_01.jpg/512px-Rhaeadr_Fawr_%28Aber_Falls%29_nr_Penmaenmawr%2C_Gwynedd%2C_Wales_-_Coedydd_Aber_National_Nature_Reserve_01.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rhaeadr_Fawr_%28Aber_Falls%29_nr_Penmaenmawr%2C_Gwynedd%2C_Wales_-_Coedydd_Aber_National_Nature_Reserve_01.jpg/500px-Rhaeadr_Fawr_%28Aber_Falls%29_nr_Penmaenmawr%2C_Gwynedd%2C_Wales_-_Coedydd_Aber_National_Nature_Reserve_01.jpg",
       "title": "Llywelyn2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Rhaeadr Fawr (Aber Falls) nr Penmaenmawr, Gwynedd, Wales"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Colwyn_Bay_Promenade_-_geograph.org.uk_-_2090503.jpg/512px-Colwyn_Bay_Promenade_-_geograph.org.uk_-_2090503.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Colwyn_Bay_Promenade_-_geograph.org.uk_-_2090503.jpg/500px-Colwyn_Bay_Promenade_-_geograph.org.uk_-_2090503.jpg",
       "title": "Colwyn Bay Promenade by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Colwyn Bay Promenade"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg/512px-Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg/500px-Car_park_-_Central_Beach%2C_Prestatyn_-_geograph.org.uk_-_1840653.jpg",
       "title": "Car park - Central Beach, Prestatyn by Stephen McKay, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Prestatyn"
     }
@@ -140,25 +140,22 @@
   "postcode": "LL57 4FL",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
     "coastal",
-    "woodland"
+    "mountain",
+    "valley"
   ],
   "points_of_interest": [
-    "hut circles",
-    "hillfort",
-    "pier"
+    "historical site",
+    "viewpoint",
+    "hillfort"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
-    "dog friendly",
-    "play area"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

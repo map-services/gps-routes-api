@@ -48,17 +48,17 @@
       "caption": "Nice view of the tree lined, surfaced path"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Welcome_to_the_Middlewood_Way_-_geograph.org.uk_-_385561.jpg/256px-Welcome_to_the_Middlewood_Way_-_geograph.org.uk_-_385561.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Welcome_to_the_Middlewood_Way_-_geograph.org.uk_-_385561.jpg/330px-Welcome_to_the_Middlewood_Way_-_geograph.org.uk_-_385561.jpg",
       "title": "Stephen McKay / Welcome to the Middlewood Way, via Wikimedia Commons",
       "caption": "Welcome sign at the start of the route"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Middlewood_Way_-_geograph.org.uk_-_1778781.jpg/512px-Middlewood_Way_-_geograph.org.uk_-_1778781.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Middlewood_Way_-_geograph.org.uk_-_1778781.jpg/500px-Middlewood_Way_-_geograph.org.uk_-_1778781.jpg",
       "title": "Alan Murray-Rust / Middlewood Way, via Wikimedia Commons",
       "caption": "Looking south from Prince Road bridge. The Way is split into all-user (right) and pedestrian-only (left) paths. When created, trees were planted in the median strip but these were found to create a very dark atmosphere, as well as significantly adding to maintenance costs of the pathways, so they have recently been removed."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Middlewood_Way_-_geograph.org.uk_-_1475566.jpg/256px-Middlewood_Way_-_geograph.org.uk_-_1475566.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Middlewood_Way_-_geograph.org.uk_-_1475566.jpg/330px-Middlewood_Way_-_geograph.org.uk_-_1475566.jpg",
       "title": "Mike Kirby / Middlewood Way, via Wikimedia Commons",
       "caption": "This section, viewed from Lyme Road bridge, used to be Higher Poynton rail station. It's now a beautifully landscaped picnic area, ideal for stopping at for a sandwich on the route."
     },
@@ -68,12 +68,12 @@
       "caption": "Bridge over the trail, carrying the Adlington to Pott Shrigley Road."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Middlewood_Way_bridge_over_Middlewood_Station_%28geograph_3065607%29.jpg/512px-Middlewood_Way_bridge_over_Middlewood_Station_%28geograph_3065607%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Middlewood_Way_bridge_over_Middlewood_Station_%28geograph_3065607%29.jpg/500px-Middlewood_Way_bridge_over_Middlewood_Station_%28geograph_3065607%29.jpg",
       "title": "Peter Turner / Middlewood Way bridge over Middlewood Station, via Wikimedia Commons",
       "caption": "Middlewood Way bridge over Middlewood Station"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Middlewood_Way_at_Higher_Poynton%2C_Cheshire_-_geograph.org.uk_-_568809.jpg/256px-The_Middlewood_Way_at_Higher_Poynton%2C_Cheshire_-_geograph.org.uk_-_568809.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Middlewood_Way_at_Higher_Poynton%2C_Cheshire_-_geograph.org.uk_-_568809.jpg/330px-The_Middlewood_Way_at_Higher_Poynton%2C_Cheshire_-_geograph.org.uk_-_568809.jpg",
       "title": "Roger Kidd / The Middlewood Way at Higher Poynton, Cheshire, via Wikimedia Commons",
       "caption": "The path at Higher Poynton on a sunny summer day"
     },
@@ -110,20 +110,23 @@
   "display_address": "Middlewood Way, Tytherington, Macclesfield, Cheshire East, England, SK10 2EE, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "paved"
+    "off road"
   ],
   "points_of_interest": [
-    "canal"
+    "canal",
+    "marina"
   ],
   "facilities": [
-    "car park"
+    "pub/cafe",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

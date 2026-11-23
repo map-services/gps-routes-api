@@ -3,7 +3,7 @@
   "objectID": "ced8891d061a72ac81c6914b9049b382",
   "ref": "gedling-country-park-walking-route",
   "title": "Gedling Country Park Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Visitor_centre_at_gedling_country_park.jpg/512px-Visitor_centre_at_gedling_country_park.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Visitor_centre_at_gedling_country_park.jpg/500px-Visitor_centre_at_gedling_country_park.jpg",
   "nearby": [
     {
       "description": "Nottingham Canal",
@@ -58,17 +58,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Visitor_centre_at_gedling_country_park.jpg/512px-Visitor_centre_at_gedling_country_park.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Visitor_centre_at_gedling_country_park.jpg/500px-Visitor_centre_at_gedling_country_park.jpg",
       "title": "Alan Murray-Rust / Cafe 1899 and children's play area",
       "caption": "Visitor centre"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/View_from_the_tip_-_geograph.org.uk_-_1127259.jpg/256px-View_from_the_tip_-_geograph.org.uk_-_1127259.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/View_from_the_tip_-_geograph.org.uk_-_1127259.jpg/330px-View_from_the_tip_-_geograph.org.uk_-_1127259.jpg",
       "title": "Alan Murray-Rust / View from the tip",
       "caption": "View from the tip. Looking down the former colliery tip with the 13th Century spire of Gedling church a prominent marker."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gedling_lagoon.jpg/256px-Gedling_lagoon.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gedling_lagoon.jpg/330px-Gedling_lagoon.jpg",
       "title": "Alan Murray-Rust / The Blue Lagoon (Northern Basin)",
       "caption": "Gedling lagoon"
     },
@@ -105,25 +105,24 @@
   "district": "Gedling",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "lake",
-    "countryside"
+    "woodland"
   ],
   "points_of_interest": [
-    "view"
+    "lake",
+    "viewpoint"
   ],
   "facilities": [
+    "cafe",
     "car park",
-    "picnic tables",
-    "pub/cafe"
+    "picnic table",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
-    "cycling",
     "walking",
-    "bird watching"
+    "cycling"
   ]
 }

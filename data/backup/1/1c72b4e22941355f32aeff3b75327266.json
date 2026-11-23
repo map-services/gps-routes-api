@@ -3,7 +3,7 @@
   "objectID": "1c72b4e22941355f32aeff3b75327266",
   "ref": "great-orme-country-park-walking-route",
   "title": "Great Orme Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Llandudno%2C_general_view_from_Great_Orme.jpg/512px-Llandudno%2C_general_view_from_Great_Orme.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Llandudno%2C_general_view_from_Great_Orme.jpg/500px-Llandudno%2C_general_view_from_Great_Orme.jpg",
   "nearby": [
     {
       "description": "North Wales Path",
@@ -23,17 +23,17 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Llandudno%2C_general_view_from_Great_Orme.jpg/512px-Llandudno%2C_general_view_from_Great_Orme.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Llandudno%2C_general_view_from_Great_Orme.jpg/500px-Llandudno%2C_general_view_from_Great_Orme.jpg",
       "title": "Tony Grist [Public domain], via Wikimedia Commons",
       "caption": "Llandudno, general view from Great Orme"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/512px-Great_Orme_Lighthouse_-_view_from_E.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Great_Orme_Lighthouse_-_view_from_E.jpg/500px-Great_Orme_Lighthouse_-_view_from_E.jpg",
       "title": "Tom Parnell [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
       "caption": "The Lighthouse"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Great_Orme_Quarry_-_geograph.org.uk_-_1712758.jpg/512px-Great_Orme_Quarry_-_geograph.org.uk_-_1712758.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Great_Orme_Quarry_-_geograph.org.uk_-_1712758.jpg/500px-Great_Orme_Quarry_-_geograph.org.uk_-_1712758.jpg",
       "title": "Chris Page / Great Orme Quarry",
       "caption": "Great Orme Quarry. View of an old quarry, taken from the tram."
     },
@@ -90,23 +90,22 @@
   "district": "Llandudno",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "mountain"
+    "coastal"
   ],
   "points_of_interest": [
     "viewpoint",
     "historical site"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "acaf1294e1eeb40c3300a4070a2296d2",
   "ref": "hockwold-cum-wilton-walking-route",
   "title": "Hockwold Cum Wilton Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg/512px-Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg/500px-Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/acaf1294e1eeb40c3300a4070a2296d2.gpx",
   "_geoloc": {
     "lat": 52.465454775,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg/512px-Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg/500px-Houses_on_Station_Road%2C_Hockwold_-_geograph.org.uk_-_4204293.jpg",
       "title": "Houses on Station Road, Hockwold by Trevor Littlewood, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Houses on Station Road, Hockwold. The village is positioned at the juncture of the geographical regions known as the Breckland, characterized by sandy heathlands, which are now predominantly forested, and the flat, low-lying Fens. As such, it displays features associated with both of these distinct areas."
     },
@@ -21,7 +21,7 @@
       "caption": "St Peter's Church, Hockwold cum Wilton, Norfolk. The village contains two churches, St. Peter's (currently redundant and under the care of the Churches Conservation Trust), St. James', and a Methodist chapel."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sluice_Drove_-_geograph.org.uk_-_3170270.jpg/512px-Sluice_Drove_-_geograph.org.uk_-_3170270.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sluice_Drove_-_geograph.org.uk_-_3170270.jpg/500px-Sluice_Drove_-_geograph.org.uk_-_3170270.jpg",
       "title": "Sluice Drove by Hugh Venables, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sluice Drove"
     },
@@ -31,7 +31,7 @@
       "caption": "Hockwold Washes. Behind the Little Ouse River (in the foreground) are the flooded Washes, partly frozen over. Various ducks and gulls are standing on the ice."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Narrow_boat_on_the_River_Little_Ouse_-_geograph.org.uk_-_3500080.jpg/512px-Narrow_boat_on_the_River_Little_Ouse_-_geograph.org.uk_-_3500080.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Narrow_boat_on_the_River_Little_Ouse_-_geograph.org.uk_-_3500080.jpg/500px-Narrow_boat_on_the_River_Little_Ouse_-_geograph.org.uk_-_3500080.jpg",
       "title": "Narrow boat on the River Little Ouse by Bikeboy, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Narrow boat on the River Little Ouse"
     },
@@ -54,21 +54,18 @@
   "postcode": "IP26 4LA",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours 20 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "rural"
+    "waterside",
+    "drove track"
   ],
   "points_of_interest": [
-    "historic house",
+    "historical site",
     "nature reserve"
   ],
-  "facilities": [
-    "car park",
-    "visitor center"
-  ],
-  "route_type": "circular",
+  "facilities": [],
+  "route_type": "out and back",
   "activities": [
     "walking",
     "cycling"

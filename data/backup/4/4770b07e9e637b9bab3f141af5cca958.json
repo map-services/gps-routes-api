@@ -3,7 +3,7 @@
   "objectID": "4770b07e9e637b9bab3f141af5cca958",
   "ref": "neston-walking-route",
   "title": "Neston Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg/512px-The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg/500px-The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4770b07e9e637b9bab3f141af5cca958.gpx",
   "_geoloc": {
     "lat": 53.2914615749,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg/512px-The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg/500px-The_Parade_in_Neston_-_geograph.org.uk_-_2157321.jpg",
       "title": "The Parade in Neston by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Parade in Neston"
     },
@@ -70,21 +70,20 @@
   "display_address": "Junipers, Manorial Road, Clayhill, Parkgate, Neston, Cheshire West and Chester, England, CH64 6QW, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "river",
-    "garden"
+    "riverside",
+    "marsh"
   ],
   "points_of_interest": [
-    "gardens",
-    "marshes"
+    "botanical garden",
+    "wildlife"
   ],
   "facilities": [
-    "cafe",
-    "visitor center"
+    "cafe"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
     "walking",
     "bird watching"

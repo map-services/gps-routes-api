@@ -3,7 +3,7 @@
   "objectID": "7caceeeb4aa7ad13a35c748a54db7e02",
   "ref": "hamford-water-walking-route",
   "title": "Hamford Water National Nature Reserve Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg/512px-Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg/500px-Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg",
   "nearby": [
     {
       "description": "Walton on the Naze Crag Walk",
@@ -18,12 +18,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg/512px-Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg/500px-Naze_Cliffs%2C_Walton-on-the-Naze%2C_Essex_-_geograph.org.uk_-_3399527.jpg",
       "title": "Peter Pearson [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Naze Cliffs, Walton-on-the-Naze, Essex. This photograph shows the devastating effect of the constant east/north east winds of late. The beach is scoured away exposing the cliff to erosion. The base of the cliff is formed of London Clay, the upper part is formed of Red Crag"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Naze_%28geograph_3482288%29.jpg/512px-The_Naze_%28geograph_3482288%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Naze_%28geograph_3482288%29.jpg/500px-The_Naze_%28geograph_3482288%29.jpg",
       "title": "Roger Jones [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "The Naze Tower."
     },
@@ -43,7 +43,7 @@
       "caption": "View from The Naze Tower"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Car_Park%2C_Walton_on_the_Naze%2C_Essex_-_geograph.org.uk_-_4188344.jpg/512px-Car_Park%2C_Walton_on_the_Naze%2C_Essex_-_geograph.org.uk_-_4188344.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Car_Park%2C_Walton_on_the_Naze%2C_Essex_-_geograph.org.uk_-_4188344.jpg/500px-Car_Park%2C_Walton_on_the_Naze%2C_Essex_-_geograph.org.uk_-_4188344.jpg",
       "title": "Car Park, Walton on the Naze, Essex by Christine Matthews, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Car Park, Walton on the Naze, Essex"
     }
@@ -62,25 +62,21 @@
   "district": "Walton-on-the-Naze",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "cliff"
+    "coastal"
   ],
   "points_of_interest": [
-    "tower",
-    "nature reserve"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "pub/cafe"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling",
-    "bird watching"
+    "cycling"
   ]
 }

@@ -3,7 +3,7 @@
   "objectID": "0df0e8807ee77f4fd89f2909ebc5094a",
   "ref": "morwenstow-walking-route",
   "title": "Morwenstow Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg/512px-Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg/500px-Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg",
   "nearby": [
     {
       "description": "Bude Canal",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg/512px-Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg/500px-Morwenstow_Church_-_geograph.org.uk_-_1907279.jpg",
       "title": "Morwenstow Church by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Morwenstow Church"
     },
@@ -78,7 +78,7 @@
       "caption": "Duckpool. A stony beach, with a little sand towards the sea at low tide. There is a National Trust car park here. The stream forms a pool and the flow percolates through the stones."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Across_Tidna_Shute_to_Higher_Sharpnose_Point_-_geograph.org.uk_-_1908480.jpg/512px-Across_Tidna_Shute_to_Higher_Sharpnose_Point_-_geograph.org.uk_-_1908480.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Across_Tidna_Shute_to_Higher_Sharpnose_Point_-_geograph.org.uk_-_1908480.jpg/500px-Across_Tidna_Shute_to_Higher_Sharpnose_Point_-_geograph.org.uk_-_1908480.jpg",
       "title": "Across Tidna Shute to Higher Sharpnose Point by Tony Atkin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Across Tidna Shute to Higher Sharpnose Point"
     }
@@ -110,26 +110,23 @@
   "district": "Morwenstow",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "woodland"
+    "coastal"
   ],
   "points_of_interest": [
-    "church",
-    "farm",
-    "hut"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
     "pub/cafe",
-    "dog friendly",
-    "play area"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dog walking"
   ]
 }

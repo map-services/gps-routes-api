@@ -3,7 +3,7 @@
   "objectID": "50196695dc8dff6ca790bb67cf0973ac",
   "ref": "bardwell-walking-route",
   "title": "Bardwell Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg/512px-Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg/500px-Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/50196695dc8dff6ca790bb67cf0973ac.gpx",
   "_geoloc": {
     "lat": 52.3281048839,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg/512px-Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg/500px-Bardwell_Windmill_-_geograph.org.uk_-_4494026.jpg",
       "title": "Bardwell Windmill by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bardwell Mill stands tall as a four-story tower mill. Its distinctive beehive cap is turned by a fantail. The mill features four double Patent sails, each spanning 63 feet (19.20 meters), and they are mounted on a cast-iron windshaft that was crafted in 1989 (the original windshaft was cast in two pieces). The brake wheel is made of wood and powers a cast-iron wallower, which is supported by a wooden upright shaft. Additionally, the wooden great spur wheel drives two pairs of overdrift millstones, while a wooden crownwheel on the upright shaft operates a sack hoist."
     },
@@ -21,12 +21,12 @@
       "caption": "The Stones in Bardwell Windmill. The Mill, constructed in 1823, initially operated using wind power until 1925. Later, it switched to a Blackstone oil engine until 1941. The mill fell into disrepair by 1978, but James Waterfield purchased it and successfully restored it by 1985. Subsequently, Geoffrey and Enid Wheeler acquired the mill in July 1987. Unfortunately, on October 16, 1987, a gear disengagement incident caused the windshaft to shear at the rear of the canister, resulting in the sails crashing to the ground. Despite limited funds, restoration efforts resumed in 1989. Geoffrey Wheeler\u2019s passing in 1995 led to the establishment of The Friends of Bardwell Windmill in 1997. With contributions from English Heritage and St Edmundsbury Borough Council, the estimated \u00a392,000 restoration cost was partially covered. In 2004, a replacement cap, cast iron windshaft, and fantail were installed. Due to cost considerations, volunteer labor crafted the new sails, with the first pair completed by late summer 2008 and the second pair fitted in April 2012"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bardwell_church_from_Harling_Bridge_-_geograph.org.uk_-_4494022.jpg/512px-Bardwell_church_from_Harling_Bridge_-_geograph.org.uk_-_4494022.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bardwell_church_from_Harling_Bridge_-_geograph.org.uk_-_4494022.jpg/500px-Bardwell_church_from_Harling_Bridge_-_geograph.org.uk_-_4494022.jpg",
       "title": "Bardwell church from Harling Bridge by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Medieval parish church. Within the churchyard lies the grave of Henry Addison, a Bardwell native born in 1821. Addison\u2019s valor during the Indian Mutiny earned him the prestigious Victoria Cross while serving in the British Army. Remarkably, he returned safely to Bardwell and lived until 1887, reaching the age of 66. The church of St. Peter and Paul boasts a set of eight bells, a notable feature. Interestingly, this contradicts the name of the local pub, which goes by the Six Bells. The largest bell weighs an impressive 11 hundredweight, 2 quarters, and 27 pounds. The oldest bell, the seventh in the set, was cast in 1713 by Thomas Newman. In 2009, restoration efforts led by Hayward Mills resulted in the addition of two new bells, ensuring that the church\u2019s melodic chimes continue to resonate through Bardwell. Bardwell Church St. Peter and Paul stands as a testament to the village\u2019s rich history and architectural heritage, having been originally built by Sir William Bardwell himself."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bardwell_village_sign_-_geograph.org.uk_-_4291003.jpg/256px-Bardwell_village_sign_-_geograph.org.uk_-_4291003.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bardwell_village_sign_-_geograph.org.uk_-_4291003.jpg/330px-Bardwell_village_sign_-_geograph.org.uk_-_4291003.jpg",
       "title": "Bardwell village sign by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bardwell village sign"
     }
@@ -45,22 +45,19 @@
   "postcode": "IP31 1AF",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "rural"
+    "village"
   ],
   "points_of_interest": [
-    "historic church",
-    "windmill"
+    "medieval parish church",
+    "historic windmill",
+    "listed building"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

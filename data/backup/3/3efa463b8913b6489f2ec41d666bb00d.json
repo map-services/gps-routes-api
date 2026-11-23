@@ -1,138 +1,125 @@
 {
-  "created_at": "2025-01-06T00:22:42.140834+00:00",
-  "objectID": "3efa463b8913b6489f2ec41d666bb00d",
-  "ref": "ellesmere-country-park-walking-route",
-  "title": "Ellesmere Lake Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Mere_from_Ellesmere_Castle_Mound_-_geograph.org.uk_-_915173.jpg",
-  "nearby": [
-    {
-      "description": "Llangollen Canal",
-      "objectID": "17c628d8a920bec4f253febceb624514",
-      "ref": "llangollen-canal-walking-and-cycle-route"
+    "created_at": "2025-01-06T00:22:42.140834+00:00",
+    "objectID": "3efa463b8913b6489f2ec41d666bb00d",
+    "ref": "ellesmere-country-park-walking-route",
+    "title": "Ellesmere Lake Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Mere_from_Ellesmere_Castle_Mound_-_geograph.org.uk_-_915173.jpg",
+    "nearby": [
+        {
+            "description": "Llangollen Canal",
+            "objectID": "17c628d8a920bec4f253febceb624514",
+            "ref": "llangollen-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Colemere Country Park",
+            "objectID": "efca73395ee6cac48220a700cd129470",
+            "ref": "colmere-country-park-walking-route"
+        },
+        {
+            "description": "Oswestry",
+            "objectID": "17044147dc4a9315f0cf698a6b553384",
+            "ref": "oswestry-walking-route"
+        },
+        {
+            "description": "Whitchurch Canal Walk",
+            "objectID": "c2f44abb9cdfe60b3cf0004c5304ae9d",
+            "ref": "whitchurch-canal-walk-walking-route"
+        },
+        {
+            "description": "Wem",
+            "objectID": "7a7a4763f6cdbbd38305cf73f723aa23",
+            "ref": "wem-walking-route"
+        },
+        {
+            "description": "Hanmer Mere",
+            "objectID": "28be7297050f0265196725d40e01291c",
+            "ref": "hanmer-mere-walking-route"
+        },
+        {
+            "description": "Whittington",
+            "objectID": "193e59a0622066affe2e1d4deaff31ff",
+            "ref": "whittington-walking-route"
+        },
+        {
+            "description": "Erbistock",
+            "objectID": "a270605e3032a8797bda5ef8ed82e31c",
+            "ref": "erbistock-walking-route"
+        },
+        {
+            "description": "Fenns, Whixall and Bettisfield Mosses",
+            "objectID": "c657b032f9727bfe89ca3e1b87979208",
+            "ref": "fenns-whixall-and-bettisfield-mosses-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3efa463b8913b6489f2ec41d666bb00d.gpx",
+    "_geoloc": {
+        "lat": 52.9048027981,
+        "lng": -2.8847097042
     },
-    {
-      "description": "Colemere Country Park",
-      "objectID": "efca73395ee6cac48220a700cd129470",
-      "ref": "colmere-country-park-walking-route"
-    },
-    {
-      "description": "Oswestry",
-      "objectID": "17044147dc4a9315f0cf698a6b553384",
-      "ref": "oswestry-walking-route"
-    },
-    {
-      "description": "Whitchurch Canal Walk",
-      "objectID": "c2f44abb9cdfe60b3cf0004c5304ae9d",
-      "ref": "whitchurch-canal-walk-walking-route"
-    },
-    {
-      "description": "Wem",
-      "objectID": "7a7a4763f6cdbbd38305cf73f723aa23",
-      "ref": "wem-walking-route"
-    },
-    {
-      "description": "Hanmer Mere",
-      "objectID": "28be7297050f0265196725d40e01291c",
-      "ref": "hanmer-mere-walking-route"
-    },
-    {
-      "description": "Whittington",
-      "objectID": "193e59a0622066affe2e1d4deaff31ff",
-      "ref": "whittington-walking-route"
-    },
-    {
-      "description": "Erbistock",
-      "objectID": "a270605e3032a8797bda5ef8ed82e31c",
-      "ref": "erbistock-walking-route"
-    },
-    {
-      "description": "Fenns, Whixall and Bettisfield Mosses",
-      "objectID": "c657b032f9727bfe89ca3e1b87979208",
-      "ref": "fenns-whixall-and-bettisfield-mosses-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3efa463b8913b6489f2ec41d666bb00d.gpx",
-  "_geoloc": {
-    "lat": 52.9048027981,
-    "lng": -2.8847097042
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Mere_from_Ellesmere_Castle_Mound_-_geograph.org.uk_-_915173.jpg",
-      "title": "Ade Farmer / The Mere from Ellesmere Castle Mound",
-      "caption": "The Mere from Ellesmere Castle Mound. One of the many lakes in this area known as \"Shropshire's Lakeland\"."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pleasure_boat_between_the_trees_-_geograph.org.uk_-_972411.jpg",
-      "title": "John Firth / Pleasure boat between the trees",
-      "caption": "Pleasure boat between the trees"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Entrance_to_the_park_-_geograph.org.uk_-_544481.jpg",
-      "title": "Trevor Rickard / Entrance to the park",
-      "caption": "Entrance to the park. Designed as a 19th century pleasure ground, the attractive park sweeps down to the lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Mere_-_geograph.org.uk_-_544485.jpg",
-      "title": "Trevor Rickard / The Mere",
-      "caption": "The Mere. From the north shore looking south-west across the lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Looking_across_The_Mere_towards_Paddock_Wood_-_geograph.org.uk_-_1260980.jpg",
-      "title": "Row17 / Looking across The Mere towards Paddock Wood",
-      "caption": "Looking across The Mere towards Paddock Wood"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/North_end_of_The_Mere_-_geograph.org.uk_-_544482.jpg",
-      "title": "Trevor Rickard / North end of The Mere",
-      "caption": "North end of The Mere"
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "Enjoy a short walk along Ellesmere Lake in this Shropshire based country park. The park boasts a lake, woodland walks and historic parkland on the edge of the medieval market town of Ellesmere. There is also an excellent Boathouse Visitor Centre and the lovely Victorian Cremorne Gardens on the shore of the Mere. These gardens additionally include the excellent Ellesmere Sculpture Trail. The stone and wood based pieces are created by international contemporary artists, commissioned by the Ellesmere Sculpture Initiative (ESi), and are made specifically in response to the location. The lake is a good place for birdwatching too with many wintering birds visiting the island in the centre. Keep your eyes peeled for the nesting herons as you may your way along the surfaced footpath. If you'd like to continue you walk you could follow the Llangollen Canal to the nearby Colemere Country Park. It's only about a mile south east of the lake and includes another circular waterside trail. Just pick up the canal towpath to the south of the car park.",
-  "details": [
-    {
-      "subtitle": "Pubs/Cafes",
-      "content": "Head to the Boat House for some refreshments after your walk. The pub is conveniently located right next to the lake, near to the car park on the western side. They serve delicious food and have an outdoor seating area with views across the water."
-    },
-    {
-      "subtitle": "Dog Walking",
-      "content": "The lakeside path is a nice one to do with your dog. You'll probably see other owners on a fine day. The Boat House mentioned above is also dog friendly."
-    },
-    {
-      "subtitle": "Further Information and Other Local Ideas",
-      "content": "To continue your walking near Ellesmere you could head to the neighbouring settlements of Oswestry, Whitchurch, Wem and Whittington where there's a 13th century moated castle to see. A few miles to the north east there's another lakeside walk at the pretty Hanmer Mere in Wrexham. It's another of the local meres that's considered part of the Shropshire Lake District. Along the canal from Colemere there's also the Fenns, Whixall and Bettisfield Mosses National Nature Reserve. The noteworthy reserve straddles the border between England and Wales. It is a significant site being one of the biggest and best raised bogs in Britain. The area is great for flora and fauna and also includes the old Ellesmere Canal. For more walking ideas in the area see the Shropshire Walks page."
-    }
-  ],
-  "video_url": "https://www.youtube.com/embed/oB3Bz3vz0EU",
-  "district": "Ellesmere",
-  "county": "Shropshire",
-  "region": null,
-  "country": "United Kingdom",
-  "gazetteer_found": true,
-  "nominatim_found": true,
-  "display_address": "Mereside, Ellesmere Urban, Ellesmere, Shropshire, England, SY12 0PA, United Kingdom",
-  "postcode": "SY12 0PA",
-  "state": "England",
-  "llama_cpp": true,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
-  "terrain": [
-    "woodland",
-    "lake"
-  ],
-  "points_of_interest": [
-    "historic parkland",
-    "sculpture trail"
-  ],
-  "facilities": [
-    "visitor center",
-    "car park",
-    "canal towpath"
-  ],
-  "route_type": "out and back",
-  "activities": [
-    "walking",
-    "bird watching"
-  ]
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Mere_from_Ellesmere_Castle_Mound_-_geograph.org.uk_-_915173.jpg",
+            "title": "Ade Farmer / The Mere from Ellesmere Castle Mound",
+            "caption": "The Mere from Ellesmere Castle Mound. One of the many lakes in this area known as \"Shropshire's Lakeland\"."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pleasure_boat_between_the_trees_-_geograph.org.uk_-_972411.jpg",
+            "title": "John Firth / Pleasure boat between the trees",
+            "caption": "Pleasure boat between the trees"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Entrance_to_the_park_-_geograph.org.uk_-_544481.jpg",
+            "title": "Trevor Rickard / Entrance to the park",
+            "caption": "Entrance to the park. Designed as a 19th century pleasure ground, the attractive park sweeps down to the lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Mere_-_geograph.org.uk_-_544485.jpg",
+            "title": "Trevor Rickard / The Mere",
+            "caption": "The Mere. From the north shore looking south-west across the lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Looking_across_The_Mere_towards_Paddock_Wood_-_geograph.org.uk_-_1260980.jpg",
+            "title": "Row17 / Looking across The Mere towards Paddock Wood",
+            "caption": "Looking across The Mere towards Paddock Wood"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/North_end_of_The_Mere_-_geograph.org.uk_-_544482.jpg",
+            "title": "Trevor Rickard / North end of The Mere",
+            "caption": "North end of The Mere"
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "Enjoy a short walk along Ellesmere Lake in this Shropshire based country park. The park boasts a lake, woodland walks and historic parkland on the edge of the medieval market town of Ellesmere. There is also an excellent Boathouse Visitor Centre and the lovely Victorian Cremorne Gardens on the shore of the Mere. These gardens additionally include the excellent Ellesmere Sculpture Trail. The stone and wood based pieces are created by international contemporary artists, commissioned by the Ellesmere Sculpture Initiative (ESi), and are made specifically in response to the location. The lake is a good place for birdwatching too with many wintering birds visiting the island in the centre. Keep your eyes peeled for the nesting herons as you may your way along the surfaced footpath. If you'd like to continue you walk you could follow the Llangollen Canal to the nearby Colemere Country Park. It's only about a mile south east of the lake and includes another circular waterside trail. Just pick up the canal towpath to the south of the car park.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Head to the Boat House for some refreshments after your walk. The pub is conveniently located right next to the lake, near to the car park on the western side. They serve delicious food and have an outdoor seating area with views across the water."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The lakeside path is a nice one to do with your dog. You'll probably see other owners on a fine day. The Boat House mentioned above is also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To continue your walking near Ellesmere you could head to the neighbouring settlements of Oswestry, Whitchurch, Wem and Whittington where there's a 13th century moated castle to see. A few miles to the north east there's another lakeside walk at the pretty Hanmer Mere in Wrexham. It's another of the local meres that's considered part of the Shropshire Lake District. Along the canal from Colemere there's also the Fenns, Whixall and Bettisfield Mosses National Nature Reserve. The noteworthy reserve straddles the border between England and Wales. It is a significant site being one of the biggest and best raised bogs in Britain. The area is great for flora and fauna and also includes the old Ellesmere Canal. For more walking ideas in the area see the Shropshire Walks page."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/oB3Bz3vz0EU",
+    "district": "Ellesmere",
+    "county": "Shropshire",
+    "region": null,
+    "country": "United Kingdom",
+    "gazetteer_found": true,
+    "nominatim_found": true,
+    "display_address": "Mereside, Ellesmere Urban, Ellesmere, Shropshire, England, SY12 0PA, United Kingdom",
+    "postcode": "SY12 0PA",
+    "state": "England",
+    "llama_cpp": true,
+    "estimated_duration": "1 hour",
+    "difficulty": "easy",
+    "terrain": ["woodland", "parkland"],
+    "points_of_interest": ["lake", "historical site", "sculpture trail"],
+    "facilities": ["pub/cafe", "car park", "dog friendly"],
+    "route_type": "circular",
+    "activities": ["walking", "bird watching"]
 }

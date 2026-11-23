@@ -3,7 +3,7 @@
   "objectID": "020115513391ea5cef4b72e29ba70801",
   "ref": "smallwood-walking-route",
   "title": "Walks Around Spen Green Smallwood Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg/512px-Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg/500px-Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/020115513391ea5cef4b72e29ba70801.gpx",
   "_geoloc": {
     "lat": 53.1394673771,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg/512px-Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg/500px-Deers_Green_Farm_-_geograph.org.uk_-_3509478.jpg",
       "title": "Deers Green Farm by Richard Law, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Deers Green Farm, Smallwood"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Little_Moreton_Hall_2014_01.jpg/512px-Little_Moreton_Hall_2014_01.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Little_Moreton_Hall_2014_01.jpg/500px-Little_Moreton_Hall_2014_01.jpg",
       "title": "Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
       "caption": "Little Moreton Hall"
     }
@@ -34,22 +34,17 @@
   "district": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "3 hours",
+  "difficulty": "easy",
   "terrain": [
-    "pasture",
-    "garden"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic property",
-    "manor house",
+    "historical site",
     "gardens"
   ],
-  "facilities": [
-    "visitor center",
-    "car park"
-  ],
-  "route_type": "out and back",
+  "facilities": [],
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

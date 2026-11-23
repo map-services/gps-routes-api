@@ -3,7 +3,7 @@
   "objectID": "0d5153d916aa055b9219cda4b3aa89b8",
   "ref": "thurston-walking-route",
   "title": "Thurston Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg/512px-Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg/500px-Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0d5153d916aa055b9219cda4b3aa89b8.gpx",
   "_geoloc": {
     "lat": 52.2536124135,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg/512px-Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg/500px-Sandpit_Lane%2C_Thurston_-_geograph.org.uk_-_4504847.jpg",
       "title": "Sandpit Lane, Thurston by Adrian S Pye, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Sandpit Lane, Thurston"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St_Peter%2C_Thurston_-_geograph.org.uk_-_3047935.jpg/512px-St_Peter%2C_Thurston_-_geograph.org.uk_-_3047935.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St_Peter%2C_Thurston_-_geograph.org.uk_-_3047935.jpg/500px-St_Peter%2C_Thurston_-_geograph.org.uk_-_3047935.jpg",
       "title": "St Peter, Thurston by John Salmon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "St Peter, Thurston"
     },
@@ -26,7 +26,7 @@
       "caption": "Barton Mere. The house in the background is Bartonmere House. Located to the north east of the village."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Meadow_Lane_-_geograph.org.uk_-_1937366.jpg/512px-Meadow_Lane_-_geograph.org.uk_-_1937366.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Meadow_Lane_-_geograph.org.uk_-_1937366.jpg/500px-Meadow_Lane_-_geograph.org.uk_-_1937366.jpg",
       "title": "Meadow Lane by Keith Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Meadow Lane"
     },
@@ -46,7 +46,7 @@
       "caption": "Fields west of Thurston"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Footpath_crossing_near_Thurston_-_geograph.org.uk_-_2765375.jpg/512px-Footpath_crossing_near_Thurston_-_geograph.org.uk_-_2765375.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Footpath_crossing_near_Thurston_-_geograph.org.uk_-_2765375.jpg/500px-Footpath_crossing_near_Thurston_-_geograph.org.uk_-_2765375.jpg",
       "title": "Footpath crossing near Thurston by Ben Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Footpath crossing near Thurston"
     }
@@ -73,22 +73,22 @@
   "display_address": "Norton Road, Thurston, Mid Suffolk, Suffolk, England, IP31 3TQ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 hour",
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "paved"
+    "flat"
   ],
   "points_of_interest": [
-    "historic abbey",
-    "gardens",
-    "long distance footpaths"
+    "church",
+    "historic abbey"
   ],
   "facilities": [
-    "pub",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "one-way",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

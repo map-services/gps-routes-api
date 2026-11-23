@@ -3,7 +3,7 @@
   "objectID": "80ed2d0baa5bf61d502af62aee71fd48",
   "ref": "haverthwaite-walking-route",
   "title": "Haverthwaite Heights Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg/512px-Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg/500px-Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/80ed2d0baa5bf61d502af62aee71fd48.gpx",
   "_geoloc": {
     "lat": 54.2495872926,
@@ -11,7 +11,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg/512px-Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg/500px-Lost_on_Haverthwaite_Heights_-_geograph.org.uk_-_2371879.jpg",
       "title": "Lost on Haverthwaite Heights by Raymond Knapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lost on Haverthwaite Heights"
     },
@@ -26,7 +26,7 @@
       "caption": "Footpath from Haverthwaite to Rusland"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Haverthwaite_Station_-_geograph.org.uk_-_3454681.jpg/512px-Haverthwaite_Station_-_geograph.org.uk_-_3454681.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Haverthwaite_Station_-_geograph.org.uk_-_3454681.jpg/500px-Haverthwaite_Station_-_geograph.org.uk_-_3454681.jpg",
       "title": "Haverthwaite Station by Mike Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Haverthwaite Station"
     },
@@ -64,21 +64,19 @@
   "display_address": "A590, High Brow Edge, Haverthwaite, Low Wood, Westmorland and Furness, England, LA12 8AL, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rocky"
+    "rocky outcrop"
   ],
   "points_of_interest": [
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

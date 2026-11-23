@@ -3,7 +3,7 @@
   "objectID": "0919cb5da6609b69a80d02e401ed00ae",
   "ref": "hawkinge-walking-route",
   "title": "Hawkinge Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg/512px-Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg/500px-Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0919cb5da6609b69a80d02e401ed00ae.gpx",
   "_geoloc": {
     "lat": 51.1181834238,
@@ -11,22 +11,22 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg/512px-Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg/500px-Hawkinge%2C_Canterbury_Road_-_geograph.org.uk_-_2591024.jpg",
       "title": "Hawkinge, Canterbury Road by Helmut Zozmann, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hawkinge, Canterbury Road"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canterbury_Road%2C_Hawkinge_in_2001_-_geograph.org.uk_-_2709181.jpg/512px-Canterbury_Road%2C_Hawkinge_in_2001_-_geograph.org.uk_-_2709181.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canterbury_Road%2C_Hawkinge_in_2001_-_geograph.org.uk_-_2709181.jpg/500px-Canterbury_Road%2C_Hawkinge_in_2001_-_geograph.org.uk_-_2709181.jpg",
       "title": "Canterbury Road, Hawkinge in 2001 by John Baker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Canterbury Road, Hawkinge in 2001"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Looking_east-northeast_along_a_bridleway_-_geograph.org.uk_-_4365557.jpg/512px-Looking_east-northeast_along_a_bridleway_-_geograph.org.uk_-_4365557.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Looking_east-northeast_along_a_bridleway_-_geograph.org.uk_-_4365557.jpg/500px-Looking_east-northeast_along_a_bridleway_-_geograph.org.uk_-_4365557.jpg",
       "title": "Looking east-northeast along a bridleway by John Baker, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Looking east-northeast along a bridleway"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_of_Alkham_Valley_-_geograph.org.uk_-_2287298.jpg/512px-View_of_Alkham_Valley_-_geograph.org.uk_-_2287298.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/View_of_Alkham_Valley_-_geograph.org.uk_-_2287298.jpg/500px-View_of_Alkham_Valley_-_geograph.org.uk_-_2287298.jpg",
       "title": "View of Alkham Valley by David Anstiss, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "View of Alkham Valley"
     },
@@ -55,22 +55,19 @@
   "display_address": "Hawkinge, Densole, Folkestone and Hythe, Kent, England, CT18 7UE, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "countryside",
-    "coastal"
+    "countryside"
   ],
   "points_of_interest": [
-    "museum",
-    "monument",
+    "historical site",
     "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

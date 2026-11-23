@@ -78,7 +78,7 @@
       "caption": "Daffodils at Covehithe"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Southwold_and_the_coast_as_seen_from_the_Pier_20081007.jpg/512px-Southwold_and_the_coast_as_seen_from_the_Pier_20081007.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Southwold_and_the_coast_as_seen_from_the_Pier_20081007.jpg/500px-Southwold_and_the_coast_as_seen_from_the_Pier_20081007.jpg",
       "title": "DXR / Daniel Vorndran [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Southwold and the coast as seen from the Pier"
     }
@@ -97,23 +97,21 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "coastal",
     "marshland",
-    "heathland",
-    "coastal"
+    "woodland",
+    "heathland"
   ],
   "points_of_interest": [
-    "church",
-    "marshes",
-    "forest"
+    "national nature reserve",
+    "historical site"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

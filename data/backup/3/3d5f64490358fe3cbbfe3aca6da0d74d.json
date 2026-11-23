@@ -3,7 +3,7 @@
   "objectID": "3d5f64490358fe3cbbfe3aca6da0d74d",
   "ref": "arundel-castle-and-arundel-park-walking-route",
   "title": "Arundel Castle and Arundel Park Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ArundelCastleWall.jpg/512px-ArundelCastleWall.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ArundelCastleWall.jpg/500px-ArundelCastleWall.jpg",
   "nearby": [
     {
       "description": "Arundel Circular River Walk",
@@ -53,7 +53,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ArundelCastleWall.jpg/512px-ArundelCastleWall.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ArundelCastleWall.jpg/500px-ArundelCastleWall.jpg",
       "title": "The original uploader was T-rex at English Wikipedia. [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons",
       "caption": "Arundel Castle Wall"
     },
@@ -63,7 +63,7 @@
       "caption": "Arundel Park. Looking North from Mill Hanger to the park"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hiorns_Tower%2C_Arundel_Park_%28geograph_4042908%29.jpg/512px-Hiorns_Tower%2C_Arundel_Park_%28geograph_4042908%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hiorns_Tower%2C_Arundel_Park_%28geograph_4042908%29.jpg/500px-Hiorns_Tower%2C_Arundel_Park_%28geograph_4042908%29.jpg",
       "title": "Marathon / Hiorn's Tower, Arundel Park",
       "caption": "Hiorns Tower, Arundel Park"
     },
@@ -121,21 +121,18 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
+    "parkland",
     "woodland",
-    "grassland",
-    "river"
+    "grassland"
   ],
   "points_of_interest": [
     "historical site",
     "wildfowl reserve",
-    "lake",
-    "estate"
+    "ancient lake"
   ],
   "facilities": [
-    "visitor center",
-    "car park",
     "pub/cafe",
     "dog friendly"
   ],

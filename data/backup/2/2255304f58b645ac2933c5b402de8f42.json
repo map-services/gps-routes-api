@@ -3,7 +3,7 @@
   "objectID": "2255304f58b645ac2933c5b402de8f42",
   "ref": "dales-high-way-walking-route",
   "title": "Dales High Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Saltaire_Flickr_24_July_2021.jpg/512px-Saltaire_Flickr_24_July_2021.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Saltaire_Flickr_24_July_2021.jpg/500px-Saltaire_Flickr_24_July_2021.jpg",
   "nearby": [
     {
       "description": "Saltaire",
@@ -113,12 +113,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Saltaire_Flickr_24_July_2021.jpg/512px-Saltaire_Flickr_24_July_2021.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Saltaire_Flickr_24_July_2021.jpg/500px-Saltaire_Flickr_24_July_2021.jpg",
       "title": "Tim Green, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Saltaire"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ilkley_Moor_%284987677506%29.jpg/512px-Ilkley_Moor_%284987677506%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ilkley_Moor_%284987677506%29.jpg/500px-Ilkley_Moor_%284987677506%29.jpg",
       "title": "Tim Green from Bradford, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "caption": "Ilkley Moor"
     },
@@ -128,17 +128,17 @@
       "caption": "Skipton Castle living quarters"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Malham_Beck_at_Malham_-_geograph.org.uk_-_2938026.jpg/512px-Malham_Beck_at_Malham_-_geograph.org.uk_-_2938026.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Malham_Beck_at_Malham_-_geograph.org.uk_-_2938026.jpg/500px-Malham_Beck_at_Malham_-_geograph.org.uk_-_2938026.jpg",
       "title": "Malham Beck at Malham by Bill Boaden, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Malham Beck at Malham"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_River_Ribble_at_Settle_-_geograph.org.uk_-_3552124.jpg/512px-The_River_Ribble_at_Settle_-_geograph.org.uk_-_3552124.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_River_Ribble_at_Settle_-_geograph.org.uk_-_3552124.jpg/500px-The_River_Ribble_at_Settle_-_geograph.org.uk_-_3552124.jpg",
       "title": "The River Ribble at Settle by Ian Greig, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The River Ribble at Settle"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingleborough_%2851234462308%29.jpg/512px-Ingleborough_%2851234462308%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingleborough_%2851234462308%29.jpg/500px-Ingleborough_%2851234462308%29.jpg",
       "title": "Alex Liivet from Chester, United Kingdom, CC0, via Wikimedia Commons",
       "caption": "Ingleborough"
     },
@@ -176,27 +176,28 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2 days",
+  "estimated_duration": "multiple days",
   "difficulty": "hard",
   "terrain": [
-    "moorland",
+    "moor",
     "woodland",
+    "waterside",
     "mountain",
-    "riverside"
+    "limestone pavement"
   ],
   "points_of_interest": [
-    "historical site",
-    "waterfall",
-    "mountain",
+    "castle",
     "reservoir",
-    "estate"
+    "tarn estate",
+    "cove",
+    "waterfall",
+    "mountain"
   ],
   "facilities": [
-    "car park",
-    "visitor center",
+    "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "one-way",
   "activities": [
     "walking"
   ]

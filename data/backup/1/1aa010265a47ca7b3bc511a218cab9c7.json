@@ -3,7 +3,7 @@
   "objectID": "1aa010265a47ca7b3bc511a218cab9c7",
   "ref": "haughley-park-walking-route",
   "title": "Haughley Park Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg/512px-Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg/500px-Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1aa010265a47ca7b3bc511a218cab9c7.gpx",
   "_geoloc": {
     "lat": 52.2180235723,
@@ -11,12 +11,12 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg/512px-Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg/500px-Haughley_Hall%2C_Suffolk%2C_with_glass_sculpture_%28geograph_2580612%29.jpg",
       "title": "John Goldsmith / Haughley Hall, with glass sculpture",
       "caption": "Haughley Hall, Suffolk, with glass sculpture"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrow_lake_in_Haughley_Park_-_geograph.org.uk_-_2580639.jpg/512px-Narrow_lake_in_Haughley_Park_-_geograph.org.uk_-_2580639.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrow_lake_in_Haughley_Park_-_geograph.org.uk_-_2580639.jpg/500px-Narrow_lake_in_Haughley_Park_-_geograph.org.uk_-_2580639.jpg",
       "title": "Narrow lake in Haughley Park by John Goldsmith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Narrow lake in Haughley Park"
     },
@@ -26,7 +26,7 @@
       "caption": "Field opposite Loke Farm. This field borders the A14 and the woodland is part of Haughley Park."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Old_Street%2C_Haughley_-_geograph.org.uk_-_4430914.jpg/512px-Old_Street%2C_Haughley_-_geograph.org.uk_-_4430914.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Old_Street%2C_Haughley_-_geograph.org.uk_-_4430914.jpg/500px-Old_Street%2C_Haughley_-_geograph.org.uk_-_4430914.jpg",
       "title": "Old Street, Haughley by Geographer, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Old Street, Haughley"
     },
@@ -70,19 +70,21 @@
   "district": "Mid Suffolk",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "estimated_duration": "less than 1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
+    "historical site",
+    "country house",
     "church",
-    "farm",
+    "moated farm",
     "castle"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

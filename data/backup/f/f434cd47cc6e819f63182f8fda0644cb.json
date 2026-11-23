@@ -3,7 +3,7 @@
   "objectID": "f434cd47cc6e819f63182f8fda0644cb",
   "ref": "bosley-locks-walking-route",
   "title": "Bosley Locks Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dane_Aqueduct.jpg/512px-Dane_Aqueduct.jpg",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dane_Aqueduct.jpg/500px-Dane_Aqueduct.jpg",
   "nearby": [
     {
       "description": "Macclesfield Canal",
@@ -43,7 +43,7 @@
   },
   "images": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dane_Aqueduct.jpg/512px-Dane_Aqueduct.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dane_Aqueduct.jpg/500px-Dane_Aqueduct.jpg",
       "title": "Anthony Parkes / Aqueduct through the trees",
       "caption": "Photograph of the Dane Aqueduct, carrying the Macclesfield Canal over the River Dane, Bosley"
     },
@@ -92,20 +92,18 @@
   "display_address": "Macclesfield Road, Bosley, Cheshire East, England, SK11 0PJ, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
   "terrain": [
-    "canal",
-    "river",
+    "waterside",
     "footpath"
   ],
   "points_of_interest": [
-    "canal locks",
-    "countryside views"
+    "lock",
+    "canal",
+    "river"
   ],
-  "facilities": [
-    "car park"
-  ],
+  "facilities": [],
   "route_type": "circular",
   "activities": [
     "walking"
