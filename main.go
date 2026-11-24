@@ -37,12 +37,12 @@ func main() {
 	// Watch for LOG_LEVEL env var and adjust dynamically.
 	logLevelVar.Set(logging.ParseLogLevel(os.Getenv("LOG_LEVEL")))
 
-	var rootCmd = &cobra.Command{
+	rootCmd := &cobra.Command{
 		Use:  "gps-routes",
-		Long: `HTTP server, DB migration and data import/export`,
+		Long: `HTTP server, MCP server, DB migration and data import/export`,
 	}
 
-	var importCmd = &cobra.Command{
+	importCmd := &cobra.Command{
 		Use:   "import [path]",
 		Short: "Import JSON route data from specified path into SQLite",
 		Long:  "Imports route metadata from JSON backup files at path into the SQLite database at SQLITE_DB_PATH (default data/routes.db).\nThe schema is (re)created from db/migrations/00002_sqlite_schema.sql before import. Import only writes rows; bbox + haversine queries work via the built-in R*Tree + haversine_distance function (no Spatialite required).",
@@ -53,7 +53,7 @@ func main() {
 		},
 	}
 
-	var apiServerCmd = &cobra.Command{
+	apiServerCmd := &cobra.Command{
 		Use:   "api-server [port]",
 		Short: "Start HTTP API server",
 		Args:  cobra.ExactArgs(1),
@@ -67,7 +67,21 @@ func main() {
 		},
 	}
 
-	var sitemapCmd = &cobra.Command{
+	mcpServerCmd := &cobra.Command{
+		Use:   "mcp-server [port]",
+		Short: "Start SSE MCP server",
+		Args:  cobra.ExactArgs(1),
+		RunE: func(cmd *cobra.Command, args []string) error {
+			port, err := strconv.Atoi(args[0])
+			if err != nil {
+				return fmt.Errorf("invalid port number: %v", err)
+			}
+			cmds.NewSseMcpServer(port)
+			return nil
+		},
+	}
+
+	sitemapCmd := &cobra.Command{
 		Use:   "sitemap [base_host_url]",
 		Short: "Generate sitemap.xml",
 		Args:  cobra.ExactArgs(1),
@@ -76,7 +90,7 @@ func main() {
 		},
 	}
 
-	var versionCmd = &cobra.Command{
+	versionCmd := &cobra.Command{
 		Use:   "version",
 		Short: "Show version",
 		Run: func(cmd *cobra.Command, args []string) {
@@ -87,6 +101,7 @@ func main() {
 	rootCmd.AddCommand(importCmd)
 	importCmd.Flags().Bool("overwrite", false, "Delete the SQLite database file before importing, starting fresh")
 	rootCmd.AddCommand(apiServerCmd)
+	rootCmd.AddCommand(mcpServerCmd)
 	rootCmd.AddCommand(sitemapCmd)
 	rootCmd.AddCommand(versionCmd)
 
