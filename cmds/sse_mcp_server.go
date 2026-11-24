@@ -9,6 +9,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"os"
 	"strings"
 
 	"github.com/earthboundkid/versioninfo/v2"
@@ -65,7 +66,7 @@ func NewSseMcpServer(port int) {
 	s.AddTool(gpsRoutesTool, gpsRoutesHandler)
 
 	log.Printf("Starting MCP SSE Server on port %d...", port)
-	err := server.NewSSEServer(s).Start(fmt.Sprintf(":%d", port))
+	err := server.NewSSEServer(s, server.WithSSEEndpoint("/mcp")).Start(fmt.Sprintf(":%d", port))
 	log.Fatalf("MCP SSE Server failed to start on port %d: %v", port, err)
 }
 
@@ -97,7 +98,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 		return nil, fmt.Errorf("error marshalling payload to JSON: %w", err)
 	}
 
-	baseUrl := "https://api.destructuring-bind.org/v1/gps-routes" // TODO: use env var
+	baseUrl := "https://api.hz-nbg1.destructuring-bind.org/v1/gps-routes" // TODO: use env var
 	req, err := http.NewRequestWithContext(ctx, "POST", baseUrl+"/search", bytes.NewReader(payloadBytes))
 	if err != nil {
 		return nil, fmt.Errorf("error creating request: %w", err)
@@ -107,6 +108,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 	req.Header.Add("Accept", "application/json")
 	req.Header.Add("User-Agent", "MCP-GPS-Routes-API")
 	req.Header.Add("Accept-Language", "en-GB,en;q=0.9,en-US;q=0.8")
+	req.Header.Add("X-API-Key", os.Getenv("GPS_ROUTES_API_KEY"))
 
 	log.Printf("Making request to %s", req.URL.String())
 	client := &http.Client{}
@@ -143,6 +145,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 			},
 		},
 	})
+	log.Printf("Found %d matching hits", len(searchResults.Hits))
 	for idx, hit := range searchResults.Hits {
 		// bytes, err := json.Marshal(hit)
 		// if err != nil {
@@ -155,11 +158,11 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 		})
 
 		if hit.HeadlineImageUrl != nil {
-			log.Printf("Fetching image from %s", *hit.HeadlineImageUrl)
 			contentType, imageBytes, err := fetchImage(*hit.HeadlineImageUrl)
 			if err != nil {
 				return nil, fmt.Errorf("error fetching image: %w", err)
 			}
+			log.Printf("Fetched image from %s (content-type=%s, size=%d)", *hit.HeadlineImageUrl, *contentType, len(imageBytes))
 			content = append(content, mcp.ImageContent{
 				Type:     "image",
 				Data:     base64.StdEncoding.EncodeToString(imageBytes),
@@ -187,6 +190,8 @@ func fetchImage(uri string) (*string, []byte, error) {
 	if err != nil {
 		return nil, nil, fmt.Errorf("error creating request: %w", err)
 	}
+	req.Header.Add("Accept", "image/*")
+	req.Header.Add("User-Agent", "MCP-GPS-Routes-API")
 
 	client := &http.Client{}
 	resp, err := client.Do(req)
@@ -199,6 +204,10 @@ func fetchImage(uri string) (*string, []byte, error) {
 		}
 	}()
 
+	if resp.StatusCode != http.StatusOK {
+		return nil, nil, fmt.Errorf("unexpected HTTP status %s", resp.Status)
+	}
+
 	contentType := resp.Header.Get("Content-Type")
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
@@ -210,7 +219,7 @@ func fetchImage(uri string) (*string, []byte, error) {
 
 func refDataHandler(ctx context.Context, request mcp.ReadResourceRequest) ([]mcp.ResourceContents, error) {
 
-	baseUrl := "http://localhost:8080/v1/gps-routes" // TODO: use env var
+	baseUrl := "https://api.hz-nbg1.destructuring-bind.org/v1/gps-routes" // TODO: use env var
 	req, err := http.NewRequestWithContext(ctx, "GET", baseUrl+"/ref-data", nil)
 	if err != nil {
 		return nil, fmt.Errorf("error creating request: %w", err)
@@ -219,6 +228,7 @@ func refDataHandler(ctx context.Context, request mcp.ReadResourceRequest) ([]mcp
 	req.Header.Add("Accept", "application/json")
 	req.Header.Add("User-Agent", "MCP-GPS-Routes-API")
 	req.Header.Add("Accept-Language", "en-GB,en;q=0.9,en-US;q=0.8")
+	req.Header.Add("X-API-Key", os.Getenv("GPS_ROUTES_API_KEY"))
 
 	log.Printf("Making request to %s", req.URL.String())
 	client := &http.Client{}
